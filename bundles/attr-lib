@@ -1,0 +1,9 @@
+# [TITLE]: attr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(attr-license)
+include(libc6)
+attr-lib

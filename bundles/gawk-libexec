@@ -1,0 +1,9 @@
+# [TITLE]: gawk-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(gawk-license)
+gawk-libexec

@@ -1,0 +1,9 @@
+# [TITLE]: zstd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(zstd-license)
+zstd-lib

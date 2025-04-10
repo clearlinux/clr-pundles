@@ -1,0 +1,10 @@
+# [TITLE]: bash-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(ncurses-lib)
+include(bash-license)
+bash-bin

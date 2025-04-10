@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-libvorbis
+# [DESCRIPTION]: All content for pkgconfig file libvorbis.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libvorbis-dev

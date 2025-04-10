@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-libxfce4ui
+# [DESCRIPTION]: All content for pkgconfig file libxfce4ui.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libxfce4ui-dev
+include(libX11client)
+include(libglib)
+include(lib-opengl)

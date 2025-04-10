@@ -1,0 +1,8 @@
+# [TITLE]: Linux-PAM-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(filesystem)
+Linux-PAM-data

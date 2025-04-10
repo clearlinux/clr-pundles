@@ -1,0 +1,8 @@
+# [TITLE]: ca-certs-static
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(filesystem)
+ca-certs-static

@@ -1,0 +1,9 @@
+# [TITLE]: minetestserver
+# [DESCRIPTION]: A headless game server for minetest.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Games
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(luantiserver)
+include(minetest)

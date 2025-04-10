@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-telepathy-glib
+# [DESCRIPTION]: All content for pkgconfig file telepathy-glib.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+telepathy-glib-dev
+include(libglib)

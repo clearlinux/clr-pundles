@@ -1,0 +1,9 @@
+# [TITLE]: glibc-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(filesystem)
+glibc-utils

@@ -1,0 +1,11 @@
+# [TITLE]: readline-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(readline-data)
+include(libc6)
+include(ncurses-lib)
+include(readline-license)
+readline-lib

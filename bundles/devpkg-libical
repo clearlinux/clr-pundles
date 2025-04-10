@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-libical
+# [DESCRIPTION]: All content for pkgconfig file libical.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libical-dev
+include(libglib)
+include(libstdcpp)
+include(icu4c-lib)

@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-libXxf86dga
+# [DESCRIPTION]: All content for pkgconfig file libXxf86dga.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libXxf86dga-dev
+include(libX11client)

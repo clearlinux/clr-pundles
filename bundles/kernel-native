@@ -1,0 +1,21 @@
+# [TITLE]: kernel-native
+# [DESCRIPTION]: Run the native kernel.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools, Kernel
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(hardware-uefi)
+
+console-autostart
+include(bootloader)
+include(linux-firmware)
+also-add(linux-firmware-extras)
+also-add(qemu-guest-additions)
+include(os-core-plus)
+
+init-rdahead-extras
+irqbalance
+mcelog
+
+# kernel package
+linux

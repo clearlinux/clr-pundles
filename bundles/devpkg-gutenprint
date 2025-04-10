@@ -1,0 +1,15 @@
+# [TITLE]: devpkg-gutenprint
+# [DESCRIPTION]: All content for pkgconfig file gutenprint.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+gutenprint-dev
+include(libglib)
+include(libX11client)
+include(gegl)
+include(dav1d-lib)
+include(not-ffmpeg-lib)

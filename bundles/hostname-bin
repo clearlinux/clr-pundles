@@ -1,0 +1,9 @@
+# [TITLE]: hostname-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(hostname-license)
+include(libc6)
+hostname-bin

@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-SPIRV-Headers
+# [DESCRIPTION]: All content for pkgconfig file SPIRV-Headers.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+SPIRV-Headers-dev

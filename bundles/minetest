@@ -1,0 +1,12 @@
+# [TITLE]: minetest
+# [DESCRIPTION]: A Voxel multi-player game inspired by minecraft.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Games
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(luanti)
+include(lib-opengl)
+
+# The actual game data
+minetest_game

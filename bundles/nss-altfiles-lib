@@ -1,0 +1,9 @@
+# [TITLE]: nss-altfiles-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(nss-altfiles-license)
+include(libc6)
+nss-altfiles-lib

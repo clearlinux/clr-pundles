@@ -1,0 +1,24 @@
+# [TITLE]: quassel
+# [DESCRIPTION]: Next-generation distributed IRC client.
+# [STATUS]: Active
+# [CAPABILITIES]: Quassel IRC client
+# [TAGS]: Productivity
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(not-ffmpeg-lib)
+include(lib-openssl)
+include(libssh-lib)
+include(numactl)
+include(aspell)
+include(libevent-lib)
+include(dav1d-lib)
+quassel-extras
+# end of custom additions
+
+# main package
+quassel

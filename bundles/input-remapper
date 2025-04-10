@@ -1,0 +1,24 @@
+# [TITLE]: input-remapper
+# [DESCRIPTION]: No detailed summary available
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(python3-basic)
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(libxml2)
+include(nettle-lib)
+include(lib-imageformat)
+include(icu4c-lib)
+include(harfbuzz-lib)
+include(libX11client)
+include(gdk-pixbuf)
+include(libglib)
+include(gobject-introspection)
+
+# end of custom additions
+
+# main package
+input-remapper

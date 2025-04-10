@@ -1,0 +1,28 @@
+# [TITLE]: python3-basic
+# [DESCRIPTION]: Run Python 3 language programs.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Programming Languages, Developer Tools
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(p11-kit)
+include(libstdcpp)
+include(sqlite)
+
+buildreq-distutils3
+
+glibc-lib-avx2
+pypi-cffi
+pypi-isort
+pypi-pip
+pypi-pycodestyle
+pypi-setuptools
+pypi-virtualenv
+python3-core
+python3-dev
+swupd-search
+
+# include(libX11client)
+# include(libglib)
+# include(harfbuzz-lib)
+# include(icu4c-lib)
+# include(lib-imageformat)

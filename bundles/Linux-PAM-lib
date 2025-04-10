@@ -1,0 +1,13 @@
+# [TITLE]: Linux-PAM-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libxcrypt-lib)
+include(Linux-PAM-data)
+include(systemd-extras-libsystemd)
+include(libeconf-lib)
+include(Linux-PAM-license)
+include(libc6)
+Linux-PAM-lib

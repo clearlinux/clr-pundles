@@ -1,0 +1,9 @@
+# [TITLE]: coreutils-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(coreutils-license)
+coreutils-libexec

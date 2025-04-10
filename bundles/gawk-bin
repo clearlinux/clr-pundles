@@ -1,0 +1,13 @@
+# [TITLE]: gawk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(gawk-data)
+include(gawk-license)
+include(gawk-libexec)
+include(libc6)
+include(filesystem)
+include(readline-lib)
+gawk-bin

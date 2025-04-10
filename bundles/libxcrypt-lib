@@ -1,0 +1,9 @@
+# [TITLE]: libxcrypt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(libxcrypt-license)
+libxcrypt-lib

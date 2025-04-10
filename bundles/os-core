@@ -1,0 +1,19 @@
+# [TITLE]: os-core
+# [DESCRIPTION]: Run a minimal Linux userspace.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(bash-bin)
+include(ca-certs-static)
+include(coreutils-bin)
+include(dist-pam-configs)
+include(filesystem)
+include(gawk-bin)
+include(glibc-utils)
+include(grep-bin)
+include(hostname-bin)
+include(sed-bin)
+include(shadow-bin)
+include(shadow-data)
+include(tzdata-minimal)

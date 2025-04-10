@@ -1,0 +1,14 @@
+# [TITLE]: devpkg-qtvirtualkeyboard
+# [DESCRIPTION]: All content for pkgconfig file qtvirtualkeyboard.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+qtvirtualkeyboard-dev
+include(qt-core)
+include(qt-basic)
+include(libX11client)
+include(libstdcpp)

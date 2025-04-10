@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-libva
+# [DESCRIPTION]: All content for pkgconfig file libva.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libva-dev
+include(lib-opengl)
+include(libX11client)

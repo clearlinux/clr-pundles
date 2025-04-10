@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-gtk3
+# [DESCRIPTION]: All content for pkgconfig file gtk3.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+gtk3-dev
+include(libX11client)
+include(libglib)
+include(lib-opengl)

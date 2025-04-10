@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-waffle
+# [DESCRIPTION]: All content for pkgconfig file waffle.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+waffle-dev
+include(libX11client)
+include(lib-opengl)

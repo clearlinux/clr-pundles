@@ -1,0 +1,11 @@
+# [TITLE]: grep-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(pcre2-lib)
+include(filesystem)
+include(grep-license)
+grep-bin

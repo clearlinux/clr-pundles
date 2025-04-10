@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-libxkbfile
+# [DESCRIPTION]: All content for pkgconfig file libxkbfile.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libxkbfile-dev
+include(libX11client)

@@ -1,0 +1,10 @@
+# [TITLE]: libc6
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(filesystem)
+include(nss-altfiles-lib)
+include(clr-systemd-config-data)
+libc6

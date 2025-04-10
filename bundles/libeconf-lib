@@ -1,0 +1,9 @@
+# [TITLE]: libeconf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(libeconf-license)
+libeconf-lib

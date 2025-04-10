@@ -1,0 +1,15 @@
+# [TITLE]: shadow-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libxcrypt-lib)
+include(shadow-license)
+include(Linux-PAM-lib)
+include(acl-lib)
+include(shadow-lib)
+include(attr-lib)
+include(libc6)
+include(shadow-data)
+shadow-bin

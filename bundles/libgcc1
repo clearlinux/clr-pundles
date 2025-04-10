@@ -1,0 +1,9 @@
+# [TITLE]: libgcc1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]: pundle
+# [MAINTAINER]:
+include(libc6)
+include(filesystem)
+libgcc1
