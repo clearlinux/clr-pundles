@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(nss-altfiles-license)
 include(libc6)
+include(nss-altfiles-license)
 nss-altfiles-lib

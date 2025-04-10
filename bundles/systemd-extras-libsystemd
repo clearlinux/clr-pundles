@@ -4,9 +4,9 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
+include(libc6)
+include(libcap-lib)
 include(libgcc1)
 include(libgcrypt-lib)
 include(zstd-lib)
-include(libcap-lib)
-include(libc6)
 systemd-extras-libsystemd

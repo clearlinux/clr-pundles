@@ -5,6 +5,6 @@
 # [TAGS]: pundle
 # [MAINTAINER]:
 include(clr-systemd-config-data)
-include(nss-altfiles-lib)
 include(filesystem)
+include(nss-altfiles-lib)
 libc6

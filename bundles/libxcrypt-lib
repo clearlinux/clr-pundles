@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(libxcrypt-license)
 include(libc6)
+include(libxcrypt-license)
 libxcrypt-lib

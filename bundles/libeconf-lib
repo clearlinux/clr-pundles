@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(libeconf-license)
 include(libc6)
+include(libeconf-license)
 libeconf-lib

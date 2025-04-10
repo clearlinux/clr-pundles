@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(sed-license)
-include(libc6)
 include(acl-lib)
+include(libc6)
+include(sed-license)
 sed-bin

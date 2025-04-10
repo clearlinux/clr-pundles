@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
+include(Linux-PAM-lib)
 include(libc6)
 include(libcap-license)
-include(Linux-PAM-lib)
 libcap-lib

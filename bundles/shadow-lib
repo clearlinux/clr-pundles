@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(shadow-license)
-include(shadow-data)
 include(libc6)
+include(shadow-data)
+include(shadow-license)
 shadow-lib

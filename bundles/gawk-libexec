@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(libc6)
 include(gawk-license)
+include(libc6)
 gawk-libexec

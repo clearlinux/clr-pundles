@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(coreutils-license)
 include(acl-lib)
-include(gmp-lib)
-include(libcap-lib)
 include(attr-lib)
 include(coreutils-libexec)
+include(coreutils-license)
+include(gmp-lib)
 include(libc6)
+include(libcap-lib)
 coreutils-bin

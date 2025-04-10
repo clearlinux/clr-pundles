@@ -4,8 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(readline-license)
-include(readline-data)
 include(libc6)
 include(ncurses-lib)
+include(readline-data)
+include(readline-license)
 readline-lib

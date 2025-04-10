@@ -4,10 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(gawk-data)
 include(filesystem)
+include(gawk-data)
 include(gawk-libexec)
-include(libc6)
 include(gawk-license)
+include(libc6)
 include(readline-lib)
 gawk-bin
