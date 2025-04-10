@@ -4,10 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(libxcrypt-lib)
-include(Linux-PAM-data)
 include(systemd-extras-libsystemd)
-include(libeconf-lib)
 include(Linux-PAM-license)
+include(libeconf-lib)
+include(Linux-PAM-data)
+include(libxcrypt-lib)
 include(libc6)
 Linux-PAM-lib

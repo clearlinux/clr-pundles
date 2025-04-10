@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
+include(bash-license)
 include(libc6)
 include(ncurses-lib)
-include(bash-license)
 bash-bin

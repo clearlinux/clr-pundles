@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
+include(libgpg-error-lib)
 include(libc6)
 include(libgcrypt-license)
-include(libgpg-error-lib)
 libgcrypt-lib

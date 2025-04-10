@@ -4,8 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(libc6)
 include(pcre2-lib)
-include(filesystem)
 include(grep-license)
+include(libc6)
+include(filesystem)
 grep-bin

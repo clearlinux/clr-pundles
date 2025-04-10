@@ -5,8 +5,8 @@
 # [TAGS]: pundle
 # [MAINTAINER]:
 include(libgcc1)
-include(libcap-lib)
 include(libgcrypt-lib)
-include(libc6)
 include(zstd-lib)
+include(libcap-lib)
+include(libc6)
 systemd-extras-libsystemd

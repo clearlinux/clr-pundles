@@ -4,12 +4,12 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(libxcrypt-lib)
-include(shadow-license)
-include(Linux-PAM-lib)
 include(acl-lib)
-include(shadow-lib)
+include(libxcrypt-lib)
 include(attr-lib)
+include(Linux-PAM-lib)
 include(libc6)
+include(shadow-license)
 include(shadow-data)
+include(shadow-lib)
 shadow-bin

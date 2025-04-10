@@ -5,6 +5,6 @@
 # [TAGS]: pundle
 # [MAINTAINER]:
 include(shadow-license)
-include(libc6)
 include(shadow-data)
+include(libc6)
 shadow-lib

@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(libc6)
 include(acl-license)
+include(libc6)
 acl-lib

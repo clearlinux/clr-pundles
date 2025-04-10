@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: pundle
 # [MAINTAINER]:
-include(attr-license)
 include(libc6)
+include(attr-license)
 attr-lib
