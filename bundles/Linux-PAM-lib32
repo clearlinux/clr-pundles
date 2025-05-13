@@ -1,0 +1,13 @@
+# [TITLE]: Linux-PAM-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-data)
+include(Linux-PAM-license)
+include(glibc-libc32)
+include(libeconf-lib32)
+include(libxcrypt-lib32)
+include(systemd-lib32)
+Linux-PAM-lib32

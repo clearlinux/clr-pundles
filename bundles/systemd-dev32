@@ -1,0 +1,12 @@
+# [TITLE]: systemd-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(systemd-bin)
+include(systemd-data)
+include(systemd-dev)
+include(systemd-lib32)
+systemd-dev32

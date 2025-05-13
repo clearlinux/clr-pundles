@@ -1,0 +1,10 @@
+# [TITLE]: rpcsvc-proto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rpcsvc-proto-bin)
+include(rpcsvc-proto-license)
+include(rpcsvc-proto-man)
+rpcsvc-proto

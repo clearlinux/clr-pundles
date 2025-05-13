@@ -16,4 +16,4 @@ include(sudo)
 
 bats
 expect
-glibc-bin
+include(glibc-bin)

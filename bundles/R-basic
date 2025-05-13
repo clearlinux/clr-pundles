@@ -16,8 +16,8 @@ include(tcl-basic)
 #
 # Required for performance reasons
 #
-glibc-lib-avx2
-gcc-libs-math
+include(glibc-lib-avx2)
+include(gcc-libs-math)
 
 # runtime deps (plotting, help navigation, etc)
 clear-font

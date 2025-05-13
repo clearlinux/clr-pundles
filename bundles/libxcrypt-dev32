@@ -1,0 +1,10 @@
+# [TITLE]: libxcrypt-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxcrypt-dev)
+include(libxcrypt-lib32)
+include(pkg-config-bin)
+libxcrypt-dev32

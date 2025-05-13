@@ -1,0 +1,9 @@
+# [TITLE]: libtasn1-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtasn1-license)
+libtasn1-lib

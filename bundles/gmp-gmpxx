@@ -1,0 +1,11 @@
+# [TITLE]: gmp-gmpxx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+gmp-gmpxx

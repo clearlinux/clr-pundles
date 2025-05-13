@@ -1,0 +1,15 @@
+# [TITLE]: clr-systemd-config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-elf-replace)
+include(clr-systemd-config-autostart)
+include(clr-systemd-config-config)
+include(clr-systemd-config-data)
+include(clr-systemd-config-libexec)
+include(clr-systemd-config-license)
+include(clr-systemd-config-services)
+include(filesystem)
+clr-systemd-config

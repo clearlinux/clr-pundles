@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libcap-dev
+include(libcap-dev)

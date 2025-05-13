@@ -1,0 +1,11 @@
+# [TITLE]: libeconf-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libeconf-bin)
+include(libeconf-dev)
+include(libeconf-lib32)
+include(pkg-config-bin)
+libeconf-dev32

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-ncurses-dev
+include(ncurses-dev)
 include(ncurses-lib)

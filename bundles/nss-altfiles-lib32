@@ -1,0 +1,9 @@
+# [TITLE]: nss-altfiles-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(nss-altfiles-license)
+nss-altfiles-lib32

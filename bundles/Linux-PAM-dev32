@@ -1,0 +1,12 @@
+# [TITLE]: Linux-PAM-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-bin)
+include(Linux-PAM-data)
+include(Linux-PAM-dev)
+include(Linux-PAM-lib32)
+include(pkg-config-bin)
+Linux-PAM-dev32

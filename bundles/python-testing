@@ -11,7 +11,7 @@ include(Sphinx)
 #
 # For the test suites
 #
-glibc-bin
+include(glibc-bin)
 
 #
 linecache2

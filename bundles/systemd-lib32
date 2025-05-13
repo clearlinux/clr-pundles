@@ -1,0 +1,18 @@
+# [TITLE]: systemd-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib32)
+include(acl-lib32)
+include(gcc-libgcc32)
+include(glibc-libc32)
+include(kmod-lib32)
+include(libcap-lib32)
+include(libseccomp-lib32)
+include(libxcrypt-lib32)
+include(systemd-data)
+include(systemd-license)
+include(util-linux-lib32)
+systemd-lib32

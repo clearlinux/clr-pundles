@@ -1,0 +1,12 @@
+# [TITLE]: grep
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grep-bin)
+include(grep-info)
+include(grep-license)
+include(grep-locales)
+include(grep-man)
+grep

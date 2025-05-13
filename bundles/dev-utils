@@ -11,7 +11,7 @@ include(perl-basic)
 include(python3-basic)
 include(curl)
 asciidoc
-attr
+include(attr)
 bash-completion
 bats
 include(bc)
@@ -35,7 +35,7 @@ hub
 include(icdiff)
 include(inotify-tools)
 lcov
-glibc-bin
+include(glibc-bin)
 include(linux-tools)
 include(llvm)
 include(devpkg-llvm)

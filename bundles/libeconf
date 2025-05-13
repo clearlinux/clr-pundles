@@ -1,0 +1,11 @@
+# [TITLE]: libeconf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libeconf-bin)
+include(libeconf-lib)
+include(libeconf-license)
+include(libeconf-man)
+libeconf

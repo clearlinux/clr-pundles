@@ -1,0 +1,8 @@
+# [TITLE]: readline-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(readline-dev)
+readline-staticdev32

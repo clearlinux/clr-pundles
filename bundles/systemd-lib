@@ -1,0 +1,24 @@
+# [TITLE]: systemd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(acl-lib)
+include(audit-lib)
+include(cryptsetup-lib)
+include(kmod-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libgcrypt-lib)
+include(libseccomp-lib)
+include(libxcrypt-lib)
+include(openssl-lib)
+include(systemd-data)
+include(systemd-extras-libsystemd)
+include(systemd-license)
+include(util-linux-lib)
+include(zstd-lib)
+systemd-lib

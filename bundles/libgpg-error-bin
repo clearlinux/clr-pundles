@@ -1,0 +1,12 @@
+# [TITLE]: libgpg-error-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgpg-error-data)
+include(libgpg-error-lib)
+include(libgpg-error-license)
+libgpg-error-bin

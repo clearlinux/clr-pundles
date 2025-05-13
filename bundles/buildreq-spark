@@ -28,7 +28,7 @@ R-testthat
 R-xfun
 R-yaml
 cmake
-gcc
-gcc-dev
+include(gcc)
+include(gcc-dev)
 include(openblas)
 buildreq-distutils3

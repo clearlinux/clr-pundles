@@ -1,0 +1,13 @@
+# [TITLE]: coreutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(coreutils-info)
+include(coreutils-libexec)
+include(coreutils-license)
+include(coreutils-locales)
+include(coreutils-man)
+coreutils

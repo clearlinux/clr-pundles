@@ -1,0 +1,9 @@
+# [TITLE]: libseccomp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libseccomp-license)
+libseccomp-lib

@@ -1,0 +1,8 @@
+# [TITLE]: libcap-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcap-dev)
+libcap-staticdev32

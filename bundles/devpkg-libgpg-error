@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libgpg-error-dev
+include(libgpg-error-dev)

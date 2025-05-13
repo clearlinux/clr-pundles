@@ -151,7 +151,7 @@ sddm-autostart
 sddm-kcm
 solid
 sonnet
-systemd-extras
+include(systemd-extras)
 systemsettings
 udisks2
 upower

@@ -1,0 +1,12 @@
+# [TITLE]: bash
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-bin)
+include(bash-info)
+include(bash-license)
+include(bash-locales)
+include(bash-man)
+bash

@@ -1,0 +1,13 @@
+# [TITLE]: systemd-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(gnutls-lib)
+include(libc6)
+include(libgcc1)
+include(libmicrohttpd-lib)
+include(systemd-lib)
+systemd-extras

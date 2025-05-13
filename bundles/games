@@ -38,7 +38,7 @@ compat-libpng-soname12-lib
 compat-libva-soname1-lib
 compat-libva-soname1-lib
 cups-lib
-curl-lib
+include(curl-lib)
 dbus-glib-lib
 dbus-lib
 dconf-lib
@@ -47,7 +47,7 @@ fontconfig-lib
 freetype-lib
 gdk-pixbuf-lib
 glib-lib
-glibc-libc32
+include(glibc-libc32)
 glu-lib
 gtk+-lib
 harfbuzz-lib
@@ -91,15 +91,15 @@ nspr
 nss-lib
 include(nss-altfiles-lib)
 openal-soft-lib
-openssl-lib
-p11-kit-lib
+include(openssl-lib)
+include(p11-kit-lib)
 pulseaudio-lib
 puzzles
 s2tc-lib
 s2tc-lib
-systemd-lib
+include(systemd-lib)
 xz-lib
-zlib-lib
+include(zlib-lib)
 
 # helpers for Steam + runtime
 include(libratbag)

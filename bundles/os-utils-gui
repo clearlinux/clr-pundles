@@ -68,7 +68,7 @@ powerline-fonts
 include(pulseaudio)
 pulseaudio-bin
 shared-mime-info
-systemd-extras
+include(systemd-extras)
 thunar-volman
 also-add(tigervnc)
 vim-data

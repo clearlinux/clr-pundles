@@ -1,0 +1,10 @@
+# [TITLE]: gmp-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgcc32)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+gmp-lib32

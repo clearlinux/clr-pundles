@@ -15,5 +15,5 @@ e2fsprogs
 glib-lib
 json-glib-lib
 parted-lib
-util-linux-lib
+include(util-linux-lib)
 yaml-lib

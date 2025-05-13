@@ -1,0 +1,10 @@
+# [TITLE]: attr-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attr-lib)
+include(attr-license)
+include(libc6)
+attr-bin

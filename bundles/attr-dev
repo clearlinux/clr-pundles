@@ -1,0 +1,11 @@
+# [TITLE]: attr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attr)
+include(attr-bin)
+include(attr-lib)
+include(pkg-config-bin)
+attr-dev

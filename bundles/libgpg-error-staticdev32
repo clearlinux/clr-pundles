@@ -1,0 +1,8 @@
+# [TITLE]: libgpg-error-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgpg-error-dev)
+libgpg-error-staticdev32

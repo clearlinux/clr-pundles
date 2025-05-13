@@ -1,0 +1,11 @@
+# [TITLE]: attr-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attr-bin)
+include(attr-dev)
+include(attr-lib32)
+include(pkg-config-bin)
+attr-dev32

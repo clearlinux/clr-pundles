@@ -1,0 +1,10 @@
+# [TITLE]: libgcrypt-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libgcrypt-license)
+include(libgpg-error-lib32)
+libgcrypt-lib32

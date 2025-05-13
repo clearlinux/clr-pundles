@@ -1,0 +1,11 @@
+# [TITLE]: libcap-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcap-bin)
+include(libcap-dev)
+include(libcap-lib32)
+include(pkg-config-bin)
+libcap-dev32

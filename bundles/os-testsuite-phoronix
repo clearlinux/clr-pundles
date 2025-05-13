@@ -63,8 +63,8 @@ also-add(flex)
 also-add(devpkg-freeglut)
 also-add(devpkg-gflags)
 also-add(gimp)
-glibc-staticdev
-glibc-lib-avx2
+include(glibc-staticdev)
+include(glibc-lib-avx2)
 also-add(devpkg-glog)
 also-add(devpkg-glu)
 include(devpkg-gmp)

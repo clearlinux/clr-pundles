@@ -1,0 +1,12 @@
+# [TITLE]: pcre2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcre2)
+include(pcre2-bin)
+include(pcre2-dev)
+include(pcre2-lib)
+include(pkg-config-bin)
+pcre2-dev

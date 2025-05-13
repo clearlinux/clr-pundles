@@ -6,10 +6,10 @@
 # [MAINTAINER]: Ong, Hze Horng <hze.horng.ong@intel.com
 include(os-testsuite)
 include(os-testsuite-graphics)
-coreutils
+include(coreutils)
 iputils
 iw
-libcap-bin
+include(libcap-bin)
 include(net-tools)
 psmisc
 usbutils

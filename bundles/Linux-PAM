@@ -1,0 +1,15 @@
+# [TITLE]: Linux-PAM
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-bin)
+include(Linux-PAM-data)
+include(Linux-PAM-lib)
+include(Linux-PAM-license)
+include(Linux-PAM-locales)
+include(Linux-PAM-services)
+include(Linux-PAM-setuid)
+include(passwdqc)
+Linux-PAM

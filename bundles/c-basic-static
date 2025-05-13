@@ -8,8 +8,8 @@
 
 include(c-basic)
 
-glibc-staticdev
+include(glibc-staticdev)
 zlib-staticdev
-zstd-staticdev
-gcc-staticdev
+include(zstd-staticdev)
+include(gcc-staticdev)
 include(lz4)

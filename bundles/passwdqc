@@ -1,0 +1,11 @@
+# [TITLE]: passwdqc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(passwdqc-bin)
+include(passwdqc-lib)
+include(passwdqc-license)
+include(passwdqc-man)
+passwdqc

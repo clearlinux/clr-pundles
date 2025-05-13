@@ -1,0 +1,11 @@
+# [TITLE]: gmp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-dev)
+include(gmp-gmpxx)
+include(gmp-lib)
+include(pkg-config-bin)
+gmp-dev

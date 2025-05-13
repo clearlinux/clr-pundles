@@ -1,0 +1,9 @@
+# [TITLE]: LVM2-extras-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(systemd-lib)
+LVM2-extras-lib

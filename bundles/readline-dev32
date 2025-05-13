@@ -1,0 +1,12 @@
+# [TITLE]: readline-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ncurses-dev)
+include(pkg-config-bin)
+include(readline-data)
+include(readline-dev)
+include(readline-lib32)
+readline-dev32

@@ -1,0 +1,11 @@
+# [TITLE]: gawk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gawk)
+include(gawk-bin)
+include(gawk-data)
+include(gawk-lib)
+gawk-dev

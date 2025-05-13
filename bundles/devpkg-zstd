@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-zstd-dev
+include(zstd-dev)
 include(zstd)

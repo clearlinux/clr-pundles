@@ -1,0 +1,8 @@
+# [TITLE]: gcc-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-dev)
+gcc-staticdev

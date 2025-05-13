@@ -1,0 +1,23 @@
+# [TITLE]: systemd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(coreutils-bin)
+include(cryptsetup-lib)
+include(kmod-lib)
+include(libc6)
+include(libgcc1)
+include(libgcrypt-lib)
+include(libgpg-error-lib)
+include(libseccomp-lib)
+include(openssl-lib)
+include(systemd-config)
+include(systemd-data)
+include(systemd-lib)
+include(systemd-license)
+include(systemd-services)
+include(util-linux-lib)
+systemd-bin

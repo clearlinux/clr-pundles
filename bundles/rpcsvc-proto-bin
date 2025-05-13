@@ -1,0 +1,9 @@
+# [TITLE]: rpcsvc-proto-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(rpcsvc-proto-license)
+rpcsvc-proto-bin

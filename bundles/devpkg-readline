@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-readline-dev
+include(readline-dev)
 include(ncurses-lib)

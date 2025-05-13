@@ -1,0 +1,14 @@
+# [TITLE]: gcc-go
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(mpc-lib)
+include(mpfr-lib)
+include(zlib-lib)
+include(zstd-lib)
+gcc-go

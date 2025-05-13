@@ -15,7 +15,7 @@ include(graphviz)
 #
 # For the test suite
 #
-glibc-bin
+include(glibc-bin)
 
 #
 PyYAML
@@ -33,7 +33,7 @@ pypi-flake8_class_newline
 pypi-flake8_docstrings
 pypi-flake8_isort
 pypi-flit
-glibc-lib-avx2
+include(glibc-lib-avx2)
 pypi-hatchling
 intelhex
 jdcal

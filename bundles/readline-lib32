@@ -1,0 +1,11 @@
+# [TITLE]: readline-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(ncurses-lib32)
+include(readline-data)
+include(readline-license)
+readline-lib32

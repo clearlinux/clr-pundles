@@ -1,0 +1,11 @@
+# [TITLE]: readline
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(readline-data)
+include(readline-info)
+include(readline-lib)
+include(readline-license)
+readline

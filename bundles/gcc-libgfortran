@@ -1,0 +1,9 @@
+# [TITLE]: gcc-libgfortran
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+gcc-libgfortran

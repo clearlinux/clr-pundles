@@ -1,0 +1,8 @@
+# [TITLE]: readline-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(readline-info)
+readline-doc

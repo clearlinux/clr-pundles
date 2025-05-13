@@ -1,0 +1,10 @@
+# [TITLE]: passwdqc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(passwdqc-lib)
+include(passwdqc-license)
+passwdqc-bin

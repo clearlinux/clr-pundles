@@ -1,0 +1,13 @@
+# [TITLE]: ncurses-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ncurses)
+include(ncurses-bin)
+include(ncurses-data)
+include(ncurses-dev)
+include(ncurses-lib)
+include(pkg-config-bin)
+ncurses-dev

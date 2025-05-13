@@ -1,0 +1,13 @@
+# [TITLE]: ncurses-extras-plusplus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ncurses-dev)
+include(ncurses-lib)
+include(pkg-config-bin)
+ncurses-extras-plusplus

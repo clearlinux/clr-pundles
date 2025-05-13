@@ -1,0 +1,11 @@
+# [TITLE]: gawk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gawk-data)
+include(gawk-libexec)
+include(gawk-license)
+include(libc6)
+gawk-lib

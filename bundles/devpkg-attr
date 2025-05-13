@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-attr-dev
+include(attr-dev)

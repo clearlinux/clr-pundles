@@ -1,0 +1,11 @@
+# [TITLE]: util-linux-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(sqlite-autoconf-lib)
+include(util-linux-data)
+include(util-linux-license)
+util-linux-lib

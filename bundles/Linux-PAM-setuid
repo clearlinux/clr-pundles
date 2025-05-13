@@ -1,0 +1,9 @@
+# [TITLE]: Linux-PAM-setuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libxcrypt-lib)
+Linux-PAM-setuid

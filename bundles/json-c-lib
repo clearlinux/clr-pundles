@@ -1,0 +1,9 @@
+# [TITLE]: json-c-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-license)
+include(libc6)
+json-c-lib

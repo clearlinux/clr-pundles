@@ -1,0 +1,11 @@
+# [TITLE]: libcap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcap-bin)
+include(libcap-lib)
+include(libcap-license)
+include(libcap-man)
+libcap

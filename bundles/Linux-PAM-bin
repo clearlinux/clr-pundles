@@ -1,0 +1,16 @@
+# [TITLE]: Linux-PAM-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-data)
+include(Linux-PAM-lib)
+include(Linux-PAM-license)
+include(Linux-PAM-services)
+include(Linux-PAM-setuid)
+include(filesystem)
+include(libc6)
+include(libxcrypt-lib)
+include(systemd-extras-libsystemd)
+Linux-PAM-bin

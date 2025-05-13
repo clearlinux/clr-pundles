@@ -1,0 +1,11 @@
+# [TITLE]: gmp-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-dev)
+include(gmp-gmpxx)
+include(gmp-lib)
+include(gmp-lib32)
+gmp-dev32

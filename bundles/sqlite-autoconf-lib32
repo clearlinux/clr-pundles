@@ -1,0 +1,8 @@
+# [TITLE]: sqlite-autoconf-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+sqlite-autoconf-lib32

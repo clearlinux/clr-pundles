@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-libstdc++
-gcc-libs-math
-glibc-lib-avx2
+include(libstdc++)
+include(gcc-libs-math)
+include(glibc-lib-avx2)

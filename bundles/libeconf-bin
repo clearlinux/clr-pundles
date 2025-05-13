@@ -1,0 +1,11 @@
+# [TITLE]: libeconf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libeconf-lib)
+include(libeconf-license)
+include(libgcc1)
+libeconf-bin

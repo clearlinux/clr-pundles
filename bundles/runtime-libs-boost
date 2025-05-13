@@ -7,4 +7,4 @@
 include(libstdcpp)
 
 boost
-libstdc++
+include(libstdc++)

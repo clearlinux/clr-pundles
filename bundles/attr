@@ -1,0 +1,12 @@
+# [TITLE]: attr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attr-bin)
+include(attr-lib)
+include(attr-license)
+include(attr-locales)
+include(attr-man)
+attr

@@ -10,7 +10,7 @@ LVM2
 LVM2-extras
 cryptsetup-bin
 cryptsetup-config
-cryptsetup-lib
+include(cryptsetup-lib)
 include(libglib)
 include(popt-lib)
 include(gobject-introspection)

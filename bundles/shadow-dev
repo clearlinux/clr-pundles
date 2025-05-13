@@ -1,0 +1,11 @@
+# [TITLE]: shadow-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(shadow)
+include(shadow-bin)
+include(shadow-data)
+include(shadow-lib)
+shadow-dev

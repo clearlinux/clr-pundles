@@ -1,0 +1,11 @@
+# [TITLE]: util-linux-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(sqlite-autoconf-lib32)
+include(util-linux-data)
+include(util-linux-license)
+util-linux-lib32

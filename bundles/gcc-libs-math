@@ -1,0 +1,8 @@
+# [TITLE]: gcc-libs-math
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+gcc-libs-math

@@ -1,0 +1,8 @@
+# [TITLE]: ncurses-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ncurses-dev)
+ncurses-staticdev32

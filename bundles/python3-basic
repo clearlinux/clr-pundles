@@ -10,7 +10,7 @@ include(sqlite)
 
 buildreq-distutils3
 
-glibc-lib-avx2
+include(glibc-lib-avx2)
 pypi-cffi
 pypi-isort
 pypi-pip

@@ -1,0 +1,11 @@
+# [TITLE]: ncurses
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ncurses-bin)
+include(ncurses-data)
+include(ncurses-lib)
+include(ncurses-man)
+ncurses

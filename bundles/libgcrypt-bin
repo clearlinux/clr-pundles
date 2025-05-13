@@ -1,0 +1,12 @@
+# [TITLE]: libgcrypt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcrypt-lib)
+include(libgcrypt-license)
+include(libgpg-error-lib)
+libgcrypt-bin

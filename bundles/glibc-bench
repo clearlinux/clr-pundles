@@ -1,0 +1,8 @@
+# [TITLE]: glibc-bench
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+glibc-bench

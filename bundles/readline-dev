@@ -1,0 +1,12 @@
+# [TITLE]: readline-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ncurses-dev)
+include(pkg-config-bin)
+include(readline)
+include(readline-data)
+include(readline-lib)
+readline-dev

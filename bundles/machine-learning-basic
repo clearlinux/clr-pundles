@@ -37,7 +37,7 @@ include(devpkg-eigen)
 include(devpkg-fann)
 include(devpkg-gflags)
 include(devpkg-glog)
-glibc-lib-avx2
+include(glibc-lib-avx2)
 include(devpkg-googletest)
 include(graphviz)
 pypi-h5py

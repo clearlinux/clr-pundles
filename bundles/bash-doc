@@ -1,0 +1,9 @@
+# [TITLE]: bash-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-info)
+include(bash-man)
+bash-doc

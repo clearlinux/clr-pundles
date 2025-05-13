@@ -1,0 +1,12 @@
+# [TITLE]: libgpg-error-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgpg-error)
+include(libgpg-error-bin)
+include(libgpg-error-data)
+include(libgpg-error-lib)
+include(pkg-config-bin)
+libgpg-error-dev

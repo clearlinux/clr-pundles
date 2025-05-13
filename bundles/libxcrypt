@@ -1,0 +1,10 @@
+# [TITLE]: libxcrypt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxcrypt-lib)
+include(libxcrypt-license)
+include(libxcrypt-man)
+libxcrypt

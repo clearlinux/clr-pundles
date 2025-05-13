@@ -1,0 +1,11 @@
+# [TITLE]: acl-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-bin)
+include(acl-dev)
+include(acl-lib32)
+include(pkg-config-bin)
+acl-dev32

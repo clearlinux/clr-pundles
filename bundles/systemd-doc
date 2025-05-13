@@ -1,0 +1,8 @@
+# [TITLE]: systemd-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd-man)
+systemd-doc

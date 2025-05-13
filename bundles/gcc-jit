@@ -1,0 +1,13 @@
+# [TITLE]: gcc-jit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(libc6)
+include(mpc-lib)
+include(mpfr-lib)
+include(zlib-lib)
+include(zstd-lib)
+gcc-jit

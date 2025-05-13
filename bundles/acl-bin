@@ -1,0 +1,10 @@
+# [TITLE]: acl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(acl-license)
+include(libc6)
+acl-bin

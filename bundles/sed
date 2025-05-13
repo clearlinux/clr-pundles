@@ -1,0 +1,12 @@
+# [TITLE]: sed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sed-bin)
+include(sed-info)
+include(sed-license)
+include(sed-locales)
+include(sed-man)
+sed

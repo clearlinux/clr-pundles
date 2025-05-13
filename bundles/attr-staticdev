@@ -1,0 +1,8 @@
+# [TITLE]: attr-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attr-dev)
+attr-staticdev

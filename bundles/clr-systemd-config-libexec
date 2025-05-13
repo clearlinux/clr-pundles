@@ -1,0 +1,10 @@
+# [TITLE]: clr-systemd-config-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-systemd-config-config)
+include(clr-systemd-config-license)
+include(filesystem)
+clr-systemd-config-libexec

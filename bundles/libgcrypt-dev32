@@ -1,0 +1,12 @@
+# [TITLE]: libgcrypt-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgcrypt-bin)
+include(libgcrypt-dev)
+include(libgcrypt-lib32)
+include(libgpg-error-dev)
+include(pkg-config-bin)
+libgcrypt-dev32

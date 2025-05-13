@@ -1,0 +1,13 @@
+# [TITLE]: gcc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc)
+include(gcc-jit)
+include(gcc-libgfortran)
+include(gcc-libs-math)
+include(libc6)
+include(libstdc++)
+gcc-dev

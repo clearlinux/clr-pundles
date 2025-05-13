@@ -1,0 +1,11 @@
+# [TITLE]: acl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl)
+include(acl-bin)
+include(acl-lib)
+include(pkg-config-bin)
+acl-dev

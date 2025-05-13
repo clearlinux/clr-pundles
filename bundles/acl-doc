@@ -1,0 +1,8 @@
+# [TITLE]: acl-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-man)
+acl-doc

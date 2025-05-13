@@ -1,0 +1,8 @@
+# [TITLE]: acl-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-dev)
+acl-staticdev32

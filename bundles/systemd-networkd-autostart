@@ -4,4 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Arzhan Kinzhalin <arzhan.i.kinzhalin@intel.com>
-systemd-extras-networkd-autostart
+include(systemd-extras-networkd-autostart)

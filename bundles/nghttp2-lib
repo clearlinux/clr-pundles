@@ -1,0 +1,10 @@
+# [TITLE]: nghttp2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nghttp2-data)
+include(nghttp2-license)
+nghttp2-lib

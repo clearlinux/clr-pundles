@@ -1,0 +1,10 @@
+# [TITLE]: libxcrypt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxcrypt)
+include(libxcrypt-lib)
+include(pkg-config-bin)
+libxcrypt-dev

@@ -1,0 +1,14 @@
+# [TITLE]: curl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-license)
+include(dbus-lib)
+include(libc6)
+include(nghttp2-lib)
+include(openssl-lib)
+include(zlib-lib)
+include(zstd-lib)
+curl-lib

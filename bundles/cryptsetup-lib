@@ -1,0 +1,13 @@
+# [TITLE]: cryptsetup-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(cryptsetup-license)
+include(json-c-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(util-linux-lib)
+cryptsetup-lib

@@ -1,0 +1,9 @@
+# [TITLE]: gcc-libgcc32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libstdc++32)
+include(glibc-libc32)
+gcc-libgcc32

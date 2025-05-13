@@ -12,10 +12,10 @@ also-add(x11-server)
 include(qt-basic)
 dbus
 icu4c
-Linux-PAM
+include(Linux-PAM)
 qtbase
 qtdeclarative
-systemd-lib
+include(systemd-lib)
 
 # main package
 sddm

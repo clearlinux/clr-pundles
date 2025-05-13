@@ -96,7 +96,7 @@ dconf
 include(polkit)
 also-add(pulseaudio)
 openconnect
-systemd-extras
+include(systemd-extras)
 udisks2
 upower
 xdg-user-dirs

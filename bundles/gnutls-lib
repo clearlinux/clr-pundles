@@ -1,0 +1,14 @@
+# [TITLE]: gnutls-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(gnutls-license)
+include(libc6)
+include(libidn2-lib)
+include(libtasn1-lib)
+include(nettle-lib)
+include(p11-kit-lib)
+gnutls-lib

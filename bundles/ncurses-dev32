@@ -1,0 +1,12 @@
+# [TITLE]: ncurses-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ncurses-bin)
+include(ncurses-data)
+include(ncurses-dev)
+include(ncurses-lib32)
+include(pkg-config-bin)
+ncurses-dev32

@@ -11,7 +11,7 @@ include(libglib)
 include(nettle-lib)
 include(gmp-lib)
 include(curl)
-systemd-extras
+include(systemd-extras)
 # end of custom additions
 
 # main package

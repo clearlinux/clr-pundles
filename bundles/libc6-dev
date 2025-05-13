@@ -1,0 +1,8 @@
+# [TITLE]: libc6-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-dev)
+libc6-dev

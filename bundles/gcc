@@ -1,0 +1,19 @@
+# [TITLE]: gcc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gcc-doc)
+include(gcc-libubsan)
+include(glibc-dev)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mpc-lib)
+include(mpfr-lib)
+include(zlib-lib)
+include(zstd-lib)
+gcc

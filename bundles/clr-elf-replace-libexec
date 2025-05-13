@@ -1,0 +1,8 @@
+# [TITLE]: clr-elf-replace-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-elf-replace-license)
+clr-elf-replace-libexec

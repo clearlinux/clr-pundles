@@ -16,7 +16,7 @@ bcachefs-tools
 cifs-utils
 cryptsetup-bin
 cryptsetup-config
-cryptsetup-lib
+include(cryptsetup-lib)
 cryptsetup-locales
 cryptsetup-man
 include(dosfstools)

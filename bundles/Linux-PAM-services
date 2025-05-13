@@ -1,0 +1,8 @@
+# [TITLE]: Linux-PAM-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+Linux-PAM-services

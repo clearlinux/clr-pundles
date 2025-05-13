@@ -1,0 +1,11 @@
+# [TITLE]: mpc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(libc6)
+include(mpc-license)
+include(mpfr-lib)
+mpc-lib
