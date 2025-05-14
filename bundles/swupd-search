@@ -1,0 +1,8 @@
+# [TITLE]: swupd-search
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(swupd-search-bin)
+swupd-search

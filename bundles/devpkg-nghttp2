@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-nghttp2-dev
+include(nghttp2-dev)

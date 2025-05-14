@@ -1,0 +1,12 @@
+# [TITLE]: nettle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nettle-bin)
+include(nettle-info)
+include(nettle-lib)
+include(nettle-license)
+include(p11-kit)
+nettle

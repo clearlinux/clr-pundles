@@ -1,0 +1,8 @@
+# [TITLE]: perl-Module-Runtime-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Runtime)
+perl-Module-Runtime-perl

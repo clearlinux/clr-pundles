@@ -1,0 +1,13 @@
+# [TITLE]: autogen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autogen-bin)
+include(autogen-data)
+include(autogen-lib)
+include(autogen-license)
+include(autogen-man)
+include(guile)
+autogen

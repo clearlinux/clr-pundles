@@ -1,0 +1,16 @@
+# [TITLE]: audit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audit-data)
+include(audit-lib)
+include(audit-libexec)
+include(audit-license)
+include(audit-services)
+include(filesystem)
+include(libc6)
+include(libcap-ng-lib)
+include(openldap-lib)
+audit-bin

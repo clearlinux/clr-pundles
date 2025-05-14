@@ -14,7 +14,7 @@ include(gmp-lib)
 include(icu4c-lib)
 include(python3-basic)
 include(libstdcpp)
-clr-debug-info
+include(clr-debug-info)
 include(curl)
 include(libglib)
 # end of custom additions

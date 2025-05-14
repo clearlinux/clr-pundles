@@ -1,0 +1,9 @@
+# [TITLE]: perl-XString-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-XString)
+perl-XString-perl

@@ -1,0 +1,11 @@
+# [TITLE]: libtool-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtool-bin)
+include(libtool-data)
+include(libtool-dev)
+include(libtool-lib32)
+libtool-dev32

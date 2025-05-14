@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-HTML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-HTML-license)
+include(perl-IO-HTML-perl)
+perl-IO-HTML

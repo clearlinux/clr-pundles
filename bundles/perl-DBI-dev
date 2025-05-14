@@ -1,0 +1,9 @@
+# [TITLE]: perl-DBI-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBI)
+include(perl-DBI-bin)
+perl-DBI-dev

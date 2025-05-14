@@ -1,0 +1,17 @@
+# [TITLE]: openldap-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(libc6)
+include(libgcc1)
+include(libtool-lib)
+include(libxcrypt-lib)
+include(openldap-config)
+include(openldap-lib)
+include(openldap-license)
+include(openssl-lib)
+include(util-linux-lib)
+openldap-libexec

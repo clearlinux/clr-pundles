@@ -1,0 +1,9 @@
+# [TITLE]: automake-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(perl-Getopt-Long-perl)
+automake-data

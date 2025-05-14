@@ -1,0 +1,8 @@
+# [TITLE]: gtk3-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+gtk3-services

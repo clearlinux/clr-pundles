@@ -1,0 +1,15 @@
+# [TITLE]: cryptsetup-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-dev)
+include(cryptsetup)
+include(cryptsetup-bin)
+include(cryptsetup-lib)
+include(json-c-dev)
+include(libgcrypt-dev)
+include(pkg-config-bin)
+include(util-linux-dev)
+cryptsetup-dev

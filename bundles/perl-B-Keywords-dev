@@ -1,0 +1,8 @@
+# [TITLE]: perl-B-Keywords-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Keywords)
+perl-B-Keywords-dev

@@ -1,0 +1,20 @@
+# [TITLE]: util-linux-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libc6)
+include(libcap-ng-lib)
+include(libxcrypt-lib)
+include(ncurses-lib)
+include(readline-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+include(util-linux-data)
+include(util-linux-lib)
+include(util-linux-license)
+include(util-linux-setuid)
+include(zlib-lib)
+util-linux-bin

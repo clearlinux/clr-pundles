@@ -1,0 +1,18 @@
+# [TITLE]: cmake-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmake-data)
+include(cmake-license)
+include(curl-lib)
+include(expat-lib)
+include(jsoncpp-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ncurses-lib)
+include(zlib-lib)
+cmake-bin

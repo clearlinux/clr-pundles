@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTTP-Daemon-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Daemon)
+perl-HTTP-Daemon-perl

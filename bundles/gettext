@@ -1,0 +1,15 @@
+# [TITLE]: gettext
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gettext-bin)
+include(gettext-data)
+include(gettext-info)
+include(gettext-lib)
+include(gettext-libexec)
+include(gettext-license)
+include(gettext-locales)
+include(gettext-man)
+gettext

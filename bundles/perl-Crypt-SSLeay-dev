@@ -1,0 +1,8 @@
+# [TITLE]: perl-Crypt-SSLeay-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Crypt-SSLeay)
+perl-Crypt-SSLeay-dev

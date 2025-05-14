@@ -1,0 +1,9 @@
+# [TITLE]: automake-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(automake-info)
+include(automake-man)
+automake-doc

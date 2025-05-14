@@ -31,7 +31,7 @@ bash-completion
 clear-font
 clr-desktop-defaults
 clr-wallpapers
-dbus-extras
+include(dbus-extras)
 desktop-file-utils
 elementary-xfce
 exo
@@ -43,10 +43,10 @@ geany-plugins
 glib-networking-lib
 gnome-icon-theme
 gnome-themes-extra
-gsettings-desktop-schemas
+include(gsettings-desktop-schemas)
 gtk+
 gtk-xfce-engine
-gtk3
+include(gtk3)
 also-add(hexchat)
 hicolor-icon-theme
 iceauth
@@ -67,7 +67,7 @@ pavucontrol
 powerline-fonts
 include(pulseaudio)
 pulseaudio-bin
-shared-mime-info
+include(shared-mime-info)
 include(systemd-extras)
 thunar-volman
 also-add(tigervnc)

@@ -1,0 +1,8 @@
+# [TITLE]: perl-WWW-RobotRules-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-WWW-RobotRules)
+perl-WWW-RobotRules-perl

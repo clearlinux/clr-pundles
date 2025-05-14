@@ -1,0 +1,12 @@
+# [TITLE]: msmtp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(msmtp-bin)
+include(msmtp-info)
+include(msmtp-license)
+include(msmtp-locales)
+include(msmtp-man)
+msmtp

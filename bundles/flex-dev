@@ -1,0 +1,10 @@
+# [TITLE]: flex-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flex)
+include(flex-bin)
+include(flex-lib)
+flex-dev

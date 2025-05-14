@@ -4,19 +4,19 @@
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-autoconf
+include(autoconf)
 autoconf213
-autogen
-automake
-automake-dev
+include(autogen)
+include(automake)
+include(automake-dev)
 include(binutils)
 binutils-dev
 binutils-locales
 include(bison)
-check
-check-dev
-cmake
-cmake-dev
+include(check)
+include(check-dev)
+include(cmake)
+include(cmake-dev)
 include(flex)
 include(gcc)
 include(gcc-dev)
@@ -31,14 +31,14 @@ include(gmp-dev)
 include(gmp-doc)
 include(gmp-gmpxx)
 gmp-lib
-indent
+include(indent)
 include(libstdc++)
-libtool
-libtool-dev
-linux-libc-headers
-m4
+include(libtool)
+include(libtool-dev)
+include(linux-libc-headers)
+include(m4)
 include(make)
-pkg-config
+include(pkg-config)
 include(devpkg-zlib)
 # scons intentionally left out for now
 include(libstdcpp)

@@ -1,0 +1,12 @@
+# [TITLE]: libarchive-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libarchive)
+include(libarchive-bin)
+include(libarchive-lib)
+include(openssl-dev)
+include(pkg-config-bin)
+libarchive-dev

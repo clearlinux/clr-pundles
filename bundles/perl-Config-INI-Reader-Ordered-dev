@@ -1,0 +1,8 @@
+# [TITLE]: perl-Config-INI-Reader-Ordered-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-INI-Reader-Ordered)
+perl-Config-INI-Reader-Ordered-dev

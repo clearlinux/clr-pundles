@@ -1,0 +1,17 @@
+# [TITLE]: colord-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-data)
+include(colord-libexec)
+include(colord-license)
+include(glib-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+include(libgudev-lib)
+include(libgusb-lib)
+include(systemd-lib)
+colord-lib

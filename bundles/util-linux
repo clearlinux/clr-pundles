@@ -1,0 +1,16 @@
+# [TITLE]: util-linux
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(util-linux-bin)
+include(util-linux-config)
+include(util-linux-data)
+include(util-linux-lib)
+include(util-linux-license)
+include(util-linux-locales)
+include(util-linux-man)
+include(util-linux-services)
+include(util-linux-setuid)
+util-linux

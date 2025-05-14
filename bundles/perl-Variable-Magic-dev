@@ -1,0 +1,8 @@
+# [TITLE]: perl-Variable-Magic-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Variable-Magic)
+perl-Variable-Magic-dev

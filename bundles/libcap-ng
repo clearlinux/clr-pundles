@@ -1,0 +1,11 @@
+# [TITLE]: libcap-ng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcap-ng-bin)
+include(libcap-ng-lib)
+include(libcap-ng-license)
+include(libcap-ng-man)
+libcap-ng

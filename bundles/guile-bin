@@ -1,0 +1,12 @@
+# [TITLE]: guile-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(guile-data)
+include(guile-lib)
+include(guile-license)
+include(libc6)
+guile-bin

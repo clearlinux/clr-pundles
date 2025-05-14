@@ -1,0 +1,9 @@
+# [TITLE]: perl-WWW-Mechanize-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-WWW-Mechanize-license)
+include(perl-bin)
+perl-WWW-Mechanize-bin

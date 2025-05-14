@@ -1,0 +1,8 @@
+# [TITLE]: perl-JSON-MaybeXS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-JSON-MaybeXS)
+perl-JSON-MaybeXS-perl

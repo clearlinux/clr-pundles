@@ -1,0 +1,9 @@
+# [TITLE]: lz4-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(lz4-license)
+lz4-lib

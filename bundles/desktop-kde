@@ -22,10 +22,10 @@ include(poppler)
 #
 adwaita-icon-theme
 bluez
-dbus-extras
+include(dbus-extras)
 desktop-file-utils
 include(fontconfig)
-shared-mime-info
+include(shared-mime-info)
 include(tzdata)
 
 # Extra service level deps
@@ -62,9 +62,9 @@ also-add(dolphin)
 dolphin-plugins
 exiv2
 include(gdk-pixbuf)
-glib-bin
+include(glib-bin)
 include(gpgme)
-gsettings-desktop-schemas
+include(gsettings-desktop-schemas)
 kactivitymanagerd
 karchive
 kauth

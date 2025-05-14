@@ -1,0 +1,11 @@
+# [TITLE]: nghttp2-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nghttp2-data)
+include(nghttp2-dev)
+include(nghttp2-lib32)
+include(pkg-config-bin)
+nghttp2-dev32

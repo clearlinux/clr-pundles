@@ -1,0 +1,8 @@
+# [TITLE]: perl-Storable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Storable-perl)
+perl-Storable

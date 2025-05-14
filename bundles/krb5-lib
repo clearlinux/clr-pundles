@@ -1,0 +1,15 @@
+# [TITLE]: krb5-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-lib)
+include(keyutils-lib)
+include(krb5-data)
+include(krb5-license)
+include(libc6)
+include(lmdb-lib)
+include(openldap-lib)
+include(openssl-lib)
+krb5-lib

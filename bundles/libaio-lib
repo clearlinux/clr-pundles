@@ -1,0 +1,9 @@
+# [TITLE]: libaio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libaio-license)
+include(libc6)
+libaio-lib

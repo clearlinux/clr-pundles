@@ -1,0 +1,16 @@
+# [TITLE]: glib-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-bin)
+include(glib-data)
+include(glib-dev)
+include(glib-lib32)
+include(libffi-dev)
+include(pcre2-dev)
+include(pkg-config-bin)
+include(util-linux-dev)
+include(zlib-dev)
+glib-dev32

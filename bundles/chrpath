@@ -1,0 +1,10 @@
+# [TITLE]: chrpath
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chrpath-bin)
+include(chrpath-license)
+include(chrpath-man)
+chrpath

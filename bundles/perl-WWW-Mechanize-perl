@@ -1,0 +1,8 @@
+# [TITLE]: perl-WWW-Mechanize-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-WWW-Mechanize)
+perl-WWW-Mechanize-perl

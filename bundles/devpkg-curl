@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-curl-dev
+include(curl-dev)
 include(curl)
 include(curl)

@@ -1,0 +1,14 @@
+# [TITLE]: libxkbcommon-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(libX11-lib)
+include(libc6)
+include(libxkbcommon-data)
+include(libxkbcommon-libexec)
+include(libxkbcommon-license)
+include(xkeyboard-config-data)
+libxkbcommon-lib

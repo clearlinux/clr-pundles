@@ -6,6 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(c-basic)
-pkg-config
-libtool
-libtool-dev
+include(pkg-config)
+include(libtool)
+include(libtool-dev)

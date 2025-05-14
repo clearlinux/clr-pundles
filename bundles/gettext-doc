@@ -1,0 +1,9 @@
+# [TITLE]: gettext-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gettext-info)
+include(gettext-man)
+gettext-doc

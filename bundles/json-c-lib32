@@ -1,0 +1,9 @@
+# [TITLE]: json-c-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(json-c-license)
+json-c-lib32

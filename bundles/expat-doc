@@ -1,0 +1,8 @@
+# [TITLE]: expat-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-man)
+expat-doc

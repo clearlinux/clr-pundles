@@ -1,0 +1,10 @@
+# [TITLE]: gdbm-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdbm-bin)
+include(gdbm-dev)
+include(gdbm-lib32)
+gdbm-dev32

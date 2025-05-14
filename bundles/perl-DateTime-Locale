@@ -1,0 +1,12 @@
+# [TITLE]: perl-DateTime-Locale
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Hooks-EndOfScope-perl)
+include(perl-DateTime-Locale-license)
+include(perl-DateTime-Locale-perl)
+include(perl-File-ShareDir-perl)
+include(perl-Module-Implementation-perl)
+perl-DateTime-Locale

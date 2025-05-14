@@ -1,0 +1,9 @@
+# [TITLE]: perl-libwww-perl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+include(perl-libwww-perl-license)
+perl-libwww-perl-bin

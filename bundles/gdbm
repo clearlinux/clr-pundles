@@ -1,0 +1,13 @@
+# [TITLE]: gdbm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdbm-bin)
+include(gdbm-info)
+include(gdbm-lib)
+include(gdbm-license)
+include(gdbm-locales)
+include(gdbm-man)
+gdbm

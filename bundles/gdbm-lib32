@@ -1,0 +1,9 @@
+# [TITLE]: gdbm-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdbm-license)
+include(glibc-libc32)
+gdbm-lib32

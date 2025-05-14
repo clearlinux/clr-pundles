@@ -1,0 +1,8 @@
+# [TITLE]: perl-DateTime-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime)
+perl-DateTime-dev

@@ -1,0 +1,11 @@
+# [TITLE]: libxml2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libxml2-lib)
+include(libxml2-license)
+libxml2-bin

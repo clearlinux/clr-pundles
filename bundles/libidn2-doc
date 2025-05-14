@@ -1,0 +1,9 @@
+# [TITLE]: libidn2-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libidn2-info)
+include(libidn2-man)
+libidn2-doc

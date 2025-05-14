@@ -1,0 +1,9 @@
+# [TITLE]: libunistring-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libunistring-license)
+libunistring-lib32

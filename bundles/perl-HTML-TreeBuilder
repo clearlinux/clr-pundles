@@ -1,0 +1,13 @@
+# [TITLE]: perl-HTML-TreeBuilder
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Parser-perl)
+include(perl-HTML-Tagset-perl)
+include(perl-HTML-TreeBuilder-bin)
+include(perl-HTML-TreeBuilder-license)
+include(perl-HTML-TreeBuilder-man)
+include(perl-HTML-TreeBuilder-perl)
+perl-HTML-TreeBuilder

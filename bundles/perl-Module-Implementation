@@ -1,0 +1,10 @@
+# [TITLE]: perl-Module-Implementation
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Implementation-license)
+include(perl-Module-Implementation-perl)
+include(perl-Module-Runtime-perl)
+perl-Module-Implementation

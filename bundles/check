@@ -1,0 +1,12 @@
+# [TITLE]: check
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(check-bin)
+include(check-info)
+include(check-lib)
+include(check-license)
+include(check-man)
+check

@@ -1,0 +1,9 @@
+# [TITLE]: perl-MIME-Base64-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-MIME-Base64)
+perl-MIME-Base64-perl

@@ -1,0 +1,9 @@
+# [TITLE]: autoconf-archive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autoconf-archive-info)
+include(autoconf-archive-license)
+autoconf-archive

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Path-Tiny-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Path-Tiny)
+perl-Path-Tiny-perl

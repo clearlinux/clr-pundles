@@ -1,0 +1,11 @@
+# [TITLE]: dbus-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-data)
+include(dbus-license)
+include(glibc-libc32)
+include(systemd-lib32)
+dbus-lib32

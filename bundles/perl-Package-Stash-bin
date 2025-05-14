@@ -1,0 +1,9 @@
+# [TITLE]: perl-Package-Stash-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Package-Stash-license)
+include(perl-bin)
+perl-Package-Stash-bin

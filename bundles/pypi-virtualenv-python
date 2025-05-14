@@ -1,0 +1,8 @@
+# [TITLE]: pypi-virtualenv-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-virtualenv-python3)
+pypi-virtualenv-python

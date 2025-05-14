@@ -1,0 +1,11 @@
+# [TITLE]: gnutls-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-lib)
+include(gnutls-license)
+include(libc6)
+include(libtasn1-lib)
+gnutls-bin

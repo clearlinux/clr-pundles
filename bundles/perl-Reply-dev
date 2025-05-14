@@ -1,0 +1,9 @@
+# [TITLE]: perl-Reply-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Reply)
+include(perl-Reply-bin)
+perl-Reply-dev

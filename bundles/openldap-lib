@@ -1,0 +1,13 @@
+# [TITLE]: openldap-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(libc6)
+include(openldap-data)
+include(openldap-libexec)
+include(openldap-license)
+include(openssl-lib)
+openldap-lib

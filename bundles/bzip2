@@ -1,0 +1,11 @@
+# [TITLE]: bzip2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-bin)
+include(bzip2-lib)
+include(bzip2-license)
+include(bzip2-man)
+bzip2

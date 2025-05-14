@@ -1,0 +1,12 @@
+# [TITLE]: bison-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bison-data)
+include(bison-license)
+include(filesystem)
+include(gettext-lib)
+include(libc6)
+bison-bin

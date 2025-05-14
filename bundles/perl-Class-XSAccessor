@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-XSAccessor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-XSAccessor-perl)
+perl-Class-XSAccessor

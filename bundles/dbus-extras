@@ -1,0 +1,10 @@
+# [TITLE]: dbus-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libX11-lib)
+include(libc6)
+dbus-extras

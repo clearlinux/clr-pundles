@@ -1,0 +1,11 @@
+# [TITLE]: jsoncpp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jsoncpp-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+jsoncpp-lib

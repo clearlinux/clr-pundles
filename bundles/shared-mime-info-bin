@@ -1,0 +1,14 @@
+# [TITLE]: shared-mime-info-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(libc6)
+include(shared-mime-info-config)
+include(shared-mime-info-data)
+include(shared-mime-info-license)
+include(shared-mime-info-services)
+shared-mime-info-bin

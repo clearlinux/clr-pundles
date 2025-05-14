@@ -1,0 +1,10 @@
+# [TITLE]: perl-Mixin-Linewise
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mixin-Linewise-license)
+include(perl-Mixin-Linewise-perl)
+include(perl-PerlIO-utf8_strict-perl)
+perl-Mixin-Linewise

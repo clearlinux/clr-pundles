@@ -1,0 +1,10 @@
+# [TITLE]: libedit-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libedit-license)
+include(ncurses-lib)
+libedit-lib

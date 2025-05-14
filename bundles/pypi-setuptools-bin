@@ -1,0 +1,9 @@
+# [TITLE]: pypi-setuptools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(pypi-setuptools-license)
+pypi-setuptools-bin

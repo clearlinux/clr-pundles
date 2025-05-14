@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pycodestyle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycodestyle-bin)
+include(pypi-pycodestyle-license)
+include(pypi-pycodestyle-python)
+include(pypi-pycodestyle-python3)
+pypi-pycodestyle

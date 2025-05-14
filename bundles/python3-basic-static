@@ -6,4 +6,4 @@
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
 
 include(python3-basic)
-python3-staticdev
+include(python3-staticdev)

@@ -1,0 +1,15 @@
+# [TITLE]: guile-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gc-dev)
+include(gmp-dev)
+include(guile)
+include(guile-bin)
+include(guile-data)
+include(guile-lib)
+include(libffi-dev)
+include(pkg-config-bin)
+guile-dev

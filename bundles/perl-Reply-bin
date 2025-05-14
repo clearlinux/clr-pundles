@@ -1,0 +1,9 @@
+# [TITLE]: perl-Reply-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Reply-license)
+include(perl-bin)
+perl-Reply-bin

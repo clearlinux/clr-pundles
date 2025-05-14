@@ -1,0 +1,15 @@
+# [TITLE]: dbus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-autostart)
+include(dbus-bin)
+include(dbus-config)
+include(dbus-data)
+include(dbus-lib)
+include(dbus-license)
+include(dbus-services)
+include(dbus-setuid)
+dbus

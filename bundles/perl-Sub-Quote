@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sub-Quote
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Quote-license)
+include(perl-Sub-Quote-perl)
+perl-Sub-Quote

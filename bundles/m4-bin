@@ -1,0 +1,9 @@
+# [TITLE]: m4-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(m4-license)
+m4-bin

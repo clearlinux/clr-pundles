@@ -1,0 +1,9 @@
+# [TITLE]: perl-App-Nopaste-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-Nopaste-license)
+include(perl-bin)
+perl-App-Nopaste-bin

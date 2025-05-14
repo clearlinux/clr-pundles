@@ -1,0 +1,11 @@
+# [TITLE]: mlocate-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mlocate-data)
+include(mlocate-license)
+include(mlocate-services)
+mlocate-bin

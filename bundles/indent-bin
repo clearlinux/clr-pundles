@@ -1,0 +1,9 @@
+# [TITLE]: indent-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(indent-license)
+include(libc6)
+indent-bin

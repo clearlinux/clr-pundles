@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyproject_hooks-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyproject_hooks-python3)
+pypi-pyproject_hooks-python

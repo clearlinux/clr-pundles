@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-XSAccessor-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Class-XSAccessor)
+perl-Class-XSAccessor-perl

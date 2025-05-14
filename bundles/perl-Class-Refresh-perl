@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Refresh-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Refresh)
+perl-Class-Refresh-perl

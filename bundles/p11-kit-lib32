@@ -1,0 +1,12 @@
+# [TITLE]: p11-kit-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libffi-lib32)
+include(libtasn1-lib32)
+include(p11-kit-data)
+include(p11-kit-license)
+p11-kit-lib32

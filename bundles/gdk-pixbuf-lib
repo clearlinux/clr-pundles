@@ -1,0 +1,13 @@
+# [TITLE]: gdk-pixbuf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-data)
+include(gdk-pixbuf-license)
+include(glib-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+gdk-pixbuf-lib

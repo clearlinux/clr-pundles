@@ -1,0 +1,8 @@
+# [TITLE]: perl-List-Util-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-List-Util)
+perl-List-Util-dev

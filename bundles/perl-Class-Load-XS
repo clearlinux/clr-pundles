@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-Load-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Load-XS-license)
+include(perl-Class-Load-XS-perl)
+perl-Class-Load-XS

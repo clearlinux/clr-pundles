@@ -1,0 +1,15 @@
+# [TITLE]: LVM2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(LVM2-libexec)
+include(LVM2-license)
+include(libaio-lib)
+include(libc6)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+include(util-linux-lib)
+LVM2-lib

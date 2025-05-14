@@ -1,0 +1,16 @@
+# [TITLE]: dbus-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-config)
+include(dbus-data)
+include(dbus-lib)
+include(dbus-license)
+include(dbus-services)
+include(dbus-setuid)
+include(expat-lib)
+include(libc6)
+include(systemd-extras-libsystemd)
+dbus-bin

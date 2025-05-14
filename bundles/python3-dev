@@ -1,0 +1,11 @@
+# [TITLE]: python3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pkg-config-bin)
+include(python3-core)
+include(python3-lib)
+python3-dev

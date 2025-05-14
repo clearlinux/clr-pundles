@@ -9,9 +9,9 @@ include(python3-basic)
 include(xfsprogs)
 include(nfs-utils)
 
-LVM2-bin
-LVM2-config
-LVM2-extras
+include(LVM2-bin)
+include(LVM2-config)
+include(LVM2-extras)
 glusterfs
 include(parted)
 include(systemd)

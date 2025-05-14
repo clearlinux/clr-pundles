@@ -17,7 +17,7 @@ bats
 include(bc)
 cgdb
 include(cloc)
-clr-debug-info
+include(clr-debug-info)
 colordiff
 include(cpio)
 cppcheck
@@ -26,7 +26,7 @@ diffstat
 include(diffutils)
 include(docutils)
 dwarves
-elfutils
+include(elfutils)
 include(gdb)
 git-extras
 include(git-lfs)
@@ -53,7 +53,7 @@ scdoc
 source-highlight
 include(strace)
 include(stress-ng)
-swupd-search
+include(swupd-search)
 tig
 trace-cmd
 unifdef

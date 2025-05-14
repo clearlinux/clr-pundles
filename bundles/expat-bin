@@ -1,0 +1,9 @@
+# [TITLE]: expat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(libc6)
+expat-bin

@@ -8,7 +8,7 @@ include(os-core)
 include(os-core-plus)
 include(os-core-webproxy)
 include(btrfs-progs)
-bzip2
+include(bzip2)
 clr-bundles
 clr-find-bundle
 clr-hardware-files
@@ -16,13 +16,13 @@ clr-one-shot-updates
 clr-service-restart-bin
 clr-update-triggers
 efibootmgr-bin
-findutils-bin
+include(findutils-bin)
 gzip-bin
 pigz-bin
 swupd-client
 swupd-overdue
 tar-bin
-xz-bin
+include(xz-bin)
 include(curl)
 include(libarchive)
 include(popt-lib)

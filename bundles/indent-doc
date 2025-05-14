@@ -1,0 +1,9 @@
+# [TITLE]: indent-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(indent-info)
+include(indent-man)
+indent-doc

@@ -8,7 +8,7 @@ include(libstdcpp)
 include(libglib)
 
 # For QMimeDatabase class
-shared-mime-info
+include(shared-mime-info)
 
 qt6base
 include(icu4c-lib)

@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTML-Form-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Form)
+perl-HTML-Form-dev

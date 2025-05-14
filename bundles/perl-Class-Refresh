@@ -1,0 +1,19 @@
+# [TITLE]: perl-Class-Refresh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Inspector-perl)
+include(perl-Class-Load-XS-perl)
+include(perl-Class-Load-perl)
+include(perl-Class-Refresh-license)
+include(perl-Class-Refresh-perl)
+include(perl-Class-Unload-perl)
+include(perl-Data-OptList-perl)
+include(perl-Devel-OverrideGlobalRequire-perl)
+include(perl-Module-Implementation-perl)
+include(perl-Package-Stash-perl)
+include(perl-Params-Util-perl)
+include(perl-Sub-Install-perl)
+perl-Class-Refresh

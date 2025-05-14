@@ -1,0 +1,9 @@
+# [TITLE]: lz4-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(lz4-license)
+lz4-lib32

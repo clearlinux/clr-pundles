@@ -1,0 +1,11 @@
+# [TITLE]: perl-Package-Stash
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Dist-CheckConflicts-perl)
+include(perl-Package-Stash-bin)
+include(perl-Package-Stash-license)
+include(perl-Package-Stash-perl)
+perl-Package-Stash

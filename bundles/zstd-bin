@@ -1,0 +1,10 @@
+# [TITLE]: zstd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zstd-bin-bin)
+include(zstd-bin-license)
+include(zstd-bin-man)
+zstd-bin

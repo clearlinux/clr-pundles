@@ -1,0 +1,8 @@
+# [TITLE]: libxml2-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxml2-man)
+libxml2-doc

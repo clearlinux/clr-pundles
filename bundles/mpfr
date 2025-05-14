@@ -1,0 +1,10 @@
+# [TITLE]: mpfr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpfr-info)
+include(mpfr-lib)
+include(mpfr-license)
+mpfr

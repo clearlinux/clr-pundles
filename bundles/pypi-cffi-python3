@@ -1,0 +1,11 @@
+# [TITLE]: pypi-cffi-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libffi-lib)
+include(pypi-pycparser-python3)
+include(python3-core)
+pypi-cffi-python3

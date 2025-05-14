@@ -1,0 +1,16 @@
+# [TITLE]: glib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-data)
+include(glib-libexec)
+include(glib-license)
+include(libc6)
+include(libffi-lib)
+include(libgcc1)
+include(pcre2-lib)
+include(util-linux-lib)
+include(zlib-lib)
+glib-lib

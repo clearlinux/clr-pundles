@@ -1,0 +1,11 @@
+# [TITLE]: sqlite-autoconf-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(sqlite-autoconf-bin)
+include(sqlite-autoconf-dev)
+include(sqlite-autoconf-lib32)
+sqlite-autoconf-dev32

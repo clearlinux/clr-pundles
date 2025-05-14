@@ -1,0 +1,9 @@
+# [TITLE]: perl-Role-Tiny
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Role-Tiny-license)
+include(perl-Role-Tiny-perl)
+perl-Role-Tiny

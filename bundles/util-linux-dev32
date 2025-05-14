@@ -1,0 +1,13 @@
+# [TITLE]: util-linux-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(sqlite-autoconf-dev)
+include(util-linux-bin)
+include(util-linux-data)
+include(util-linux-dev)
+include(util-linux-lib32)
+util-linux-dev32

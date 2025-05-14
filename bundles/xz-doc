@@ -1,0 +1,8 @@
+# [TITLE]: xz-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xz-man)
+xz-doc

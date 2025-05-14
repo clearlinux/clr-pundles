@@ -1,0 +1,21 @@
+# [TITLE]: perl-App-Nopaste
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-Nopaste-bin)
+include(perl-App-Nopaste-license)
+include(perl-App-Nopaste-man)
+include(perl-App-Nopaste-perl)
+include(perl-Class-Load-perl)
+include(perl-Getopt-Long-Descriptive-perl)
+include(perl-JSON-MaybeXS-perl)
+include(perl-Module-Pluggable-perl)
+include(perl-Module-Runtime-perl)
+include(perl-Path-Tiny-perl)
+include(perl-URI-perl)
+include(perl-WWW-Mechanize-perl)
+include(perl-libwww-perl-perl)
+include(perl-namespace-clean-perl)
+perl-App-Nopaste

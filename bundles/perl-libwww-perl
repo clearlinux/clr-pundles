@@ -1,0 +1,22 @@
+# [TITLE]: perl-libwww-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(msmtp)
+include(perl-Authen-NTLM-perl)
+include(perl-Data-Dump-perl)
+include(perl-Digest-MD5-perl)
+include(perl-HTTP-Date-perl)
+include(perl-HTTP-Message-perl)
+include(perl-LWP-MediaTypes-perl)
+include(perl-Net-HTTP-perl)
+include(perl-Try-Tiny-perl)
+include(perl-URI-perl)
+include(perl-WWW-RobotRules-perl)
+include(perl-libwww-perl-bin)
+include(perl-libwww-perl-license)
+include(perl-libwww-perl-man)
+include(perl-libwww-perl-perl)
+perl-libwww-perl

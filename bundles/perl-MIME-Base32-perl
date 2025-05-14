@@ -1,0 +1,8 @@
+# [TITLE]: perl-MIME-Base32-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MIME-Base32)
+perl-MIME-Base32-perl

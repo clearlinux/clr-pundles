@@ -1,0 +1,17 @@
+# [TITLE]: perl-DateTime-TimeZone
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Hooks-EndOfScope-perl)
+include(perl-Class-Singleton-perl)
+include(perl-DateTime-TimeZone-license)
+include(perl-DateTime-TimeZone-perl)
+include(perl-DateTime-perl)
+include(perl-Module-Runtime-perl)
+include(perl-Params-ValidationCompiler-perl)
+include(perl-Specio-perl)
+include(perl-Try-Tiny-perl)
+include(perl-namespace-autoclean-perl)
+perl-DateTime-TimeZone

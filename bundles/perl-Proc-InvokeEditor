@@ -1,0 +1,10 @@
+# [TITLE]: perl-Proc-InvokeEditor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Carp-Assert-perl)
+include(perl-Proc-InvokeEditor-license)
+include(perl-Proc-InvokeEditor-perl)
+perl-Proc-InvokeEditor

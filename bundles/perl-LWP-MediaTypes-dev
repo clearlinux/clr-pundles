@@ -1,0 +1,8 @@
+# [TITLE]: perl-LWP-MediaTypes-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-LWP-MediaTypes)
+perl-LWP-MediaTypes-dev

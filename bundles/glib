@@ -1,0 +1,17 @@
+# [TITLE]: glib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-autostart)
+include(glib-bin)
+include(glib-config)
+include(glib-data)
+include(glib-lib)
+include(glib-libexec)
+include(glib-license)
+include(glib-locales)
+include(glib-services)
+include(shared-mime-info)
+glib

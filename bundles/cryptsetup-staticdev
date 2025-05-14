@@ -1,0 +1,8 @@
+# [TITLE]: cryptsetup-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cryptsetup-dev)
+cryptsetup-staticdev

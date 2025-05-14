@@ -1,0 +1,8 @@
+# [TITLE]: sqlite-autoconf-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sqlite-autoconf-dev)
+sqlite-autoconf-staticdev

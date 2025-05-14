@@ -1,0 +1,10 @@
+# [TITLE]: libffi-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libffi-dev)
+include(libffi-lib32)
+include(pkg-config-bin)
+libffi-dev32

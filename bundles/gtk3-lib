@@ -1,0 +1,26 @@
+# [TITLE]: gtk3-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(colord-lib)
+include(cups-lib)
+include(fontconfig-lib)
+include(fribidi-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-data)
+include(gtk3-license)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libgcc1)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(wayland-lib)
+gtk3-lib

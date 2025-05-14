@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libidn2-dev
+include(libidn2-dev)

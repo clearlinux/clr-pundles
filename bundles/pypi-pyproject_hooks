@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyproject_hooks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyproject_hooks-license)
+include(pypi-pyproject_hooks-python)
+include(pypi-pyproject_hooks-python3)
+pypi-pyproject_hooks

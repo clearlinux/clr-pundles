@@ -1,0 +1,11 @@
+# [TITLE]: openssl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openssl)
+include(openssl-dev)
+include(openssl-lib)
+include(pkg-config-bin)
+openssl-dev

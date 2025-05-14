@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTML-Parser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Parser-license)
+include(perl-HTML-Parser-perl)
+perl-HTML-Parser

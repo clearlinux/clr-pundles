@@ -1,0 +1,11 @@
+# [TITLE]: kmod
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmod-bin)
+include(kmod-data)
+include(kmod-lib)
+include(kmod-license)
+kmod

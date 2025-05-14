@@ -1,0 +1,17 @@
+# [TITLE]: glib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-lib)
+include(filesystem)
+include(glib-config)
+include(glib-data)
+include(glib-lib)
+include(glib-libexec)
+include(glib-license)
+include(glib-services)
+include(libc6)
+include(libffi-lib)
+glib-bin

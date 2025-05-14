@@ -1,0 +1,12 @@
+# [TITLE]: gettext-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(filesystem)
+include(gettext-dev)
+include(gettext-license)
+include(libc6)
+gettext-libexec

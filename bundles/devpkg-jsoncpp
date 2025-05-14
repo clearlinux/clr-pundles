@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-jsoncpp-dev
+include(jsoncpp-dev)
 include(libstdcpp)

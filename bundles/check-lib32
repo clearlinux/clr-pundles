@@ -1,0 +1,10 @@
+# [TITLE]: check-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(check-license)
+include(gcc-libgcc32)
+include(glibc-libc32)
+check-lib32

@@ -1,0 +1,16 @@
+# [TITLE]: gettext-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gcc-libs-math)
+include(gettext-data)
+include(gettext-dev)
+include(gettext-lib)
+include(gettext-libexec)
+include(gettext-license)
+include(libc6)
+include(libgcc1)
+gettext-bin

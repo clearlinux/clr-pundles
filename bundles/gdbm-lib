@@ -1,0 +1,9 @@
+# [TITLE]: gdbm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdbm-license)
+include(libc6)
+gdbm-lib

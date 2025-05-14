@@ -1,0 +1,8 @@
+# [TITLE]: perl-Digest-HMAC-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Digest-HMAC)
+perl-Digest-HMAC-dev

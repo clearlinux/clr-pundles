@@ -1,0 +1,9 @@
+# [TITLE]: pypi-wheel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wheel-license)
+include(python3-core)
+pypi-wheel-bin

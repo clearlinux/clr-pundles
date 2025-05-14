@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-OverrideGlobalRequire-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-OverrideGlobalRequire)
+perl-Devel-OverrideGlobalRequire-perl

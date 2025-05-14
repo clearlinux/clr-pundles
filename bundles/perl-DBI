@@ -1,0 +1,13 @@
+# [TITLE]: perl-DBI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBI-bin)
+include(perl-DBI-license)
+include(perl-DBI-man)
+include(perl-DBI-perl)
+include(perl-Params-Validate-perl)
+include(perl-PlRPC-perl)
+perl-DBI

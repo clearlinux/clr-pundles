@@ -1,0 +1,9 @@
+# [TITLE]: zlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zlib-lib)
+include(zlib-license)
+zlib

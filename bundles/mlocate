@@ -1,0 +1,14 @@
+# [TITLE]: mlocate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mlocate-autostart)
+include(mlocate-bin)
+include(mlocate-data)
+include(mlocate-license)
+include(mlocate-locales)
+include(mlocate-man)
+include(mlocate-services)
+mlocate

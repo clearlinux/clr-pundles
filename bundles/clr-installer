@@ -19,15 +19,15 @@ include(network-basic)
 also-add(glibc-locale)
 also-add(less)
 
-LVM2
-LVM2-extras
+include(LVM2)
+include(LVM2-extras)
 bind-utils
 include(btrfs-progs)
 clr-installer
 cpio-bin
 cracklib-bin
-cryptsetup-bin
-cryptsetup-config
+include(cryptsetup-bin)
+include(cryptsetup-config)
 include(cryptsetup-lib)
 dosfstools-bin
 e2fsprogs-extras

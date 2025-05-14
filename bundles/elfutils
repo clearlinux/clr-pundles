@@ -1,0 +1,12 @@
+# [TITLE]: elfutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-bin)
+include(elfutils-lib)
+include(elfutils-license)
+include(elfutils-locales)
+include(elfutils-man)
+elfutils

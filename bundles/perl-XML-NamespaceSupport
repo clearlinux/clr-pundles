@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-NamespaceSupport
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-NamespaceSupport-license)
+include(perl-XML-NamespaceSupport-perl)
+perl-XML-NamespaceSupport

@@ -1,0 +1,10 @@
+# [TITLE]: cracklib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cracklib-data)
+include(cracklib-license)
+include(libc6)
+cracklib-lib

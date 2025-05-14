@@ -1,0 +1,16 @@
+# [TITLE]: clr-debug-info-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-debug-info-config)
+include(clr-debug-info-data)
+include(clr-debug-info-license)
+include(clr-debug-info-services)
+include(compat-fuse-soname2-lib)
+include(curl-lib)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+clr-debug-info-bin

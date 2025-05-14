@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libarchive-dev
+include(libarchive-dev)
 include(xz)
 include(libarchive)

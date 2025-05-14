@@ -1,0 +1,14 @@
+# [TITLE]: cryptsetup-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cryptsetup-config)
+include(cryptsetup-lib)
+include(cryptsetup-license)
+include(libc6)
+include(libpwquality-lib)
+include(popt-lib)
+include(util-linux-lib)
+cryptsetup-bin

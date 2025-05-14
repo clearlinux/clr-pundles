@@ -1,0 +1,15 @@
+# [TITLE]: p11-kit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-bin)
+include(libc6)
+include(libtasn1-lib)
+include(p11-kit-data)
+include(p11-kit-lib)
+include(p11-kit-libexec)
+include(p11-kit-license)
+include(p11-kit-services)
+p11-kit-bin

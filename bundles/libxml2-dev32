@@ -1,0 +1,11 @@
+# [TITLE]: libxml2-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxml2-bin)
+include(libxml2-dev)
+include(libxml2-lib32)
+include(pkg-config-bin)
+libxml2-dev32

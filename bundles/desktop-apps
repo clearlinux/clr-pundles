@@ -46,8 +46,8 @@ pavucontrol
 simple-scan
 
 # apps low level deps
-glib-bin
-glib-config
+include(glib-bin)
+include(glib-config)
 
 # python specific deps
 python-zeep

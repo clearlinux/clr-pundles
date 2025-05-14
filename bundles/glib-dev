@@ -1,0 +1,19 @@
+# [TITLE]: glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(glib)
+include(glib-bin)
+include(glib-data)
+include(glib-dev)
+include(glib-lib)
+include(libc6)
+include(libffi-dev)
+include(pcre2-dev)
+include(pkg-config-bin)
+include(util-linux-dev)
+include(zlib-dev)
+glib-dev

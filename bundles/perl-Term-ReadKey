@@ -1,0 +1,8 @@
+# [TITLE]: perl-Term-ReadKey
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-ReadKey-perl)
+perl-Term-ReadKey

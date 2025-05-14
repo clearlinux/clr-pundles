@@ -1,0 +1,10 @@
+# [TITLE]: json-c-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-dev)
+include(json-c-lib32)
+include(pkg-config-bin)
+json-c-dev32

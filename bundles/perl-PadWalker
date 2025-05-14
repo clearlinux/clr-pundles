@@ -1,0 +1,9 @@
+# [TITLE]: perl-PadWalker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PadWalker-license)
+include(perl-PadWalker-perl)
+perl-PadWalker

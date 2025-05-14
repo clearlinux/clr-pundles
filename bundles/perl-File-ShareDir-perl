@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-ShareDir-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-ShareDir)
+perl-File-ShareDir-perl

@@ -1,0 +1,14 @@
+# [TITLE]: perl-Getopt-Long-Descriptive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Getopt-Long-Descriptive-license)
+include(perl-Getopt-Long-Descriptive-perl)
+include(perl-Getopt-Long-perl)
+include(perl-List-Util-perl)
+include(perl-Params-Validate-perl)
+include(perl-Sub-Exporter-perl)
+include(perl-perl)
+perl-Getopt-Long-Descriptive

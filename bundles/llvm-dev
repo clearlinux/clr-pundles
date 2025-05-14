@@ -1,0 +1,13 @@
+# [TITLE]: llvm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(llvm)
+include(llvm-bin)
+include(llvm-data)
+include(llvm-lib)
+include(llvm-staticdev)
+include(pkg-config-bin)
+llvm-dev

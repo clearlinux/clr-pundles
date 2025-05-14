@@ -1,0 +1,14 @@
+# [TITLE]: clrtrust
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clrtrust-bin)
+include(clrtrust-libexec)
+include(clrtrust-license)
+include(clrtrust-man)
+include(openssl)
+include(openssl-lib)
+include(p11-kit)
+clrtrust

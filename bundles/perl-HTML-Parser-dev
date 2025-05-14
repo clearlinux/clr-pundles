@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTML-Parser-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Parser)
+perl-HTML-Parser-dev

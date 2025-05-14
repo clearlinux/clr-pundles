@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Dump-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Dump)
+perl-Data-Dump-dev

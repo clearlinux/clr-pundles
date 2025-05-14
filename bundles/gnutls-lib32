@@ -1,0 +1,16 @@
+# [TITLE]: gnutls-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgcc32)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+include(gmp-lib32)
+include(gnutls-license)
+include(libidn2-lib32)
+include(libtasn1-lib32)
+include(nettle-lib32)
+include(p11-kit-lib32)
+gnutls-lib32

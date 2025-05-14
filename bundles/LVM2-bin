@@ -1,0 +1,20 @@
+# [TITLE]: LVM2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-config)
+include(LVM2-extras-lib)
+include(LVM2-libexec)
+include(LVM2-license)
+include(LVM2-services)
+include(filesystem)
+include(libaio-lib)
+include(libc6)
+include(libgcc1)
+include(readline-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+include(util-linux-lib)
+LVM2-bin

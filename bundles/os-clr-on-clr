@@ -62,7 +62,7 @@ include(p7zip)
 pypi-pep8
 pesign
 include(devpkg-pmdk)
-pypi-pycodestyle
+include(pypi-pycodestyle)
 pypi-pycurl
 pypi-pyopenssl
 python-magic

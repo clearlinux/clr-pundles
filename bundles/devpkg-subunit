@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-subunit-dev
+include(subunit-dev)
 include(libstdcpp)

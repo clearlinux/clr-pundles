@@ -1,0 +1,10 @@
+# [TITLE]: pypi-setuptools_scm-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-packaging-python3)
+include(pypi-setuptools-python3)
+include(python3-core)
+pypi-setuptools_scm-python3

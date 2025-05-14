@@ -30,9 +30,9 @@ gnome-shell-extensions-locales
 gnome-shell-locales
 gnome-terminal-locales
 gnome-tweaks-locales
-gsettings-desktop-schemas-locales
+include(gsettings-desktop-schemas-locales)
 gtk+-locales
-gtk3-locales
+include(gtk3-locales)
 gvfs-locales
 ibus-locales
 iso-codes-locales
@@ -40,5 +40,5 @@ libgweather-locales
 metacity-locales
 mutter-locales
 pulseaudio-locales
-shared-mime-info-locales
+include(shared-mime-info-locales)
 xkeyboard-config-locales

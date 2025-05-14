@@ -1,0 +1,11 @@
+# [TITLE]: bzip2-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-bin)
+include(bzip2-dev)
+include(bzip2-lib32)
+include(pkg-config-bin)
+bzip2-dev32

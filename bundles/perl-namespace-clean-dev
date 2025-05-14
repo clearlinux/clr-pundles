@@ -1,0 +1,8 @@
+# [TITLE]: perl-namespace-clean-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-namespace-clean)
+perl-namespace-clean-dev

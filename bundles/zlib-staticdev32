@@ -1,0 +1,8 @@
+# [TITLE]: zlib-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zlib-dev)
+zlib-staticdev32

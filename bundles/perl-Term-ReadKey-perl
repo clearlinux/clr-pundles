@@ -1,0 +1,9 @@
+# [TITLE]: perl-Term-ReadKey-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Term-ReadKey)
+perl-Term-ReadKey-perl

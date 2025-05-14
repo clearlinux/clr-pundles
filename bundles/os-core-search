@@ -10,4 +10,4 @@ include(python3-basic)
 
 clr-bundles
 clr-find-bundle
-swupd-search
+include(swupd-search)

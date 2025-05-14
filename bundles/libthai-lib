@@ -1,0 +1,11 @@
+# [TITLE]: libthai-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdatrie-lib)
+include(libthai-data)
+include(libthai-license)
+libthai-lib

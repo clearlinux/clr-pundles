@@ -1,0 +1,13 @@
+# [TITLE]: clr-debug-info
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-debug-info-autostart)
+include(clr-debug-info-bin)
+include(clr-debug-info-config)
+include(clr-debug-info-data)
+include(clr-debug-info-license)
+include(clr-debug-info-services)
+clr-debug-info

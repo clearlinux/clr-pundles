@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pip-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pip-license)
+include(python3-core)
+pypi-pip-bin

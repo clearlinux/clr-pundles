@@ -19,8 +19,8 @@ include(LibRaw-lib)
 
 librsvg-lib
 exiv2-lib
-libpng-lib
-libjpeg-turbo-lib
+include(libpng-lib)
+include(libjpeg-turbo-lib)
 libwebp-lib
 tiff-lib
 openjpeg-lib

@@ -1,0 +1,10 @@
+# [TITLE]: bison-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bison)
+include(bison-bin)
+include(bison-data)
+bison-dev

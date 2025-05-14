@@ -1,0 +1,9 @@
+# [TITLE]: ca-certs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clrtrust)
+include(p11-kit)
+ca-certs

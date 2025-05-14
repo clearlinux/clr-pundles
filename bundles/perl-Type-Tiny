@@ -1,0 +1,11 @@
+# [TITLE]: perl-Type-Tiny
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Exporter-Tiny-perl)
+include(perl-Reply-perl)
+include(perl-Type-Tiny-license)
+include(perl-Type-Tiny-perl)
+perl-Type-Tiny

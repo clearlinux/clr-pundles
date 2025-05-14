@@ -1,0 +1,8 @@
+# [TITLE]: perl-Carp-Always-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Carp-Always)
+perl-Carp-Always-dev

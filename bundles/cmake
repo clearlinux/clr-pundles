@@ -1,0 +1,10 @@
+# [TITLE]: cmake
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmake-bin)
+include(cmake-data)
+include(cmake-license)
+cmake

@@ -6,9 +6,9 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
 
-yaml-lib
-glib-lib
-glib-bin
+include(yaml-lib)
+include(glib-lib)
+include(glib-bin)
 #icu4c-lib
 dbus-lib
 include(systemd)

@@ -1,0 +1,12 @@
+# [TITLE]: LVM2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2)
+include(LVM2-bin)
+include(LVM2-lib)
+include(pkg-config-bin)
+include(systemd-dev)
+LVM2-dev

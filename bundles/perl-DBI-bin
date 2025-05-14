@@ -1,0 +1,9 @@
+# [TITLE]: perl-DBI-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBI-license)
+include(perl-bin)
+perl-DBI-bin

@@ -1,0 +1,11 @@
+# [TITLE]: lua-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lua)
+include(lua-bin)
+include(lua-lib)
+include(pkg-config-bin)
+lua-dev

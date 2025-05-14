@@ -1,0 +1,13 @@
+# [TITLE]: elfutils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-lib)
+include(elfutils-license)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+elfutils-bin

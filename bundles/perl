@@ -1,0 +1,15 @@
+# [TITLE]: perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-List-Util)
+include(perl-Math-BigInt-GMP)
+include(perl-Storable)
+include(perl-Test-Simple)
+include(perl-bin)
+include(perl-license)
+include(perl-man)
+include(perl-perl)
+perl

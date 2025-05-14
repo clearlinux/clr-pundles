@@ -15,7 +15,7 @@ F-Engrave
 
 # dependencies
 
-gtk3
+include(gtk3)
 potrace
 pycairo
 include(pygobject)

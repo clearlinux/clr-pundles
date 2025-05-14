@@ -1,0 +1,9 @@
+# [TITLE]: vsqlite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vsqlite-lib)
+include(vsqlite-license)
+vsqlite

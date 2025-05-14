@@ -1,0 +1,10 @@
+# [TITLE]: perl-Data-Printer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Clone-PP-perl)
+include(perl-Data-Printer-perl)
+include(perl-Sort-Naturally-perl)
+perl-Data-Printer

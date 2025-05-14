@@ -1,0 +1,8 @@
+# [TITLE]: autoconf-archive-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autoconf-archive)
+autoconf-archive-dev

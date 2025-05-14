@@ -1,0 +1,8 @@
+# [TITLE]: p11-kit-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+p11-kit-services

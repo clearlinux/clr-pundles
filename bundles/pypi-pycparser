@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pycparser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycparser-python)
+include(pypi-pycparser-python3)
+pypi-pycparser

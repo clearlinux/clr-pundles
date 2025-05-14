@@ -1,0 +1,10 @@
+# [TITLE]: pypi-platformdirs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-platformdirs-license)
+include(pypi-platformdirs-python)
+include(pypi-platformdirs-python3)
+pypi-platformdirs

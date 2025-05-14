@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libffi-dev
+include(libffi-dev)

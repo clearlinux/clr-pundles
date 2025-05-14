@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pip-bin)
+include(pypi-pip-license)
+include(pypi-pip-python)
+include(pypi-pip-python3)
+pypi-pip

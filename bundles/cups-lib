@@ -1,0 +1,13 @@
+# [TITLE]: cups-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-data)
+include(cups-license)
+include(gnutls-lib)
+include(krb5-lib)
+include(libc6)
+include(zlib-lib)
+cups-lib

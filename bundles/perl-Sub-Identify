@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sub-Identify
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Identify-perl)
+perl-Sub-Identify

@@ -14,7 +14,7 @@ sbc
 openal-soft
 # Middleware/utility
 graphene
-gtk3
+include(gtk3)
 libgudev
 librsvg
 libsoup

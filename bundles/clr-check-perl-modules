@@ -1,0 +1,10 @@
+# [TITLE]: clr-check-perl-modules
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-check-perl-modules-bin)
+include(clr-check-perl-modules-license)
+include(clr-check-perl-modules-services)
+clr-check-perl-modules

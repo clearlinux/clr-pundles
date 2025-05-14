@@ -1,0 +1,8 @@
+# [TITLE]: lua-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lua-dev)
+lua-staticdev

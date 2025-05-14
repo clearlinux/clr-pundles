@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mixin-Linewise-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mixin-Linewise)
+perl-Mixin-Linewise-dev

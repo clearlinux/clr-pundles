@@ -1,0 +1,13 @@
+# [TITLE]: libidn2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libidn2-bin)
+include(libidn2-info)
+include(libidn2-lib)
+include(libidn2-license)
+include(libidn2-locales)
+include(libidn2-man)
+libidn2

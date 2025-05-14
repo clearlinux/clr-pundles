@@ -1,0 +1,8 @@
+# [TITLE]: perl-Eval-Closure-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Eval-Closure)
+perl-Eval-Closure-perl

@@ -1,0 +1,19 @@
+# [TITLE]: perl-namespace-autoclean
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Hooks-EndOfScope-perl)
+include(perl-Module-Implementation-perl)
+include(perl-Module-Runtime-perl)
+include(perl-Package-Stash-perl)
+include(perl-Sub-Exporter-Progressive-perl)
+include(perl-Sub-Identify-perl)
+include(perl-Test-Requires-perl)
+include(perl-Try-Tiny-perl)
+include(perl-Variable-Magic-perl)
+include(perl-namespace-autoclean-license)
+include(perl-namespace-autoclean-perl)
+include(perl-namespace-clean-perl)
+perl-namespace-autoclean

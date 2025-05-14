@@ -9,12 +9,12 @@ include(libglib)
 include(lib-opengl)
 include(lib-openssl)
 
-cairo-lib
-fontconfig-data
-fontconfig-lib
-freetype-lib
-glib-data
-glib-lib
+include(cairo-lib)
+include(fontconfig-data)
+include(fontconfig-lib)
+include(freetype-lib)
+include(glib-data)
+include(glib-lib)
 gtk+-data
 gtk+-lib
 harfbuzz-lib
@@ -22,17 +22,17 @@ libinput-data
 libinput-lib
 libinput-libexec
 libX11
-libX11-lib
-libXft-lib
+include(libX11-lib)
+include(libXft-lib)
 libXScrnSaver-lib
-libXcursor-lib
-libXtst-lib
+include(libXcursor-lib)
+include(libXtst-lib)
 libXt-lib
-libpng-lib
+include(libpng-lib)
 mesa-lib
-llvm-lib
-pango-lib
-pixman-lib
+include(llvm-lib)
+include(pango-lib)
+include(pixman-lib)
 Vulkan-Loader
 pciutils-lib
 

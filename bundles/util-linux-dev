@@ -1,0 +1,14 @@
+# [TITLE]: util-linux-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(sqlite-autoconf-dev)
+include(util-linux)
+include(util-linux-bin)
+include(util-linux-data)
+include(util-linux-dev)
+include(util-linux-lib)
+util-linux-dev

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-cryptsetup-dev
+include(cryptsetup-dev)
 include(popt-lib)
 include(gobject-introspection)
 include(gdk-pixbuf)

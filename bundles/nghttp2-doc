@@ -1,0 +1,8 @@
+# [TITLE]: nghttp2-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nghttp2-man)
+nghttp2-doc

@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Listing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Listing-license)
+include(perl-File-Listing-perl)
+perl-File-Listing

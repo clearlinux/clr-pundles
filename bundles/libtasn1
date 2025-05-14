@@ -1,0 +1,12 @@
+# [TITLE]: libtasn1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtasn1-bin)
+include(libtasn1-info)
+include(libtasn1-lib)
+include(libtasn1-license)
+include(libtasn1-man)
+libtasn1

@@ -1,0 +1,10 @@
+# [TITLE]: automake-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(automake-data)
+include(automake-license)
+include(perl-bin)
+automake-bin

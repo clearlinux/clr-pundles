@@ -1,0 +1,10 @@
+# [TITLE]: clrtrust-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-bin)
+include(clrtrust-libexec)
+include(clrtrust-license)
+clrtrust-bin

@@ -1,0 +1,14 @@
+# [TITLE]: perl-Config-INI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-INI-license)
+include(perl-Config-INI-perl)
+include(perl-Data-OptList-perl)
+include(perl-Mixin-Linewise-perl)
+include(perl-Params-Util-perl)
+include(perl-Sub-Exporter-perl)
+include(perl-Sub-Install-perl)
+perl-Config-INI

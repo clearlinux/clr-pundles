@@ -1,0 +1,9 @@
+# [TITLE]: perl-MIME-Base64
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MIME-Base64-license)
+include(perl-MIME-Base64-perl)
+perl-MIME-Base64

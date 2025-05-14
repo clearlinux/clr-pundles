@@ -1,0 +1,9 @@
+# [TITLE]: perl-Dist-CheckConflicts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Dist-CheckConflicts-license)
+include(perl-Dist-CheckConflicts-perl)
+perl-Dist-CheckConflicts

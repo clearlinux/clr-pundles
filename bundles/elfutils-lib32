@@ -1,0 +1,11 @@
+# [TITLE]: elfutils-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-license)
+include(glibc-libc32)
+include(zlib-lib32)
+include(zstd-lib32)
+elfutils-lib32

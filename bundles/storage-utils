@@ -8,17 +8,17 @@ include(smartmontools)
 include(libglib)
 include(samba)
 
-LVM2
-LVM2-extras
+include(LVM2)
+include(LVM2-extras)
 autofs
 include(btrfs-progs)
 bcachefs-tools
 cifs-utils
-cryptsetup-bin
-cryptsetup-config
+include(cryptsetup-bin)
+include(cryptsetup-config)
 include(cryptsetup-lib)
-cryptsetup-locales
-cryptsetup-man
+include(cryptsetup-locales)
+include(cryptsetup-man)
 include(dosfstools)
 e2fsprogs
 e2fsprogs-extras

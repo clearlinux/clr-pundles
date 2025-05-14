@@ -1,0 +1,13 @@
+# [TITLE]: libtool
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtool-bin)
+include(libtool-data)
+include(libtool-info)
+include(libtool-lib)
+include(libtool-license)
+include(libtool-man)
+libtool

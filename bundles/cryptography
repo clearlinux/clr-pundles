@@ -8,9 +8,9 @@ include(openssl)
 include(libglib)
 include(openssh-client)
 
-ca-certs
+include(ca-certs)
 include(gnupg)
-gnutls
+include(gnutls)
 nss-bin
 pinentry
 rng-tools

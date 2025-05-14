@@ -1,0 +1,10 @@
+# [TITLE]: clrtrust-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clrtrust-license)
+include(libc6)
+include(openssl-lib)
+clrtrust-libexec

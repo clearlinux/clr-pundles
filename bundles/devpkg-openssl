@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-openssl-dev
+include(openssl-dev)
 include(openssl)

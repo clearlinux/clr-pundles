@@ -1,0 +1,11 @@
+# [TITLE]: perl-URI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Business-ISBN-perl)
+include(perl-MIME-Base32-perl)
+include(perl-URI-license)
+include(perl-URI-perl)
+perl-URI

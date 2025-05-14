@@ -1,0 +1,8 @@
+# [TITLE]: xz-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xz-dev)
+xz-staticdev32

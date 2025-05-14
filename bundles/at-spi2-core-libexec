@@ -1,0 +1,15 @@
+# [TITLE]: at-spi2-core-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(at-spi2-core-license)
+include(dbus-lib)
+include(glib-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(systemd-extras-libsystemd)
+at-spi2-core-libexec

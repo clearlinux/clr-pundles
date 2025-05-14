@@ -1,0 +1,10 @@
+# [TITLE]: gsettings-desktop-schemas
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsettings-desktop-schemas-data)
+include(gsettings-desktop-schemas-license)
+include(gsettings-desktop-schemas-locales)
+gsettings-desktop-schemas

@@ -1,0 +1,12 @@
+# [TITLE]: kmod-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmod-bin)
+include(kmod-data)
+include(kmod-dev)
+include(kmod-lib32)
+include(pkg-config-bin)
+kmod-dev32

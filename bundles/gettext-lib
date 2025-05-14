@@ -1,0 +1,13 @@
+# [TITLE]: gettext-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gettext-data)
+include(gettext-libexec)
+include(gettext-license)
+include(libc6)
+include(libstdc++)
+include(ncurses-lib)
+gettext-lib

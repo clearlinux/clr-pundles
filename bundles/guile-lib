@@ -1,0 +1,16 @@
+# [TITLE]: guile-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gc-lib)
+include(gmp-lib)
+include(guile-data)
+include(guile-license)
+include(libc6)
+include(libffi-lib)
+include(libunistring-lib)
+include(libxcrypt-lib)
+include(readline-lib)
+guile-lib

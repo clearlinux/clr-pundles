@@ -12,8 +12,8 @@ include(libglib)
 include(python3-basic)
 include(btrfs-progs)
 
-LVM2-bin
-LVM2-config
+include(LVM2-bin)
+include(LVM2-config)
 bridge-utils
 buildx
 cni-plugins

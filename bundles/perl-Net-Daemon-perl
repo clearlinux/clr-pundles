@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-Daemon-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-Daemon)
+perl-Net-Daemon-perl

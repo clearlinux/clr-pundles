@@ -1,0 +1,15 @@
+# [TITLE]: curl-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-bin)
+include(curl-dev)
+include(curl-lib32)
+include(nghttp2-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+include(zstd-dev)
+curl-dev32

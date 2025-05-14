@@ -1,0 +1,9 @@
+# [TITLE]: bzip2-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-license)
+include(glibc-libc32)
+bzip2-lib32

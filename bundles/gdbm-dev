@@ -1,0 +1,10 @@
+# [TITLE]: gdbm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdbm)
+include(gdbm-bin)
+include(gdbm-lib)
+gdbm-dev

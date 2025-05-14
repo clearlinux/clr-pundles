@@ -1,0 +1,10 @@
+# [TITLE]: openssl-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c_rehash)
+include(openssl)
+include(openssl-lib)
+openssl-extras

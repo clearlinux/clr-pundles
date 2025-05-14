@@ -1,0 +1,11 @@
+# [TITLE]: lz4-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lz4)
+include(lz4-bin)
+include(lz4-lib)
+include(pkg-config-bin)
+lz4-dev

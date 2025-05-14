@@ -1,0 +1,11 @@
+# [TITLE]: wayland-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libffi-lib)
+include(wayland-data)
+include(wayland-license)
+wayland-lib

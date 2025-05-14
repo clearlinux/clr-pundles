@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Load-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Load)
+perl-Class-Load-dev

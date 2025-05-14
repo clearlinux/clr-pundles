@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Requires
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Requires-license)
+include(perl-Test-Requires-perl)
+perl-Test-Requires

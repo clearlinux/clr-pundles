@@ -1,0 +1,8 @@
+# [TITLE]: perl-App-Nopaste-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-Nopaste)
+perl-App-Nopaste-perl

@@ -1,0 +1,9 @@
+# [TITLE]: libidn2-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libidn2-license)
+libidn2-lib32

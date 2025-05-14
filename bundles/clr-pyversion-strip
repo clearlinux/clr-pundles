@@ -1,0 +1,8 @@
+# [TITLE]: clr-pyversion-strip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-pyversion-strip-bin)
+clr-pyversion-strip

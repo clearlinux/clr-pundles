@@ -12,8 +12,8 @@ include(python-basic)
 
 micro-config-drive
 e2fsprogs
-glib-lib
-json-glib-lib
+include(glib-lib)
+include(json-glib-lib)
 parted-lib
 include(util-linux-lib)
-yaml-lib
+include(yaml-lib)

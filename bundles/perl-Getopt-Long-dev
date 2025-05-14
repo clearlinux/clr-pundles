@@ -1,0 +1,8 @@
+# [TITLE]: perl-Getopt-Long-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Getopt-Long)
+perl-Getopt-Long-dev

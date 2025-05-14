@@ -1,0 +1,8 @@
+# [TITLE]: perl-B-Hooks-EndOfScope-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Hooks-EndOfScope)
+perl-B-Hooks-EndOfScope-perl

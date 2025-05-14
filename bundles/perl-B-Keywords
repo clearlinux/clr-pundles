@@ -1,0 +1,9 @@
+# [TITLE]: perl-B-Keywords
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Keywords-license)
+include(perl-B-Keywords-perl)
+perl-B-Keywords

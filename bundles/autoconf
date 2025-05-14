@@ -1,0 +1,12 @@
+# [TITLE]: autoconf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autoconf-bin)
+include(autoconf-data)
+include(autoconf-info)
+include(autoconf-license)
+include(autoconf-man)
+autoconf

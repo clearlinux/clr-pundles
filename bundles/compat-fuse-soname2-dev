@@ -1,0 +1,9 @@
+# [TITLE]: compat-fuse-soname2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-fuse-soname2)
+include(compat-fuse-soname2-lib)
+compat-fuse-soname2-dev

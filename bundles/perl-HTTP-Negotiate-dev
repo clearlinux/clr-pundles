@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTTP-Negotiate-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Negotiate)
+perl-HTTP-Negotiate-dev

@@ -1,0 +1,9 @@
+# [TITLE]: clr-optimized-link-scripts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-optimized-link-scripts-data)
+include(clr-optimized-link-scripts-license)
+clr-optimized-link-scripts

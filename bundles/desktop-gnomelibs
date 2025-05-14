@@ -12,7 +12,7 @@ include(lib-opengl)
 include(webkitgtk)
 include(curl)
 accountsservice-lib
-gtk3-lib
+include(gtk3-lib)
 gtk+-lib
 alsa-lib
 gnome-shell-lib
@@ -28,10 +28,10 @@ ibus-lib
 libnotify-lib
 alsa-plugins-lib
 libappindicator-lib
-gdk-pixbuf-lib
+include(gdk-pixbuf-lib)
 libsoup-lib
 libva-lib
-colord-lib
+include(colord-lib)
 webkitgtk-lib
 libpeas-lib
 samba-lib
@@ -50,7 +50,7 @@ libproxy
 include(audio-pipewire)
 include(dav1d-lib)
 # include(gnome-base-libs)
-libxml2-lib
+include(libxml2-lib)
 include(aspell)
 include(not-ffmpeg-lib)
 include(gobject-introspection)

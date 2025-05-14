@@ -1,0 +1,12 @@
+# [TITLE]: m4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(m4-bin)
+include(m4-info)
+include(m4-license)
+include(m4-locales)
+include(m4-man)
+m4

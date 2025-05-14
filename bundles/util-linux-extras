@@ -1,0 +1,9 @@
+# [TITLE]: util-linux-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(zlib-lib)
+util-linux-extras

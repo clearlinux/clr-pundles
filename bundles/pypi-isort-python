@@ -1,0 +1,8 @@
+# [TITLE]: pypi-isort-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-isort-python3)
+pypi-isort-python

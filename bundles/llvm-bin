@@ -1,0 +1,20 @@
+# [TITLE]: llvm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libedit-lib)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(llvm-data)
+include(llvm-lib)
+include(llvm-libexec)
+include(llvm-license)
+include(ncurses-lib)
+include(zlib-lib)
+include(zstd-lib)
+llvm-bin

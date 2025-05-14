@@ -1,0 +1,8 @@
+# [TITLE]: perl-namespace-autoclean-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-namespace-autoclean)
+perl-namespace-autoclean-perl

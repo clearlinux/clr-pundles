@@ -9,7 +9,7 @@ include(os-core)
 include(glibc-libc32)
 include(ncurses-lib32)
 include(acl-lib32)
-glib-lib32
+include(glib-lib32)
 include(libcap-lib32)
 include(libstdcpp)
 include(libglib)

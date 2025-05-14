@@ -1,0 +1,12 @@
+# [TITLE]: dbus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus)
+include(dbus-bin)
+include(dbus-data)
+include(dbus-lib)
+include(pkg-config-bin)
+dbus-dev

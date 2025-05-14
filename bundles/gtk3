@@ -1,0 +1,14 @@
+# [TITLE]: gtk3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsettings-desktop-schemas)
+include(gtk3-bin)
+include(gtk3-data)
+include(gtk3-lib)
+include(gtk3-license)
+include(gtk3-locales)
+include(gtk3-services)
+gtk3

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-HTTP-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-HTTP)
+perl-Net-HTTP-perl

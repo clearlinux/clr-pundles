@@ -1,0 +1,10 @@
+# [TITLE]: perl-Config-INI-Reader-Ordered
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-INI-Reader-Ordered-license)
+include(perl-Config-INI-Reader-Ordered-perl)
+include(perl-Config-INI-perl)
+perl-Config-INI-Reader-Ordered

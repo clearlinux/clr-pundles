@@ -1,0 +1,10 @@
+# [TITLE]: libpng-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpng-license)
+include(zlib-lib)
+libpng-lib

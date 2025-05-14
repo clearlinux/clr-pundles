@@ -26,7 +26,7 @@ libxfce4ui-bin
 mkfontdir
 mkfontscale
 powerline-fonts
-shared-mime-info
+include(shared-mime-info)
 thunar-volman
 xcursor-themes
 xdg-user-dirs

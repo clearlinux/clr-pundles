@@ -1,0 +1,10 @@
+# [TITLE]: perl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-license)
+include(perl-perl)
+perl-bin

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-StackTrace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-StackTrace-license)
+include(perl-Devel-StackTrace-perl)
+perl-Devel-StackTrace

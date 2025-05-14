@@ -1,0 +1,9 @@
+# [TITLE]: c_rehash-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+c_rehash-bin

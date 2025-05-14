@@ -1,0 +1,8 @@
+# [TITLE]: pypi-setuptools-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools-python3)
+pypi-setuptools-python

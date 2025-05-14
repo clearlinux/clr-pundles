@@ -1,0 +1,11 @@
+# [TITLE]: expat-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-bin)
+include(expat-dev)
+include(expat-lib32)
+include(pkg-config-bin)
+expat-dev32

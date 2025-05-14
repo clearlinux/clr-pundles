@@ -1,0 +1,8 @@
+# [TITLE]: perl-PerlIO-utf8_strict-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PerlIO-utf8_strict)
+perl-PerlIO-utf8_strict-dev

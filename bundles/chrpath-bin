@@ -1,0 +1,9 @@
+# [TITLE]: chrpath-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chrpath-license)
+include(libc6)
+chrpath-bin

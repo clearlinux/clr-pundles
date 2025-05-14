@@ -13,5 +13,5 @@ include(ncurses-lib)
 # end of custom additions
 
 # main package
-sqlite-autoconf
-vsqlite
+include(sqlite-autoconf)
+include(vsqlite)

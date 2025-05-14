@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cffi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cffi-license)
+include(pypi-cffi-python)
+include(pypi-cffi-python3)
+pypi-cffi

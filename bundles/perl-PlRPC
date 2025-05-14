@@ -1,0 +1,10 @@
+# [TITLE]: perl-PlRPC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-Daemon-perl)
+include(perl-PlRPC-perl)
+include(perl-Storable-perl)
+perl-PlRPC

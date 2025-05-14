@@ -1,0 +1,11 @@
+# [TITLE]: xz-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xz-bin)
+include(xz-dev)
+include(xz-lib32)
+xz-dev32

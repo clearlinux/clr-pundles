@@ -1,0 +1,12 @@
+# [TITLE]: libxkbcommon-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(libxkbcommon-lib)
+include(libxkbcommon-license)
+include(wayland-lib)
+libxkbcommon-libexec

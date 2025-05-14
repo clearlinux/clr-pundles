@@ -1,0 +1,11 @@
+# [TITLE]: python3-xz-lzma
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(python3-core)
+include(python3-lib)
+include(xz-lib)
+python3-xz-lzma

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-wheel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-keyring-python3)
+include(pypi-wheel-bin)
+include(pypi-wheel-license)
+include(pypi-wheel-python)
+include(pypi-wheel-python3)
+pypi-wheel

@@ -1,0 +1,10 @@
+# [TITLE]: LVM2-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-config)
+include(LVM2-license)
+include(filesystem)
+LVM2-libexec

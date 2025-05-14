@@ -1,0 +1,8 @@
+# [TITLE]: perl-Encode-Locale
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Encode-Locale-perl)
+perl-Encode-Locale

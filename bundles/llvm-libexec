@@ -1,0 +1,9 @@
+# [TITLE]: llvm-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(llvm-license)
+llvm-libexec

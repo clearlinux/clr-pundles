@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-util-linux-dev
+include(util-linux-dev)

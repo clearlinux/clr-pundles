@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-glib-dev
+include(glib-dev)
 include(libglib)

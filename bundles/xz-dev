@@ -1,0 +1,11 @@
+# [TITLE]: xz-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xz)
+include(xz-bin)
+include(xz-lib)
+xz-dev

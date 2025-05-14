@@ -1,0 +1,9 @@
+# [TITLE]: findutils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(findutils-license)
+include(libc6)
+findutils-bin

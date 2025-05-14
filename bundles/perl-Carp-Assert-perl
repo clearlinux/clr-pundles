@@ -1,0 +1,8 @@
+# [TITLE]: perl-Carp-Assert-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Carp-Assert)
+perl-Carp-Assert-perl

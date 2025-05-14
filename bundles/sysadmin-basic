@@ -20,7 +20,7 @@ autossh
 include(bash)
 bash-completion
 bashdb
-bzip2
+include(bzip2)
 clr-hardware-files
 clr-man-pages
 clr-service-restart
@@ -28,7 +28,7 @@ cnf
 collectl
 include(coreutils)
 cpuid
-dbus
+include(dbus)
 dfc
 include(diffutils)
 dmidecode
@@ -52,7 +52,7 @@ innoextract
 include(iperf)
 include(kbd)
 include(kernel-install)
-kmod
+include(kmod)
 ledmon
 include(less)
 include(libcap-bin)
@@ -94,7 +94,7 @@ include(socat)
 stow
 include(strace)
 include(systemd)
-systemd-bootchart
+include(systemd-bootchart)
 include(systemd-doc)
 include(systemd-locales)
 thunderbolt-software-user-space
@@ -105,8 +105,8 @@ include(tzdata)
 include(unzip)
 usbutils
 include(cyme)
-util-linux
-util-linux-man
+include(util-linux)
+include(util-linux-man)
 # mkpasswd tool is part of whois
 whois-extras
 include(zstd)

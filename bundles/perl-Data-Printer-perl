@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Printer-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Printer)
+perl-Data-Printer-perl

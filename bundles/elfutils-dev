@@ -1,0 +1,13 @@
+# [TITLE]: elfutils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils)
+include(elfutils-bin)
+include(elfutils-lib)
+include(pkg-config-bin)
+include(zlib-dev)
+include(zstd-dev)
+elfutils-dev

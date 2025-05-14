@@ -1,0 +1,11 @@
+# [TITLE]: xz-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(xz-lib)
+include(xz-license)
+xz-bin

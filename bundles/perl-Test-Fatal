@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Fatal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Fatal-license)
+include(perl-Test-Fatal-perl)
+perl-Test-Fatal

@@ -17,7 +17,7 @@ include(openssl)
 # Fullfiles compression
 include(gzip)
 include(zstd)
-bzip2
+include(bzip2)
 
 # Build
 include(dnf)

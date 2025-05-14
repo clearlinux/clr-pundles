@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-Singleton
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Singleton-license)
+include(perl-Class-Singleton-perl)
+perl-Class-Singleton

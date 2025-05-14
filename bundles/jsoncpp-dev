@@ -1,0 +1,10 @@
+# [TITLE]: jsoncpp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jsoncpp)
+include(jsoncpp-lib)
+include(pkg-config-bin)
+jsoncpp-dev

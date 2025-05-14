@@ -1,0 +1,9 @@
+# [TITLE]: lcms2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lcms2-license)
+include(libc6)
+lcms2-lib

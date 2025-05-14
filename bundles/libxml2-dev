@@ -1,0 +1,11 @@
+# [TITLE]: libxml2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxml2)
+include(libxml2-bin)
+include(libxml2-lib)
+include(pkg-config-bin)
+libxml2-dev

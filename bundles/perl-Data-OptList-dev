@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-OptList-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-OptList)
+perl-Data-OptList-dev

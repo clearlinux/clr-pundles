@@ -1,0 +1,11 @@
+# [TITLE]: check-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(check)
+include(check-bin)
+include(check-lib)
+include(subunit-dev)
+check-dev

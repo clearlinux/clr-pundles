@@ -11,8 +11,8 @@ include(libstdcpp)
 include(libglib)
 include(perl-basic)
 
-LVM2-bin
-LVM2-config
+include(LVM2-bin)
+include(LVM2-config)
 cloud-native-setup
 cni-plugins
 containerd

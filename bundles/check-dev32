@@ -1,0 +1,10 @@
+# [TITLE]: check-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(check-bin)
+include(check-dev)
+include(check-lib32)
+check-dev32

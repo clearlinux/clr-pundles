@@ -11,7 +11,7 @@ include(Sphinx)
 include(python-testing)
 
 bats
-check
+include(check)
 cmocka
 include(devpkg-cmocka)
 glog

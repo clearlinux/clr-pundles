@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-gnutls-dev
+include(gnutls-dev)

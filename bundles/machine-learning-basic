@@ -84,5 +84,5 @@ swig
 include(devpkg-tbb)
 
 pypi-tqdm
-pypi-wheel
+include(pypi-wheel)
 include(pcre-lib)

@@ -1,0 +1,10 @@
+# [TITLE]: perl-HTTP-Message
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Clone-perl)
+include(perl-HTTP-Message-license)
+include(perl-HTTP-Message-perl)
+perl-HTTP-Message

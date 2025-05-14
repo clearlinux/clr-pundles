@@ -17,8 +17,8 @@ also-add(rust-basic)
 also-add(sqlite)
 also-add(devpkg-acl)
 also-add(devpkg-attr)
-autoconf
-autoconf-data
+include(autoconf)
+include(autoconf-data)
 also-add(bc)
 also-add(bison)
 bndl-lamp-basic
@@ -26,7 +26,7 @@ also-add(devpkg-boost)
 include(devpkg-bzip2)
 include(devpkg-bzip2)
 clinfo
-cmake
+include(cmake)
 also-add(devpkg-curl)
 dialog
 dmidecode
@@ -55,7 +55,7 @@ include(devpkg-libksba)
 also-add(devpkg-libnl)
 also-add(devpkg-libogg)
 also-add(devpkg-libpng)
-libtool
+include(libtool)
 include(devpkg-libvorbis)
 also-add(devpkg-lua)
 also-add(machine-learning-basic)
@@ -80,13 +80,13 @@ also-add(patch)
 pbzip2
 pciutils
 also-add(devpkg-pcre)
-perl
-perl-Digest-MD5
+include(perl)
+include(perl-Digest-MD5)
 include(phoronix-test-suite)
 include(devpkg-pkg-config)
 also-add(devpkg-popt)
 pth-dev
-python3-dev
+include(python3-dev)
 also-add(R-basic)
 also-add(scons)
 include(devpkg-snappy)

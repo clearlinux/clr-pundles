@@ -1,0 +1,8 @@
+# [TITLE]: nghttp2-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nghttp2-dev)
+nghttp2-staticdev

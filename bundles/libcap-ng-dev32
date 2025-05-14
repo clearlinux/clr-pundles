@@ -1,0 +1,11 @@
+# [TITLE]: libcap-ng-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcap-ng-bin)
+include(libcap-ng-dev)
+include(libcap-ng-lib32)
+include(pkg-config-bin)
+libcap-ng-dev32

@@ -4,7 +4,7 @@
 # [CAPABILITIES]: Lua, LuaJIT, and Luarocks
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-lua
+include(lua)
 LuaJIT
 luarocks
 include(ncurses-lib)

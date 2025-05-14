@@ -1,0 +1,13 @@
+# [TITLE]: libgudev-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgudev-data)
+include(libgudev-license)
+include(systemd-lib)
+libgudev-lib

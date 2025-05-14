@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sub-Identify-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Sub-Identify)
+perl-Sub-Identify-perl

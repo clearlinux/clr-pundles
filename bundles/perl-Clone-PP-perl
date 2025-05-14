@@ -1,0 +1,8 @@
+# [TITLE]: perl-Clone-PP-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Clone-PP)
+perl-Clone-PP-perl

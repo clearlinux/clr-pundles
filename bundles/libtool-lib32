@@ -1,0 +1,10 @@
+# [TITLE]: libtool-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libtool-data)
+include(libtool-license)
+libtool-lib32

@@ -1,0 +1,9 @@
+# [TITLE]: bison-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bison-info)
+include(bison-man)
+bison-doc

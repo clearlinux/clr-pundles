@@ -1,0 +1,13 @@
+# [TITLE]: gnutls
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-bin)
+include(gnutls-info)
+include(gnutls-lib)
+include(gnutls-license)
+include(gnutls-locales)
+include(gnutls-man)
+gnutls

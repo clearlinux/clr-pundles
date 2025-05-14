@@ -1,0 +1,9 @@
+# [TITLE]: perl-Business-ISBN-Data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Business-ISBN-Data-license)
+include(perl-Business-ISBN-Data-perl)
+perl-Business-ISBN-Data

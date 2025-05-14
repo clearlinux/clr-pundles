@@ -1,0 +1,9 @@
+# [TITLE]: perl-Params-Validate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Params-Validate-license)
+include(perl-Params-Validate-perl)
+perl-Params-Validate

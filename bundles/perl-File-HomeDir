@@ -1,0 +1,10 @@
+# [TITLE]: perl-File-HomeDir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-HomeDir-license)
+include(perl-File-HomeDir-perl)
+include(perl-File-Which-perl)
+perl-File-HomeDir

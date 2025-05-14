@@ -1,0 +1,9 @@
+# [TITLE]: flex-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flex-info)
+include(flex-man)
+flex-doc

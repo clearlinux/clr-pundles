@@ -1,0 +1,11 @@
+# [TITLE]: libpwquality-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cracklib-lib)
+include(libc6)
+include(libpwquality-license)
+libpwquality-lib

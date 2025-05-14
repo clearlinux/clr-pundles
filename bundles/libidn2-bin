@@ -1,0 +1,11 @@
+# [TITLE]: libidn2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libidn2-lib)
+include(libidn2-license)
+include(libunistring-lib)
+libidn2-bin

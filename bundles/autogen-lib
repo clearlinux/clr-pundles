@@ -1,0 +1,10 @@
+# [TITLE]: autogen-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autogen-data)
+include(autogen-license)
+include(libc6)
+autogen-lib

@@ -1,0 +1,14 @@
+# [TITLE]: shared-mime-info
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(shared-mime-info-bin)
+include(shared-mime-info-config)
+include(shared-mime-info-data)
+include(shared-mime-info-license)
+include(shared-mime-info-locales)
+include(shared-mime-info-man)
+include(shared-mime-info-services)
+shared-mime-info

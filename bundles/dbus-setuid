@@ -1,0 +1,11 @@
+# [TITLE]: dbus-setuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(expat-lib)
+include(libc6)
+include(systemd-extras-libsystemd)
+dbus-setuid

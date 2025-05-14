@@ -1,0 +1,9 @@
+# [TITLE]: perl-Digest-MD5-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Digest-MD5)
+perl-Digest-MD5-perl

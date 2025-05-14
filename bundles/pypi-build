@@ -1,0 +1,12 @@
+# [TITLE]: pypi-build
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-build-bin)
+include(pypi-build-license)
+include(pypi-build-python)
+include(pypi-build-python3)
+include(pypi-packaging-python3)
+pypi-build

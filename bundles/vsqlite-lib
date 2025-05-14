@@ -1,0 +1,12 @@
+# [TITLE]: vsqlite-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(sqlite-autoconf-lib)
+include(vsqlite-license)
+vsqlite-lib

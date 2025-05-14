@@ -1,0 +1,8 @@
+# [TITLE]: perl-PadWalker-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PadWalker)
+perl-PadWalker-dev

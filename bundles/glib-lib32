@@ -1,0 +1,14 @@
+# [TITLE]: glib-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-data)
+include(glib-license)
+include(glibc-libc32)
+include(libffi-lib32)
+include(pcre2-lib32)
+include(util-linux-lib32)
+include(zlib-lib32)
+glib-lib32

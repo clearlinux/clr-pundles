@@ -1,0 +1,9 @@
+# [TITLE]: check-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(check-info)
+include(check-man)
+check-doc

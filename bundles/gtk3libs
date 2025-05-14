@@ -12,4 +12,4 @@ include(libglib)
 # end of custom additions
 
 # main package
-gtk3-lib
+include(gtk3-lib)

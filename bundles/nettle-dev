@@ -1,0 +1,12 @@
+# [TITLE]: nettle-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nettle)
+include(nettle-bin)
+include(nettle-dev)
+include(nettle-lib)
+include(pkg-config-bin)
+nettle-dev

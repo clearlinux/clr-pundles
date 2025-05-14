@@ -1,0 +1,9 @@
+# [TITLE]: compat-libxml2-soname2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(compat-libxml2-soname2-license)
+compat-libxml2-soname2

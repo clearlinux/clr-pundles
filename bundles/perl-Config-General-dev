@@ -1,0 +1,8 @@
+# [TITLE]: perl-Config-General-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-General)
+perl-Config-General-dev

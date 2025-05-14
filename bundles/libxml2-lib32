@@ -1,0 +1,9 @@
+# [TITLE]: libxml2-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libxml2-license)
+libxml2-lib32

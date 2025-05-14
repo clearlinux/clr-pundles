@@ -1,0 +1,10 @@
+# [TITLE]: libunistring
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libunistring-info)
+include(libunistring-lib)
+include(libunistring-license)
+libunistring

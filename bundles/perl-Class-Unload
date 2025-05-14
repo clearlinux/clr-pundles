@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-Unload
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Unload-license)
+include(perl-Class-Unload-perl)
+perl-Class-Unload

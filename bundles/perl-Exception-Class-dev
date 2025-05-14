@@ -1,0 +1,8 @@
+# [TITLE]: perl-Exception-Class-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Exception-Class)
+perl-Exception-Class-dev

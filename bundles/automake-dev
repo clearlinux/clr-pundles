@@ -1,0 +1,10 @@
+# [TITLE]: automake-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(automake)
+include(automake-bin)
+include(automake-data)
+automake-dev

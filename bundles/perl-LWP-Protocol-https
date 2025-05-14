@@ -1,0 +1,9 @@
+# [TITLE]: perl-LWP-Protocol-https
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-LWP-Protocol-https-license)
+include(perl-LWP-Protocol-https-perl)
+perl-LWP-Protocol-https

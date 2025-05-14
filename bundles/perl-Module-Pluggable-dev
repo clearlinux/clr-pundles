@@ -1,0 +1,8 @@
+# [TITLE]: perl-Module-Pluggable-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Pluggable)
+perl-Module-Pluggable-dev

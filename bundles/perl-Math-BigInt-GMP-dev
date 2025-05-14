@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-BigInt-GMP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-BigInt-GMP)
+perl-Math-BigInt-GMP-dev

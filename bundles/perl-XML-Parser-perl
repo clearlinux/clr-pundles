@@ -1,0 +1,10 @@
+# [TITLE]: perl-XML-Parser-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(libc6)
+include(perl-XML-Parser)
+perl-XML-Parser-perl

@@ -1,0 +1,8 @@
+# [TITLE]: bzip2-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-dev)
+bzip2-staticdev32

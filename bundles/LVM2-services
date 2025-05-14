@@ -1,0 +1,8 @@
+# [TITLE]: LVM2-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+LVM2-services

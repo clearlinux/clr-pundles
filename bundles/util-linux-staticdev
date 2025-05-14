@@ -1,0 +1,8 @@
+# [TITLE]: util-linux-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(util-linux-dev)
+util-linux-staticdev

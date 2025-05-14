@@ -1,0 +1,8 @@
+# [TITLE]: llvm-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(llvm-dev)
+llvm-staticdev32

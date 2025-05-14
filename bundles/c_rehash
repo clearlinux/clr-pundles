@@ -1,0 +1,8 @@
+# [TITLE]: c_rehash
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c_rehash-bin)
+c_rehash

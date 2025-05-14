@@ -1,0 +1,9 @@
+# [TITLE]: fribidi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fribidi-license)
+include(libc6)
+fribidi-lib

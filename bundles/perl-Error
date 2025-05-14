@@ -1,0 +1,9 @@
+# [TITLE]: perl-Error
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Error-license)
+include(perl-Error-perl)
+perl-Error

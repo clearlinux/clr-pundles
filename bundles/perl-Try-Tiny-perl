@@ -1,0 +1,8 @@
+# [TITLE]: perl-Try-Tiny-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Try-Tiny)
+perl-Try-Tiny-perl

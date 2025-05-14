@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sub-Identify-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Identify)
+perl-Sub-Identify-dev

@@ -1,0 +1,11 @@
+# [TITLE]: perl-DateTime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Locale-perl)
+include(perl-DateTime-TimeZone-perl)
+include(perl-DateTime-perl)
+include(perl-Dist-CheckConflicts-perl)
+perl-DateTime

@@ -1,0 +1,8 @@
+# [TITLE]: glib-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+glib-services

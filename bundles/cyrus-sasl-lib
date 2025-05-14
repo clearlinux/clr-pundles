@@ -1,0 +1,12 @@
+# [TITLE]: cyrus-sasl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-license)
+include(gdbm-lib)
+include(krb5-lib)
+include(libc6)
+include(openssl-lib)
+cyrus-sasl-lib

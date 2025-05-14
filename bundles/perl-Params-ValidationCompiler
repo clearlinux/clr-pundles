@@ -1,0 +1,13 @@
+# [TITLE]: perl-Params-ValidationCompiler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-XSAccessor-perl)
+include(perl-Eval-Closure-perl)
+include(perl-Exception-Class-perl)
+include(perl-Params-ValidationCompiler-license)
+include(perl-Params-ValidationCompiler-perl)
+include(perl-Type-Tiny-perl)
+perl-Params-ValidationCompiler

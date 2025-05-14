@@ -16,7 +16,7 @@ include(libstdcpp)
 # include(libX11client)
 # include(lib-imageformat)
 include(libstdcpp)
-clr-debug-info
+include(clr-debug-info)
 include(curl)
 # end of custom additions
 

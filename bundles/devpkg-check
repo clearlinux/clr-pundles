@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-check-dev
+include(check-dev)

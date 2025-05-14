@@ -1,0 +1,8 @@
+# [TITLE]: perl-Module-Implementation-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Implementation)
+perl-Module-Implementation-dev

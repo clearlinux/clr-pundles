@@ -1,0 +1,11 @@
+# [TITLE]: libseccomp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libseccomp-bin)
+include(libseccomp-lib)
+include(libseccomp-license)
+include(libseccomp-man)
+libseccomp

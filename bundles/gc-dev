@@ -1,0 +1,10 @@
+# [TITLE]: gc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gc)
+include(gc-lib)
+include(pkg-config-bin)
+gc-dev

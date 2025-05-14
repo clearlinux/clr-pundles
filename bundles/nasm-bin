@@ -1,0 +1,9 @@
+# [TITLE]: nasm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nasm-license)
+nasm-bin

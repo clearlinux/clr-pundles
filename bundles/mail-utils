@@ -7,6 +7,6 @@
 include(mutt)
 imapfilter
 fetchmail
-msmtp
+include(msmtp)
 include(notmuch)
 procmail

@@ -1,0 +1,11 @@
+# [TITLE]: LVM2-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-python-python3)
+include(pygobject-python3)
+include(python3-core)
+include(pyudev-python3)
+LVM2-python3

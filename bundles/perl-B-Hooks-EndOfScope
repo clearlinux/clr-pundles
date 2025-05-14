@@ -1,0 +1,12 @@
+# [TITLE]: perl-B-Hooks-EndOfScope
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Hooks-EndOfScope-license)
+include(perl-B-Hooks-EndOfScope-perl)
+include(perl-Module-Implementation-perl)
+include(perl-Sub-Exporter-Progressive-perl)
+include(perl-Variable-Magic-perl)
+perl-B-Hooks-EndOfScope

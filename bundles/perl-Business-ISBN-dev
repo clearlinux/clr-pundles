@@ -1,0 +1,8 @@
+# [TITLE]: perl-Business-ISBN-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Business-ISBN)
+perl-Business-ISBN-dev

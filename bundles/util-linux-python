@@ -1,0 +1,8 @@
+# [TITLE]: util-linux-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(util-linux-python3)
+util-linux-python

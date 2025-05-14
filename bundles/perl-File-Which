@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Which
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Which-license)
+include(perl-File-Which-perl)
+perl-File-Which

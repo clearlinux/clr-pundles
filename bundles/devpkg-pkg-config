@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-pkg-config-dev
+include(pkg-config-dev)

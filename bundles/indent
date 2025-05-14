@@ -1,0 +1,12 @@
+# [TITLE]: indent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(indent-bin)
+include(indent-info)
+include(indent-license)
+include(indent-locales)
+include(indent-man)
+indent

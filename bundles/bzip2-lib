@@ -1,0 +1,9 @@
+# [TITLE]: bzip2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-license)
+include(libc6)
+bzip2-lib

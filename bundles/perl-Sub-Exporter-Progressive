@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sub-Exporter-Progressive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Exporter-Progressive-license)
+include(perl-Sub-Exporter-Progressive-perl)
+perl-Sub-Exporter-Progressive

@@ -1,0 +1,9 @@
+# [TITLE]: flex-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flex-license)
+include(libc6)
+flex-lib

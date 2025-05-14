@@ -28,8 +28,8 @@ bluez
 bolt
 clutter
 colord
-colord-config
-dbus-extras
+include(colord-config)
+include(dbus-extras)
 desktop-file-utils
 include(fontconfig)
 include(fuse)
@@ -38,11 +38,11 @@ geoclue
 geocode-glib
 include(gjs)
 include(libglib)
-glib
+include(glib)
 glib-networking
-gsettings-desktop-schemas
+include(gsettings-desktop-schemas)
 gtk+
-gtk3
+include(gtk3)
 ibus
 ibus-libpinyin
 ibus-skk
@@ -65,7 +65,7 @@ mutter
 orca
 pango
 include(pygobject)
-shared-mime-info
+include(shared-mime-info)
 include(tzdata)
 pygobject-extras
 
@@ -155,7 +155,7 @@ yelp
 cups
 ModemManager
 ntfs-3g
-swupd-search
+include(swupd-search)
 also-add(thermal_daemon)
 include(gdk-pixbuf)
 include(vte-lib)

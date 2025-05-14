@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libtasn1-dev
+include(libtasn1-dev)

@@ -1,0 +1,14 @@
+# [TITLE]: gettext-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(compat-libxml2-soname2-lib)
+include(gettext)
+include(gettext-bin)
+include(gettext-data)
+include(gettext-lib)
+include(libc6)
+gettext-dev

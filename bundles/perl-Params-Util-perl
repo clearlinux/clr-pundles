@@ -1,0 +1,9 @@
+# [TITLE]: perl-Params-Util-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Params-Util)
+perl-Params-Util-perl

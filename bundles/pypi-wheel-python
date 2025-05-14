@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wheel-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wheel-python3)
+pypi-wheel-python

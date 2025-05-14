@@ -1,0 +1,12 @@
+# [TITLE]: autogen-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autogen)
+include(autogen-bin)
+include(autogen-data)
+include(autogen-lib)
+include(pkg-config-bin)
+autogen-dev

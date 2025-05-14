@@ -1,0 +1,9 @@
+# [TITLE]: perl-MRO-Compat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MRO-Compat-license)
+include(perl-MRO-Compat-perl)
+perl-MRO-Compat

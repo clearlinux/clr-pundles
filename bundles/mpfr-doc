@@ -1,0 +1,8 @@
+# [TITLE]: mpfr-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpfr-info)
+mpfr-doc

@@ -1,0 +1,14 @@
+# [TITLE]: perl-HTML-Form
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Form-license)
+include(perl-HTML-Form-perl)
+include(perl-HTML-Parser-perl)
+include(perl-HTML-Tagset-perl)
+include(perl-HTTP-Message-perl)
+include(perl-LWP-MediaTypes-perl)
+include(perl-URI-perl)
+perl-HTML-Form

@@ -1,0 +1,14 @@
+# [TITLE]: freetype-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-lib)
+include(bzip2-lib)
+include(freetype-license)
+include(harfbuzz-lib)
+include(libc6)
+include(libpng-lib)
+include(zlib-lib)
+freetype-lib

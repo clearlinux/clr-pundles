@@ -27,8 +27,8 @@ R-stringr
 R-testthat
 R-xfun
 R-yaml
-cmake
+include(cmake)
 include(gcc)
 include(gcc-dev)
 include(openblas)
-buildreq-distutils3
+include(buildreq-distutils3)

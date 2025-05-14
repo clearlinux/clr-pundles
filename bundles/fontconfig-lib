@@ -1,0 +1,12 @@
+# [TITLE]: fontconfig-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(fontconfig-data)
+include(fontconfig-license)
+include(freetype-lib)
+include(libc6)
+fontconfig-lib

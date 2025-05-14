@@ -1,0 +1,15 @@
+# [TITLE]: libarchive-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(bzip2-lib)
+include(libarchive-license)
+include(libc6)
+include(openssl-lib)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+libarchive-bin

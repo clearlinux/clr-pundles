@@ -1,0 +1,10 @@
+# [TITLE]: autoconf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autoconf-data)
+include(autoconf-license)
+include(perl-bin)
+autoconf-bin

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sort-Naturally
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sort-Naturally-license)
+include(perl-Sort-Naturally-perl)
+perl-Sort-Naturally

@@ -1,0 +1,11 @@
+# [TITLE]: perl-Exception-Class
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Data-Inheritable-perl)
+include(perl-Devel-StackTrace-perl)
+include(perl-Exception-Class-license)
+include(perl-Exception-Class-perl)
+perl-Exception-Class

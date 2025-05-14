@@ -1,0 +1,21 @@
+# [TITLE]: python3-core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(coreutils-bin)
+include(expat-lib)
+include(filesystem)
+include(gdbm-lib)
+include(libc6)
+include(libffi-lib)
+include(ncurses-lib)
+include(openssl-lib)
+include(pypi-setuptools-python3)
+include(readline-lib)
+include(sqlite-autoconf-lib)
+include(util-linux-lib)
+include(zlib-lib)
+python3-core

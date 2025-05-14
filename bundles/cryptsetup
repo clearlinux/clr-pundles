@@ -1,0 +1,15 @@
+# [TITLE]: cryptsetup
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2)
+include(LVM2-extras)
+include(cryptsetup-bin)
+include(cryptsetup-config)
+include(cryptsetup-lib)
+include(cryptsetup-license)
+include(cryptsetup-locales)
+include(cryptsetup-man)
+cryptsetup

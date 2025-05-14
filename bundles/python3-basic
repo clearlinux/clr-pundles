@@ -8,18 +8,18 @@ include(p11-kit)
 include(libstdcpp)
 include(sqlite)
 
-buildreq-distutils3
+include(buildreq-distutils3)
 
 include(glibc-lib-avx2)
-pypi-cffi
-pypi-isort
-pypi-pip
-pypi-pycodestyle
-pypi-setuptools
-pypi-virtualenv
-python3-core
-python3-dev
-swupd-search
+include(pypi-cffi)
+include(pypi-isort)
+include(pypi-pip)
+include(pypi-pycodestyle)
+include(pypi-setuptools)
+include(pypi-virtualenv)
+include(python3-core)
+include(python3-dev)
+include(swupd-search)
 
 # include(libX11client)
 # include(libglib)

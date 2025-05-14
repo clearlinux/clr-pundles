@@ -1,0 +1,10 @@
+# [TITLE]: pypi-filelock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-filelock-license)
+include(pypi-filelock-python)
+include(pypi-filelock-python3)
+pypi-filelock

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-HTTP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-HTTP-license)
+include(perl-Net-HTTP-perl)
+perl-Net-HTTP

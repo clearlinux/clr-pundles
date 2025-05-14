@@ -1,0 +1,12 @@
+# [TITLE]: perl-HTTP-Cookies
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Cookies-license)
+include(perl-HTTP-Cookies-perl)
+include(perl-HTTP-Date-perl)
+include(perl-HTTP-Message-perl)
+include(perl-URI-perl)
+perl-HTTP-Cookies

@@ -1,0 +1,10 @@
+# [TITLE]: mpfr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpfr)
+include(mpfr-lib)
+include(pkg-config-bin)
+mpfr-dev

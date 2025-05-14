@@ -1,0 +1,8 @@
+# [TITLE]: perl-Specio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Specio)
+perl-Specio-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Load-XS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Load-XS)
+perl-Class-Load-XS-dev

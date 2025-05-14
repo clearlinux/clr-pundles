@@ -8,11 +8,11 @@ include(glmark2)
 
 clear-font
 include(gdk-pixbuf)
-glib
+include(glib)
 gnome-session
-libXcursor-lib
+include(libXcursor-lib)
 mutter
-shared-mime-info
+include(shared-mime-info)
 xf86-input-libinput
 xkbcomp
 xkeyboard-config

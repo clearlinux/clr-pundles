@@ -1,0 +1,9 @@
+# [TITLE]: perl-Term-Table
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-Table-license)
+include(perl-Term-Table-perl)
+perl-Term-Table

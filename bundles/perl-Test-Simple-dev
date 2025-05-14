@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Simple-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Simple)
+perl-Test-Simple-dev

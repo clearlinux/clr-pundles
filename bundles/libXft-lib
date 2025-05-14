@@ -1,0 +1,12 @@
+# [TITLE]: libXft-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-lib)
+include(freetype-lib)
+include(libX11-lib)
+include(libXft-license)
+include(libc6)
+libXft-lib

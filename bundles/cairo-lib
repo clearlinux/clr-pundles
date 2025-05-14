@@ -1,0 +1,17 @@
+# [TITLE]: cairo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-license)
+include(fontconfig-lib)
+include(freetype-lib)
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libpng-lib)
+include(lzo-lib)
+include(pixman-lib)
+include(zlib-lib)
+cairo-lib

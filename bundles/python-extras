@@ -20,7 +20,7 @@ include(glibc-bin)
 #
 PyYAML
 pypi-black
-pypi-build
+include(pypi-build)
 pypi-certifi
 pypi-coverage
 pypi-cxxfilt

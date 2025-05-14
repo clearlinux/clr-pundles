@@ -1,0 +1,8 @@
+# [TITLE]: perl-Clone-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Clone)
+perl-Clone-dev

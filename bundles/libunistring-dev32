@@ -1,0 +1,9 @@
+# [TITLE]: libunistring-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libunistring-dev)
+include(libunistring-lib32)
+libunistring-dev32

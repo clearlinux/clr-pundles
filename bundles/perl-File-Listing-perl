@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-Listing-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Listing)
+perl-File-Listing-perl

@@ -1,0 +1,8 @@
+# [TITLE]: chrpath-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chrpath-man)
+chrpath-doc

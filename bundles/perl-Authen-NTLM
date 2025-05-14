@@ -1,0 +1,10 @@
+# [TITLE]: perl-Authen-NTLM
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Authen-NTLM-license)
+include(perl-Authen-NTLM-perl)
+include(perl-Digest-HMAC-perl)
+perl-Authen-NTLM

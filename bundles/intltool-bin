@@ -1,0 +1,11 @@
+# [TITLE]: intltool-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(intltool-data)
+include(intltool-license)
+include(perl-bin)
+intltool-bin

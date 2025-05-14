@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Inspector-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Inspector)
+perl-Class-Inspector-perl

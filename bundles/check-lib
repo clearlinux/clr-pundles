@@ -1,0 +1,11 @@
+# [TITLE]: check-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(check-license)
+include(libc6)
+include(libgcc1)
+include(subunit-lib)
+check-lib

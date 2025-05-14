@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-HomeDir-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-HomeDir)
+perl-File-HomeDir-dev

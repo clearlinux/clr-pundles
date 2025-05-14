@@ -1,0 +1,10 @@
+# [TITLE]: pypi-installer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-installer-license)
+include(pypi-installer-python)
+include(pypi-installer-python3)
+pypi-installer

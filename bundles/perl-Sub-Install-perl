@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sub-Install-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Install)
+perl-Sub-Install-perl

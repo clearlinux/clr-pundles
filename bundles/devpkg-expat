@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-expat-dev
+include(expat-dev)

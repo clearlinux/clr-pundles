@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTML-Parser-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-HTML-Parser)
+perl-HTML-Parser-perl

@@ -12,7 +12,7 @@ include(python3-basic)
 include(bcc)
 include(bpftrace)
 blktrace
-clr-debug-info
+include(clr-debug-info)
 collectl
 cpuloadgen
 glances
@@ -45,6 +45,6 @@ include(sysstat)
 tcpdump
 time
 tiptop
-util-linux
+include(util-linux)
 include(pypi-six)
 include(libpcap-lib)

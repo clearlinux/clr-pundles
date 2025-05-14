@@ -1,0 +1,19 @@
+# [TITLE]: colord-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-config)
+include(colord-lib)
+include(colord-license)
+include(glib-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+include(libgudev-lib)
+include(libgusb-lib)
+include(polkit-lib)
+include(sqlite-autoconf-lib)
+include(systemd-extras-libsystemd)
+colord-libexec

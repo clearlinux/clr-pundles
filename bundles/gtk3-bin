@@ -1,0 +1,20 @@
+# [TITLE]: gtk3-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(filesystem)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-data)
+include(gtk3-lib)
+include(gtk3-license)
+include(gtk3-services)
+include(harfbuzz-lib)
+include(libc6)
+include(libepoxy-lib)
+include(pango-lib)
+gtk3-bin

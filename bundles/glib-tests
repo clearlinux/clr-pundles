@@ -1,0 +1,16 @@
+# [TITLE]: glib-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(dbus-lib)
+include(filesystem)
+include(glib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(pcre2-lib)
+include(python3-core)
+glib-tests

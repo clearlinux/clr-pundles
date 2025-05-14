@@ -1,0 +1,9 @@
+# [TITLE]: autogen-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-bin)
+include(perl-bin)
+autogen-data

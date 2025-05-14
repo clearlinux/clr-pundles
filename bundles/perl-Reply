@@ -1,0 +1,22 @@
+# [TITLE]: perl-Reply
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-Nopaste-perl)
+include(perl-B-Keywords-perl)
+include(perl-Carp-Always-perl)
+include(perl-Class-Refresh-perl)
+include(perl-Config-INI-Reader-Ordered-perl)
+include(perl-Data-Dump-perl)
+include(perl-Data-Printer-perl)
+include(perl-File-HomeDir-perl)
+include(perl-PadWalker-perl)
+include(perl-Proc-InvokeEditor-perl)
+include(perl-Reply-bin)
+include(perl-Reply-license)
+include(perl-Reply-man)
+include(perl-Reply-perl)
+include(perl-Term-ReadKey-perl)
+perl-Reply

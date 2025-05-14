@@ -1,0 +1,9 @@
+# [TITLE]: brotli-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-license)
+include(libc6)
+brotli-lib

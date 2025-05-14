@@ -12,7 +12,7 @@ dmidecode
 dnsmasq
 ebtables
 edk2
-gettext
+include(gettext)
 include(iptables)
 libvirt
 nftables

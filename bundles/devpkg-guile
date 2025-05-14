@@ -8,4 +8,4 @@
 include(devpkg-base)
 include(devpkg-gc)
 
-guile-dev
+include(guile-dev)

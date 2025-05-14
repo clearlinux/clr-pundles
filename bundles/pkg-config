@@ -1,0 +1,11 @@
+# [TITLE]: pkg-config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(pkg-config-lib)
+include(pkg-config-license)
+include(pkg-config-man)
+pkg-config

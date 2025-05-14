@@ -1,0 +1,9 @@
+# [TITLE]: mpc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpc)
+include(mpc-lib)
+mpc-dev

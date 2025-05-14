@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-HTML-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-HTML)
+perl-IO-HTML-dev

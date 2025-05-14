@@ -1,0 +1,8 @@
+# [TITLE]: curl-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+curl-staticdev

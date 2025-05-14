@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Unload-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Unload)
+perl-Class-Unload-dev

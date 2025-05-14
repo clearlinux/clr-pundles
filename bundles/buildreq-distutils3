@@ -1,0 +1,16 @@
+# [TITLE]: buildreq-distutils3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-pyversion-strip)
+include(pypi-build-python3)
+include(pypi-installer-python3)
+include(pypi-setuptools-python3)
+include(pypi-setuptools_scm-python3)
+include(pypi-wheel-python3)
+include(python3)
+include(python3-core)
+include(python3-dev)
+buildreq-distutils3

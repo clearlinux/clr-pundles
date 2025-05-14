@@ -1,0 +1,12 @@
+# [TITLE]: systemd-bootchart
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(systemd-bootchart-license)
+include(systemd-bootchart-man)
+include(systemd-extras-libsystemd)
+systemd-bootchart

@@ -1,0 +1,8 @@
+# [TITLE]: perl-MRO-Compat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MRO-Compat)
+perl-MRO-Compat-dev

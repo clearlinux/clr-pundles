@@ -1,0 +1,8 @@
+# [TITLE]: clr-check-perl-modules-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+clr-check-perl-modules-services

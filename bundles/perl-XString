@@ -1,0 +1,9 @@
+# [TITLE]: perl-XString
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XString-license)
+include(perl-XString-perl)
+perl-XString

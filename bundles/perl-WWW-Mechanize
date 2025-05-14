@@ -1,0 +1,19 @@
+# [TITLE]: perl-WWW-Mechanize
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Form-perl)
+include(perl-HTML-Parser-perl)
+include(perl-HTML-TreeBuilder-perl)
+include(perl-HTTP-Cookies-perl)
+include(perl-HTTP-Daemon-perl)
+include(perl-HTTP-Message-perl)
+include(perl-URI-perl)
+include(perl-WWW-Mechanize-bin)
+include(perl-WWW-Mechanize-license)
+include(perl-WWW-Mechanize-man)
+include(perl-WWW-Mechanize-perl)
+include(perl-libwww-perl-perl)
+perl-WWW-Mechanize

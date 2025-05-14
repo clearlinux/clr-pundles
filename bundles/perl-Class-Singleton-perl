@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Singleton-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Singleton)
+perl-Class-Singleton-perl

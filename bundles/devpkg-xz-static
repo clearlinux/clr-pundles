@@ -7,4 +7,4 @@
 
 include(devpkg-xz)
 
-xz-staticdev
+include(xz-staticdev)

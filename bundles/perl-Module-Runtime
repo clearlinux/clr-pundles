@@ -1,0 +1,9 @@
+# [TITLE]: perl-Module-Runtime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Runtime-license)
+include(perl-Module-Runtime-perl)
+perl-Module-Runtime

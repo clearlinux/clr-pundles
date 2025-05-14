@@ -1,0 +1,10 @@
+# [TITLE]: pypi-distlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-distlib-license)
+include(pypi-distlib-python)
+include(pypi-distlib-python3)
+pypi-distlib

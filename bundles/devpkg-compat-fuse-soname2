@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-compat-fuse-soname2-dev
+include(compat-fuse-soname2-dev)

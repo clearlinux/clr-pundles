@@ -1,0 +1,16 @@
+# [TITLE]: llvm-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgcc32)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+include(libc6)
+include(libffi-lib32)
+include(libxml2-lib32)
+include(llvm-data)
+include(llvm-license)
+include(zlib-lib32)
+llvm-lib32

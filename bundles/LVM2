@@ -1,0 +1,16 @@
+# [TITLE]: LVM2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-bin)
+include(LVM2-config)
+include(LVM2-lib)
+include(LVM2-libexec)
+include(LVM2-license)
+include(LVM2-man)
+include(LVM2-python)
+include(LVM2-python3)
+include(LVM2-services)
+LVM2

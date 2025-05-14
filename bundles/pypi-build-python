@@ -1,0 +1,8 @@
+# [TITLE]: pypi-build-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-build-python3)
+pypi-build-python

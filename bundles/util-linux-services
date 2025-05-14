@@ -1,0 +1,8 @@
+# [TITLE]: util-linux-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+util-linux-services

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-packaging
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-packaging-license)
+include(pypi-packaging-python)
+include(pypi-packaging-python3)
+pypi-packaging
