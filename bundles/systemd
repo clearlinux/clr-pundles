@@ -1,8 +1,31 @@
 # [TITLE]: systemd
-# [DESCRIPTION]: Basic systemd bundle
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-systemd
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(audit-lib)
+include(coreutils-bin)
+include(cryptsetup-lib)
+include(filesystem)
+include(kmod-lib)
+include(libc6)
+include(libcap)
+include(libgcc1)
+include(libgcrypt-lib)
+include(libgpg-error-lib)
+include(libseccomp-lib)
+include(openssl-lib)
+include(systemd-autostart)
+include(systemd-bin)
 include(systemd-bootchart)
+include(systemd-config)
+include(systemd-data)
+include(systemd-lib)
+include(systemd-license)
+include(systemd-locales)
+include(systemd-man)
+include(systemd-services)
+include(util-linux-lib)
+systemd

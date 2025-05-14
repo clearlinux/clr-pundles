@@ -1199,7 +1199,7 @@ sympy-python3
 syntax-highlighting-dev
 sysprof-dev
 sysprof-staticdev
-systemd
+include(systemd)
 include(systemd-bin)
 include(devpkg-systemd)
 include(devpkg-systemd)

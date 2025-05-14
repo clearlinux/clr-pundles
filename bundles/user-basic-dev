@@ -780,7 +780,7 @@ include(devpkg-subunit)
 include(subversion)
 swig
 sysprof-dev
-systemd
+include(systemd)
 include(systemd-bin)
 include(devpkg-systemd)
 include(devpkg-systemd)

@@ -637,7 +637,7 @@ include(devpkg-sqlite-autoconf)
 include(strace)
 swig
 sysprof-dev
-systemd
+include(systemd)
 include(systemd-bin)
 include(devpkg-systemd)
 include(devpkg-systemd)
