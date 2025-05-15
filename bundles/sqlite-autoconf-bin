@@ -6,5 +6,6 @@
 # [MAINTAINER]: pundle
 include(libc6)
 include(readline-lib)
+include(sqlite-autoconf-license)
 include(zlib-lib)
 sqlite-autoconf-bin

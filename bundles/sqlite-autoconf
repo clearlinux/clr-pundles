@@ -6,5 +6,6 @@
 # [MAINTAINER]: pundle
 include(sqlite-autoconf-bin)
 include(sqlite-autoconf-lib)
+include(sqlite-autoconf-license)
 include(sqlite-autoconf-man)
 sqlite-autoconf

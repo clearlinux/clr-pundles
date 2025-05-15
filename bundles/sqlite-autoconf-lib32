@@ -5,4 +5,5 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(glibc-libc32)
+include(sqlite-autoconf-license)
 sqlite-autoconf-lib32

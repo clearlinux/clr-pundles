@@ -5,4 +5,5 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(libc6)
+include(sqlite-autoconf-license)
 sqlite-autoconf-lib
