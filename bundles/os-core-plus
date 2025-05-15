@@ -14,8 +14,10 @@ cnf
 include(dbus-autostart)
 include(dbus-bin)
 include(glibc-lib-avx2)
+gzip-bin
 iproute2-bin
 include(kmod-bin)
+include(lz4-bin)
 nano-bin
 nano-data
 netbase
@@ -27,3 +29,6 @@ include(util-linux-bin)
 e2fsprogs-bin
 include(shadow-bin)
 include(shadow-data)
+tar-bin
+include(xz-bin)
+include(zstd-bin)
