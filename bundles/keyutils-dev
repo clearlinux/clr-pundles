@@ -1,0 +1,12 @@
+# [TITLE]: keyutils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(keyutils)
+include(keyutils-bin)
+include(keyutils-data)
+include(keyutils-lib)
+include(pkg-config-bin)
+keyutils-dev

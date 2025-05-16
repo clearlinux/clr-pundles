@@ -1,0 +1,9 @@
+# [TITLE]: libXtst
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libXtst-lib)
+include(libXtst-license)
+libXtst

@@ -1,0 +1,13 @@
+# [TITLE]: krb5
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krb5-bin)
+include(krb5-data)
+include(krb5-lib)
+include(krb5-license)
+include(krb5-locales)
+include(krb5-man)
+krb5

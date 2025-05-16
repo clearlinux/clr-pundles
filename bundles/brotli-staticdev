@@ -1,0 +1,8 @@
+# [TITLE]: brotli-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-dev)
+brotli-staticdev

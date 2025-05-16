@@ -10,7 +10,7 @@ include(libglib)
 # For QMimeDatabase class
 include(shared-mime-info)
 
-qtbase-extras
+include(qtbase-extras)
 include(icu4c-lib)
 include(openldap)
 include(libxml2)

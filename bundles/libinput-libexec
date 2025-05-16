@@ -1,0 +1,14 @@
+# [TITLE]: libinput-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libevdev-lib)
+include(libinput-config)
+include(libinput-lib)
+include(libinput-license)
+include(systemd-lib)
+libinput-libexec

@@ -1,0 +1,10 @@
+# [TITLE]: openldap-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openldap-lib)
+include(perl-perl)
+openldap-extras

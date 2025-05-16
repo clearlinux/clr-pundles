@@ -1,0 +1,12 @@
+# [TITLE]: harfbuzz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(harfbuzz-bin)
+include(harfbuzz-data)
+include(harfbuzz-lib)
+include(harfbuzz-license)
+include(harfbuzz-man)
+harfbuzz

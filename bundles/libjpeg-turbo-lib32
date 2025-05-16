@@ -1,0 +1,9 @@
+# [TITLE]: libjpeg-turbo-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libjpeg-turbo-license)
+libjpeg-turbo-lib32

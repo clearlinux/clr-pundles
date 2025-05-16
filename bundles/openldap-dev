@@ -1,0 +1,13 @@
+# [TITLE]: openldap-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openldap)
+include(openldap-bin)
+include(openldap-data)
+include(openldap-dev)
+include(openldap-lib)
+include(pkg-config-bin)
+openldap-dev

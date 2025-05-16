@@ -1,0 +1,8 @@
+# [TITLE]: icu4c-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+icu4c-data

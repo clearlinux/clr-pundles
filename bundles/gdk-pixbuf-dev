@@ -1,0 +1,16 @@
+# [TITLE]: gdk-pixbuf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf)
+include(gdk-pixbuf-bin)
+include(gdk-pixbuf-data)
+include(gdk-pixbuf-lib)
+include(glib-dev)
+include(libjpeg-turbo-dev)
+include(libpng-dev)
+include(pkg-config-bin)
+include(shared-mime-info-dev)
+gdk-pixbuf-dev

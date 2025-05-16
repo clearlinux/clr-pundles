@@ -1,0 +1,11 @@
+# [TITLE]: libjpeg-turbo-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libjpeg-turbo-bin)
+include(libjpeg-turbo-dev)
+include(libjpeg-turbo-lib32)
+include(pkg-config-bin)
+libjpeg-turbo-dev32

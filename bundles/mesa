@@ -1,0 +1,12 @@
+# [TITLE]: mesa
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mesa-bin)
+include(mesa-data)
+include(mesa-lib)
+include(mesa-libexec)
+include(mesa-license)
+mesa

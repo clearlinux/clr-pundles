@@ -1,0 +1,13 @@
+# [TITLE]: libdrm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdrm)
+include(libdrm-data)
+include(libdrm-dev)
+include(libdrm-lib)
+include(libpciaccess-dev)
+include(pkg-config-bin)
+libdrm-dev

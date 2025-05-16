@@ -1,0 +1,11 @@
+# [TITLE]: freetype
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freetype-bin)
+include(freetype-lib)
+include(freetype-license)
+include(freetype-man)
+freetype

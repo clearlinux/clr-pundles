@@ -1,0 +1,11 @@
+# [TITLE]: graphite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(graphite-bin)
+include(graphite-data)
+include(graphite-lib)
+include(graphite-license)
+graphite

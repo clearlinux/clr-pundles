@@ -12,7 +12,7 @@ include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
 include(devpkg-SDL)
-SPIRV-Tools
+include(SPIRV-Tools)
 include(Sphinx)
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
@@ -79,7 +79,7 @@ include(diffutils)
 include(docbook-utils)
 docbook-xml
 include(doxygen)
-e2fsprogs
+include(e2fsprogs)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
 include(devpkg-elfutils)
@@ -270,7 +270,7 @@ include(openblas)
 include(devpkg-opencl-headers)
 openjdk
 openjdk-dev
-openldap-dev
+include(openldap-dev)
 include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)

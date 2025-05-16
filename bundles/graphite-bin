@@ -1,0 +1,13 @@
+# [TITLE]: graphite-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(graphite-data)
+include(graphite-lib)
+include(graphite-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+graphite-bin

@@ -1,0 +1,23 @@
+# [TITLE]: mesa-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-lib)
+include(elfutils-lib)
+include(expat-lib)
+include(libX11-lib)
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libstdc++)
+include(llvm-lib)
+include(mesa-data)
+include(mesa-libexec)
+include(mesa-license)
+include(systemd-lib)
+include(wayland-lib)
+include(zlib-lib)
+include(zstd-lib)
+mesa-lib

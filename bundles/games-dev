@@ -30,7 +30,7 @@ include(devpkg-SDL_image)
 include(devpkg-SDL_net)
 include(devpkg-SDL_ttf)
 include(devpkg-SPIRV-Headers)
-SPIRV-Tools
+include(SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
@@ -111,7 +111,7 @@ include(coreutils)
 cppcheck
 include(devpkg-cryptsetup)
 ctags
-cups
+include(cups)
 include(devpkg-cups)
 include(devpkg-curl)
 include(devpkg-curl)
@@ -141,11 +141,11 @@ docbook-xml
 double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 include(devpkg-eigen)
 include(elfutils)
 include(devpkg-elfutils)
@@ -301,11 +301,11 @@ include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
 less-bin
-libX11
+include(libX11)
 include(devpkg-libX11)
 include(devpkg-libX11)
 include(libX11-lib)
-libX11-lib32
+include(libX11-lib32)
 include(devpkg-libXScrnSaver)
 include(devpkg-libXaw)
 include(devpkg-libXcursor)
@@ -481,7 +481,7 @@ include(devpkg-mariadb)
 include(devpkg-md4c)
 include(devpkg-mediasdk)
 mercurial
-mesa-bin
+include(mesa-bin)
 include(devpkg-mesa)
 include(devpkg-mesa)
 mingw-gcc
@@ -529,7 +529,7 @@ openjdk
 openjdk-dev
 openjpeg
 include(devpkg-openjpeg)
-openldap-dev
+include(openldap-dev)
 openssh
 include(openssl)
 include(devpkg-openssl)
@@ -749,7 +749,7 @@ qt6shadertools-dev
 include(devpkg-qt6tools)
 qt6wayland-dev
 include(devpkg-qtbase)
-qtbase-extras
+include(qtbase-extras)
 qtbase-staticdev
 include(devpkg-qtcharts)
 include(devpkg-qtconnectivity)
@@ -841,7 +841,7 @@ include(devpkg-valgrind)
 vapoursynth-dev
 vid.stab-dev
 include(devpkg-wavpack)
-wayland
+include(wayland)
 include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
@@ -859,7 +859,7 @@ include(devpkg-xcb-util-cursor)
 xdg-dbus-proxy
 xdg-utils
 include(devpkg-xkbcomp)
-xkeyboard-config
+include(xkeyboard-config)
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlb)
 xmlstarlet

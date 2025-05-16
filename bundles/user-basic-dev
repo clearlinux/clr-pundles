@@ -28,7 +28,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 include(devpkg-SPIRV-Headers)
-SPIRV-Tools
+include(SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
@@ -143,11 +143,11 @@ include(doxygen)
 include(devpkg-dpdk)
 include(devpkg-dtc)
 include(devpkg-duktape)
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 ebtables
 ed
 include(devpkg-efivar)
@@ -301,7 +301,7 @@ less-bin
 include(devpkg-libX11)
 include(devpkg-libX11)
 include(libX11-lib)
-libX11-lib32
+include(libX11-lib32)
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
 include(devpkg-libXft)
@@ -468,7 +468,7 @@ include(devpkg-mariadb)
 include(devpkg-mbedtls)
 include(devpkg-md4c)
 mercurial
-mesa-bin
+include(mesa-bin)
 include(devpkg-mesa)
 include(devpkg-mesa)
 mingw-gcc
@@ -510,7 +510,7 @@ include(openblas)
 include(devpkg-opencl-headers)
 openjdk
 openjdk-dev
-openldap-dev
+include(openldap-dev)
 include(devpkg-openmpi)
 openssh
 include(openssl)

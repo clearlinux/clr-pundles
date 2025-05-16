@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-graphite-dev
+include(graphite-dev)
 include(libstdcpp)

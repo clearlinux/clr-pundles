@@ -27,7 +27,7 @@ also-add(x11-tools)
 bluez
 bolt
 clutter
-colord
+include(colord)
 include(colord-config)
 include(dbus-extras)
 desktop-file-utils
@@ -50,7 +50,7 @@ ibus-unikey
 ibus-table
 ibus-typing-booster
 iso-codes
-json-glib
+include(json-glib)
 libcanberra
 libgnomekbd
 libgweather
@@ -63,14 +63,14 @@ include(linux-firmware-extras)
 also-add(linux-firmware-wifi)
 mutter
 orca
-pango
+include(pango)
 include(pygobject)
 include(shared-mime-info)
 include(tzdata)
 pygobject-extras
 
 # a11y
-at-spi2-core
+include(at-spi2-core)
 
 # Extra service level deps
 accountsservice
@@ -79,7 +79,7 @@ include(alsa-utils)
 bash-completion
 clr-desktop-defaults
 clr-fwupd-hooks
-cups
+include(cups)
 cups-filters
 cups-pk-helper
 system-config-printer
@@ -152,7 +152,7 @@ also-add(nautilus)
 yelp
 
 # nice to have when using desktop
-cups
+include(cups)
 ModemManager
 ntfs-3g
 include(swupd-search)

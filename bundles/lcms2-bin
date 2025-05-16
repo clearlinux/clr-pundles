@@ -1,0 +1,12 @@
+# [TITLE]: lcms2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lcms2-lib)
+include(lcms2-license)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(tiff-lib)
+lcms2-bin

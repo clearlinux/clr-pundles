@@ -1,0 +1,9 @@
+# [TITLE]: nspr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nspr-license)
+nspr

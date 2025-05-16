@@ -1,0 +1,22 @@
+# [TITLE]: mesa-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-lib32)
+include(elfutils-lib32)
+include(expat-lib32)
+include(gcc-libgcc32)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+include(libX11-lib32)
+include(libdrm-lib32)
+include(llvm-lib32)
+include(mesa-data)
+include(mesa-license)
+include(systemd-lib32)
+include(wayland-lib32)
+include(zlib-lib32)
+include(zstd-lib32)
+mesa-lib32

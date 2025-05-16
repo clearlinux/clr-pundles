@@ -1,0 +1,11 @@
+# [TITLE]: libthai-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdatrie-dev)
+include(libthai)
+include(libthai-data)
+include(libthai-lib)
+libthai-dev

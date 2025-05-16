@@ -1,0 +1,8 @@
+# [TITLE]: harfbuzz-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(harfbuzz-man)
+harfbuzz-doc

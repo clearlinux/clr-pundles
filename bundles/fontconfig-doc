@@ -1,0 +1,8 @@
+# [TITLE]: fontconfig-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-man)
+fontconfig-doc

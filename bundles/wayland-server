@@ -4,8 +4,8 @@
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
-mesa
-wayland
+include(mesa)
+include(wayland)
 xwayland
 xkbcomp
 include(lib-opengl)

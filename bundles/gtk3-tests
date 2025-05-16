@@ -1,0 +1,17 @@
+# [TITLE]: gtk3-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(filesystem)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(pango-lib)
+gtk3-tests

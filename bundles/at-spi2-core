@@ -1,0 +1,13 @@
+# [TITLE]: at-spi2-core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-data)
+include(at-spi2-core-lib)
+include(at-spi2-core-libexec)
+include(at-spi2-core-license)
+include(at-spi2-core-locales)
+include(at-spi2-core-services)
+at-spi2-core

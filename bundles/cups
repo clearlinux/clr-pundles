@@ -1,0 +1,22 @@
+# [TITLE]: cups
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-autostart)
+include(cups-bin)
+include(cups-config)
+include(cups-data)
+include(cups-doc)
+include(cups-lib)
+include(cups-license)
+include(cups-man)
+include(cups-services)
+include(dbus-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+include(poppler-bin)
+cups

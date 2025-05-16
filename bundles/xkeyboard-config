@@ -1,0 +1,11 @@
+# [TITLE]: xkeyboard-config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xkeyboard-config-data)
+include(xkeyboard-config-license)
+include(xkeyboard-config-locales)
+include(xkeyboard-config-man)
+xkeyboard-config

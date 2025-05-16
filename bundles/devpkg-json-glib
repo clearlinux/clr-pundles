@@ -9,5 +9,5 @@ include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
 
-json-glib-dev
+include(json-glib-dev)
 include(libglib)

@@ -1,0 +1,11 @@
+# [TITLE]: polkit-setuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(glib-lib)
+include(libc6)
+include(polkit-lib)
+polkit-setuid

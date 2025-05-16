@@ -1,0 +1,11 @@
+# [TITLE]: lmdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lmdb-bin)
+include(lmdb-lib)
+include(lmdb-license)
+include(lmdb-man)
+lmdb

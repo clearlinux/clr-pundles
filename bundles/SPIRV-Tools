@@ -1,0 +1,10 @@
+# [TITLE]: SPIRV-Tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-bin)
+include(SPIRV-Tools-lib)
+include(SPIRV-Tools-license)
+SPIRV-Tools

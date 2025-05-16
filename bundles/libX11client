@@ -18,10 +18,10 @@ include(glib-lib)
 gtk+-data
 gtk+-lib
 harfbuzz-lib
-libinput-data
-libinput-lib
-libinput-libexec
-libX11
+include(libinput-data)
+include(libinput-lib)
+include(libinput-libexec)
+include(libX11)
 include(libX11-lib)
 include(libXft-lib)
 libXScrnSaver-lib
@@ -29,7 +29,7 @@ include(libXcursor-lib)
 include(libXtst-lib)
 libXt-lib
 include(libpng-lib)
-mesa-lib
+include(mesa-lib)
 include(llvm-lib)
 include(pango-lib)
 include(pixman-lib)

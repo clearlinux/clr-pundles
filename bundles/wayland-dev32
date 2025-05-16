@@ -1,0 +1,13 @@
+# [TITLE]: wayland-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libffi-dev)
+include(pkg-config-bin)
+include(wayland-bin)
+include(wayland-data)
+include(wayland-dev)
+include(wayland-lib32)
+wayland-dev32

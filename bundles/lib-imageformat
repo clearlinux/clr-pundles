@@ -21,6 +21,6 @@ librsvg-lib
 exiv2-lib
 include(libpng-lib)
 include(libjpeg-turbo-lib)
-libwebp-lib
-tiff-lib
+include(libwebp-lib)
+include(tiff-lib)
 openjpeg-lib

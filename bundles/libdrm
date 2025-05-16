@@ -1,0 +1,10 @@
+# [TITLE]: libdrm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdrm-data)
+include(libdrm-lib)
+include(libdrm-man)
+libdrm

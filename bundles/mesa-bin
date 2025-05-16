@@ -1,0 +1,20 @@
+# [TITLE]: mesa-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(expat-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libdrm-lib)
+include(libepoxy-lib)
+include(libgcc1)
+include(libstdc++)
+include(mesa-data)
+include(mesa-libexec)
+include(mesa-license)
+include(zlib-lib)
+mesa-bin

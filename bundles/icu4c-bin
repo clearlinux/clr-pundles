@@ -1,0 +1,13 @@
+# [TITLE]: icu4c-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-data)
+include(icu4c-lib)
+include(icu4c-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+icu4c-bin

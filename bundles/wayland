@@ -1,0 +1,11 @@
+# [TITLE]: wayland
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wayland-bin)
+include(wayland-data)
+include(wayland-lib)
+include(wayland-license)
+wayland

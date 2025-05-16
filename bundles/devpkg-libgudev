@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libgudev-dev
+include(libgudev-dev)
 include(libglib)

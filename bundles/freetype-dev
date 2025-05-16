@@ -1,0 +1,16 @@
+# [TITLE]: freetype-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-dev)
+include(bzip2-dev)
+include(freetype)
+include(freetype-bin)
+include(freetype-lib)
+include(harfbuzz-dev)
+include(libpng-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+freetype-dev

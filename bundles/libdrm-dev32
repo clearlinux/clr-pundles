@@ -1,0 +1,12 @@
+# [TITLE]: libdrm-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdrm-data)
+include(libdrm-dev)
+include(libdrm-lib32)
+include(libpciaccess-dev)
+include(pkg-config-bin)
+libdrm-dev32

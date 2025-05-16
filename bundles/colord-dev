@@ -1,0 +1,15 @@
+# [TITLE]: colord-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord)
+include(colord-bin)
+include(colord-data)
+include(colord-dev)
+include(colord-lib)
+include(glib-dev)
+include(libgusb-dev)
+include(pkg-config-bin)
+colord-dev

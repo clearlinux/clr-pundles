@@ -8,10 +8,10 @@ include(perl-basic)
 include(libstdcpp)
 
 also-add(aspell)
-colord-locales
+include(colord-locales)
 evolution-data-server-locales
 evolution-data-server-locales
-gdk-pixbuf-locales
+include(gdk-pixbuf-locales)
 gdm-locales
 include(glibc-locale)
 gnome-applets-locales
@@ -41,4 +41,4 @@ metacity-locales
 mutter-locales
 pulseaudio-locales
 include(shared-mime-info-locales)
-xkeyboard-config-locales
+include(xkeyboard-config-locales)

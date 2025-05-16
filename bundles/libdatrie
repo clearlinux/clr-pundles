@@ -1,0 +1,11 @@
+# [TITLE]: libdatrie
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdatrie-bin)
+include(libdatrie-lib)
+include(libdatrie-license)
+include(libdatrie-man)
+libdatrie

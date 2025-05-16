@@ -30,7 +30,7 @@ include(cryptsetup-bin)
 include(cryptsetup-config)
 include(cryptsetup-lib)
 dosfstools-bin
-e2fsprogs-extras
+include(e2fsprogs-extras)
 f2fs-tools-bin
 include(glibc-utils)
 gptfdisk-bin

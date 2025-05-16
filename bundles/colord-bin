@@ -1,0 +1,17 @@
+# [TITLE]: colord-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-config)
+include(colord-data)
+include(colord-lib)
+include(colord-libexec)
+include(colord-license)
+include(colord-services)
+include(glib-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+colord-bin

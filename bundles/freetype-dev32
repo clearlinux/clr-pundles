@@ -1,0 +1,14 @@
+# [TITLE]: freetype-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-dev)
+include(freetype-bin)
+include(freetype-dev)
+include(freetype-lib32)
+include(libpng-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+freetype-dev32

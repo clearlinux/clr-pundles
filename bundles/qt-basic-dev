@@ -18,7 +18,7 @@ include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 include(devpkg-SPIRV-Headers)
-SPIRV-Tools
+include(SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
@@ -110,11 +110,11 @@ docbook-xml
 double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 include(devpkg-elfutils)
 include(devpkg-elfutils)
 include(devpkg-ell)
@@ -240,7 +240,7 @@ include(devpkg-lcms2)
 include(devpkg-libX11)
 include(devpkg-libX11)
 include(libX11-lib)
-libX11-lib32
+include(libX11-lib32)
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
 include(devpkg-libXft)
@@ -374,7 +374,7 @@ include(devpkg-mariadb)
 include(devpkg-md4c)
 include(devpkg-mediasdk)
 mercurial
-mesa-bin
+include(mesa-bin)
 include(devpkg-mesa)
 include(devpkg-mesa)
 mingw-gcc
@@ -408,7 +408,7 @@ include(devpkg-openal-soft)
 include(devpkg-openexr)
 openjdk
 openjdk-dev
-openldap-dev
+include(openldap-dev)
 include(openssl)
 include(devpkg-openssl)
 include(devpkg-openssl)
@@ -490,7 +490,7 @@ include(devpkg-qt6base)
 qt6shadertools-dev
 include(devpkg-qt6tools)
 include(devpkg-qtbase)
-qtbase-extras
+include(qtbase-extras)
 qtbase-staticdev
 include(devpkg-qtcharts)
 include(devpkg-qtconnectivity)

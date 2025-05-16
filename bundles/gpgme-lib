@@ -1,0 +1,14 @@
+# [TITLE]: gpgme-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-data)
+include(gpgme-license)
+include(libassuan-lib)
+include(libc6)
+include(libgcc1)
+include(libgpg-error-lib)
+include(libstdc++)
+gpgme-lib

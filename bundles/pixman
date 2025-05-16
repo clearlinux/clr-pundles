@@ -1,0 +1,9 @@
+# [TITLE]: pixman
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pixman-lib)
+include(pixman-license)
+pixman

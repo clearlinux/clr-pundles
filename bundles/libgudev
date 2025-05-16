@@ -1,0 +1,10 @@
+# [TITLE]: libgudev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgudev-data)
+include(libgudev-lib)
+include(libgudev-license)
+libgudev

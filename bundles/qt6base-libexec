@@ -1,0 +1,16 @@
+# [TITLE]: qt6base-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pcre2-lib)
+include(qt6base-lib)
+include(qt6base-license)
+include(zstd-lib)
+qt6base-libexec

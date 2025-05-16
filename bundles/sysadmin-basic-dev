@@ -69,11 +69,11 @@ docbook-xml
 include(doxygen)
 include(devpkg-dpdk)
 dracut-dev
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 ed
 include(devpkg-efivar)
 include(devpkg-elfutils)
@@ -236,7 +236,7 @@ include(devpkg-nettle)
 include(devpkg-nettle)
 include(nss-altfiles)
 include(devpkg-onig)
-openldap-dev
+include(openldap-dev)
 openssh
 include(openssl)
 include(devpkg-openssl)

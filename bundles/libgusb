@@ -1,0 +1,11 @@
+# [TITLE]: libgusb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgusb-bin)
+include(libgusb-data)
+include(libgusb-lib)
+include(libgusb-license)
+libgusb

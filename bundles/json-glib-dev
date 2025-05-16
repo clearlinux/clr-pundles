@@ -1,0 +1,13 @@
+# [TITLE]: json-glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(json-glib)
+include(json-glib-bin)
+include(json-glib-data)
+include(json-glib-lib)
+include(pkg-config-bin)
+json-glib-dev

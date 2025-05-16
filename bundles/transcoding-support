@@ -15,14 +15,14 @@ openal-soft
 # Middleware/utility
 graphene
 include(gtk3)
-libgudev
+include(libgudev)
 librsvg
 libsoup
 libunwind
-libusb
+include(libusb)
 include(openblas)
 orc
-pango
+include(pango)
 qtbase
 qtdeclarative
 qtwayland

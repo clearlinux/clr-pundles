@@ -1,0 +1,13 @@
+# [TITLE]: e2fsprogs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs)
+include(e2fsprogs-bin)
+include(e2fsprogs-data)
+include(e2fsprogs-dev)
+include(e2fsprogs-lib)
+include(pkg-config-bin)
+e2fsprogs-dev

@@ -1,0 +1,11 @@
+# [TITLE]: libthai-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libdatrie-lib32)
+include(libthai-data)
+include(libthai-license)
+libthai-lib32

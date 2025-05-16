@@ -1,0 +1,10 @@
+# [TITLE]: libusb-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libusb-dev)
+include(libusb-lib32)
+include(pkg-config-bin)
+libusb-dev32

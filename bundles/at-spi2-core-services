@@ -1,0 +1,8 @@
+# [TITLE]: at-spi2-core-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+at-spi2-core-services

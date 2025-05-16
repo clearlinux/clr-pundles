@@ -1,0 +1,11 @@
+# [TITLE]: json-glib-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(json-glib)
+include(json-glib-lib)
+include(libc6)
+json-glib-tests

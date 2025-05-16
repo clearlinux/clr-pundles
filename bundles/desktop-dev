@@ -25,7 +25,7 @@ include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 include(devpkg-SPIRV-Headers)
-SPIRV-Tools
+include(SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
@@ -113,7 +113,7 @@ include(cmake)
 include(devpkg-cmocka)
 include(devpkg-cmrt)
 include(devpkg-cogl)
-colord
+include(colord)
 include(devpkg-colord)
 include(devpkg-colord-gtk)
 include(devpkg-compat-atkmm-soname16)
@@ -129,7 +129,7 @@ cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
-cups
+include(cups)
 include(devpkg-cups)
 cups-filters
 include(devpkg-cups-filters)
@@ -163,11 +163,11 @@ double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
 include(devpkg-duktape)
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 ed
 include(devpkg-efivar)
 eigen-data
@@ -372,11 +372,11 @@ include(devpkg-lensfun)
 include(devpkg-leptonica)
 include(less)
 less-bin
-libX11
+include(libX11)
 include(devpkg-libX11)
 include(devpkg-libX11)
 include(libX11-lib)
-libX11-lib32
+include(libX11-lib32)
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
 include(devpkg-libXfont)
@@ -599,7 +599,7 @@ mccabe-python3
 include(devpkg-md4c)
 include(devpkg-mediasdk)
 mercurial
-mesa-bin
+include(mesa-bin)
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson
@@ -666,7 +666,7 @@ openjdk
 openjdk-dev
 openjpeg
 include(devpkg-openjpeg)
-openldap-dev
+include(openldap-dev)
 include(devpkg-openmpi)
 openssh
 include(openssl)
@@ -1072,7 +1072,7 @@ qt6shadertools-dev
 include(devpkg-qt6tools)
 qt6wayland-dev
 include(devpkg-qtbase)
-qtbase-extras
+include(qtbase-extras)
 qtbase-staticdev
 include(devpkg-qtcharts)
 include(devpkg-qtconnectivity)
@@ -1182,7 +1182,7 @@ vid.stab-dev
 volume_key-dev
 include(devpkg-vte)
 include(devpkg-wavpack)
-wayland
+include(wayland)
 include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
@@ -1204,7 +1204,7 @@ xdg-utils
 include(devpkg-xf86-input-wacom)
 xkbcomp-bin
 include(devpkg-xkbcomp)
-xkeyboard-config
+include(xkeyboard-config)
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlb)
 xmlstarlet

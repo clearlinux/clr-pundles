@@ -23,7 +23,7 @@ xinput
 xinput
 xkbcomp
 xkbcomp
-xkeyboard-config
+include(xkeyboard-config)
 xkill
 xmodmap
 xprop

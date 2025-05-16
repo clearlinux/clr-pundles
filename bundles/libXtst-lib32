@@ -1,0 +1,10 @@
+# [TITLE]: libXtst-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libX11-lib32)
+include(libXtst-license)
+libXtst-lib32

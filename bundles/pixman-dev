@@ -1,0 +1,10 @@
+# [TITLE]: pixman-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pixman)
+include(pixman-lib)
+include(pkg-config-bin)
+pixman-dev

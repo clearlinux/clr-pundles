@@ -1,0 +1,16 @@
+# [TITLE]: at-spi2-core-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core)
+include(at-spi2-core-data)
+include(at-spi2-core-dev)
+include(at-spi2-core-lib)
+include(dbus-dev)
+include(glib-dev)
+include(libX11-dev)
+include(libXtst-dev)
+include(pkg-config-bin)
+at-spi2-core-dev

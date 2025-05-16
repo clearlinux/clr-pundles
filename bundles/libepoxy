@@ -1,0 +1,9 @@
+# [TITLE]: libepoxy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libepoxy-lib)
+include(libepoxy-license)
+libepoxy

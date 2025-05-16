@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libXft-dev
+include(libXft-dev)
 include(libX11client)

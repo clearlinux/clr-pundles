@@ -1,0 +1,12 @@
+# [TITLE]: icu4c-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-bin)
+include(icu4c-data)
+include(icu4c-dev)
+include(icu4c-lib32)
+include(pkg-config-bin)
+icu4c-dev32

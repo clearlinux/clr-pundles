@@ -14,7 +14,7 @@ include(devpkg-Linux-PAM)
 PyYAML
 include(devpkg-SDL2)
 include(devpkg-SPIRV-Headers)
-SPIRV-Tools
+include(SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
@@ -96,11 +96,11 @@ include(docbook-utils)
 docbook-xml
 include(doxygen)
 include(devpkg-duktape)
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 include(devpkg-elfutils)
 include(devpkg-elfutils)
 include(devpkg-enchant)
@@ -202,7 +202,7 @@ include(devpkg-lcms2)
 include(devpkg-libX11)
 include(devpkg-libX11)
 include(libX11-lib)
-libX11-lib32
+include(libX11-lib32)
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
 include(devpkg-libXpm)
@@ -315,7 +315,7 @@ include(devpkg-lzo)
 include(make)
 include(devpkg-mariadb)
 mercurial
-mesa-bin
+include(mesa-bin)
 include(devpkg-mesa)
 include(devpkg-mesa)
 mingw-gcc
@@ -339,7 +339,7 @@ include(devpkg-ocl-icd)
 include(devpkg-onig)
 openjdk
 openjdk-dev
-openldap-dev
+include(openldap-dev)
 include(openssl)
 include(devpkg-openssl)
 include(devpkg-openssl)

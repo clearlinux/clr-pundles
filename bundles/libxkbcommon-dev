@@ -1,0 +1,15 @@
+# [TITLE]: libxkbcommon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libxkbcommon)
+include(libxkbcommon-bin)
+include(libxkbcommon-data)
+include(libxkbcommon-dev)
+include(libxkbcommon-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+libxkbcommon-dev

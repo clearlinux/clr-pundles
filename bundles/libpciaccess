@@ -1,0 +1,9 @@
+# [TITLE]: libpciaccess
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpciaccess-lib)
+include(libpciaccess-license)
+libpciaccess

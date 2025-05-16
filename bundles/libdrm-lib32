@@ -1,0 +1,10 @@
+# [TITLE]: libdrm-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libdrm-data)
+include(libpciaccess-lib32)
+libdrm-lib32

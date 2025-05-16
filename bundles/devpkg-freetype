@@ -10,5 +10,5 @@ include(devpkg-brotli)
 include(devpkg-bzip2)
 include(devpkg-zlib)
 
-freetype-dev
+include(freetype-dev)
 include(lib-imageformat)

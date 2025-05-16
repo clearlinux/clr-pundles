@@ -1,0 +1,10 @@
+# [TITLE]: libusb-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libusb-license)
+include(systemd-lib32)
+libusb-lib32

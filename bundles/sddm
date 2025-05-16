@@ -11,7 +11,7 @@ include(polkit)
 also-add(x11-server)
 include(qt-basic)
 include(dbus)
-icu4c
+include(icu4c)
 include(Linux-PAM)
 qtbase
 qtdeclarative

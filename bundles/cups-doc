@@ -1,0 +1,8 @@
+# [TITLE]: cups-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-man)
+cups-doc

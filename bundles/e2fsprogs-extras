@@ -1,0 +1,12 @@
+# [TITLE]: e2fsprogs-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-lib)
+include(filesystem)
+include(fuse-lib)
+include(libc6)
+include(util-linux-lib)
+e2fsprogs-extras

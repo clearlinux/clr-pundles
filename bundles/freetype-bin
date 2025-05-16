@@ -1,0 +1,9 @@
+# [TITLE]: freetype-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(freetype-license)
+freetype-bin

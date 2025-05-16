@@ -1,0 +1,12 @@
+# [TITLE]: krb5-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-lib32)
+include(glibc-libc32)
+include(krb5-data)
+include(krb5-license)
+include(openssl-lib32)
+krb5-lib32

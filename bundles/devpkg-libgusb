@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libgusb-dev
+include(libgusb-dev)
 include(libglib)

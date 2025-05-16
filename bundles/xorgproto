@@ -1,0 +1,8 @@
+# [TITLE]: xorgproto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xorgproto-license)
+xorgproto

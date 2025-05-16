@@ -20,8 +20,8 @@ include(cryptsetup-lib)
 include(cryptsetup-locales)
 include(cryptsetup-man)
 include(dosfstools)
-e2fsprogs
-e2fsprogs-extras
+include(e2fsprogs)
+include(e2fsprogs-extras)
 exfatprogs
 f2fs-tools
 fsarchiver

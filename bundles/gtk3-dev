@@ -1,0 +1,25 @@
+# [TITLE]: gtk3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-dev)
+include(cairo-dev)
+include(fontconfig-dev)
+include(fribidi-dev)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(gtk3)
+include(gtk3-bin)
+include(gtk3-data)
+include(gtk3-dev)
+include(gtk3-lib)
+include(libX11-dev)
+include(libXcursor-dev)
+include(libepoxy-dev)
+include(libxkbcommon-dev)
+include(pango-dev)
+include(pkg-config-bin)
+include(wayland-dev)
+gtk3-dev

@@ -1,0 +1,11 @@
+# [TITLE]: shared-mime-info-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(shared-mime-info)
+include(shared-mime-info-bin)
+include(shared-mime-info-data)
+shared-mime-info-dev

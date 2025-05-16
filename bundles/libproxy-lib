@@ -1,0 +1,14 @@
+# [TITLE]: libproxy-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(duktape-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libproxy-data)
+include(libproxy-license)
+libproxy-lib

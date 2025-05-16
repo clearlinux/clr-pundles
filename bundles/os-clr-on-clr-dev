@@ -41,7 +41,7 @@ include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 include(devpkg-SPIRV-Headers)
-SPIRV-Tools
+include(SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
@@ -156,7 +156,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 cscope
 ctags
-cups
+include(cups)
 include(devpkg-cups)
 include(curl)
 include(devpkg-curl)
@@ -193,11 +193,11 @@ include(doxygen)
 include(devpkg-dpdk)
 include(devpkg-dtc)
 include(devpkg-duktape)
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 ebtables
 ed
 include(devpkg-efivar)
@@ -233,7 +233,7 @@ include(fontforge)
 include(fonttools)
 fonttools-python3
 include(devpkg-freeglut)
-freetype
+include(freetype)
 include(devpkg-freetype)
 include(devpkg-freetype)
 include(devpkg-fribidi)
@@ -358,7 +358,7 @@ include(devpkg-hwloc)
 ibus
 ibus-dev
 ibus-libpinyin
-icu4c
+include(icu4c)
 include(devpkg-icu4c)
 include(devpkg-icu4c)
 include(devpkg-inih)
@@ -437,11 +437,11 @@ ldb-extras
 include(devpkg-leptonica)
 include(less)
 less-bin
-libX11
+include(libX11)
 include(devpkg-libX11)
 include(devpkg-libX11)
 include(libX11-lib)
-libX11-lib32
+include(libX11-lib32)
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
 include(devpkg-libXfont)
@@ -672,7 +672,7 @@ media-player-info
 include(devpkg-mediasdk)
 memkind-dev
 mercurial
-mesa-bin
+include(mesa-bin)
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson
@@ -745,7 +745,7 @@ openjdk
 openjdk-dev
 openjpeg
 include(devpkg-openjpeg)
-openldap-dev
+include(openldap-dev)
 include(devpkg-openmpi)
 openssh
 include(openssl)
@@ -1123,7 +1123,7 @@ qt6wayland-dev
 qt6webchannel-dev
 qt6websockets-dev
 include(devpkg-qtbase)
-qtbase-extras
+include(qtbase-extras)
 qtbase-staticdev
 include(devpkg-qtcharts)
 include(devpkg-qtconnectivity)
@@ -1257,7 +1257,7 @@ vim
 include(devpkg-virglrenderer)
 include(devpkg-vte)
 include(devpkg-wavpack)
-wayland
+include(wayland)
 include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
@@ -1278,7 +1278,7 @@ xdg-utils
 xfsprogs-dev
 xkbcomp-bin
 include(devpkg-xkbcomp)
-xkeyboard-config
+include(xkeyboard-config)
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlb)
 xmlstarlet

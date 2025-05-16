@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libXtst-dev
+include(libXtst-dev)
 include(libX11client)

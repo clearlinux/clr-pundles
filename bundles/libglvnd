@@ -1,0 +1,9 @@
+# [TITLE]: libglvnd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libglvnd-lib)
+include(libglvnd-license)
+libglvnd

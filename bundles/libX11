@@ -1,0 +1,9 @@
+# [TITLE]: libX11
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-doc)
+include(libX11-lib)
+libX11

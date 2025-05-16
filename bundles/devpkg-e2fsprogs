@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-e2fsprogs-dev
+include(e2fsprogs-dev)

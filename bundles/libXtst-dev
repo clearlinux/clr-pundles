@@ -1,0 +1,12 @@
+# [TITLE]: libXtst-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXtst)
+include(libXtst-lib)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libXtst-dev

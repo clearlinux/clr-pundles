@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libpng-dev
+include(libpng-dev)
 include(lib-imageformat)

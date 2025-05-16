@@ -1,0 +1,8 @@
+# [TITLE]: libjpeg-turbo-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libjpeg-turbo-man)
+libjpeg-turbo-doc

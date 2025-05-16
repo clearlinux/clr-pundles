@@ -1,0 +1,16 @@
+# [TITLE]: harfbuzz-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(freetype-lib)
+include(glib-lib)
+include(harfbuzz-data)
+include(harfbuzz-lib)
+include(harfbuzz-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+harfbuzz-bin

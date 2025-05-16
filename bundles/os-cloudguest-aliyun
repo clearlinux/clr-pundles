@@ -7,5 +7,5 @@
 include(sudo)
 include(libglib)
 
-e2fsprogs-extras
+include(e2fsprogs-extras)
 micro-config-drive-aliyun

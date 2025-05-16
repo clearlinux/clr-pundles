@@ -1,0 +1,16 @@
+# [TITLE]: poppler-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(freetype-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(poppler-data)
+include(poppler-lib)
+include(poppler-license)
+poppler-bin

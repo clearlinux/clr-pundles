@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-xkeyboard-config-dev
+include(xkeyboard-config-dev)

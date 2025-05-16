@@ -1,0 +1,9 @@
+# [TITLE]: lzo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lzo-lib)
+include(lzo-license)
+lzo

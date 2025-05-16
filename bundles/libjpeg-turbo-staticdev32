@@ -1,0 +1,8 @@
+# [TITLE]: libjpeg-turbo-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libjpeg-turbo-dev)
+libjpeg-turbo-staticdev32

@@ -72,11 +72,11 @@ docbook-xml
 include(doxygen)
 include(devpkg-dpdk)
 include(devpkg-duktape)
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 ebtables-dev
 include(devpkg-elfutils)
 include(devpkg-elfutils)
@@ -257,7 +257,7 @@ nmap-extras
 include(nss-altfiles)
 include(devpkg-nss)
 include(devpkg-openconnect)
-openldap-dev
+include(openldap-dev)
 opensm-dev
 include(openssl)
 include(devpkg-openssl)

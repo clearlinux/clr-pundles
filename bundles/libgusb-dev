@@ -1,0 +1,15 @@
+# [TITLE]: libgusb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(json-glib-dev)
+include(libgusb)
+include(libgusb-bin)
+include(libgusb-data)
+include(libgusb-lib)
+include(libusb-dev)
+include(pkg-config-bin)
+libgusb-dev

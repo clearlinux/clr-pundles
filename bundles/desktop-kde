@@ -32,7 +32,7 @@ include(tzdata)
 alsa-plugins
 include(alsa-utils)
 bash-completion
-cups
+include(cups)
 cups-filters
 cups-pk-helper
 also-add(ghostscript)

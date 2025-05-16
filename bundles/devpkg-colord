@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-colord-dev
+include(colord-dev)
 include(libglib)

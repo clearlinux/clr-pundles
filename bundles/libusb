@@ -1,0 +1,9 @@
+# [TITLE]: libusb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libusb-lib)
+include(libusb-license)
+libusb

@@ -1,0 +1,12 @@
+# [TITLE]: freetype-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib32)
+include(freetype-license)
+include(glibc-libc32)
+include(libpng-lib32)
+include(zlib-lib32)
+freetype-lib32

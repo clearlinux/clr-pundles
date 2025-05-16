@@ -1,0 +1,11 @@
+# [TITLE]: lmdb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lmdb)
+include(lmdb-bin)
+include(lmdb-lib)
+include(pkg-config-bin)
+lmdb-dev

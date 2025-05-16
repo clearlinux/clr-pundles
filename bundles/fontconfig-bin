@@ -1,0 +1,13 @@
+# [TITLE]: fontconfig-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-data)
+include(fontconfig-lib)
+include(fontconfig-license)
+include(fontconfig-services)
+include(freetype-lib)
+include(libc6)
+fontconfig-bin

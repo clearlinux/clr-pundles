@@ -1,0 +1,10 @@
+# [TITLE]: xcb-util-cursor-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(xcb-util-cursor-license)
+xcb-util-cursor-lib

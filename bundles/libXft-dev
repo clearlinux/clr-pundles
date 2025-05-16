@@ -1,0 +1,14 @@
+# [TITLE]: libXft-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-dev)
+include(freetype-dev)
+include(libX11-dev)
+include(libXft)
+include(libXft-lib)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libXft-dev

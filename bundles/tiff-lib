@@ -1,0 +1,13 @@
+# [TITLE]: tiff-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(zlib-lib)
+include(zstd-lib)
+tiff-lib

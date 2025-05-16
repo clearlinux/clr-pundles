@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-polkit-dev
+include(polkit-dev)
 include(libglib)
 include(polkit)

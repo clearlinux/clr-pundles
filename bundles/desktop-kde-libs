@@ -13,7 +13,7 @@ attica-lib
 baloo-lib
 baloo-widgets-lib
 exiv2-lib
-gpgme-lib
+include(gpgme-lib)
 kauth-lib
 kcalendarcore-lib
 kglobalaccel-lib
@@ -26,7 +26,7 @@ kguiaddons-lib
 kirigami2-lib
 kpackage-lib
 kquickcharts-lib
-libassuan-lib
+include(libassuan-lib)
 libxslt-lib
 phonon-lib
 qt6webengine

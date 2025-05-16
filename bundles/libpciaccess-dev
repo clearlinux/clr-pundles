@@ -1,0 +1,11 @@
+# [TITLE]: libpciaccess-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpciaccess)
+include(libpciaccess-lib)
+include(pkg-config-bin)
+include(zlib-dev)
+libpciaccess-dev

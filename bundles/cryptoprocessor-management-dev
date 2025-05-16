@@ -55,7 +55,7 @@ include(diffutils)
 include(docbook-utils)
 docbook-xml
 include(doxygen)
-e2fsprogs
+include(e2fsprogs)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
 include(devpkg-efivar)
@@ -179,7 +179,7 @@ include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
 include(nss-altfiles)
-openldap-dev
+include(openldap-dev)
 include(openssl)
 include(devpkg-openssl)
 include(devpkg-openssl)

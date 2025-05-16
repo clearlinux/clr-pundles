@@ -1,0 +1,11 @@
+# [TITLE]: cyrus-sasl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl)
+include(cyrus-sasl-bin)
+include(cyrus-sasl-lib)
+include(pkg-config-bin)
+cyrus-sasl-dev

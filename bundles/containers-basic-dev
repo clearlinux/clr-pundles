@@ -14,7 +14,7 @@ include(devpkg-Linux-PAM)
 PyYAML
 include(devpkg-SDL2)
 include(devpkg-SPIRV-Headers)
-SPIRV-Tools
+include(SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(Sphinx)
@@ -97,11 +97,11 @@ docbook-xml
 double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
-e2fsprogs
+include(e2fsprogs)
 include(e2fsprogs-data)
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-e2fsprogs-extras
+include(e2fsprogs-extras)
 include(devpkg-elfutils)
 include(devpkg-elfutils)
 include(devpkg-expat)
@@ -220,7 +220,7 @@ include(less)
 include(devpkg-libX11)
 include(devpkg-libX11)
 include(libX11-lib)
-libX11-lib32
+include(libX11-lib32)
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
 include(devpkg-libXft)
@@ -350,7 +350,7 @@ include(make)
 include(devpkg-mariadb)
 include(devpkg-md4c)
 mercurial
-mesa-bin
+include(mesa-bin)
 include(devpkg-mesa)
 include(devpkg-mesa)
 mingw-gcc
@@ -376,7 +376,7 @@ include(devpkg-numactl)
 include(devpkg-ocl-icd)
 openjdk
 openjdk-dev
-openldap-dev
+include(openldap-dev)
 include(openssl)
 include(devpkg-openssl)
 include(devpkg-openssl)
@@ -502,7 +502,7 @@ vala
 include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
-wayland
+include(wayland)
 include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)

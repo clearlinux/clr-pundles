@@ -19,7 +19,7 @@ xf86-video-vmware
 xhost
 xinit
 xkbcomp
-xkeyboard-config
+include(xkeyboard-config)
 xorg-server
 xrandr
 xrdb

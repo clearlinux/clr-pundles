@@ -1,0 +1,15 @@
+# [TITLE]: colord
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-bin)
+include(colord-config)
+include(colord-data)
+include(colord-lib)
+include(colord-libexec)
+include(colord-license)
+include(colord-locales)
+include(colord-services)
+colord

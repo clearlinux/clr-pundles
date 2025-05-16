@@ -1,0 +1,21 @@
+# [TITLE]: qtbase-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(dbus-lib)
+include(double-conversion-lib)
+include(glib-lib)
+include(krb5-lib)
+include(libc6)
+include(libgcc1)
+include(libproxy-lib)
+include(libstdc++)
+include(openssl-lib)
+include(pcre2-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+include(zstd-lib)
+qtbase-extras

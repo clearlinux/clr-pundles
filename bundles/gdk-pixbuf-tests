@@ -1,0 +1,11 @@
+# [TITLE]: gdk-pixbuf-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libc6)
+gdk-pixbuf-tests

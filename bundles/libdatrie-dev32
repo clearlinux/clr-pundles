@@ -1,0 +1,10 @@
+# [TITLE]: libdatrie-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdatrie-bin)
+include(libdatrie-dev)
+include(libdatrie-lib32)
+libdatrie-dev32

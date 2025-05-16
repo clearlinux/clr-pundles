@@ -1,0 +1,11 @@
+# [TITLE]: libX11-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libX11-lib)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libX11-dev

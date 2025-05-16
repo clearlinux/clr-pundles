@@ -1,0 +1,9 @@
+# [TITLE]: libXcursor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libXcursor-lib)
+include(libXcursor-license)
+libXcursor

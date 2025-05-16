@@ -1,0 +1,16 @@
+# [TITLE]: openldap-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(libc6)
+include(openldap-config)
+include(openldap-data)
+include(openldap-lib)
+include(openldap-libexec)
+include(openldap-license)
+include(openldap-services)
+include(util-linux-lib)
+openldap-bin

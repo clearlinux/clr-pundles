@@ -1,0 +1,13 @@
+# [TITLE]: krb5-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-dev)
+include(krb5-bin)
+include(krb5-data)
+include(krb5-dev)
+include(krb5-lib32)
+include(pkg-config-bin)
+krb5-dev32

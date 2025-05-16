@@ -1,0 +1,9 @@
+# [TITLE]: fuse-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fuse-license)
+include(libc6)
+fuse-lib

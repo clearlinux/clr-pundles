@@ -1,0 +1,8 @@
+# [TITLE]: e2fsprogs-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+e2fsprogs-services

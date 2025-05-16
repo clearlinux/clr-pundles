@@ -1,0 +1,15 @@
+# [TITLE]: polkit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(polkit-config)
+include(polkit-data)
+include(polkit-lib)
+include(polkit-license)
+include(polkit-services)
+include(polkit-setuid)
+polkit-bin

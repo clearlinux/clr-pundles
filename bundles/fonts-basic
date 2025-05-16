@@ -11,8 +11,8 @@ include(lib-opengl)
 
 # tools
 include(fontconfig)
-freetype
-harfbuzz
+include(freetype)
+include(harfbuzz)
 mkfontdir
 mkfontscale
 

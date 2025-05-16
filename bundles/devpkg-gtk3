@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gtk3-dev
+include(gtk3-dev)
 include(libX11client)
 include(libglib)
 include(lib-opengl)

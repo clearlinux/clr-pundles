@@ -1,0 +1,11 @@
+# [TITLE]: double-conversion-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(double-conversion-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+double-conversion-lib

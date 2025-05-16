@@ -1,0 +1,12 @@
+# [TITLE]: libepoxy-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libepoxy)
+include(libepoxy-lib)
+include(libglvnd-dev)
+include(pkg-config-bin)
+libepoxy-dev

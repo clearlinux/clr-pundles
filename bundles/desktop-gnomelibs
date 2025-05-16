@@ -17,7 +17,7 @@ gtk+-lib
 alsa-lib
 gnome-shell-lib
 gstreamer-lib
-mesa-lib
+include(mesa-lib)
 libcanberra-lib
 evolution-data-server-lib
 gjs-lib
@@ -39,7 +39,7 @@ enchant-lib
 gtksourceview-lib
 gtksourceview4-lib
 pulseaudio-lib
-libdrm-lib
+include(libdrm-lib)
 gnome-bluetooth-lib
 tdb-lib
 tracker

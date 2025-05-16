@@ -1,0 +1,12 @@
+# [TITLE]: libxkbcommon-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib32)
+include(glibc-libc32)
+include(libX11-lib32)
+include(libxkbcommon-data)
+include(libxkbcommon-license)
+libxkbcommon-lib32

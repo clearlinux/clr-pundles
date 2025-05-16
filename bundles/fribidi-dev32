@@ -1,0 +1,11 @@
+# [TITLE]: fribidi-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fribidi-bin)
+include(fribidi-dev)
+include(fribidi-lib32)
+include(pkg-config-bin)
+fribidi-dev32

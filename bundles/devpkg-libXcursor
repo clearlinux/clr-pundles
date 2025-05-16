@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libXcursor-dev
+include(libXcursor-dev)
 include(libX11client)

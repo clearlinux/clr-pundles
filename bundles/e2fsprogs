@@ -1,0 +1,19 @@
+# [TITLE]: e2fsprogs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-bin)
+include(e2fsprogs-config)
+include(e2fsprogs-data)
+include(e2fsprogs-info)
+include(e2fsprogs-lib)
+include(e2fsprogs-libexec)
+include(e2fsprogs-license)
+include(e2fsprogs-locales)
+include(e2fsprogs-man)
+include(e2fsprogs-services)
+include(libc6)
+include(util-linux-lib)
+e2fsprogs

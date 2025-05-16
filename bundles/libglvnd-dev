@@ -1,0 +1,10 @@
+# [TITLE]: libglvnd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libglvnd)
+include(libglvnd-lib)
+include(pkg-config-bin)
+libglvnd-dev

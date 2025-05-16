@@ -1,0 +1,12 @@
+# [TITLE]: libpng-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpng-bin)
+include(libpng-dev)
+include(libpng-lib32)
+include(pkg-config-bin)
+include(zlib-dev)
+libpng-dev32

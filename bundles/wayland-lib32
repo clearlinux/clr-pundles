@@ -1,0 +1,11 @@
+# [TITLE]: wayland-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libffi-lib32)
+include(wayland-data)
+include(wayland-license)
+wayland-lib32

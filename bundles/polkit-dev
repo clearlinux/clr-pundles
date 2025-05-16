@@ -1,0 +1,14 @@
+# [TITLE]: polkit-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pkg-config-bin)
+include(polkit)
+include(polkit-bin)
+include(polkit-data)
+include(polkit-dev)
+include(polkit-lib)
+polkit-dev

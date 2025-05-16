@@ -1,0 +1,12 @@
+# [TITLE]: json-glib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-glib-bin)
+include(json-glib-data)
+include(json-glib-lib)
+include(json-glib-license)
+include(json-glib-locales)
+json-glib

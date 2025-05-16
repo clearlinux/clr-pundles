@@ -1,0 +1,10 @@
+# [TITLE]: fribidi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fribidi-lib)
+include(fribidi-license)
+include(libc6)
+fribidi-bin

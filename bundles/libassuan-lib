@@ -1,0 +1,10 @@
+# [TITLE]: libassuan-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libassuan-license)
+include(libc6)
+include(libgpg-error-lib)
+libassuan-lib

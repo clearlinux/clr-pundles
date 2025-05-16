@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-cyrus-sasl-dev
+include(cyrus-sasl-dev)
 include(openldap)

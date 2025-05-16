@@ -1,0 +1,13 @@
+# [TITLE]: colord-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord)
+include(colord-lib)
+include(glib-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+colord-tests

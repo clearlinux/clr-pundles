@@ -1,0 +1,11 @@
+# [TITLE]: lcms2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lcms2)
+include(lcms2-bin)
+include(lcms2-lib)
+include(pkg-config-bin)
+lcms2-dev

@@ -12,7 +12,7 @@ include(poppler)
 also-add(ghostscript)
 
 avahi-bin
-cups
+include(cups)
 cups-bjnp
 cups-filters
 dymo-cups-drivers

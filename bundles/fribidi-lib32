@@ -1,0 +1,9 @@
+# [TITLE]: fribidi-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fribidi-license)
+include(glibc-libc32)
+fribidi-lib32

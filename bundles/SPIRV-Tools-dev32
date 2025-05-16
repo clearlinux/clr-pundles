@@ -1,0 +1,11 @@
+# [TITLE]: SPIRV-Tools-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-bin)
+include(SPIRV-Tools-dev)
+include(SPIRV-Tools-lib32)
+include(pkg-config-bin)
+SPIRV-Tools-dev32

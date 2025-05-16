@@ -1,0 +1,15 @@
+# [TITLE]: cyrus-sasl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cyrus-sasl-lib)
+include(cyrus-sasl-license)
+include(cyrus-sasl-services)
+include(gdbm-lib)
+include(krb5-lib)
+include(libc6)
+include(libxcrypt-lib)
+cyrus-sasl-bin

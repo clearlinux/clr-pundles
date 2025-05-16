@@ -1,0 +1,10 @@
+# [TITLE]: e2fsprogs-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-data)
+include(e2fsprogs-license)
+include(glibc-libc32)
+e2fsprogs-lib32

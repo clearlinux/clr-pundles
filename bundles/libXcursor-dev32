@@ -1,0 +1,12 @@
+# [TITLE]: libXcursor-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXcursor-dev)
+include(libXcursor-lib32)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libXcursor-dev32

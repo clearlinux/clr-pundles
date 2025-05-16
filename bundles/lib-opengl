@@ -27,5 +27,5 @@ libclc
 
 # main packages
 
-mesa
-libdrm-lib
+include(mesa)
+include(libdrm-lib)

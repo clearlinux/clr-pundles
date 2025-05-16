@@ -26,7 +26,7 @@ procps-ng-bin
 include(shadow)
 include(systemd-bootchart)
 include(util-linux-bin)
-e2fsprogs-bin
+include(e2fsprogs-bin)
 include(shadow-bin)
 include(shadow-data)
 tar-bin

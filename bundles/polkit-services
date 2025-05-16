@@ -1,0 +1,8 @@
+# [TITLE]: polkit-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+polkit-services

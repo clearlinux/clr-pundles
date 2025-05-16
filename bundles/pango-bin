@@ -1,0 +1,17 @@
+# [TITLE]: pango-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fontconfig-lib)
+include(glib-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libc6)
+include(pango-data)
+include(pango-lib)
+include(pango-license)
+pango-bin

@@ -1,0 +1,30 @@
+# [TITLE]: qtbase-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(cups-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(glib-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libinput-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(mariadb-extras-clientlib)
+include(md4c-lib)
+include(postgresql-lib)
+include(qtbase-extras)
+include(qtbase-license)
+include(systemd-lib)
+include(zlib-lib)
+include(zstd-lib)
+qtbase-lib

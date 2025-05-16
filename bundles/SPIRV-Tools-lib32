@@ -1,0 +1,11 @@
+# [TITLE]: SPIRV-Tools-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-license)
+include(gcc-libgcc32)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+SPIRV-Tools-lib32

@@ -1,0 +1,10 @@
+# [TITLE]: graphite-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(graphite-data)
+include(graphite-license)
+include(libc6)
+graphite-lib

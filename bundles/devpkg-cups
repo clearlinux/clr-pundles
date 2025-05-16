@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-cups-dev
+include(cups-dev)
 include(libstdcpp)
 include(libX11client)
 include(harfbuzz-lib)

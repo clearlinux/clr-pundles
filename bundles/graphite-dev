@@ -1,0 +1,12 @@
+# [TITLE]: graphite-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(graphite)
+include(graphite-bin)
+include(graphite-data)
+include(graphite-lib)
+include(pkg-config-bin)
+graphite-dev

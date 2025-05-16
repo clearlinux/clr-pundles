@@ -34,7 +34,7 @@ include(diffutils)
 dmidecode
 dos2unix
 dracut
-e2fsprogs
+include(e2fsprogs)
 efibootmgr
 include(file)
 include(findutils)

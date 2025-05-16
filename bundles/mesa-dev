@@ -1,0 +1,14 @@
+# [TITLE]: mesa-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdrm-dev)
+include(libglvnd-dev)
+include(mesa)
+include(mesa-bin)
+include(mesa-data)
+include(mesa-lib)
+include(pkg-config-bin)
+mesa-dev

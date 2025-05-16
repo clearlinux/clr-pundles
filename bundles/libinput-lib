@@ -1,0 +1,14 @@
+# [TITLE]: libinput-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libevdev-lib)
+include(libinput-data)
+include(libinput-libexec)
+include(libinput-license)
+include(mtdev-lib)
+include(systemd-lib)
+libinput-lib

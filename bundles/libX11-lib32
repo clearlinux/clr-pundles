@@ -1,0 +1,8 @@
+# [TITLE]: libX11-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+libX11-lib32

@@ -1,0 +1,12 @@
+# [TITLE]: cyrus-sasl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-bin)
+include(cyrus-sasl-lib)
+include(cyrus-sasl-license)
+include(cyrus-sasl-man)
+include(cyrus-sasl-services)
+cyrus-sasl

@@ -1,0 +1,8 @@
+# [TITLE]: libdatrie-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdatrie-man)
+libdatrie-doc

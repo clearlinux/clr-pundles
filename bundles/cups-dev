@@ -1,0 +1,13 @@
+# [TITLE]: cups-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups)
+include(cups-bin)
+include(cups-data)
+include(cups-lib)
+include(gnutls-dev)
+include(pkg-config-bin)
+cups-dev

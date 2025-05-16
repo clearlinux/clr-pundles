@@ -1,0 +1,11 @@
+# [TITLE]: libjpeg-turbo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libjpeg-turbo-bin)
+include(libjpeg-turbo-lib)
+include(libjpeg-turbo-license)
+include(libjpeg-turbo-man)
+libjpeg-turbo

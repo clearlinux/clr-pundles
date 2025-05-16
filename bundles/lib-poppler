@@ -25,4 +25,4 @@ include(lib-opengl)
 # end of custom additions
 
 # main package
-poppler-lib
+include(poppler-lib)

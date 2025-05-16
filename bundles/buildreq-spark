@@ -8,7 +8,7 @@
 include(java-basic)
 include(openssl)
 include(devpkg-openssl)
-cyrus-sasl
+include(cyrus-sasl)
 include(devpkg-cyrus-sasl)
 include(pandoc)
 include(python3-basic)

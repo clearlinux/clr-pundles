@@ -1,0 +1,10 @@
+# [TITLE]: mesa-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdrm-lib)
+include(mesa-license)
+mesa-libexec

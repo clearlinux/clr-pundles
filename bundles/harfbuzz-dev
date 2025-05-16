@@ -1,0 +1,17 @@
+# [TITLE]: harfbuzz-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(freetype-dev)
+include(glib-dev)
+include(graphite-dev)
+include(harfbuzz)
+include(harfbuzz-bin)
+include(harfbuzz-data)
+include(harfbuzz-lib)
+include(icu4c-dev)
+include(pkg-config-bin)
+harfbuzz-dev

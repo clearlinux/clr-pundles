@@ -1,0 +1,11 @@
+# [TITLE]: brotli
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-bin)
+include(brotli-lib)
+include(brotli-license)
+include(brotli-man)
+brotli

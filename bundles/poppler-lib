@@ -1,0 +1,28 @@
+# [TITLE]: poppler-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(curl-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(glib-lib)
+include(gpgme-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(nspr)
+include(nss-lib)
+include(poppler-data)
+include(poppler-license)
+include(qt6base-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(tiff-lib)
+include(zlib-lib)
+poppler-lib

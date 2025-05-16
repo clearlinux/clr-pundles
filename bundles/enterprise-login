@@ -12,7 +12,7 @@ include(samba)
 
 authconfig
 pypi-kerberos
-krb5
+include(krb5)
 nss-pam-ldapd
 pypi-requests_kerberos
 sssd

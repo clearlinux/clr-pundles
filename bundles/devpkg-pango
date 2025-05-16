@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-pango-dev
+include(pango-dev)
 include(libX11client)
 include(libglib)

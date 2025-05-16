@@ -9,5 +9,5 @@ include(which)
 include(libglib)
 include(lib-openssl)
 
-e2fsprogs-extras
+include(e2fsprogs-extras)
 micro-config-drive

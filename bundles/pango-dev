@@ -1,0 +1,22 @@
+# [TITLE]: pango-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(fontconfig-dev)
+include(freetype-dev)
+include(fribidi-dev)
+include(glib-dev)
+include(harfbuzz-dev)
+include(libX11-dev)
+include(libXft-dev)
+include(libthai-dev)
+include(pango)
+include(pango-bin)
+include(pango-data)
+include(pango-dev)
+include(pango-lib)
+include(pkg-config-bin)
+pango-dev

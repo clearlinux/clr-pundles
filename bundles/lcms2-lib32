@@ -1,0 +1,9 @@
+# [TITLE]: lcms2-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(lcms2-license)
+lcms2-lib32

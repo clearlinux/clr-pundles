@@ -1,0 +1,12 @@
+# [TITLE]: brotli-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli)
+include(brotli-bin)
+include(brotli-dev)
+include(brotli-lib)
+include(pkg-config-bin)
+brotli-dev

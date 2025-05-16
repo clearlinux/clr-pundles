@@ -14,7 +14,7 @@ include(devpkg-libX11)
 include(devpkg-pixman)
 include(devpkg-zlib)
 
-cairo-dev
+include(cairo-dev)
 include(libX11client)
 include(libglib)
 include(lib-imageformat)

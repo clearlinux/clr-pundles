@@ -1,0 +1,10 @@
+# [TITLE]: nss-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nspr)
+include(sqlite-autoconf-lib)
+nss-lib

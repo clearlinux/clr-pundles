@@ -1,0 +1,13 @@
+# [TITLE]: libxkbcommon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxkbcommon-bin)
+include(libxkbcommon-data)
+include(libxkbcommon-lib)
+include(libxkbcommon-libexec)
+include(libxkbcommon-license)
+include(libxkbcommon-man)
+libxkbcommon

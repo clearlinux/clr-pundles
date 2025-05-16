@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libjpeg-turbo-dev
+include(libjpeg-turbo-dev)
 include(lib-imageformat)

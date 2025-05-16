@@ -1,0 +1,9 @@
+# [TITLE]: cairo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-license)
+include(filesystem)
+cairo-bin

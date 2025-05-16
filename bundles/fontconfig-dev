@@ -1,0 +1,14 @@
+# [TITLE]: fontconfig-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-dev)
+include(fontconfig)
+include(fontconfig-bin)
+include(fontconfig-data)
+include(fontconfig-lib)
+include(freetype-dev)
+include(pkg-config-bin)
+fontconfig-dev

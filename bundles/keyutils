@@ -1,0 +1,12 @@
+# [TITLE]: keyutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(keyutils-bin)
+include(keyutils-data)
+include(keyutils-lib)
+include(keyutils-license)
+include(keyutils-man)
+keyutils

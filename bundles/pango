@@ -1,0 +1,11 @@
+# [TITLE]: pango
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pango-bin)
+include(pango-data)
+include(pango-lib)
+include(pango-license)
+pango

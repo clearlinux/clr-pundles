@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-harfbuzz-dev
+include(harfbuzz-dev)
 include(libX11client)
 include(libglib)
 include(libstdcpp)

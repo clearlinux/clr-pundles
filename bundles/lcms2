@@ -1,0 +1,11 @@
+# [TITLE]: lcms2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lcms2-bin)
+include(lcms2-lib)
+include(lcms2-license)
+include(lcms2-man)
+lcms2

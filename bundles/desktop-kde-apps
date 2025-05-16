@@ -24,7 +24,7 @@ also-add(ark)
 bluez-qt
 calendarsupport
 cantata
-cyrus-sasl
+include(cyrus-sasl)
 also-add(digikam)
 also-add(dolphin)
 also-add(dragon)
