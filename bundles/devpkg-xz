@@ -9,4 +9,3 @@ include(devpkg-base)
 
 include(xz-dev)
 include(xz)
-include(xz)
