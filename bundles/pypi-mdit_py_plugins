@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mdit_py_plugins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mdit_py_plugins-license)
+include(pypi-mdit_py_plugins-python)
+include(pypi-mdit_py_plugins-python3)
+pypi-mdit_py_plugins

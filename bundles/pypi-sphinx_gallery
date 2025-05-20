@@ -1,0 +1,11 @@
+# [TITLE]: pypi-sphinx_gallery
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_gallery-bin)
+include(pypi-sphinx_gallery-license)
+include(pypi-sphinx_gallery-python)
+include(pypi-sphinx_gallery-python3)
+pypi-sphinx_gallery

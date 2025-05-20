@@ -1,0 +1,8 @@
+# [TITLE]: pypi-binaryornot-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-binaryornot-python3)
+pypi-binaryornot-python

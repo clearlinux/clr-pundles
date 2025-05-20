@@ -1,0 +1,11 @@
+# [TITLE]: libevdev-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libevdev-bin)
+include(libevdev-dev)
+include(libevdev-lib32)
+include(pkg-config-bin)
+libevdev-dev32

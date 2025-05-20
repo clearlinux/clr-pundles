@@ -1,0 +1,12 @@
+# [TITLE]: pypi-rsa
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyasn1-python3)
+include(pypi-rsa-bin)
+include(pypi-rsa-license)
+include(pypi-rsa-python)
+include(pypi-rsa-python3)
+pypi-rsa

@@ -1,0 +1,13 @@
+# [TITLE]: pypi-bowler-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrs-python3)
+include(pypi-click-python3)
+include(pypi-fissix-python3)
+include(pypi-moreorless-python3)
+include(pypi-volatile-python3)
+include(python3-core)
+pypi-bowler-python3

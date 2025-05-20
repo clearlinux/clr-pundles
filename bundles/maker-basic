@@ -20,5 +20,5 @@ libgpiod
 libmodbus
 include(libusb)
 picocom
-pypi-pyusb
+include(pypi-pyusb)
 usbutils

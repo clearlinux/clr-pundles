@@ -1,0 +1,11 @@
+# [TITLE]: pypi-cheetah3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cheetah3-bin)
+include(pypi-cheetah3-license)
+include(pypi-cheetah3-python)
+include(pypi-cheetah3-python3)
+pypi-cheetah3

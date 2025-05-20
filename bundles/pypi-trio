@@ -1,0 +1,10 @@
+# [TITLE]: pypi-trio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-trio-license)
+include(pypi-trio-python)
+include(pypi-trio-python3)
+pypi-trio

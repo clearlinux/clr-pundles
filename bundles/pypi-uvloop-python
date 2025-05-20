@@ -1,0 +1,8 @@
+# [TITLE]: pypi-uvloop-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uvloop-python3)
+pypi-uvloop-python

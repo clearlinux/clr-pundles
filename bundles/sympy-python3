@@ -1,0 +1,9 @@
+# [TITLE]: sympy-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mpmath-python3)
+include(python3-core)
+sympy-python3

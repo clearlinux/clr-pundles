@@ -1,0 +1,13 @@
+# [TITLE]: pypi-ansible_compat-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(ansible-core-python3)
+include(pypi-jsonschema-python3)
+include(pypi-packaging-python3)
+include(pypi-subprocess_tee-python3)
+include(python3-core)
+pypi-ansible_compat-python3

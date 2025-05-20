@@ -1,0 +1,11 @@
+# [TITLE]: pypi-exdir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-exdir-data)
+include(pypi-exdir-license)
+include(pypi-exdir-python)
+include(pypi-exdir-python3)
+pypi-exdir

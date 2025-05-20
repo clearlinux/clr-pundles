@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinx-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx-python3)
+pypi-sphinx-python

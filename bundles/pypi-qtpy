@@ -1,0 +1,11 @@
+# [TITLE]: pypi-qtpy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-qtpy-bin)
+include(pypi-qtpy-license)
+include(pypi-qtpy-python)
+include(pypi-qtpy-python3)
+pypi-qtpy

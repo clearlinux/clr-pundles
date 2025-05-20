@@ -1,0 +1,9 @@
+# [TITLE]: pypi-langcodes-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-language_data-python3)
+include(python3-core)
+pypi-langcodes-python3

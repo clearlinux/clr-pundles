@@ -1,0 +1,11 @@
+# [TITLE]: libnftnl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmnl-dev)
+include(libnftnl)
+include(libnftnl-lib)
+include(pkg-config-bin)
+libnftnl-dev

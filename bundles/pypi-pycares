@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pycares
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycares-license)
+include(pypi-pycares-python)
+include(pypi-pycares-python3)
+pypi-pycares

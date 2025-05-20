@@ -1,0 +1,11 @@
+# [TITLE]: augeas-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(augeas-data)
+include(augeas-license)
+include(compat-libxml2-soname2-lib)
+include(libc6)
+augeas-lib

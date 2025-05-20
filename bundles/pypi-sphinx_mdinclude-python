@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinx_mdinclude-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_mdinclude-python3)
+pypi-sphinx_mdinclude-python

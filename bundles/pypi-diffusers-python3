@@ -1,0 +1,16 @@
+# [TITLE]: pypi-diffusers-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-filelock-python3)
+include(pypi-huggingface_hub-python3)
+include(pypi-importlib_metadata-python3)
+include(pypi-numpy-python3)
+include(pypi-pillow-python3)
+include(pypi-regex-python3)
+include(pypi-requests-python3)
+include(pypi-safetensors-python3)
+include(python3-core)
+pypi-diffusers-python3

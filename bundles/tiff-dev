@@ -1,0 +1,15 @@
+# [TITLE]: tiff-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libjpeg-turbo-dev)
+include(libwebp-dev)
+include(pkg-config-bin)
+include(tiff)
+include(tiff-bin)
+include(tiff-lib)
+include(zlib-dev)
+include(zstd-dev)
+tiff-dev

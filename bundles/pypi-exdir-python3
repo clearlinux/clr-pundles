@@ -1,0 +1,11 @@
+# [TITLE]: pypi-exdir-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-numpy-python3)
+include(pypi-ruamel.yaml-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-exdir-python3

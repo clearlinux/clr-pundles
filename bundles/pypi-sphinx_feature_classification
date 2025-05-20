@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinx_feature_classification
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_feature_classification-license)
+include(pypi-sphinx_feature_classification-python)
+include(pypi-sphinx_feature_classification-python3)
+pypi-sphinx_feature_classification

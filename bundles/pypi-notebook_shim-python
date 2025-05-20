@@ -1,0 +1,8 @@
+# [TITLE]: pypi-notebook_shim-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-notebook_shim-python3)
+pypi-notebook_shim-python

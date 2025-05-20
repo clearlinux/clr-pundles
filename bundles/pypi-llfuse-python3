@@ -1,0 +1,10 @@
+# [TITLE]: pypi-llfuse-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-fuse-soname2-lib)
+include(libc6)
+include(python3-core)
+pypi-llfuse-python3

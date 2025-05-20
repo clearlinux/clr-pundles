@@ -1,0 +1,10 @@
+# [TITLE]: pypi-wbdata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wbdata-license)
+include(pypi-wbdata-python)
+include(pypi-wbdata-python3)
+pypi-wbdata

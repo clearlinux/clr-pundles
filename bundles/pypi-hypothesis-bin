@@ -1,0 +1,9 @@
+# [TITLE]: pypi-hypothesis-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hypothesis-license)
+include(python3-core)
+pypi-hypothesis-bin

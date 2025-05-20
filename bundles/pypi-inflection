@@ -1,0 +1,10 @@
+# [TITLE]: pypi-inflection
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-inflection-license)
+include(pypi-inflection-python)
+include(pypi-inflection-python3)
+pypi-inflection

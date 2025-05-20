@@ -1,0 +1,10 @@
+# [TITLE]: pypi-minikanren
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-minikanren-license)
+include(pypi-minikanren-python)
+include(pypi-minikanren-python3)
+pypi-minikanren

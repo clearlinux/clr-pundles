@@ -1,0 +1,8 @@
+# [TITLE]: pypi-b4-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-b4-python3)
+pypi-b4-python

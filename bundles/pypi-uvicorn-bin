@@ -1,0 +1,9 @@
+# [TITLE]: pypi-uvicorn-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uvicorn-license)
+include(python3-core)
+pypi-uvicorn-bin

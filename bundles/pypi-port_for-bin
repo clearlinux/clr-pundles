@@ -1,0 +1,9 @@
+# [TITLE]: pypi-port_for-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-port_for-license)
+include(python3-core)
+pypi-port_for-bin

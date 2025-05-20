@@ -1,0 +1,10 @@
+# [TITLE]: pypi-uritemplate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uritemplate-license)
+include(pypi-uritemplate-python)
+include(pypi-uritemplate-python3)
+pypi-uritemplate

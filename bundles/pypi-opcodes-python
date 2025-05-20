@@ -1,0 +1,8 @@
+# [TITLE]: pypi-opcodes-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-opcodes-python3)
+pypi-opcodes-python

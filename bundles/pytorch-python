@@ -1,0 +1,8 @@
+# [TITLE]: pytorch-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pytorch-python3)
+pytorch-python

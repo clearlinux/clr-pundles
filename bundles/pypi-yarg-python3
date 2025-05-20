@@ -1,0 +1,9 @@
+# [TITLE]: pypi-yarg-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests-python3)
+include(python3-core)
+pypi-yarg-python3

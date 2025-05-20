@@ -1,0 +1,10 @@
+# [TITLE]: pypi-readtime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-readtime-license)
+include(pypi-readtime-python)
+include(pypi-readtime-python3)
+pypi-readtime

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-awscrt-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(openssl-lib)
+include(python3-core)
+pypi-awscrt-python3

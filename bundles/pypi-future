@@ -1,0 +1,11 @@
+# [TITLE]: pypi-future
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-future-bin)
+include(pypi-future-license)
+include(pypi-future-python)
+include(pypi-future-python3)
+pypi-future

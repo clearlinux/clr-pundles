@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cheroot-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jaraco.functools-python3)
+include(pypi-more_itertools-python3)
+include(python3-core)
+pypi-cheroot-python3

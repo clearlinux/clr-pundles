@@ -1,0 +1,15 @@
+# [TITLE]: rustc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(openssl-lib)
+include(rustc-data)
+include(rustc-extras-lib)
+include(rustc-license)
+include(zlib-lib)
+rustc-bin

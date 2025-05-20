@@ -1,0 +1,14 @@
+# [TITLE]: protobuf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-dev)
+include(pkg-config-bin)
+include(protobuf)
+include(protobuf-bin)
+include(protobuf-dev)
+include(protobuf-lib)
+include(protobuf-staticdev)
+protobuf-dev

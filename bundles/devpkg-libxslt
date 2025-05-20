@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libxslt-dev
+include(libxslt-dev)
 include(libxslt)

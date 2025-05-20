@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jaraco.context-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jaraco.context-python3)
+pypi-jaraco.context-python

@@ -10,7 +10,7 @@
 include(yaml)
 include(sqlite)
 include(python3-basic)
-PyYAML-python3
+include(PyYAML-python3)
 
 # end of custom additions
 

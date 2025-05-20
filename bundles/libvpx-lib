@@ -1,0 +1,9 @@
+# [TITLE]: libvpx-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libvpx-license)
+libvpx-lib

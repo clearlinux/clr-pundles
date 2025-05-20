@@ -1,0 +1,11 @@
+# [TITLE]: pypi-gitpython
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gitdb-python3)
+include(pypi-gitpython-license)
+include(pypi-gitpython-python)
+include(pypi-gitpython-python3)
+pypi-gitpython

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyroute2.ethtool
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroute2.ethtool-license)
+include(pypi-pyroute2.ethtool-python)
+include(pypi-pyroute2.ethtool-python3)
+pypi-pyroute2.ethtool

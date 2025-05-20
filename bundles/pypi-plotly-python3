@@ -1,0 +1,10 @@
+# [TITLE]: pypi-plotly-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-narwhals-python3)
+include(pypi-packaging-python3)
+include(python3-core)
+pypi-plotly-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pydot-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydot-python3)
+pypi-pydot-python

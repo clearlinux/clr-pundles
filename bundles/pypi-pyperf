@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyperf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyperf-bin)
+include(pypi-pyperf-license)
+include(pypi-pyperf-python)
+include(pypi-pyperf-python3)
+pypi-pyperf

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-prometheus_client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-prometheus_client-license)
+include(pypi-prometheus_client-python)
+include(pypi-prometheus_client-python3)
+pypi-prometheus_client

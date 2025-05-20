@@ -1,0 +1,10 @@
+# [TITLE]: pypi-uritools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uritools-license)
+include(pypi-uritools-python)
+include(pypi-uritools-python3)
+pypi-uritools

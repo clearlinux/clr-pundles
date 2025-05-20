@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xstatic-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic-python3)
+pypi-xstatic-python

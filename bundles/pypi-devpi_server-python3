@@ -1,0 +1,25 @@
+# [TITLE]: pypi-devpi_server-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(defusedxml-python3)
+include(pypi-argon2_cffi-python3)
+include(pypi-attrs-python3)
+include(pypi-devpi_common-python3)
+include(pypi-httpx-python3)
+include(pypi-itsdangerous-python3)
+include(pypi-lazy-python3)
+include(pypi-legacy_cgi-python3)
+include(pypi-passlib-python3)
+include(pypi-platformdirs-python3)
+include(pypi-pluggy-python3)
+include(pypi-py-python3)
+include(pypi-pyramid-python3)
+include(pypi-repoze.lru-python3)
+include(pypi-ruamel.yaml-python3)
+include(pypi-strictyaml-python3)
+include(pypi-waitress-python3)
+include(python3-core)
+pypi-devpi_server-python3

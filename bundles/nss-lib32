@@ -1,0 +1,10 @@
+# [TITLE]: nss-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(nspr-lib32)
+include(sqlite-autoconf-lib32)
+nss-lib32

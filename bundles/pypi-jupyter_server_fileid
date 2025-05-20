@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jupyter_server_fileid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_server_fileid-bin)
+include(pypi-jupyter_server_fileid-license)
+include(pypi-jupyter_server_fileid-python)
+include(pypi-jupyter_server_fileid-python3)
+pypi-jupyter_server_fileid

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyu2f-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyu2f-python3)
+pypi-pyu2f-python

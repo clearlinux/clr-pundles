@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pycurl-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(libc6)
+include(openssl-lib)
+include(python3-core)
+pypi-pycurl-python3

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-python_version
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_version-python)
+include(pypi-python_version-python3)
+pypi-python_version

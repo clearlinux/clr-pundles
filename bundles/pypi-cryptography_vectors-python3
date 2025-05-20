@@ -1,0 +1,9 @@
+# [TITLE]: pypi-cryptography_vectors-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(python3-core)
+pypi-cryptography_vectors-python3

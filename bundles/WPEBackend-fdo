@@ -1,0 +1,9 @@
+# [TITLE]: WPEBackend-fdo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(WPEBackend-fdo-lib)
+include(WPEBackend-fdo-license)
+WPEBackend-fdo

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-three_merge
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-three_merge-license)
+include(pypi-three_merge-python)
+include(pypi-three_merge-python3)
+pypi-three_merge

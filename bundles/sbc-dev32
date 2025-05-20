@@ -1,0 +1,10 @@
+# [TITLE]: sbc-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sbc-bin)
+include(sbc-dev)
+include(sbc-lib32)
+sbc-dev32

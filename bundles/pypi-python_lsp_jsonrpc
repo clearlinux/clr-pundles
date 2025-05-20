@@ -1,0 +1,10 @@
+# [TITLE]: pypi-python_lsp_jsonrpc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_lsp_jsonrpc-license)
+include(pypi-python_lsp_jsonrpc-python)
+include(pypi-python_lsp_jsonrpc-python3)
+pypi-python_lsp_jsonrpc

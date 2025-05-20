@@ -1,0 +1,8 @@
+# [TITLE]: pypi-h2-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-h2-python3)
+pypi-h2-python

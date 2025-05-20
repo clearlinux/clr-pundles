@@ -1,0 +1,9 @@
+# [TITLE]: pypi-types_cryptography
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_cryptography-python)
+include(pypi-types_cryptography-python3)
+pypi-types_cryptography

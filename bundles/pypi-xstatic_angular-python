@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xstatic_angular-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic_angular-python3)
+pypi-xstatic_angular-python

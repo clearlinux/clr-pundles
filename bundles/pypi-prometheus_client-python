@@ -1,0 +1,8 @@
+# [TITLE]: pypi-prometheus_client-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-prometheus_client-python3)
+pypi-prometheus_client-python

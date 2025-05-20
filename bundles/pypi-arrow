@@ -1,0 +1,10 @@
+# [TITLE]: pypi-arrow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-arrow-license)
+include(pypi-arrow-python)
+include(pypi-arrow-python3)
+pypi-arrow

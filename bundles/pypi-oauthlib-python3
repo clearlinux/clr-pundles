@@ -1,0 +1,8 @@
+# [TITLE]: pypi-oauthlib-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-oauthlib-python3

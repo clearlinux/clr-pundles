@@ -1,0 +1,10 @@
+# [TITLE]: pypi-django_discover_runner
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-django_discover_runner-license)
+include(pypi-django_discover_runner-python)
+include(pypi-django_discover_runner-python3)
+pypi-django_discover_runner

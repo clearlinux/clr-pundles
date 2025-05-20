@@ -1,0 +1,9 @@
+# [TITLE]: pypi-cattrs-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrs-python3)
+include(python3-core)
+pypi-cattrs-python3

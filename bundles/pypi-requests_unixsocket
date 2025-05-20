@@ -1,0 +1,10 @@
+# [TITLE]: pypi-requests_unixsocket
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests_unixsocket-license)
+include(pypi-requests_unixsocket-python)
+include(pypi-requests_unixsocket-python3)
+pypi-requests_unixsocket

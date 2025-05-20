@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libunwind-dev
+include(libunwind-dev)
 include(libunwind-lib)

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyxattr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyxattr-license)
+include(pypi-pyxattr-python)
+include(pypi-pyxattr-python3)
+pypi-pyxattr

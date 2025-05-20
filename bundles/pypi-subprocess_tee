@@ -1,0 +1,10 @@
+# [TITLE]: pypi-subprocess_tee
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-subprocess_tee-license)
+include(pypi-subprocess_tee-python)
+include(pypi-subprocess_tee-python3)
+pypi-subprocess_tee

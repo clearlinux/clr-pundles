@@ -1,0 +1,10 @@
+# [TITLE]: pypi-wurlitzer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wurlitzer-license)
+include(pypi-wurlitzer-python)
+include(pypi-wurlitzer-python3)
+pypi-wurlitzer

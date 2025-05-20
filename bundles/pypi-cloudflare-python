@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cloudflare-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cloudflare-python3)
+pypi-cloudflare-python

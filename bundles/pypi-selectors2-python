@@ -1,0 +1,8 @@
+# [TITLE]: pypi-selectors2-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-selectors2-python3)
+pypi-selectors2-python

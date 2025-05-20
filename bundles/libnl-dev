@@ -1,0 +1,13 @@
+# [TITLE]: libnl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnl)
+include(libnl-bin)
+include(libnl-data)
+include(libnl-dev)
+include(libnl-lib)
+include(pkg-config-bin)
+libnl-dev

@@ -1,0 +1,12 @@
+# [TITLE]: munge
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(munge-bin)
+include(munge-lib)
+include(munge-license)
+include(munge-man)
+include(munge-services)
+munge

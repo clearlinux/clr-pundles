@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_websupport
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_websupport-license)
+include(pypi-sphinxcontrib_websupport-python)
+include(pypi-sphinxcontrib_websupport-python3)
+pypi-sphinxcontrib_websupport

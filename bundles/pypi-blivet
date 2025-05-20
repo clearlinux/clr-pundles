@@ -1,0 +1,14 @@
+# [TITLE]: pypi-blivet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pygobject)
+include(pypi-blivet-data)
+include(pypi-blivet-libexec)
+include(pypi-blivet-license)
+include(pypi-blivet-python)
+include(pypi-blivet-python3)
+include(pypi-blivet-services)
+pypi-blivet

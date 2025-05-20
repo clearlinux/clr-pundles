@@ -1,0 +1,8 @@
+# [TITLE]: pypi-applicationinsights-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-applicationinsights-python3)
+pypi-applicationinsights-python

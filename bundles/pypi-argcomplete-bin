@@ -1,0 +1,9 @@
+# [TITLE]: pypi-argcomplete-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-argcomplete-license)
+include(python3-core)
+pypi-argcomplete-bin

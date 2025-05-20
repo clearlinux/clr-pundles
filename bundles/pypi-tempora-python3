@@ -1,0 +1,10 @@
+# [TITLE]: pypi-tempora-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jaraco.functools-python3)
+include(pypi-python_dateutil-python3)
+include(python3-core)
+pypi-tempora-python3

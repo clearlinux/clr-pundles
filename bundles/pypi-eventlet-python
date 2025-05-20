@@ -1,0 +1,8 @@
+# [TITLE]: pypi-eventlet-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-eventlet-python3)
+pypi-eventlet-python

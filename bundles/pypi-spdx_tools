@@ -1,0 +1,11 @@
+# [TITLE]: pypi-spdx_tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-spdx_tools-bin)
+include(pypi-spdx_tools-license)
+include(pypi-spdx_tools-python)
+include(pypi-spdx_tools-python3)
+pypi-spdx_tools

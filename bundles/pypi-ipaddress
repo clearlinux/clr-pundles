@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ipaddress
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipaddress-license)
+include(pypi-ipaddress-python)
+include(pypi-ipaddress-python3)
+pypi-ipaddress

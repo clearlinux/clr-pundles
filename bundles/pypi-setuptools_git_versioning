@@ -1,0 +1,11 @@
+# [TITLE]: pypi-setuptools_git_versioning
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools_git_versioning-bin)
+include(pypi-setuptools_git_versioning-license)
+include(pypi-setuptools_git_versioning-python)
+include(pypi-setuptools_git_versioning-python3)
+pypi-setuptools_git_versioning

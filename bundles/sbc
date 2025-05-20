@@ -1,0 +1,10 @@
+# [TITLE]: sbc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sbc-bin)
+include(sbc-lib)
+include(sbc-license)
+sbc

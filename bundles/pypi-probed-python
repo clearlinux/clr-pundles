@@ -1,0 +1,8 @@
+# [TITLE]: pypi-probed-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-probed-python3)
+pypi-probed-python

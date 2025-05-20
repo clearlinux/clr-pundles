@@ -1,0 +1,10 @@
+# [TITLE]: pypi-yarg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yarg-license)
+include(pypi-yarg-python)
+include(pypi-yarg-python3)
+pypi-yarg

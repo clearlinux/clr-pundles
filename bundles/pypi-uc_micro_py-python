@@ -1,0 +1,8 @@
+# [TITLE]: pypi-uc_micro_py-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uc_micro_py-python3)
+pypi-uc_micro_py-python

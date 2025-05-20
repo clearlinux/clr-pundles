@@ -1,0 +1,8 @@
+# [TITLE]: pypi-branca-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-branca-python3)
+pypi-branca-python

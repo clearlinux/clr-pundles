@@ -1,0 +1,9 @@
+# [TITLE]: pypi-prompt_toolkit-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wcwidth-python3)
+include(python3-core)
+pypi-prompt_toolkit-python3

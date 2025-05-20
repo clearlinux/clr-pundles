@@ -1,0 +1,10 @@
+# [TITLE]: pypi-astor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-astor-license)
+include(pypi-astor-python)
+include(pypi-astor-python3)
+pypi-astor

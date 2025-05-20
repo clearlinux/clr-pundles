@@ -1,0 +1,8 @@
+# [TITLE]: protobuf-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(protobuf-dev)
+protobuf-staticdev

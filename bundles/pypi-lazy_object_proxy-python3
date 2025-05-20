@@ -1,0 +1,11 @@
+# [TITLE]: pypi-lazy_object_proxy-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pip-python3)
+include(pypi-tox-python3)
+include(pypi-virtualenv-python3)
+include(python3-core)
+pypi-lazy_object_proxy-python3

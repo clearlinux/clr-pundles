@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pycups-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycups-python3)
+pypi-pycups-python

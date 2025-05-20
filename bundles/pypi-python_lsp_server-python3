@@ -1,0 +1,13 @@
+# [TITLE]: pypi-python_lsp_server-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docstring_to_markdown-python3)
+include(pypi-jedi-python3)
+include(pypi-pluggy-python3)
+include(pypi-python_lsp_jsonrpc-python3)
+include(pypi-ujson-python3)
+include(python3-core)
+pypi-python_lsp_server-python3

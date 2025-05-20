@@ -1,0 +1,10 @@
+# [TITLE]: pypi-xmltodict
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xmltodict-license)
+include(pypi-xmltodict-python)
+include(pypi-xmltodict-python3)
+pypi-xmltodict

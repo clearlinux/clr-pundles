@@ -1,0 +1,11 @@
+# [TITLE]: pypi-flask
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flask-bin)
+include(pypi-flask-license)
+include(pypi-flask-python)
+include(pypi-flask-python3)
+pypi-flask

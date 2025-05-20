@@ -1,0 +1,11 @@
+# [TITLE]: libevdev-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libevdev)
+include(libevdev-bin)
+include(libevdev-lib)
+include(pkg-config-bin)
+libevdev-dev

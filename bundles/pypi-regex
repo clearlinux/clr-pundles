@@ -1,0 +1,10 @@
+# [TITLE]: pypi-regex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-regex-license)
+include(pypi-regex-python)
+include(pypi-regex-python3)
+pypi-regex

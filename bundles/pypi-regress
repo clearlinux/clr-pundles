@@ -1,0 +1,10 @@
+# [TITLE]: pypi-regress
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-regress-license)
+include(pypi-regress-python)
+include(pypi-regress-python3)
+pypi-regress

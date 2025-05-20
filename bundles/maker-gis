@@ -17,7 +17,7 @@ include(c-basic)
 
 # low level components
 include(gdal)
-geos
+include(geos)
 proj
 
 

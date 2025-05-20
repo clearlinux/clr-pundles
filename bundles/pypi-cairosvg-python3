@@ -1,0 +1,13 @@
+# [TITLE]: pypi-cairosvg-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(defusedxml-python3)
+include(pypi-cairocffi-python3)
+include(pypi-cssselect2-python3)
+include(pypi-pillow-python3)
+include(pypi-tinycss2-python3)
+include(python3-core)
+pypi-cairosvg-python3

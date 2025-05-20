@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pypresence-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pypresence-python3)
+pypi-pypresence-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyrsistent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyrsistent-license)
+include(pypi-pyrsistent-python)
+include(pypi-pyrsistent-python3)
+pypi-pyrsistent

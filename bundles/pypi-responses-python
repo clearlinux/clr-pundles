@@ -1,0 +1,8 @@
+# [TITLE]: pypi-responses-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-responses-python3)
+pypi-responses-python

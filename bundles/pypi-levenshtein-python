@@ -1,0 +1,8 @@
+# [TITLE]: pypi-levenshtein-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-levenshtein-python3)
+pypi-levenshtein-python

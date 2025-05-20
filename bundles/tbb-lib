@@ -1,0 +1,12 @@
+# [TITLE]: tbb-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hwloc-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(tbb-license)
+tbb-lib

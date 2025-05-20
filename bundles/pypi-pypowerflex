@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pypowerflex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pypowerflex-license)
+include(pypi-pypowerflex-python)
+include(pypi-pypowerflex-python3)
+pypi-pypowerflex

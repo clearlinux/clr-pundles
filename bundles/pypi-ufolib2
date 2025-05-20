@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ufolib2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ufolib2-license)
+include(pypi-ufolib2-python)
+include(pypi-ufolib2-python3)
+pypi-ufolib2

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-logical_unification
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-logical_unification-license)
+include(pypi-logical_unification-python)
+include(pypi-logical_unification-python3)
+pypi-logical_unification

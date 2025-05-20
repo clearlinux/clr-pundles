@@ -1,0 +1,12 @@
+# [TITLE]: graphene-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(graphene)
+include(graphene-data)
+include(graphene-dev)
+include(graphene-lib)
+graphene-dev

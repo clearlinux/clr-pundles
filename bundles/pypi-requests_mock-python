@@ -1,0 +1,8 @@
+# [TITLE]: pypi-requests_mock-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests_mock-python3)
+pypi-requests_mock-python

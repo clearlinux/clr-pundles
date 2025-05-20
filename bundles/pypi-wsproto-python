@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wsproto-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wsproto-python3)
+pypi-wsproto-python

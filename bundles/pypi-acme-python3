@@ -1,0 +1,14 @@
+# [TITLE]: pypi-acme-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cryptography-python3)
+include(pypi-josepy-python3)
+include(pypi-pyopenssl-python3)
+include(pypi-pyrfc3339-python3)
+include(pypi-pytz-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-acme-python3

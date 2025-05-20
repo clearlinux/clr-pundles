@@ -1,0 +1,8 @@
+# [TITLE]: sympy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sympy-python3)
+sympy-python

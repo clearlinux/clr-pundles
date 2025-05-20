@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pydot_ng-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydot_ng-python3)
+pypi-pydot_ng-python

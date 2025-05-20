@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pygdbmi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pygdbmi-python3)
+pypi-pygdbmi-python

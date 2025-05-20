@@ -1,0 +1,10 @@
+# [TITLE]: pypi-html5lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-html5lib-license)
+include(pypi-html5lib-python)
+include(pypi-html5lib-python3)
+pypi-html5lib

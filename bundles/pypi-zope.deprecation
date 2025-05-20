@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.deprecation
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.deprecation-license)
+include(pypi-zope.deprecation-python)
+include(pypi-zope.deprecation-python3)
+pypi-zope.deprecation

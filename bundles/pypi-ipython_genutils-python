@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ipython_genutils-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipython_genutils-python3)
+pypi-ipython_genutils-python

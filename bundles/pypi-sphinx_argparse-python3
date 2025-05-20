@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinx_argparse-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docutils-python3)
+include(pypi-sphinx-python3)
+include(python3-core)
+pypi-sphinx_argparse-python3

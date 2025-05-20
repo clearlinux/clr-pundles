@@ -1,0 +1,8 @@
+# [TITLE]: pypi-filecache-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-filecache-python3)
+pypi-filecache-python

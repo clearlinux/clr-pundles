@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyroma-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroma-license)
+include(python3-core)
+pypi-pyroma-bin

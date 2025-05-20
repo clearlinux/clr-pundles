@@ -1,0 +1,8 @@
+# [TITLE]: pypi-exceptiongroup-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-exceptiongroup-python3)
+pypi-exceptiongroup-python

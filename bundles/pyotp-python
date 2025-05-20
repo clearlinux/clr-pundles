@@ -1,0 +1,8 @@
+# [TITLE]: pyotp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pyotp-python3)
+pyotp-python

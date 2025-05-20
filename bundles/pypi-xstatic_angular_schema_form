@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xstatic_angular_schema_form
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic_angular_schema_form-python)
+include(pypi-xstatic_angular_schema_form-python3)
+pypi-xstatic_angular_schema_form

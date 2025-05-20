@@ -1,0 +1,10 @@
+# [TITLE]: pypi-yattag
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yattag-license)
+include(pypi-yattag-python)
+include(pypi-yattag-python3)
+pypi-yattag

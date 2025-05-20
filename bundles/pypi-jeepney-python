@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jeepney-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jeepney-python3)
+pypi-jeepney-python

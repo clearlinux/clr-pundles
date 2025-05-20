@@ -1,0 +1,9 @@
+# [TITLE]: pypi-cibuildwheel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cibuildwheel-license)
+include(python3-core)
+pypi-cibuildwheel-bin

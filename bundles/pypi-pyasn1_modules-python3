@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyasn1_modules-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyasn1-python3)
+include(python3-core)
+pypi-pyasn1_modules-python3

@@ -1,0 +1,16 @@
+# [TITLE]: pypi-xpra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(pypi-xpra-bin)
+include(pypi-xpra-config)
+include(pypi-xpra-data)
+include(pypi-xpra-libexec)
+include(pypi-xpra-license)
+include(pypi-xpra-man)
+include(pypi-xpra-python)
+include(pypi-xpra-python3)
+pypi-xpra

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pytest_timeout
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_timeout-license)
+include(pypi-pytest_timeout-python)
+include(pypi-pytest_timeout-python3)
+pypi-pytest_timeout

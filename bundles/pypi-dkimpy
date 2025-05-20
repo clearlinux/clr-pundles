@@ -1,0 +1,12 @@
+# [TITLE]: pypi-dkimpy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dkimpy-bin)
+include(pypi-dkimpy-license)
+include(pypi-dkimpy-man)
+include(pypi-dkimpy-python)
+include(pypi-dkimpy-python3)
+pypi-dkimpy

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-livereload-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-livereload-python3)
+pypi-livereload-python

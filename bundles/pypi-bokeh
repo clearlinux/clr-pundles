@@ -1,0 +1,11 @@
+# [TITLE]: pypi-bokeh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bokeh-bin)
+include(pypi-bokeh-license)
+include(pypi-bokeh-python)
+include(pypi-bokeh-python3)
+pypi-bokeh

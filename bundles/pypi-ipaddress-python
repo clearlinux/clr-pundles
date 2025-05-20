@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ipaddress-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipaddress-python3)
+pypi-ipaddress-python

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-websocket_client-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-websocket_client-license)
+include(python3-core)
+pypi-websocket_client-bin

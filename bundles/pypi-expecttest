@@ -1,0 +1,10 @@
+# [TITLE]: pypi-expecttest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-expecttest-license)
+include(pypi-expecttest-python)
+include(pypi-expecttest-python3)
+pypi-expecttest

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pydocstyle-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydocstyle-license)
+include(python3-core)
+pypi-pydocstyle-bin

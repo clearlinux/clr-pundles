@@ -1,0 +1,9 @@
+# [TITLE]: glfw-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glfw-license)
+include(libc6)
+glfw-lib

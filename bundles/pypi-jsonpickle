@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jsonpickle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonpickle-license)
+include(pypi-jsonpickle-python)
+include(pypi-jsonpickle-python3)
+pypi-jsonpickle

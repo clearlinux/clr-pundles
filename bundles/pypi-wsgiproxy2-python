@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wsgiproxy2-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wsgiproxy2-python3)
+pypi-wsgiproxy2-python

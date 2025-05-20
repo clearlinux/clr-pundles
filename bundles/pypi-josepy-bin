@@ -1,0 +1,9 @@
+# [TITLE]: pypi-josepy-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-josepy-license)
+include(python3-core)
+pypi-josepy-bin

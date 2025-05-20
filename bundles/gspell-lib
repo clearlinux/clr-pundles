@@ -1,0 +1,15 @@
+# [TITLE]: gspell-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(enchant-lib)
+include(glib-lib)
+include(gspell-data)
+include(gspell-license)
+include(gtk3-lib)
+include(icu4c-lib)
+include(libc6)
+include(pango-lib)
+gspell-lib

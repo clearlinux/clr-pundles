@@ -1,0 +1,8 @@
+# [TITLE]: pypi-smartypants-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-smartypants-python3)
+pypi-smartypants-python

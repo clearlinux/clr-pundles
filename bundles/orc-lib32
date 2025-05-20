@@ -1,0 +1,9 @@
+# [TITLE]: orc-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(orc-license)
+orc-lib32

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-spyrk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-spyrk-license)
+include(pypi-spyrk-python)
+include(pypi-spyrk-python3)
+pypi-spyrk

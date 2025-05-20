@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wrapt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wrapt-python3)
+pypi-wrapt-python

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-docutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docutils-bin)
+include(pypi-docutils-license)
+include(pypi-docutils-python)
+include(pypi-docutils-python3)
+pypi-docutils

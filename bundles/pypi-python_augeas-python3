@@ -1,0 +1,11 @@
+# [TITLE]: pypi-python_augeas-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(augeas)
+include(augeas-lib)
+include(libc6)
+include(python3-core)
+pypi-python_augeas-python3

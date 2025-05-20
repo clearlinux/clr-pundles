@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyomo-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyomo-python3)
+pypi-pyomo-python

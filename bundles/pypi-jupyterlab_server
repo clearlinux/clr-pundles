@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jupyterlab_server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyterlab_server-license)
+include(pypi-jupyterlab_server-python)
+include(pypi-jupyterlab_server-python3)
+pypi-jupyterlab_server

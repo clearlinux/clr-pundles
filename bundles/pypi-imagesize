@@ -1,0 +1,10 @@
+# [TITLE]: pypi-imagesize
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-imagesize-license)
+include(pypi-imagesize-python)
+include(pypi-imagesize-python3)
+pypi-imagesize

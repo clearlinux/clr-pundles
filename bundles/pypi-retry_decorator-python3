@@ -1,0 +1,8 @@
+# [TITLE]: pypi-retry_decorator-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-retry_decorator-python3

@@ -1,0 +1,9 @@
+# [TITLE]: libevent-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libevent-license)
+libevent-bin

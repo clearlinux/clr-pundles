@@ -1,0 +1,15 @@
+# [TITLE]: gstreamer-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-dev)
+include(glib-dev)
+include(gstreamer)
+include(gstreamer-bin)
+include(gstreamer-data)
+include(gstreamer-dev)
+include(gstreamer-lib)
+include(pkg-config-bin)
+gstreamer-dev

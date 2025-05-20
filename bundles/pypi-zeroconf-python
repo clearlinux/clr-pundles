@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zeroconf-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zeroconf-python3)
+pypi-zeroconf-python

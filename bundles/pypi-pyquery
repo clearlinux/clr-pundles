@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyquery
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyquery-license)
+include(pypi-pyquery-python)
+include(pypi-pyquery-python3)
+pypi-pyquery

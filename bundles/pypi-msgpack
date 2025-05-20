@@ -1,0 +1,10 @@
+# [TITLE]: pypi-msgpack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-msgpack-license)
+include(pypi-msgpack-python)
+include(pypi-msgpack-python3)
+pypi-msgpack

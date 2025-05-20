@@ -1,0 +1,10 @@
+# [TITLE]: pypi-fissix-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(pypi-appdirs-python3)
+include(python3-core)
+pypi-fissix-python3

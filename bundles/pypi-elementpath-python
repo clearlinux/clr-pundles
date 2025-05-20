@@ -1,0 +1,8 @@
+# [TITLE]: pypi-elementpath-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-elementpath-python3)
+pypi-elementpath-python

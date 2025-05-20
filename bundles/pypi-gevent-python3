@@ -1,0 +1,12 @@
+# [TITLE]: pypi-gevent-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-greenlet-python3)
+include(pypi-zope.event-python3)
+include(pypi-zope.interface-python3)
+include(python3-core)
+pypi-gevent-python3

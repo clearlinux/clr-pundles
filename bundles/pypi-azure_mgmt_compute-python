@@ -1,0 +1,8 @@
+# [TITLE]: pypi-azure_mgmt_compute-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-azure_mgmt_compute-python3)
+pypi-azure_mgmt_compute-python

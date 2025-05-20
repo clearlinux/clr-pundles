@@ -1,0 +1,16 @@
+# [TITLE]: pypi-wbdata-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-appdirs-python3)
+include(pypi-backoff-python3)
+include(pypi-cachetools-python3)
+include(pypi-dateparser-python3)
+include(pypi-decorator-python3)
+include(pypi-requests-python3)
+include(pypi-shelved_cache-python3)
+include(pypi-tabulate-python3)
+include(python3-core)
+pypi-wbdata-python3

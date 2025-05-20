@@ -1,0 +1,11 @@
+# [TITLE]: pypi-mkdocs_autorefs-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+include(pypi-markdown-python3)
+include(pypi-mkdocs-python3)
+include(python3-core)
+pypi-mkdocs_autorefs-python3

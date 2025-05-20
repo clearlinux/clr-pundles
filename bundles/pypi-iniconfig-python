@@ -1,0 +1,8 @@
+# [TITLE]: pypi-iniconfig-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-iniconfig-python3)
+pypi-iniconfig-python

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-cachetools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cachetools-python)
+include(pypi-cachetools-python3)
+pypi-cachetools

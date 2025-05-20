@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyxattr-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyxattr-python3)
+pypi-pyxattr-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-partd-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-partd-python3)
+pypi-partd-python

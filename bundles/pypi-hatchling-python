@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hatchling-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hatchling-python3)
+pypi-hatchling-python

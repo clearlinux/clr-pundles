@@ -1,0 +1,8 @@
+# [TITLE]: pypi-django_compressor-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-django_compressor-python3)
+pypi-django_compressor-python

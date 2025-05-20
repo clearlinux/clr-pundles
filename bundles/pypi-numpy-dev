@@ -1,0 +1,9 @@
+# [TITLE]: pypi-numpy-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-numpy)
+include(pypi-numpy-bin)
+pypi-numpy-dev

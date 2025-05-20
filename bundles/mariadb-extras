@@ -1,0 +1,16 @@
+# [TITLE]: mariadb-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(liburing-lib)
+include(libxcrypt-lib)
+include(ncurses-lib)
+include(numactl-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(zlib-lib)
+mariadb-extras

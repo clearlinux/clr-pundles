@@ -1,0 +1,13 @@
+# [TITLE]: pypi-jupyter_packaging-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deprecation-python3)
+include(pypi-packaging-python3)
+include(pypi-setuptools-python3)
+include(pypi-tomlkit-python3)
+include(pypi-wheel-python3)
+include(python3-core)
+pypi-jupyter_packaging-python3

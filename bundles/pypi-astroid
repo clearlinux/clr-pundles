@@ -1,0 +1,10 @@
+# [TITLE]: pypi-astroid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-astroid-license)
+include(pypi-astroid-python)
+include(pypi-astroid-python3)
+pypi-astroid

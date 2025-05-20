@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinx_notfound_page-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_notfound_page-python3)
+pypi-sphinx_notfound_page-python

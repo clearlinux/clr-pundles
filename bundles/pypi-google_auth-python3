@@ -1,0 +1,11 @@
+# [TITLE]: pypi-google_auth-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cachetools-python3)
+include(pypi-pyasn1_modules-python3)
+include(pypi-rsa-python3)
+include(python3-core)
+pypi-google_auth-python3

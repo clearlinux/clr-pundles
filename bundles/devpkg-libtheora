@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libtheora-dev
+include(libtheora-dev)

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-jupyterlab_widgets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_packaging-python3)
+include(pypi-jupyterlab_widgets-data)
+include(pypi-jupyterlab_widgets-license)
+include(pypi-jupyterlab_widgets-python)
+include(pypi-jupyterlab_widgets-python3)
+pypi-jupyterlab_widgets

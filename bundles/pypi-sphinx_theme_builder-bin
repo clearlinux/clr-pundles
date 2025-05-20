@@ -1,0 +1,9 @@
+# [TITLE]: pypi-sphinx_theme_builder-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_theme_builder-license)
+include(python3-core)
+pypi-sphinx_theme_builder-bin

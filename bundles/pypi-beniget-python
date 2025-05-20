@@ -1,0 +1,8 @@
+# [TITLE]: pypi-beniget-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beniget-python3)
+pypi-beniget-python

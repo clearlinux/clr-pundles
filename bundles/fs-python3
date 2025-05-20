@@ -1,0 +1,11 @@
+# [TITLE]: fs-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-appdirs-python3)
+include(pypi-setuptools-python3)
+include(pypi-six-python3)
+include(python3-core)
+fs-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jupyter_server_ydoc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_server_ydoc-license)
+include(pypi-jupyter_server_ydoc-python)
+include(pypi-jupyter_server_ydoc-python3)
+pypi-jupyter_server_ydoc

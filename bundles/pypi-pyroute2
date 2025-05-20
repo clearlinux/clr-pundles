@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyroute2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroute2-bin)
+include(pypi-pyroute2-license)
+include(pypi-pyroute2-python)
+include(pypi-pyroute2-python3)
+pypi-pyroute2

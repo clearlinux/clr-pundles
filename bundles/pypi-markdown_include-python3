@@ -1,0 +1,9 @@
+# [TITLE]: pypi-markdown_include-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-markdown-python3)
+include(python3-core)
+pypi-markdown_include-python3

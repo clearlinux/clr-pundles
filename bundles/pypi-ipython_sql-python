@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ipython_sql-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipython_sql-python3)
+pypi-ipython_sql-python

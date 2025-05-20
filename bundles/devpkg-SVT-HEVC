@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-SVT-HEVC-dev
+include(SVT-HEVC-dev)
 include(SVT-HEVC)

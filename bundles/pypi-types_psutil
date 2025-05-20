@@ -1,0 +1,10 @@
+# [TITLE]: pypi-types_psutil
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_psutil-license)
+include(pypi-types_psutil-python)
+include(pypi-types_psutil-python3)
+pypi-types_psutil

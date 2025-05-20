@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pipdeptree-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pipdeptree-python3)
+pypi-pipdeptree-python

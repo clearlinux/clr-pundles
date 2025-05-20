@@ -1,0 +1,10 @@
+# [TITLE]: pcsc-lite-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pcsc-lite-data)
+include(pcsc-lite-license)
+pcsc-lite-lib

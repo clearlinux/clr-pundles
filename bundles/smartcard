@@ -10,11 +10,11 @@ include(lib-openssl)
 include(perl-basic)
 
 OpenSC
-ccid
+include(ccid)
 openct
 openpace
 pam_u2f
-pcsc-lite
+include(pcsc-lite)
 pcsc-tools
 perl-Chipcard-PCSC
-pypi-yubikey_manager
+include(pypi-yubikey_manager)

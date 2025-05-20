@@ -17,10 +17,10 @@ F-Engrave
 
 include(gtk3)
 potrace
-pycairo
+include(pycairo)
 include(pygobject)
-pypi-pyopengl
+include(pypi-pyopengl)
 PyYAML
-pypi-svg.path
-tcl
+include(pypi-svg.path)
+include(tcl)
 tk

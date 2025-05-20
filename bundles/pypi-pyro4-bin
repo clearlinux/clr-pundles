@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyro4-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyro4-license)
+include(python3-core)
+pypi-pyro4-bin

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-meson_python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ninja)
+include(pypi-meson_python-license)
+include(pypi-meson_python-python)
+include(pypi-meson_python-python3)
+pypi-meson_python

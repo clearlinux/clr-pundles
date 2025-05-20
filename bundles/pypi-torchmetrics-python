@@ -1,0 +1,8 @@
+# [TITLE]: pypi-torchmetrics-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-torchmetrics-python3)
+pypi-torchmetrics-python

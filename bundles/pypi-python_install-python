@@ -1,0 +1,8 @@
+# [TITLE]: pypi-python_install-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_install-python3)
+pypi-python_install-python

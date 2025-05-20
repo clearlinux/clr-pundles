@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sniffio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sniffio-license)
+include(pypi-sniffio-python)
+include(pypi-sniffio-python3)
+pypi-sniffio

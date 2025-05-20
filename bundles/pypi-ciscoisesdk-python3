@@ -1,0 +1,12 @@
+# [TITLE]: pypi-ciscoisesdk-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fastjsonschema-python3)
+include(pypi-requests-python3)
+include(pypi-requests_toolbelt-python3)
+include(pypi-xmltodict-python3)
+include(python3-core)
+pypi-ciscoisesdk-python3

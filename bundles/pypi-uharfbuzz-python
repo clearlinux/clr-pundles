@@ -1,0 +1,8 @@
+# [TITLE]: pypi-uharfbuzz-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uharfbuzz-python3)
+pypi-uharfbuzz-python

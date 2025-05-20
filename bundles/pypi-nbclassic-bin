@@ -1,0 +1,10 @@
+# [TITLE]: pypi-nbclassic-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nbclassic-data)
+include(pypi-nbclassic-license)
+include(python3-core)
+pypi-nbclassic-bin

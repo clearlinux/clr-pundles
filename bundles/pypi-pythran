@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pythran
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pythran-bin)
+include(pypi-pythran-license)
+include(pypi-pythran-python)
+include(pypi-pythran-python3)
+pypi-pythran

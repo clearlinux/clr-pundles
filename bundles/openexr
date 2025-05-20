@@ -1,0 +1,10 @@
+# [TITLE]: openexr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openexr-bin)
+include(openexr-lib)
+include(openexr-license)
+openexr

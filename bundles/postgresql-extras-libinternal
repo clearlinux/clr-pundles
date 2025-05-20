@@ -1,0 +1,13 @@
+# [TITLE]: postgresql-extras-libinternal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(postgresql-lib)
+include(python3-lib)
+include(util-linux-lib)
+include(zlib-lib)
+postgresql-extras-libinternal

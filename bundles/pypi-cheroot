@@ -1,0 +1,11 @@
+# [TITLE]: pypi-cheroot
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cheroot-bin)
+include(pypi-cheroot-license)
+include(pypi-cheroot-python)
+include(pypi-cheroot-python3)
+pypi-cheroot

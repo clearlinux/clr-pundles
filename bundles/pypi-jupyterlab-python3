@@ -1,0 +1,22 @@
+# [TITLE]: pypi-jupyterlab-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(pypi-async_lru-python3)
+include(pypi-httpx-python3)
+include(pypi-ipykernel-python3)
+include(pypi-jinja2-python3)
+include(pypi-jupyter_core-python3)
+include(pypi-jupyter_lsp-python3)
+include(pypi-jupyter_server-python3)
+include(pypi-jupyterlab_server-python3)
+include(pypi-notebook_shim-python3)
+include(pypi-packaging-python3)
+include(pypi-setuptools-python3)
+include(pypi-tornado-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-jupyterlab-python3

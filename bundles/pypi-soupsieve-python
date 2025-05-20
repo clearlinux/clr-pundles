@@ -1,0 +1,8 @@
+# [TITLE]: pypi-soupsieve-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-soupsieve-python3)
+pypi-soupsieve-python

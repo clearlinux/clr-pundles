@@ -1,0 +1,18 @@
+# [TITLE]: libsoup-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-lib)
+include(curl)
+include(glib-lib)
+include(gnutls-lib)
+include(libc6)
+include(libpsl-lib)
+include(libsoup)
+include(libsoup-lib)
+include(nghttp2-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+libsoup-tests

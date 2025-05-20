@@ -1,0 +1,8 @@
+# [TITLE]: pypi-altgraph-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-altgraph-python3)
+pypi-altgraph-python

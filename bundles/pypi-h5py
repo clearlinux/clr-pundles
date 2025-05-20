@@ -1,0 +1,10 @@
+# [TITLE]: pypi-h5py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-h5py-license)
+include(pypi-h5py-python)
+include(pypi-h5py-python3)
+pypi-h5py

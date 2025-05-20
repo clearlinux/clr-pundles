@@ -1,0 +1,13 @@
+# [TITLE]: alsa-lib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib)
+include(alsa-lib-bin)
+include(alsa-lib-data)
+include(alsa-lib-dev)
+include(alsa-lib-lib)
+include(pkg-config-bin)
+alsa-lib-dev

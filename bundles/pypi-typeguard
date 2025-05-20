@@ -1,0 +1,10 @@
+# [TITLE]: pypi-typeguard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-typeguard-license)
+include(pypi-typeguard-python)
+include(pypi-typeguard-python3)
+pypi-typeguard

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-bcrypt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bcrypt-python3)
+pypi-bcrypt-python

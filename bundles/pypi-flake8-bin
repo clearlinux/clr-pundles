@@ -1,0 +1,9 @@
+# [TITLE]: pypi-flake8-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flake8-license)
+include(python3-core)
+pypi-flake8-bin

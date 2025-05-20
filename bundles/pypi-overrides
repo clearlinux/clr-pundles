@@ -1,0 +1,10 @@
+# [TITLE]: pypi-overrides
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-overrides-license)
+include(pypi-overrides-python)
+include(pypi-overrides-python3)
+pypi-overrides

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-psycopg2-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(postgresql-lib)
+include(python3-core)
+pypi-psycopg2-python3

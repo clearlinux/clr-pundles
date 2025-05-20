@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyrate_limiter-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyrate_limiter-python3)
+pypi-pyrate_limiter-python

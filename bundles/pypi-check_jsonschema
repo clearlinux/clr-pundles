@@ -1,0 +1,11 @@
+# [TITLE]: pypi-check_jsonschema
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-check_jsonschema-bin)
+include(pypi-check_jsonschema-license)
+include(pypi-check_jsonschema-python)
+include(pypi-check_jsonschema-python3)
+pypi-check_jsonschema

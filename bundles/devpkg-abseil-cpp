@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-abseil-cpp-dev
+include(abseil-cpp-dev)
 include(libstdcpp)

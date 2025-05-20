@@ -1,0 +1,8 @@
+# [TITLE]: pypi-asynctest-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-asynctest-python3)
+pypi-asynctest-python

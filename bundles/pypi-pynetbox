@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pynetbox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pynetbox-license)
+include(pypi-pynetbox-python)
+include(pypi-pynetbox-python3)
+pypi-pynetbox

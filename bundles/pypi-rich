@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rich
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rich-license)
+include(pypi-rich-python)
+include(pypi-rich-python3)
+pypi-rich

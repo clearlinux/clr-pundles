@@ -41,7 +41,7 @@ include(devpkg-curl)
 datefudge
 include(devpkg-dbus)
 include(devpkg-dbus)
-dbus-python
+include(dbus-python)
 dejagnu
 include(diffutils)
 include(docbook-utils)
@@ -149,7 +149,7 @@ include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 include(libxslt)
-libxslt-bin
+include(libxslt-bin)
 include(linux-libc-headers)
 include(llvm)
 include(devpkg-lz4)
@@ -330,14 +330,14 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 include(pypi-cython)
-pypi-jinja2-python3
-pypi-lxml
-pypi-pefile-python3
-pypi-pyelftools
+include(pypi-jinja2-python3)
+include(pypi-lxml)
+include(pypi-pefile-python3)
+include(pypi-pyelftools)
 include(python3)
 include(python3-core)
 include(python3-dev)
-pyudev
+include(pyudev)
 include(devpkg-readline)
 include(devpkg-readline)
 ruby
@@ -351,7 +351,7 @@ include(devpkg-systemd)
 include(devpkg-systemd)
 include(systemd-lib)
 tar
-tcl
+include(tcl)
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tpm2-tss)

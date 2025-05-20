@@ -1,0 +1,10 @@
+# [TITLE]: pypi-django_babel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-django_babel-license)
+include(pypi-django_babel-python)
+include(pypi-django_babel-python3)
+pypi-django_babel

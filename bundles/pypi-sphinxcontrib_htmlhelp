@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_htmlhelp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_htmlhelp-license)
+include(pypi-sphinxcontrib_htmlhelp-python)
+include(pypi-sphinxcontrib_htmlhelp-python3)
+pypi-sphinxcontrib_htmlhelp

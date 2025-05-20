@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mergedeep
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mergedeep-license)
+include(pypi-mergedeep-python)
+include(pypi-mergedeep-python3)
+pypi-mergedeep

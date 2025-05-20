@@ -1,0 +1,8 @@
+# [TITLE]: pypi-click_help_colors-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-click_help_colors-python3)
+pypi-click_help_colors-python

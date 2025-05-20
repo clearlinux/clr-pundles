@@ -1,0 +1,14 @@
+# [TITLE]: hdf5-openmpi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gcc-libgfortran)
+include(hdf5-lib)
+include(libc6)
+include(libgcc1)
+include(openmpi-lib)
+include(zlib-lib)
+hdf5-openmpi

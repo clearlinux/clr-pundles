@@ -1,0 +1,10 @@
+# [TITLE]: pypi-types_setuptools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_setuptools-license)
+include(pypi-types_setuptools-python)
+include(pypi-types_setuptools-python3)
+pypi-types_setuptools

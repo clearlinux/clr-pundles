@@ -1,0 +1,10 @@
+# [TITLE]: pypi-referencing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-referencing-license)
+include(pypi-referencing-python)
+include(pypi-referencing-python3)
+pypi-referencing

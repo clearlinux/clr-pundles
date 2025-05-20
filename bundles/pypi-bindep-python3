@@ -1,0 +1,12 @@
+# [TITLE]: pypi-bindep-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-distro-python3)
+include(pypi-packaging-python3)
+include(pypi-parsley-python3)
+include(pypi-pbr-python3)
+include(python3-core)
+pypi-bindep-python3

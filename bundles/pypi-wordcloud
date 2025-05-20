@@ -1,0 +1,11 @@
+# [TITLE]: pypi-wordcloud
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wordcloud-bin)
+include(pypi-wordcloud-license)
+include(pypi-wordcloud-python)
+include(pypi-wordcloud-python3)
+pypi-wordcloud

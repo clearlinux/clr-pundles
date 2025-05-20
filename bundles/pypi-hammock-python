@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hammock-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hammock-python3)
+pypi-hammock-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-comm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-comm-license)
+include(pypi-comm-python)
+include(pypi-comm-python3)
+pypi-comm

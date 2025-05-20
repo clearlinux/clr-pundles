@@ -1,0 +1,31 @@
+# [TITLE]: pypi-pdm-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-blinker-python3)
+include(pypi-certifi-python3)
+include(pypi-dep_logic-python3)
+include(pypi-filelock-python3)
+include(pypi-findpython-python3)
+include(pypi-hishel-python3)
+include(pypi-httpcore-python3)
+include(pypi-httpx-python3)
+include(pypi-id-python3)
+include(pypi-installer-python3)
+include(pypi-msgpack-python3)
+include(pypi-packaging-python3)
+include(pypi-pbs_installer-python3)
+include(pypi-platformdirs-python3)
+include(pypi-pyproject_hooks-python3)
+include(pypi-python_dotenv-python3)
+include(pypi-resolvelib-python3)
+include(pypi-rich-python3)
+include(pypi-shellingham-python3)
+include(pypi-tomlkit-python3)
+include(pypi-truststore-python3)
+include(pypi-unearth-python3)
+include(pypi-virtualenv-python3)
+include(python3-core)
+pypi-pdm-python3

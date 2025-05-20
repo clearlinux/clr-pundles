@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_htmlhelp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_htmlhelp-python3)
+pypi-sphinxcontrib_htmlhelp-python

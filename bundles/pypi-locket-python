@@ -1,0 +1,8 @@
+# [TITLE]: pypi-locket-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-locket-python3)
+pypi-locket-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-hyperlink
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hyperlink-license)
+include(pypi-hyperlink-python)
+include(pypi-hyperlink-python3)
+pypi-hyperlink

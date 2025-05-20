@@ -1,0 +1,13 @@
+# [TITLE]: libnice-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnutls-lib)
+include(gstreamer-lib)
+include(libc6)
+include(libnice-data)
+include(libnice-license)
+libnice-lib

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyopenssl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyopenssl-license)
+include(pypi-pyopenssl-python)
+include(pypi-pyopenssl-python3)
+pypi-pyopenssl

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-nbclient-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_client-python3)
+include(pypi-jupyter_core-python3)
+include(pypi-nbformat-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-nbclient-python3

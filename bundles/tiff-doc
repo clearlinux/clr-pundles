@@ -1,0 +1,8 @@
+# [TITLE]: tiff-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tiff-man)
+tiff-doc

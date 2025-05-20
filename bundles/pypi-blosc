@@ -1,0 +1,10 @@
+# [TITLE]: pypi-blosc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-blosc-license)
+include(pypi-blosc-python)
+include(pypi-blosc-python3)
+pypi-blosc

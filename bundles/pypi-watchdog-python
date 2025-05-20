@@ -1,0 +1,8 @@
+# [TITLE]: pypi-watchdog-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-watchdog-python3)
+pypi-watchdog-python

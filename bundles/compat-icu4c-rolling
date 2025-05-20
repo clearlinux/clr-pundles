@@ -1,0 +1,9 @@
+# [TITLE]: compat-icu4c-rolling
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(compat-icu4c-rolling-license)
+compat-icu4c-rolling

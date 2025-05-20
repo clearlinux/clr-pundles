@@ -1,0 +1,11 @@
+# [TITLE]: pypi-nibabel-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-numpy-python3)
+include(pypi-packaging-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-nibabel-python3

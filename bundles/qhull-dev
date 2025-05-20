@@ -1,0 +1,12 @@
+# [TITLE]: qhull-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qhull)
+include(qhull-bin)
+include(qhull-lib)
+include(qhull-staticdev)
+qhull-dev

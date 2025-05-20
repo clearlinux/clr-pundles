@@ -1,0 +1,8 @@
+# [TITLE]: pypi-certbot_dns_google-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-certbot_dns_google-python3)
+pypi-certbot_dns_google-python

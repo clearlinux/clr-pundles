@@ -1,0 +1,12 @@
+# [TITLE]: libassuan-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libassuan)
+include(libassuan-bin)
+include(libassuan-lib)
+include(libgpg-error-dev)
+include(pkg-config-bin)
+libassuan-dev

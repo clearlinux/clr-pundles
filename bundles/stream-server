@@ -8,7 +8,7 @@ include(libstdcpp)
 include(gstreamer)
 
 include(gstreamer)
-gst-plugins-base
+include(gst-plugins-base)
 gst-plugins-good
-gst-plugins-bad
-libtheora
+include(gst-plugins-bad)
+include(libtheora)

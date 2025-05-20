@@ -1,0 +1,8 @@
+# [TITLE]: pypi-certifi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-certifi-python3)
+pypi-certifi-python

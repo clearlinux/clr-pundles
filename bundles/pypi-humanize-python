@@ -1,0 +1,8 @@
+# [TITLE]: pypi-humanize-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-humanize-python3)
+pypi-humanize-python

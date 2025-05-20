@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jsonschema_specifications
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonschema_specifications-license)
+include(pypi-jsonschema_specifications-python)
+include(pypi-jsonschema_specifications-python3)
+pypi-jsonschema_specifications

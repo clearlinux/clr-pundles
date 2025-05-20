@@ -1,0 +1,9 @@
+# [TITLE]: pypi-restructuredtext_lint-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-restructuredtext_lint-license)
+include(python3-core)
+pypi-restructuredtext_lint-bin

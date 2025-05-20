@@ -1,0 +1,11 @@
+# [TITLE]: pypi-glyphslib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-glyphslib-bin)
+include(pypi-glyphslib-license)
+include(pypi-glyphslib-python)
+include(pypi-glyphslib-python3)
+pypi-glyphslib

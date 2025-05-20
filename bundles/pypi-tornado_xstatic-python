@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tornado_xstatic-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tornado_xstatic-python3)
+pypi-tornado_xstatic-python

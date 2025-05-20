@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hpack-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hpack-python3)
+pypi-hpack-python

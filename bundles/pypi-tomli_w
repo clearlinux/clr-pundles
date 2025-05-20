@@ -1,0 +1,10 @@
+# [TITLE]: pypi-tomli_w
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tomli_w-license)
+include(pypi-tomli_w-python)
+include(pypi-tomli_w-python3)
+pypi-tomli_w

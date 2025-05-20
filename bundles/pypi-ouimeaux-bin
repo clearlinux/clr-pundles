@@ -1,0 +1,9 @@
+# [TITLE]: pypi-ouimeaux-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ouimeaux-license)
+include(python3-core)
+pypi-ouimeaux-bin

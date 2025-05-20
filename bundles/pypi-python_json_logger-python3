@@ -1,0 +1,8 @@
+# [TITLE]: pypi-python_json_logger-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-python_json_logger-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-posix_ipc-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-posix_ipc-python3)
+pypi-posix_ipc-python

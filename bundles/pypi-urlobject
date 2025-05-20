@@ -1,0 +1,10 @@
+# [TITLE]: pypi-urlobject
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-urlobject-license)
+include(pypi-urlobject-python)
+include(pypi-urlobject-python3)
+pypi-urlobject

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pluggy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pluggy-python3)
+pypi-pluggy-python

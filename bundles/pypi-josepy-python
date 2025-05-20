@@ -1,0 +1,8 @@
+# [TITLE]: pypi-josepy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-josepy-python3)
+pypi-josepy-python

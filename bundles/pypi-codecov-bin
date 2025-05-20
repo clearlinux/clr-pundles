@@ -1,0 +1,9 @@
+# [TITLE]: pypi-codecov-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-codecov-license)
+include(python3-core)
+pypi-codecov-bin

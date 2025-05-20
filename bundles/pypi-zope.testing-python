@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zope.testing-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.testing-python3)
+pypi-zope.testing-python

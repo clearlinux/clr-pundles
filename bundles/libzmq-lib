@@ -1,0 +1,12 @@
+# [TITLE]: libzmq-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libunwind-lib)
+include(libzmq-license)
+libzmq-lib

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-threadpoolctl-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-threadpoolctl-python3)
+pypi-threadpoolctl-python

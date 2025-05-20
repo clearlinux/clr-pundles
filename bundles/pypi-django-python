@@ -1,0 +1,8 @@
+# [TITLE]: pypi-django-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-django-python3)
+pypi-django-python

@@ -15,7 +15,7 @@ include(numactl)
 include(libxml2)
 include(lz4)
 include(ncurses-lib)
-mariadb-doc
+include(mariadb-doc)
 jemalloc-lib
 include(perl-basic)
 # end of custom additions

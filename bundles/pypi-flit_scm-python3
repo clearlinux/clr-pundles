@@ -1,0 +1,10 @@
+# [TITLE]: pypi-flit_scm-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flit_core-python3)
+include(pypi-setuptools_scm-python3)
+include(python3-core)
+pypi-flit_scm-python3

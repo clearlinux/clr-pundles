@@ -1,0 +1,9 @@
+# [TITLE]: pypi-jsonlines-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrs-python3)
+include(python3-core)
+pypi-jsonlines-python3

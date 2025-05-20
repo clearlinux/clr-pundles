@@ -1,0 +1,8 @@
+# [TITLE]: cloudpickle-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cloudpickle-python3)
+cloudpickle-python

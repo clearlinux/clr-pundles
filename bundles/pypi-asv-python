@@ -1,0 +1,8 @@
+# [TITLE]: pypi-asv-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-asv-python3)
+pypi-asv-python

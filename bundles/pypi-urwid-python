@@ -1,0 +1,8 @@
+# [TITLE]: pypi-urwid-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-urwid-python3)
+pypi-urwid-python

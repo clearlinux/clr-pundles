@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ijson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ijson-license)
+include(pypi-ijson-python)
+include(pypi-ijson-python3)
+pypi-ijson

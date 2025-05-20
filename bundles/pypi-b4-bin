@@ -1,0 +1,9 @@
+# [TITLE]: pypi-b4-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-b4-license)
+include(python3-core)
+pypi-b4-bin

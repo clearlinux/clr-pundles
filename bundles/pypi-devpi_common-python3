@@ -1,0 +1,11 @@
+# [TITLE]: pypi-devpi_common-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lazy-python3)
+include(pypi-packaging_legacy-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-devpi_common-python3

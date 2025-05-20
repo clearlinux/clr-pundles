@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pastedeploy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pastedeploy-license)
+include(pypi-pastedeploy-python)
+include(pypi-pastedeploy-python3)
+pypi-pastedeploy

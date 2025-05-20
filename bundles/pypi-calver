@@ -1,0 +1,10 @@
+# [TITLE]: pypi-calver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-calver-license)
+include(pypi-calver-python)
+include(pypi-calver-python3)
+pypi-calver

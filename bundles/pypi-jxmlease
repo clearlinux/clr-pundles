@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jxmlease
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jxmlease-license)
+include(pypi-jxmlease-python)
+include(pypi-jxmlease-python3)
+pypi-jxmlease

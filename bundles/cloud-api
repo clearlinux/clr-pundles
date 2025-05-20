@@ -10,7 +10,7 @@ include(libstdcpp)
 awscli
 amazon-efs-utils
 boto3
-botocore
+include(botocore)
 # testing use only:
 # hypothesis
 include(libevent-lib)

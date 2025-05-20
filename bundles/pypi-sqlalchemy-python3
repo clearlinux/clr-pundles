@@ -1,0 +1,11 @@
+# [TITLE]: pypi-sqlalchemy-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-greenlet-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-sqlalchemy-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-codecov-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-coverage-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-codecov-python3

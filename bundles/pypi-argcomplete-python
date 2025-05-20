@@ -1,0 +1,8 @@
+# [TITLE]: pypi-argcomplete-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-argcomplete-python3)
+pypi-argcomplete-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-poyo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-poyo-license)
+include(pypi-poyo-python)
+include(pypi-poyo-python3)
+pypi-poyo

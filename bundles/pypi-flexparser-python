@@ -1,0 +1,8 @@
+# [TITLE]: pypi-flexparser-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flexparser-python3)
+pypi-flexparser-python

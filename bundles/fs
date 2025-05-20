@@ -1,0 +1,11 @@
+# [TITLE]: fs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fs-license)
+include(fs-python)
+include(fs-python3)
+include(pypi-appdirs-python3)
+fs

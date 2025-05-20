@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyroma-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroma-python3)
+pypi-pyroma-python

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-cairosvg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cairosvg-bin)
+include(pypi-cairosvg-license)
+include(pypi-cairosvg-python)
+include(pypi-cairosvg-python3)
+pypi-cairosvg

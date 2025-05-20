@@ -1,0 +1,10 @@
+# [TITLE]: pypi-voluptuous
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-voluptuous-license)
+include(pypi-voluptuous-python)
+include(pypi-voluptuous-python3)
+pypi-voluptuous

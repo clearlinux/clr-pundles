@@ -1,0 +1,8 @@
+# [TITLE]: pypi-qtconsole-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-qtconsole-python3)
+pypi-qtconsole-python

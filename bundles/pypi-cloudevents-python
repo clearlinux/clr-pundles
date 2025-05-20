@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cloudevents-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cloudevents-python3)
+pypi-cloudevents-python

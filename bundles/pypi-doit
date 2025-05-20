@@ -1,0 +1,11 @@
+# [TITLE]: pypi-doit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-doit-bin)
+include(pypi-doit-license)
+include(pypi-doit-python)
+include(pypi-doit-python3)
+pypi-doit

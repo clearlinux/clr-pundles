@@ -1,0 +1,10 @@
+# [TITLE]: pypi-semantic_version
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-semantic_version-license)
+include(pypi-semantic_version-python)
+include(pypi-semantic_version-python3)
+pypi-semantic_version

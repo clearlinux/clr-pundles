@@ -1,0 +1,9 @@
+# [TITLE]: pypi-markdown_it_py-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-markdown_it_py-license)
+include(python3-core)
+pypi-markdown_it_py-bin

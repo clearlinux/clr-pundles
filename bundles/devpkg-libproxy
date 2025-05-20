@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libproxy-dev
+include(libproxy-dev)
 include(curl)
 include(libglib)

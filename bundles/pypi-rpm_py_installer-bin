@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rpm_py_installer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rpm_py_installer-license)
+pypi-rpm_py_installer-bin

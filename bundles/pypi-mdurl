@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mdurl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mdurl-license)
+include(pypi-mdurl-python)
+include(pypi-mdurl-python3)
+pypi-mdurl

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-iso8601-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-iso8601-python3)
+pypi-iso8601-python

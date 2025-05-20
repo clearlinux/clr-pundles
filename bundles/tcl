@@ -1,0 +1,11 @@
+# [TITLE]: tcl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tcl-bin)
+include(tcl-lib)
+include(tcl-license)
+include(tcl-man)
+tcl

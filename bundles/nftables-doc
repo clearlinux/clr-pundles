@@ -1,0 +1,8 @@
+# [TITLE]: nftables-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nftables-man)
+nftables-doc

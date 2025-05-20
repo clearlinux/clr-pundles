@@ -1,0 +1,14 @@
+# [TITLE]: libnice-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnutls-dev)
+include(libnice)
+include(libnice-bin)
+include(libnice-data)
+include(libnice-lib)
+include(pkg-config-bin)
+libnice-dev

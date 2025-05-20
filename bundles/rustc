@@ -1,0 +1,21 @@
+# [TITLE]: rustc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binutils)
+include(coreutils-bin)
+include(gcc)
+include(gcc-dev)
+include(libc6)
+include(libc6-dev)
+include(libstdc++)
+include(llvm-lib)
+include(rustc-bin)
+include(rustc-data)
+include(rustc-extras-lib)
+include(rustc-lib)
+include(rustc-license)
+include(rustc-man)
+rustc

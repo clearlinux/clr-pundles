@@ -1,0 +1,11 @@
+# [TITLE]: pypi-mkdocs_get_deps-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-mergedeep-python3)
+include(pypi-platformdirs-python3)
+include(python3-core)
+pypi-mkdocs_get_deps-python3

@@ -1,0 +1,12 @@
+# [TITLE]: hdf5-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hdf5)
+include(hdf5-bin)
+include(hdf5-data)
+include(hdf5-lib)
+include(hdf5-openmpi)
+hdf5-dev

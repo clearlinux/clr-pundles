@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sentinels-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sentinels-python3)
+pypi-sentinels-python

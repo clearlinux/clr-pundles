@@ -11,7 +11,7 @@ include(openssh-client)
 include(ca-certs)
 include(gnupg)
 include(gnutls)
-nss-bin
+include(nss-bin)
 pinentry
 rng-tools
 rng-tools-autostart

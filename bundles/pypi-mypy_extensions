@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mypy_extensions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mypy_extensions-license)
+include(pypi-mypy_extensions-python)
+include(pypi-mypy_extensions-python3)
+pypi-mypy_extensions

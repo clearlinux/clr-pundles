@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pysnow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pysnow-license)
+include(pypi-pysnow-python)
+include(pypi-pysnow-python3)
+pypi-pysnow

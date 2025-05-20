@@ -1,0 +1,10 @@
+# [TITLE]: pypi-serpent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-serpent-license)
+include(pypi-serpent-python)
+include(pypi-serpent-python3)
+pypi-serpent

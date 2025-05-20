@@ -1,0 +1,12 @@
+# [TITLE]: librsvg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librsvg-bin)
+include(librsvg-data)
+include(librsvg-lib)
+include(librsvg-license)
+include(librsvg-man)
+librsvg

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-google_auth_httplib2-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_auth_httplib2-python3)
+pypi-google_auth_httplib2-python

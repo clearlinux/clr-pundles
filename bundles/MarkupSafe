@@ -1,0 +1,10 @@
+# [TITLE]: MarkupSafe
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-license)
+include(MarkupSafe-python)
+include(MarkupSafe-python3)
+MarkupSafe

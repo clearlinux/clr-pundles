@@ -41,7 +41,7 @@ include(llvm)
 include(devpkg-llvm)
 ltrace
 include(man-pages)
-meson
+include(meson)
 metrics-discovery
 include(p7zip)
 include(patch)

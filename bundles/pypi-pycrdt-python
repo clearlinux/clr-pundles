@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pycrdt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycrdt-python3)
+pypi-pycrdt-python

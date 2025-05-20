@@ -1,0 +1,8 @@
+# [TITLE]: pypi-yubikey_manager-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yubikey_manager-python3)
+pypi-yubikey_manager-python

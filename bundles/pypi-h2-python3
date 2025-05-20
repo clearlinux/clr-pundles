@@ -1,0 +1,10 @@
+# [TITLE]: pypi-h2-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hpack-python3)
+include(pypi-hyperframe-python3)
+include(python3-core)
+pypi-h2-python3

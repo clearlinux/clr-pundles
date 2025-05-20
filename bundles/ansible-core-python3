@@ -1,0 +1,13 @@
+# [TITLE]: ansible-core-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-cryptography-python3)
+include(pypi-jinja2-python3)
+include(pypi-packaging-python3)
+include(pypi-resolvelib-python3)
+include(python3-core)
+ansible-core-python3

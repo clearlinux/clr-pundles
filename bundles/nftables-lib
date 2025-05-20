@@ -1,0 +1,15 @@
+# [TITLE]: nftables-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(iptables-lib)
+include(jansson-lib)
+include(libc6)
+include(libmnl-lib)
+include(libnftnl-lib)
+include(nftables-data)
+include(nftables-license)
+nftables-lib

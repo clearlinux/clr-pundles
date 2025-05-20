@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyqt_builder-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyqt_builder-license)
+include(python3-core)
+pypi-pyqt_builder-bin

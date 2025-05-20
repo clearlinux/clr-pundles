@@ -1,0 +1,10 @@
+# [TITLE]: pypi-azure_mgmt_compute
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-azure_mgmt_compute-license)
+include(pypi-azure_mgmt_compute-python)
+include(pypi-azure_mgmt_compute-python3)
+pypi-azure_mgmt_compute

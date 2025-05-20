@@ -1,0 +1,8 @@
+# [TITLE]: pypi-mkdocs_material_extensions-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-mkdocs_material_extensions-python3

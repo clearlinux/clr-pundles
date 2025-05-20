@@ -1,0 +1,11 @@
+# [TITLE]: pypi-doxypypy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-doxypypy-bin)
+include(pypi-doxypypy-license)
+include(pypi-doxypypy-python)
+include(pypi-doxypypy-python3)
+pypi-doxypypy

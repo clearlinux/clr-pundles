@@ -1,0 +1,8 @@
+# [TITLE]: isodate-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isodate-python3)
+isodate-python

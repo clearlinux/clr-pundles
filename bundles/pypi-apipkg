@@ -1,0 +1,10 @@
+# [TITLE]: pypi-apipkg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-apipkg-license)
+include(pypi-apipkg-python)
+include(pypi-apipkg-python3)
+pypi-apipkg

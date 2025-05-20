@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ndindex-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ndindex-python3)
+pypi-ndindex-python

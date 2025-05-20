@@ -1,0 +1,11 @@
+# [TITLE]: pypi-cs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cs-bin)
+include(pypi-cs-license)
+include(pypi-cs-python)
+include(pypi-cs-python3)
+pypi-cs

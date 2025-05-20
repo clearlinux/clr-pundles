@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cachez-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cachez-python3)
+pypi-cachez-python

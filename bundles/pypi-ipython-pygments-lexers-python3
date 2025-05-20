@@ -1,0 +1,9 @@
+# [TITLE]: pypi-ipython-pygments-lexers-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pygments-python3)
+include(python3-core)
+pypi-ipython-pygments-lexers-python3

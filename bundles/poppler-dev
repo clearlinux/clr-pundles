@@ -1,0 +1,15 @@
+# [TITLE]: poppler-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(glib-dev)
+include(pkg-config-bin)
+include(poppler)
+include(poppler-bin)
+include(poppler-data)
+include(poppler-extras)
+include(poppler-lib)
+poppler-dev

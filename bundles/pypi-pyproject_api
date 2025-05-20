@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyproject_api
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyproject_api-license)
+include(pypi-pyproject_api-python)
+include(pypi-pyproject_api-python3)
+pypi-pyproject_api

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-starlette
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-starlette-license)
+include(pypi-starlette-python)
+include(pypi-starlette-python3)
+pypi-starlette

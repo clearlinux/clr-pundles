@@ -1,0 +1,10 @@
+# [TITLE]: pypi-fastjsonschema
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fastjsonschema-license)
+include(pypi-fastjsonschema-python)
+include(pypi-fastjsonschema-python3)
+pypi-fastjsonschema

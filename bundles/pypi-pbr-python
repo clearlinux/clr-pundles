@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pbr-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pbr-python3)
+pypi-pbr-python

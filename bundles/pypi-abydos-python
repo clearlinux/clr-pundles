@@ -1,0 +1,8 @@
+# [TITLE]: pypi-abydos-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-abydos-python3)
+pypi-abydos-python

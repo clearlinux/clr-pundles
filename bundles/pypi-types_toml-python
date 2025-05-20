@@ -1,0 +1,8 @@
+# [TITLE]: pypi-types_toml-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_toml-python3)
+pypi-types_toml-python

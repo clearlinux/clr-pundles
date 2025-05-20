@@ -1,0 +1,8 @@
+# [TITLE]: pypi-werkzeug-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-werkzeug-python3)
+pypi-werkzeug-python

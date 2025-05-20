@@ -1,0 +1,10 @@
+# [TITLE]: pypi-azure_mgmt_network
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-azure_mgmt_network-license)
+include(pypi-azure_mgmt_network-python)
+include(pypi-azure_mgmt_network-python3)
+pypi-azure_mgmt_network

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-argh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-argh-license)
+include(pypi-argh-python)
+include(pypi-argh-python3)
+pypi-argh

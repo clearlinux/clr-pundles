@@ -8,4 +8,4 @@
 include(devpkg-base)
 include(devpkg-Vulkan-Loader)
 
-Vulkan-Headers-dev
+include(Vulkan-Headers-dev)

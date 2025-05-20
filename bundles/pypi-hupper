@@ -1,0 +1,11 @@
+# [TITLE]: pypi-hupper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hupper-bin)
+include(pypi-hupper-license)
+include(pypi-hupper-python)
+include(pypi-hupper-python3)
+pypi-hupper

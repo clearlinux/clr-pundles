@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jarn.viewdoc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jarn.viewdoc-bin)
+include(pypi-jarn.viewdoc-python)
+include(pypi-jarn.viewdoc-python3)
+pypi-jarn.viewdoc

@@ -1,0 +1,22 @@
+# [TITLE]: pypi-matplotlib-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cycler)
+include(fonttools-python3)
+include(freetype-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pypi-contourpy-python3)
+include(pypi-kiwisolver-python3)
+include(pypi-numpy-python3)
+include(pypi-packaging-python3)
+include(pypi-pillow-python3)
+include(pypi-pyparsing-python3)
+include(pypi-python_dateutil-python3)
+include(python3-core)
+include(qhull-lib)
+pypi-matplotlib-python3

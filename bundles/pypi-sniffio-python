@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sniffio-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sniffio-python3)
+pypi-sniffio-python

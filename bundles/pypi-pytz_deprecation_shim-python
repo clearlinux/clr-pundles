@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytz_deprecation_shim-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytz_deprecation_shim-python3)
+pypi-pytz_deprecation_shim-python

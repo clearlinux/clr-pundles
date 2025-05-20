@@ -1,0 +1,11 @@
+# [TITLE]: pypi-yapf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yapf-bin)
+include(pypi-yapf-license)
+include(pypi-yapf-python)
+include(pypi-yapf-python3)
+pypi-yapf

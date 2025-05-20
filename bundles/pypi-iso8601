@@ -1,0 +1,10 @@
+# [TITLE]: pypi-iso8601
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-iso8601-license)
+include(pypi-iso8601-python)
+include(pypi-iso8601-python3)
+pypi-iso8601

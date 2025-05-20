@@ -1,0 +1,10 @@
+# [TITLE]: pypi-abydos-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deprecation-python3)
+include(pypi-numpy-python3)
+include(python3-core)
+pypi-abydos-python3

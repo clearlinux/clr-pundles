@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cmarkgfm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cmarkgfm-license)
+include(pypi-cmarkgfm-python)
+include(pypi-cmarkgfm-python3)
+pypi-cmarkgfm

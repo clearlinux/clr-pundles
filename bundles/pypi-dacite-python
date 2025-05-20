@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dacite-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dacite-python3)
+pypi-dacite-python

@@ -1,0 +1,13 @@
+# [TITLE]: sympy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mpmath-python3)
+include(sympy-bin)
+include(sympy-license)
+include(sympy-man)
+include(sympy-python)
+include(sympy-python3)
+sympy

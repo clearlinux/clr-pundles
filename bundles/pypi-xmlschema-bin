@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xmlschema-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xmlschema-license)
+include(python3-core)
+pypi-xmlschema-bin

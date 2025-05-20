@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-librsvg-dev
+include(librsvg-dev)
 include(libX11client)
 include(libglib)

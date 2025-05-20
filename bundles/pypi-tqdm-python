@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tqdm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tqdm-python3)
+pypi-tqdm-python

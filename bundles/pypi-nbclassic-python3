@@ -1,0 +1,12 @@
+# [TITLE]: pypi-nbclassic-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipykernel-python3)
+include(pypi-ipython_genutils-python3)
+include(pypi-nest_asyncio-python3)
+include(pypi-notebook_shim-python3)
+include(python3-core)
+pypi-nbclassic-python3

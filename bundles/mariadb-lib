@@ -1,0 +1,25 @@
+# [TITLE]: mariadb-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(bzip2-lib)
+include(compat-libxml2-soname2-lib)
+include(curl-lib)
+include(libc6)
+include(libstdc++)
+include(liburing-lib)
+include(libxcrypt-lib)
+include(lz4-lib)
+include(mariadb-data)
+include(mariadb-extras-clientlib)
+include(mariadb-license)
+include(numactl-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(snappy-lib)
+include(zlib-lib)
+include(zstd-lib)
+mariadb-lib

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-zope.testrunner-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools-python3)
+include(pypi-zope.exceptions-python3)
+include(pypi-zope.interface-python3)
+include(python3-core)
+pypi-zope.testrunner-python3

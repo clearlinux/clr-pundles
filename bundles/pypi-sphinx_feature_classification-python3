@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinx_feature_classification-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docutils-python3)
+include(pypi-pbr-python3)
+include(python3-core)
+pypi-sphinx_feature_classification-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-csscompressor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-csscompressor-license)
+include(pypi-csscompressor-python)
+include(pypi-csscompressor-python3)
+pypi-csscompressor

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-unicodedata2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-unicodedata2-license)
+include(pypi-unicodedata2-python)
+include(pypi-unicodedata2-python3)
+pypi-unicodedata2

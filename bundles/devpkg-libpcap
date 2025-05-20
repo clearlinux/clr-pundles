@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libpcap-dev
+include(libpcap-dev)
 include(libpcap-lib)

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-text_unidecode
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-text_unidecode-license)
+include(pypi-text_unidecode-python)
+include(pypi-text_unidecode-python3)
+pypi-text_unidecode

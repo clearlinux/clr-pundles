@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pkgconfig-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pkgconfig-python3)
+pypi-pkgconfig-python

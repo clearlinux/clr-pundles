@@ -1,0 +1,9 @@
+# [TITLE]: pypi-linkify_it_py-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uc_micro_py-python3)
+include(python3-core)
+pypi-linkify_it_py-python3

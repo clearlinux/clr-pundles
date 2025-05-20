@@ -1,0 +1,10 @@
+# [TITLE]: pypi-scikit_build_core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-scikit_build_core-license)
+include(pypi-scikit_build_core-python)
+include(pypi-scikit_build_core-python3)
+pypi-scikit_build_core

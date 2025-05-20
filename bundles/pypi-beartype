@@ -1,0 +1,10 @@
+# [TITLE]: pypi-beartype
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beartype-license)
+include(pypi-beartype-python)
+include(pypi-beartype-python3)
+pypi-beartype

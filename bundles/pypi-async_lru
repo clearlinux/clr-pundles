@@ -1,0 +1,10 @@
+# [TITLE]: pypi-async_lru
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-async_lru-license)
+include(pypi-async_lru-python)
+include(pypi-async_lru-python3)
+pypi-async_lru

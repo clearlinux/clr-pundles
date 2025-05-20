@@ -1,0 +1,10 @@
+# [TITLE]: pypi-appdirs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-appdirs-license)
+include(pypi-appdirs-python)
+include(pypi-appdirs-python3)
+pypi-appdirs

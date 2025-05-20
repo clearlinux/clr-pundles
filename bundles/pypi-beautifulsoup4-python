@@ -1,0 +1,8 @@
+# [TITLE]: pypi-beautifulsoup4-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beautifulsoup4-python3)
+pypi-beautifulsoup4-python

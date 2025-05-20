@@ -1,0 +1,8 @@
+# [TITLE]: pypi-flake8_blind_except-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flake8_blind_except-python3)
+pypi-flake8_blind_except-python

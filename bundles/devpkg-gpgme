@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gpgme-dev
+include(gpgme-dev)
 include(libstdcpp)
 include(gpgme)
 include(gdk-pixbuf)

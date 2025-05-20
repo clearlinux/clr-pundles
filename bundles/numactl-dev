@@ -1,0 +1,11 @@
+# [TITLE]: numactl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(numactl)
+include(numactl-bin)
+include(numactl-lib)
+include(pkg-config-bin)
+numactl-dev

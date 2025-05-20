@@ -1,0 +1,8 @@
+# [TITLE]: pypi-passlib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-passlib-python3)
+pypi-passlib-python

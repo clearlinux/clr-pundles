@@ -1,0 +1,13 @@
+# [TITLE]: libsndfile-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flac-lib)
+include(libc6)
+include(libogg-lib)
+include(libsndfile-license)
+include(libvorbis-lib)
+include(opus-lib)
+libsndfile-lib

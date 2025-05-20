@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pid-license)
+include(pypi-pid-python)
+include(pypi-pid-python3)
+pypi-pid

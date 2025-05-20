@@ -1,0 +1,11 @@
+# [TITLE]: munge-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(munge)
+include(munge-bin)
+include(munge-lib)
+include(pkg-config-bin)
+munge-dev

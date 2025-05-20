@@ -1,0 +1,11 @@
+# [TITLE]: pypi-griffe
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-griffe-bin)
+include(pypi-griffe-license)
+include(pypi-griffe-python)
+include(pypi-griffe-python3)
+pypi-griffe

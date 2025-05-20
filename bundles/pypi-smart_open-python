@@ -1,0 +1,8 @@
+# [TITLE]: pypi-smart_open-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-smart_open-python3)
+pypi-smart_open-python

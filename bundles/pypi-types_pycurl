@@ -1,0 +1,10 @@
+# [TITLE]: pypi-types_pycurl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_pycurl-license)
+include(pypi-types_pycurl-python)
+include(pypi-types_pycurl-python3)
+pypi-types_pycurl

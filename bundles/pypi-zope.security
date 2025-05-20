@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.security
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.security-license)
+include(pypi-zope.security-python)
+include(pypi-zope.security-python3)
+pypi-zope.security

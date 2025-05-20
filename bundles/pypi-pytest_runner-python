@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytest_runner-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_runner-python3)
+pypi-pytest_runner-python

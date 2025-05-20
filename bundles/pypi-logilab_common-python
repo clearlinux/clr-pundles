@@ -1,0 +1,8 @@
+# [TITLE]: pypi-logilab_common-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-logilab_common-python3)
+pypi-logilab_common-python

@@ -1,0 +1,13 @@
+# [TITLE]: aspell-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell-lib)
+include(aspell-license)
+include(filesystem)
+include(libc6)
+include(libstdc++)
+include(perl-bin)
+aspell-bin

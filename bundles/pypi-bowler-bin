@@ -1,0 +1,9 @@
+# [TITLE]: pypi-bowler-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bowler-license)
+include(python3-core)
+pypi-bowler-bin

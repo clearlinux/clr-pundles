@@ -1,0 +1,11 @@
+# [TITLE]: pypi-referencing-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrs-python3)
+include(pypi-rpds_py-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-referencing-python3

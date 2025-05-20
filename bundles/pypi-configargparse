@@ -1,0 +1,10 @@
+# [TITLE]: pypi-configargparse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-configargparse-license)
+include(pypi-configargparse-python)
+include(pypi-configargparse-python3)
+pypi-configargparse

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sentencepiece-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sentencepiece-python3)
+pypi-sentencepiece-python

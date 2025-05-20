@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jupyter_server_ydoc-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_server_fileid-python3)
+include(pypi-jupyter_ydoc-python3)
+include(pypi-ypy_websocket-python3)
+include(python3-core)
+pypi-jupyter_server_ydoc-python3

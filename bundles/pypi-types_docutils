@@ -1,0 +1,10 @@
+# [TITLE]: pypi-types_docutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_docutils-license)
+include(pypi-types_docutils-python)
+include(pypi-types_docutils-python3)
+pypi-types_docutils

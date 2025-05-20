@@ -1,0 +1,8 @@
+# [TITLE]: pyudev-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pyudev-python3)
+pyudev-python

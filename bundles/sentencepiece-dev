@@ -1,0 +1,12 @@
+# [TITLE]: sentencepiece-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(protobuf-dev)
+include(sentencepiece)
+include(sentencepiece-bin)
+include(sentencepiece-lib)
+sentencepiece-dev

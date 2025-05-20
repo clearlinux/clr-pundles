@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyrate_limiter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyrate_limiter-license)
+include(pypi-pyrate_limiter-python)
+include(pypi-pyrate_limiter-python3)
+pypi-pyrate_limiter

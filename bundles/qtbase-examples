@@ -1,0 +1,8 @@
+# [TITLE]: qtbase-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+qtbase-examples

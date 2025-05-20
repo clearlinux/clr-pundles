@@ -1,0 +1,11 @@
+# [TITLE]: qtbase
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtbase-license)
+include(shared-mime-info)
+qtbase

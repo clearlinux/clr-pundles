@@ -27,7 +27,7 @@ qt6quick3dphysics
 qt6remoteobjects
 qt6sensors
 qt6serialport
-qt6shadertools
+include(qt6shadertools)
 qt6svg
 qt6tools
 include(protobuf-lib)

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyscard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyscard-license)
+include(pypi-pyscard-python)
+include(pypi-pyscard-python3)
+pypi-pyscard

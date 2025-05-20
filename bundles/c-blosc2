@@ -1,0 +1,9 @@
+# [TITLE]: c-blosc2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c-blosc2-lib)
+include(c-blosc2-license)
+c-blosc2

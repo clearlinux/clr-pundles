@@ -1,0 +1,8 @@
+# [TITLE]: sip-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sip-python3)
+sip-python

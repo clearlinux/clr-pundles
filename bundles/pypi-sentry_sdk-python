@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sentry_sdk-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sentry_sdk-python3)
+pypi-sentry_sdk-python

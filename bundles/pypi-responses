@@ -1,0 +1,10 @@
+# [TITLE]: pypi-responses
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-responses-license)
+include(pypi-responses-python)
+include(pypi-responses-python3)
+pypi-responses

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-anyio-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-idna-python3)
+include(pypi-sniffio-python3)
+include(python3-core)
+pypi-anyio-python3

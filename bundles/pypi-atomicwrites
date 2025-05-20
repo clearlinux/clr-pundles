@@ -1,0 +1,10 @@
+# [TITLE]: pypi-atomicwrites
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-atomicwrites-license)
+include(pypi-atomicwrites-python)
+include(pypi-atomicwrites-python3)
+pypi-atomicwrites

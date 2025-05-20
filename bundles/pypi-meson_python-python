@@ -1,0 +1,8 @@
+# [TITLE]: pypi-meson_python-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-meson_python-python3)
+pypi-meson_python-python

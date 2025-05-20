@@ -1,0 +1,10 @@
+# [TITLE]: pycairo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pycairo-license)
+include(pycairo-python)
+include(pycairo-python3)
+pycairo

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-lavacli-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lavacli-python3)
+pypi-lavacli-python

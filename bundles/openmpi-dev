@@ -1,0 +1,12 @@
+# [TITLE]: openmpi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openmpi)
+include(openmpi-bin)
+include(openmpi-data)
+include(openmpi-lib)
+include(pkg-config-bin)
+openmpi-dev

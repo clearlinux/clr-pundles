@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pefile-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pefile-python3)
+pypi-pefile-python

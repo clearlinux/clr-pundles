@@ -1,0 +1,12 @@
+# [TITLE]: pypi-jupyter_client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_client-bin)
+include(pypi-jupyter_client-license)
+include(pypi-jupyter_client-python)
+include(pypi-jupyter_client-python3)
+include(pypi-pyzmq-python3)
+pypi-jupyter_client

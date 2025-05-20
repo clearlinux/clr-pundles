@@ -1,0 +1,11 @@
+# [TITLE]: pypi-recommonmark-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-commonmark-python3)
+include(pypi-docutils-python3)
+include(pypi-sphinx-python3)
+include(python3-core)
+pypi-recommonmark-python3

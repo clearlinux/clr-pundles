@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pre_commit-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pre_commit-python3)
+pypi-pre_commit-python

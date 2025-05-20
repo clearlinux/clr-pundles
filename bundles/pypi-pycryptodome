@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pycryptodome
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycryptodome-license)
+include(pypi-pycryptodome-python)
+include(pypi-pycryptodome-python3)
+pypi-pycryptodome

@@ -1,0 +1,11 @@
+# [TITLE]: SDL2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2)
+include(SDL2-bin)
+include(SDL2-lib)
+include(pkg-config-bin)
+SDL2-dev

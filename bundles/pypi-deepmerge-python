@@ -1,0 +1,8 @@
+# [TITLE]: pypi-deepmerge-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deepmerge-python3)
+pypi-deepmerge-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-importlib_resources
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-importlib_resources-license)
+include(pypi-importlib_resources-python)
+include(pypi-importlib_resources-python3)
+pypi-importlib_resources

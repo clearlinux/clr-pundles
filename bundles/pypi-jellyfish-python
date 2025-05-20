@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jellyfish-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jellyfish-python3)
+pypi-jellyfish-python

@@ -1,0 +1,10 @@
+# [TITLE]: c-blosc2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c-blosc2-license)
+include(libc6)
+include(zlib-lib)
+c-blosc2-lib

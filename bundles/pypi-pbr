@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pbr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pbr-bin)
+include(pypi-pbr-license)
+include(pypi-pbr-python)
+include(pypi-pbr-python3)
+pypi-pbr

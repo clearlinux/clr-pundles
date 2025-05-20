@@ -1,0 +1,10 @@
+# [TITLE]: pypi-flake8_class_newline
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flake8_class_newline-license)
+include(pypi-flake8_class_newline-python)
+include(pypi-flake8_class_newline-python3)
+pypi-flake8_class_newline

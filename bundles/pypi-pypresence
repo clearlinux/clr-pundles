@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pypresence
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pypresence-license)
+include(pypi-pypresence-python)
+include(pypi-pypresence-python3)
+pypi-pypresence

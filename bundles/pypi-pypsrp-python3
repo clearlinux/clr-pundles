@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pypsrp-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cryptography-python3)
+include(pypi-pyspnego-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-pypsrp-python3

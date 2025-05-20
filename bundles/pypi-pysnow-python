@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pysnow-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pysnow-python3)
+pypi-pysnow-python

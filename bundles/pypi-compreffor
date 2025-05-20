@@ -1,0 +1,11 @@
+# [TITLE]: pypi-compreffor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-compreffor-bin)
+include(pypi-compreffor-license)
+include(pypi-compreffor-python)
+include(pypi-compreffor-python3)
+pypi-compreffor

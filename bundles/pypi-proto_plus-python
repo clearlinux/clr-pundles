@@ -1,0 +1,8 @@
+# [TITLE]: pypi-proto_plus-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-proto_plus-python3)
+pypi-proto_plus-python

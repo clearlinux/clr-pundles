@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xyzservices-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xyzservices-python3)
+pypi-xyzservices-python

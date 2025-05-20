@@ -1,0 +1,14 @@
+# [TITLE]: pypi-nbsphinx-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docutils-python3)
+include(pypi-jinja2-python3)
+include(pypi-nbconvert-python3)
+include(pypi-nbformat-python3)
+include(pypi-sphinx-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-nbsphinx-python3

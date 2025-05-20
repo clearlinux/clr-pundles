@@ -1,0 +1,11 @@
+# [TITLE]: pypi-unidiff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-unidiff-bin)
+include(pypi-unidiff-license)
+include(pypi-unidiff-python)
+include(pypi-unidiff-python3)
+pypi-unidiff

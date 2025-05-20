@@ -1,0 +1,14 @@
+# [TITLE]: gspell-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(enchant-lib)
+include(glib-lib)
+include(gspell)
+include(gtk3-lib)
+include(icu4c-lib)
+include(libc6)
+include(pango-lib)
+gspell-tests

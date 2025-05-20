@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyjwt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyjwt-license)
+include(pypi-pyjwt-python)
+include(pypi-pyjwt-python3)
+pypi-pyjwt

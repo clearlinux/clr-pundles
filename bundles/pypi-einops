@@ -1,0 +1,10 @@
+# [TITLE]: pypi-einops
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-einops-license)
+include(pypi-einops-python)
+include(pypi-einops-python3)
+pypi-einops

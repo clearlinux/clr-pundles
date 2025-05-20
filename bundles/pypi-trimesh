@@ -1,0 +1,11 @@
+# [TITLE]: pypi-trimesh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-trimesh-bin)
+include(pypi-trimesh-license)
+include(pypi-trimesh-python)
+include(pypi-trimesh-python3)
+pypi-trimesh

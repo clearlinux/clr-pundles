@@ -1,0 +1,9 @@
+# [TITLE]: pypi-requests_gssapi-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gssapi)
+include(python3-core)
+pypi-requests_gssapi-python3

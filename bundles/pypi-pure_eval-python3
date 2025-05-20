@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pure_eval-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-pure_eval-python3

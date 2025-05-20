@@ -1,0 +1,27 @@
+# [TITLE]: mariadb-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(curl-lib)
+include(filesystem)
+include(libc6)
+include(libstdc++)
+include(liburing-lib)
+include(libxcrypt-lib)
+include(mariadb-config)
+include(mariadb-data)
+include(mariadb-license)
+include(mariadb-services)
+include(ncurses-lib)
+include(numactl-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(perl-bin)
+include(snappy-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+include(zstd-lib)
+mariadb-bin

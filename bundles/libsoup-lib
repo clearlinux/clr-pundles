@@ -1,0 +1,16 @@
+# [TITLE]: libsoup-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-lib)
+include(glib-lib)
+include(libc6)
+include(libpsl-lib)
+include(libsoup-data)
+include(libsoup-license)
+include(nghttp2-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+libsoup-lib

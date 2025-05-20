@@ -1,0 +1,8 @@
+# [TITLE]: pypi-setuptools_rust-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools_rust-python3)
+pypi-setuptools_rust-python

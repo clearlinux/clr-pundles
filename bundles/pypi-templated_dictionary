@@ -1,0 +1,10 @@
+# [TITLE]: pypi-templated_dictionary
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-templated_dictionary-license)
+include(pypi-templated_dictionary-python)
+include(pypi-templated_dictionary-python3)
+pypi-templated_dictionary

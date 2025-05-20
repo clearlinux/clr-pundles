@@ -1,0 +1,20 @@
+# [TITLE]: graphviz-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(expat-lib)
+include(glib-lib)
+include(graphviz-data)
+include(graphviz-license)
+include(libc6)
+include(libgcc1)
+include(librsvg-lib)
+include(libstdc++)
+include(libtool-lib)
+include(libwebp-lib)
+include(poppler-lib)
+include(zlib-lib)
+graphviz-lib

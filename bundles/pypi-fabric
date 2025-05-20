@@ -1,0 +1,11 @@
+# [TITLE]: pypi-fabric
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fabric-bin)
+include(pypi-fabric-license)
+include(pypi-fabric-python)
+include(pypi-fabric-python3)
+pypi-fabric

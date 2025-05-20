@@ -1,0 +1,12 @@
+# [TITLE]: pcsc-lite-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcsc-lite)
+include(pcsc-lite-bin)
+include(pcsc-lite-data)
+include(pcsc-lite-lib)
+include(pkg-config-bin)
+pcsc-lite-dev

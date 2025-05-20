@@ -1,0 +1,9 @@
+# [TITLE]: sbc-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(sbc-license)
+sbc-lib32

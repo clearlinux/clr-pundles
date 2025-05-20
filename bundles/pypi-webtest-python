@@ -1,0 +1,8 @@
+# [TITLE]: pypi-webtest-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-webtest-python3)
+pypi-webtest-python

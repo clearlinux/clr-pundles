@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_apidoc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_apidoc-license)
+include(pypi-sphinxcontrib_apidoc-python)
+include(pypi-sphinxcontrib_apidoc-python3)
+pypi-sphinxcontrib_apidoc

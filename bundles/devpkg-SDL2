@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-SDL2-dev
+include(SDL2-dev)

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-scp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-scp-license)
+include(pypi-scp-python)
+include(pypi-scp-python3)
+pypi-scp

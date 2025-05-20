@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pygame-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pygame)
+pypi-pygame-dev

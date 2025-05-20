@@ -1,0 +1,8 @@
+# [TITLE]: pypi-bokeh-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bokeh-python3)
+pypi-bokeh-python

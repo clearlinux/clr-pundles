@@ -1,0 +1,14 @@
+# [TITLE]: gpgme-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gpgme-data)
+include(gpgme-lib)
+include(gpgme-license)
+include(libassuan-lib)
+include(libc6)
+include(libgpg-error-lib)
+gpgme-bin

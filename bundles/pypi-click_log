@@ -1,0 +1,10 @@
+# [TITLE]: pypi-click_log
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-click_log-license)
+include(pypi-click_log-python)
+include(pypi-click_log-python3)
+pypi-click_log

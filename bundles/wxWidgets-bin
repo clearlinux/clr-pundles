@@ -1,0 +1,13 @@
+# [TITLE]: wxWidgets-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(wxWidgets-data)
+include(wxWidgets-lib)
+include(wxWidgets-license)
+wxWidgets-bin

@@ -1,0 +1,9 @@
+# [TITLE]: libavif
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libavif-lib)
+include(libavif-license)
+libavif

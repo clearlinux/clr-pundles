@@ -1,0 +1,11 @@
+# [TITLE]: pypi-openstep_plist-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(python3-core)
+pypi-openstep_plist-python3

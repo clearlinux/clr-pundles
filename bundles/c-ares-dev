@@ -1,0 +1,10 @@
+# [TITLE]: c-ares-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c-ares)
+include(c-ares-lib)
+include(pkg-config-bin)
+c-ares-dev

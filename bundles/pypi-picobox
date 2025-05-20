@@ -1,0 +1,10 @@
+# [TITLE]: pypi-picobox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-picobox-license)
+include(pypi-picobox-python)
+include(pypi-picobox-python3)
+pypi-picobox

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-clr_artifact-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-clr_artifact-python3)
+pypi-clr_artifact-python

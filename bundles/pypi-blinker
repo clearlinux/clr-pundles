@@ -1,0 +1,10 @@
+# [TITLE]: pypi-blinker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-blinker-license)
+include(pypi-blinker-python)
+include(pypi-blinker-python3)
+pypi-blinker

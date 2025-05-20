@@ -1,0 +1,10 @@
+# [TITLE]: pypi-munkres
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-munkres-license)
+include(pypi-munkres-python)
+include(pypi-munkres-python3)
+pypi-munkres

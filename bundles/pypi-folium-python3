@@ -1,0 +1,13 @@
+# [TITLE]: pypi-folium-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-branca-python3)
+include(pypi-jinja2-python3)
+include(pypi-numpy-python3)
+include(pypi-requests-python3)
+include(pypi-xyzservices-python3)
+include(python3-core)
+pypi-folium-python3

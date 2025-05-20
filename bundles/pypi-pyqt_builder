@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyqt_builder
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyqt_builder-bin)
+include(pypi-pyqt_builder-license)
+include(pypi-pyqt_builder-python)
+include(pypi-pyqt_builder-python3)
+pypi-pyqt_builder

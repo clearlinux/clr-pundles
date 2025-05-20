@@ -1,0 +1,8 @@
+# [TITLE]: pypi-json5-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-json5-python3)
+pypi-json5-python

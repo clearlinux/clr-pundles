@@ -1,0 +1,10 @@
+# [TITLE]: flac-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flac-lib)
+include(flac-license)
+include(libc6)
+flac-bin

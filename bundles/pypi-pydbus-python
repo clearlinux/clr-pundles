@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pydbus-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydbus-python3)
+pypi-pydbus-python

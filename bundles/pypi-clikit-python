@@ -1,0 +1,8 @@
+# [TITLE]: pypi-clikit-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-clikit-python3)
+pypi-clikit-python

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pre_commit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pre_commit-bin)
+include(pypi-pre_commit-license)
+include(pypi-pre_commit-python)
+include(pypi-pre_commit-python3)
+pypi-pre_commit

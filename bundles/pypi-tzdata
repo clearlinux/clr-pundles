@@ -1,0 +1,10 @@
+# [TITLE]: pypi-tzdata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tzdata-license)
+include(pypi-tzdata-python)
+include(pypi-tzdata-python3)
+pypi-tzdata

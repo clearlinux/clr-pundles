@@ -1,0 +1,10 @@
+# [TITLE]: pypi-selenium
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-selenium-license)
+include(pypi-selenium-python)
+include(pypi-selenium-python3)
+pypi-selenium

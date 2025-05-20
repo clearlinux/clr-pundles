@@ -1,0 +1,11 @@
+# [TITLE]: graphene-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(graphene-data)
+include(graphene-license)
+include(libc6)
+graphene-lib

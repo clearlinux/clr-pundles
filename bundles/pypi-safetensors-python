@@ -1,0 +1,8 @@
+# [TITLE]: pypi-safetensors-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-safetensors-python3)
+pypi-safetensors-python

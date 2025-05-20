@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rtree
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rtree-license)
+include(pypi-rtree-python)
+include(pypi-rtree-python3)
+pypi-rtree

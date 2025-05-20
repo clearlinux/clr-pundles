@@ -1,0 +1,10 @@
+# [TITLE]: pypi-joblib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-joblib-license)
+include(pypi-joblib-python)
+include(pypi-joblib-python3)
+pypi-joblib

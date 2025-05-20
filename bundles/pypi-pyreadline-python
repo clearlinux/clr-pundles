@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyreadline-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyreadline-python3)
+pypi-pyreadline-python

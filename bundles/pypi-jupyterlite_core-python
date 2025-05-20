@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyterlite_core-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyterlite_core-python3)
+pypi-jupyterlite_core-python

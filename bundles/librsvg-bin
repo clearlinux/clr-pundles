@@ -1,0 +1,16 @@
+# [TITLE]: librsvg-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(librsvg-data)
+include(librsvg-license)
+include(pango-lib)
+librsvg-bin

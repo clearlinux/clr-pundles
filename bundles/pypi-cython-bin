@@ -1,0 +1,9 @@
+# [TITLE]: pypi-cython-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cython-license)
+include(python3-core)
+pypi-cython-bin

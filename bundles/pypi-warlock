@@ -1,0 +1,10 @@
+# [TITLE]: pypi-warlock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-warlock-license)
+include(pypi-warlock-python)
+include(pypi-warlock-python3)
+pypi-warlock

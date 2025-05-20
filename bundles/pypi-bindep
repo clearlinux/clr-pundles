@@ -1,0 +1,11 @@
+# [TITLE]: pypi-bindep
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bindep-bin)
+include(pypi-bindep-license)
+include(pypi-bindep-python)
+include(pypi-bindep-python3)
+pypi-bindep

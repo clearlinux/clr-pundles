@@ -1,0 +1,8 @@
+# [TITLE]: pypi-three_merge-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-three_merge-python3)
+pypi-three_merge-python

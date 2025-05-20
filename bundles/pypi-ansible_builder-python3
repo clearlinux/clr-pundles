@@ -1,0 +1,14 @@
+# [TITLE]: pypi-ansible_builder-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(coreutils-bin)
+include(filesystem)
+include(pypi-bindep-python3)
+include(pypi-jsonschema-python3)
+include(pypi-packaging-python3)
+include(python3-core)
+pypi-ansible_builder-python3

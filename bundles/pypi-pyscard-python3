@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyscard-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pcsc-lite-lib)
+include(python3-core)
+pypi-pyscard-python3

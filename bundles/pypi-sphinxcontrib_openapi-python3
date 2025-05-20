@@ -1,0 +1,15 @@
+# [TITLE]: pypi-sphinxcontrib_openapi-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-deepmerge-python3)
+include(pypi-jsonschema-python3)
+include(pypi-picobox-python3)
+include(pypi-sphinx-python3)
+include(pypi-sphinx_mdinclude-python3)
+include(pypi-sphinxcontrib_httpdomain-python3)
+include(python3-core)
+pypi-sphinxcontrib_openapi-python3

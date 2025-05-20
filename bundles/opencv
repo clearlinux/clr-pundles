@@ -1,0 +1,13 @@
+# [TITLE]: opencv
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opencv-bin)
+include(opencv-data)
+include(opencv-lib)
+include(opencv-license)
+include(opencv-python)
+include(opencv-python3)
+opencv

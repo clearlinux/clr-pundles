@@ -1,0 +1,8 @@
+# [TITLE]: pypi-chardet-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chardet-python3)
+pypi-chardet-python

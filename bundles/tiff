@@ -1,0 +1,10 @@
+# [TITLE]: tiff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tiff-bin)
+include(tiff-lib)
+include(tiff-man)
+tiff

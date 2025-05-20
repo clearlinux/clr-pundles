@@ -1,0 +1,9 @@
+# [TITLE]: pypi-icalendar-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-icalendar-license)
+include(python3-core)
+pypi-icalendar-bin

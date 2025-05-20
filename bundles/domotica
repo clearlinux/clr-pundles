@@ -9,13 +9,13 @@ include(python3-basic)
 include(libglib)
 include(qt-basic)
 
-pypi-astral
-pypi-hammock
-pypi-gmqtt
-pypi-ouimeaux
+include(pypi-astral)
+include(pypi-hammock)
+include(pypi-gmqtt)
+include(pypi-ouimeaux)
 pyecobee
 python-openzwave
 qtmqtt
-pypi-spyrk
+include(pypi-spyrk)
 include(pypi-requests)
 include(pypi-cython)

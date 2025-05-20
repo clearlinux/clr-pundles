@@ -1,0 +1,11 @@
+# [TITLE]: pypi-babel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-babel-bin)
+include(pypi-babel-license)
+include(pypi-babel-python)
+include(pypi-babel-python3)
+pypi-babel

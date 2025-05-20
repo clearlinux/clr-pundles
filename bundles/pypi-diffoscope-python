@@ -1,0 +1,8 @@
+# [TITLE]: pypi-diffoscope-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-diffoscope-python3)
+pypi-diffoscope-python

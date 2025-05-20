@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pytest-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-iniconfig-python3)
+include(pypi-packaging-python3)
+include(pypi-pluggy-python3)
+include(python3-core)
+pypi-pytest-python3

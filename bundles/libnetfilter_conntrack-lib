@@ -1,0 +1,11 @@
+# [TITLE]: libnetfilter_conntrack-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libmnl-lib)
+include(libnetfilter_conntrack-license)
+include(libnfnetlink-lib)
+libnetfilter_conntrack-lib

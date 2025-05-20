@@ -1,0 +1,11 @@
+# [TITLE]: pypi-modulegraph
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-modulegraph-bin)
+include(pypi-modulegraph-license)
+include(pypi-modulegraph-python)
+include(pypi-modulegraph-python3)
+pypi-modulegraph

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sortedcontainers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sortedcontainers-license)
+include(pypi-sortedcontainers-python)
+include(pypi-sortedcontainers-python3)
+pypi-sortedcontainers

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-google_cloud_storage
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_cloud_storage-license)
+include(pypi-google_cloud_storage-python)
+include(pypi-google_cloud_storage-python3)
+pypi-google_cloud_storage

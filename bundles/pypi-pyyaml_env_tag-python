@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyyaml_env_tag-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyyaml_env_tag-python3)
+pypi-pyyaml_env_tag-python

@@ -1,0 +1,14 @@
+# [TITLE]: pypi-pip_tools-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-build-python3)
+include(pypi-click-python3)
+include(pypi-pip-python3)
+include(pypi-pyproject_hooks-python3)
+include(pypi-setuptools-python3)
+include(pypi-wheel-python3)
+include(python3-core)
+pypi-pip_tools-python3

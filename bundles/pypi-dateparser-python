@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dateparser-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dateparser-python3)
+pypi-dateparser-python

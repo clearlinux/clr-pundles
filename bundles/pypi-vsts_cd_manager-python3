@@ -1,0 +1,10 @@
+# [TITLE]: pypi-vsts_cd_manager-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mock-python3)
+include(pypi-msrest-python3)
+include(python3-core)
+pypi-vsts_cd_manager-python3

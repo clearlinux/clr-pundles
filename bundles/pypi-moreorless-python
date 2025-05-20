@@ -1,0 +1,8 @@
+# [TITLE]: pypi-moreorless-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-moreorless-python3)
+pypi-moreorless-python

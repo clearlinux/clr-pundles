@@ -1,0 +1,8 @@
+# [TITLE]: pypi-html5lib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-html5lib-python3)
+pypi-html5lib-python

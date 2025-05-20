@@ -1,0 +1,31 @@
+# [TITLE]: gst-plugins-base-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(cairo-lib)
+include(glib-lib)
+include(graphene-lib)
+include(gst-plugins-base-data)
+include(gst-plugins-base-license)
+include(gstreamer-lib)
+include(libX11-lib)
+include(libXv-lib)
+include(libc6)
+include(libdrm-lib)
+include(libglvnd-lib)
+include(libgudev-lib)
+include(libjpeg-turbo-lib)
+include(libogg-lib)
+include(libpng-lib)
+include(libtheora-lib)
+include(libvorbis-lib)
+include(mesa-lib)
+include(opus-lib)
+include(orc-lib)
+include(pango-lib)
+include(wayland-lib)
+include(zlib-lib)
+gst-plugins-base-lib

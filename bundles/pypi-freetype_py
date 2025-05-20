@@ -1,0 +1,10 @@
+# [TITLE]: pypi-freetype_py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-freetype_py-license)
+include(pypi-freetype_py-python)
+include(pypi-freetype_py-python3)
+pypi-freetype_py

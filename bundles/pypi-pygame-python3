@@ -1,0 +1,16 @@
+# [TITLE]: pypi-pygame-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-lib)
+include(SDL2_image-lib)
+include(SDL2_mixer-lib)
+include(SDL2_ttf-lib)
+include(freetype-lib)
+include(libc6)
+include(libpng-lib)
+include(portmidi-lib)
+include(python3-core)
+pypi-pygame-python3

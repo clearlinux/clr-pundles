@@ -1,0 +1,8 @@
+# [TITLE]: pypi-geventhttpclient-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-geventhttpclient-python3)
+pypi-geventhttpclient-python

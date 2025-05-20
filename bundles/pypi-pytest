@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pytest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest-bin)
+include(pypi-pytest-license)
+include(pypi-pytest-python)
+include(pypi-pytest-python3)
+pypi-pytest

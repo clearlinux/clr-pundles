@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pdfminer.six-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pdfminer.six-python3)
+pypi-pdfminer.six-python

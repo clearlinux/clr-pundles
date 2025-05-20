@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyclip-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyclip-license)
+include(python3-core)
+pypi-pyclip-bin

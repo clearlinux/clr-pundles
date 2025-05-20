@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gspell-dev
+include(gspell-dev)
 include(libglib)
 include(libX11client)
 include(aspell)

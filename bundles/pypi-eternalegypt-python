@@ -1,0 +1,8 @@
+# [TITLE]: pypi-eternalegypt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-eternalegypt-python3)
+pypi-eternalegypt-python

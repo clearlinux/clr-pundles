@@ -1,0 +1,9 @@
+# [TITLE]: libwpe
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwpe-lib)
+include(libwpe-license)
+libwpe

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-doxyqml-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-doxyqml-python3)
+pypi-doxyqml-python

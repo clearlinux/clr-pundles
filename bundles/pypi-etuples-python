@@ -1,0 +1,8 @@
+# [TITLE]: pypi-etuples-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-etuples-python3)
+pypi-etuples-python

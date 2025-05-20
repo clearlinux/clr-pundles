@@ -1,0 +1,9 @@
+# [TITLE]: SDL2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-license)
+include(libc6)
+SDL2-lib

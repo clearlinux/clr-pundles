@@ -1,0 +1,8 @@
+# [TITLE]: pypi-nltk-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nltk-python3)
+pypi-nltk-python

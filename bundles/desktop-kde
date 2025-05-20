@@ -118,7 +118,7 @@ kwin
 kwindowsystem
 kwrited
 kxmlgui
-libassuan
+include(libassuan)
 libkscreen
 libksysguard
 libmtp

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-adal-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cryptography-python3)
+include(pypi-pyjwt-python3)
+include(pypi-python_dateutil-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-adal-python3

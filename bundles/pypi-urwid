@@ -1,0 +1,10 @@
+# [TITLE]: pypi-urwid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-urwid-license)
+include(pypi-urwid-python)
+include(pypi-urwid-python3)
+pypi-urwid

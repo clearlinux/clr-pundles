@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rlpycairo-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pycairo-python3)
+include(pypi-freetype_py-python3)
+include(python3-core)
+pypi-rlpycairo-python3

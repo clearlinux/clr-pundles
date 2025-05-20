@@ -1,0 +1,8 @@
+# [TITLE]: pypi-terminado-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-terminado-python3)
+pypi-terminado-python

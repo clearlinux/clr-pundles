@@ -1,0 +1,8 @@
+# [TITLE]: pypi-textdistance-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-textdistance-python3)
+pypi-textdistance-python

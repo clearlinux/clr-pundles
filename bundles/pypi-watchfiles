@@ -1,0 +1,11 @@
+# [TITLE]: pypi-watchfiles
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-watchfiles-bin)
+include(pypi-watchfiles-license)
+include(pypi-watchfiles-python)
+include(pypi-watchfiles-python3)
+pypi-watchfiles

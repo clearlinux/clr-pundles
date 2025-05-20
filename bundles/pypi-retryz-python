@@ -1,0 +1,8 @@
+# [TITLE]: pypi-retryz-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-retryz-python3)
+pypi-retryz-python

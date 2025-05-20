@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyjwt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyjwt-python3)
+pypi-pyjwt-python

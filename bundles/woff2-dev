@@ -1,0 +1,11 @@
+# [TITLE]: woff2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-dev)
+include(woff2)
+include(woff2-dev)
+include(woff2-lib)
+woff2-dev

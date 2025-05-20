@@ -1,0 +1,12 @@
+# [TITLE]: pypi-httpx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-charset_normalizer-python3)
+include(pypi-httpx-bin)
+include(pypi-httpx-license)
+include(pypi-httpx-python)
+include(pypi-httpx-python3)
+pypi-httpx

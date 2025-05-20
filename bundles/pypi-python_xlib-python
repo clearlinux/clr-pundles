@@ -1,0 +1,8 @@
+# [TITLE]: pypi-python_xlib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_xlib-python3)
+pypi-python_xlib-python

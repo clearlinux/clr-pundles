@@ -1,0 +1,12 @@
+# [TITLE]: enchant-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(enchant-data)
+include(enchant-lib)
+include(enchant-license)
+include(glib-lib)
+include(libc6)
+enchant-bin

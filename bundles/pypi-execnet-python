@@ -1,0 +1,8 @@
+# [TITLE]: pypi-execnet-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-execnet-python3)
+pypi-execnet-python

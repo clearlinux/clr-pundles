@@ -1,0 +1,11 @@
+# [TITLE]: xxHash
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xxHash-bin)
+include(xxHash-lib)
+include(xxHash-license)
+include(xxHash-man)
+xxHash

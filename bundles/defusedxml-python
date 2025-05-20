@@ -1,0 +1,8 @@
+# [TITLE]: defusedxml-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(defusedxml-python3)
+defusedxml-python

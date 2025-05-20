@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tinycss2-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tinycss2-python3)
+pypi-tinycss2-python

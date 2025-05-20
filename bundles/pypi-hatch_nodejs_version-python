@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hatch_nodejs_version-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hatch_nodejs_version-python3)
+pypi-hatch_nodejs_version-python

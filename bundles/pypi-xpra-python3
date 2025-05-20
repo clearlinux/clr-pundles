@@ -1,0 +1,28 @@
+# [TITLE]: pypi-xpra-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(brotli-lib)
+include(cairo-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libXres-lib)
+include(libXtst-lib)
+include(libc6)
+include(libdrm-lib)
+include(libjpeg-turbo-lib)
+include(libvpx-lib)
+include(libwebp-lib)
+include(libxkbfile-lib)
+include(lz4-lib)
+include(pygobject-python3)
+include(pypi-pillow-python3)
+include(python3-core)
+include(systemd-extras-libsystemd)
+include(wayland-lib)
+include(xxHash-lib)
+pypi-xpra-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-resolvelib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-resolvelib-license)
+include(pypi-resolvelib-python)
+include(pypi-resolvelib-python3)
+pypi-resolvelib

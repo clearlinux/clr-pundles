@@ -1,0 +1,8 @@
+# [TITLE]: pypi-routes-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-routes-python3)
+pypi-routes-python

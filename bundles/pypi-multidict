@@ -1,0 +1,10 @@
+# [TITLE]: pypi-multidict
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-multidict-license)
+include(pypi-multidict-python)
+include(pypi-multidict-python3)
+pypi-multidict

@@ -1,0 +1,9 @@
+# [TITLE]: pytorch-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pytorch)
+include(pytorch-bin)
+pytorch-dev

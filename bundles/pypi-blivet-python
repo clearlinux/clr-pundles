@@ -1,0 +1,8 @@
+# [TITLE]: pypi-blivet-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-blivet-python3)
+pypi-blivet-python

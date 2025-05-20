@@ -1,0 +1,11 @@
+# [TITLE]: pypi-websockets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-websockets-bin)
+include(pypi-websockets-license)
+include(pypi-websockets-python)
+include(pypi-websockets-python3)
+pypi-websockets

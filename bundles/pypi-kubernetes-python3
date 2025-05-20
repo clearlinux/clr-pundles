@@ -1,0 +1,19 @@
+# [TITLE]: pypi-kubernetes-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-certifi-python3)
+include(pypi-durationpy-python3)
+include(pypi-google_auth-python3)
+include(pypi-oauthlib-python3)
+include(pypi-python_dateutil-python3)
+include(pypi-requests-python3)
+include(pypi-requests_oauthlib-python3)
+include(pypi-six-python3)
+include(pypi-urllib3-python3)
+include(pypi-websocket_client-python3)
+include(python3-core)
+pypi-kubernetes-python3

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-debugpy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-debugpy-bin)
+include(pypi-debugpy-license)
+include(pypi-debugpy-python)
+include(pypi-debugpy-python3)
+pypi-debugpy

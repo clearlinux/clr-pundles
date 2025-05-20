@@ -1,0 +1,14 @@
+# [TITLE]: gst-plugins-bad-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gst-plugins-bad-data)
+include(gst-plugins-bad-lib)
+include(gst-plugins-bad-license)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(libc6)
+gst-plugins-bad-bin

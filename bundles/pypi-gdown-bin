@@ -1,0 +1,9 @@
+# [TITLE]: pypi-gdown-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gdown-license)
+include(python3-core)
+pypi-gdown-bin

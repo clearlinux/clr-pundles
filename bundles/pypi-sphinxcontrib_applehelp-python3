@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_applehelp-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-sphinxcontrib_applehelp-python3

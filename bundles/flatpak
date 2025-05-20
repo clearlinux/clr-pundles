@@ -17,7 +17,7 @@ include(audio-pipewire)
 flatpak-builder
 include(git)
 include(libstdcpp)
-librsvg
+include(librsvg)
 include(gnupg)
 # end of custom additions
 

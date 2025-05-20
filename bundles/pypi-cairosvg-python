@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cairosvg-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cairosvg-python3)
+pypi-cairosvg-python

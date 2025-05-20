@@ -1,0 +1,10 @@
+# [TITLE]: pypi-voluptuous_serialize
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-voluptuous_serialize-license)
+include(pypi-voluptuous_serialize-python)
+include(pypi-voluptuous_serialize-python3)
+pypi-voluptuous_serialize

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-paste
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-paste-license)
+include(pypi-paste-python)
+include(pypi-paste-python3)
+pypi-paste

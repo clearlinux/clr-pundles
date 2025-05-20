@@ -15,7 +15,7 @@ appstream
 include(FreeRDP)
 include(Remmina)
 include(gstreamer)
-gst-plugins-base
+include(gst-plugins-base)
 gst-plugins-good
 # end of custom additions
 

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-tox-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tox-license)
+include(python3-core)
+pypi-tox-bin

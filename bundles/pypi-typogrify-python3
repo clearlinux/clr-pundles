@@ -1,0 +1,9 @@
+# [TITLE]: pypi-typogrify-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-smartypants-python3)
+include(python3-core)
+pypi-typogrify-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-libevdev-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-libevdev-python3)
+pypi-libevdev-python

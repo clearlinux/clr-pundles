@@ -1,0 +1,8 @@
+# [TITLE]: pypi-booleanoperations-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-booleanoperations-python3)
+pypi-booleanoperations-python

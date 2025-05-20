@@ -1,0 +1,8 @@
+# [TITLE]: pypi-gssapi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gssapi-python3)
+pypi-gssapi-python

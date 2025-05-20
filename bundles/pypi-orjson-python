@@ -1,0 +1,8 @@
+# [TITLE]: pypi-orjson-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-orjson-python3)
+pypi-orjson-python

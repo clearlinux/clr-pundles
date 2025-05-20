@@ -1,0 +1,10 @@
+# [TITLE]: pypi-folium
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-folium-license)
+include(pypi-folium-python)
+include(pypi-folium-python3)
+pypi-folium

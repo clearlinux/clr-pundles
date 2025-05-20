@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jupyter_events
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_events-bin)
+include(pypi-jupyter_events-license)
+include(pypi-jupyter_events-python)
+include(pypi-jupyter_events-python3)
+pypi-jupyter_events

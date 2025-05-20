@@ -1,0 +1,15 @@
+# [TITLE]: pandas-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pypi-numpy-python3)
+include(pypi-python_dateutil-python3)
+include(pypi-pytz-python3)
+include(pypi-tzdata-python3)
+include(python3-core)
+pandas-python3

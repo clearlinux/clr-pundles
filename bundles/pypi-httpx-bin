@@ -1,0 +1,9 @@
+# [TITLE]: pypi-httpx-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-httpx-license)
+include(python3-core)
+pypi-httpx-bin

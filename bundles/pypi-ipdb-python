@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ipdb-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipdb-python3)
+pypi-ipdb-python

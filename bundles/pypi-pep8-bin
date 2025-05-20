@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pep8-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-pep8-bin

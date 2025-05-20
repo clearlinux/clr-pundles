@@ -1,0 +1,13 @@
+# [TITLE]: pypi-sphinx_theme_builder-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nodeenv-python3)
+include(pypi-packaging-python3)
+include(pypi-pyproject_metadata-python3)
+include(pypi-rich-python3)
+include(pypi-setuptools-python3)
+include(python3-core)
+pypi-sphinx_theme_builder-python3

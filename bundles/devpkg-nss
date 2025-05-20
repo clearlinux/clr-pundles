@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-nss-dev
+include(nss-dev)
 include(lib-openssl)

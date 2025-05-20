@@ -1,0 +1,9 @@
+# [TITLE]: rustc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rustc-data)
+include(rustc-license)
+rustc-lib

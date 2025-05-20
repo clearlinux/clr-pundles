@@ -1,0 +1,8 @@
+# [TITLE]: pypi-plotly-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-plotly-python3)
+pypi-plotly-python

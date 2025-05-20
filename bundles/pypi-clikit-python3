@@ -1,0 +1,11 @@
+# [TITLE]: pypi-clikit-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-crashtest-python3)
+include(pypi-pastel-python3)
+include(pypi-pylev-python3)
+include(python3-core)
+pypi-clikit-python3

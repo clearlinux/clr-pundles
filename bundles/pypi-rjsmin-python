@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rjsmin-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rjsmin-python3)
+pypi-rjsmin-python

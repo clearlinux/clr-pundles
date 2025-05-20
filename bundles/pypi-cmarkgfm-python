@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cmarkgfm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cmarkgfm-python3)
+pypi-cmarkgfm-python

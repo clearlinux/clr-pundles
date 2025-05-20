@@ -1,0 +1,10 @@
+# [TITLE]: pypi-lxml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lxml-license)
+include(pypi-lxml-python)
+include(pypi-lxml-python3)
+pypi-lxml

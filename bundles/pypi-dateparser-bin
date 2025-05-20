@@ -1,0 +1,9 @@
+# [TITLE]: pypi-dateparser-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dateparser-license)
+include(python3-core)
+pypi-dateparser-bin

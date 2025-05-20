@@ -1,0 +1,8 @@
+# [TITLE]: pypi-gdown-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gdown-python3)
+pypi-gdown-python

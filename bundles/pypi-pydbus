@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pydbus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydbus-license)
+include(pypi-pydbus-python)
+include(pypi-pydbus-python3)
+pypi-pydbus

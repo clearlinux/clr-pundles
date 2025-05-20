@@ -1,0 +1,8 @@
+# [TITLE]: fonttools-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fonttools-python3)
+fonttools-python

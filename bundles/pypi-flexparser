@@ -1,0 +1,10 @@
+# [TITLE]: pypi-flexparser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flexparser-license)
+include(pypi-flexparser-python)
+include(pypi-flexparser-python3)
+pypi-flexparser

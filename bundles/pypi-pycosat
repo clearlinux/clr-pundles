@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pycosat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycosat-license)
+include(pypi-pycosat-python)
+include(pypi-pycosat-python3)
+pypi-pycosat

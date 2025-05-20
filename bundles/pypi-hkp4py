@@ -1,0 +1,9 @@
+# [TITLE]: pypi-hkp4py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hkp4py-python)
+include(pypi-hkp4py-python3)
+pypi-hkp4py

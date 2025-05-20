@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pytest_sugar-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-packaging-python3)
+include(pypi-pytest-python3)
+include(pypi-termcolor-python3)
+include(python3-core)
+pypi-pytest_sugar-python3

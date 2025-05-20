@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pysaml2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pysaml2-bin)
+include(pypi-pysaml2-license)
+include(pypi-pysaml2-python)
+include(pypi-pysaml2-python3)
+pypi-pysaml2

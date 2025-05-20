@@ -1,0 +1,8 @@
+# [TITLE]: pypi-configparser-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-configparser-python3)
+pypi-configparser-python

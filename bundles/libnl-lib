@@ -1,0 +1,11 @@
+# [TITLE]: libnl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libnl-data)
+include(libnl-license)
+libnl-lib

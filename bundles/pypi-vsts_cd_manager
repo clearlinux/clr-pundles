@@ -1,0 +1,9 @@
+# [TITLE]: pypi-vsts_cd_manager
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-vsts_cd_manager-python)
+include(pypi-vsts_cd_manager-python3)
+pypi-vsts_cd_manager

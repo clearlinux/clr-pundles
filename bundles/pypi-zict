@@ -1,0 +1,11 @@
+# [TITLE]: pypi-zict
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-heapdict-python3)
+include(pypi-zict-license)
+include(pypi-zict-python)
+include(pypi-zict-python3)
+pypi-zict

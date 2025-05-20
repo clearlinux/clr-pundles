@@ -1,0 +1,16 @@
+# [TITLE]: gspell-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(enchant-dev)
+include(glib-dev)
+include(gspell)
+include(gspell-bin)
+include(gspell-data)
+include(gspell-lib)
+include(gtk3-dev)
+include(icu4c-dev)
+include(pkg-config-bin)
+gspell-dev

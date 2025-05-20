@@ -1,0 +1,8 @@
+# [TITLE]: pypi-testpath-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-testpath-python3)
+pypi-testpath-python

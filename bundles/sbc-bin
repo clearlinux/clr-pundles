@@ -1,0 +1,9 @@
+# [TITLE]: sbc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(sbc-license)
+sbc-bin

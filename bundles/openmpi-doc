@@ -1,0 +1,8 @@
+# [TITLE]: openmpi-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openmpi-man)
+openmpi-doc

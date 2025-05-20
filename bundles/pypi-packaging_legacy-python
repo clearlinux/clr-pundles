@@ -1,0 +1,8 @@
+# [TITLE]: pypi-packaging_legacy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-packaging_legacy-python3)
+pypi-packaging_legacy-python

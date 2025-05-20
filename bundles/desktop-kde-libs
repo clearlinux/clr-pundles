@@ -27,7 +27,7 @@ kirigami2-lib
 kpackage-lib
 kquickcharts-lib
 include(libassuan-lib)
-libxslt-lib
+include(libxslt-lib)
 phonon-lib
 qt6webengine
 tdb-lib

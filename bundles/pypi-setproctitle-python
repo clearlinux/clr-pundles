@@ -1,0 +1,8 @@
+# [TITLE]: pypi-setproctitle-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setproctitle-python3)
+pypi-setproctitle-python

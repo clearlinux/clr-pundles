@@ -1,0 +1,14 @@
+# [TITLE]: pypi-pygithub-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deprecated-python3)
+include(pypi-pyjwt-python3)
+include(pypi-pynacl-python3)
+include(pypi-requests-python3)
+include(pypi-typing_extensions-python3)
+include(pypi-urllib3-python3)
+include(python3-core)
+pypi-pygithub-python3

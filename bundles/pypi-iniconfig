@@ -1,0 +1,10 @@
+# [TITLE]: pypi-iniconfig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-iniconfig-license)
+include(pypi-iniconfig-python)
+include(pypi-iniconfig-python3)
+pypi-iniconfig

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-mkdocs_exclude-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs_exclude-python3)
+pypi-mkdocs_exclude-python

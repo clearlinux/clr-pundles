@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dj_database_url-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dj_database_url-python3)
+pypi-dj_database_url-python

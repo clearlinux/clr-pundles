@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyspnego
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyspnego-bin)
+include(pypi-pyspnego-license)
+include(pypi-pyspnego-python)
+include(pypi-pyspnego-python3)
+pypi-pyspnego

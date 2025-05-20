@@ -1,0 +1,36 @@
+# [TITLE]: wxWidgets-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(curl-lib)
+include(expat-lib)
+include(fontconfig-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gspell-lib)
+include(gst-plugins-bad-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libnotify-lib)
+include(libpng-lib)
+include(libsecret-lib)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(pcre2-lib)
+include(tiff-lib)
+include(wayland-lib)
+include(webkitgtk-lib)
+include(wxWidgets-data)
+include(wxWidgets-license)
+include(zlib-lib)
+wxWidgets-lib

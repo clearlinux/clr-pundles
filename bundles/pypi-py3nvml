@@ -1,0 +1,11 @@
+# [TITLE]: pypi-py3nvml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-py3nvml-bin)
+include(pypi-py3nvml-license)
+include(pypi-py3nvml-python)
+include(pypi-py3nvml-python3)
+pypi-py3nvml

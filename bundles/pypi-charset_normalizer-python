@@ -1,0 +1,8 @@
+# [TITLE]: pypi-charset_normalizer-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-charset_normalizer-python3)
+pypi-charset_normalizer-python

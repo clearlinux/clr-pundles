@@ -1,0 +1,20 @@
+# [TITLE]: pypi-controlnet_aux-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opencv-python3)
+include(pypi-einops-python3)
+include(pypi-filelock-python3)
+include(pypi-huggingface_hub-python3)
+include(pypi-importlib_metadata-python3)
+include(pypi-numpy-python3)
+include(pypi-pillow-python3)
+include(pypi-scikit_image-python3)
+include(pypi-timm-python3)
+include(pypi-torchvision-python3)
+include(python3-core)
+include(pytorch-python3)
+include(scipy-python3)
+pypi-controlnet_aux-python3

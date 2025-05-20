@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rope
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rope-license)
+include(pypi-rope-python)
+include(pypi-rope-python3)
+pypi-rope

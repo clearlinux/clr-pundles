@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ptyprocess
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ptyprocess-license)
+include(pypi-ptyprocess-python)
+include(pypi-ptyprocess-python3)
+pypi-ptyprocess

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-volatile
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-volatile-python)
+include(pypi-volatile-python3)
+pypi-volatile

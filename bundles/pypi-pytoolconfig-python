@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytoolconfig-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytoolconfig-python3)
+pypi-pytoolconfig-python

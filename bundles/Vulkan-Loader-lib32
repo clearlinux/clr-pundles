@@ -1,0 +1,9 @@
+# [TITLE]: Vulkan-Loader-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-license)
+include(glibc-libc32)
+Vulkan-Loader-lib32

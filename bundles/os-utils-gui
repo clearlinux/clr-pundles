@@ -40,7 +40,7 @@ garcon
 include(gdk-pixbuf)
 also-add(geany)
 geany-plugins
-glib-networking-lib
+include(glib-networking-lib)
 gnome-icon-theme
 gnome-themes-extra
 include(gsettings-desktop-schemas)
@@ -53,9 +53,9 @@ iceauth
 intel-gmmlib
 intel-hybrid-driver
 intel-media-driver
-libnotify-bin
-librsvg
-libva
+include(libnotify-bin)
+include(librsvg)
+include(libva)
 libva-intel-driver
 include(linux-firmware-extras)
 include(linux-firmware-wifi)

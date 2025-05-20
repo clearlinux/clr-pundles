@@ -1,0 +1,9 @@
+# [TITLE]: pypi-tqdm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tqdm-license)
+include(python3-core)
+pypi-tqdm-bin

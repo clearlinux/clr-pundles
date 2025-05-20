@@ -1,0 +1,10 @@
+# [TITLE]: hunspell-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hunspell)
+include(hunspell-bin)
+include(hunspell-lib)
+hunspell-dev

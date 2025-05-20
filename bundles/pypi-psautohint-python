@@ -1,0 +1,8 @@
+# [TITLE]: pypi-psautohint-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-psautohint-python3)
+pypi-psautohint-python

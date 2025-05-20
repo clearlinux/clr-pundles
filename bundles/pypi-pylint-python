@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pylint-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pylint-python3)
+pypi-pylint-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rjsmin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rjsmin-license)
+include(pypi-rjsmin-python)
+include(pypi-rjsmin-python3)
+pypi-rjsmin

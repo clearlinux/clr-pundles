@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-opus-dev
+include(opus-dev)

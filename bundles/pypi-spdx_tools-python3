@@ -1,0 +1,17 @@
+# [TITLE]: pypi-spdx_tools-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-beartype-python3)
+include(pypi-click-python3)
+include(pypi-license_expression-python3)
+include(pypi-ply-python3)
+include(pypi-rdflib-python3)
+include(pypi-semantic_version-python3)
+include(pypi-uritools-python3)
+include(pypi-xmltodict-python3)
+include(python3-core)
+pypi-spdx_tools-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-fastimport-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fastimport-python3)
+pypi-fastimport-python

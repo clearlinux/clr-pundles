@@ -1,0 +1,14 @@
+# [TITLE]: pypi-sphinx_autobuild-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-colorama-python3)
+include(pypi-sphinx-python3)
+include(pypi-starlette-python3)
+include(pypi-uvicorn-python3)
+include(pypi-watchfiles-python3)
+include(pypi-websockets-python3)
+include(python3-core)
+pypi-sphinx_autobuild-python3

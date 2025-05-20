@@ -1,0 +1,10 @@
+# [TITLE]: pypi-persistent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-persistent-license)
+include(pypi-persistent-python)
+include(pypi-persistent-python3)
+pypi-persistent

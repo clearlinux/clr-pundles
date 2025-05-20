@@ -1,0 +1,11 @@
+# [TITLE]: mtdev-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mtdev-bin)
+include(mtdev-dev)
+include(mtdev-lib32)
+include(pkg-config-bin)
+mtdev-dev32

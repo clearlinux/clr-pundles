@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-woff2-dev
+include(woff2-dev)
 include(libstdcpp)

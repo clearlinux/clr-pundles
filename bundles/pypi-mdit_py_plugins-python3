@@ -1,0 +1,9 @@
+# [TITLE]: pypi-mdit_py_plugins-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-markdown_it_py-python3)
+include(python3-core)
+pypi-mdit_py_plugins-python3

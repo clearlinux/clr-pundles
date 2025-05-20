@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinx_rtd_theme-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_rtd_theme-python3)
+pypi-sphinx_rtd_theme-python

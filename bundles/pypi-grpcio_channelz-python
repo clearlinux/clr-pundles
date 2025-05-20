@@ -1,0 +1,8 @@
+# [TITLE]: pypi-grpcio_channelz-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-grpcio_channelz-python3)
+pypi-grpcio_channelz-python

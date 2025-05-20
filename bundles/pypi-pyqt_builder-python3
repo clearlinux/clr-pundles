@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyqt_builder-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-packaging-python3)
+include(python3-core)
+include(sip-python3)
+pypi-pyqt_builder-python3

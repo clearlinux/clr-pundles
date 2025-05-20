@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jupyter_server_terminals
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_server_terminals-license)
+include(pypi-jupyter_server_terminals-python)
+include(pypi-jupyter_server_terminals-python3)
+pypi-jupyter_server_terminals

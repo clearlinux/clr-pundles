@@ -1,0 +1,8 @@
+# [TITLE]: pypi-shapely-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-shapely-python3)
+pypi-shapely-python

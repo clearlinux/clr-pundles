@@ -1,0 +1,9 @@
+# [TITLE]: pypi-lazy_object_proxy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lazy_object_proxy-python)
+include(pypi-lazy_object_proxy-python3)
+pypi-lazy_object_proxy

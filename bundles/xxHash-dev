@@ -1,0 +1,11 @@
+# [TITLE]: xxHash-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xxHash)
+include(xxHash-bin)
+include(xxHash-lib)
+xxHash-dev

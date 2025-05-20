@@ -1,0 +1,10 @@
+# [TITLE]: pypi-stack_data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-stack_data-license)
+include(pypi-stack_data-python)
+include(pypi-stack_data-python3)
+pypi-stack_data

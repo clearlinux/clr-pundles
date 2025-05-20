@@ -10,4 +10,4 @@ include(libstdcpp)
 include(binutils)
 include(c-basic)
 
-rustc
+include(rustc)

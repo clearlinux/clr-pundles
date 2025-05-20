@@ -1,0 +1,8 @@
+# [TITLE]: pypi-msrestazure-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-msrestazure-python3)
+pypi-msrestazure-python

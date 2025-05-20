@@ -1,0 +1,9 @@
+# [TITLE]: pypi-sqlparse-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sqlparse-license)
+include(python3-core)
+pypi-sqlparse-bin

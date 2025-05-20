@@ -1,0 +1,11 @@
+# [TITLE]: pypi-envs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-envs-bin)
+include(pypi-envs-license)
+include(pypi-envs-python)
+include(pypi-envs-python3)
+pypi-envs

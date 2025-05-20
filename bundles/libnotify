@@ -1,0 +1,12 @@
+# [TITLE]: libnotify
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnotify-bin)
+include(libnotify-data)
+include(libnotify-lib)
+include(libnotify-license)
+include(libnotify-man)
+libnotify

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jmespath-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jmespath-python3)
+pypi-jmespath-python

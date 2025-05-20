@@ -1,0 +1,10 @@
+# [TITLE]: pypi-aiofiles
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiofiles-license)
+include(pypi-aiofiles-python)
+include(pypi-aiofiles-python3)
+pypi-aiofiles

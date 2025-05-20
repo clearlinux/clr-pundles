@@ -1,0 +1,9 @@
+# [TITLE]: pypi-jupyter_console-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_console-license)
+include(python3-core)
+pypi-jupyter_console-bin

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-itsdangerous-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-itsdangerous-python3)
+pypi-itsdangerous-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-kiwisolver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-kiwisolver-license)
+include(pypi-kiwisolver-python)
+include(pypi-kiwisolver-python3)
+pypi-kiwisolver

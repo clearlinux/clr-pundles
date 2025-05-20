@@ -1,0 +1,10 @@
+# [TITLE]: pypi-dnspython
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dnspython-license)
+include(pypi-dnspython-python)
+include(pypi-dnspython-python3)
+pypi-dnspython

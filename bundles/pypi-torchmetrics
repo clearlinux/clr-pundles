@@ -1,0 +1,10 @@
+# [TITLE]: pypi-torchmetrics
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-torchmetrics-license)
+include(pypi-torchmetrics-python)
+include(pypi-torchmetrics-python3)
+pypi-torchmetrics

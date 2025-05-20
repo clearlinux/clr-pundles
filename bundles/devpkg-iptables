@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-iptables-dev
+include(iptables-dev)
 include(iptables)

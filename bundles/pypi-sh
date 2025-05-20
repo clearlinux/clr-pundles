@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sh-license)
+include(pypi-sh-python)
+include(pypi-sh-python3)
+pypi-sh

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyro4-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-serpent-python3)
+include(python3-core)
+pypi-pyro4-python3

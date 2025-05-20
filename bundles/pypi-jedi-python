@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jedi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jedi-python3)
+pypi-jedi-python

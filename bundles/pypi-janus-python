@@ -1,0 +1,8 @@
+# [TITLE]: pypi-janus-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-janus-python3)
+pypi-janus-python

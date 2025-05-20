@@ -1,0 +1,10 @@
+# [TITLE]: libogg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libogg)
+include(libogg-lib)
+include(pkg-config-bin)
+libogg-dev

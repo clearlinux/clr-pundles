@@ -1,0 +1,8 @@
+# [TITLE]: pypi-flit-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flit-python3)
+pypi-flit-python

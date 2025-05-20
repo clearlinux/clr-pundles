@@ -1,0 +1,8 @@
+# [TITLE]: pypi-fairscale-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fairscale-python3)
+pypi-fairscale-python

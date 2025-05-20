@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pkgutil_resolve_name-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-pkgutil_resolve_name-python3

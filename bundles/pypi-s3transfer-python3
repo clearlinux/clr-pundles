@@ -1,0 +1,9 @@
+# [TITLE]: pypi-s3transfer-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(botocore-python3)
+include(python3-core)
+pypi-s3transfer-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-strictyaml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-strictyaml-license)
+include(pypi-strictyaml-python)
+include(pypi-strictyaml-python3)
+pypi-strictyaml

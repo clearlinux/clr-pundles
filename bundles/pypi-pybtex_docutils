@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pybtex_docutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pybtex_docutils-license)
+include(pypi-pybtex_docutils-python)
+include(pypi-pybtex_docutils-python3)
+pypi-pybtex_docutils

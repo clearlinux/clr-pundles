@@ -1,0 +1,12 @@
+# [TITLE]: libsoup
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-networking)
+include(libsoup-data)
+include(libsoup-lib)
+include(libsoup-license)
+include(libsoup-locales)
+libsoup

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ufolib2-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ufolib2-python3)
+pypi-ufolib2-python

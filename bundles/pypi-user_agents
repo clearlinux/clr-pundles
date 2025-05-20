@@ -1,0 +1,10 @@
+# [TITLE]: pypi-user_agents
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-user_agents-license)
+include(pypi-user_agents-python)
+include(pypi-user_agents-python3)
+pypi-user_agents

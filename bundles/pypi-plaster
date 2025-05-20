@@ -1,0 +1,10 @@
+# [TITLE]: pypi-plaster
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-plaster-license)
+include(pypi-plaster-python)
+include(pypi-plaster-python3)
+pypi-plaster

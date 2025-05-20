@@ -1,0 +1,15 @@
+# [TITLE]: webkitgtk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk3-dev)
+include(libsoup-dev)
+include(pkg-config-bin)
+include(webkitgtk)
+include(webkitgtk-data)
+include(webkitgtk-dev)
+include(webkitgtk-lib)
+webkitgtk-dev

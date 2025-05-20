@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pkgutil_resolve_name-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pkgutil_resolve_name-python3)
+pypi-pkgutil_resolve_name-python

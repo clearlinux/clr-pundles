@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zabbix_api-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-zabbix_api-python3

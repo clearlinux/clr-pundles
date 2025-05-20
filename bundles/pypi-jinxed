@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jinxed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jinxed-license)
+include(pypi-jinxed-python)
+include(pypi-jinxed-python3)
+pypi-jinxed

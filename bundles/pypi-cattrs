@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cattrs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cattrs-license)
+include(pypi-cattrs-python)
+include(pypi-cattrs-python3)
+pypi-cattrs

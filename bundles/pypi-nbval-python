@@ -1,0 +1,8 @@
+# [TITLE]: pypi-nbval-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nbval-python3)
+pypi-nbval-python

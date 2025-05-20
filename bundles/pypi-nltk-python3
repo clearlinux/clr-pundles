@@ -1,0 +1,12 @@
+# [TITLE]: pypi-nltk-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-click-python3)
+include(pypi-joblib-python3)
+include(pypi-regex-python3)
+include(pypi-tqdm-python3)
+include(python3-core)
+pypi-nltk-python3

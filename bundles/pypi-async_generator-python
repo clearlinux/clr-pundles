@@ -1,0 +1,8 @@
+# [TITLE]: pypi-async_generator-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-async_generator-python3)
+pypi-async_generator-python

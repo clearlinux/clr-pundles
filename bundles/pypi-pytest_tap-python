@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytest_tap-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_tap-python3)
+pypi-pytest_tap-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-psutil
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-psutil-license)
+include(pypi-psutil-python)
+include(pypi-psutil-python3)
+pypi-psutil

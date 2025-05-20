@@ -1,0 +1,10 @@
+# [TITLE]: pypi-krb5-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krb5-lib)
+include(libc6)
+include(python3-core)
+pypi-krb5-python3

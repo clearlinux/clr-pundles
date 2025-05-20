@@ -1,0 +1,8 @@
+# [TITLE]: pypi-babel-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-babel-python3)
+pypi-babel-python

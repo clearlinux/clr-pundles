@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyu2f
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyu2f-license)
+include(pypi-pyu2f-python)
+include(pypi-pyu2f-python3)
+pypi-pyu2f

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-immutables
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-immutables-license)
+include(pypi-immutables-python)
+include(pypi-immutables-python3)
+pypi-immutables

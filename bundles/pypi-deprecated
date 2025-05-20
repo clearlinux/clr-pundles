@@ -1,0 +1,10 @@
+# [TITLE]: pypi-deprecated
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deprecated-license)
+include(pypi-deprecated-python)
+include(pypi-deprecated-python3)
+pypi-deprecated

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-dask-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dask-license)
+include(python3-core)
+pypi-dask-bin

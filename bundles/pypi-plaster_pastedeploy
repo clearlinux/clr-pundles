@@ -1,0 +1,10 @@
+# [TITLE]: pypi-plaster_pastedeploy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-plaster_pastedeploy-license)
+include(pypi-plaster_pastedeploy-python)
+include(pypi-plaster_pastedeploy-python3)
+pypi-plaster_pastedeploy

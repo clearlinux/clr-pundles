@@ -1,0 +1,12 @@
+# [TITLE]: pypi-b4-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dkimpy-python3)
+include(pypi-git_filter_repo-python3)
+include(pypi-patatt-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-b4-python3

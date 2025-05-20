@@ -1,0 +1,10 @@
+# [TITLE]: pypi-geventhttpclient
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-geventhttpclient-license)
+include(pypi-geventhttpclient-python)
+include(pypi-geventhttpclient-python3)
+pypi-geventhttpclient

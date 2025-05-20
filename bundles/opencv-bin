@@ -1,0 +1,14 @@
+# [TITLE]: opencv-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(opencv-data)
+include(opencv-lib)
+include(opencv-license)
+opencv-bin

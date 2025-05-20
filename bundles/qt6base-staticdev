@@ -1,0 +1,8 @@
+# [TITLE]: qt6base-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6base-dev)
+qt6base-staticdev

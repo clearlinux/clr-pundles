@@ -1,0 +1,13 @@
+# [TITLE]: pypi-traitlets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-decorator-python3)
+include(pypi-ipython_genutils-python3)
+include(pypi-six-python3)
+include(pypi-traitlets-license)
+include(pypi-traitlets-python)
+include(pypi-traitlets-python3)
+pypi-traitlets

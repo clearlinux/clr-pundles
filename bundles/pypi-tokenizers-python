@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tokenizers-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tokenizers-python3)
+pypi-tokenizers-python

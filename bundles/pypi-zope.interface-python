@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zope.interface-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.interface-python3)
+pypi-zope.interface-python

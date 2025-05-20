@@ -1,0 +1,10 @@
+# [TITLE]: pypi-matplotlib_inline-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-matplotlib-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-matplotlib_inline-python3

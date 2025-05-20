@@ -1,0 +1,8 @@
+# [TITLE]: pypi-twine-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-twine-python3)
+pypi-twine-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-invoke-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-invoke-python3)
+pypi-invoke-python

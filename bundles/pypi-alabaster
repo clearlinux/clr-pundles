@@ -1,0 +1,10 @@
+# [TITLE]: pypi-alabaster
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-alabaster-license)
+include(pypi-alabaster-python)
+include(pypi-alabaster-python3)
+pypi-alabaster

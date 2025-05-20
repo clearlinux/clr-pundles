@@ -1,0 +1,17 @@
+# [TITLE]: iptables-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(iptables-data)
+include(iptables-extras)
+include(iptables-lib)
+include(iptables-license)
+include(iptables-services)
+include(libc6)
+include(libmnl-lib)
+include(libnfnetlink-lib)
+include(libnftnl-lib)
+iptables-bin

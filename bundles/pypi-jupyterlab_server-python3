@@ -1,0 +1,15 @@
+# [TITLE]: pypi-jupyterlab_server-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-babel-python3)
+include(pypi-jinja2-python3)
+include(pypi-json5-python3)
+include(pypi-jsonschema-python3)
+include(pypi-jupyter_server-python3)
+include(pypi-packaging-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-jupyterlab_server-python3

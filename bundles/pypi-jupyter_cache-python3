@@ -1,0 +1,16 @@
+# [TITLE]: pypi-jupyter_cache-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-attrs-python3)
+include(pypi-click-python3)
+include(pypi-importlib_metadata-python3)
+include(pypi-nbclient-python3)
+include(pypi-nbformat-python3)
+include(pypi-sqlalchemy-python3)
+include(pypi-tabulate-python3)
+include(python3-core)
+pypi-jupyter_cache-python3

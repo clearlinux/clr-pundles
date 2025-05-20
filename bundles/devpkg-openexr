@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-openexr-dev
+include(openexr-dev)
 include(libstdcpp)

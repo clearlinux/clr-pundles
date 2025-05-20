@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_programoutput-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_programoutput-python3)
+pypi-sphinxcontrib_programoutput-python

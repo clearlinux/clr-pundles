@@ -1,0 +1,10 @@
+# [TITLE]: pypi-openstep_plist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-openstep_plist-license)
+include(pypi-openstep_plist-python)
+include(pypi-openstep_plist-python3)
+pypi-openstep_plist

@@ -10,7 +10,7 @@ include(perl-basic)
 createrepo_c
 also-add(dnf)
 mock
-pypi-gitpython
+include(pypi-gitpython)
 rpm
 rpm-extras
 include(curl)

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxext_opengraph
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxext_opengraph-license)
+include(pypi-sphinxext_opengraph-python)
+include(pypi-sphinxext_opengraph-python3)
+pypi-sphinxext_opengraph

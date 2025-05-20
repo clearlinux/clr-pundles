@@ -1,0 +1,8 @@
+# [TITLE]: pypi-types_python_dateutil-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_python_dateutil-python3)
+pypi-types_python_dateutil-python

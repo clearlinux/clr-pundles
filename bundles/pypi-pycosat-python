@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pycosat-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycosat-python3)
+pypi-pycosat-python

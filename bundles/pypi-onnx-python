@@ -1,0 +1,8 @@
+# [TITLE]: pypi-onnx-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-onnx-python3)
+pypi-onnx-python

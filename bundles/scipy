@@ -1,0 +1,10 @@
+# [TITLE]: scipy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(scipy-license)
+include(scipy-python)
+include(scipy-python3)
+scipy

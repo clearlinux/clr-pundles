@@ -1,0 +1,8 @@
+# [TITLE]: pypi-alabaster-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-alabaster-python3)
+pypi-alabaster-python

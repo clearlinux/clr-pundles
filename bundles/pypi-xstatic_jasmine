@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xstatic_jasmine
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic_jasmine-python)
+include(pypi-xstatic_jasmine-python3)
+pypi-xstatic_jasmine

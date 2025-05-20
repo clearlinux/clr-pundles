@@ -1,0 +1,10 @@
+# [TITLE]: pypi-warlock-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonpatch-python3)
+include(pypi-jsonschema-python3)
+include(python3-core)
+pypi-warlock-python3

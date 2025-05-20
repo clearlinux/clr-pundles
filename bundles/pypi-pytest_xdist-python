@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytest_xdist-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_xdist-python3)
+pypi-pytest_xdist-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-awscrt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-awscrt-python3)
+pypi-awscrt-python

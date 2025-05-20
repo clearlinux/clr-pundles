@@ -1,0 +1,11 @@
+# [TITLE]: pypi-certifi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ca-certs)
+include(pypi-certifi-license)
+include(pypi-certifi-python)
+include(pypi-certifi-python3)
+pypi-certifi

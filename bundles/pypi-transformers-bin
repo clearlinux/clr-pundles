@@ -1,0 +1,9 @@
+# [TITLE]: pypi-transformers-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-transformers-license)
+include(python3-core)
+pypi-transformers-bin

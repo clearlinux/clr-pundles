@@ -1,0 +1,10 @@
+# [TITLE]: dbus-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-python-license)
+include(dbus-python-python)
+include(dbus-python-python3)
+dbus-python

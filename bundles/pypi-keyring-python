@@ -1,0 +1,8 @@
+# [TITLE]: pypi-keyring-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-keyring-python3)
+pypi-keyring-python

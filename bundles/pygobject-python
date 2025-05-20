@@ -1,0 +1,8 @@
+# [TITLE]: pygobject-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pygobject-python3)
+pygobject-python

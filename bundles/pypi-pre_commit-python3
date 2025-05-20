@@ -1,0 +1,14 @@
+# [TITLE]: pypi-pre_commit-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(coreutils-bin)
+include(pypi-cfgv-python3)
+include(pypi-identify-python3)
+include(pypi-nodeenv-python3)
+include(pypi-virtualenv-python3)
+include(python3-core)
+pypi-pre_commit-python3

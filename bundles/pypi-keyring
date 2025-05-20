@@ -1,0 +1,12 @@
+# [TITLE]: pypi-keyring
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-keyring-bin)
+include(pypi-keyring-license)
+include(pypi-keyring-python)
+include(pypi-keyring-python3)
+include(pypi-secretstorage-python3)
+pypi-keyring

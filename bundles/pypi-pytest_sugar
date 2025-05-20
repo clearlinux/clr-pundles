@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pytest_sugar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_sugar-license)
+include(pypi-pytest_sugar-python)
+include(pypi-pytest_sugar-python3)
+pypi-pytest_sugar

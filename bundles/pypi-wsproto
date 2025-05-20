@@ -1,0 +1,10 @@
+# [TITLE]: pypi-wsproto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wsproto-license)
+include(pypi-wsproto-python)
+include(pypi-wsproto-python3)
+pypi-wsproto

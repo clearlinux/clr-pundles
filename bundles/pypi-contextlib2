@@ -1,0 +1,10 @@
+# [TITLE]: pypi-contextlib2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-contextlib2-license)
+include(pypi-contextlib2-python)
+include(pypi-contextlib2-python3)
+pypi-contextlib2

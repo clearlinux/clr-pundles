@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pep621-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pep621-python3)
+pypi-pep621-python

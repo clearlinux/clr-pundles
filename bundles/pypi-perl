@@ -1,0 +1,10 @@
+# [TITLE]: pypi-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-perl-license)
+include(pypi-perl-python)
+include(pypi-perl-python3)
+pypi-perl

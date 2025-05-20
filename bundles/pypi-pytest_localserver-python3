@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pytest_localserver-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-werkzeug-python3)
+include(python3-core)
+pypi-pytest_localserver-python3

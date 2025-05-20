@@ -1,0 +1,11 @@
+# [TITLE]: pypi-aiosmtpd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiosmtpd-bin)
+include(pypi-aiosmtpd-license)
+include(pypi-aiosmtpd-python)
+include(pypi-aiosmtpd-python3)
+pypi-aiosmtpd

@@ -1,0 +1,27 @@
+# [TITLE]: pypi-poetry-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-build-python3)
+include(pypi-cachecontrol-python3)
+include(pypi-cleo-python3)
+include(pypi-dulwich-python3)
+include(pypi-fastjsonschema-python3)
+include(pypi-html5lib)
+include(pypi-installer-python3)
+include(pypi-keyring-python3)
+include(pypi-packaging-python3)
+include(pypi-pkginfo-python3)
+include(pypi-platformdirs-python3)
+include(pypi-poetry_core-python3)
+include(pypi-pyproject_hooks-python3)
+include(pypi-requests-python3)
+include(pypi-requests_toolbelt-python3)
+include(pypi-shellingham-python3)
+include(pypi-tomlkit-python3)
+include(pypi-trove_classifiers-python3)
+include(pypi-virtualenv-python3)
+include(python3-core)
+pypi-poetry-python3

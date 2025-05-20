@@ -1,0 +1,10 @@
+# [TITLE]: pypi-bracex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bracex-license)
+include(pypi-bracex-python)
+include(pypi-bracex-python3)
+pypi-bracex

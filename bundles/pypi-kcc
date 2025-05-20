@@ -1,0 +1,10 @@
+# [TITLE]: pypi-kcc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-kcc-bin)
+include(pypi-kcc-python)
+include(pypi-kcc-python3)
+pypi-kcc

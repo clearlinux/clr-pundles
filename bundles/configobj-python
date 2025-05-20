@@ -1,0 +1,8 @@
+# [TITLE]: configobj-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(configobj-python3)
+configobj-python

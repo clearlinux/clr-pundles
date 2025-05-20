@@ -1,0 +1,8 @@
+# [TITLE]: libxslt-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxslt-man)
+libxslt-doc

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cxxfilt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cxxfilt-python3)
+pypi-cxxfilt-python

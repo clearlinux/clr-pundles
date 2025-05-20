@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rfc3986
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rfc3986-license)
+include(pypi-rfc3986-python)
+include(pypi-rfc3986-python3)
+pypi-rfc3986

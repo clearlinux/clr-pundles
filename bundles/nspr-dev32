@@ -1,0 +1,10 @@
+# [TITLE]: nspr-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nspr-dev)
+include(nspr-lib32)
+include(perl)
+nspr-dev32

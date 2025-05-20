@@ -1,0 +1,8 @@
+# [TITLE]: pypi-trove_classifiers-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-trove_classifiers-python3)
+pypi-trove_classifiers-python

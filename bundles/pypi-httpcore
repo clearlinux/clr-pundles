@@ -1,0 +1,10 @@
+# [TITLE]: pypi-httpcore
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-httpcore-license)
+include(pypi-httpcore-python)
+include(pypi-httpcore-python3)
+pypi-httpcore

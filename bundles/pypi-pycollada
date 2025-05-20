@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pycollada
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycollada-license)
+include(pypi-pycollada-python)
+include(pypi-pycollada-python3)
+pypi-pycollada

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-requests_file
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests_file-license)
+include(pypi-requests_file-python)
+include(pypi-requests_file-python3)
+pypi-requests_file

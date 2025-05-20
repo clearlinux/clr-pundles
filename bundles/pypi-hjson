@@ -1,0 +1,11 @@
+# [TITLE]: pypi-hjson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hjson-bin)
+include(pypi-hjson-license)
+include(pypi-hjson-python)
+include(pypi-hjson-python3)
+pypi-hjson

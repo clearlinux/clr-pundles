@@ -1,0 +1,10 @@
+# [TITLE]: pypi-flit_scm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flit_scm-license)
+include(pypi-flit_scm-python)
+include(pypi-flit_scm-python3)
+pypi-flit_scm

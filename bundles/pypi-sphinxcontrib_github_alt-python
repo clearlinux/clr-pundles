@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_github_alt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_github_alt-python3)
+pypi-sphinxcontrib_github_alt-python

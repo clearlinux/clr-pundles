@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pint
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pint-bin)
+include(pypi-pint-license)
+include(pypi-pint-python)
+include(pypi-pint-python3)
+pypi-pint

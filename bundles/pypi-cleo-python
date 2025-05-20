@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cleo-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cleo-python3)
+pypi-cleo-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-msrest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-msrest-python)
+include(pypi-msrest-python3)
+include(pypi-requests_oauthlib-python3)
+pypi-msrest

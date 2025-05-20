@@ -1,0 +1,8 @@
+# [TITLE]: pypi-uritemplate-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uritemplate-python3)
+pypi-uritemplate-python

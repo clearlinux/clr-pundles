@@ -1,0 +1,11 @@
+# [TITLE]: libassuan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libassuan-bin)
+include(libassuan-info)
+include(libassuan-lib)
+include(libassuan-license)
+libassuan

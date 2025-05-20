@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ijson-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ijson-python3)
+pypi-ijson-python

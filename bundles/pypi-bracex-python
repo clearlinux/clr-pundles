@@ -1,0 +1,8 @@
+# [TITLE]: pypi-bracex-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bracex-python3)
+pypi-bracex-python

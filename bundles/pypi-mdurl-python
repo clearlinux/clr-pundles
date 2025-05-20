@@ -1,0 +1,8 @@
+# [TITLE]: pypi-mdurl-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mdurl-python3)
+pypi-mdurl-python

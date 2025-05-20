@@ -1,0 +1,8 @@
+# [TITLE]: pypi-parse_type-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-parse_type-python3)
+pypi-parse_type-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-voluptuous-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-voluptuous-python3)
+pypi-voluptuous-python

@@ -1,0 +1,8 @@
+# [TITLE]: requests-ntlm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(requests-ntlm-python3)
+requests-ntlm-python

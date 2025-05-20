@@ -1,0 +1,9 @@
+# [TITLE]: libwebp-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libwebp-license)
+libwebp-lib32

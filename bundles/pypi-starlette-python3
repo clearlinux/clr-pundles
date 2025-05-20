@@ -1,0 +1,9 @@
+# [TITLE]: pypi-starlette-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-anyio-python3)
+include(python3-core)
+pypi-starlette-python3

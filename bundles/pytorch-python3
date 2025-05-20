@@ -1,0 +1,27 @@
+# [TITLE]: pytorch-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-lib)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(numactl-lib)
+include(openblas)
+include(openmpi-lib)
+include(pypi-expecttest-python3)
+include(pypi-filelock-python3)
+include(pypi-fsspec-python3)
+include(pypi-hypothesis-python3)
+include(pypi-jinja2-python3)
+include(pypi-networkx-python3)
+include(pypi-packaging-python3)
+include(pypi-psutil-python3)
+include(pypi-types_dataclasses-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+include(sympy-python3)
+pytorch-python3

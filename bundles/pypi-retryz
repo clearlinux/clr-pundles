@@ -1,0 +1,10 @@
+# [TITLE]: pypi-retryz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-retryz-license)
+include(pypi-retryz-python)
+include(pypi-retryz-python3)
+pypi-retryz

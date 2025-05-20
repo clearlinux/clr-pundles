@@ -1,0 +1,10 @@
+# [TITLE]: dbus-python-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-dev)
+include(dbus-python)
+include(pkg-config-bin)
+dbus-python-dev

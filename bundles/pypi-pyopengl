@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyopengl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyopengl-license)
+include(pypi-pyopengl-python)
+include(pypi-pyopengl-python3)
+pypi-pyopengl

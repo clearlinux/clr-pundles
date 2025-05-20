@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libvpx-dev
+include(libvpx-dev)
 include(libstdcpp)

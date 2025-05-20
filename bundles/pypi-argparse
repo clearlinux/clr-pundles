@@ -1,0 +1,10 @@
+# [TITLE]: pypi-argparse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-argparse-license)
+include(pypi-argparse-python)
+include(pypi-argparse-python3)
+pypi-argparse

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyaml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyaml-bin)
+include(pypi-pyaml-license)
+include(pypi-pyaml-python)
+include(pypi-pyaml-python3)
+pypi-pyaml

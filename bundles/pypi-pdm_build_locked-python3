@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pdm_build_locked-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-pdm_build_locked-python3

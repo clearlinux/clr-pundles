@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cs-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytz-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-cs-python3

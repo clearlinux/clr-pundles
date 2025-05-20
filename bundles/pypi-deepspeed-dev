@@ -1,0 +1,9 @@
+# [TITLE]: pypi-deepspeed-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deepspeed)
+include(pypi-deepspeed-bin)
+pypi-deepspeed-dev

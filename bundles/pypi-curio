@@ -1,0 +1,10 @@
+# [TITLE]: pypi-curio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-curio-license)
+include(pypi-curio-python)
+include(pypi-curio-python3)
+pypi-curio

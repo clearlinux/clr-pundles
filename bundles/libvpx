@@ -1,0 +1,10 @@
+# [TITLE]: libvpx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvpx-bin)
+include(libvpx-lib)
+include(libvpx-license)
+libvpx

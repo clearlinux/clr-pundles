@@ -1,0 +1,11 @@
+# [TITLE]: pypi-flake8-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mccabe-python3)
+include(pypi-pycodestyle-python3)
+include(pypi-pyflakes-python3)
+include(python3-core)
+pypi-flake8-python3

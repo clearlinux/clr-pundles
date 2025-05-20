@@ -1,0 +1,12 @@
+# [TITLE]: pypi-wsgiproxy2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-six-python3)
+include(pypi-webob-python3)
+include(pypi-wsgiproxy2-license)
+include(pypi-wsgiproxy2-python)
+include(pypi-wsgiproxy2-python3)
+pypi-wsgiproxy2

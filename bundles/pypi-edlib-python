@@ -1,0 +1,8 @@
+# [TITLE]: pypi-edlib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-edlib-python3)
+pypi-edlib-python

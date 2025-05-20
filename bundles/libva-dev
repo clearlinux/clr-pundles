@@ -1,0 +1,12 @@
+# [TITLE]: libva-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libva)
+include(libva-dev)
+include(libva-lib)
+include(pkg-config-bin)
+include(wayland-dev)
+libva-dev

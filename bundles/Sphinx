@@ -13,4 +13,4 @@ include(Babel)
 # end of custom additions
 
 # main package
-pypi-sphinx
+include(pypi-sphinx)

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyicu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyicu-license)
+include(pypi-pyicu-python)
+include(pypi-pyicu-python3)
+pypi-pyicu

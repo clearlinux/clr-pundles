@@ -1,0 +1,14 @@
+# [TITLE]: glib-networking-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(glib-networking-data)
+include(glib-networking-libexec)
+include(glib-networking-license)
+include(gnutls-lib)
+include(libc6)
+include(libproxy-lib)
+glib-networking-lib

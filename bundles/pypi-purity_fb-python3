@@ -1,0 +1,12 @@
+# [TITLE]: pypi-purity_fb-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-certifi-python3)
+include(pypi-python_dateutil-python3)
+include(pypi-six-python3)
+include(pypi-urllib3-python3)
+include(python3-core)
+pypi-purity_fb-python3

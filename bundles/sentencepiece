@@ -1,0 +1,10 @@
+# [TITLE]: sentencepiece
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sentencepiece-bin)
+include(sentencepiece-lib)
+include(sentencepiece-license)
+sentencepiece

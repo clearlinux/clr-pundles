@@ -1,0 +1,11 @@
+# [TITLE]: pypi-bitmath
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bitmath-bin)
+include(pypi-bitmath-license)
+include(pypi-bitmath-python)
+include(pypi-bitmath-python3)
+pypi-bitmath

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-modulegraph-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-altgraph-python3)
+include(pypi-setuptools-python3)
+include(python3-core)
+pypi-modulegraph-python3

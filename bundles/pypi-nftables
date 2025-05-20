@@ -1,0 +1,10 @@
+# [TITLE]: pypi-nftables
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nftables-license)
+include(pypi-nftables-python)
+include(pypi-nftables-python3)
+pypi-nftables

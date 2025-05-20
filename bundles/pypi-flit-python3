@@ -1,0 +1,13 @@
+# [TITLE]: pypi-flit-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docutils-python3)
+include(pypi-flit_core-python3)
+include(pypi-pip-python3)
+include(pypi-requests-python3)
+include(pypi-tomli_w-python3)
+include(python3-core)
+pypi-flit-python3

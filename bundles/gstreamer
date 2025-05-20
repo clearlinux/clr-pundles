@@ -18,13 +18,13 @@ include(pulseaudio)
 include(libstdcpp)
 gstreamer-vaapi
 gst-plugins-ugly
-gst-plugins-bad
+include(gst-plugins-bad)
 gst-plugins-good
-gst-plugins-base
+include(gst-plugins-base)
 libva-intel-driver
 intel-media-driver
 intel-gmmlib
-libva
+include(libva)
 # include(libX11client)
 include(lib-imageformat)
 # end of custom additions

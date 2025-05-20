@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pytest_forked
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_forked-license)
+include(pypi-pytest_forked-python)
+include(pypi-pytest_forked-python3)
+pypi-pytest_forked

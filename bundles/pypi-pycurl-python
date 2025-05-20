@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pycurl-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycurl-python3)
+pypi-pycurl-python

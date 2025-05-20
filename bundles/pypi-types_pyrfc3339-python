@@ -1,0 +1,8 @@
+# [TITLE]: pypi-types_pyrfc3339-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_pyrfc3339-python3)
+pypi-types_pyrfc3339-python

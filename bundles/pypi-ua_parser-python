@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ua_parser-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ua_parser-python3)
+pypi-ua_parser-python

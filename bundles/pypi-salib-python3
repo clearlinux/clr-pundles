@@ -1,0 +1,13 @@
+# [TITLE]: pypi-salib-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(multiprocess-python3)
+include(pandas-python3)
+include(pypi-matplotlib-python3)
+include(pypi-numpy-python3)
+include(python3-core)
+include(scipy-python3)
+pypi-salib-python3

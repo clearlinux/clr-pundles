@@ -1,0 +1,11 @@
+# [TITLE]: botocore-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jmespath-python3)
+include(pypi-python_dateutil-python3)
+include(pypi-urllib3-python3)
+include(python3-core)
+botocore-python3

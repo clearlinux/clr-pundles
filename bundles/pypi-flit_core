@@ -1,0 +1,10 @@
+# [TITLE]: pypi-flit_core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flit_core-license)
+include(pypi-flit_core-python)
+include(pypi-flit_core-python3)
+pypi-flit_core

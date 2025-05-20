@@ -1,0 +1,8 @@
+# [TITLE]: pypi-python_dbusmock-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_dbusmock-python3)
+pypi-python_dbusmock-python

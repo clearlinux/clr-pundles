@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xmljson-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xmljson-license)
+include(python3-core)
+pypi-xmljson-bin

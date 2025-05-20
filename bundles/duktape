@@ -1,0 +1,9 @@
+# [TITLE]: duktape
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(duktape-lib)
+include(duktape-license)
+duktape

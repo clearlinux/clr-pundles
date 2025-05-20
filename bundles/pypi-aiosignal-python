@@ -1,0 +1,8 @@
+# [TITLE]: pypi-aiosignal-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiosignal-python3)
+pypi-aiosignal-python

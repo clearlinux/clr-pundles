@@ -1,0 +1,9 @@
+# [TITLE]: pypi-perl-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-six-python3)
+include(python3-core)
+pypi-perl-python3

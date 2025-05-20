@@ -1,0 +1,11 @@
+# [TITLE]: nss
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nspr)
+include(nss-bin)
+include(nss-lib)
+include(p11-kit)
+nss

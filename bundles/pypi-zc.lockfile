@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zc.lockfile
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zc.lockfile-license)
+include(pypi-zc.lockfile-python)
+include(pypi-zc.lockfile-python3)
+pypi-zc.lockfile

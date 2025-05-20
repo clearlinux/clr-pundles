@@ -1,0 +1,10 @@
+# [TITLE]: pypi-azure_core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-azure_core-license)
+include(pypi-azure_core-python)
+include(pypi-azure_core-python3)
+pypi-azure_core

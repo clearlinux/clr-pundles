@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyclipper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyclipper-license)
+include(pypi-pyclipper-python)
+include(pypi-pyclipper-python3)
+pypi-pyclipper

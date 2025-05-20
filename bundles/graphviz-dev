@@ -1,0 +1,12 @@
+# [TITLE]: graphviz-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(graphviz)
+include(graphviz-bin)
+include(graphviz-data)
+include(graphviz-lib)
+include(pkg-config-bin)
+graphviz-dev

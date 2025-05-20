@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ordered_set
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ordered_set-license)
+include(pypi-ordered_set-python)
+include(pypi-ordered_set-python3)
+pypi-ordered_set

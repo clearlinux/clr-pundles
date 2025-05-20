@@ -1,0 +1,9 @@
+# [TITLE]: pypi-wcmatch-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bracex-python3)
+include(python3-core)
+pypi-wcmatch-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-devpi_process-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-devpi_client-python3)
+include(pypi-devpi_server-python3)
+include(python3-core)
+pypi-devpi_process-python3

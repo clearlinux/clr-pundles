@@ -1,0 +1,8 @@
+# [TITLE]: pypi-protobuf-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-protobuf-python3)
+pypi-protobuf-python

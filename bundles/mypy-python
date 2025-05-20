@@ -1,0 +1,8 @@
+# [TITLE]: mypy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mypy-python3)
+mypy-python

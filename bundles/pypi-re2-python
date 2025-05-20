@@ -1,0 +1,8 @@
+# [TITLE]: pypi-re2-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-re2-python3)
+pypi-re2-python

@@ -1,0 +1,11 @@
+# [TITLE]: libpsl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libpsl-lib)
+include(libpsl-license)
+libpsl-bin

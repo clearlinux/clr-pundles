@@ -1,0 +1,9 @@
+# [TITLE]: libnfnetlink-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnfnetlink-dev)
+include(libnfnetlink-lib32)
+libnfnetlink-dev32

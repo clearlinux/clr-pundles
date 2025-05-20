@@ -1,0 +1,10 @@
+# [TITLE]: xcb-util-cursor-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(xcb-util-cursor)
+include(xcb-util-cursor-lib)
+xcb-util-cursor-dev

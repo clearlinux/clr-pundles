@@ -1,0 +1,10 @@
+# [TITLE]: pypi-paho_mqtt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-paho_mqtt-license)
+include(pypi-paho_mqtt-python)
+include(pypi-paho_mqtt-python3)
+pypi-paho_mqtt

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-hwloc-dev
+include(hwloc-dev)
 include(hwloc)

@@ -1,0 +1,11 @@
+# [TITLE]: libXres-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXres)
+include(libXres-lib)
+include(xorgproto-dev)
+libXres-dev

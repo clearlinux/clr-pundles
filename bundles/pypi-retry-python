@@ -1,0 +1,8 @@
+# [TITLE]: pypi-retry-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-retry-python3)
+pypi-retry-python

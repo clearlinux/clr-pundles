@@ -1,0 +1,11 @@
+# [TITLE]: pypi-logilab_common-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mypy_extensions-python3)
+include(pypi-setuptools-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-logilab_common-python3

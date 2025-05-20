@@ -1,0 +1,13 @@
+# [TITLE]: pypi-nbval-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-coverage-python3)
+include(pypi-ipykernel-python3)
+include(pypi-jupyter_client-python3)
+include(pypi-nbformat-python3)
+include(pypi-pytest-python3)
+include(python3-core)
+pypi-nbval-python3

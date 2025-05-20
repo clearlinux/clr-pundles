@@ -1,0 +1,9 @@
+# [TITLE]: pypi-macholib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-macholib-license)
+include(python3-core)
+pypi-macholib-bin

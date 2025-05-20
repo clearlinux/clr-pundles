@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zopfli-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zopfli-python3)
+pypi-zopfli-python

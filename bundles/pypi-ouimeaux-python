@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ouimeaux-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ouimeaux-python3)
+pypi-ouimeaux-python

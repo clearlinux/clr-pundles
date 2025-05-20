@@ -1,0 +1,10 @@
+# [TITLE]: pypi-webtest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-webtest-license)
+include(pypi-webtest-python)
+include(pypi-webtest-python3)
+pypi-webtest

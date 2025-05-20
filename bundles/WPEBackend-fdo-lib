@@ -1,0 +1,15 @@
+# [TITLE]: WPEBackend-fdo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(WPEBackend-fdo-license)
+include(glib-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libgcc1)
+include(libstdc++)
+include(libwpe-lib)
+include(wayland-lib)
+WPEBackend-fdo-lib

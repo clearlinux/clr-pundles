@@ -1,0 +1,8 @@
+# [TITLE]: pypi-polib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-polib-python3)
+pypi-polib-python

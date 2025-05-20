@@ -1,0 +1,8 @@
+# [TITLE]: pypi-grpcio_health_checking-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-grpcio_health_checking-python3)
+pypi-grpcio_health_checking-python

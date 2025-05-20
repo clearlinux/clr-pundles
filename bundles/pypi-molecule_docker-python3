@@ -1,0 +1,12 @@
+# [TITLE]: pypi-molecule_docker-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docker-python3)
+include(pypi-molecule-python3)
+include(pypi-requests-python3)
+include(pypi-selinux-python3)
+include(python3-core)
+pypi-molecule_docker-python3

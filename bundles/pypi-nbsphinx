@@ -1,0 +1,10 @@
+# [TITLE]: pypi-nbsphinx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nbsphinx-license)
+include(pypi-nbsphinx-python)
+include(pypi-nbsphinx-python3)
+pypi-nbsphinx

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xmldiff-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xmldiff-license)
+include(python3-core)
+pypi-xmldiff-bin

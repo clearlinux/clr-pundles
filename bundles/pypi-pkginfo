@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pkginfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pkginfo-bin)
+include(pypi-pkginfo-license)
+include(pypi-pkginfo-python)
+include(pypi-pkginfo-python3)
+pypi-pkginfo

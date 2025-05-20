@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyelftools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyelftools-bin)
+include(pypi-pyelftools-license)
+include(pypi-pyelftools-python)
+include(pypi-pyelftools-python3)
+pypi-pyelftools

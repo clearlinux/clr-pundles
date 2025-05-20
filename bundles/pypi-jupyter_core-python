@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyter_core-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_core-python3)
+pypi-jupyter_core-python

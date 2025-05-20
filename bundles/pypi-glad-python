@@ -1,0 +1,8 @@
+# [TITLE]: pypi-glad-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-glad-python3)
+pypi-glad-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-referencing-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-referencing-python3)
+pypi-referencing-python

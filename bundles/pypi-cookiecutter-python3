@@ -1,0 +1,16 @@
+# [TITLE]: pypi-cookiecutter-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-arrow-python3)
+include(pypi-binaryornot-python3)
+include(pypi-click-python3)
+include(pypi-jinja2-python3)
+include(pypi-python_slugify-python3)
+include(pypi-requests-python3)
+include(pypi-rich-python3)
+include(python3-core)
+pypi-cookiecutter-python3

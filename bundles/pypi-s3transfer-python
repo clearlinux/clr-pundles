@@ -1,0 +1,8 @@
+# [TITLE]: pypi-s3transfer-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-s3transfer-python3)
+pypi-s3transfer-python

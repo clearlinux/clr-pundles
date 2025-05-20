@@ -1,0 +1,8 @@
+# [TITLE]: pypi-python_dotenv-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_dotenv-python3)
+pypi-python_dotenv-python

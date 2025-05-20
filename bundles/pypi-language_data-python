@@ -1,0 +1,8 @@
+# [TITLE]: pypi-language_data-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-language_data-python3)
+pypi-language_data-python

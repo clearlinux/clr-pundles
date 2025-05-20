@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xmlschema-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-elementpath-python3)
+include(python3-core)
+pypi-xmlschema-python3

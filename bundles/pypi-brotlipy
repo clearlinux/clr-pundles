@@ -1,0 +1,10 @@
+# [TITLE]: pypi-brotlipy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-brotlipy-license)
+include(pypi-brotlipy-python)
+include(pypi-brotlipy-python3)
+pypi-brotlipy

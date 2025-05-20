@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-graphviz-dev
+include(graphviz-dev)
 include(libX11client)
 include(libglib)
 include(lib-imageformat)

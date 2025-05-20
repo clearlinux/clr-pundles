@@ -1,0 +1,11 @@
+# [TITLE]: libnetfilter_conntrack-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libmnl-lib32)
+include(libnetfilter_conntrack-license)
+include(libnfnetlink-lib32)
+libnetfilter_conntrack-lib32

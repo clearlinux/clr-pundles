@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pidigits-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pidigits-python3)
+pypi-pidigits-python

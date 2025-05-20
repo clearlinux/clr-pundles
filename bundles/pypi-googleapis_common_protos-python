@@ -1,0 +1,8 @@
+# [TITLE]: pypi-googleapis_common_protos-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-googleapis_common_protos-python3)
+pypi-googleapis_common_protos-python

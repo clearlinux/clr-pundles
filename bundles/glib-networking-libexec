@@ -1,0 +1,11 @@
+# [TITLE]: glib-networking-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(glib-networking-license)
+include(libc6)
+include(libproxy-lib)
+glib-networking-libexec

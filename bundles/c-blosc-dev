@@ -1,0 +1,10 @@
+# [TITLE]: c-blosc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c-blosc)
+include(c-blosc-lib)
+include(pkg-config-bin)
+c-blosc-dev

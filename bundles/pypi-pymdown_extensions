@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pymdown_extensions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pymdown_extensions-license)
+include(pypi-pymdown_extensions-python)
+include(pypi-pymdown_extensions-python3)
+pypi-pymdown_extensions

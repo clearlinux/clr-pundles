@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jsonpatch-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonpatch-python3)
+pypi-jsonpatch-python

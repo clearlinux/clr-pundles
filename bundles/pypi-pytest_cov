@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pytest_cov
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_cov-license)
+include(pypi-pytest_cov-python)
+include(pypi-pytest_cov-python3)
+pypi-pytest_cov

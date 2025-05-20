@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pynvml-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pynvml-python3)
+pypi-pynvml-python

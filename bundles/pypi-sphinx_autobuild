@@ -1,0 +1,11 @@
+# [TITLE]: pypi-sphinx_autobuild
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_autobuild-bin)
+include(pypi-sphinx_autobuild-license)
+include(pypi-sphinx_autobuild-python)
+include(pypi-sphinx_autobuild-python3)
+pypi-sphinx_autobuild

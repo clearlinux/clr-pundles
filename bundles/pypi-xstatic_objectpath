@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xstatic_objectpath
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic_objectpath-python)
+include(pypi-xstatic_objectpath-python3)
+pypi-xstatic_objectpath

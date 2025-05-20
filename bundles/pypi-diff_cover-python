@@ -1,0 +1,8 @@
+# [TITLE]: pypi-diff_cover-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-diff_cover-python3)
+pypi-diff_cover-python

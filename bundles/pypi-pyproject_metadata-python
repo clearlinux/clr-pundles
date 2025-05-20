@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyproject_metadata-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyproject_metadata-python3)
+pypi-pyproject_metadata-python

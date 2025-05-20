@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cairocffi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cairocffi-python3)
+pypi-cairocffi-python

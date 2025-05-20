@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyflakes-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyflakes-python3)
+pypi-pyflakes-python

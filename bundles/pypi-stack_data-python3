@@ -1,0 +1,11 @@
+# [TITLE]: pypi-stack_data-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-asttokens-python3)
+include(pypi-executing-python3)
+include(pypi-pure_eval-python3)
+include(python3-core)
+pypi-stack_data-python3

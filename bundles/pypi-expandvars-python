@@ -1,0 +1,8 @@
+# [TITLE]: pypi-expandvars-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-expandvars-python3)
+pypi-expandvars-python

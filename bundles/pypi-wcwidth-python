@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wcwidth-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wcwidth-python3)
+pypi-wcwidth-python

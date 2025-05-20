@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pycryptodomex-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycryptodomex-python3)
+pypi-pycryptodomex-python

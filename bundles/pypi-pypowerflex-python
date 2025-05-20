@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pypowerflex-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pypowerflex-python3)
+pypi-pypowerflex-python

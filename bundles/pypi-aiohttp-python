@@ -1,0 +1,8 @@
+# [TITLE]: pypi-aiohttp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiohttp-python3)
+pypi-aiohttp-python

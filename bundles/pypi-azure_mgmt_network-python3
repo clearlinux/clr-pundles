@@ -1,0 +1,12 @@
+# [TITLE]: pypi-azure_mgmt_network-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isodate-python3)
+include(pypi-azure_common-python3)
+include(pypi-azure_mgmt_core-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-azure_mgmt_network-python3

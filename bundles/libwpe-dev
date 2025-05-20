@@ -1,0 +1,11 @@
+# [TITLE]: libwpe-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwpe)
+include(libwpe-lib)
+include(libxkbcommon-dev)
+include(pkg-config-bin)
+libwpe-dev

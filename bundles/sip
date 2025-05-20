@@ -1,0 +1,11 @@
+# [TITLE]: sip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sip-bin)
+include(sip-license)
+include(sip-python)
+include(sip-python3)
+sip

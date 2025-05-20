@@ -1,0 +1,22 @@
+# [TITLE]: graphviz-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(expat-lib)
+include(gdk-pixbuf-lib)
+include(ghostscript-lib)
+include(glib-lib)
+include(graphviz-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libgd-lib)
+include(libstdc++)
+include(libtool-lib)
+include(pango-lib)
+include(zlib-lib)
+graphviz-extras

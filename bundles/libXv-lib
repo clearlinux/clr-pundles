@@ -1,0 +1,10 @@
+# [TITLE]: libXv-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXv-license)
+include(libc6)
+libXv-lib

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-beniget
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beniget-license)
+include(pypi-beniget-python)
+include(pypi-beniget-python3)
+pypi-beniget

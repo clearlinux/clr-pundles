@@ -1,0 +1,8 @@
+# [TITLE]: pypi-uritools-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uritools-python3)
+pypi-uritools-python

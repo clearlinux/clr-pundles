@@ -1,0 +1,10 @@
+# [TITLE]: googletest-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(googletest)
+include(googletest-lib)
+include(pkg-config-bin)
+googletest-dev

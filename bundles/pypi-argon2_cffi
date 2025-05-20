@@ -1,0 +1,10 @@
+# [TITLE]: pypi-argon2_cffi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-argon2_cffi-license)
+include(pypi-argon2_cffi-python)
+include(pypi-argon2_cffi-python3)
+pypi-argon2_cffi

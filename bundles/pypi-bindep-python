@@ -1,0 +1,8 @@
+# [TITLE]: pypi-bindep-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bindep-python3)
+pypi-bindep-python

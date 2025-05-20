@@ -1,0 +1,13 @@
+# [TITLE]: qt6base
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6base-data)
+include(qt6base-lib)
+include(qt6base-libexec)
+include(qt6base-license)
+include(qtbase-extras)
+include(shared-mime-info)
+qt6base

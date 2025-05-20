@@ -1,0 +1,9 @@
+# [TITLE]: pypi-nbclient-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nbclient-license)
+include(python3-core)
+pypi-nbclient-bin

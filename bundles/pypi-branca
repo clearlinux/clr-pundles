@@ -1,0 +1,10 @@
+# [TITLE]: pypi-branca
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-branca-license)
+include(pypi-branca-python)
+include(pypi-branca-python3)
+pypi-branca

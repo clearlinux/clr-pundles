@@ -1,0 +1,14 @@
+# [TITLE]: pypi-pytest_cov-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-coverage-python3)
+include(pypi-pip-python3)
+include(pypi-pytest-python3)
+include(pypi-tox-python3)
+include(pypi-twine-python3)
+include(pypi-virtualenv-python3)
+include(python3-core)
+pypi-pytest_cov-python3

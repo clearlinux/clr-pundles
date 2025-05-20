@@ -1,0 +1,10 @@
+# [TITLE]: pypi-httpcore-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-certifi-python3)
+include(pypi-h11-python3)
+include(python3-core)
+pypi-httpcore-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-bkcharts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bkcharts-license)
+include(pypi-bkcharts-python)
+include(pypi-bkcharts-python3)
+pypi-bkcharts

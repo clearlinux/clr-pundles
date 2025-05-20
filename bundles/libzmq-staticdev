@@ -1,0 +1,8 @@
+# [TITLE]: libzmq-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libzmq-dev)
+libzmq-staticdev

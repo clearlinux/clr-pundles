@@ -1,0 +1,11 @@
+# [TITLE]: pypi-apacheconfig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-apacheconfig-bin)
+include(pypi-apacheconfig-license)
+include(pypi-apacheconfig-python)
+include(pypi-apacheconfig-python3)
+pypi-apacheconfig

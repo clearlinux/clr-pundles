@@ -1,0 +1,10 @@
+# [TITLE]: pypi-tzlocal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tzlocal-license)
+include(pypi-tzlocal-python)
+include(pypi-tzlocal-python3)
+pypi-tzlocal

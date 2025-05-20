@@ -1,0 +1,8 @@
+# [TITLE]: pypi-natsort-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-natsort-python3)
+pypi-natsort-python

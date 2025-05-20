@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dulwich-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dulwich-python3)
+pypi-dulwich-python

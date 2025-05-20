@@ -1,0 +1,8 @@
+# [TITLE]: pypi-y_py-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-y_py-python3)
+pypi-y_py-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cookiecutter-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cookiecutter-python3)
+pypi-cookiecutter-python

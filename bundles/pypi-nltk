@@ -1,0 +1,11 @@
+# [TITLE]: pypi-nltk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nltk-bin)
+include(pypi-nltk-license)
+include(pypi-nltk-python)
+include(pypi-nltk-python3)
+pypi-nltk

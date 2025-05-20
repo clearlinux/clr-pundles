@@ -1,0 +1,11 @@
+# [TITLE]: pypi-certbot
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-certbot-bin)
+include(pypi-certbot-license)
+include(pypi-certbot-python)
+include(pypi-certbot-python3)
+pypi-certbot

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-crcmod-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-crcmod-python3)
+pypi-crcmod-python

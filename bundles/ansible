@@ -8,12 +8,12 @@ include(ipmitool)
 include(openssh-client)
 include(python3-basic)
 include(libglib)
-ansible-core
+include(ansible-core)
 ansible
 # ansible deps
 PyMySQL
-pypi-backports.ssl_match_hostname
-pypi-docker
+include(pypi-backports.ssl_match_hostname)
+include(pypi-docker)
 netaddr
 # End ansible deps
 include(pypi-pynacl)

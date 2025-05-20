@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cssselect-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cssselect-python3)
+pypi-cssselect-python

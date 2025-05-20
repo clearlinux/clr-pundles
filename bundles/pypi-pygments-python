@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pygments-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pygments-python3)
+pypi-pygments-python

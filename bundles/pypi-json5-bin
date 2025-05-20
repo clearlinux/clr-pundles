@@ -1,0 +1,9 @@
+# [TITLE]: pypi-json5-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-json5-license)
+include(python3-core)
+pypi-json5-bin

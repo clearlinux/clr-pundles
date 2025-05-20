@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jinxed-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jinxed-python3)
+pypi-jinxed-python

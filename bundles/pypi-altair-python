@@ -1,0 +1,8 @@
+# [TITLE]: pypi-altair-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-altair-python3)
+pypi-altair-python

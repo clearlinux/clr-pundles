@@ -1,0 +1,10 @@
+# [TITLE]: libnftnl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libmnl-lib)
+include(libnftnl-license)
+libnftnl-lib

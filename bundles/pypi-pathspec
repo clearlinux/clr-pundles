@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pathspec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pathspec-license)
+include(pypi-pathspec-python)
+include(pypi-pathspec-python3)
+pypi-pathspec

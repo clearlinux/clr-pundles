@@ -1,0 +1,10 @@
+# [TITLE]: portmidi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(libc6)
+include(portmidi-license)
+portmidi-lib

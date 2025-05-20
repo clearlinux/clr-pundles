@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jsondiff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsondiff-bin)
+include(pypi-jsondiff-license)
+include(pypi-jsondiff-python)
+include(pypi-jsondiff-python3)
+pypi-jsondiff

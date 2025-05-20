@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.hookable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.hookable-license)
+include(pypi-zope.hookable-python)
+include(pypi-zope.hookable-python3)
+pypi-zope.hookable

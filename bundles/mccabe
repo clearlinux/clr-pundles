@@ -1,0 +1,10 @@
+# [TITLE]: mccabe
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mccabe-license)
+include(mccabe-python)
+include(mccabe-python3)
+mccabe

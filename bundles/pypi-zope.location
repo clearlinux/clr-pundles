@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.location
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.location-license)
+include(pypi-zope.location-python)
+include(pypi-zope.location-python3)
+pypi-zope.location

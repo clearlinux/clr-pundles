@@ -1,0 +1,10 @@
+# [TITLE]: pypi-amqp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-amqp-license)
+include(pypi-amqp-python)
+include(pypi-amqp-python3)
+pypi-amqp

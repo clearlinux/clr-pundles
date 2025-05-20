@@ -1,0 +1,11 @@
+# [TITLE]: libsndfile
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsndfile-bin)
+include(libsndfile-lib)
+include(libsndfile-license)
+include(libsndfile-man)
+libsndfile

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-zope.configuration-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools-python3)
+include(pypi-zope.i18nmessageid-python3)
+include(pypi-zope.interface-python3)
+include(pypi-zope.schema-python3)
+include(python3-core)
+pypi-zope.configuration-python3

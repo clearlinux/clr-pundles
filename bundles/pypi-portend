@@ -1,0 +1,10 @@
+# [TITLE]: pypi-portend
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-portend-license)
+include(pypi-portend-python)
+include(pypi-portend-python3)
+pypi-portend

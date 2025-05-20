@@ -1,0 +1,13 @@
+# [TITLE]: pypi-sphinxcontrib_bibtex-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docutils-python3)
+include(pypi-pybtex-python3)
+include(pypi-pybtex_docutils-python3)
+include(pypi-setuptools-python3)
+include(pypi-sphinx-python3)
+include(python3-core)
+pypi-sphinxcontrib_bibtex-python3

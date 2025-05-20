@@ -1,0 +1,8 @@
+# [TITLE]: pypi-typing_inspection-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-typing_inspection-python3)
+pypi-typing_inspection-python

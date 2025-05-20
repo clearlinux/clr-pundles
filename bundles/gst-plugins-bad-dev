@@ -1,0 +1,23 @@
+# [TITLE]: gst-plugins-bad-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-dev)
+include(glib-dev)
+include(gst-plugins-bad)
+include(gst-plugins-bad-bin)
+include(gst-plugins-bad-data)
+include(gst-plugins-bad-dev)
+include(gst-plugins-bad-lib)
+include(gst-plugins-base-dev)
+include(gstreamer-dev)
+include(libX11-dev)
+include(libdrm-dev)
+include(libnice-dev)
+include(libva-dev)
+include(libxkbcommon-dev)
+include(pkg-config-bin)
+include(wayland-dev)
+gst-plugins-bad-dev

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-tldextract
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests_file-python3)
+include(pypi-tldextract-bin)
+include(pypi-tldextract-license)
+include(pypi-tldextract-python)
+include(pypi-tldextract-python3)
+pypi-tldextract

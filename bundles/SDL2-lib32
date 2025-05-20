@@ -1,0 +1,9 @@
+# [TITLE]: SDL2-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-license)
+include(glibc-libc32)
+SDL2-lib32

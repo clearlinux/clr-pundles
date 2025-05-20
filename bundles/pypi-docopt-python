@@ -1,0 +1,8 @@
+# [TITLE]: pypi-docopt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docopt-python3)
+pypi-docopt-python

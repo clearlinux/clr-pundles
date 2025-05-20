@@ -1,0 +1,8 @@
+# [TITLE]: pypi-shelved_cache-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-shelved_cache-python3)
+pypi-shelved_cache-python

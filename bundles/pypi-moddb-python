@@ -1,0 +1,8 @@
+# [TITLE]: pypi-moddb-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-moddb-python3)
+pypi-moddb-python

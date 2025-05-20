@@ -1,0 +1,8 @@
+# [TITLE]: pypi-opt_einsum-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-opt_einsum-python3)
+pypi-opt_einsum-python

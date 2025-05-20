@@ -1,0 +1,10 @@
+# [TITLE]: pypi-hishel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hishel-license)
+include(pypi-hishel-python)
+include(pypi-hishel-python3)
+pypi-hishel

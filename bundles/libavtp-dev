@@ -1,0 +1,9 @@
+# [TITLE]: libavtp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libavtp)
+include(libavtp-lib)
+libavtp-dev

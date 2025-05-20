@@ -1,0 +1,9 @@
+# [TITLE]: pypi-devpi_client-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-devpi_client-license)
+include(python3-core)
+pypi-devpi_client-bin

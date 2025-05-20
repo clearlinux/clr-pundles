@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pydocstyle-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydocstyle-python3)
+pypi-pydocstyle-python

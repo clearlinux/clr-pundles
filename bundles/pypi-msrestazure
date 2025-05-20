@@ -1,0 +1,10 @@
+# [TITLE]: pypi-msrestazure
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-msrestazure-license)
+include(pypi-msrestazure-python)
+include(pypi-msrestazure-python3)
+pypi-msrestazure

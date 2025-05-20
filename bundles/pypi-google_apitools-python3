@@ -1,0 +1,12 @@
+# [TITLE]: pypi-google_apitools-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fasteners-python3)
+include(pypi-httplib2-python3)
+include(pypi-oauth2client-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-google_apitools-python3

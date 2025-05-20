@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyter_console-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_console-python3)
+pypi-jupyter_console-python

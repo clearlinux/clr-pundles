@@ -1,0 +1,8 @@
+# [TITLE]: pypi-multidict-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-multidict-python3)
+pypi-multidict-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-websocket_client-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-websocket_client-python3)
+pypi-websocket_client-python

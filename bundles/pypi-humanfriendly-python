@@ -1,0 +1,8 @@
+# [TITLE]: pypi-humanfriendly-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-humanfriendly-python3)
+pypi-humanfriendly-python

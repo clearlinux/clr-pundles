@@ -1,0 +1,8 @@
+# [TITLE]: mariadb-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mariadb-man)
+mariadb-doc

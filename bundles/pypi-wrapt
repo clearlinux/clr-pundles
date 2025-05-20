@@ -1,0 +1,10 @@
+# [TITLE]: pypi-wrapt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wrapt-license)
+include(pypi-wrapt-python)
+include(pypi-wrapt-python3)
+pypi-wrapt

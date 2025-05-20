@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dkimpy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dkimpy-python3)
+pypi-dkimpy-python

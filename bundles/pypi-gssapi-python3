@@ -1,0 +1,11 @@
+# [TITLE]: pypi-gssapi-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krb5-lib)
+include(libc6)
+include(pypi-decorator-python3)
+include(python3-core)
+pypi-gssapi-python3

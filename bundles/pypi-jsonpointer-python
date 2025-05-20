@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jsonpointer-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonpointer-python3)
+pypi-jsonpointer-python

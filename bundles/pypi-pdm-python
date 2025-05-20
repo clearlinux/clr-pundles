@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pdm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pdm-python3)
+pypi-pdm-python

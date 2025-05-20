@@ -1,0 +1,25 @@
+# [TITLE]: opencv-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gcc-libs-math)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(openblas)
+include(opencv-data)
+include(opencv-license)
+include(tbb-lib)
+include(zlib-lib)
+opencv-lib

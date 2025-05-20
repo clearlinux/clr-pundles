@@ -1,0 +1,11 @@
+# [TITLE]: pypi-mido
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mido-bin)
+include(pypi-mido-license)
+include(pypi-mido-python)
+include(pypi-mido-python3)
+pypi-mido

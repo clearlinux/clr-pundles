@@ -1,0 +1,8 @@
+# [TITLE]: pypi-userpath-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-userpath-python3)
+pypi-userpath-python

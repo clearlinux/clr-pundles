@@ -1,0 +1,8 @@
+# [TITLE]: pypi-asttokens-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-asttokens-python3

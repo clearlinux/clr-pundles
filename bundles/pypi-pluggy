@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pluggy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-importlib_metadata-python3)
+include(pypi-pluggy-license)
+include(pypi-pluggy-python)
+include(pypi-pluggy-python3)
+pypi-pluggy

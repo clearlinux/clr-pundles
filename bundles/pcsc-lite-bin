@@ -1,0 +1,15 @@
+# [TITLE]: pcsc-lite-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(pcsc-lite-data)
+include(pcsc-lite-license)
+include(pcsc-lite-services)
+include(polkit-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+pcsc-lite-bin

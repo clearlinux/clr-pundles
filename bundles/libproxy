@@ -1,0 +1,12 @@
+# [TITLE]: libproxy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libproxy-bin)
+include(libproxy-data)
+include(libproxy-lib)
+include(libproxy-license)
+include(libproxy-man)
+libproxy

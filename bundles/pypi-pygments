@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pygments
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pygments-bin)
+include(pypi-pygments-license)
+include(pypi-pygments-python)
+include(pypi-pygments-python3)
+pypi-pygments

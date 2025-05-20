@@ -1,0 +1,10 @@
+# [TITLE]: pypi-docker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docker-license)
+include(pypi-docker-python)
+include(pypi-docker-python3)
+pypi-docker

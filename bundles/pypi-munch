@@ -1,0 +1,10 @@
+# [TITLE]: pypi-munch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-munch-license)
+include(pypi-munch-python)
+include(pypi-munch-python3)
+pypi-munch

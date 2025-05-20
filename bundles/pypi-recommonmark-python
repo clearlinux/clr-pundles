@@ -1,0 +1,8 @@
+# [TITLE]: pypi-recommonmark-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-recommonmark-python3)
+pypi-recommonmark-python

@@ -1,0 +1,11 @@
+# [TITLE]: sip-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-packaging-python3)
+include(pypi-setuptools-python3)
+include(pypi-toml-python3)
+include(python3-core)
+sip-python3

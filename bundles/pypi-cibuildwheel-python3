@@ -1,0 +1,15 @@
+# [TITLE]: pypi-cibuildwheel-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bashlex-python3)
+include(pypi-bracex-python3)
+include(pypi-certifi-python3)
+include(pypi-dependency_groups-python3)
+include(pypi-filelock-python3)
+include(pypi-packaging-python3)
+include(pypi-platformdirs-python3)
+include(python3-core)
+pypi-cibuildwheel-python3

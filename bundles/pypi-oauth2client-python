@@ -1,0 +1,8 @@
+# [TITLE]: pypi-oauth2client-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-oauth2client-python3)
+pypi-oauth2client-python

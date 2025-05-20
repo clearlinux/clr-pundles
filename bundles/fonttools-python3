@@ -1,0 +1,19 @@
+# [TITLE]: fonttools-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fs-python3)
+include(pypi-brotli-python3)
+include(pypi-brotlicffi-python3)
+include(pypi-glyphslib-python3)
+include(pypi-lxml-python3)
+include(pypi-munkres-python3)
+include(pypi-ufolib2-python3)
+include(pypi-uharfbuzz-python3)
+include(pypi-zopfli-python3)
+include(python3-core)
+include(scipy-python3)
+include(sympy-python3)
+fonttools-python3

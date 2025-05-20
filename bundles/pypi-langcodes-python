@@ -1,0 +1,8 @@
+# [TITLE]: pypi-langcodes-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-langcodes-python3)
+pypi-langcodes-python

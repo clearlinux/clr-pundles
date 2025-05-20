@@ -1,0 +1,10 @@
+# [TITLE]: pypi-safetensors
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-safetensors-license)
+include(pypi-safetensors-python)
+include(pypi-safetensors-python3)
+pypi-safetensors

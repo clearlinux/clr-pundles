@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pathlib2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pathlib2-license)
+include(pypi-pathlib2-python)
+include(pypi-pathlib2-python3)
+pypi-pathlib2

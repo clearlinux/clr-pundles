@@ -1,0 +1,8 @@
+# [TITLE]: pypi-identify-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-identify-python3)
+pypi-identify-python

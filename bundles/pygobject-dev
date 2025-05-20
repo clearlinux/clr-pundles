@@ -1,0 +1,11 @@
+# [TITLE]: pygobject-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libffi-dev)
+include(pkg-config-bin)
+include(pygobject)
+pygobject-dev

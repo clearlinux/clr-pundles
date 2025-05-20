@@ -1,0 +1,9 @@
+# [TITLE]: jansson-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jansson-license)
+include(libc6)
+jansson-lib

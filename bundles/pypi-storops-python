@@ -1,0 +1,8 @@
+# [TITLE]: pypi-storops-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-storops-python3)
+pypi-storops-python

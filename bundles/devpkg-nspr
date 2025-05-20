@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-nspr-dev
+include(nspr-dev)

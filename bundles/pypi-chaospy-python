@@ -1,0 +1,8 @@
+# [TITLE]: pypi-chaospy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chaospy-python3)
+pypi-chaospy-python

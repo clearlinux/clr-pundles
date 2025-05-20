@@ -1,0 +1,8 @@
+# [TITLE]: pypi-networkx-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-networkx-python3)
+pypi-networkx-python

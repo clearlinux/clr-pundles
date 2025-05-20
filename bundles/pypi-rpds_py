@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rpds_py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rpds_py-license)
+include(pypi-rpds_py-python)
+include(pypi-rpds_py-python3)
+pypi-rpds_py

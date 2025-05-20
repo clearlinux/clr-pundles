@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cvss-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cvss-python3)
+pypi-cvss-python

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-invoke
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-invoke-bin)
+include(pypi-invoke-license)
+include(pypi-invoke-python)
+include(pypi-invoke-python3)
+pypi-invoke

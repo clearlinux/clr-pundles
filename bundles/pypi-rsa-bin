@@ -1,0 +1,9 @@
+# [TITLE]: pypi-rsa-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rsa-license)
+include(python3-core)
+pypi-rsa-bin

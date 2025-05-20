@@ -1,0 +1,8 @@
+# [TITLE]: qhull-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qhull-dev)
+qhull-staticdev

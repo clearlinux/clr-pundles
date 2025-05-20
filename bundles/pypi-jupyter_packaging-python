@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyter_packaging-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_packaging-python3)
+pypi-jupyter_packaging-python

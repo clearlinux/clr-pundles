@@ -1,0 +1,11 @@
+# [TITLE]: pypi-spyrk-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cached_property-python3)
+include(pypi-hammock-python3)
+include(pypi-mock-python3)
+include(python3-core)
+pypi-spyrk-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-acme
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-acme-license)
+include(pypi-acme-python)
+include(pypi-acme-python3)
+pypi-acme

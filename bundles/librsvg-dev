@@ -1,0 +1,15 @@
+# [TITLE]: librsvg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(librsvg)
+include(librsvg-bin)
+include(librsvg-data)
+include(librsvg-lib)
+include(pkg-config-bin)
+librsvg-dev

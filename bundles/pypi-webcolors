@@ -1,0 +1,9 @@
+# [TITLE]: pypi-webcolors
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-webcolors-python)
+include(pypi-webcolors-python3)
+pypi-webcolors

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-requests_kerberos-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests_kerberos-python3)
+pypi-requests_kerberos-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-awscrt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-awscrt-license)
+include(pypi-awscrt-python)
+include(pypi-awscrt-python3)
+pypi-awscrt

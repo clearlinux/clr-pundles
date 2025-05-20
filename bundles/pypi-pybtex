@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pybtex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pybtex-bin)
+include(pypi-pybtex-license)
+include(pypi-pybtex-python)
+include(pypi-pybtex-python3)
+pypi-pybtex

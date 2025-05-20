@@ -1,0 +1,10 @@
+# [TITLE]: pypi-uvloop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uvloop-license)
+include(pypi-uvloop-python)
+include(pypi-uvloop-python3)
+pypi-uvloop

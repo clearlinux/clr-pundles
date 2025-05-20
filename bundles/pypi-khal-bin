@@ -1,0 +1,10 @@
+# [TITLE]: pypi-khal-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-khal-data)
+include(pypi-khal-license)
+include(python3-core)
+pypi-khal-bin

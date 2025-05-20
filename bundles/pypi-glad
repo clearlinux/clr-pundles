@@ -1,0 +1,11 @@
+# [TITLE]: pypi-glad
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-glad-bin)
+include(pypi-glad-license)
+include(pypi-glad-python)
+include(pypi-glad-python3)
+pypi-glad

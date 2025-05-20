@@ -1,0 +1,8 @@
+# [TITLE]: pypi-shellingham-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-shellingham-python3)
+pypi-shellingham-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-requests-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests-python3)
+pypi-requests-python

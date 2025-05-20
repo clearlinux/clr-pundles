@@ -1,0 +1,10 @@
+# [TITLE]: defusedxml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(defusedxml-license)
+include(defusedxml-python)
+include(defusedxml-python3)
+defusedxml

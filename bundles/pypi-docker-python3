@@ -1,0 +1,10 @@
+# [TITLE]: pypi-docker-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests-python3)
+include(pypi-urllib3-python3)
+include(python3-core)
+pypi-docker-python3

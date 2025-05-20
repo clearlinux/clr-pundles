@@ -1,0 +1,13 @@
+# [TITLE]: gst-plugins-bad
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gst-plugins-bad-bin)
+include(gst-plugins-bad-data)
+include(gst-plugins-bad-lib)
+include(gst-plugins-bad-license)
+include(gst-plugins-bad-locales)
+include(libsrtp)
+gst-plugins-bad

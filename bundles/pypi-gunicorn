@@ -1,0 +1,11 @@
+# [TITLE]: pypi-gunicorn
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gunicorn-bin)
+include(pypi-gunicorn-license)
+include(pypi-gunicorn-python)
+include(pypi-gunicorn-python3)
+pypi-gunicorn

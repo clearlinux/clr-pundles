@@ -1,0 +1,9 @@
+# [TITLE]: pypi-natsort-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-natsort-license)
+include(python3-core)
+pypi-natsort-bin

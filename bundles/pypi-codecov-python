@@ -1,0 +1,8 @@
+# [TITLE]: pypi-codecov-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-codecov-python3)
+pypi-codecov-python

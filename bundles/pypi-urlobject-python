@@ -1,0 +1,8 @@
+# [TITLE]: pypi-urlobject-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-urlobject-python3)
+pypi-urlobject-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pastel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pastel-license)
+include(pypi-pastel-python)
+include(pypi-pastel-python3)
+pypi-pastel

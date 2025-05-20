@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jupyter_core-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(pypi-platformdirs-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-jupyter_core-python3

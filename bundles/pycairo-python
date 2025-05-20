@@ -1,0 +1,8 @@
+# [TITLE]: pycairo-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pycairo-python3)
+pycairo-python

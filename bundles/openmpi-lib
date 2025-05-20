@@ -1,0 +1,14 @@
+# [TITLE]: openmpi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hwloc-lib)
+include(libc6)
+include(libevent-lib)
+include(libgcc1)
+include(openmpi-data)
+include(openmpi-license)
+include(pmix-lib)
+openmpi-lib

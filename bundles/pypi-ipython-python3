@@ -1,0 +1,17 @@
+# [TITLE]: pypi-ipython-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-decorator-python3)
+include(pypi-ipython-pygments-lexers-python3)
+include(pypi-jedi-python3)
+include(pypi-matplotlib_inline-python3)
+include(pypi-pexpect-python3)
+include(pypi-prompt_toolkit-python3)
+include(pypi-pygments-python3)
+include(pypi-stack_data-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-ipython-python3

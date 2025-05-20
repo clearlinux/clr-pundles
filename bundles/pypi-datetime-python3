@@ -1,0 +1,10 @@
+# [TITLE]: pypi-datetime-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytz-python3)
+include(pypi-zope.interface-python3)
+include(python3-core)
+pypi-datetime-python3

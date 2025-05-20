@@ -1,0 +1,8 @@
+# [TITLE]: pypi-entrypoints-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-entrypoints-python3)
+pypi-entrypoints-python

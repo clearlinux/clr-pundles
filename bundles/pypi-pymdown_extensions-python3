@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pymdown_extensions-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-markdown-python3)
+include(python3-core)
+pypi-pymdown_extensions-python3

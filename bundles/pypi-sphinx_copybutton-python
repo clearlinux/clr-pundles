@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinx_copybutton-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_copybutton-python3)
+pypi-sphinx_copybutton-python

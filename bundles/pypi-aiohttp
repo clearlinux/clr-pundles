@@ -1,0 +1,10 @@
+# [TITLE]: pypi-aiohttp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiohttp-license)
+include(pypi-aiohttp-python)
+include(pypi-aiohttp-python3)
+pypi-aiohttp

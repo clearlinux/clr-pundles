@@ -1,0 +1,10 @@
+# [TITLE]: pypi-frozenlist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-frozenlist-license)
+include(pypi-frozenlist-python)
+include(pypi-frozenlist-python3)
+pypi-frozenlist

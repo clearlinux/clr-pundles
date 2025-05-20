@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cloudflare
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cloudflare-license)
+include(pypi-cloudflare-python)
+include(pypi-cloudflare-python3)
+pypi-cloudflare

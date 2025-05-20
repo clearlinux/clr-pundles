@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pylint-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pylint-license)
+include(python3-core)
+pypi-pylint-bin

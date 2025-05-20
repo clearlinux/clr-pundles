@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyreadline
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyreadline-license)
+include(pypi-pyreadline-python)
+include(pypi-pyreadline-python3)
+pypi-pyreadline

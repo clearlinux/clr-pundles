@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyroute2.nftables
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroute2.nftables-license)
+include(pypi-pyroute2.nftables-python)
+include(pypi-pyroute2.nftables-python3)
+pypi-pyroute2.nftables

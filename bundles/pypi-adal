@@ -1,0 +1,9 @@
+# [TITLE]: pypi-adal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-adal-python)
+include(pypi-adal-python3)
+pypi-adal

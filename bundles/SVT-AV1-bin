@@ -1,0 +1,10 @@
+# [TITLE]: SVT-AV1-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SVT-AV1-lib)
+include(SVT-AV1-license)
+include(libc6)
+SVT-AV1-bin

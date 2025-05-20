@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wordfreq-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wordfreq-python3)
+pypi-wordfreq-python

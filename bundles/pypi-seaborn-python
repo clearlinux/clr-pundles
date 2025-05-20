@@ -1,0 +1,8 @@
+# [TITLE]: pypi-seaborn-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-seaborn-python3)
+pypi-seaborn-python

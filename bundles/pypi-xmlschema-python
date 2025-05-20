@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xmlschema-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xmlschema-python3)
+pypi-xmlschema-python

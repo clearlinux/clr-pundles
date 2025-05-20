@@ -1,0 +1,18 @@
+# [TITLE]: pypi-aiohttp-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-aiodns-python3)
+include(pypi-aiohappyeyeballs-python3)
+include(pypi-aiosignal-python3)
+include(pypi-attrs-python3)
+include(pypi-brotli-python3)
+include(pypi-frozenlist-python3)
+include(pypi-multidict-python3)
+include(pypi-propcache-python3)
+include(pypi-yarl-python3)
+include(python3-core)
+pypi-aiohttp-python3

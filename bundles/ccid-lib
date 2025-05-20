@@ -1,0 +1,10 @@
+# [TITLE]: ccid-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ccid-license)
+include(libc6)
+include(libusb-lib)
+ccid-lib

@@ -1,0 +1,8 @@
+# [TITLE]: enchant-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(enchant-man)
+enchant-doc

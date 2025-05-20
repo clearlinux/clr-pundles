@@ -1,0 +1,13 @@
+# [TITLE]: pypi-influxdb-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-msgpack-python3)
+include(pypi-python_dateutil-python3)
+include(pypi-pytz-python3)
+include(pypi-requests-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-influxdb-python3

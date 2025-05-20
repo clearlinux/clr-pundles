@@ -1,0 +1,9 @@
+# [TITLE]: pypi-ovirt_imageio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ovirt_imageio-license)
+include(python3-core)
+pypi-ovirt_imageio-bin

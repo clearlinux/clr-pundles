@@ -59,13 +59,13 @@ include(libtool)
 include(devpkg-libvorbis)
 also-add(devpkg-lua)
 also-add(machine-learning-basic)
-meson
+include(meson)
 include(devpkg-mpfr)
 also-add(openmpi)
 also-add(devpkg-openmpi)
 also-add(nasm)
 also-add(devpkg-ncurses)
-ninja
+include(ninja)
 include(numactl)
 include(devpkg-numactl)
 pypi-numpy
@@ -93,7 +93,7 @@ include(devpkg-snappy)
 SuiteSparse
 SuiteSparse-dev
 also-add(devpkg-sqlite-autoconf)
-tcl
+include(tcl)
 also-add(devpkg-tiff)
 time
 also-add(unzip)

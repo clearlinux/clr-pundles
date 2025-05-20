@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cytoolz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cytoolz-license)
+include(pypi-cytoolz-python)
+include(pypi-cytoolz-python3)
+pypi-cytoolz

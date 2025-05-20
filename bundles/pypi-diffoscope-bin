@@ -1,0 +1,9 @@
+# [TITLE]: pypi-diffoscope-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-diffoscope-license)
+include(python3-core)
+pypi-diffoscope-bin

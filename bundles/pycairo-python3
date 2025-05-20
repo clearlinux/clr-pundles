@@ -1,0 +1,10 @@
+# [TITLE]: pycairo-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(libc6)
+include(python3-core)
+pycairo-python3

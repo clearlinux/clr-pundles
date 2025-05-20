@@ -1,0 +1,9 @@
+# [TITLE]: pypi-neat_python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-neat_python-python)
+include(pypi-neat_python-python3)
+pypi-neat_python

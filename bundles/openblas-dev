@@ -1,0 +1,9 @@
+# [TITLE]: openblas-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openblas)
+include(pkg-config-bin)
+openblas-dev

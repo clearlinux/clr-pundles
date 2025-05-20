@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libevdev-dev
+include(libevdev-dev)

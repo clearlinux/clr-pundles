@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rfc3987-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rfc3987-python3)
+pypi-rfc3987-python

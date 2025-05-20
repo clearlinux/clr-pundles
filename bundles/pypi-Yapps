@@ -1,0 +1,10 @@
+# [TITLE]: pypi-Yapps
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-Yapps-bin)
+include(pypi-Yapps-python)
+include(pypi-Yapps-python3)
+pypi-Yapps

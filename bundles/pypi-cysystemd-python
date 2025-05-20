@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cysystemd-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cysystemd-python3)
+pypi-cysystemd-python

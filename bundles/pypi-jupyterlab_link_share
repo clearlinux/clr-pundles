@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jupyterlab_link_share
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyterlab_link_share-data)
+include(pypi-jupyterlab_link_share-license)
+include(pypi-jupyterlab_link_share-python)
+include(pypi-jupyterlab_link_share-python3)
+pypi-jupyterlab_link_share

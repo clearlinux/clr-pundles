@@ -1,0 +1,9 @@
+# [TITLE]: pypi-mkdocs_monorepo_plugin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs_monorepo_plugin-python)
+include(pypi-mkdocs_monorepo_plugin-python3)
+pypi-mkdocs_monorepo_plugin

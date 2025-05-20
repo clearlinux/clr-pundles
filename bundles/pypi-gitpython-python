@@ -1,0 +1,8 @@
+# [TITLE]: pypi-gitpython-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gitpython-python3)
+pypi-gitpython-python

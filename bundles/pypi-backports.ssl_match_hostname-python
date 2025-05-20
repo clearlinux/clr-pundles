@@ -1,0 +1,8 @@
+# [TITLE]: pypi-backports.ssl_match_hostname-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-backports.ssl_match_hostname-python3)
+pypi-backports.ssl_match_hostname-python

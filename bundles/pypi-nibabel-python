@@ -1,0 +1,8 @@
+# [TITLE]: pypi-nibabel-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nibabel-python3)
+pypi-nibabel-python

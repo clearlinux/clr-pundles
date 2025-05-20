@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-pygobject-dev
+include(pygobject-dev)
 include(pygobject)

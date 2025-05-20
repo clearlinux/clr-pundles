@@ -1,0 +1,8 @@
+# [TITLE]: pypi-six-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-six-python3)
+pypi-six-python

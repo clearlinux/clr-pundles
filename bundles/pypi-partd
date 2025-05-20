@@ -1,0 +1,11 @@
+# [TITLE]: pypi-partd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-locket-python3)
+include(pypi-partd-license)
+include(pypi-partd-python)
+include(pypi-partd-python3)
+pypi-partd

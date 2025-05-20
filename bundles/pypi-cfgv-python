@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cfgv-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cfgv-python3)
+pypi-cfgv-python

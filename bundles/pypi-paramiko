@@ -1,0 +1,10 @@
+# [TITLE]: pypi-paramiko
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-paramiko-license)
+include(pypi-paramiko-python)
+include(pypi-paramiko-python3)
+pypi-paramiko

@@ -1,0 +1,9 @@
+# [TITLE]: c-ares
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c-ares-lib)
+include(c-ares-license)
+c-ares

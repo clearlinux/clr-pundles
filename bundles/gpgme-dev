@@ -1,0 +1,15 @@
+# [TITLE]: gpgme-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gpgme)
+include(gpgme-bin)
+include(gpgme-data)
+include(gpgme-lib)
+include(libassuan-dev)
+include(libgpg-error-dev)
+include(pkg-config-bin)
+gpgme-dev

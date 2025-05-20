@@ -1,0 +1,10 @@
+# [TITLE]: pypi-home_assistant_frontend
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-home_assistant_frontend-license)
+include(pypi-home_assistant_frontend-python)
+include(pypi-home_assistant_frontend-python3)
+pypi-home_assistant_frontend

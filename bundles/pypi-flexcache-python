@@ -1,0 +1,8 @@
+# [TITLE]: pypi-flexcache-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flexcache-python3)
+pypi-flexcache-python

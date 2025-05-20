@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cytoolz-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-toolz-python3)
+include(python3-core)
+pypi-cytoolz-python3

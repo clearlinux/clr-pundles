@@ -1,0 +1,12 @@
+# [TITLE]: alsa-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-bin)
+include(alsa-lib-data)
+include(alsa-lib-lib)
+include(alsa-lib-license)
+include(alsa-ucm-conf-data)
+alsa-lib

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-doxypypy-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chardet-python3)
+include(python3-core)
+pypi-doxypypy-python3

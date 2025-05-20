@@ -1,0 +1,8 @@
+# [TITLE]: pypi-diskcache-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-diskcache-python3)
+pypi-diskcache-python

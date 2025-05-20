@@ -1,0 +1,8 @@
+# [TITLE]: pypi-flask-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flask-python3)
+pypi-flask-python

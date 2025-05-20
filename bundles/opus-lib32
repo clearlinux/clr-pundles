@@ -1,0 +1,9 @@
+# [TITLE]: opus-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(opus-license)
+opus-lib32

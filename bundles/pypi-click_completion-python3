@@ -1,0 +1,12 @@
+# [TITLE]: pypi-click_completion-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-click-python3)
+include(pypi-jinja2-python3)
+include(pypi-shellingham-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-click_completion-python3

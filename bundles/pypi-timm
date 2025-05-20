@@ -1,0 +1,10 @@
+# [TITLE]: pypi-timm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-timm-license)
+include(pypi-timm-python)
+include(pypi-timm-python3)
+pypi-timm

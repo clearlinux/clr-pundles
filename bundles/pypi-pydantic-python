@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pydantic-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydantic-python3)
+pypi-pydantic-python

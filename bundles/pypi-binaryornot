@@ -1,0 +1,10 @@
+# [TITLE]: pypi-binaryornot
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-binaryornot-license)
+include(pypi-binaryornot-python)
+include(pypi-binaryornot-python3)
+pypi-binaryornot

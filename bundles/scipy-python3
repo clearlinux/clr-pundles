@@ -1,0 +1,14 @@
+# [TITLE]: scipy-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgfortran)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openblas)
+include(pypi-numpy-python3)
+include(python3-core)
+scipy-python3

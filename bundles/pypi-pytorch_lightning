@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pytorch_lightning
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytorch_lightning-license)
+include(pypi-pytorch_lightning-python)
+include(pypi-pytorch_lightning-python3)
+pypi-pytorch_lightning

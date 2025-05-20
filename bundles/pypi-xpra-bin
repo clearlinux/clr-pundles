@@ -1,0 +1,12 @@
+# [TITLE]: pypi-xpra-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(pypi-xpra-config)
+include(pypi-xpra-data)
+include(pypi-xpra-libexec)
+include(pypi-xpra-license)
+pypi-xpra-bin

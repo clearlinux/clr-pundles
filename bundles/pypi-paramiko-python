@@ -1,0 +1,8 @@
+# [TITLE]: pypi-paramiko-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-paramiko-python3)
+pypi-paramiko-python

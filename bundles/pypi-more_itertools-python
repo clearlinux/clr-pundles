@@ -1,0 +1,8 @@
+# [TITLE]: pypi-more_itertools-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-more_itertools-python3)
+pypi-more_itertools-python

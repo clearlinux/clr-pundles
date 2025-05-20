@@ -1,0 +1,10 @@
+# [TITLE]: libnetfilter_conntrack-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnetfilter_conntrack-dev)
+include(libnetfilter_conntrack-lib32)
+include(libnfnetlink-dev)
+libnetfilter_conntrack-dev32

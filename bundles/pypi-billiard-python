@@ -1,0 +1,8 @@
+# [TITLE]: pypi-billiard-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-billiard-python3)
+pypi-billiard-python

@@ -1,0 +1,15 @@
+# [TITLE]: pcsc-lite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ccid)
+include(pcsc-lite-autostart)
+include(pcsc-lite-bin)
+include(pcsc-lite-data)
+include(pcsc-lite-lib)
+include(pcsc-lite-license)
+include(pcsc-lite-man)
+include(pcsc-lite-services)
+pcsc-lite

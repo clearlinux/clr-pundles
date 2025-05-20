@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyserial
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyserial-bin)
+include(pypi-pyserial-license)
+include(pypi-pyserial-python)
+include(pypi-pyserial-python3)
+pypi-pyserial

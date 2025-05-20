@@ -1,0 +1,8 @@
+# [TITLE]: pypi-translationstring-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-translationstring-python3)
+pypi-translationstring-python

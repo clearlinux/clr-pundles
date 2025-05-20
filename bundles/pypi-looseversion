@@ -1,0 +1,10 @@
+# [TITLE]: pypi-looseversion
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-looseversion-license)
+include(pypi-looseversion-python)
+include(pypi-looseversion-python3)
+pypi-looseversion

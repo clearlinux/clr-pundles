@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytest_randomly-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_randomly-python3)
+pypi-pytest_randomly-python

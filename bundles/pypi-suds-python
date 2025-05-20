@@ -1,0 +1,8 @@
+# [TITLE]: pypi-suds-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-suds-python3)
+pypi-suds-python

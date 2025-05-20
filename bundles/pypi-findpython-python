@@ -1,0 +1,8 @@
+# [TITLE]: pypi-findpython-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-findpython-python3)
+pypi-findpython-python

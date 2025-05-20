@@ -1,0 +1,12 @@
+# [TITLE]: pypi-ipython_sql
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipython_genutils-python3)
+include(pypi-ipython_sql-license)
+include(pypi-ipython_sql-python)
+include(pypi-ipython_sql-python3)
+include(pypi-sqlalchemy-python3)
+pypi-ipython_sql

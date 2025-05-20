@@ -1,0 +1,8 @@
+# [TITLE]: pypi-fontmath-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fontmath-python3)
+pypi-fontmath-python

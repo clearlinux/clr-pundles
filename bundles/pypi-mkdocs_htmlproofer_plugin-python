@@ -1,0 +1,8 @@
+# [TITLE]: pypi-mkdocs_htmlproofer_plugin-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs_htmlproofer_plugin-python3)
+pypi-mkdocs_htmlproofer_plugin-python

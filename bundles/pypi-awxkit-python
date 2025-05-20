@@ -1,0 +1,8 @@
+# [TITLE]: pypi-awxkit-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-awxkit-python3)
+pypi-awxkit-python

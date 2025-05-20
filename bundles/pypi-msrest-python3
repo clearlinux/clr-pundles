@@ -1,0 +1,13 @@
+# [TITLE]: pypi-msrest-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isodate-python3)
+include(pypi-azure_core-python3)
+include(pypi-certifi-python3)
+include(pypi-requests-python3)
+include(pypi-requests_oauthlib-python3)
+include(python3-core)
+pypi-msrest-python3

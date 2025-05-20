@@ -1,0 +1,9 @@
+# [TITLE]: pypi-aiohttp_cors-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiohttp-python3)
+include(python3-core)
+pypi-aiohttp_cors-python3

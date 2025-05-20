@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hsluv-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hsluv-python3)
+pypi-hsluv-python

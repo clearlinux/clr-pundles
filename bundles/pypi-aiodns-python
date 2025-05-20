@@ -1,0 +1,8 @@
+# [TITLE]: pypi-aiodns-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiodns-python3)
+pypi-aiodns-python

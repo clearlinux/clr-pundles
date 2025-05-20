@@ -1,0 +1,11 @@
+# [TITLE]: pypi-netapp_lib-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lxml-python3)
+include(pypi-six-python3)
+include(pypi-xmltodict-python3)
+include(python3-core)
+pypi-netapp_lib-python3

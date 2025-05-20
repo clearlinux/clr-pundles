@@ -1,0 +1,15 @@
+# [TITLE]: qtbase-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(pkg-config-bin)
+include(python3-core)
+include(qtbase)
+include(qtbase-dev)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtbase-staticdev)
+qtbase-dev

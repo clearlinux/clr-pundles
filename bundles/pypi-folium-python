@@ -1,0 +1,8 @@
+# [TITLE]: pypi-folium-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-folium-python3)
+pypi-folium-python

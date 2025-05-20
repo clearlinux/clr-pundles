@@ -1,0 +1,8 @@
+# [TITLE]: pypi-docker-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docker-python3)
+pypi-docker-python

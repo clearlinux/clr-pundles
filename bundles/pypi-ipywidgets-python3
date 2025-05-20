@@ -1,0 +1,13 @@
+# [TITLE]: pypi-ipywidgets-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-comm-python3)
+include(pypi-ipython-python3)
+include(pypi-jupyterlab_widgets-python3)
+include(pypi-traitlets-python3)
+include(pypi-widgetsnbextension-python3)
+include(python3-core)
+pypi-ipywidgets-python3

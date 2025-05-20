@@ -1,0 +1,10 @@
+# [TITLE]: pypi-beautifulsoup4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beautifulsoup4-license)
+include(pypi-beautifulsoup4-python)
+include(pypi-beautifulsoup4-python3)
+pypi-beautifulsoup4

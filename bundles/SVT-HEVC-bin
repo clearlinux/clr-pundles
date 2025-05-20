@@ -1,0 +1,9 @@
+# [TITLE]: SVT-HEVC-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SVT-HEVC-lib)
+include(libc6)
+SVT-HEVC-bin

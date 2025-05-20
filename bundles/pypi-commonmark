@@ -1,0 +1,11 @@
+# [TITLE]: pypi-commonmark
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-commonmark-bin)
+include(pypi-commonmark-license)
+include(pypi-commonmark-python)
+include(pypi-commonmark-python3)
+pypi-commonmark

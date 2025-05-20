@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pdm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pdm-license)
+include(python3-core)
+pypi-pdm-bin

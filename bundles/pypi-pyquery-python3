@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyquery-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cssselect-python3)
+include(pypi-lxml-python3)
+include(python3-core)
+pypi-pyquery-python3

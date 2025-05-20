@@ -1,0 +1,12 @@
+# [TITLE]: flac-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flac-bin)
+include(flac-dev)
+include(flac-lib32)
+include(libogg-dev)
+include(pkg-config-bin)
+flac-dev32

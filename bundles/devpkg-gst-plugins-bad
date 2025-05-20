@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gst-plugins-bad-dev
+include(gst-plugins-bad-dev)
 include(libX11client)
 include(curl)
 include(libglib)

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dulwich-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-dulwich-bin

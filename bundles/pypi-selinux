@@ -1,0 +1,10 @@
+# [TITLE]: pypi-selinux
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-selinux-license)
+include(pypi-selinux-python)
+include(pypi-selinux-python3)
+pypi-selinux

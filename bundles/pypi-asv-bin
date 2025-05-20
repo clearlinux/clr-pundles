@@ -1,0 +1,9 @@
+# [TITLE]: pypi-asv-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-asv-license)
+include(python3-core)
+pypi-asv-bin

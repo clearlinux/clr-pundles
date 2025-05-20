@@ -1,0 +1,8 @@
+# [TITLE]: pypi-einops-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-einops-python3)
+pypi-einops-python

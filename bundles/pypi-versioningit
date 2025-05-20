@@ -1,0 +1,11 @@
+# [TITLE]: pypi-versioningit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-versioningit-bin)
+include(pypi-versioningit-license)
+include(pypi-versioningit-python)
+include(pypi-versioningit-python3)
+pypi-versioningit

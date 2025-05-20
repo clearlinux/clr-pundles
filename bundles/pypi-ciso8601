@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ciso8601
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ciso8601-license)
+include(pypi-ciso8601-python)
+include(pypi-ciso8601-python3)
+pypi-ciso8601

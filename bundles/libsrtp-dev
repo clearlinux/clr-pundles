@@ -1,0 +1,11 @@
+# [TITLE]: libsrtp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpcap-dev)
+include(libsrtp)
+include(libsrtp-lib)
+include(pkg-config-bin)
+libsrtp-dev

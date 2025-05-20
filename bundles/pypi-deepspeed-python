@@ -1,0 +1,8 @@
+# [TITLE]: pypi-deepspeed-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deepspeed-python3)
+pypi-deepspeed-python

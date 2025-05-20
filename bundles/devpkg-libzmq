@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libzmq-dev
+include(libzmq-dev)
 include(libstdcpp)
 include(libzmq)

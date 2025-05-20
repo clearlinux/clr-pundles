@@ -17,7 +17,7 @@ include(perl-basic)
 include(gpgme)
 include(curl)
 rpm
-gpgme-python3
+include(gpgme-python3)
 include(libglib)
 # end of custom additions
 

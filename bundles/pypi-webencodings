@@ -1,0 +1,9 @@
+# [TITLE]: pypi-webencodings
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-webencodings-python)
+include(pypi-webencodings-python3)
+pypi-webencodings

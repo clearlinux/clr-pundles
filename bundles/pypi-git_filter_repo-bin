@@ -1,0 +1,9 @@
+# [TITLE]: pypi-git_filter_repo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-git_filter_repo-license)
+include(python3-core)
+pypi-git_filter_repo-bin

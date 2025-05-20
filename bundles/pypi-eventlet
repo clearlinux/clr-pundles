@@ -1,0 +1,10 @@
+# [TITLE]: pypi-eventlet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-eventlet-license)
+include(pypi-eventlet-python)
+include(pypi-eventlet-python3)
+pypi-eventlet

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytest_rerunfailures-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_rerunfailures-python3)
+pypi-pytest_rerunfailures-python

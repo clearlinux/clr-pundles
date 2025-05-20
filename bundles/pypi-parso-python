@@ -1,0 +1,8 @@
+# [TITLE]: pypi-parso-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-parso-python3)
+pypi-parso-python

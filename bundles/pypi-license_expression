@@ -1,0 +1,10 @@
+# [TITLE]: pypi-license_expression
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-license_expression-license)
+include(pypi-license_expression-python)
+include(pypi-license_expression-python3)
+pypi-license_expression

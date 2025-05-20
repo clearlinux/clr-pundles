@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cheetah3-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cheetah3-python3)
+pypi-cheetah3-python

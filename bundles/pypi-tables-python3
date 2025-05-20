@@ -1,0 +1,22 @@
+# [TITLE]: pypi-tables-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(c-blosc-lib)
+include(c-blosc2-lib)
+include(hdf5-lib)
+include(libc6)
+include(lzo-lib)
+include(pypi-blosc2-python3)
+include(pypi-msgpack-python3)
+include(pypi-ndindex-python3)
+include(pypi-numexpr-python3)
+include(pypi-numpy-python3)
+include(pypi-packaging-python3)
+include(pypi-py_cpuinfo-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-tables-python3

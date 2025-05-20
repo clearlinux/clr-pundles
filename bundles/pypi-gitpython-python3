@@ -1,0 +1,9 @@
+# [TITLE]: pypi-gitpython-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gitdb-python3)
+include(python3-core)
+pypi-gitpython-python3

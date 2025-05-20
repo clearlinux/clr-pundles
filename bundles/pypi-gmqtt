@@ -1,0 +1,10 @@
+# [TITLE]: pypi-gmqtt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gmqtt-license)
+include(pypi-gmqtt-python)
+include(pypi-gmqtt-python3)
+pypi-gmqtt

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_newsfeed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_newsfeed-license)
+include(pypi-sphinxcontrib_newsfeed-python)
+include(pypi-sphinxcontrib_newsfeed-python3)
+pypi-sphinxcontrib_newsfeed

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-doit-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-doit-python3)
+pypi-doit-python

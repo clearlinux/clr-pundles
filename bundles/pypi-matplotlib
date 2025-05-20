@@ -1,0 +1,10 @@
+# [TITLE]: pypi-matplotlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-matplotlib-license)
+include(pypi-matplotlib-python)
+include(pypi-matplotlib-python3)
+pypi-matplotlib

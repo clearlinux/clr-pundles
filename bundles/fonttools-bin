@@ -1,0 +1,9 @@
+# [TITLE]: fonttools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fonttools-license)
+include(python3-core)
+fonttools-bin

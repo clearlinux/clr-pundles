@@ -1,0 +1,11 @@
+# [TITLE]: pypi-py_cpuinfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-py_cpuinfo-bin)
+include(pypi-py_cpuinfo-license)
+include(pypi-py_cpuinfo-python)
+include(pypi-py_cpuinfo-python3)
+pypi-py_cpuinfo

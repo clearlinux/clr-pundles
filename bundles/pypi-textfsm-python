@@ -1,0 +1,8 @@
+# [TITLE]: pypi-textfsm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-textfsm-python3)
+pypi-textfsm-python

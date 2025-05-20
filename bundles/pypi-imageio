@@ -1,0 +1,10 @@
+# [TITLE]: pypi-imageio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-imageio-bin)
+include(pypi-imageio-python)
+include(pypi-imageio-python3)
+pypi-imageio

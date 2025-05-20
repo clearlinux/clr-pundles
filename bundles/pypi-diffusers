@@ -1,0 +1,11 @@
+# [TITLE]: pypi-diffusers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-diffusers-bin)
+include(pypi-diffusers-license)
+include(pypi-diffusers-python)
+include(pypi-diffusers-python3)
+pypi-diffusers

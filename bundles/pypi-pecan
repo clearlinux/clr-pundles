@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pecan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pecan-bin)
+include(pypi-pecan-license)
+include(pypi-pecan-python)
+include(pypi-pecan-python3)
+pypi-pecan

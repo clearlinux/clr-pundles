@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyscss
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyscss-bin)
+include(pypi-pyscss-license)
+include(pypi-pyscss-python)
+include(pypi-pyscss-python3)
+pypi-pyscss

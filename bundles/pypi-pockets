@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pockets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pockets-license)
+include(pypi-pockets-python)
+include(pypi-pockets-python3)
+pypi-pockets

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pickleshare-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pickleshare-python3)
+pypi-pickleshare-python

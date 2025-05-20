@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rpmfile-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rpmfile-python3)
+pypi-rpmfile-python

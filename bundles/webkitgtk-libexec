@@ -1,0 +1,20 @@
+# [TITLE]: webkitgtk-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gcc-libs-math)
+include(glib-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(systemd-extras-libsystemd)
+include(webkitgtk-lib)
+include(webkitgtk-license)
+include(zlib-lib)
+webkitgtk-libexec

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-markdown
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-importlib_metadata-python3)
+include(pypi-markdown-bin)
+include(pypi-markdown-license)
+include(pypi-markdown-python)
+include(pypi-markdown-python3)
+pypi-markdown

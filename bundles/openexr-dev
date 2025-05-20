@@ -1,0 +1,12 @@
+# [TITLE]: openexr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-dev)
+include(openexr)
+include(openexr-bin)
+include(openexr-lib)
+include(pkg-config-bin)
+openexr-dev

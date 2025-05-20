@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jinja2_pluralize
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jinja2_pluralize-license)
+include(pypi-jinja2_pluralize-python)
+include(pypi-jinja2_pluralize-python3)
+pypi-jinja2_pluralize

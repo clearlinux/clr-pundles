@@ -1,0 +1,8 @@
+# [TITLE]: pypi-yarl-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yarl-python3)
+pypi-yarl-python

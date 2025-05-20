@@ -1,0 +1,10 @@
+# [TITLE]: pypi-terminaltables
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-terminaltables-license)
+include(pypi-terminaltables-python)
+include(pypi-terminaltables-python3)
+pypi-terminaltables

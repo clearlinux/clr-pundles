@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyspnego-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cryptography-python3)
+include(pypi-krb5-python3)
+include(python3-core)
+pypi-pyspnego-python3

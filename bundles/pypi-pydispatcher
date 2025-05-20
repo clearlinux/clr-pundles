@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pydispatcher
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydispatcher-license)
+include(pypi-pydispatcher-python)
+include(pypi-pydispatcher-python3)
+pypi-pydispatcher

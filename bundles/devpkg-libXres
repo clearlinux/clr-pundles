@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libXres-dev
+include(libXres-dev)
 include(libX11client)

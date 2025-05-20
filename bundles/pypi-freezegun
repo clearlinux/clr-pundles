@@ -1,0 +1,10 @@
+# [TITLE]: pypi-freezegun
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-freezegun-license)
+include(pypi-freezegun-python)
+include(pypi-freezegun-python3)
+pypi-freezegun

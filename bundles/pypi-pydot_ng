@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pydot_ng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(graphviz)
+include(pypi-pydot_ng-license)
+include(pypi-pydot_ng-python)
+include(pypi-pydot_ng-python3)
+pypi-pydot_ng

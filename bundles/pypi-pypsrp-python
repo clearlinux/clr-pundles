@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pypsrp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pypsrp-python3)
+pypi-pypsrp-python

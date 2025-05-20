@@ -1,0 +1,11 @@
+# [TITLE]: openal-soft
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openal-soft-bin)
+include(openal-soft-data)
+include(openal-soft-lib)
+include(openal-soft-license)
+openal-soft

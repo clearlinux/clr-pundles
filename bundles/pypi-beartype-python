@@ -1,0 +1,8 @@
+# [TITLE]: pypi-beartype-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beartype-python3)
+pypi-beartype-python

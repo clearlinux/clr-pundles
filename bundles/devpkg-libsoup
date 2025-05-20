@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libsoup-dev
+include(libsoup-dev)
 include(libglib)
 include(icu4c-lib)
 include(libpsl-lib)

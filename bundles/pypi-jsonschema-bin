@@ -1,0 +1,9 @@
+# [TITLE]: pypi-jsonschema-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonschema-license)
+include(python3-core)
+pypi-jsonschema-bin

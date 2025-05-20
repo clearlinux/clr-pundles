@@ -1,0 +1,8 @@
+# [TITLE]: pypi-exdir-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-exdir-python3)
+pypi-exdir-python

@@ -15,7 +15,7 @@ include(openmpi)
 
 include(machine-learning-mycroft)
 
-pypi-scikit_learn
+include(pypi-scikit_learn)
 
 
 
@@ -23,16 +23,16 @@ pypi-scikit_learn
 # Dependencies, helpers and libraries for Key frameworks
 #
 
-pypi-configargparse
-pypi-pillow
+include(pypi-configargparse)
+include(pypi-pillow)
 R-deepnet
 R-neuralnet
 R-statmod
-pypi-appdirs
-pypi-astroid
-pypi-bokeh
+include(pypi-appdirs)
+include(pypi-astroid)
+include(pypi-bokeh)
 include(devpkg-boost)
-cycler-python
+include(cycler-python)
 include(devpkg-eigen)
 include(devpkg-fann)
 include(devpkg-gflags)
@@ -40,15 +40,15 @@ include(devpkg-glog)
 include(glibc-lib-avx2)
 include(devpkg-googletest)
 include(graphviz)
-pypi-h5py
-hdf5-dev
-hdf5-dev
+include(pypi-h5py)
+include(hdf5-dev)
+include(hdf5-dev)
 #Keras
 leveldb-dev
 include(devpkg-libjpeg-turbo)
 include(devpkg-lmdb)
-pypi-matplotlib
-pypi-mido
+include(pypi-matplotlib)
+include(pypi-mido)
 mkl-dnn-dev
 mpi4py
 nose-parameterized
@@ -61,28 +61,28 @@ opencv-python
 openjdk-dev
 include(java-basic)
 pandas
-pypi-pillow
-pypi-posix_ipc
+include(pypi-pillow)
+include(pypi-posix_ipc)
 include(devpkg-protobuf-c)
 include(devpkg-protobuf)
-pypi-protobuf
-pypi-pydot
+include(pypi-protobuf)
+include(pypi-pydot)
 pydotplus
-pypi-pydot_ng
-pypi-pyparsing
-pypi-future
-pypi-levenshtein
-pypi-mock
+include(pypi-pydot_ng)
+include(pypi-pyparsing)
+include(pypi-future)
+include(pypi-levenshtein)
+include(pypi-mock)
 PyYAML
-pypi-scikit_image
-scipy-python
+include(pypi-scikit_image)
+include(scipy-python)
 pypi-six
-pypi-smart_open
+include(pypi-smart_open)
 include(devpkg-snappy)
 include(Sphinx)
 swig
 include(devpkg-tbb)
 
-pypi-tqdm
+include(pypi-tqdm)
 include(pypi-wheel)
 include(pcre-lib)

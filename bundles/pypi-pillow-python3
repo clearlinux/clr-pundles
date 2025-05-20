@@ -1,0 +1,13 @@
+# [TITLE]: pypi-pillow-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freetype-lib)
+include(libX11-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(python3-core)
+include(zlib-lib)
+pypi-pillow-python3

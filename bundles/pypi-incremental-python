@@ -1,0 +1,8 @@
+# [TITLE]: pypi-incremental-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-incremental-python3)
+pypi-incremental-python

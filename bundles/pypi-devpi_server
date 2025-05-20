@@ -1,0 +1,11 @@
+# [TITLE]: pypi-devpi_server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-devpi_server-bin)
+include(pypi-devpi_server-license)
+include(pypi-devpi_server-python)
+include(pypi-devpi_server-python3)
+pypi-devpi_server

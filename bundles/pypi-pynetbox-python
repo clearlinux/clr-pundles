@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pynetbox-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pynetbox-python3)
+pypi-pynetbox-python

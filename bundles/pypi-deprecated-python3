@@ -1,0 +1,9 @@
+# [TITLE]: pypi-deprecated-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wrapt-python3)
+include(python3-core)
+pypi-deprecated-python3

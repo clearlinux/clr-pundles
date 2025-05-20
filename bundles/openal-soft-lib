@@ -1,0 +1,12 @@
+# [TITLE]: openal-soft-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openal-soft-data)
+include(openal-soft-license)
+openal-soft-lib

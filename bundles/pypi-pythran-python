@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pythran-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pythran-python3)
+pypi-pythran-python

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-blivet-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-blivet-license)
+include(python3-core)
+pypi-blivet-libexec

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cons-license)
+include(pypi-cons-python)
+include(pypi-cons-python3)
+pypi-cons

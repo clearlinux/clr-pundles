@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-Imath-dev
+include(Imath-dev)
 include(libstdcpp)

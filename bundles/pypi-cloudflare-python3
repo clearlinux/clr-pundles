@@ -1,0 +1,14 @@
+# [TITLE]: pypi-cloudflare-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-anyio-python3)
+include(pypi-distro-python3)
+include(pypi-httpx-python3)
+include(pypi-pydantic-python3)
+include(pypi-sniffio-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-cloudflare-python3

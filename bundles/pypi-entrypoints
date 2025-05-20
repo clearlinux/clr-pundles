@@ -1,0 +1,10 @@
+# [TITLE]: pypi-entrypoints
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-entrypoints-license)
+include(pypi-entrypoints-python)
+include(pypi-entrypoints-python3)
+pypi-entrypoints

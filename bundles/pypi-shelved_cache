@@ -1,0 +1,10 @@
+# [TITLE]: pypi-shelved_cache
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-shelved_cache-license)
+include(pypi-shelved_cache-python)
+include(pypi-shelved_cache-python3)
+pypi-shelved_cache

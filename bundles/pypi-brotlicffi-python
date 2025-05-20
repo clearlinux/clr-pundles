@@ -1,0 +1,8 @@
+# [TITLE]: pypi-brotlicffi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-brotlicffi-python3)
+pypi-brotlicffi-python

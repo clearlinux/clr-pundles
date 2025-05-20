@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-md4c-dev
+include(md4c-dev)

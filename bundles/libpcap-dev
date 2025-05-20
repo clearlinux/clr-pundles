@@ -1,0 +1,13 @@
+# [TITLE]: libpcap-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-dev)
+include(libnl-dev)
+include(libpcap)
+include(libpcap-bin)
+include(libpcap-lib)
+include(pkg-config-bin)
+libpcap-dev

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pefile
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pefile-license)
+include(pypi-pefile-python)
+include(pypi-pefile-python3)
+pypi-pefile

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-userpath-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-userpath-license)
+include(python3-core)
+pypi-userpath-bin

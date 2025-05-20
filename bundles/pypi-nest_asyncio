@@ -1,0 +1,10 @@
+# [TITLE]: pypi-nest_asyncio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nest_asyncio-license)
+include(pypi-nest_asyncio-python)
+include(pypi-nest_asyncio-python3)
+pypi-nest_asyncio

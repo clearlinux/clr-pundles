@@ -1,0 +1,8 @@
+# [TITLE]: pypi-fastjsonschema-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-fastjsonschema-python3

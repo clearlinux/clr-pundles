@@ -1,0 +1,8 @@
+# [TITLE]: pypi-persist_queue-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-persist_queue-python3)
+pypi-persist_queue-python

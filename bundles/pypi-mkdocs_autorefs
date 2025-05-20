@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mkdocs_autorefs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs_autorefs-license)
+include(pypi-mkdocs_autorefs-python)
+include(pypi-mkdocs_autorefs-python3)
+pypi-mkdocs_autorefs

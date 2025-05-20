@@ -1,0 +1,13 @@
+# [TITLE]: pypi-oauth2client-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-httplib2-python3)
+include(pypi-pyasn1-python3)
+include(pypi-pyasn1_modules-python3)
+include(pypi-rsa-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-oauth2client-python3

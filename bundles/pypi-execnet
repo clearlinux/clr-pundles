@@ -1,0 +1,10 @@
+# [TITLE]: pypi-execnet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-execnet-license)
+include(pypi-execnet-python)
+include(pypi-execnet-python3)
+pypi-execnet

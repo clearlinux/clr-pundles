@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ml_dtypes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ml_dtypes-license)
+include(pypi-ml_dtypes-python)
+include(pypi-ml_dtypes-python3)
+pypi-ml_dtypes

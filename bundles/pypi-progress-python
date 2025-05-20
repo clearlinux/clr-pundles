@@ -1,0 +1,8 @@
+# [TITLE]: pypi-progress-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-progress-python3)
+pypi-progress-python

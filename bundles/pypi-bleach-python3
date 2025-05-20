@@ -1,0 +1,11 @@
+# [TITLE]: pypi-bleach-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(pypi-tinycss2-python3)
+include(pypi-webencodings-python3)
+include(python3-core)
+pypi-bleach-python3

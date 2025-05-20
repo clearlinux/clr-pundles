@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xstatic_bootstrap_scss-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic_bootstrap_scss-python3)
+pypi-xstatic_bootstrap_scss-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mock-license)
+include(pypi-mock-python)
+include(pypi-mock-python3)
+pypi-mock

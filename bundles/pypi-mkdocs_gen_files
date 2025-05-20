@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mkdocs_gen_files
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs_gen_files-license)
+include(pypi-mkdocs_gen_files-python)
+include(pypi-mkdocs_gen_files-python3)
+pypi-mkdocs_gen_files

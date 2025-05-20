@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytest_mock-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_mock-python3)
+pypi-pytest_mock-python

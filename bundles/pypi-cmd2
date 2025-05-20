@@ -1,0 +1,11 @@
+# [TITLE]: pypi-cmd2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cmd2-license)
+include(pypi-cmd2-python)
+include(pypi-cmd2-python3)
+include(which)
+pypi-cmd2

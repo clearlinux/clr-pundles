@@ -1,0 +1,11 @@
+# [TITLE]: SVT-AV1-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SVT-AV1)
+include(SVT-AV1-bin)
+include(SVT-AV1-lib)
+include(pkg-config-bin)
+SVT-AV1-dev

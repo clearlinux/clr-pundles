@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinx_last_updated_by_git
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_last_updated_by_git-license)
+include(pypi-sphinx_last_updated_by_git-python)
+include(pypi-sphinx_last_updated_by_git-python3)
+pypi-sphinx_last_updated_by_git

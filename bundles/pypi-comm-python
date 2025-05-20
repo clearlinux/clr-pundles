@@ -1,0 +1,8 @@
+# [TITLE]: pypi-comm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-comm-python3)
+pypi-comm-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-repoze.lru
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-repoze.lru-license)
+include(pypi-repoze.lru-python)
+include(pypi-repoze.lru-python3)
+pypi-repoze.lru

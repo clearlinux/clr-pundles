@@ -1,0 +1,13 @@
+# [TITLE]: gst-plugins-base
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gst-plugins-base-bin)
+include(gst-plugins-base-data)
+include(gst-plugins-base-lib)
+include(gst-plugins-base-license)
+include(gst-plugins-base-locales)
+include(gst-plugins-base-man)
+gst-plugins-base

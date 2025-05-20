@@ -1,0 +1,21 @@
+# [TITLE]: qt6base-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Headers-dev)
+include(coreutils-bin)
+include(cups-dev)
+include(filesystem)
+include(libxkbcommon-dev)
+include(libxkbfile-dev)
+include(llvm-staticdev)
+include(mesa-dev)
+include(pkg-config-bin)
+include(qt6base)
+include(qt6base-data)
+include(qt6base-dev)
+include(qt6base-lib)
+include(qt6shadertools-dev)
+qt6base-dev

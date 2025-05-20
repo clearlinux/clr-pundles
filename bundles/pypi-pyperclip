@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyperclip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyperclip-license)
+include(pypi-pyperclip-python)
+include(pypi-pyperclip-python3)
+pypi-pyperclip

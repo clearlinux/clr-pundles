@@ -1,0 +1,10 @@
+# [TITLE]: alsa-lib-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-data)
+include(alsa-lib-license)
+include(glibc-libc32)
+alsa-lib-lib32

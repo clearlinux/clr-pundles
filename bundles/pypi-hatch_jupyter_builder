@@ -1,0 +1,11 @@
+# [TITLE]: pypi-hatch_jupyter_builder
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hatch_jupyter_builder-bin)
+include(pypi-hatch_jupyter_builder-license)
+include(pypi-hatch_jupyter_builder-python)
+include(pypi-hatch_jupyter_builder-python3)
+pypi-hatch_jupyter_builder

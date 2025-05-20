@@ -1,0 +1,8 @@
+# [TITLE]: pypi-py_cpuinfo-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-py_cpuinfo-python3

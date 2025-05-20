@@ -1,0 +1,10 @@
+# [TITLE]: pypi-setuptools_rust
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools_rust-license)
+include(pypi-setuptools_rust-python)
+include(pypi-setuptools_rust-python3)
+pypi-setuptools_rust

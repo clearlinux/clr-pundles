@@ -1,0 +1,10 @@
+# [TITLE]: pypi-xvfbwrapper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xvfbwrapper-license)
+include(pypi-xvfbwrapper-python)
+include(pypi-xvfbwrapper-python3)
+pypi-xvfbwrapper

@@ -1,0 +1,10 @@
+# [TITLE]: geos
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geos-bin)
+include(geos-lib)
+include(geos-license)
+geos

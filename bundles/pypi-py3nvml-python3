@@ -1,0 +1,9 @@
+# [TITLE]: pypi-py3nvml-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xmltodict-python3)
+include(python3-core)
+pypi-py3nvml-python3

@@ -1,0 +1,9 @@
+# [TITLE]: libvorbis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvorbis-lib)
+include(libvorbis-license)
+libvorbis

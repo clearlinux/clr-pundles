@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pynvml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pynvml-license)
+include(pypi-pynvml-python)
+include(pypi-pynvml-python3)
+pypi-pynvml

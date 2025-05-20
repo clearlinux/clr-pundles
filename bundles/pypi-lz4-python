@@ -1,0 +1,8 @@
+# [TITLE]: pypi-lz4-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lz4-python3)
+pypi-lz4-python

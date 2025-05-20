@@ -1,0 +1,10 @@
+# [TITLE]: pypi-kubernetes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-kubernetes-license)
+include(pypi-kubernetes-python)
+include(pypi-kubernetes-python3)
+pypi-kubernetes

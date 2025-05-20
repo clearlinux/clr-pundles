@@ -1,0 +1,10 @@
+# [TITLE]: pypi-dkimpy-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dnspython-python3)
+include(pypi-py3dns-python3)
+include(python3-core)
+pypi-dkimpy-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hatch_vcs-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hatch_vcs-python3)
+pypi-hatch_vcs-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-argon2_cffi_bindings
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-argon2_cffi_bindings-license)
+include(pypi-argon2_cffi_bindings-python)
+include(pypi-argon2_cffi_bindings-python3)
+pypi-argon2_cffi_bindings

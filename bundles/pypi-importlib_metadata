@@ -1,0 +1,11 @@
+# [TITLE]: pypi-importlib_metadata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-importlib_metadata-license)
+include(pypi-importlib_metadata-python)
+include(pypi-importlib_metadata-python3)
+include(pypi-zipp-python3)
+pypi-importlib_metadata

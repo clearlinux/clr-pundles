@@ -1,0 +1,17 @@
+# [TITLE]: pypi-flask-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+include(pypi-amqp-python3)
+include(pypi-async_timeout-python3)
+include(pypi-billiard-python3)
+include(pypi-blinker-python3)
+include(pypi-click-python3)
+include(pypi-itsdangerous-python3)
+include(pypi-jinja2-python3)
+include(pypi-werkzeug-python3)
+include(python3-core)
+pypi-flask-python3

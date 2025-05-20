@@ -1,0 +1,10 @@
+# [TITLE]: pypi-retry_decorator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-retry_decorator-license)
+include(pypi-retry_decorator-python)
+include(pypi-retry_decorator-python3)
+pypi-retry_decorator

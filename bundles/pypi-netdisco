@@ -1,0 +1,10 @@
+# [TITLE]: pypi-netdisco
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-netdisco-license)
+include(pypi-netdisco-python)
+include(pypi-netdisco-python3)
+pypi-netdisco

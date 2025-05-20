@@ -1,0 +1,9 @@
+# [TITLE]: pypi-atpublic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-atpublic-python)
+include(pypi-atpublic-python3)
+pypi-atpublic

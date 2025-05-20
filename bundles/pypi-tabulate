@@ -1,0 +1,11 @@
+# [TITLE]: pypi-tabulate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tabulate-bin)
+include(pypi-tabulate-license)
+include(pypi-tabulate-python)
+include(pypi-tabulate-python3)
+pypi-tabulate

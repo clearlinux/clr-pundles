@@ -1,0 +1,8 @@
+# [TITLE]: pypi-docker_pycreds-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docker_pycreds-python3)
+pypi-docker_pycreds-python

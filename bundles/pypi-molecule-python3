@@ -1,0 +1,20 @@
+# [TITLE]: pypi-molecule-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(ansible-core-python3)
+include(pypi-ansible_compat-python3)
+include(pypi-click-python3)
+include(pypi-click_help_colors-python3)
+include(pypi-enrich-python3)
+include(pypi-jinja2-python3)
+include(pypi-jsonschema-python3)
+include(pypi-packaging-python3)
+include(pypi-pluggy-python3)
+include(pypi-rich-python3)
+include(pypi-wcmatch-python3)
+include(python3-core)
+pypi-molecule-python3

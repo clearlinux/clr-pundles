@@ -1,0 +1,15 @@
+# [TITLE]: pypi-grpcio-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(c-ares-lib)
+include(libc6)
+include(libstdc++)
+include(openssl-lib)
+include(python3-core)
+include(re2-lib)
+include(zlib-lib)
+pypi-grpcio-python3

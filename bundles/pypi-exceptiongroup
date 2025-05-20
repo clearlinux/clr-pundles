@@ -1,0 +1,10 @@
+# [TITLE]: pypi-exceptiongroup
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-exceptiongroup-license)
+include(pypi-exceptiongroup-python)
+include(pypi-exceptiongroup-python3)
+pypi-exceptiongroup

@@ -1,0 +1,17 @@
+# [TITLE]: pypi-pyramid-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hupper-python3)
+include(pypi-plaster-python3)
+include(pypi-plaster_pastedeploy-python3)
+include(pypi-setuptools-python3)
+include(pypi-translationstring-python3)
+include(pypi-venusian-python3)
+include(pypi-webob-python3)
+include(pypi-zope.deprecation-python3)
+include(pypi-zope.interface-python3)
+include(python3-core)
+pypi-pyramid-python3

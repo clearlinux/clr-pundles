@@ -1,0 +1,13 @@
+# [TITLE]: requests-ntlm-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cryptography-python3)
+include(pypi-flask-python3)
+include(pypi-pyspnego-python3)
+include(pypi-requests-python3)
+include(pypi-wheel-python3)
+include(python3-core)
+requests-ntlm-python3

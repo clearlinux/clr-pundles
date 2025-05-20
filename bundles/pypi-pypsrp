@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pypsrp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pypsrp-license)
+include(pypi-pypsrp-python)
+include(pypi-pypsrp-python3)
+pypi-pypsrp

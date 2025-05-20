@@ -1,0 +1,8 @@
+# [TITLE]: pypi-aiosmtpd-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiosmtpd-python3)
+pypi-aiosmtpd-python

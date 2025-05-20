@@ -1,0 +1,8 @@
+# [TITLE]: pypi-crashtest-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-crashtest-python3)
+pypi-crashtest-python

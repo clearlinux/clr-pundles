@@ -1,0 +1,11 @@
+# [TITLE]: pypi-eternalegypt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-eternalegypt-license)
+include(pypi-eternalegypt-python)
+include(pypi-eternalegypt-python3)
+include(pypi-flatten_json-python3)
+pypi-eternalegypt

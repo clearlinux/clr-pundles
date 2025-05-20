@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pastel-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pastel-python3)
+pypi-pastel-python

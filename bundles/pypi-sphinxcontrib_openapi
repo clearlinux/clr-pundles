@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_openapi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_openapi-license)
+include(pypi-sphinxcontrib_openapi-python)
+include(pypi-sphinxcontrib_openapi-python3)
+pypi-sphinxcontrib_openapi

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-monotonic-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-monotonic-python3)
+pypi-monotonic-python

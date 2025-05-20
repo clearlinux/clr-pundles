@@ -1,0 +1,8 @@
+# [TITLE]: pypi-yattag-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yattag-python3)
+pypi-yattag-python

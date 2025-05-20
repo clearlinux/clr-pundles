@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jupyterlab_pygments
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyterlab_pygments-data)
+include(pypi-jupyterlab_pygments-license)
+include(pypi-jupyterlab_pygments-python)
+include(pypi-jupyterlab_pygments-python3)
+pypi-jupyterlab_pygments

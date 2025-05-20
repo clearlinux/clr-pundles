@@ -1,0 +1,10 @@
+# [TITLE]: pypi-tokenizers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tokenizers-license)
+include(pypi-tokenizers-python)
+include(pypi-tokenizers-python3)
+pypi-tokenizers

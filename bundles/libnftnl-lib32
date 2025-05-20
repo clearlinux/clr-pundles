@@ -1,0 +1,10 @@
+# [TITLE]: libnftnl-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libmnl-lib32)
+include(libnftnl-license)
+libnftnl-lib32

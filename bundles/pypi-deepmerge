@@ -1,0 +1,10 @@
+# [TITLE]: pypi-deepmerge
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deepmerge-license)
+include(pypi-deepmerge-python)
+include(pypi-deepmerge-python3)
+pypi-deepmerge

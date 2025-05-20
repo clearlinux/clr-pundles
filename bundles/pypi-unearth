@@ -1,0 +1,11 @@
+# [TITLE]: pypi-unearth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-unearth-bin)
+include(pypi-unearth-license)
+include(pypi-unearth-python)
+include(pypi-unearth-python3)
+pypi-unearth

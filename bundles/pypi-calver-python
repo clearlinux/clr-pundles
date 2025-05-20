@@ -1,0 +1,8 @@
+# [TITLE]: pypi-calver-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-calver-python3)
+pypi-calver-python

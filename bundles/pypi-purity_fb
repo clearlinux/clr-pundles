@@ -1,0 +1,10 @@
+# [TITLE]: pypi-purity_fb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-purity_fb-license)
+include(pypi-purity_fb-python)
+include(pypi-purity_fb-python3)
+pypi-purity_fb

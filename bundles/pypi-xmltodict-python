@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xmltodict-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xmltodict-python3)
+pypi-xmltodict-python

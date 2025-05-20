@@ -1,0 +1,16 @@
+# [TITLE]: pypi-sphinx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-alabaster-python3)
+include(pypi-docutils)
+include(pypi-imagesize-python3)
+include(pypi-requests-python3)
+include(pypi-snowballstemmer-python3)
+include(pypi-sphinx-bin)
+include(pypi-sphinx-python)
+include(pypi-sphinx-python3)
+include(pypi-sphinxcontrib_websupport-python3)
+pypi-sphinx

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyproject_metadata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyproject_metadata-license)
+include(pypi-pyproject_metadata-python)
+include(pypi-pyproject_metadata-python3)
+pypi-pyproject_metadata

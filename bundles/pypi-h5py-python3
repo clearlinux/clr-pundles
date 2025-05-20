@@ -1,0 +1,11 @@
+# [TITLE]: pypi-h5py-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hdf5-lib)
+include(libc6)
+include(pypi-numpy-python3)
+include(python3-core)
+pypi-h5py-python3

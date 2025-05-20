@@ -1,0 +1,10 @@
+# [TITLE]: pypi-parameterized
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-parameterized-license)
+include(pypi-parameterized-python)
+include(pypi-parameterized-python3)
+pypi-parameterized

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qt6base-dev
+include(qt6base-dev)
 include(libX11client)
 include(libglib)
 include(lib-imageformat)

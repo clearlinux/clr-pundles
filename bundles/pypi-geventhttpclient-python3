@@ -1,0 +1,13 @@
+# [TITLE]: pypi-geventhttpclient-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-brotli-python3)
+include(pypi-certifi-python3)
+include(pypi-gevent-python3)
+include(pypi-urllib3-python3)
+include(python3-core)
+pypi-geventhttpclient-python3

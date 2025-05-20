@@ -1,0 +1,12 @@
+# [TITLE]: pypi-mutagen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mutagen-bin)
+include(pypi-mutagen-license)
+include(pypi-mutagen-man)
+include(pypi-mutagen-python)
+include(pypi-mutagen-python3)
+pypi-mutagen

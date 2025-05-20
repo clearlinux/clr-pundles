@@ -1,0 +1,9 @@
+# [TITLE]: Vulkan-Headers-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Headers)
+include(Vulkan-Headers-data)
+Vulkan-Headers-dev

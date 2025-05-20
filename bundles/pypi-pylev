@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pylev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pylev-license)
+include(pypi-pylev-python)
+include(pypi-pylev-python3)
+pypi-pylev

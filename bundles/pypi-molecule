@@ -1,0 +1,11 @@
+# [TITLE]: pypi-molecule
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-molecule-bin)
+include(pypi-molecule-license)
+include(pypi-molecule-python)
+include(pypi-molecule-python3)
+pypi-molecule

@@ -1,0 +1,12 @@
+# [TITLE]: woff2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(woff2-license)
+woff2-lib

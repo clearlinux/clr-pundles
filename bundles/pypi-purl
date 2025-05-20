@@ -1,0 +1,10 @@
+# [TITLE]: pypi-purl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-purl-license)
+include(pypi-purl-python)
+include(pypi-purl-python3)
+pypi-purl

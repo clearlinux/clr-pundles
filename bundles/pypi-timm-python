@@ -1,0 +1,8 @@
+# [TITLE]: pypi-timm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-timm-python3)
+pypi-timm-python

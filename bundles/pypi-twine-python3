@@ -1,0 +1,17 @@
+# [TITLE]: pypi-twine-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-keyring-python3)
+include(pypi-packaging-python3)
+include(pypi-pkginfo-python3)
+include(pypi-readme_renderer-python3)
+include(pypi-requests-python3)
+include(pypi-requests_toolbelt-python3)
+include(pypi-rfc3986-python3)
+include(pypi-rich-python3)
+include(pypi-urllib3-python3)
+include(python3-core)
+pypi-twine-python3

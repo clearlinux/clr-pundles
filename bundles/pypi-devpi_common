@@ -1,0 +1,10 @@
+# [TITLE]: pypi-devpi_common
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-devpi_common-license)
+include(pypi-devpi_common-python)
+include(pypi-devpi_common-python3)
+pypi-devpi_common

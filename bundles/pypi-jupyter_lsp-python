@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyter_lsp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_lsp-python3)
+pypi-jupyter_lsp-python

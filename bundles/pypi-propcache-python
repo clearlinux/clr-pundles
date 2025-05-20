@@ -1,0 +1,8 @@
+# [TITLE]: pypi-propcache-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-propcache-python3)
+pypi-propcache-python

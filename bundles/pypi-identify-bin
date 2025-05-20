@@ -1,0 +1,9 @@
+# [TITLE]: pypi-identify-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-identify-license)
+include(python3-core)
+pypi-identify-bin

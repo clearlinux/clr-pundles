@@ -1,0 +1,10 @@
+# [TITLE]: portmidi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-dev)
+include(portmidi)
+include(portmidi-lib)
+portmidi-dev

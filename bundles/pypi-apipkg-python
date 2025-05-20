@@ -1,0 +1,8 @@
+# [TITLE]: pypi-apipkg-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-apipkg-python3)
+pypi-apipkg-python

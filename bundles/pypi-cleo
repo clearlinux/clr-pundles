@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cleo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cleo-license)
+include(pypi-cleo-python)
+include(pypi-cleo-python3)
+pypi-cleo

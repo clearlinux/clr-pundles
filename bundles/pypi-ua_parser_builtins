@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ua_parser_builtins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ua_parser_builtins-license)
+include(pypi-ua_parser_builtins-python)
+include(pypi-ua_parser_builtins-python3)
+pypi-ua_parser_builtins

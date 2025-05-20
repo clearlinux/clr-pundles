@@ -1,0 +1,8 @@
+# [TITLE]: pypi-serpent-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-serpent-python3)
+pypi-serpent-python

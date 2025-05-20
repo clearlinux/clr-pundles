@@ -1,0 +1,8 @@
+# [TITLE]: pypi-progressbar-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-progressbar-python3)
+pypi-progressbar-python

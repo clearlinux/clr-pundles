@@ -1,0 +1,8 @@
+# [TITLE]: pypi-astunparse-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-astunparse-python3)
+pypi-astunparse-python

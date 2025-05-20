@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pytest_localserver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_localserver-license)
+include(pypi-pytest_localserver-python)
+include(pypi-pytest_localserver-python3)
+include(pypi-werkzeug-python3)
+pypi-pytest_localserver

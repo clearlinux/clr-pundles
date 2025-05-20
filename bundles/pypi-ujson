@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ujson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ujson-license)
+include(pypi-ujson-python)
+include(pypi-ujson-python3)
+pypi-ujson

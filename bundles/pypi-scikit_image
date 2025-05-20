@@ -1,0 +1,18 @@
+# [TITLE]: pypi-scikit_image
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cloudpickle-python3)
+include(pypi-dask-python3)
+include(pypi-imageio-python3)
+include(pypi-matplotlib-python3)
+include(pypi-networkx-python3)
+include(pypi-pillow-python3)
+include(pypi-pywavelets-python3)
+include(pypi-scikit_image-license)
+include(pypi-scikit_image-python)
+include(pypi-scikit_image-python3)
+include(scipy-python3)
+pypi-scikit_image

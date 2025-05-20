@@ -1,0 +1,10 @@
+# [TITLE]: pypi-seaborn
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-seaborn-license)
+include(pypi-seaborn-python)
+include(pypi-seaborn-python3)
+pypi-seaborn

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_serializinghtml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_serializinghtml-license)
+include(pypi-sphinxcontrib_serializinghtml-python)
+include(pypi-sphinxcontrib_serializinghtml-python3)
+pypi-sphinxcontrib_serializinghtml

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-restructuredtext_lint-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-restructuredtext_lint-python3)
+pypi-restructuredtext_lint-python

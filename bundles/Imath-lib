@@ -1,0 +1,10 @@
+# [TITLE]: Imath-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-license)
+include(libc6)
+include(libstdc++)
+Imath-lib

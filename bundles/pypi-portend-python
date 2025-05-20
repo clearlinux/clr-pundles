@@ -1,0 +1,8 @@
+# [TITLE]: pypi-portend-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-portend-python3)
+pypi-portend-python

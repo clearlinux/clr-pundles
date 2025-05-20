@@ -1,0 +1,11 @@
+# [TITLE]: mypy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mypy-bin)
+include(mypy-license)
+include(mypy-python)
+include(mypy-python3)
+mypy

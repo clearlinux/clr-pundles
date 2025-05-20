@@ -1,0 +1,8 @@
+# [TITLE]: libproxy-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libproxy-man)
+libproxy-doc

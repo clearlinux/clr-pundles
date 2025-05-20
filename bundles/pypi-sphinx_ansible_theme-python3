@@ -1,0 +1,35 @@
+# [TITLE]: pypi-sphinx_ansible_theme-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+include(pypi-alabaster-python3)
+include(pypi-ansible_pygments-python3)
+include(pypi-babel-python3)
+include(pypi-certifi-python3)
+include(pypi-charset_normalizer-python3)
+include(pypi-docutils-python3)
+include(pypi-idna-python3)
+include(pypi-imagesize-python3)
+include(pypi-importlib_metadata-python3)
+include(pypi-jinja2-python3)
+include(pypi-packaging-python3)
+include(pypi-pygments-python3)
+include(pypi-pytz-python3)
+include(pypi-requests-python3)
+include(pypi-snowballstemmer-python3)
+include(pypi-sphinx-python3)
+include(pypi-sphinx_notfound_page-python3)
+include(pypi-sphinx_rtd_theme-python3)
+include(pypi-sphinxcontrib_applehelp-python3)
+include(pypi-sphinxcontrib_devhelp-python3)
+include(pypi-sphinxcontrib_htmlhelp-python3)
+include(pypi-sphinxcontrib_jsmath-python3)
+include(pypi-sphinxcontrib_qthelp-python3)
+include(pypi-sphinxcontrib_serializinghtml-python3)
+include(pypi-urllib3-python3)
+include(pypi-zipp-python3)
+include(python3-core)
+pypi-sphinx_ansible_theme-python3

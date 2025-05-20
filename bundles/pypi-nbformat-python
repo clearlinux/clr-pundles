@@ -1,0 +1,8 @@
+# [TITLE]: pypi-nbformat-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nbformat-python3)
+pypi-nbformat-python

@@ -1,0 +1,12 @@
+# [TITLE]: openal-soft-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openal-soft-bin)
+include(openal-soft-data)
+include(openal-soft-dev)
+include(openal-soft-lib32)
+include(pkg-config-bin)
+openal-soft-dev32

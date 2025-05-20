@@ -1,0 +1,8 @@
+# [TITLE]: pypi-verboselogs-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-verboselogs-python3)
+pypi-verboselogs-python

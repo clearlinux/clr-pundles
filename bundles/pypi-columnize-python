@@ -1,0 +1,8 @@
+# [TITLE]: pypi-columnize-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-columnize-python3)
+pypi-columnize-python

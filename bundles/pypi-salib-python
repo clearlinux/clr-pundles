@@ -1,0 +1,8 @@
+# [TITLE]: pypi-salib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-salib-python3)
+pypi-salib-python

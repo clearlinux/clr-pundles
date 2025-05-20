@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pexpect
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pexpect-license)
+include(pypi-pexpect-python)
+include(pypi-pexpect-python3)
+pypi-pexpect

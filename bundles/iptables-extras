@@ -1,0 +1,8 @@
+# [TITLE]: iptables-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+iptables-extras

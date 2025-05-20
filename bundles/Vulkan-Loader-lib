@@ -1,0 +1,9 @@
+# [TITLE]: Vulkan-Loader-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-license)
+include(libc6)
+Vulkan-Loader-lib

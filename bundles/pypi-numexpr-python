@@ -1,0 +1,8 @@
+# [TITLE]: pypi-numexpr-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-numexpr-python3)
+pypi-numexpr-python

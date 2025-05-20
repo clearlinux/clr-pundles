@@ -1,0 +1,14 @@
+# [TITLE]: pypi-mkdocstrings-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+include(pypi-jinja2-python3)
+include(pypi-markdown-python3)
+include(pypi-mkdocs-python3)
+include(pypi-mkdocs_autorefs-python3)
+include(pypi-pymdown_extensions-python3)
+include(python3-core)
+pypi-mkdocstrings-python3

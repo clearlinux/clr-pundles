@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-sbc-dev
+include(sbc-dev)

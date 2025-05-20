@@ -1,0 +1,8 @@
+# [TITLE]: pypi-snowballstemmer-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-snowballstemmer-python3)
+pypi-snowballstemmer-python

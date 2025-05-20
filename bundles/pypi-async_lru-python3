@@ -1,0 +1,8 @@
+# [TITLE]: pypi-async_lru-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-async_lru-python3

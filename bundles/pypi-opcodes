@@ -1,0 +1,10 @@
+# [TITLE]: pypi-opcodes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-opcodes-license)
+include(pypi-opcodes-python)
+include(pypi-opcodes-python3)
+pypi-opcodes

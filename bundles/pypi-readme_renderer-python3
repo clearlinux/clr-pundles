@@ -1,0 +1,11 @@
+# [TITLE]: pypi-readme_renderer-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docutils-python3)
+include(pypi-nh3-python3)
+include(pypi-pygments-python3)
+include(python3-core)
+pypi-readme_renderer-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pybtex-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pybtex-python3)
+pypi-pybtex-python

@@ -1,0 +1,8 @@
+# [TITLE]: glib-networking-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+glib-networking-services

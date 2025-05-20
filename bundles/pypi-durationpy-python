@@ -1,0 +1,8 @@
+# [TITLE]: pypi-durationpy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-durationpy-python3)
+pypi-durationpy-python

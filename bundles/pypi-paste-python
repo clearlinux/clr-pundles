@@ -1,0 +1,8 @@
+# [TITLE]: pypi-paste-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-paste-python3)
+pypi-paste-python

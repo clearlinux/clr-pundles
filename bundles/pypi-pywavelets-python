@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pywavelets-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pywavelets-python3)
+pypi-pywavelets-python

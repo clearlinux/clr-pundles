@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rfc3986_validator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rfc3986_validator-license)
+include(pypi-rfc3986_validator-python)
+include(pypi-rfc3986_validator-python3)
+pypi-rfc3986_validator

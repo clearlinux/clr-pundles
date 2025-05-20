@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyfakefs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyfakefs-license)
+include(pypi-pyfakefs-python)
+include(pypi-pyfakefs-python3)
+pypi-pyfakefs

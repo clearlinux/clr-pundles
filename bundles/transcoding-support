@@ -5,35 +5,35 @@
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # Audio
-libsndfile
-libvorbis
+include(libsndfile)
+include(libvorbis)
 include(pulseaudio)
 include(qt-basic)
 speex
-sbc
-openal-soft
+include(sbc)
+include(openal-soft)
 # Middleware/utility
-graphene
+include(graphene)
 include(gtk3)
 include(libgudev)
-librsvg
-libsoup
-libunwind
+include(librsvg)
+include(libsoup)
+include(libunwind)
 include(libusb)
 include(openblas)
-orc
+include(orc)
 include(pango)
-qtbase
+include(qtbase)
 qtdeclarative
 qtwayland
 qtx11extras
-SDL2
+include(SDL2)
 # Video
-Vulkan-Loader
-libtheora
+include(Vulkan-Loader)
+include(libtheora)
 libvdpau
-libvpx
-libwebp
+include(libvpx)
+include(libwebp)
 rtmpdump
 include(v4l-utils)
 include(libpsl-lib)

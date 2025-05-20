@@ -1,0 +1,11 @@
+# [TITLE]: libevent-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libevent)
+include(libevent-bin)
+include(libevent-dev)
+include(libevent-lib)
+libevent-dev

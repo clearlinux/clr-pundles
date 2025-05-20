@@ -1,0 +1,9 @@
+# [TITLE]: pypi-thefuzz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-thefuzz-python)
+include(pypi-thefuzz-python3)
+pypi-thefuzz

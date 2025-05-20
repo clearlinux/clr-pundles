@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tzdata-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tzdata-python3)
+pypi-tzdata-python

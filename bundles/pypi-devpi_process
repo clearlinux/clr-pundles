@@ -1,0 +1,10 @@
+# [TITLE]: pypi-devpi_process
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-devpi_process-license)
+include(pypi-devpi_process-python)
+include(pypi-devpi_process-python3)
+pypi-devpi_process

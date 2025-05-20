@@ -1,0 +1,10 @@
+# [TITLE]: pypi-chardet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chardet-license)
+include(pypi-chardet-python)
+include(pypi-chardet-python3)
+pypi-chardet

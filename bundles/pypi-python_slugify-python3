@@ -1,0 +1,9 @@
+# [TITLE]: pypi-python_slugify-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-text_unidecode-python3)
+include(python3-core)
+pypi-python_slugify-python3

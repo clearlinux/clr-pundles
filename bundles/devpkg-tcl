@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-tcl-dev
+include(tcl-dev)

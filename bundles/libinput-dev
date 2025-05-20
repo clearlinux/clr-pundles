@@ -1,0 +1,12 @@
+# [TITLE]: libinput-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libinput)
+include(libinput-bin)
+include(libinput-data)
+include(libinput-lib)
+include(pkg-config-bin)
+libinput-dev

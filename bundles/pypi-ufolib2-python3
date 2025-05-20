@@ -1,0 +1,19 @@
+# [TITLE]: pypi-ufolib2-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fonttools-python3)
+include(fs-python3)
+include(pypi-appdirs-python3)
+include(pypi-attrs-python3)
+include(pypi-cattrs-python3)
+include(pypi-exceptiongroup-python3)
+include(pypi-lxml-python3)
+include(pypi-msgpack-python3)
+include(pypi-orjson-python3)
+include(pypi-six-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-ufolib2-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-flake8_isort
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flake8_isort-license)
+include(pypi-flake8_isort-python)
+include(pypi-flake8_isort-python3)
+pypi-flake8_isort

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-enrich-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rich-python3)
+include(python3-core)
+pypi-enrich-python3

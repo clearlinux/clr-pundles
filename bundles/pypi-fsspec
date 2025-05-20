@@ -1,0 +1,10 @@
+# [TITLE]: pypi-fsspec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fsspec-license)
+include(pypi-fsspec-python)
+include(pypi-fsspec-python3)
+pypi-fsspec

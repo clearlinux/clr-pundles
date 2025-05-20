@@ -1,0 +1,8 @@
+# [TITLE]: pypi-django_appconf-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-django_appconf-python3)
+pypi-django_appconf-python

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-sphinxcontrib.jquery
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib.jquery-python)
+include(pypi-sphinxcontrib.jquery-python3)
+pypi-sphinxcontrib.jquery

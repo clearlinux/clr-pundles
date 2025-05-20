@@ -1,0 +1,8 @@
+# [TITLE]: pypi-simplegeneric-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-simplegeneric-python3)
+pypi-simplegeneric-python

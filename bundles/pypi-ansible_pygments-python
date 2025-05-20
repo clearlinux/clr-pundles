@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ansible_pygments-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ansible_pygments-python3)
+pypi-ansible_pygments-python

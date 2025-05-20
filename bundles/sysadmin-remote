@@ -12,7 +12,7 @@ include(cockpit)
 include(sudo)
 
 # normal packags
-pypi-docker
+include(pypi-docker)
 nagios-plugins
 nrpe
 sos

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rpm_py_installer-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-rpm_py_installer-python3

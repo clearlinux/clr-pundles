@@ -1,0 +1,8 @@
+# [TITLE]: pypi-git_filter_repo-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-git_filter_repo-python3)
+pypi-git_filter_repo-python

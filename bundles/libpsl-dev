@@ -1,0 +1,11 @@
+# [TITLE]: libpsl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpsl)
+include(libpsl-bin)
+include(libpsl-lib)
+include(pkg-config-bin)
+libpsl-dev

@@ -1,0 +1,11 @@
+# [TITLE]: SDL2_ttf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-dev)
+include(SDL2_ttf)
+include(SDL2_ttf-lib)
+include(pkg-config-bin)
+SDL2_ttf-dev

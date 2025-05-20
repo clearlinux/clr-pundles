@@ -1,0 +1,10 @@
+# [TITLE]: pypi-intervaltree
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-intervaltree-license)
+include(pypi-intervaltree-python)
+include(pypi-intervaltree-python3)
+pypi-intervaltree

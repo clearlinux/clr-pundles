@@ -1,0 +1,11 @@
+# [TITLE]: pypi-sphinxcontrib_blockdiag
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-blockdiag-python3)
+include(pypi-sphinxcontrib_blockdiag-license)
+include(pypi-sphinxcontrib_blockdiag-python)
+include(pypi-sphinxcontrib_blockdiag-python3)
+pypi-sphinxcontrib_blockdiag

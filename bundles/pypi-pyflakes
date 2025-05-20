@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyflakes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyflakes-bin)
+include(pypi-pyflakes-license)
+include(pypi-pyflakes-python)
+include(pypi-pyflakes-python3)
+pypi-pyflakes

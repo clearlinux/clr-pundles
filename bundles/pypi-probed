@@ -1,0 +1,11 @@
+# [TITLE]: pypi-probed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-probed-bin)
+include(pypi-probed-license)
+include(pypi-probed-python)
+include(pypi-probed-python3)
+pypi-probed

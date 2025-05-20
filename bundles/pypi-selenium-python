@@ -1,0 +1,8 @@
+# [TITLE]: pypi-selenium-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-selenium-python3)
+pypi-selenium-python

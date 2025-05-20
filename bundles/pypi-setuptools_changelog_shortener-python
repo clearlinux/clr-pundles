@@ -1,0 +1,8 @@
+# [TITLE]: pypi-setuptools_changelog_shortener-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools_changelog_shortener-python3)
+pypi-setuptools_changelog_shortener-python

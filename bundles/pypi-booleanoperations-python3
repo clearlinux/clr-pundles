@@ -1,0 +1,10 @@
+# [TITLE]: pypi-booleanoperations-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fonttools-python3)
+include(pypi-pyclipper-python3)
+include(python3-core)
+pypi-booleanoperations-python3

@@ -36,9 +36,9 @@ iptraf-ng
 iputils
 iw
 links
-nftables-bin
-nftables-doc
-nftables-man
+include(nftables-bin)
+include(nftables-doc)
+include(nftables-man)
 nmap-extras
 openconnect
 opensm

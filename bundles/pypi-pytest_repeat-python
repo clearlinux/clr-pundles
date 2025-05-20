@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytest_repeat-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_repeat-python3)
+pypi-pytest_repeat-python

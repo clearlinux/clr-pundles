@@ -1,0 +1,10 @@
+# [TITLE]: pypi-xcffib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xcffib-license)
+include(pypi-xcffib-python)
+include(pypi-xcffib-python3)
+pypi-xcffib

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-fissix
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fissix-license)
+include(pypi-fissix-python)
+include(pypi-fissix-python3)
+pypi-fissix

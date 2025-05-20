@@ -1,0 +1,8 @@
+# [TITLE]: pypi-plaster-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-plaster-python3)
+pypi-plaster-python

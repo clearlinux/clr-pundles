@@ -1,0 +1,9 @@
+# [TITLE]: pypi-distro-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-distro-license)
+include(python3-core)
+pypi-distro-bin

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-pybind11
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pybind11-bin)
+include(pypi-pybind11-data)
+include(pypi-pybind11-license)
+include(pypi-pybind11-python)
+include(pypi-pybind11-python3)
+pypi-pybind11

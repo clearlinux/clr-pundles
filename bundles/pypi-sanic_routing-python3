@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sanic_routing-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-sanic_routing-python3

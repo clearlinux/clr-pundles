@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pytest_forked-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-py-python3)
+include(pypi-pytest-python3)
+include(python3-core)
+pypi-pytest_forked-python3

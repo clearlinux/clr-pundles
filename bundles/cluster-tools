@@ -13,8 +13,8 @@ include(perl-basic)
 include(openmpi)
 also-add(openmpi)
 also-add(modules)
-munge
-pmix
+include(munge)
+include(pmix)
 pdsh
 slurm
 

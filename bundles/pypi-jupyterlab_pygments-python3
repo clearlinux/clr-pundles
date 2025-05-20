@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyterlab_pygments-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-jupyterlab_pygments-python3

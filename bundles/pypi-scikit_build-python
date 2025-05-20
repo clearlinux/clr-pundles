@@ -1,0 +1,8 @@
+# [TITLE]: pypi-scikit_build-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-scikit_build-python3)
+pypi-scikit_build-python

@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libinput-dev
+include(libinput-dev)

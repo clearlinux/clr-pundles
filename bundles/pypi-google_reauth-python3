@@ -1,0 +1,9 @@
+# [TITLE]: pypi-google_reauth-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyu2f-python3)
+include(python3-core)
+pypi-google_reauth-python3

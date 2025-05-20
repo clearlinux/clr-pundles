@@ -1,0 +1,9 @@
+# [TITLE]: re2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(re2-lib)
+include(re2-license)
+re2

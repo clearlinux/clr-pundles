@@ -1,0 +1,8 @@
+# [TITLE]: pypi-templated_dictionary-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-templated_dictionary-python3)
+pypi-templated_dictionary-python

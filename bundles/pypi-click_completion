@@ -1,0 +1,10 @@
+# [TITLE]: pypi-click_completion
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-click_completion-license)
+include(pypi-click_completion-python)
+include(pypi-click_completion-python3)
+pypi-click_completion

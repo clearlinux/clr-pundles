@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinx_design-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_design-python3)
+pypi-sphinx_design-python

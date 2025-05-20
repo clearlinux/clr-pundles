@@ -1,0 +1,15 @@
+# [TITLE]: pypi-qtconsole-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipykernel-python3)
+include(pypi-jupyter_client-python3)
+include(pypi-jupyter_core-python3)
+include(pypi-packaging-python3)
+include(pypi-pygments-python3)
+include(pypi-qtpy-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-qtconsole-python3

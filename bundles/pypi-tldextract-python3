@@ -1,0 +1,12 @@
+# [TITLE]: pypi-tldextract-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-filelock-python3)
+include(pypi-idna-python3)
+include(pypi-requests-python3)
+include(pypi-requests_file-python3)
+include(python3-core)
+pypi-tldextract-python3

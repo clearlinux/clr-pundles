@@ -1,0 +1,9 @@
+# [TITLE]: pypi-nvidia_ml_py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nvidia_ml_py-python)
+include(pypi-nvidia_ml_py-python3)
+pypi-nvidia_ml_py

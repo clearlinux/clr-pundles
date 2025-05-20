@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_github_alt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_github_alt-license)
+include(pypi-sphinxcontrib_github_alt-python)
+include(pypi-sphinxcontrib_github_alt-python3)
+pypi-sphinxcontrib_github_alt

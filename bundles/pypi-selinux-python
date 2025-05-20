@@ -1,0 +1,8 @@
+# [TITLE]: pypi-selinux-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-selinux-python3)
+pypi-selinux-python

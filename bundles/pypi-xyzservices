@@ -1,0 +1,11 @@
+# [TITLE]: pypi-xyzservices
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xyzservices-data)
+include(pypi-xyzservices-license)
+include(pypi-xyzservices-python)
+include(pypi-xyzservices-python3)
+pypi-xyzservices

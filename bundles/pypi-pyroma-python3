@@ -1,0 +1,15 @@
+# [TITLE]: pypi-pyroma-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-build-python3)
+include(pypi-docutils-python3)
+include(pypi-packaging-python3)
+include(pypi-pygments-python3)
+include(pypi-requests-python3)
+include(pypi-setuptools-python3)
+include(pypi-trove_classifiers-python3)
+include(python3-core)
+pypi-pyroma-python3

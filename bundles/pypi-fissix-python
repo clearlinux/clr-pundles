@@ -1,0 +1,8 @@
+# [TITLE]: pypi-fissix-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fissix-python3)
+pypi-fissix-python

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-dns_lexicon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dns_lexicon-bin)
+include(pypi-dns_lexicon-license)
+include(pypi-dns_lexicon-python)
+include(pypi-dns_lexicon-python3)
+pypi-dns_lexicon

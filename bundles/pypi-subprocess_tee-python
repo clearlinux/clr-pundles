@@ -1,0 +1,8 @@
+# [TITLE]: pypi-subprocess_tee-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-subprocess_tee-python3)
+pypi-subprocess_tee-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-python_augeas
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_augeas-license)
+include(pypi-python_augeas-python)
+include(pypi-python_augeas-python3)
+pypi-python_augeas

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-aiosqlite-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiosqlite-python3)
+pypi-aiosqlite-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ped-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ped-python3)
+pypi-ped-python

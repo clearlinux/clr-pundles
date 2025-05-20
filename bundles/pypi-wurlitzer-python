@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wurlitzer-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wurlitzer-python3)
+pypi-wurlitzer-python

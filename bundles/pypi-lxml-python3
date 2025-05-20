@@ -1,0 +1,11 @@
+# [TITLE]: pypi-lxml-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libxml2-lib)
+include(libxslt-lib)
+include(python3-core)
+pypi-lxml-python3

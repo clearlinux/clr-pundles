@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xpra-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xpra-python3)
+pypi-xpra-python

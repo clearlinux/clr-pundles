@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cryptography
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cryptography-license)
+include(pypi-cryptography-python)
+include(pypi-cryptography-python3)
+pypi-cryptography

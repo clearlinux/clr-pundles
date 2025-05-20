@@ -1,0 +1,13 @@
+# [TITLE]: hwloc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(hwloc-data)
+include(hwloc-license)
+include(libc6)
+include(libpciaccess-lib)
+include(systemd-lib)
+hwloc-lib

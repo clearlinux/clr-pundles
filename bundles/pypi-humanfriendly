@@ -1,0 +1,11 @@
+# [TITLE]: pypi-humanfriendly
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-humanfriendly-bin)
+include(pypi-humanfriendly-license)
+include(pypi-humanfriendly-python)
+include(pypi-humanfriendly-python3)
+pypi-humanfriendly

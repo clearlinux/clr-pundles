@@ -1,0 +1,11 @@
+# [TITLE]: md4c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(md4c)
+include(md4c-bin)
+include(md4c-lib)
+include(pkg-config-bin)
+md4c-dev

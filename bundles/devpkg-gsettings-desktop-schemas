@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-gsettings-desktop-schemas-dev
+include(gsettings-desktop-schemas-dev)

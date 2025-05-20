@@ -1,0 +1,10 @@
+# [TITLE]: pypi-uc_micro_py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uc_micro_py-license)
+include(pypi-uc_micro_py-python)
+include(pypi-uc_micro_py-python3)
+pypi-uc_micro_py

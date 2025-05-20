@@ -1,0 +1,8 @@
+# [TITLE]: pypi-coverage_enable_subprocess-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-coverage_enable_subprocess-python3)
+pypi-coverage_enable_subprocess-python

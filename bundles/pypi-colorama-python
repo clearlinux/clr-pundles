@@ -1,0 +1,8 @@
+# [TITLE]: pypi-colorama-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-colorama-python3)
+pypi-colorama-python

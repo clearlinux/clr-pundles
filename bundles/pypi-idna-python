@@ -1,0 +1,8 @@
+# [TITLE]: pypi-idna-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-idna-python3)
+pypi-idna-python

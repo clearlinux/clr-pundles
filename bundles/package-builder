@@ -23,13 +23,13 @@ include(gpgme)
 # autospec requirements
 abireport
 include(binutils)
-pypi-chardet
-pypi-clr_artifact
+include(pypi-chardet)
+include(pypi-clr_artifact)
 include(gnupg)
-pypi-jinja2
-pypi-pycurl
-pypi-toml
-pypi-urllib3
+include(pypi-jinja2)
+include(pypi-pycurl)
+include(pypi-toml)
+include(pypi-urllib3)
 python-zstandard
 include(python3-xz-lzma)
 # koji command line utility

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-snowballstemmer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-snowballstemmer-license)
+include(pypi-snowballstemmer-python)
+include(pypi-snowballstemmer-python3)
+pypi-snowballstemmer

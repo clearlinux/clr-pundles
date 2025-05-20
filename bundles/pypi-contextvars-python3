@@ -1,0 +1,9 @@
+# [TITLE]: pypi-contextvars-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-immutables-python3)
+include(python3-core)
+pypi-contextvars-python3

@@ -1,0 +1,18 @@
+# [TITLE]: pypi-bokeh-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pandas-python3)
+include(pypi-contourpy-python3)
+include(pypi-jinja2-python3)
+include(pypi-narwhals-python3)
+include(pypi-numpy-python3)
+include(pypi-packaging-python3)
+include(pypi-pillow-python3)
+include(pypi-tornado-python3)
+include(pypi-xyzservices-python3)
+include(python3-core)
+pypi-bokeh-python3

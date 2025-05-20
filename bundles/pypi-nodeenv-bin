@@ -1,0 +1,9 @@
+# [TITLE]: pypi-nodeenv-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nodeenv-license)
+include(python3-core)
+pypi-nodeenv-bin

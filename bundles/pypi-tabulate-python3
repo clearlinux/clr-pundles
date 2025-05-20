@@ -1,0 +1,14 @@
+# [TITLE]: pypi-tabulate-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pandas-python3)
+include(pypi-build-python3)
+include(pypi-numpy-python3)
+include(pypi-pip-python3)
+include(pypi-tox-python3)
+include(pypi-wcwidth-python3)
+include(python3-core)
+pypi-tabulate-python3

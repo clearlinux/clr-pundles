@@ -1,0 +1,8 @@
+# [TITLE]: pypi-llfuse-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-llfuse-python3)
+pypi-llfuse-python

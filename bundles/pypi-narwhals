@@ -1,0 +1,10 @@
+# [TITLE]: pypi-narwhals
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-narwhals-license)
+include(pypi-narwhals-python)
+include(pypi-narwhals-python3)
+pypi-narwhals

@@ -1,0 +1,15 @@
+# [TITLE]: pypi-blosc2-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c-blosc2-lib)
+include(libc6)
+include(pypi-msgpack-python3)
+include(pypi-ndindex-python3)
+include(pypi-numexpr-python3)
+include(pypi-numpy-python3)
+include(pypi-py_cpuinfo-python3)
+include(python3-core)
+pypi-blosc2-python3

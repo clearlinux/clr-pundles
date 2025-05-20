@@ -1,0 +1,10 @@
+# [TITLE]: pypi-texttable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-texttable-license)
+include(pypi-texttable-python)
+include(pypi-texttable-python3)
+pypi-texttable

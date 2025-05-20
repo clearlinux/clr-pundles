@@ -1,0 +1,10 @@
+# [TITLE]: pypi-asn1crypto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-asn1crypto-license)
+include(pypi-asn1crypto-python)
+include(pypi-asn1crypto-python3)
+pypi-asn1crypto

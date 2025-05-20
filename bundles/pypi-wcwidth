@@ -1,0 +1,10 @@
+# [TITLE]: pypi-wcwidth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wcwidth-license)
+include(pypi-wcwidth-python)
+include(pypi-wcwidth-python3)
+pypi-wcwidth

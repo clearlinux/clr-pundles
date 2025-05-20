@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-openal-soft-dev
+include(openal-soft-dev)
 include(libstdcpp)

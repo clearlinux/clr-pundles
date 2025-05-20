@@ -1,0 +1,9 @@
+# [TITLE]: pypi-contourpy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-contourpy-python)
+include(pypi-contourpy-python3)
+pypi-contourpy

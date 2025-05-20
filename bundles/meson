@@ -1,0 +1,14 @@
+# [TITLE]: meson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(meson-bin)
+include(meson-data)
+include(meson-license)
+include(meson-man)
+include(meson-python)
+include(meson-python3)
+include(ninja)
+meson

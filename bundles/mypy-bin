@@ -1,0 +1,9 @@
+# [TITLE]: mypy-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mypy-license)
+include(python3-core)
+mypy-bin

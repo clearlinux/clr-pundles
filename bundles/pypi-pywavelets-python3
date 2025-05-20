@@ -1,0 +1,14 @@
+# [TITLE]: pypi-pywavelets-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(pypi-docutils-python3)
+include(pypi-numpy-python3)
+include(pypi-sphinx_copybutton-python3)
+include(pypi-sphinx_togglebutton-python3)
+include(python3-core)
+pypi-pywavelets-python3

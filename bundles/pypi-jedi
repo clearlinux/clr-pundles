@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jedi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jedi-license)
+include(pypi-jedi-python)
+include(pypi-jedi-python3)
+include(pypi-parso-python3)
+pypi-jedi

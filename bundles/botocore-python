@@ -1,0 +1,8 @@
+# [TITLE]: botocore-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(botocore-python3)
+botocore-python

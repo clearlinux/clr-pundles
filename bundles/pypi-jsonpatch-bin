@@ -1,0 +1,9 @@
+# [TITLE]: pypi-jsonpatch-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonpatch-license)
+include(python3-core)
+pypi-jsonpatch-bin

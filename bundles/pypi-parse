@@ -1,0 +1,10 @@
+# [TITLE]: pypi-parse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-parse-license)
+include(pypi-parse-python)
+include(pypi-parse-python3)
+pypi-parse

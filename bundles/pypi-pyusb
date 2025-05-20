@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyusb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyusb-license)
+include(pypi-pyusb-python)
+include(pypi-pyusb-python3)
+pypi-pyusb

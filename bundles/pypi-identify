@@ -1,0 +1,11 @@
+# [TITLE]: pypi-identify
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-identify-bin)
+include(pypi-identify-license)
+include(pypi-identify-python)
+include(pypi-identify-python3)
+pypi-identify

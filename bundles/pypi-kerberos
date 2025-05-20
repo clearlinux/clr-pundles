@@ -1,0 +1,9 @@
+# [TITLE]: pypi-kerberos
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-kerberos-python)
+include(pypi-kerberos-python3)
+pypi-kerberos

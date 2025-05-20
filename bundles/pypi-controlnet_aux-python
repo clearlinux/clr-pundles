@@ -1,0 +1,8 @@
+# [TITLE]: pypi-controlnet_aux-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-controlnet_aux-python3)
+pypi-controlnet_aux-python

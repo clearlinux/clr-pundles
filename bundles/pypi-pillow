@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pillow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pillow-license)
+include(pypi-pillow-python)
+include(pypi-pillow-python3)
+pypi-pillow

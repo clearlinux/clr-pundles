@@ -1,0 +1,8 @@
+# [TITLE]: pypi-fido2-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fido2-python3)
+pypi-fido2-python

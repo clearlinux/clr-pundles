@@ -13,7 +13,7 @@ include(qt-basic)
 include(dbus)
 include(icu4c)
 include(Linux-PAM)
-qtbase
+include(qtbase)
 qtdeclarative
 include(systemd-lib)
 

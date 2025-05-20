@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ansi2html-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-ansi2html-python3

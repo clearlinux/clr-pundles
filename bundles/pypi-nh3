@@ -1,0 +1,10 @@
+# [TITLE]: pypi-nh3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nh3-license)
+include(pypi-nh3-python)
+include(pypi-nh3-python3)
+pypi-nh3

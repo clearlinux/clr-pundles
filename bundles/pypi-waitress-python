@@ -1,0 +1,8 @@
+# [TITLE]: pypi-waitress-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-waitress-python3)
+pypi-waitress-python

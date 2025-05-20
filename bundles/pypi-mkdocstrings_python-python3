@@ -1,0 +1,11 @@
+# [TITLE]: pypi-mkdocstrings_python-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-griffe-python3)
+include(pypi-mkdocs_autorefs-python3)
+include(pypi-mkdocstrings-python3)
+include(python3-core)
+pypi-mkdocstrings_python-python3

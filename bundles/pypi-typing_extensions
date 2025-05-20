@@ -1,0 +1,10 @@
+# [TITLE]: pypi-typing_extensions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-typing_extensions-license)
+include(pypi-typing_extensions-python)
+include(pypi-typing_extensions-python3)
+pypi-typing_extensions

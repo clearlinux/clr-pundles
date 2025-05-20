@@ -1,0 +1,12 @@
+# [TITLE]: pypi-marisa_trie-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pypi-setuptools-python3)
+include(python3-core)
+pypi-marisa_trie-python3

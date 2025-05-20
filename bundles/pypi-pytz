@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pytz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytz-license)
+include(pypi-pytz-python)
+include(pypi-pytz-python3)
+pypi-pytz

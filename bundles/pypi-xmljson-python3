@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xmljson-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-xmljson-python3

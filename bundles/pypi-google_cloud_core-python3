@@ -1,0 +1,10 @@
+# [TITLE]: pypi-google_cloud_core-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_api_core-python3)
+include(pypi-google_auth-python3)
+include(python3-core)
+pypi-google_cloud_core-python3

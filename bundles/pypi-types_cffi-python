@@ -1,0 +1,8 @@
+# [TITLE]: pypi-types_cffi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_cffi-python3)
+pypi-types_cffi-python

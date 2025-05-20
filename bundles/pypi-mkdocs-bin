@@ -1,0 +1,9 @@
+# [TITLE]: pypi-mkdocs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs-license)
+include(python3-core)
+pypi-mkdocs-bin

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-jupyter_ydoc-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycrdt-python3)
+include(python3-core)
+pypi-jupyter_ydoc-python3

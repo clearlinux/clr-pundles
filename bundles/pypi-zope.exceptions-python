@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zope.exceptions-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.exceptions-python3)
+pypi-zope.exceptions-python

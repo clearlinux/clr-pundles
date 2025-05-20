@@ -1,0 +1,12 @@
+# [TITLE]: pypi-pint-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flexcache-python3)
+include(pypi-flexparser-python3)
+include(pypi-platformdirs-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-pint-python3

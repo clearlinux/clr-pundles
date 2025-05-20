@@ -1,0 +1,8 @@
+# [TITLE]: pypi-watchfiles-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-watchfiles-python3)
+pypi-watchfiles-python

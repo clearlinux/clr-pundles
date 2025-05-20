@@ -1,0 +1,9 @@
+# [TITLE]: qt6shadertools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6shadertools-lib)
+include(qt6shadertools-license)
+qt6shadertools

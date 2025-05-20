@@ -1,0 +1,8 @@
+# [TITLE]: pypi-chai-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chai-python3)
+pypi-chai-python

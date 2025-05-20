@@ -1,0 +1,8 @@
+# [TITLE]: pypi-astral-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-astral-python3)
+pypi-astral-python

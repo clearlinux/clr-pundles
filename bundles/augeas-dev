@@ -1,0 +1,13 @@
+# [TITLE]: augeas-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(augeas)
+include(augeas-bin)
+include(augeas-data)
+include(augeas-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+augeas-dev

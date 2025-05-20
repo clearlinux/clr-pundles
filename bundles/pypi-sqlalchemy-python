@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sqlalchemy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sqlalchemy-python3)
+pypi-sqlalchemy-python

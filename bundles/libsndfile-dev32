@@ -1,0 +1,15 @@
+# [TITLE]: libsndfile-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flac-dev)
+include(libogg-dev)
+include(libsndfile-bin)
+include(libsndfile-dev)
+include(libsndfile-lib32)
+include(libvorbis-dev)
+include(opus-dev)
+include(pkg-config-bin)
+libsndfile-dev32

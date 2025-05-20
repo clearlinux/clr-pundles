@@ -1,0 +1,8 @@
+# [TITLE]: pypi-kiwisolver-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-kiwisolver-python3)
+pypi-kiwisolver-python

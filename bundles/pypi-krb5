@@ -1,0 +1,10 @@
+# [TITLE]: pypi-krb5
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-krb5-license)
+include(pypi-krb5-python)
+include(pypi-krb5-python3)
+pypi-krb5

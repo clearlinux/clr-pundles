@@ -1,0 +1,11 @@
+# [TITLE]: libwebp-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwebp-bin)
+include(libwebp-dev)
+include(libwebp-lib32)
+include(pkg-config-bin)
+libwebp-dev32

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sure
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sure-bin)
+include(pypi-sure-python)
+include(pypi-sure-python3)
+pypi-sure

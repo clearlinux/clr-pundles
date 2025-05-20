@@ -1,0 +1,10 @@
+# [TITLE]: requests-ntlm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(requests-ntlm-license)
+include(requests-ntlm-python)
+include(requests-ntlm-python3)
+requests-ntlm

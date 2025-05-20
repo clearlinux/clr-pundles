@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.testing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.testing-license)
+include(pypi-zope.testing-python)
+include(pypi-zope.testing-python3)
+pypi-zope.testing

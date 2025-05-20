@@ -1,0 +1,9 @@
+# [TITLE]: jansson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jansson-lib)
+include(jansson-license)
+jansson

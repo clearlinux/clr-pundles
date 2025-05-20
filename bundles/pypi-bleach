@@ -1,0 +1,10 @@
+# [TITLE]: pypi-bleach
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bleach-license)
+include(pypi-bleach-python)
+include(pypi-bleach-python3)
+pypi-bleach

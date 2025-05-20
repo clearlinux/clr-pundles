@@ -1,0 +1,13 @@
+# [TITLE]: gstreamer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gstreamer-data)
+include(gstreamer-lib)
+include(gstreamer-libexec)
+include(gstreamer-license)
+include(libc6)
+gstreamer-bin

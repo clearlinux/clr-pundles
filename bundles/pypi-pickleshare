@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pickleshare
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pickleshare-license)
+include(pypi-pickleshare-python)
+include(pypi-pickleshare-python3)
+pypi-pickleshare

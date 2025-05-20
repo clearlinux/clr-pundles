@@ -1,0 +1,10 @@
+# [TITLE]: Vulkan-Loader-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-dev)
+include(Vulkan-Loader-lib32)
+include(pkg-config-bin)
+Vulkan-Loader-dev32

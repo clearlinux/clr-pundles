@@ -1,0 +1,10 @@
+# [TITLE]: pypi-soupsieve
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-soupsieve-license)
+include(pypi-soupsieve-python)
+include(pypi-soupsieve-python3)
+pypi-soupsieve

@@ -1,0 +1,8 @@
+# [TITLE]: gpgme-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+gpgme-python3

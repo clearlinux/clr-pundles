@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pycares-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycares-python3)
+pypi-pycares-python

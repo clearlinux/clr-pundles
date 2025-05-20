@@ -1,0 +1,10 @@
+# [TITLE]: pypi-re2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-re2-license)
+include(pypi-re2-python)
+include(pypi-re2-python3)
+pypi-re2

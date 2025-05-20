@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyroute2.ipset
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroute2.ipset-license)
+include(pypi-pyroute2.ipset-python)
+include(pypi-pyroute2.ipset-python3)
+pypi-pyroute2.ipset

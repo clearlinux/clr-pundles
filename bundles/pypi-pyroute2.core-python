@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyroute2.core-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroute2.core-python3)
+pypi-pyroute2.core-python

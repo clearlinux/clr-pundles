@@ -1,0 +1,10 @@
+# [TITLE]: pypi-etuples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-etuples-license)
+include(pypi-etuples-python)
+include(pypi-etuples-python3)
+pypi-etuples

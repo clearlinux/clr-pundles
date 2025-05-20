@@ -1,0 +1,10 @@
+# [TITLE]: pypi-wikipedia-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beautifulsoup4-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-wikipedia-python3

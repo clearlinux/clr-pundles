@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pid-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pid-python3)
+pypi-pid-python

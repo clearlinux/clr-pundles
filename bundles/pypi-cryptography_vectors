@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cryptography_vectors
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cryptography_vectors-license)
+include(pypi-cryptography_vectors-python)
+include(pypi-cryptography_vectors-python3)
+pypi-cryptography_vectors

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-qtpy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-qtpy-python3)
+pypi-qtpy-python

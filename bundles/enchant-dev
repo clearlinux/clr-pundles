@@ -1,0 +1,13 @@
+# [TITLE]: enchant-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(enchant)
+include(enchant-bin)
+include(enchant-data)
+include(enchant-lib)
+include(glib-dev)
+include(pkg-config-bin)
+enchant-dev

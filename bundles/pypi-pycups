@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pycups
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycups-license)
+include(pypi-pycups-python)
+include(pypi-pycups-python3)
+pypi-pycups

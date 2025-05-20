@@ -1,0 +1,8 @@
+# [TITLE]: pypi-termcolor-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-termcolor-python3)
+pypi-termcolor-python

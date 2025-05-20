@@ -1,0 +1,8 @@
+# [TITLE]: pypi-asgiref-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-asgiref-python3)
+pypi-asgiref-python

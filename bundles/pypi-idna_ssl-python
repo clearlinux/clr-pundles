@@ -1,0 +1,8 @@
+# [TITLE]: pypi-idna_ssl-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-idna_ssl-python3)
+pypi-idna_ssl-python

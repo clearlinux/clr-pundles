@@ -1,0 +1,9 @@
+# [TITLE]: libmnl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmnl-lib)
+include(libmnl-license)
+libmnl

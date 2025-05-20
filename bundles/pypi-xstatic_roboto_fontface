@@ -1,0 +1,10 @@
+# [TITLE]: pypi-xstatic_roboto_fontface
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic_roboto_fontface-license)
+include(pypi-xstatic_roboto_fontface-python)
+include(pypi-xstatic_roboto_fontface-python3)
+pypi-xstatic_roboto_fontface

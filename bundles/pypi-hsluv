@@ -1,0 +1,10 @@
+# [TITLE]: pypi-hsluv
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hsluv-license)
+include(pypi-hsluv-python)
+include(pypi-hsluv-python3)
+pypi-hsluv

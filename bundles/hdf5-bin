@@ -1,0 +1,12 @@
+# [TITLE]: hdf5-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(hdf5-data)
+include(hdf5-lib)
+include(hdf5-license)
+include(libc6)
+hdf5-bin

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cytoolz-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cytoolz-python3)
+pypi-cytoolz-python

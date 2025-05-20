@@ -1,0 +1,8 @@
+# [TITLE]: pypi-fixtures-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fixtures-python3)
+pypi-fixtures-python

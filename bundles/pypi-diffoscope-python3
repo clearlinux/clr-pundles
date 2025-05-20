@@ -1,0 +1,11 @@
+# [TITLE]: pypi-diffoscope-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(pypi-libarchive_c-python3)
+include(python-magic-python3)
+include(python3-core)
+pypi-diffoscope-python3

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xstatic_angular_gettext
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic_angular_gettext-python)
+include(pypi-xstatic_angular_gettext-python3)
+pypi-xstatic_angular_gettext

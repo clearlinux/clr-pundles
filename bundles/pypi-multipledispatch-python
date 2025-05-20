@@ -1,0 +1,8 @@
+# [TITLE]: pypi-multipledispatch-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-multipledispatch-python3)
+pypi-multipledispatch-python

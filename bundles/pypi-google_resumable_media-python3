@@ -1,0 +1,9 @@
+# [TITLE]: pypi-google_resumable_media-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_crc32c-python3)
+include(python3-core)
+pypi-google_resumable_media-python3

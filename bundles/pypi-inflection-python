@@ -1,0 +1,8 @@
+# [TITLE]: pypi-inflection-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-inflection-python3)
+pypi-inflection-python

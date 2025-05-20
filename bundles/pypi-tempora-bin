@@ -1,0 +1,9 @@
+# [TITLE]: pypi-tempora-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tempora-license)
+include(python3-core)
+pypi-tempora-bin

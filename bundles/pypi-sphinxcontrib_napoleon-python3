@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_napoleon-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pockets-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-sphinxcontrib_napoleon-python3

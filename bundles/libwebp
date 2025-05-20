@@ -1,0 +1,11 @@
+# [TITLE]: libwebp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwebp-bin)
+include(libwebp-lib)
+include(libwebp-license)
+include(libwebp-man)
+libwebp

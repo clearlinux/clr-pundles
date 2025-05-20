@@ -1,0 +1,9 @@
+# [TITLE]: pypi-tables-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tables-license)
+include(python3-core)
+pypi-tables-bin

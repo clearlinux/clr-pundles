@@ -1,0 +1,8 @@
+# [TITLE]: pypi-google_resumable_media-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_resumable_media-python3)
+pypi-google_resumable_media-python

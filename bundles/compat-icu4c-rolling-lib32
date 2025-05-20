@@ -1,0 +1,11 @@
+# [TITLE]: compat-icu4c-rolling-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-license)
+include(gcc-libgcc32)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+compat-icu4c-rolling-lib32

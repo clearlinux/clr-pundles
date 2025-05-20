@@ -1,0 +1,11 @@
+# [TITLE]: pypi-zope.schema-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools-python3)
+include(pypi-zope.event-python3)
+include(pypi-zope.interface-python3)
+include(python3-core)
+pypi-zope.schema-python3

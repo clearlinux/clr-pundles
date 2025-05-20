@@ -1,0 +1,11 @@
+# [TITLE]: pmix
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pmix-bin)
+include(pmix-data)
+include(pmix-lib)
+include(pmix-license)
+pmix

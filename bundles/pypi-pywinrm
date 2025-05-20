@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pywinrm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pywinrm-license)
+include(pypi-pywinrm-python)
+include(pypi-pywinrm-python3)
+pypi-pywinrm

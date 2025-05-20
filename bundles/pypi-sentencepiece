@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sentencepiece
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sentencepiece-license)
+include(pypi-sentencepiece-python)
+include(pypi-sentencepiece-python3)
+pypi-sentencepiece

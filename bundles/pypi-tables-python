@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tables-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tables-python3)
+pypi-tables-python

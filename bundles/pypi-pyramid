@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyramid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyramid-bin)
+include(pypi-pyramid-license)
+include(pypi-pyramid-python)
+include(pypi-pyramid-python3)
+pypi-pyramid

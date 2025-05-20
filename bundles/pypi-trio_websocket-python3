@@ -1,0 +1,11 @@
+# [TITLE]: pypi-trio_websocket-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-outcome-python3)
+include(pypi-trio-python3)
+include(pypi-wsproto-python3)
+include(python3-core)
+pypi-trio_websocket-python3

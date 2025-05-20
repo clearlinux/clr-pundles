@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ovirt_imageio-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ovirt_imageio-python3)
+pypi-ovirt_imageio-python

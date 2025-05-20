@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_napoleon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_napoleon-license)
+include(pypi-sphinxcontrib_napoleon-python)
+include(pypi-sphinxcontrib_napoleon-python3)
+pypi-sphinxcontrib_napoleon

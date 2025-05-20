@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyparsing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyparsing-license)
+include(pypi-pyparsing-python)
+include(pypi-pyparsing-python3)
+pypi-pyparsing

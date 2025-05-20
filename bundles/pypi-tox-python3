@@ -1,0 +1,17 @@
+# [TITLE]: pypi-tox-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cachetools-python3)
+include(pypi-chardet-python3)
+include(pypi-colorama-python3)
+include(pypi-filelock-python3)
+include(pypi-packaging-python3)
+include(pypi-platformdirs-python3)
+include(pypi-pluggy-python3)
+include(pypi-pyproject_api-python3)
+include(pypi-virtualenv-python3)
+include(python3-core)
+pypi-tox-python3

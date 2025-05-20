@@ -1,0 +1,15 @@
+# [TITLE]: pypi-dask-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(cloudpickle-python3)
+include(pypi-click-python3)
+include(pypi-fsspec-python3)
+include(pypi-packaging-python3)
+include(pypi-partd-python3)
+include(pypi-toolz-python3)
+include(python3-core)
+pypi-dask-python3

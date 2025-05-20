@@ -1,0 +1,12 @@
+# [TITLE]: gstreamer-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(glib-lib)
+include(gstreamer-lib)
+include(gstreamer-license)
+include(libc6)
+gstreamer-libexec

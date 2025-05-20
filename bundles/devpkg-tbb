@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-tbb-dev
+include(tbb-dev)
 include(libstdcpp)

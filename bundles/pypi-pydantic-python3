@@ -1,0 +1,12 @@
+# [TITLE]: pypi-pydantic-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-annotated_types-python3)
+include(pypi-pydantic_core-python3)
+include(pypi-typing_extensions-python3)
+include(pypi-typing_inspection-python3)
+include(python3-core)
+pypi-pydantic-python3

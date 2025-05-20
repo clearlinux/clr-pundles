@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyroute2.ethtool-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroute2.core-python3)
+include(python3-core)
+pypi-pyroute2.ethtool-python3

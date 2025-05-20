@@ -1,0 +1,12 @@
+# [TITLE]: pypi-chaospy-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-numpoly-python3)
+include(pypi-numpy-python3)
+include(pypi-setuptools-python3)
+include(python3-core)
+include(scipy-python3)
+pypi-chaospy-python3

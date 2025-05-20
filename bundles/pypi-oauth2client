@@ -1,0 +1,10 @@
+# [TITLE]: pypi-oauth2client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-oauth2client-license)
+include(pypi-oauth2client-python)
+include(pypi-oauth2client-python3)
+pypi-oauth2client

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_jsmath
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_jsmath-license)
+include(pypi-sphinxcontrib_jsmath-python)
+include(pypi-sphinxcontrib_jsmath-python3)
+pypi-sphinxcontrib_jsmath

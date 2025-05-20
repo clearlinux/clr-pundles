@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sortedcontainers-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sortedcontainers-python3)
+pypi-sortedcontainers-python

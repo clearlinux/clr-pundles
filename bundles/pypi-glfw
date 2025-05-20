@@ -1,0 +1,10 @@
+# [TITLE]: pypi-glfw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-glfw-license)
+include(pypi-glfw-python)
+include(pypi-glfw-python3)
+pypi-glfw

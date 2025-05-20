@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-protobuf-dev
+include(protobuf-dev)
 include(libstdcpp)
 include(protobuf)

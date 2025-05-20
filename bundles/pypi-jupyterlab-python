@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyterlab-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyterlab-python3)
+pypi-jupyterlab-python

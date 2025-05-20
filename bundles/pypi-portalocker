@@ -1,0 +1,10 @@
+# [TITLE]: pypi-portalocker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-portalocker-license)
+include(pypi-portalocker-python)
+include(pypi-portalocker-python3)
+pypi-portalocker

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-immutables-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-immutables-python3)
+pypi-immutables-python

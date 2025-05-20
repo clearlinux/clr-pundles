@@ -1,0 +1,9 @@
+# [TITLE]: pypi-lazy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lazy-python)
+include(pypi-lazy-python3)
+pypi-lazy

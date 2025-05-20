@@ -1,0 +1,8 @@
+# [TITLE]: pypi-svg.path-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-svg.path-python3)
+pypi-svg.path-python

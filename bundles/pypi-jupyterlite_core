@@ -1,0 +1,11 @@
+# [TITLE]: pypi-jupyterlite_core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyterlite_core-bin)
+include(pypi-jupyterlite_core-license)
+include(pypi-jupyterlite_core-python)
+include(pypi-jupyterlite_core-python3)
+pypi-jupyterlite_core

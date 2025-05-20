@@ -1,0 +1,10 @@
+# [TITLE]: pypi-doit-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cloudpickle-python3)
+include(pypi-importlib_metadata-python3)
+include(python3-core)
+pypi-doit-python3

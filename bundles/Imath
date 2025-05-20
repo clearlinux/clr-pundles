@@ -1,0 +1,9 @@
+# [TITLE]: Imath
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(Imath-license)
+Imath

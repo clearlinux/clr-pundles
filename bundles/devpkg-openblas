@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-openblas-dev
+include(openblas-dev)
 include(openblas)

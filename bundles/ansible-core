@@ -1,0 +1,12 @@
+# [TITLE]: ansible-core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ansible-core-bin)
+include(ansible-core-license)
+include(ansible-core-python)
+include(ansible-core-python3)
+include(sshpass)
+ansible-core

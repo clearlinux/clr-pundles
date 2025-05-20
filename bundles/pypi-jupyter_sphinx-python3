@@ -1,0 +1,14 @@
+# [TITLE]: pypi-jupyter_sphinx-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipykernel-python3)
+include(pypi-ipython-python3)
+include(pypi-ipywidgets-python3)
+include(pypi-nbconvert-python3)
+include(pypi-nbformat-python3)
+include(pypi-sphinx-python3)
+include(python3-core)
+pypi-jupyter_sphinx-python3

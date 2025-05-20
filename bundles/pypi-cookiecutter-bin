@@ -1,0 +1,9 @@
+# [TITLE]: pypi-cookiecutter-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cookiecutter-license)
+include(python3-core)
+pypi-cookiecutter-bin

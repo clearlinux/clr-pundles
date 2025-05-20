@@ -1,0 +1,10 @@
+# [TITLE]: pypi-evdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-evdev-license)
+include(pypi-evdev-python)
+include(pypi-evdev-python3)
+pypi-evdev

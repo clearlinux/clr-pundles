@@ -1,0 +1,10 @@
+# [TITLE]: pypi-icecream
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-icecream-license)
+include(pypi-icecream-python)
+include(pypi-icecream-python3)
+pypi-icecream

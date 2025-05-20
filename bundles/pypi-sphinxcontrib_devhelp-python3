@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_devhelp-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-sphinxcontrib_devhelp-python3

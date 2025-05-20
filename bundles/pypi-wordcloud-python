@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wordcloud-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wordcloud-python3)
+pypi-wordcloud-python

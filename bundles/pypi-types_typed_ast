@@ -1,0 +1,9 @@
+# [TITLE]: pypi-types_typed_ast
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_typed_ast-python)
+include(pypi-types_typed_ast-python3)
+pypi-types_typed_ast

@@ -1,0 +1,14 @@
+# [TITLE]: postgresql-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openssl-dev)
+include(pkg-config-bin)
+include(postgresql)
+include(postgresql-bin)
+include(postgresql-data)
+include(postgresql-dev)
+include(postgresql-lib)
+postgresql-dev

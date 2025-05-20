@@ -1,0 +1,8 @@
+# [TITLE]: pypi-libarchive_c-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-libarchive_c-python3

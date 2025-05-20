@@ -1,0 +1,13 @@
+# [TITLE]: pypi-linkchecker-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-argcomplete-python3)
+include(pypi-beautifulsoup4-python3)
+include(pypi-dnspython-python3)
+include(pypi-pdfminer.six-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-linkchecker-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-mido-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mido-python3)
+pypi-mido-python

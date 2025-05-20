@@ -1,0 +1,8 @@
+# [TITLE]: pypi-locate-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-locate-python3)
+pypi-locate-python

@@ -1,0 +1,13 @@
+# [TITLE]: pypi-glyphslib-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fonttools-python3)
+include(pypi-appdirs-python3)
+include(pypi-attrs-python3)
+include(pypi-openstep_plist-python3)
+include(pypi-ufolib2-python3)
+include(python3-core)
+pypi-glyphslib-python3

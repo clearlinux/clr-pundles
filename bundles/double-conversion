@@ -1,0 +1,9 @@
+# [TITLE]: double-conversion
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(double-conversion-lib)
+include(double-conversion-license)
+double-conversion

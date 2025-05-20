@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-poppler-dev
+include(poppler-dev)
 include(libX11client)
 include(curl)
 include(libglib)

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-freetype_py-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-freetype_py-python3)
+pypi-freetype_py-python

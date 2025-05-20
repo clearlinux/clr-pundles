@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ghp_import-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ghp_import-python3)
+pypi-ghp_import-python

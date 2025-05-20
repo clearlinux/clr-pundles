@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mpmath
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mpmath-license)
+include(pypi-mpmath-python)
+include(pypi-mpmath-python3)
+pypi-mpmath

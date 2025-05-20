@@ -1,0 +1,11 @@
+# [TITLE]: libtheora-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libogg-dev)
+include(libtheora-dev)
+include(libtheora-lib32)
+include(pkg-config-bin)
+libtheora-dev32

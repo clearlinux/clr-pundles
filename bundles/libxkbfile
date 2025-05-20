@@ -1,0 +1,9 @@
+# [TITLE]: libxkbfile
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxkbfile-lib)
+include(libxkbfile-license)
+libxkbfile

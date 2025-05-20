@@ -1,0 +1,10 @@
+# [TITLE]: pypi-storops
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-storops-license)
+include(pypi-storops-python)
+include(pypi-storops-python3)
+pypi-storops

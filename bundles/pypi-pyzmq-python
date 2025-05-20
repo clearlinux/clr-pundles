@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyzmq-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyzmq-python3)
+pypi-pyzmq-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-docstring_to_markdown-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-importlib_metadata-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-docstring_to_markdown-python3

@@ -27,13 +27,13 @@ include(libXft-lib)
 libXScrnSaver-lib
 include(libXcursor-lib)
 include(libXtst-lib)
-libXt-lib
+include(libXt-lib)
 include(libpng-lib)
 include(mesa-lib)
 include(llvm-lib)
 include(pango-lib)
 include(pixman-lib)
-Vulkan-Loader
+include(Vulkan-Loader)
 pciutils-lib
 
 # almost all GUI stuff pulls in GTK
@@ -41,7 +41,7 @@ also-add(gtk3libs)
 also-add(gtk4libs)
 
 # and a lot of it pulls in SDL
-SDL2-lib
+include(SDL2-lib)
 include(gdk-pixbuf)
 include(curl)
 include(openldap)

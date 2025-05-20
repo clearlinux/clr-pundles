@@ -1,0 +1,12 @@
+# [TITLE]: libxslt-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxml2-dev)
+include(libxslt-bin)
+include(libxslt-dev)
+include(libxslt-lib32)
+include(pkg-config-bin)
+libxslt-dev32

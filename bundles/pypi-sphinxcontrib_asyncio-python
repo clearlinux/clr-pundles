@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_asyncio-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_asyncio-python3)
+pypi-sphinxcontrib_asyncio-python

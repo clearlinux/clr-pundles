@@ -1,0 +1,8 @@
+# [TITLE]: tcl-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tcl-dev)
+tcl-staticdev

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-unearth-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-unearth-python3)
+pypi-unearth-python

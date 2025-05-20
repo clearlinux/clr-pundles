@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyzmq-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libzmq-lib)
+include(python3-core)
+pypi-pyzmq-python3

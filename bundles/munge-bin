@@ -1,0 +1,15 @@
+# [TITLE]: munge-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(libgcc1)
+include(munge-lib)
+include(munge-license)
+include(munge-services)
+include(openssl-lib)
+include(zlib-lib)
+munge-bin

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cachy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cachy-license)
+include(pypi-cachy-python)
+include(pypi-cachy-python3)
+pypi-cachy

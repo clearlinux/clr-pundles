@@ -1,0 +1,13 @@
+# [TITLE]: pypi-pythran-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beniget-python3)
+include(pypi-gast-python3)
+include(pypi-numpy-python3)
+include(pypi-ply-python3)
+include(pypi-setuptools-python3)
+include(python3-core)
+pypi-pythran-python3

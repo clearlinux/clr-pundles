@@ -1,0 +1,9 @@
+# [TITLE]: pypi-decorator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-decorator-python)
+include(pypi-decorator-python3)
+pypi-decorator

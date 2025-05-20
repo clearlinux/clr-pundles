@@ -1,0 +1,9 @@
+# [TITLE]: pypi-ansible_builder-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ansible_builder-license)
+include(python3-core)
+pypi-ansible_builder-bin

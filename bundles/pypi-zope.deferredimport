@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.deferredimport
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.deferredimport-license)
+include(pypi-zope.deferredimport-python)
+include(pypi-zope.deferredimport-python3)
+pypi-zope.deferredimport

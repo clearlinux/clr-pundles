@@ -1,0 +1,8 @@
+# [TITLE]: pypi-narwhals-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-narwhals-python3)
+pypi-narwhals-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-azure_common
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-azure_common-license)
+include(pypi-azure_common-python)
+include(pypi-azure_common-python3)
+pypi-azure_common

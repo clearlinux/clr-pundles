@@ -1,0 +1,12 @@
+# [TITLE]: pypi-yarl-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-idna-python3)
+include(pypi-multidict-python3)
+include(pypi-propcache-python3)
+include(python3-core)
+pypi-yarl-python3

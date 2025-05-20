@@ -1,0 +1,10 @@
+# [TITLE]: libevent-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libevent-license)
+include(openssl-lib32)
+libevent-lib32

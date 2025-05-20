@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pexpect-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ptyprocess-python3)
+include(python3-core)
+pypi-pexpect-python3

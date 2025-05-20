@@ -1,0 +1,11 @@
+# [TITLE]: hunspell-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hunspell-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+hunspell-lib

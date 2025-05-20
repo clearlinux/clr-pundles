@@ -1,0 +1,10 @@
+# [TITLE]: libavif-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libavif)
+include(libavif-lib)
+include(pkg-config-bin)
+libavif-dev

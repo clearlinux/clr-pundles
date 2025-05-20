@@ -15,24 +15,24 @@ include(glibc-bin)
 
 #
 linecache2
-pypi-py
-pypi-pytest
-pypi-pytest_asyncio
-pypi-pytest_cov
-pypi-pytest_forked
-pypi-pytest_localserver
-pypi-pytest_randomly
-pypi-pytest_repeat
-pypi-pytest_rerunfailures
-pypi-pytest_runner
-pypi-pytest_sugar
-pypi-pytest_tap
-pypi-pytest_timeout
-pypi-pytest_xdist
-pypi-mock
+include(pypi-py)
+include(pypi-pytest)
+include(pypi-pytest_asyncio)
+include(pypi-pytest_cov)
+include(pypi-pytest_forked)
+include(pypi-pytest_localserver)
+include(pypi-pytest_randomly)
+include(pypi-pytest_repeat)
+include(pypi-pytest_rerunfailures)
+include(pypi-pytest_runner)
+include(pypi-pytest_sugar)
+include(pypi-pytest_tap)
+include(pypi-pytest_timeout)
+include(pypi-pytest_xdist)
+include(pypi-mock)
 
 
 #
 # Helpers for tests
 #
-pypi-beautifulsoup4
+include(pypi-beautifulsoup4)

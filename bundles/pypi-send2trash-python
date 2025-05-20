@@ -1,0 +1,8 @@
+# [TITLE]: pypi-send2trash-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-send2trash-python3)
+pypi-send2trash-python

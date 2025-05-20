@@ -1,0 +1,12 @@
+# [TITLE]: pypi-fabric-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-decorator-python3)
+include(pypi-deprecated-python3)
+include(pypi-invoke-python3)
+include(pypi-paramiko-python3)
+include(python3-core)
+pypi-fabric-python3

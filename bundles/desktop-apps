@@ -40,7 +40,7 @@ include(seahorse)
 also-add(totem)
 # apps
 dconf-editor
-graphviz-extras
+include(graphviz-extras)
 libyami-utils
 pavucontrol
 simple-scan
@@ -52,7 +52,7 @@ include(glib-config)
 # python specific deps
 python-zeep
 pypi-requests
-requests-ntlm
+include(requests-ntlm)
 
 # also-add apps
 also-add(emacs-x11)

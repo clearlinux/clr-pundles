@@ -1,0 +1,10 @@
+# [TITLE]: pypi-fontmath
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fontmath-license)
+include(pypi-fontmath-python)
+include(pypi-fontmath-python3)
+pypi-fontmath

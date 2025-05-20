@@ -1,0 +1,10 @@
+# [TITLE]: pypi-locate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-locate-license)
+include(pypi-locate-python)
+include(pypi-locate-python3)
+pypi-locate

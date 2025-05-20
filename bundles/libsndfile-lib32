@@ -1,0 +1,13 @@
+# [TITLE]: libsndfile-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flac-lib32)
+include(glibc-libc32)
+include(libogg-lib32)
+include(libsndfile-license)
+include(libvorbis-lib32)
+include(opus-lib32)
+libsndfile-lib32

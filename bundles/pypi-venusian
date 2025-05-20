@@ -1,0 +1,10 @@
+# [TITLE]: pypi-venusian
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-venusian-license)
+include(pypi-venusian-python)
+include(pypi-venusian-python3)
+pypi-venusian

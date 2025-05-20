@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pillow-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pillow-python3)
+pypi-pillow-python

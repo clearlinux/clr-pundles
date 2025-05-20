@@ -1,0 +1,8 @@
+# [TITLE]: pypi-yarg-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yarg-python3)
+pypi-yarg-python

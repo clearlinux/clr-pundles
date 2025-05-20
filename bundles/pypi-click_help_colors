@@ -1,0 +1,10 @@
+# [TITLE]: pypi-click_help_colors
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-click_help_colors-license)
+include(pypi-click_help_colors-python)
+include(pypi-click_help_colors-python3)
+pypi-click_help_colors

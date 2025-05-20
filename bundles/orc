@@ -1,0 +1,10 @@
+# [TITLE]: orc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(orc-bin)
+include(orc-lib)
+include(orc-license)
+orc

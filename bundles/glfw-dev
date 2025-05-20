@@ -1,0 +1,10 @@
+# [TITLE]: glfw-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glfw)
+include(glfw-lib)
+include(pkg-config-bin)
+glfw-dev

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-netifaces-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-netifaces-python3)
+pypi-netifaces-python

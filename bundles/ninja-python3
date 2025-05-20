@@ -1,0 +1,9 @@
+# [TITLE]: ninja-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ninja)
+include(python3-core)
+ninja-python3

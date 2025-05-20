@@ -1,0 +1,11 @@
+# [TITLE]: pypi-controlnet_aux
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opencv-python3)
+include(pypi-controlnet_aux-license)
+include(pypi-controlnet_aux-python)
+include(pypi-controlnet_aux-python3)
+pypi-controlnet_aux

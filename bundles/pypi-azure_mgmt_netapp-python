@@ -1,0 +1,8 @@
+# [TITLE]: pypi-azure_mgmt_netapp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-azure_mgmt_netapp-python3)
+pypi-azure_mgmt_netapp-python

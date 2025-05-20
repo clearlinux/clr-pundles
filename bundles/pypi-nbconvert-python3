@@ -1,0 +1,25 @@
+# [TITLE]: pypi-nbconvert-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+include(coreutils-bin)
+include(defusedxml-python3)
+include(pypi-beautifulsoup4-python3)
+include(pypi-bleach-python3)
+include(pypi-entrypoints-python3)
+include(pypi-jinja2-python3)
+include(pypi-jupyter_core-python3)
+include(pypi-jupyterlab_pygments-python3)
+include(pypi-lxml-python3)
+include(pypi-mistune-python3)
+include(pypi-nbclient-python3)
+include(pypi-nbformat-python3)
+include(pypi-packaging-python3)
+include(pypi-pandocfilters-python3)
+include(pypi-pygments-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-nbconvert-python3

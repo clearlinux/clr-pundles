@@ -1,0 +1,10 @@
+# [TITLE]: mtdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mtdev-bin)
+include(mtdev-lib)
+include(mtdev-license)
+mtdev

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-jsondiff-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(python3-core)
+pypi-jsondiff-python3

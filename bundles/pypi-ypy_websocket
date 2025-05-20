@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ypy_websocket
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ypy_websocket-license)
+include(pypi-ypy_websocket-python)
+include(pypi-ypy_websocket-python3)
+pypi-ypy_websocket

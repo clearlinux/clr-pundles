@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyroute2.ipdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroute2.ipdb-license)
+include(pypi-pyroute2.ipdb-python)
+include(pypi-pyroute2.ipdb-python3)
+pypi-pyroute2.ipdb

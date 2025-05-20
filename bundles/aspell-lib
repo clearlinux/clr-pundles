@@ -1,0 +1,10 @@
+# [TITLE]: aspell-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell-license)
+include(libc6)
+include(libstdc++)
+aspell-lib

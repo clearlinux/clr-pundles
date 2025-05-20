@@ -1,0 +1,10 @@
+# [TITLE]: pypi-editdistance
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-editdistance-license)
+include(pypi-editdistance-python)
+include(pypi-editdistance-python3)
+pypi-editdistance

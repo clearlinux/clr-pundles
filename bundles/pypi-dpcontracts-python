@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dpcontracts-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dpcontracts-python3)
+pypi-dpcontracts-python

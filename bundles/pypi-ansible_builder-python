@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ansible_builder-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ansible_builder-python3)
+pypi-ansible_builder-python

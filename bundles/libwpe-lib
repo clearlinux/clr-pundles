@@ -1,0 +1,11 @@
+# [TITLE]: libwpe-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(libwpe-license)
+include(libxkbcommon-lib)
+libwpe-lib

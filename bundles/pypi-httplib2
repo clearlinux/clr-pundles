@@ -1,0 +1,10 @@
+# [TITLE]: pypi-httplib2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-httplib2-license)
+include(pypi-httplib2-python)
+include(pypi-httplib2-python3)
+pypi-httplib2

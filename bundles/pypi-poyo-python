@@ -1,0 +1,8 @@
+# [TITLE]: pypi-poyo-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-poyo-python3)
+pypi-poyo-python

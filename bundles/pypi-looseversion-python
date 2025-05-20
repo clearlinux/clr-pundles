@@ -1,0 +1,8 @@
+# [TITLE]: pypi-looseversion-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-looseversion-python3)
+pypi-looseversion-python

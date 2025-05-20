@@ -1,0 +1,15 @@
+# [TITLE]: libproxy-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+include(duktape-dev)
+include(glib-dev)
+include(libproxy)
+include(libproxy-bin)
+include(libproxy-data)
+include(libproxy-lib)
+include(pkg-config-bin)
+libproxy-dev

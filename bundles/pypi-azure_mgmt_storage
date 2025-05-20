@@ -1,0 +1,10 @@
+# [TITLE]: pypi-azure_mgmt_storage
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-azure_mgmt_storage-license)
+include(pypi-azure_mgmt_storage-python)
+include(pypi-azure_mgmt_storage-python3)
+pypi-azure_mgmt_storage

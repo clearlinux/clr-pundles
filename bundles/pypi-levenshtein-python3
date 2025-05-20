@@ -1,0 +1,12 @@
+# [TITLE]: pypi-levenshtein-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pypi-rapidfuzz-python3)
+include(python3-core)
+pypi-levenshtein-python3

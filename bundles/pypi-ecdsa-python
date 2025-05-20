@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ecdsa-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ecdsa-python3)
+pypi-ecdsa-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-parsedatetime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-parsedatetime-license)
+include(pypi-parsedatetime-python)
+include(pypi-parsedatetime-python3)
+pypi-parsedatetime

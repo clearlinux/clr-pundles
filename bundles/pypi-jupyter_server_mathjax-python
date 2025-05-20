@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyter_server_mathjax-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_server_mathjax-python3)
+pypi-jupyter_server_mathjax-python

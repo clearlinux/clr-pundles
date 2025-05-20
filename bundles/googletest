@@ -1,0 +1,9 @@
+# [TITLE]: googletest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(googletest-lib)
+include(googletest-license)
+googletest

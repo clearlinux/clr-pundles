@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libxkbfile-dev
+include(libxkbfile-dev)
 include(libX11client)

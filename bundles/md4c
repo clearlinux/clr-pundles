@@ -1,0 +1,11 @@
+# [TITLE]: md4c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(md4c-bin)
+include(md4c-lib)
+include(md4c-license)
+include(md4c-man)
+md4c

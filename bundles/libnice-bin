@@ -1,0 +1,11 @@
+# [TITLE]: libnice-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-lib)
+include(libc6)
+include(libnice-data)
+include(libnice-license)
+libnice-bin

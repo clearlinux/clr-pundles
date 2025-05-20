@@ -1,0 +1,10 @@
+# [TITLE]: pypi-columnize
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-columnize-license)
+include(pypi-columnize-python)
+include(pypi-columnize-python3)
+pypi-columnize

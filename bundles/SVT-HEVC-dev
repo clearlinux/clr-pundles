@@ -1,0 +1,11 @@
+# [TITLE]: SVT-HEVC-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SVT-HEVC)
+include(SVT-HEVC-bin)
+include(SVT-HEVC-lib)
+include(pkg-config-bin)
+SVT-HEVC-dev

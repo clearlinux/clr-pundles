@@ -1,0 +1,9 @@
+# [TITLE]: libsrtp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsrtp-lib)
+include(libsrtp-license)
+libsrtp

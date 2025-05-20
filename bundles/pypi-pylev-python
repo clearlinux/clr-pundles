@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pylev-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pylev-python3)
+pypi-pylev-python

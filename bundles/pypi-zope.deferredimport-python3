@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.deferredimport-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setuptools-python3)
+include(pypi-zope.proxy-python3)
+include(python3-core)
+pypi-zope.deferredimport-python3

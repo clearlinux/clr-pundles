@@ -1,0 +1,8 @@
+# [TITLE]: pypi-repoze.lru-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-repoze.lru-python3)
+pypi-repoze.lru-python

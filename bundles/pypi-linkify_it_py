@@ -1,0 +1,10 @@
+# [TITLE]: pypi-linkify_it_py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-linkify_it_py-license)
+include(pypi-linkify_it_py-python)
+include(pypi-linkify_it_py-python3)
+pypi-linkify_it_py

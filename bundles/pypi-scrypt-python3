@@ -1,0 +1,10 @@
+# [TITLE]: pypi-scrypt-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(python3-core)
+pypi-scrypt-python3

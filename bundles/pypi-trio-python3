@@ -1,0 +1,13 @@
+# [TITLE]: pypi-trio-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrs-python3)
+include(pypi-idna-python3)
+include(pypi-outcome-python3)
+include(pypi-sniffio-python3)
+include(pypi-sortedcontainers-python3)
+include(python3-core)
+pypi-trio-python3

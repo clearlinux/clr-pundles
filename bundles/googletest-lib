@@ -1,0 +1,11 @@
+# [TITLE]: googletest-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(googletest-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+googletest-lib

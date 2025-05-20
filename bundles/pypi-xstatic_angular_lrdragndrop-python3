@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xstatic_angular_lrdragndrop-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-xstatic_angular_lrdragndrop-python3

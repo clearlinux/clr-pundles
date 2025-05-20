@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tox-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tox-python3)
+pypi-tox-python

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-logilab_common-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-logilab_common-license)
+include(python3-core)
+pypi-logilab_common-bin

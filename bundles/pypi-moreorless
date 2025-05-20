@@ -1,0 +1,10 @@
+# [TITLE]: pypi-moreorless
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-moreorless-license)
+include(pypi-moreorless-python)
+include(pypi-moreorless-python3)
+pypi-moreorless

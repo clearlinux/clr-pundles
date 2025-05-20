@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dask-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dask-python3)
+pypi-dask-python

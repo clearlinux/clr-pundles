@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pbs_installer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pbs_installer-license)
+include(python3-core)
+pypi-pbs_installer-bin

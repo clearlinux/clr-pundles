@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.i18nmessageid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.i18nmessageid-license)
+include(pypi-zope.i18nmessageid-python)
+include(pypi-zope.i18nmessageid-python3)
+pypi-zope.i18nmessageid

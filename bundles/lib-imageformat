@@ -17,10 +17,10 @@ include(LibRaw-lib)
 
 # main packages
 
-librsvg-lib
+include(librsvg-lib)
 exiv2-lib
 include(libpng-lib)
 include(libjpeg-turbo-lib)
 include(libwebp-lib)
 include(tiff-lib)
-openjpeg-lib
+include(openjpeg-lib)

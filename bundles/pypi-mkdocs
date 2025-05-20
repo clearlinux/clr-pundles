@@ -1,0 +1,11 @@
+# [TITLE]: pypi-mkdocs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs-bin)
+include(pypi-mkdocs-license)
+include(pypi-mkdocs-python)
+include(pypi-mkdocs-python3)
+pypi-mkdocs

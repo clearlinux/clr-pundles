@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_websupport-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_websupport-python3)
+pypi-sphinxcontrib_websupport-python

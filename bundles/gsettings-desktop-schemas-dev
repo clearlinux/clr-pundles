@@ -1,0 +1,10 @@
+# [TITLE]: gsettings-desktop-schemas-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsettings-desktop-schemas)
+include(gsettings-desktop-schemas-data)
+include(pkg-config-bin)
+gsettings-desktop-schemas-dev

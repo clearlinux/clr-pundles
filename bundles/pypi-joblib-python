@@ -1,0 +1,8 @@
+# [TITLE]: pypi-joblib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-joblib-python3)
+pypi-joblib-python

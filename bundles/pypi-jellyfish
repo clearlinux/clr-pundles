@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jellyfish
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jellyfish-license)
+include(pypi-jellyfish-python)
+include(pypi-jellyfish-python3)
+pypi-jellyfish

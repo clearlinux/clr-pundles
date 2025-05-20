@@ -1,0 +1,8 @@
+# [TITLE]: pypi-types_enum34-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_enum34-python3)
+pypi-types_enum34-python

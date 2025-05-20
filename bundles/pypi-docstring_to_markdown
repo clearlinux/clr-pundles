@@ -1,0 +1,10 @@
+# [TITLE]: pypi-docstring_to_markdown
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docstring_to_markdown-license)
+include(pypi-docstring_to_markdown-python)
+include(pypi-docstring_to_markdown-python3)
+pypi-docstring_to_markdown

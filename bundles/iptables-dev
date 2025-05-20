@@ -1,0 +1,14 @@
+# [TITLE]: iptables-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iptables)
+include(iptables-bin)
+include(iptables-data)
+include(iptables-dev)
+include(iptables-extras)
+include(iptables-lib)
+include(pkg-config-bin)
+iptables-dev

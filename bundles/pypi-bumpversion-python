@@ -1,0 +1,8 @@
+# [TITLE]: pypi-bumpversion-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bumpversion-python3)
+pypi-bumpversion-python

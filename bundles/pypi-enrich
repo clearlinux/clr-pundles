@@ -1,0 +1,10 @@
+# [TITLE]: pypi-enrich
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-enrich-license)
+include(pypi-enrich-python)
+include(pypi-enrich-python3)
+pypi-enrich

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-gql-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-anyio-python3)
+include(pypi-backoff-python3)
+include(pypi-graphql_core-python3)
+include(pypi-yarl-python3)
+include(python3-core)
+pypi-gql-python3

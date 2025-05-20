@@ -1,0 +1,8 @@
+# [TITLE]: pypi-gtts_token-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gtts_token-python3)
+pypi-gtts_token-python

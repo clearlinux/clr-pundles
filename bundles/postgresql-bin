@@ -1,0 +1,20 @@
+# [TITLE]: postgresql-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libc6)
+include(libgcc1)
+include(lz4-lib)
+include(openssl-lib)
+include(postgresql-config)
+include(postgresql-data)
+include(postgresql-lib)
+include(postgresql-license)
+include(postgresql-services)
+include(readline-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+postgresql-bin

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-black-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-black-python3)
+pypi-black-python

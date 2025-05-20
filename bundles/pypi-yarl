@@ -1,0 +1,10 @@
+# [TITLE]: pypi-yarl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yarl-license)
+include(pypi-yarl-python)
+include(pypi-yarl-python3)
+pypi-yarl

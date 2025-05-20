@@ -1,0 +1,10 @@
+# [TITLE]: pypi-janus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-janus-license)
+include(pypi-janus-python)
+include(pypi-janus-python3)
+pypi-janus

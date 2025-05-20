@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyro4-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyro4-python3)
+pypi-pyro4-python

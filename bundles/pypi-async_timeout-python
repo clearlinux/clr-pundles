@@ -1,0 +1,8 @@
+# [TITLE]: pypi-async_timeout-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-async_timeout-python3)
+pypi-async_timeout-python

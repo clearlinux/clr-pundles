@@ -1,0 +1,14 @@
+# [TITLE]: pypi-khal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-click_log-python3)
+include(pypi-khal-bin)
+include(pypi-khal-data)
+include(pypi-khal-license)
+include(pypi-khal-python)
+include(pypi-khal-python3)
+include(pypi-urwid-python3)
+pypi-khal

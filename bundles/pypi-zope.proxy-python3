@@ -1,0 +1,11 @@
+# [TITLE]: pypi-zope.proxy-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-setuptools-python3)
+include(pypi-zope.interface-python3)
+include(python3-core)
+pypi-zope.proxy-python3

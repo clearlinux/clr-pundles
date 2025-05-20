@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ipykernel-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipykernel-python3)
+pypi-ipykernel-python

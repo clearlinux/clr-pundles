@@ -1,0 +1,9 @@
+# [TITLE]: pypi-huggingface_hub-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-huggingface_hub-license)
+include(python3-core)
+pypi-huggingface_hub-bin

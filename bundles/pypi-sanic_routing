@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sanic_routing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sanic_routing-license)
+include(pypi-sanic_routing-python)
+include(pypi-sanic_routing-python3)
+pypi-sanic_routing

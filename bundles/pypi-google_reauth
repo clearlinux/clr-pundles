@@ -1,0 +1,11 @@
+# [TITLE]: pypi-google_reauth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_reauth-license)
+include(pypi-google_reauth-python)
+include(pypi-google_reauth-python3)
+include(pypi-pyu2f-python3)
+pypi-google_reauth

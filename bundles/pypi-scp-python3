@@ -1,0 +1,9 @@
+# [TITLE]: pypi-scp-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-paramiko-python3)
+include(python3-core)
+pypi-scp-python3

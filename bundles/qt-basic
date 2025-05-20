@@ -10,7 +10,7 @@ include(qt-core)
 include(lib-opengl)
 
 qt3d
-qtbase
+include(qtbase)
 qtcanvas3d
 qtcharts
 qtconnectivity

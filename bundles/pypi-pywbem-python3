@@ -1,0 +1,17 @@
+# [TITLE]: pypi-pywbem-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-certifi-python3)
+include(pypi-idna-python3)
+include(pypi-ply-python3)
+include(pypi-requests-python3)
+include(pypi-setuptools-python3)
+include(pypi-six-python3)
+include(pypi-urllib3-python3)
+include(pypi-yamlloader-python3)
+include(python3-core)
+pypi-pywbem-python3

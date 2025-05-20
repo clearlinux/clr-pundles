@@ -1,0 +1,12 @@
+# [TITLE]: libinput-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libinput-config)
+include(libinput-data)
+include(libinput-libexec)
+include(libinput-license)
+libinput-bin

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-traitlets-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-traitlets-python3)
+pypi-traitlets-python

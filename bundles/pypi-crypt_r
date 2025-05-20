@@ -1,0 +1,10 @@
+# [TITLE]: pypi-crypt_r
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-crypt_r-license)
+include(pypi-crypt_r-python)
+include(pypi-crypt_r-python3)
+pypi-crypt_r

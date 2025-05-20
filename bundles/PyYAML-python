@@ -1,0 +1,8 @@
+# [TITLE]: PyYAML-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+PyYAML-python

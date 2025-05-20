@@ -1,0 +1,9 @@
+# [TITLE]: pypi-fastimport-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fastimport-license)
+include(python3-core)
+pypi-fastimport-bin

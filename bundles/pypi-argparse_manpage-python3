@@ -1,0 +1,8 @@
+# [TITLE]: pypi-argparse_manpage-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-argparse_manpage-python3

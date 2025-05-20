@@ -1,0 +1,10 @@
+# [TITLE]: pypi-diff_match_patch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-diff_match_patch-license)
+include(pypi-diff_match_patch-python)
+include(pypi-diff_match_patch-python3)
+pypi-diff_match_patch

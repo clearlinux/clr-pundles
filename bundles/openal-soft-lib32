@@ -1,0 +1,12 @@
+# [TITLE]: openal-soft-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgcc32)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+include(openal-soft-data)
+include(openal-soft-license)
+openal-soft-lib32

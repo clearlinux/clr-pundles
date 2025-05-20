@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cssselect2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cssselect2-license)
+include(pypi-cssselect2-python)
+include(pypi-cssselect2-python3)
+pypi-cssselect2

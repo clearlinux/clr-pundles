@@ -1,0 +1,8 @@
+# [TITLE]: pypi-asyncssh-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-asyncssh-python3)
+pypi-asyncssh-python

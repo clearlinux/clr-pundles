@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyomo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyomo-license)
+include(python3-core)
+pypi-pyomo-bin

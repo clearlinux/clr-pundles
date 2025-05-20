@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ecdsa
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ecdsa-license)
+include(pypi-ecdsa-python)
+include(pypi-ecdsa-python3)
+pypi-ecdsa

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-retry
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-retry-license)
+include(pypi-retry-python)
+include(pypi-retry-python3)
+pypi-retry

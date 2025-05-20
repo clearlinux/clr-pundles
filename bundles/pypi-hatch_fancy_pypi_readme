@@ -1,0 +1,11 @@
+# [TITLE]: pypi-hatch_fancy_pypi_readme
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hatch_fancy_pypi_readme-bin)
+include(pypi-hatch_fancy_pypi_readme-license)
+include(pypi-hatch_fancy_pypi_readme-python)
+include(pypi-hatch_fancy_pypi_readme-python3)
+pypi-hatch_fancy_pypi_readme

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-tox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-importlib_metadata-python3)
+include(pypi-tox-bin)
+include(pypi-tox-license)
+include(pypi-tox-python)
+include(pypi-tox-python3)
+pypi-tox

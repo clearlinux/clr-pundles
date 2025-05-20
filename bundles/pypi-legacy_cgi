@@ -1,0 +1,9 @@
+# [TITLE]: pypi-legacy_cgi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-legacy_cgi-python)
+include(pypi-legacy_cgi-python3)
+pypi-legacy_cgi

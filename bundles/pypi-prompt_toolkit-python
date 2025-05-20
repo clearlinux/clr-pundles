@@ -1,0 +1,8 @@
+# [TITLE]: pypi-prompt_toolkit-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-prompt_toolkit-python3)
+pypi-prompt_toolkit-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mkdocs_material_extensions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs_material_extensions-license)
+include(pypi-mkdocs_material_extensions-python)
+include(pypi-mkdocs_material_extensions-python3)
+pypi-mkdocs_material_extensions

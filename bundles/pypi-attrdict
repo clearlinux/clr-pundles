@@ -1,0 +1,10 @@
+# [TITLE]: pypi-attrdict
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrdict-license)
+include(pypi-attrdict-python)
+include(pypi-attrdict-python3)
+pypi-attrdict

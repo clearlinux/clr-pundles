@@ -1,0 +1,10 @@
+# [TITLE]: pypi-greenlet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-greenlet-license)
+include(pypi-greenlet-python)
+include(pypi-greenlet-python3)
+pypi-greenlet

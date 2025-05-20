@@ -1,0 +1,9 @@
+# [TITLE]: pypi-check_manifest-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-check_manifest-license)
+include(python3-core)
+pypi-check_manifest-bin

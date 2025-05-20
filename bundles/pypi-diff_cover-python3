@@ -1,0 +1,12 @@
+# [TITLE]: pypi-diff_cover-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chardet-python3)
+include(pypi-jinja2-python3)
+include(pypi-pluggy-python3)
+include(pypi-pygments-python3)
+include(python3-core)
+pypi-diff_cover-python3

@@ -1,0 +1,10 @@
+# [TITLE]: opus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opus)
+include(opus-lib)
+include(pkg-config-bin)
+opus-dev

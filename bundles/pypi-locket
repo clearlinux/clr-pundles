@@ -1,0 +1,10 @@
+# [TITLE]: pypi-locket
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-locket-license)
+include(pypi-locket-python)
+include(pypi-locket-python3)
+pypi-locket

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-readtime-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-readtime-python3)
+pypi-readtime-python

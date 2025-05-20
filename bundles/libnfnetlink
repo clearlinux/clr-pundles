@@ -1,0 +1,9 @@
+# [TITLE]: libnfnetlink
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnfnetlink-lib)
+include(libnfnetlink-license)
+libnfnetlink

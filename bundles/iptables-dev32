@@ -1,0 +1,12 @@
+# [TITLE]: iptables-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iptables-bin)
+include(iptables-data)
+include(iptables-dev)
+include(iptables-lib32)
+include(pkg-config-bin)
+iptables-dev32

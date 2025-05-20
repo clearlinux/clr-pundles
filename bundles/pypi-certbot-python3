@@ -1,0 +1,17 @@
+# [TITLE]: pypi-certbot-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(configobj-python3)
+include(pypi-acme-python3)
+include(pypi-configargparse-python3)
+include(pypi-cryptography-python3)
+include(pypi-distro-python3)
+include(pypi-josepy-python3)
+include(pypi-parsedatetime-python3)
+include(pypi-pyrfc3339-python3)
+include(pypi-pytz-python3)
+include(python3-core)
+pypi-certbot-python3

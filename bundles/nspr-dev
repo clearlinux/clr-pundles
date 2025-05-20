@@ -1,0 +1,11 @@
+# [TITLE]: nspr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(nspr)
+include(perl)
+include(perl-bin)
+nspr-dev

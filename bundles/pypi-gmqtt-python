@@ -1,0 +1,8 @@
+# [TITLE]: pypi-gmqtt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gmqtt-python3)
+pypi-gmqtt-python

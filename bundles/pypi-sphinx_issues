@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinx_issues
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_issues-license)
+include(pypi-sphinx_issues-python)
+include(pypi-sphinx_issues-python3)
+pypi-sphinx_issues

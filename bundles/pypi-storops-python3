@@ -1,0 +1,16 @@
+# [TITLE]: pypi-storops-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-bitmath-python3)
+include(pypi-cachez-python3)
+include(pypi-persist_queue-python3)
+include(pypi-python_dateutil-python3)
+include(pypi-requests-python3)
+include(pypi-retryz-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-storops-python3

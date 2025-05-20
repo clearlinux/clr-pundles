@@ -1,0 +1,10 @@
+# [TITLE]: pypi-asgiref
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-asgiref-license)
+include(pypi-asgiref-python)
+include(pypi-asgiref-python3)
+pypi-asgiref

@@ -1,0 +1,10 @@
+# [TITLE]: iptables-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(iptables-data)
+include(iptables-license)
+iptables-lib32

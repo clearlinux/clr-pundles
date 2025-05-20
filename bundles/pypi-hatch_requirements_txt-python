@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hatch_requirements_txt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hatch_requirements_txt-python3)
+pypi-hatch_requirements_txt-python

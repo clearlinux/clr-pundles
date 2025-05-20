@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ply-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ply-python3)
+pypi-ply-python

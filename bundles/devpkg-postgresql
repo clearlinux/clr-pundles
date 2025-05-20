@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-postgresql-dev
+include(postgresql-dev)
 include(postgresql)

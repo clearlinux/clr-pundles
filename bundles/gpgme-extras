@@ -1,0 +1,13 @@
+# [TITLE]: gpgme-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-lib)
+include(libc6)
+include(libgcc1)
+include(libgpg-error-lib)
+include(libstdc++)
+include(qt6base-lib)
+gpgme-extras

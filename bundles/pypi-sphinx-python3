@@ -1,0 +1,23 @@
+# [TITLE]: pypi-sphinx-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-alabaster-python3)
+include(pypi-babel-python3)
+include(pypi-docutils-python3)
+include(pypi-imagesize-python3)
+include(pypi-jinja2-python3)
+include(pypi-packaging-python3)
+include(pypi-pygments-python3)
+include(pypi-requests-python3)
+include(pypi-snowballstemmer-python3)
+include(pypi-sphinxcontrib_applehelp-python3)
+include(pypi-sphinxcontrib_devhelp-python3)
+include(pypi-sphinxcontrib_htmlhelp-python3)
+include(pypi-sphinxcontrib_jsmath-python3)
+include(pypi-sphinxcontrib_qthelp-python3)
+include(pypi-sphinxcontrib_serializinghtml-python3)
+include(python3-core)
+pypi-sphinx-python3

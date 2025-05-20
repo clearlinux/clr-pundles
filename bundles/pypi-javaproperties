@@ -1,0 +1,9 @@
+# [TITLE]: pypi-javaproperties
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-javaproperties-python)
+include(pypi-javaproperties-python3)
+pypi-javaproperties

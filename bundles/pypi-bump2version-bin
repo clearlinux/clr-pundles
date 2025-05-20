@@ -1,0 +1,9 @@
+# [TITLE]: pypi-bump2version-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bump2version-license)
+include(python3-core)
+pypi-bump2version-bin

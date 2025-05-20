@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jaraco.functools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jaraco.functools-license)
+include(pypi-jaraco.functools-python)
+include(pypi-jaraco.functools-python3)
+pypi-jaraco.functools

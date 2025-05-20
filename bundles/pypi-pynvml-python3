@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pynvml-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nvidia_ml_py-python3)
+include(python3-core)
+pypi-pynvml-python3

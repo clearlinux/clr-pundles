@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xstatic_jsencrypt-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-xstatic_jsencrypt-python3

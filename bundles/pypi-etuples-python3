@@ -1,0 +1,10 @@
+# [TITLE]: pypi-etuples-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cons-python3)
+include(pypi-multipledispatch-python3)
+include(python3-core)
+pypi-etuples-python3

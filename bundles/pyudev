@@ -1,0 +1,10 @@
+# [TITLE]: pyudev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pyudev-license)
+include(pyudev-python)
+include(pyudev-python3)
+pyudev

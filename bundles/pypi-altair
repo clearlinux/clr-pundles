@@ -1,0 +1,10 @@
+# [TITLE]: pypi-altair
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-altair-license)
+include(pypi-altair-python)
+include(pypi-altair-python3)
+pypi-altair

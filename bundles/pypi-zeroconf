@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zeroconf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zeroconf-license)
+include(pypi-zeroconf-python)
+include(pypi-zeroconf-python3)
+pypi-zeroconf

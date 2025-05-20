@@ -15,7 +15,7 @@ edk2
 include(gettext)
 include(iptables)
 libvirt
-nftables
+include(nftables)
 include(polkit)
 qemu
 qemu-extras

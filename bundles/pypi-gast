@@ -1,0 +1,11 @@
+# [TITLE]: pypi-gast
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-astunparse-python3)
+include(pypi-gast-license)
+include(pypi-gast-python)
+include(pypi-gast-python3)
+pypi-gast

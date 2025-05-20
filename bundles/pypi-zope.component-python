@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zope.component-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.component-python3)
+pypi-zope.component-python

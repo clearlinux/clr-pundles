@@ -1,0 +1,13 @@
+# [TITLE]: pypi-minikanren-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cons-python3)
+include(pypi-etuples-python3)
+include(pypi-logical_unification-python3)
+include(pypi-multipledispatch-python3)
+include(pypi-toolz-python3)
+include(python3-core)
+pypi-minikanren-python3

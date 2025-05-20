@@ -8,4 +8,4 @@
 include(devpkg-base)
 include(devpkg-libpcap)
 
-libsrtp-dev
+include(libsrtp-dev)

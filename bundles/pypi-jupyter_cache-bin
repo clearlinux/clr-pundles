@@ -1,0 +1,9 @@
+# [TITLE]: pypi-jupyter_cache-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_cache-license)
+include(python3-core)
+pypi-jupyter_cache-bin

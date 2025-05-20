@@ -1,0 +1,10 @@
+# [TITLE]: pypi-wikipedia
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wikipedia-license)
+include(pypi-wikipedia-python)
+include(pypi-wikipedia-python3)
+pypi-wikipedia

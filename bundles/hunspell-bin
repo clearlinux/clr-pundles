@@ -1,0 +1,14 @@
+# [TITLE]: hunspell-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(hunspell-lib)
+include(hunspell-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(perl-bin)
+hunspell-bin

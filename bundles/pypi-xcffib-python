@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xcffib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xcffib-python3)
+pypi-xcffib-python

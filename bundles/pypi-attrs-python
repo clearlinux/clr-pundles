@@ -1,0 +1,8 @@
+# [TITLE]: pypi-attrs-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrs-python3)
+pypi-attrs-python

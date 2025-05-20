@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyscss-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyscss-python3)
+pypi-pyscss-python

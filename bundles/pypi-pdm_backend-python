@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pdm_backend-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pdm_backend-python3)
+pypi-pdm_backend-python

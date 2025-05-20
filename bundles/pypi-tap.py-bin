@@ -1,0 +1,9 @@
+# [TITLE]: pypi-tap.py-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tap.py-license)
+include(python3-core)
+pypi-tap.py-bin

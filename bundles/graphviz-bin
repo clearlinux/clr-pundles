@@ -1,0 +1,16 @@
+# [TITLE]: graphviz-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(filesystem)
+include(graphviz-config)
+include(graphviz-data)
+include(graphviz-lib)
+include(graphviz-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+graphviz-bin

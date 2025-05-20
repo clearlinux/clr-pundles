@@ -1,0 +1,13 @@
+# [TITLE]: pypi-hypothesis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrs-python3)
+include(pypi-hypothesis-bin)
+include(pypi-hypothesis-license)
+include(pypi-hypothesis-python)
+include(pypi-hypothesis-python3)
+include(pypi-sortedcontainers-python3)
+pypi-hypothesis

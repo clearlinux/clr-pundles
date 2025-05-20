@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jeepney
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jeepney-license)
+include(pypi-jeepney-python)
+include(pypi-jeepney-python3)
+pypi-jeepney

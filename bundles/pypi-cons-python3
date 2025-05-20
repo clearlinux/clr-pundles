@@ -1,0 +1,9 @@
+# [TITLE]: pypi-cons-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-logical_unification-python3)
+include(python3-core)
+pypi-cons-python3

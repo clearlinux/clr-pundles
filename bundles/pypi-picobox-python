@@ -1,0 +1,8 @@
+# [TITLE]: pypi-picobox-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-picobox-python3)
+pypi-picobox-python

@@ -1,0 +1,12 @@
+# [TITLE]: gspell
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gspell-bin)
+include(gspell-data)
+include(gspell-lib)
+include(gspell-license)
+include(gspell-locales)
+gspell

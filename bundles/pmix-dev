@@ -1,0 +1,12 @@
+# [TITLE]: pmix-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(pmix)
+include(pmix-bin)
+include(pmix-data)
+include(pmix-lib)
+pmix-dev

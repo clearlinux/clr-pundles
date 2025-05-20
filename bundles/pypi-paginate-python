@@ -1,0 +1,8 @@
+# [TITLE]: pypi-paginate-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-paginate-python3)
+pypi-paginate-python

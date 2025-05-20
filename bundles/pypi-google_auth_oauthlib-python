@@ -1,0 +1,8 @@
+# [TITLE]: pypi-google_auth_oauthlib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_auth_oauthlib-python3)
+pypi-google_auth_oauthlib-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-astor-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-astor-python3)
+pypi-astor-python

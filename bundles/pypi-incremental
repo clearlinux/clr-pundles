@@ -1,0 +1,10 @@
+# [TITLE]: pypi-incremental
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-incremental-license)
+include(pypi-incremental-python)
+include(pypi-incremental-python3)
+pypi-incremental

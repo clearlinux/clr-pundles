@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pure_eval
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pure_eval-license)
+include(pypi-pure_eval-python)
+include(pypi-pure_eval-python3)
+pypi-pure_eval

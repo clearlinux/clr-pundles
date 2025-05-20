@@ -1,0 +1,10 @@
+# [TITLE]: pypi-bkcharts-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-numpy-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-bkcharts-python3

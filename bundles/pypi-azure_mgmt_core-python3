@@ -1,0 +1,9 @@
+# [TITLE]: pypi-azure_mgmt_core-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-azure_core-python3)
+include(python3-core)
+pypi-azure_mgmt_core-python3

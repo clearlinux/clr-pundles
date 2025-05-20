@@ -1,0 +1,9 @@
+# [TITLE]: portmidi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(portmidi-lib)
+include(portmidi-license)
+portmidi

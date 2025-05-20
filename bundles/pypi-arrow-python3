@@ -1,0 +1,10 @@
+# [TITLE]: pypi-arrow-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_dateutil-python3)
+include(pypi-types_python_dateutil-python3)
+include(python3-core)
+pypi-arrow-python3

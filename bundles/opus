@@ -1,0 +1,9 @@
+# [TITLE]: opus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opus-lib)
+include(opus-license)
+opus

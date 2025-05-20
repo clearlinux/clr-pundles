@@ -1,0 +1,8 @@
+# [TITLE]: pypi-selectors34-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-selectors34-python3)
+pypi-selectors34-python

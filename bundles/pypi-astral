@@ -1,0 +1,10 @@
+# [TITLE]: pypi-astral
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-astral-license)
+include(pypi-astral-python)
+include(pypi-astral-python3)
+pypi-astral

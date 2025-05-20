@@ -1,0 +1,8 @@
+# [TITLE]: pypi-matplotlib_inline-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-matplotlib_inline-python3)
+pypi-matplotlib_inline-python

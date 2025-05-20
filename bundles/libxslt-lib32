@@ -1,0 +1,11 @@
+# [TITLE]: libxslt-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib32)
+include(glibc-libc32)
+include(libgcrypt-lib32)
+include(libxslt-license)
+libxslt-lib32

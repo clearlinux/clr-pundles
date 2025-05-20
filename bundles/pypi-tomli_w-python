@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tomli_w-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tomli_w-python3)
+pypi-tomli_w-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rfc3339_validator-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rfc3339_validator-python3)
+pypi-rfc3339_validator-python

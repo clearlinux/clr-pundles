@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyasn1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyasn1-license)
+include(pypi-pyasn1-python)
+include(pypi-pyasn1-python3)
+pypi-pyasn1

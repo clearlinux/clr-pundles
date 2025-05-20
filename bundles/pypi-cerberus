@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cerberus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cerberus-license)
+include(pypi-cerberus-python)
+include(pypi-cerberus-python3)
+pypi-cerberus

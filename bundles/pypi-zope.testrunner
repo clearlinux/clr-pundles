@@ -1,0 +1,11 @@
+# [TITLE]: pypi-zope.testrunner
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.testrunner-bin)
+include(pypi-zope.testrunner-license)
+include(pypi-zope.testrunner-python)
+include(pypi-zope.testrunner-python3)
+pypi-zope.testrunner

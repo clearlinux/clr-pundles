@@ -1,0 +1,12 @@
+# [TITLE]: pypi-jsonschema-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attrs-python3)
+include(pypi-jsonschema_specifications-python3)
+include(pypi-referencing-python3)
+include(pypi-rpds_py-python3)
+include(python3-core)
+pypi-jsonschema-python3

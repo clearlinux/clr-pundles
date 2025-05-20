@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pretty_errors
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pretty_errors-python)
+include(pypi-pretty_errors-python3)
+pypi-pretty_errors

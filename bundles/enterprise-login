@@ -11,10 +11,10 @@ include(python3-basic)
 include(samba)
 
 authconfig
-pypi-kerberos
+include(pypi-kerberos)
 include(krb5)
 nss-pam-ldapd
-pypi-requests_kerberos
+include(pypi-requests_kerberos)
 sssd
 include(libnl)
 include(pypi-six)

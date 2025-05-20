@@ -1,0 +1,10 @@
+# [TITLE]: pypi-setproctitle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-setproctitle-license)
+include(pypi-setproctitle-python)
+include(pypi-setproctitle-python3)
+pypi-setproctitle

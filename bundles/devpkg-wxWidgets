@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-wxWidgets-dev
+include(wxWidgets-dev)
 include(gdk-pixbuf)
 include(icu4c-lib)
 include(lib-opengl)

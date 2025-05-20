@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-xcb-util-cursor-dev
+include(xcb-util-cursor-dev)
 include(libX11client)

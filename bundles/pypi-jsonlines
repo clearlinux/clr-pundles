@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jsonlines
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonlines-license)
+include(pypi-jsonlines-python)
+include(pypi-jsonlines-python3)
+pypi-jsonlines

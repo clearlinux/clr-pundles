@@ -1,0 +1,8 @@
+# [TITLE]: pypi-amqp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-amqp-python3)
+pypi-amqp-python

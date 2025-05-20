@@ -1,0 +1,10 @@
+# [TITLE]: pypi-tenacity
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tenacity-license)
+include(pypi-tenacity-python)
+include(pypi-tenacity-python3)
+pypi-tenacity

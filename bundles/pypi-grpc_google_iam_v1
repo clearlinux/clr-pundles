@@ -1,0 +1,10 @@
+# [TITLE]: pypi-grpc_google_iam_v1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-grpc_google_iam_v1-license)
+include(pypi-grpc_google_iam_v1-python)
+include(pypi-grpc_google_iam_v1-python3)
+pypi-grpc_google_iam_v1

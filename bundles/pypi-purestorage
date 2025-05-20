@@ -1,0 +1,10 @@
+# [TITLE]: pypi-purestorage
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-purestorage-license)
+include(pypi-purestorage-python)
+include(pypi-purestorage-python3)
+pypi-purestorage

@@ -1,0 +1,12 @@
+# [TITLE]: hwloc-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(hwloc-lib)
+include(libX11-lib)
+include(libc6)
+include(ncurses-lib)
+hwloc-extras

@@ -1,0 +1,14 @@
+# [TITLE]: libnotify-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(libnotify)
+include(libnotify-bin)
+include(libnotify-data)
+include(libnotify-lib)
+include(pkg-config-bin)
+libnotify-dev

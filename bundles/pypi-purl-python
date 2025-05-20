@@ -1,0 +1,8 @@
+# [TITLE]: pypi-purl-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-purl-python3)
+pypi-purl-python

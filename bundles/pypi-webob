@@ -1,0 +1,10 @@
+# [TITLE]: pypi-webob
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-webob-license)
+include(pypi-webob-python)
+include(pypi-webob-python3)
+pypi-webob

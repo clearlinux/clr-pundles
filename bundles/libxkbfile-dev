@@ -1,0 +1,12 @@
+# [TITLE]: libxkbfile-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libxkbfile)
+include(libxkbfile-lib)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libxkbfile-dev

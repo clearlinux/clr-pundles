@@ -1,0 +1,12 @@
+# [TITLE]: flac-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flac-license)
+include(libc6)
+include(libgcc1)
+include(libogg-lib)
+include(libstdc++)
+flac-lib

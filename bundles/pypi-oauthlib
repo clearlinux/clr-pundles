@@ -1,0 +1,10 @@
+# [TITLE]: pypi-oauthlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-oauthlib-license)
+include(pypi-oauthlib-python)
+include(pypi-oauthlib-python3)
+pypi-oauthlib

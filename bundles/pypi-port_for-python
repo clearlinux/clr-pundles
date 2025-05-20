@@ -1,0 +1,8 @@
+# [TITLE]: pypi-port_for-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-port_for-python3)
+pypi-port_for-python

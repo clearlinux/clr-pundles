@@ -1,0 +1,9 @@
+# [TITLE]: tbb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tbb-lib)
+include(tbb-license)
+tbb

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-lark_parser-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lark_parser-python3)
+pypi-lark_parser-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dnspython-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-dnspython-python3

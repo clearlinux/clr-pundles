@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pip_tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pip_tools-bin)
+include(pypi-pip_tools-license)
+include(pypi-pip_tools-python)
+include(pypi-pip_tools-python3)
+pypi-pip_tools

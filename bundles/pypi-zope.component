@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.component
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.component-license)
+include(pypi-zope.component-python)
+include(pypi-zope.component-python3)
+pypi-zope.component

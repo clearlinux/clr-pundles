@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pydantic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydantic-license)
+include(pypi-pydantic-python)
+include(pypi-pydantic-python3)
+pypi-pydantic

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-expandvars
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-expandvars-license)
+include(pypi-expandvars-python)
+include(pypi-expandvars-python3)
+pypi-expandvars

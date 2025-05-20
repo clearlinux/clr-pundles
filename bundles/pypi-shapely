@@ -1,0 +1,10 @@
+# [TITLE]: pypi-shapely
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-shapely-license)
+include(pypi-shapely-python)
+include(pypi-shapely-python3)
+pypi-shapely

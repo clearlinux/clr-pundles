@@ -1,0 +1,8 @@
+# [TITLE]: pypi-coveralls-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-coveralls-python3)
+pypi-coveralls-python

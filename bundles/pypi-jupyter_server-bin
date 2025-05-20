@@ -1,0 +1,9 @@
+# [TITLE]: pypi-jupyter_server-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_server-license)
+include(python3-core)
+pypi-jupyter_server-bin

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-wcmatch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wcmatch-license)
+include(pypi-wcmatch-python)
+include(pypi-wcmatch-python3)
+pypi-wcmatch

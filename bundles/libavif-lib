@@ -1,0 +1,10 @@
+# [TITLE]: libavif-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libavif-license)
+include(libc6)
+include(libwebp-lib)
+libavif-lib

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-versioneer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-versioneer-license)
+include(python3-core)
+pypi-versioneer-bin

@@ -1,0 +1,10 @@
+# [TITLE]: cycler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cycler-license)
+include(cycler-python)
+include(cycler-python3)
+cycler

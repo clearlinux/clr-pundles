@@ -1,0 +1,8 @@
+# [TITLE]: pypi-coverage-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-coverage-python3)
+pypi-coverage-python

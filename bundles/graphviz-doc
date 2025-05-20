@@ -1,0 +1,8 @@
+# [TITLE]: graphviz-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(graphviz-man)
+graphviz-doc

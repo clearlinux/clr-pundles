@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libva-dev
+include(libva-dev)
 include(lib-opengl)
 include(libX11client)

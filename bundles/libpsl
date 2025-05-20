@@ -1,0 +1,11 @@
+# [TITLE]: libpsl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpsl-bin)
+include(libpsl-lib)
+include(libpsl-license)
+include(libpsl-man)
+libpsl

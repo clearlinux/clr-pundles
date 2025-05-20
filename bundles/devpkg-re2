@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-re2-dev
+include(re2-dev)
 include(libstdcpp)

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jaraco.classes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jaraco.classes-license)
+include(pypi-jaraco.classes-python)
+include(pypi-jaraco.classes-python3)
+pypi-jaraco.classes

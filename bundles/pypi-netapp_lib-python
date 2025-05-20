@@ -1,0 +1,8 @@
+# [TITLE]: pypi-netapp_lib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-netapp_lib-python3)
+pypi-netapp_lib-python

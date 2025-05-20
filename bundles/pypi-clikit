@@ -1,0 +1,10 @@
+# [TITLE]: pypi-clikit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-clikit-license)
+include(pypi-clikit-python)
+include(pypi-clikit-python3)
+pypi-clikit

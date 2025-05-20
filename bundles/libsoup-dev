@@ -1,0 +1,17 @@
+# [TITLE]: libsoup-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-dev)
+include(glib-dev)
+include(libpsl-dev)
+include(libsoup)
+include(libsoup-data)
+include(libsoup-lib)
+include(nghttp2-dev)
+include(pkg-config-bin)
+include(sqlite-autoconf-dev)
+include(zlib-dev)
+libsoup-dev

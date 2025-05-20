@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ipython-pygments-lexers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipython-pygments-lexers-license)
+include(pypi-ipython-pygments-lexers-python)
+include(pypi-ipython-pygments-lexers-python3)
+pypi-ipython-pygments-lexers

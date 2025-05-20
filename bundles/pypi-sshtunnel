@@ -1,0 +1,11 @@
+# [TITLE]: pypi-sshtunnel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sshtunnel-bin)
+include(pypi-sshtunnel-license)
+include(pypi-sshtunnel-python)
+include(pypi-sshtunnel-python3)
+pypi-sshtunnel

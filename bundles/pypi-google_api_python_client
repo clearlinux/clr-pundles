@@ -1,0 +1,10 @@
+# [TITLE]: pypi-google_api_python_client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_api_python_client-license)
+include(pypi-google_api_python_client-python)
+include(pypi-google_api_python_client-python3)
+pypi-google_api_python_client

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-fsspec-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fsspec-python3)
+pypi-fsspec-python

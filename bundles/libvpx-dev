@@ -1,0 +1,11 @@
+# [TITLE]: libvpx-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvpx)
+include(libvpx-bin)
+include(libvpx-lib)
+include(pkg-config-bin)
+libvpx-dev

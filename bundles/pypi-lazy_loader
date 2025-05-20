@@ -1,0 +1,10 @@
+# [TITLE]: pypi-lazy_loader
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lazy_loader-license)
+include(pypi-lazy_loader-python)
+include(pypi-lazy_loader-python3)
+pypi-lazy_loader

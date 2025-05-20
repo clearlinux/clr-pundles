@@ -1,0 +1,10 @@
+# [TITLE]: numactl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(numactl-lib)
+include(numactl-license)
+numactl-bin

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-heapdict
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-heapdict-license)
+include(pypi-heapdict-python)
+include(pypi-heapdict-python3)
+pypi-heapdict

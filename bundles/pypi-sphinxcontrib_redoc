@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_redoc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_redoc-license)
+include(pypi-sphinxcontrib_redoc-python)
+include(pypi-sphinxcontrib_redoc-python3)
+pypi-sphinxcontrib_redoc

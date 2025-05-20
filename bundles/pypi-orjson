@@ -1,0 +1,10 @@
+# [TITLE]: pypi-orjson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-orjson-license)
+include(pypi-orjson-python)
+include(pypi-orjson-python3)
+pypi-orjson

@@ -1,0 +1,13 @@
+# [TITLE]: tcl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(tcl)
+include(tcl-bin)
+include(tcl-lib)
+include(tcl-staticdev)
+include(zlib-dev)
+tcl-dev

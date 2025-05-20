@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pywinrm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pywinrm-python3)
+pypi-pywinrm-python

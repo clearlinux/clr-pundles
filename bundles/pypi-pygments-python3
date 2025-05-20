@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pygments-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tox-python3)
+include(python3-core)
+pypi-pygments-python3

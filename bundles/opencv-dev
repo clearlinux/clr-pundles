@@ -1,0 +1,12 @@
+# [TITLE]: opencv-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opencv)
+include(opencv-bin)
+include(opencv-data)
+include(opencv-lib)
+include(pkg-config-bin)
+opencv-dev

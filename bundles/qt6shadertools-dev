@@ -1,0 +1,11 @@
+# [TITLE]: qt6shadertools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6shadertools)
+include(qt6shadertools-lib)
+qt6shadertools-dev

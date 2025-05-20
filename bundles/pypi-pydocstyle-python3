@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pydocstyle-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-snowballstemmer-python3)
+include(python3-core)
+pypi-pydocstyle-python3

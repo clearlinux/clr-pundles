@@ -1,0 +1,10 @@
+# [TITLE]: pypi-types_pytz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_pytz-license)
+include(pypi-types_pytz-python)
+include(pypi-types_pytz-python3)
+pypi-types_pytz

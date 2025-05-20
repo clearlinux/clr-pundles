@@ -1,0 +1,15 @@
+# [TITLE]: hwloc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(hwloc-data)
+include(hwloc-lib)
+include(hwloc-license)
+include(libc6)
+include(ncurses-lib)
+include(openmpi-lib)
+hwloc-bin

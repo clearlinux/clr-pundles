@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hjson-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hjson-python3)
+pypi-hjson-python

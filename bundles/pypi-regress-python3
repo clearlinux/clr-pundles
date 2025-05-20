@@ -1,0 +1,10 @@
+# [TITLE]: pypi-regress-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(python3-core)
+pypi-regress-python3

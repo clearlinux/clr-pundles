@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-numactl-dev
+include(numactl-dev)
 include(numactl)

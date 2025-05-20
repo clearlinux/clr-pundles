@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libevent-dev
+include(libevent-dev)
 include(libevent-lib)

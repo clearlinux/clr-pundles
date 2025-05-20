@@ -1,0 +1,10 @@
+# [TITLE]: cloudpickle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cloudpickle-license)
+include(cloudpickle-python)
+include(cloudpickle-python3)
+cloudpickle

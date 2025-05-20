@@ -1,0 +1,8 @@
+# [TITLE]: pypi-legacy_cgi-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-legacy_cgi-python3

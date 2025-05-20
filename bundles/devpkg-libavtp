@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libavtp-dev
+include(libavtp-dev)

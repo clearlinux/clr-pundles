@@ -1,0 +1,8 @@
+# [TITLE]: pypi-nocaselist-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nocaselist-python3)
+pypi-nocaselist-python

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-ftfy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ftfy-bin)
+include(pypi-ftfy-license)
+include(pypi-ftfy-python)
+include(pypi-ftfy-python3)
+pypi-ftfy

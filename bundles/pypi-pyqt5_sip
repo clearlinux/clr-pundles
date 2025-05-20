@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyqt5_sip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyqt5_sip-license)
+include(pypi-pyqt5_sip-python)
+include(pypi-pyqt5_sip-python3)
+pypi-pyqt5_sip

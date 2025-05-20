@@ -1,0 +1,8 @@
+# [TITLE]: pypi-types_dataclasses-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_dataclasses-python3)
+pypi-types_dataclasses-python

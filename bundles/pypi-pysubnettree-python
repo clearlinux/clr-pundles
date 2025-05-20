@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pysubnettree-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pysubnettree-python3)
+pypi-pysubnettree-python

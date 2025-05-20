@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pyroute2.ndb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyroute2.ndb-bin)
+include(pypi-pyroute2.ndb-license)
+include(pypi-pyroute2.ndb-python)
+include(pypi-pyroute2.ndb-python3)
+pypi-pyroute2.ndb

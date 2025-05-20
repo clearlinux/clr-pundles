@@ -1,0 +1,10 @@
+# [TITLE]: pypi-shellingham
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-shellingham-license)
+include(pypi-shellingham-python)
+include(pypi-shellingham-python3)
+pypi-shellingham

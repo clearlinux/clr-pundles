@@ -13,7 +13,7 @@ include(python3-basic)
 include(btrfs-progs)
 include(sudo)
 awscli
-botocore
+include(botocore)
 docker
 include(openssh-client)
 psmisc

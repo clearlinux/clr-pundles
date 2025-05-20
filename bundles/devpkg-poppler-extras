@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-poppler-extras
+include(poppler-extras)
 include(libX11client)
 include(lib-opengl)
 include(qt-core)

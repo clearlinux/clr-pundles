@@ -1,0 +1,8 @@
+# [TITLE]: pypi-flaky-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flaky-python3)
+pypi-flaky-python

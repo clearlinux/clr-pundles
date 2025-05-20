@@ -1,0 +1,10 @@
+# [TITLE]: pypi-graphql_core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-graphql_core-license)
+include(pypi-graphql_core-python)
+include(pypi-graphql_core-python3)
+pypi-graphql_core

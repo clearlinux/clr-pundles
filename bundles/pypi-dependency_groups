@@ -1,0 +1,11 @@
+# [TITLE]: pypi-dependency_groups
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dependency_groups-bin)
+include(pypi-dependency_groups-license)
+include(pypi-dependency_groups-python)
+include(pypi-dependency_groups-python3)
+pypi-dependency_groups

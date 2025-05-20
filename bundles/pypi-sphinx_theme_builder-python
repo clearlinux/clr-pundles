@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinx_theme_builder-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_theme_builder-python3)
+pypi-sphinx_theme_builder-python

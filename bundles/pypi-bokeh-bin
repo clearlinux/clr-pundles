@@ -1,0 +1,9 @@
+# [TITLE]: pypi-bokeh-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bokeh-license)
+include(python3-core)
+pypi-bokeh-bin

@@ -1,0 +1,9 @@
+# [TITLE]: libogg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libogg-lib)
+include(libogg-license)
+libogg

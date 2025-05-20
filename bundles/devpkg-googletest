@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-googletest-dev
+include(googletest-dev)
 include(libstdcpp)

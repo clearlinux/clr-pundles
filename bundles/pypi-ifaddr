@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ifaddr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ifaddr-license)
+include(pypi-ifaddr-python)
+include(pypi-ifaddr-python3)
+pypi-ifaddr

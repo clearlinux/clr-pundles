@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pywbem-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pywbem-license)
+include(python3-core)
+pypi-pywbem-bin

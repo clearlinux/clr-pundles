@@ -1,0 +1,8 @@
+# [TITLE]: pypi-numpoly-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-numpoly-python3)
+pypi-numpoly-python

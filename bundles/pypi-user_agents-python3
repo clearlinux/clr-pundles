@@ -1,0 +1,9 @@
+# [TITLE]: pypi-user_agents-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ua_parser-python3)
+include(python3-core)
+pypi-user_agents-python3

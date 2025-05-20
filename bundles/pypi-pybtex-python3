@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pybtex-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-latexcodec-python3)
+include(pypi-six-python3)
+include(python3-core)
+pypi-pybtex-python3

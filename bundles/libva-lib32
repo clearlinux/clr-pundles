@@ -1,0 +1,13 @@
+# [TITLE]: libva-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libX11-lib32)
+include(libdrm-lib32)
+include(libva-license)
+include(mesa-lib32)
+include(wayland-lib32)
+libva-lib32

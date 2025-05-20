@@ -1,0 +1,8 @@
+# [TITLE]: pypi-executing-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-executing-python3)
+pypi-executing-python

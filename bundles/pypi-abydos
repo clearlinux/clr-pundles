@@ -1,0 +1,10 @@
+# [TITLE]: pypi-abydos
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-abydos-license)
+include(pypi-abydos-python)
+include(pypi-abydos-python3)
+pypi-abydos

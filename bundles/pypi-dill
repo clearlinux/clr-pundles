@@ -1,0 +1,10 @@
+# [TITLE]: pypi-dill
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dill-bin)
+include(pypi-dill-python)
+include(pypi-dill-python3)
+pypi-dill

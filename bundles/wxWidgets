@@ -1,0 +1,13 @@
+# [TITLE]: wxWidgets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(wxWidgets-bin)
+include(wxWidgets-data)
+include(wxWidgets-lib)
+include(wxWidgets-license)
+include(wxWidgets-locales)
+wxWidgets

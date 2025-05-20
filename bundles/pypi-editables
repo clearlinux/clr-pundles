@@ -1,0 +1,10 @@
+# [TITLE]: pypi-editables
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-editables-license)
+include(pypi-editables-python)
+include(pypi-editables-python3)
+pypi-editables

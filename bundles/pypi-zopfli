@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zopfli
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zopfli-license)
+include(pypi-zopfli-python)
+include(pypi-zopfli-python3)
+pypi-zopfli

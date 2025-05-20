@@ -1,0 +1,11 @@
+# [TITLE]: pypi-ped
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ped-bin)
+include(pypi-ped-license)
+include(pypi-ped-python)
+include(pypi-ped-python3)
+pypi-ped

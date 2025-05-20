@@ -1,0 +1,10 @@
+# [TITLE]: libpsl-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib32)
+include(glibc-libc32)
+include(libpsl-license)
+libpsl-lib32

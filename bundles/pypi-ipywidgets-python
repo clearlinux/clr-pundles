@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ipywidgets-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipywidgets-python3)
+pypi-ipywidgets-python

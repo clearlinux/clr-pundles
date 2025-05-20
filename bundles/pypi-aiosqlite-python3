@@ -1,0 +1,9 @@
+# [TITLE]: pypi-aiosqlite-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-aiosqlite-python3

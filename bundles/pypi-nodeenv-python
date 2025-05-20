@@ -1,0 +1,8 @@
+# [TITLE]: pypi-nodeenv-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nodeenv-python3)
+pypi-nodeenv-python

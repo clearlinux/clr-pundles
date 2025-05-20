@@ -1,0 +1,9 @@
+# [TITLE]: pypi-python_slugify-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_slugify-license)
+include(python3-core)
+pypi-python_slugify-bin

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_jsmath-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-sphinxcontrib_jsmath-python3

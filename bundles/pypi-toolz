@@ -1,0 +1,10 @@
+# [TITLE]: pypi-toolz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-toolz-license)
+include(pypi-toolz-python)
+include(pypi-toolz-python3)
+pypi-toolz

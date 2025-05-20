@@ -1,0 +1,8 @@
+# [TITLE]: pypi-google_apitools-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_apitools-python3)
+pypi-google_apitools-python

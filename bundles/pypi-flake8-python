@@ -1,0 +1,8 @@
+# [TITLE]: pypi-flake8-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flake8-python3)
+pypi-flake8-python

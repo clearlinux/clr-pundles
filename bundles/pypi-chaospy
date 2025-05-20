@@ -1,0 +1,10 @@
+# [TITLE]: pypi-chaospy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chaospy-license)
+include(pypi-chaospy-python)
+include(pypi-chaospy-python3)
+pypi-chaospy

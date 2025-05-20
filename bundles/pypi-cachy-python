@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cachy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cachy-python3)
+pypi-cachy-python

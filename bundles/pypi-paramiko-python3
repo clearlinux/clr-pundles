@@ -1,0 +1,11 @@
+# [TITLE]: pypi-paramiko-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-bcrypt-python3)
+include(pypi-cryptography-python3)
+include(pypi-pynacl-python3)
+include(python3-core)
+pypi-paramiko-python3

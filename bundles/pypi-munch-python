@@ -1,0 +1,8 @@
+# [TITLE]: pypi-munch-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-munch-python3)
+pypi-munch-python

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-seaborn-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pandas-python3)
+include(pypi-matplotlib-python3)
+include(pypi-numpy-python3)
+include(python3-core)
+pypi-seaborn-python3

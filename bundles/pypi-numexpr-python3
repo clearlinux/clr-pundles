@@ -1,0 +1,12 @@
+# [TITLE]: pypi-numexpr-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pypi-numpy-python3)
+include(python3-core)
+pypi-numexpr-python3

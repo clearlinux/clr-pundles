@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyqt5_sip-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyqt5_sip-python3)
+pypi-pyqt5_sip-python

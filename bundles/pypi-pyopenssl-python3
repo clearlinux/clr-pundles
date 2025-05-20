@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyopenssl-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cryptography-python3)
+include(python3-core)
+pypi-pyopenssl-python3

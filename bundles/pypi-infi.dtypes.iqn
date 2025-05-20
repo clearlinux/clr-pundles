@@ -1,0 +1,9 @@
+# [TITLE]: pypi-infi.dtypes.iqn
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-infi.dtypes.iqn-python)
+include(pypi-infi.dtypes.iqn-python3)
+pypi-infi.dtypes.iqn

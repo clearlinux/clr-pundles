@@ -1,0 +1,8 @@
+# [TITLE]: pypi-gast-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gast-python3)
+pypi-gast-python

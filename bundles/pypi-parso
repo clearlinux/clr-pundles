@@ -1,0 +1,10 @@
+# [TITLE]: pypi-parso
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-parso-license)
+include(pypi-parso-python)
+include(pypi-parso-python3)
+pypi-parso

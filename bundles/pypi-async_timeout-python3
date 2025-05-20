@@ -1,0 +1,13 @@
+# [TITLE]: pypi-async_timeout-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mypy-python3)
+include(pypi-build-python3)
+include(pypi-docutils-python3)
+include(pypi-pre_commit-python3)
+include(pypi-twine-python3)
+include(python3-core)
+pypi-async_timeout-python3

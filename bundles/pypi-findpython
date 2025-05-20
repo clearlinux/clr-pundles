@@ -1,0 +1,11 @@
+# [TITLE]: pypi-findpython
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-findpython-bin)
+include(pypi-findpython-license)
+include(pypi-findpython-python)
+include(pypi-findpython-python3)
+pypi-findpython

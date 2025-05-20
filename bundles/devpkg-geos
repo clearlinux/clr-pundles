@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-geos-dev
+include(geos-dev)
 include(libstdcpp)

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-myst_parser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-myst_parser-bin)
+include(pypi-myst_parser-license)
+include(pypi-myst_parser-python)
+include(pypi-myst_parser-python3)
+pypi-myst_parser

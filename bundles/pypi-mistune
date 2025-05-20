@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mistune
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mistune-license)
+include(pypi-mistune-python)
+include(pypi-mistune-python3)
+pypi-mistune

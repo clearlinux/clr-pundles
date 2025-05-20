@@ -1,0 +1,11 @@
+# [TITLE]: pypi-python_lsp_server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_lsp_server-bin)
+include(pypi-python_lsp_server-license)
+include(pypi-python_lsp_server-python)
+include(pypi-python_lsp_server-python3)
+pypi-python_lsp_server

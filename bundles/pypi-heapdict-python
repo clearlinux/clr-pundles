@@ -1,0 +1,8 @@
+# [TITLE]: pypi-heapdict-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-heapdict-python3)
+pypi-heapdict-python

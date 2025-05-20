@@ -1,0 +1,11 @@
+# [TITLE]: ninja
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ninja-bin)
+include(ninja-license)
+include(ninja-python)
+include(ninja-python3)
+ninja

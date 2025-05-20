@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tabulate-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tabulate-python3)
+pypi-tabulate-python

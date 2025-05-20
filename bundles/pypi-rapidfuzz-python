@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rapidfuzz-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rapidfuzz-python3)
+pypi-rapidfuzz-python

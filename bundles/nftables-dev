@@ -1,0 +1,12 @@
+# [TITLE]: nftables-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nftables)
+include(nftables-bin)
+include(nftables-data)
+include(nftables-lib)
+include(pkg-config-bin)
+nftables-dev

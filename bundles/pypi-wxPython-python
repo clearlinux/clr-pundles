@@ -1,0 +1,8 @@
+# [TITLE]: pypi-wxPython-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-wxPython-python3)
+pypi-wxPython-python

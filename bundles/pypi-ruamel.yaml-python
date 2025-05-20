@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ruamel.yaml-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ruamel.yaml-python3)
+pypi-ruamel.yaml-python

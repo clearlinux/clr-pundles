@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cairocffi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cairocffi-license)
+include(pypi-cairocffi-python)
+include(pypi-cairocffi-python3)
+pypi-cairocffi

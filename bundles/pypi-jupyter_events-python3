@@ -1,0 +1,16 @@
+# [TITLE]: pypi-jupyter_events-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-jsonschema-python3)
+include(pypi-packaging-python3)
+include(pypi-python_json_logger-python3)
+include(pypi-referencing-python3)
+include(pypi-rfc3339_validator-python3)
+include(pypi-rfc3986_validator-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-jupyter_events-python3

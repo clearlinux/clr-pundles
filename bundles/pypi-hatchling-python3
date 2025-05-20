@@ -1,0 +1,17 @@
+# [TITLE]: pypi-hatchling-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hatch_fancy_pypi_readme)
+include(pypi-hatch_jupyter_builder)
+include(pypi-hatch_nodejs_version)
+include(pypi-hatch_requirements_txt)
+include(pypi-hatch_vcs)
+include(pypi-packaging-python3)
+include(pypi-pathspec-python3)
+include(pypi-pluggy-python3)
+include(pypi-trove_classifiers-python3)
+include(python3-core)
+pypi-hatchling-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.interface
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.interface-license)
+include(pypi-zope.interface-python)
+include(pypi-zope.interface-python3)
+pypi-zope.interface

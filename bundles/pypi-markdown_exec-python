@@ -1,0 +1,8 @@
+# [TITLE]: pypi-markdown_exec-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-markdown_exec-python3)
+pypi-markdown_exec-python

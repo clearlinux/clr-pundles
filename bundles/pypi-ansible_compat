@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ansible_compat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ansible_compat-license)
+include(pypi-ansible_compat-python)
+include(pypi-ansible_compat-python3)
+pypi-ansible_compat

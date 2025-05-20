@@ -1,0 +1,13 @@
+# [TITLE]: openexr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openexr-license)
+include(zlib-lib)
+openexr-lib

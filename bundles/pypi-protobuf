@@ -1,0 +1,10 @@
+# [TITLE]: pypi-protobuf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-protobuf-license)
+include(pypi-protobuf-python)
+include(pypi-protobuf-python3)
+pypi-protobuf

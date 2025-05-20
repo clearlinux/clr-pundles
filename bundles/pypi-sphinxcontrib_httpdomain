@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_httpdomain
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_httpdomain-license)
+include(pypi-sphinxcontrib_httpdomain-python)
+include(pypi-sphinxcontrib_httpdomain-python3)
+pypi-sphinxcontrib_httpdomain

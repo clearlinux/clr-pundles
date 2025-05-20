@@ -1,0 +1,12 @@
+# [TITLE]: pypi-argparse_manpage
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-argparse_manpage-bin)
+include(pypi-argparse_manpage-license)
+include(pypi-argparse_manpage-man)
+include(pypi-argparse_manpage-python)
+include(pypi-argparse_manpage-python3)
+pypi-argparse_manpage

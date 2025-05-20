@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jupyter_server_terminals-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyter_server_terminals-python3)
+pypi-jupyter_server_terminals-python

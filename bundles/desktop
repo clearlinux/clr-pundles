@@ -39,7 +39,7 @@ geocode-glib
 include(gjs)
 include(libglib)
 include(glib)
-glib-networking
+include(glib-networking)
 include(gsettings-desktop-schemas)
 gtk+
 include(gtk3)
@@ -54,11 +54,11 @@ include(json-glib)
 libcanberra
 libgnomekbd
 libgweather
-libinput
+include(libinput)
 libmtp
-libnotify
+include(libnotify)
 libpinyin
-librsvg
+include(librsvg)
 include(linux-firmware-extras)
 also-add(linux-firmware-wifi)
 mutter
@@ -67,7 +67,7 @@ include(pango)
 include(pygobject)
 include(shared-mime-info)
 include(tzdata)
-pygobject-extras
+include(pygobject-extras)
 
 # a11y
 include(at-spi2-core)
@@ -104,16 +104,16 @@ xdg-user-dirs-gtk
 
 # media
 gst-plugins-ugly
-gst-plugins-bad
+include(gst-plugins-bad)
 gst-plugins-good
-gst-plugins-base
+include(gst-plugins-base)
 gsound
 include(gstreamer)
 gstreamer-vaapi
 intel-gmmlib
 intel-hybrid-driver
 intel-media-driver
-libva
+include(libva)
 libva-intel-driver
 libyami
 

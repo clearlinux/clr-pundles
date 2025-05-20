@@ -1,0 +1,11 @@
+# [TITLE]: pypi-accelerate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-accelerate-bin)
+include(pypi-accelerate-license)
+include(pypi-accelerate-python)
+include(pypi-accelerate-python3)
+pypi-accelerate

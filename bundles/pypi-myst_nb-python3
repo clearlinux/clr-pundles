@@ -1,0 +1,18 @@
+# [TITLE]: pypi-myst_nb-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-importlib_metadata-python3)
+include(pypi-ipykernel-python3)
+include(pypi-ipython-python3)
+include(pypi-jupyter_cache-python3)
+include(pypi-myst_parser-python3)
+include(pypi-nbclient-python3)
+include(pypi-nbformat-python3)
+include(pypi-sphinx-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-myst_nb-python3

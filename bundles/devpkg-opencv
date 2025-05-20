@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-opencv-dev
+include(opencv-dev)
 include(libX11client)
 include(libglib)
 include(gstreamer)

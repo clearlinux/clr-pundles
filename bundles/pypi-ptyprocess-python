@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ptyprocess-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ptyprocess-python3)
+pypi-ptyprocess-python

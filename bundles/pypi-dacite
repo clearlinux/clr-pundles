@@ -1,0 +1,10 @@
+# [TITLE]: pypi-dacite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dacite-license)
+include(pypi-dacite-python)
+include(pypi-dacite-python3)
+pypi-dacite

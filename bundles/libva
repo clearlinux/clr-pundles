@@ -1,0 +1,9 @@
+# [TITLE]: libva
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libva-lib)
+include(libva-license)
+libva

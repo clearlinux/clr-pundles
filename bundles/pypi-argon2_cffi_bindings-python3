@@ -1,0 +1,10 @@
+# [TITLE]: pypi-argon2_cffi_bindings-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-cffi-python3)
+include(python3-core)
+pypi-argon2_cffi_bindings-python3

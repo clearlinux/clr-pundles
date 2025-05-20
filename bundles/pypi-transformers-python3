@@ -1,0 +1,18 @@
+# [TITLE]: pypi-transformers-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-filelock-python3)
+include(pypi-huggingface_hub-python3)
+include(pypi-numpy-python3)
+include(pypi-packaging-python3)
+include(pypi-regex-python3)
+include(pypi-requests-python3)
+include(pypi-safetensors-python3)
+include(pypi-tokenizers-python3)
+include(pypi-tqdm-python3)
+include(python3-core)
+pypi-transformers-python3

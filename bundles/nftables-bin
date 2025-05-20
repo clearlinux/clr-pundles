@@ -1,0 +1,12 @@
+# [TITLE]: nftables-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nftables-data)
+include(nftables-lib)
+include(nftables-license)
+include(readline-lib)
+nftables-bin

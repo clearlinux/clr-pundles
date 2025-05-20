@@ -1,0 +1,11 @@
+# [TITLE]: pypi-gitdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gitdb-license)
+include(pypi-gitdb-python)
+include(pypi-gitdb-python3)
+include(pypi-smmap-python3)
+pypi-gitdb

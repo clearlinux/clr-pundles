@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tap.py-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tap.py-python3)
+pypi-tap.py-python

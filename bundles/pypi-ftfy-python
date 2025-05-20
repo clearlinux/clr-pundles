@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ftfy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ftfy-python3)
+pypi-ftfy-python

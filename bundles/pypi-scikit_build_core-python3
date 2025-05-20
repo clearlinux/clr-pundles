@@ -1,0 +1,10 @@
+# [TITLE]: pypi-scikit_build_core-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-packaging-python3)
+include(pypi-pathspec-python3)
+include(python3-core)
+pypi-scikit_build_core-python3

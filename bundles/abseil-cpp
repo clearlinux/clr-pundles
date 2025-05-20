@@ -1,0 +1,9 @@
+# [TITLE]: abseil-cpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(abseil-cpp-license)
+abseil-cpp

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pyrfc3339
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyrfc3339-python)
+include(pypi-pyrfc3339-python3)
+pypi-pyrfc3339

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-charset_normalizer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-charset_normalizer-bin)
+include(pypi-charset_normalizer-license)
+include(pypi-charset_normalizer-python)
+include(pypi-charset_normalizer-python3)
+pypi-charset_normalizer

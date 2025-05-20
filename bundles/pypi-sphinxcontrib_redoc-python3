@@ -1,0 +1,13 @@
+# [TITLE]: pypi-sphinxcontrib_redoc-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-jinja2-python3)
+include(pypi-jsonschema-python3)
+include(pypi-six-python3)
+include(pypi-sphinx-python3)
+include(python3-core)
+pypi-sphinxcontrib_redoc-python3

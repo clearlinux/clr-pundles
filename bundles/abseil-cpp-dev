@@ -1,0 +1,10 @@
+# [TITLE]: abseil-cpp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp)
+include(abseil-cpp-lib)
+include(pkg-config-bin)
+abseil-cpp-dev

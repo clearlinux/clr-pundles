@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cachecontrol-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-msgpack-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-cachecontrol-python3

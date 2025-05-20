@@ -1,0 +1,11 @@
+# [TITLE]: libunwind-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libunwind)
+include(libunwind-dev)
+include(libunwind-lib)
+include(pkg-config-bin)
+libunwind-dev

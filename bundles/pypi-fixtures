@@ -1,0 +1,10 @@
+# [TITLE]: pypi-fixtures
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fixtures-license)
+include(pypi-fixtures-python)
+include(pypi-fixtures-python3)
+pypi-fixtures

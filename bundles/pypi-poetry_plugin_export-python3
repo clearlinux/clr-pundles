@@ -1,0 +1,10 @@
+# [TITLE]: pypi-poetry_plugin_export-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-poetry-python3)
+include(pypi-poetry_core-python3)
+include(python3-core)
+pypi-poetry_plugin_export-python3

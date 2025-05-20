@@ -1,0 +1,8 @@
+# [TITLE]: pypi-khal-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-khal-python3)
+pypi-khal-python

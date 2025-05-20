@@ -1,0 +1,10 @@
+# [TITLE]: pypi-humanize
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-humanize-license)
+include(pypi-humanize-python)
+include(pypi-humanize-python3)
+pypi-humanize

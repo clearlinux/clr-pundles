@@ -1,0 +1,8 @@
+# [TITLE]: pypi-stack_data-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-stack_data-python3)
+pypi-stack_data-python

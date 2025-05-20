@@ -1,0 +1,9 @@
+# [TITLE]: pypi-myst_nb-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-myst_nb-license)
+include(python3-core)
+pypi-myst_nb-bin

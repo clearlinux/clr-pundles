@@ -1,0 +1,9 @@
+# [TITLE]: pypi-ipython-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipython-license)
+include(python3-core)
+pypi-ipython-bin

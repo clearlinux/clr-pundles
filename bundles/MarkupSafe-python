@@ -1,0 +1,8 @@
+# [TITLE]: MarkupSafe-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+MarkupSafe-python

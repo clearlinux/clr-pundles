@@ -1,0 +1,10 @@
+# [TITLE]: pypi-py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-py-license)
+include(pypi-py-python)
+include(pypi-py-python3)
+pypi-py

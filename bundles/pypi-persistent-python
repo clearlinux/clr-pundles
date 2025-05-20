@@ -1,0 +1,8 @@
+# [TITLE]: pypi-persistent-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-persistent-python3)
+pypi-persistent-python

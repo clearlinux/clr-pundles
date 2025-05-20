@@ -1,0 +1,12 @@
+# [TITLE]: libnotify-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libc6)
+include(libnotify-data)
+include(libnotify-license)
+libnotify-lib

@@ -1,0 +1,11 @@
+# [TITLE]: geos-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geos)
+include(geos-bin)
+include(geos-lib)
+include(pkg-config-bin)
+geos-dev

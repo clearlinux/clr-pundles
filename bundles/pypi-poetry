@@ -1,0 +1,11 @@
+# [TITLE]: pypi-poetry
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-poetry-bin)
+include(pypi-poetry-license)
+include(pypi-poetry-python)
+include(pypi-poetry-python3)
+pypi-poetry

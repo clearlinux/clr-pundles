@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyxdg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyxdg-license)
+include(pypi-pyxdg-python)
+include(pypi-pyxdg-python3)
+pypi-pyxdg

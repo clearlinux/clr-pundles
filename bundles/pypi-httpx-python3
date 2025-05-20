@@ -1,0 +1,12 @@
+# [TITLE]: pypi-httpx-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-anyio-python3)
+include(pypi-certifi-python3)
+include(pypi-httpcore-python3)
+include(pypi-idna-python3)
+include(python3-core)
+pypi-httpx-python3

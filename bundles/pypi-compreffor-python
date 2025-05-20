@@ -1,0 +1,8 @@
+# [TITLE]: pypi-compreffor-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-compreffor-python3)
+pypi-compreffor-python

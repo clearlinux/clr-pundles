@@ -1,0 +1,10 @@
+# [TITLE]: pypi-posix_ipc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-posix_ipc-license)
+include(pypi-posix_ipc-python)
+include(pypi-posix_ipc-python3)
+pypi-posix_ipc

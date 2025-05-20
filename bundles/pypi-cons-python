@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cons-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cons-python3)
+pypi-cons-python

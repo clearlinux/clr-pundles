@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rope-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rope-python3)
+pypi-rope-python

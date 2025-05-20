@@ -1,0 +1,10 @@
+# [TITLE]: pypi-dnacentersdk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dnacentersdk-license)
+include(pypi-dnacentersdk-python)
+include(pypi-dnacentersdk-python3)
+pypi-dnacentersdk

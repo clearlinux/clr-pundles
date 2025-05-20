@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rcssmin-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rcssmin-python3)
+pypi-rcssmin-python

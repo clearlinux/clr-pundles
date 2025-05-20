@@ -1,0 +1,11 @@
+# [TITLE]: pypi-notebook_shim
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-notebook_shim-data)
+include(pypi-notebook_shim-license)
+include(pypi-notebook_shim-python)
+include(pypi-notebook_shim-python3)
+pypi-notebook_shim

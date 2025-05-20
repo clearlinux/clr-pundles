@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hyperframe-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-hyperframe-python3

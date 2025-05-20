@@ -1,0 +1,10 @@
+# [TITLE]: pypi-funcparserlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-funcparserlib-license)
+include(pypi-funcparserlib-python)
+include(pypi-funcparserlib-python3)
+pypi-funcparserlib

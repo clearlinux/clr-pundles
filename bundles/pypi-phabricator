@@ -1,0 +1,10 @@
+# [TITLE]: pypi-phabricator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-phabricator-license)
+include(pypi-phabricator-python)
+include(pypi-phabricator-python3)
+pypi-phabricator

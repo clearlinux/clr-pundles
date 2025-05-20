@@ -1,0 +1,11 @@
+# [TITLE]: nss-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(nspr-dev)
+include(nss-lib)
+include(pkg-config-bin)
+nss-dev

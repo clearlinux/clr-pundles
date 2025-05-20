@@ -1,0 +1,11 @@
+# [TITLE]: pypi-sphinxcontrib_websupport-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jinja2-python3)
+include(pypi-sphinx-python3)
+include(pypi-sphinxcontrib_serializinghtml-python3)
+include(python3-core)
+pypi-sphinxcontrib_websupport-python3

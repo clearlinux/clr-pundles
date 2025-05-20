@@ -1,0 +1,10 @@
+# [TITLE]: aspell-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell)
+include(aspell-bin)
+include(aspell-lib)
+aspell-dev

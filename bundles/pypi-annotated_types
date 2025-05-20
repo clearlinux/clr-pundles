@@ -1,0 +1,10 @@
+# [TITLE]: pypi-annotated_types
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-annotated_types-license)
+include(pypi-annotated_types-python)
+include(pypi-annotated_types-python3)
+pypi-annotated_types

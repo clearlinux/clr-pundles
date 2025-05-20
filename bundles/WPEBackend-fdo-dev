@@ -1,0 +1,11 @@
+# [TITLE]: WPEBackend-fdo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(WPEBackend-fdo)
+include(WPEBackend-fdo-lib)
+include(libwpe-dev)
+include(pkg-config-bin)
+WPEBackend-fdo-dev

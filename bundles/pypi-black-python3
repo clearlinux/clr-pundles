@@ -1,0 +1,16 @@
+# [TITLE]: pypi-black-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiohttp-python3)
+include(pypi-aiohttp_cors-python3)
+include(pypi-click-python3)
+include(pypi-mypy_extensions-python3)
+include(pypi-packaging-python3)
+include(pypi-pathspec-python3)
+include(pypi-platformdirs-python3)
+include(pypi-tomli-python3)
+include(python3-core)
+pypi-black-python3

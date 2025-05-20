@@ -1,0 +1,10 @@
+# [TITLE]: pypi-threadpoolctl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-threadpoolctl-license)
+include(pypi-threadpoolctl-python)
+include(pypi-threadpoolctl-python3)
+pypi-threadpoolctl

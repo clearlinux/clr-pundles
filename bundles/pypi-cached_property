@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cached_property
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cached_property-license)
+include(pypi-cached_property-python)
+include(pypi-cached_property-python3)
+pypi-cached_property

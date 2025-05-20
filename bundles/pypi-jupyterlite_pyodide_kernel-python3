@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jupyterlite_pyodide_kernel-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jupyterlite_core-python3)
+include(pypi-pkginfo-python3)
+include(python3-core)
+pypi-jupyterlite_pyodide_kernel-python3

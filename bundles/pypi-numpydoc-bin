@@ -1,0 +1,9 @@
+# [TITLE]: pypi-numpydoc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-numpydoc-license)
+include(python3-core)
+pypi-numpydoc-bin

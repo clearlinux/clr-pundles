@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-qrencode-dev
+include(qrencode-dev)
 include(lib-imageformat)

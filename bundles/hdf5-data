@@ -1,0 +1,8 @@
+# [TITLE]: hdf5-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+hdf5-data

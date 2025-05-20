@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rfc3987
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rfc3987-license)
+include(pypi-rfc3987-python)
+include(pypi-rfc3987-python3)
+pypi-rfc3987

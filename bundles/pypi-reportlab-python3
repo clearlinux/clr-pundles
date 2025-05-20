@@ -1,0 +1,12 @@
+# [TITLE]: pypi-reportlab-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chardet-python3)
+include(pypi-freetype_py-python3)
+include(pypi-pillow-python3)
+include(pypi-rlpycairo-python3)
+include(python3-core)
+pypi-reportlab-python3

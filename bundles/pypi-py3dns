@@ -1,0 +1,10 @@
+# [TITLE]: pypi-py3dns
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-py3dns-license)
+include(pypi-py3dns-python)
+include(pypi-py3dns-python3)
+pypi-py3dns

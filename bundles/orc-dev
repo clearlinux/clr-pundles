@@ -1,0 +1,11 @@
+# [TITLE]: orc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(orc)
+include(orc-bin)
+include(orc-lib)
+include(pkg-config-bin)
+orc-dev

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-s3transfer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-s3transfer-license)
+include(pypi-s3transfer-python)
+include(pypi-s3transfer-python3)
+pypi-s3transfer

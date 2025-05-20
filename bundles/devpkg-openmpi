@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-openmpi-dev
+include(openmpi-dev)
 include(openmpi)

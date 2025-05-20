@@ -1,0 +1,10 @@
+# [TITLE]: pypi-routes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-routes-license)
+include(pypi-routes-python)
+include(pypi-routes-python3)
+pypi-routes

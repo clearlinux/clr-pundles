@@ -1,0 +1,8 @@
+# [TITLE]: pypi-gql-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-gql-python3)
+pypi-gql-python

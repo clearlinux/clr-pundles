@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zict-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zict-python3)
+pypi-zict-python

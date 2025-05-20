@@ -1,0 +1,9 @@
+# [TITLE]: pypi-flatbuffers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flatbuffers-python)
+include(pypi-flatbuffers-python3)
+pypi-flatbuffers

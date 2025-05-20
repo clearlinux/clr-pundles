@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rich-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-markdown_it_py-python3)
+include(pypi-pygments-python3)
+include(python3-core)
+pypi-rich-python3

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pandocfilters
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pandocfilters-license)
+include(pypi-pandocfilters-python)
+include(pypi-pandocfilters-python3)
+pypi-pandocfilters

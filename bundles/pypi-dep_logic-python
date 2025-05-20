@@ -1,0 +1,8 @@
+# [TITLE]: pypi-dep_logic-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dep_logic-python3)
+pypi-dep_logic-python

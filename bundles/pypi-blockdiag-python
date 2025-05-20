@@ -1,0 +1,8 @@
+# [TITLE]: pypi-blockdiag-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-blockdiag-python3)
+pypi-blockdiag-python

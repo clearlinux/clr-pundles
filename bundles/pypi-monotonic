@@ -1,0 +1,10 @@
+# [TITLE]: pypi-monotonic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-monotonic-license)
+include(pypi-monotonic-python)
+include(pypi-monotonic-python3)
+pypi-monotonic

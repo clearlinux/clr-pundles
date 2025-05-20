@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pidigits
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pidigits-license)
+include(pypi-pidigits-python)
+include(pypi-pidigits-python3)
+pypi-pidigits

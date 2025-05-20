@@ -1,0 +1,11 @@
+# [TITLE]: pypi-waitress
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-waitress-bin)
+include(pypi-waitress-license)
+include(pypi-waitress-python)
+include(pypi-waitress-python3)
+pypi-waitress

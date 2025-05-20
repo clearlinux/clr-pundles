@@ -1,0 +1,11 @@
+# [TITLE]: pypi-pybind11-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(pypi-pybind11)
+include(pypi-pybind11-bin)
+include(pypi-pybind11-data)
+pypi-pybind11-dev

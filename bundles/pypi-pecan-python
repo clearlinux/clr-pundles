@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pecan-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pecan-python3)
+pypi-pecan-python

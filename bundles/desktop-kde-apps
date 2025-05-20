@@ -125,7 +125,7 @@ pimcommon
 poxml
 prison
 qqc2-desktop-style
-qrencode
+include(qrencode)
 also-add(spectacle)
 svgpart
 also-add(syndication)

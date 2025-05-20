@@ -1,0 +1,16 @@
+# [TITLE]: libgd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-lib)
+include(freetype-lib)
+include(libXpm-lib)
+include(libavif-lib)
+include(libc6)
+include(libgd-license)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libwebp-lib)
+libgd-lib

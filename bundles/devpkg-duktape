@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-duktape-dev
+include(duktape-dev)

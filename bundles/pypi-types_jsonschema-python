@@ -1,0 +1,8 @@
+# [TITLE]: pypi-types_jsonschema-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_jsonschema-python3)
+pypi-types_jsonschema-python

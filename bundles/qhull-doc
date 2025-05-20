@@ -1,0 +1,8 @@
+# [TITLE]: qhull-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qhull-man)
+qhull-doc

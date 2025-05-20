@@ -1,0 +1,8 @@
+# [TITLE]: pypi-grpcio_tools-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-grpcio_tools-python3)
+pypi-grpcio_tools-python

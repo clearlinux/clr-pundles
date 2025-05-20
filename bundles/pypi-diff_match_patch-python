@@ -1,0 +1,8 @@
+# [TITLE]: pypi-diff_match_patch-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-diff_match_patch-python3)
+pypi-diff_match_patch-python

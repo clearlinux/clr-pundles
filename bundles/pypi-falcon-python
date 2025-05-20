@@ -1,0 +1,8 @@
+# [TITLE]: pypi-falcon-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-falcon-python3)
+pypi-falcon-python

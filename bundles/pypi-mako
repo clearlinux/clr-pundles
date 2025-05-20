@@ -1,0 +1,11 @@
+# [TITLE]: pypi-mako
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mako-bin)
+include(pypi-mako-license)
+include(pypi-mako-python)
+include(pypi-mako-python3)
+pypi-mako

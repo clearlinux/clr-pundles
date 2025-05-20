@@ -1,0 +1,9 @@
+# [TITLE]: pypi-flexparser-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-flexparser-python3

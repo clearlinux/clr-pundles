@@ -1,0 +1,13 @@
+# [TITLE]: pypi-y_py-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(pypi-glfw-python3)
+include(pypi-numpy-python3)
+include(pypi-websockets-python3)
+include(python3-core)
+pypi-y_py-python3

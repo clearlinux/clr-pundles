@@ -1,0 +1,10 @@
+# [TITLE]: pypi-psautohint-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fonttools-python3)
+include(libc6)
+include(python3-core)
+pypi-psautohint-python3

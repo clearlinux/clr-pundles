@@ -1,0 +1,15 @@
+# [TITLE]: pypi-ipython
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-backcall-python3)
+include(pypi-ipython-bin)
+include(pypi-ipython-license)
+include(pypi-ipython-man)
+include(pypi-ipython-python)
+include(pypi-ipython-python3)
+include(pypi-pexpect-python3)
+include(pypi-pygments-python3)
+pypi-ipython

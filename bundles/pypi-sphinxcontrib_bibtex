@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_bibtex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_bibtex-license)
+include(pypi-sphinxcontrib_bibtex-python)
+include(pypi-sphinxcontrib_bibtex-python3)
+pypi-sphinxcontrib_bibtex

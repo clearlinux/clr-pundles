@@ -1,0 +1,9 @@
+# [TITLE]: pypi-xstatic_bootswatch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xstatic_bootswatch-python)
+include(pypi-xstatic_bootswatch-python3)
+pypi-xstatic_bootswatch

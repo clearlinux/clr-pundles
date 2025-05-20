@@ -1,0 +1,9 @@
+# [TITLE]: pypi-flatten_json-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flatten_json-license)
+include(python3-core)
+pypi-flatten_json-bin

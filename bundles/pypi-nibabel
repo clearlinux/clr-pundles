@@ -1,0 +1,11 @@
+# [TITLE]: pypi-nibabel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nibabel-bin)
+include(pypi-nibabel-license)
+include(pypi-nibabel-python)
+include(pypi-nibabel-python3)
+pypi-nibabel

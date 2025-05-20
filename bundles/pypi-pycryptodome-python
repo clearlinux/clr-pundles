@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pycryptodome-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycryptodome-python3)
+pypi-pycryptodome-python

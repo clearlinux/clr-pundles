@@ -1,0 +1,8 @@
+# [TITLE]: pypi-flit_core-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-flit_core-python3

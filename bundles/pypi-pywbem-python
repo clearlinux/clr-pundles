@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pywbem-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pywbem-python3)
+pypi-pywbem-python

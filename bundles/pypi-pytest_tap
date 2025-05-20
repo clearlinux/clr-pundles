@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pytest_tap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_tap-license)
+include(pypi-pytest_tap-python)
+include(pypi-pytest_tap-python3)
+pypi-pytest_tap

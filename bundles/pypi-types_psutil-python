@@ -1,0 +1,8 @@
+# [TITLE]: pypi-types_psutil-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-types_psutil-python3)
+pypi-types_psutil-python

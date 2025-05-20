@@ -1,0 +1,11 @@
+# [TITLE]: pypi-yamllint
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-yamllint-bin)
+include(pypi-yamllint-license)
+include(pypi-yamllint-python)
+include(pypi-yamllint-python3)
+pypi-yamllint

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-fasteners
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-fasteners-license)
+include(pypi-fasteners-python)
+include(pypi-fasteners-python3)
+pypi-fasteners

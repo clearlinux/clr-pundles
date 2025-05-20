@@ -1,0 +1,8 @@
+# [TITLE]: pypi-blivet-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+pypi-blivet-services

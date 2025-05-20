@@ -1,0 +1,13 @@
+# [TITLE]: pypi-terminado-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(XStatic-term.js-python3)
+include(pypi-ptyprocess-python3)
+include(pypi-tornado-python3)
+include(pypi-tornado_xstatic-python3)
+include(pypi-xstatic-python3)
+include(python3-core)
+pypi-terminado-python3

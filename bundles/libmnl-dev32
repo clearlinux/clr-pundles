@@ -1,0 +1,9 @@
+# [TITLE]: libmnl-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmnl-dev)
+include(libmnl-lib32)
+libmnl-dev32

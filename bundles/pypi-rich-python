@@ -1,0 +1,8 @@
+# [TITLE]: pypi-rich-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rich-python3)
+pypi-rich-python

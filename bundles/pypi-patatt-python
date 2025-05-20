@@ -1,0 +1,8 @@
+# [TITLE]: pypi-patatt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-patatt-python3)
+pypi-patatt-python

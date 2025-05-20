@@ -1,0 +1,8 @@
+# [TITLE]: pypi-python_multilib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_multilib-python3)
+pypi-python_multilib-python

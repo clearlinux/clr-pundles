@@ -1,0 +1,9 @@
+# [TITLE]: pypi-ndg_httpsclient-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ndg_httpsclient-license)
+include(python3-core)
+pypi-ndg_httpsclient-bin

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-aiohappyeyeballs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-aiohappyeyeballs-license)
+include(pypi-aiohappyeyeballs-python)
+include(pypi-aiohappyeyeballs-python3)
+pypi-aiohappyeyeballs

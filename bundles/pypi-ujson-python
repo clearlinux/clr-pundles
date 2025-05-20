@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ujson-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ujson-python3)
+pypi-ujson-python

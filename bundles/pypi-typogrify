@@ -1,0 +1,10 @@
+# [TITLE]: pypi-typogrify
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-typogrify-license)
+include(pypi-typogrify-python)
+include(pypi-typogrify-python3)
+pypi-typogrify

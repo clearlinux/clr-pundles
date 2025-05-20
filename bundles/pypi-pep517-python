@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pep517-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pep517-python3)
+pypi-pep517-python

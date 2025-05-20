@@ -1,0 +1,8 @@
+# [TITLE]: pypi-warlock-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-warlock-python3)
+pypi-warlock-python

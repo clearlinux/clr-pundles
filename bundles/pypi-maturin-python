@@ -1,0 +1,8 @@
+# [TITLE]: pypi-maturin-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-maturin-python3)
+pypi-maturin-python

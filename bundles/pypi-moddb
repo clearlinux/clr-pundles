@@ -1,0 +1,10 @@
+# [TITLE]: pypi-moddb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-moddb-license)
+include(pypi-moddb-python)
+include(pypi-moddb-python3)
+pypi-moddb

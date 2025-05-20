@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libnl-dev
+include(libnl-dev)
 include(libnl)

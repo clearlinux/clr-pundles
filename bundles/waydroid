@@ -10,7 +10,7 @@
 include(dbus-lib)
 include(python3-basic)
 lxc
-pypi-pyclip
+include(pypi-pyclip)
 include(dhcp-server)
 include(libgbinder)
 # end of custom additions

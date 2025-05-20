@@ -1,0 +1,11 @@
+# [TITLE]: pypi-django-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(pypi-asgiref-python3)
+include(pypi-sqlparse-python3)
+include(python3-core)
+pypi-django-python3

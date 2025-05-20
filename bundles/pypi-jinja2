@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jinja2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jinja2-license)
+include(pypi-jinja2-python)
+include(pypi-jinja2-python3)
+pypi-jinja2

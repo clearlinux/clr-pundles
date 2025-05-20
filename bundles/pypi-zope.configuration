@@ -1,0 +1,10 @@
+# [TITLE]: pypi-zope.configuration
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.configuration-license)
+include(pypi-zope.configuration-python)
+include(pypi-zope.configuration-python3)
+pypi-zope.configuration

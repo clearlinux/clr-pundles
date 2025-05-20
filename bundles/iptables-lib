@@ -1,0 +1,11 @@
+# [TITLE]: iptables-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iptables-data)
+include(iptables-license)
+include(libc6)
+include(libnetfilter_conntrack-lib)
+iptables-lib

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-click_completion-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-click_completion-python3)
+pypi-click_completion-python

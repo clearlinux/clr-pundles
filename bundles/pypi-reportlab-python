@@ -1,0 +1,8 @@
+# [TITLE]: pypi-reportlab-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-reportlab-python3)
+pypi-reportlab-python

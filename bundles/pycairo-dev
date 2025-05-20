@@ -1,0 +1,10 @@
+# [TITLE]: pycairo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(pkg-config-bin)
+include(pycairo)
+pycairo-dev

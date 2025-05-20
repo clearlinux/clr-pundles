@@ -1,0 +1,11 @@
+# [TITLE]: pypi-ruamel.yaml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ruamel.yaml-license)
+include(pypi-ruamel.yaml-python)
+include(pypi-ruamel.yaml-python3)
+include(pypi-ruamel.yaml.clib-python3)
+pypi-ruamel.yaml

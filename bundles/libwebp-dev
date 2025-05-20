@@ -1,0 +1,12 @@
+# [TITLE]: libwebp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwebp)
+include(libwebp-bin)
+include(libwebp-dev)
+include(libwebp-lib)
+include(pkg-config-bin)
+libwebp-dev

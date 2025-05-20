@@ -1,0 +1,8 @@
+# [TITLE]: pypi-blinker-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-blinker-python3)
+pypi-blinker-python

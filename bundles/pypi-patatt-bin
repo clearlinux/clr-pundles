@@ -1,0 +1,9 @@
+# [TITLE]: pypi-patatt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-patatt-license)
+include(python3-core)
+pypi-patatt-bin

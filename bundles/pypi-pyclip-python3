@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyclip-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-pyclip-python3

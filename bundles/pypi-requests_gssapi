@@ -1,0 +1,10 @@
+# [TITLE]: pypi-requests_gssapi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests_gssapi-license)
+include(pypi-requests_gssapi-python)
+include(pypi-requests_gssapi-python3)
+pypi-requests_gssapi

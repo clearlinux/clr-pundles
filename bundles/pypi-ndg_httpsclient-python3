@@ -1,0 +1,11 @@
+# [TITLE]: pypi-ndg_httpsclient-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(pypi-pyasn1-python3)
+include(pypi-pyopenssl-python3)
+include(python3-core)
+pypi-ndg_httpsclient-python3

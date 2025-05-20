@@ -1,0 +1,8 @@
+# [TITLE]: pypi-unidecode-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-unidecode-python3)
+pypi-unidecode-python

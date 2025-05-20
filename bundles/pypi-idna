@@ -1,0 +1,10 @@
+# [TITLE]: pypi-idna
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-idna-license)
+include(pypi-idna-python)
+include(pypi-idna-python3)
+pypi-idna

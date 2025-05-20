@@ -1,0 +1,10 @@
+# [TITLE]: pypi-outcome
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-outcome-license)
+include(pypi-outcome-python)
+include(pypi-outcome-python3)
+pypi-outcome

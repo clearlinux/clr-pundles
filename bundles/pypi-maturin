@@ -1,0 +1,12 @@
+# [TITLE]: pypi-maturin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-maturin-bin)
+include(pypi-maturin-license)
+include(pypi-maturin-python)
+include(pypi-maturin-python3)
+include(rustc)
+pypi-maturin

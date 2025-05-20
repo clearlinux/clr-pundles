@@ -1,0 +1,9 @@
+# [TITLE]: pypi-rpmfile-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rpmfile-license)
+include(python3-core)
+pypi-rpmfile-bin

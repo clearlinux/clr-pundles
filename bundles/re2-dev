@@ -1,0 +1,11 @@
+# [TITLE]: re2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-dev)
+include(pkg-config-bin)
+include(re2)
+include(re2-lib)
+re2-dev

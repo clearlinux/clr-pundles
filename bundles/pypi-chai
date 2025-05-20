@@ -1,0 +1,10 @@
+# [TITLE]: pypi-chai
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-chai-license)
+include(pypi-chai-python)
+include(pypi-chai-python3)
+pypi-chai

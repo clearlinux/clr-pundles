@@ -1,0 +1,12 @@
+# [TITLE]: augeas
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(augeas-bin)
+include(augeas-data)
+include(augeas-lib)
+include(augeas-license)
+include(augeas-man)
+augeas

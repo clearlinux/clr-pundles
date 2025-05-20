@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pydispatcher-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pydispatcher-python3)
+pypi-pydispatcher-python

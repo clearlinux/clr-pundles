@@ -1,0 +1,9 @@
+# [TITLE]: pypi-griffe-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-colorama-python3)
+include(python3-core)
+pypi-griffe-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-munkres-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-munkres-python3)
+pypi-munkres-python

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-dep_logic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-dep_logic-license)
+include(pypi-dep_logic-python)
+include(pypi-dep_logic-python3)
+pypi-dep_logic

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-nbval
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nbval-license)
+include(pypi-nbval-python)
+include(pypi-nbval-python3)
+pypi-nbval

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-infi.dtypes.wwn-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-infi.dtypes.wwn-python3)
+pypi-infi.dtypes.wwn-python

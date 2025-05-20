@@ -1,0 +1,13 @@
+# [TITLE]: pypi-linkchecker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-linkchecker-bin)
+include(pypi-linkchecker-data)
+include(pypi-linkchecker-license)
+include(pypi-linkchecker-man)
+include(pypi-linkchecker-python)
+include(pypi-linkchecker-python3)
+pypi-linkchecker

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-lavacli
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lavacli-bin)
+include(pypi-lavacli-license)
+include(pypi-lavacli-python)
+include(pypi-lavacli-python3)
+pypi-lavacli

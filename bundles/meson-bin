@@ -1,0 +1,10 @@
+# [TITLE]: meson-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(meson-data)
+include(meson-license)
+include(python3-core)
+meson-bin

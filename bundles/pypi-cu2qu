@@ -1,0 +1,11 @@
+# [TITLE]: pypi-cu2qu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cu2qu-bin)
+include(pypi-cu2qu-license)
+include(pypi-cu2qu-python)
+include(pypi-cu2qu-python3)
+pypi-cu2qu

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-purity_fb-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-purity_fb-python3)
+pypi-purity_fb-python

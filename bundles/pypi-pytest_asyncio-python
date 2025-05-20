@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pytest_asyncio-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pytest_asyncio-python3)
+pypi-pytest_asyncio-python

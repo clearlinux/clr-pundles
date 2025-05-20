@@ -1,0 +1,20 @@
+# [TITLE]: pypi-ipykernel-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-comm-python3)
+include(pypi-debugpy-python3)
+include(pypi-ipython-python3)
+include(pypi-jupyter_client-python3)
+include(pypi-jupyter_core-python3)
+include(pypi-matplotlib_inline-python3)
+include(pypi-nest_asyncio-python3)
+include(pypi-packaging-python3)
+include(pypi-psutil-python3)
+include(pypi-pyzmq-python3)
+include(pypi-tornado-python3)
+include(pypi-traitlets-python3)
+include(python3-core)
+pypi-ipykernel-python3

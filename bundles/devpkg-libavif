@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libavif-dev
+include(libavif-dev)
 include(lib-imageformat)

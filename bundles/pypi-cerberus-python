@@ -1,0 +1,8 @@
+# [TITLE]: pypi-cerberus-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cerberus-python3)
+pypi-cerberus-python

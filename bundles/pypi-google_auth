@@ -1,0 +1,10 @@
+# [TITLE]: pypi-google_auth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_auth-license)
+include(pypi-google_auth-python)
+include(pypi-google_auth-python3)
+pypi-google_auth

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-netifaces
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-netifaces-license)
+include(pypi-netifaces-python)
+include(pypi-netifaces-python3)
+pypi-netifaces

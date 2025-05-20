@@ -1,0 +1,10 @@
+# [TITLE]: pypi-inflect
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-inflect-license)
+include(pypi-inflect-python)
+include(pypi-inflect-python3)
+pypi-inflect

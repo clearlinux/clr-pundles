@@ -1,0 +1,8 @@
+# [TITLE]: pypi-versioneer-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-versioneer-python3)
+pypi-versioneer-python

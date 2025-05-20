@@ -1,0 +1,9 @@
+# [TITLE]: pypi-patatt-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pynacl-python3)
+include(python3-core)
+pypi-patatt-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-truststore-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-truststore-python3)
+pypi-truststore-python

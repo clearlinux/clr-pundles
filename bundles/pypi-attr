@@ -1,0 +1,10 @@
+# [TITLE]: pypi-attr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-attr-license)
+include(pypi-attr-python)
+include(pypi-attr-python3)
+pypi-attr

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-parsley
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-parsley-license)
+include(pypi-parsley-python)
+include(pypi-parsley-python3)
+pypi-parsley

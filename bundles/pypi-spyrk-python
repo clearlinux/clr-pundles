@@ -1,0 +1,8 @@
+# [TITLE]: pypi-spyrk-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-spyrk-python3)
+pypi-spyrk-python

@@ -1,0 +1,12 @@
+# [TITLE]: pypi-nbconvert
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-nbconvert-bin)
+include(pypi-nbconvert-data)
+include(pypi-nbconvert-license)
+include(pypi-nbconvert-python)
+include(pypi-nbconvert-python3)
+pypi-nbconvert

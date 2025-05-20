@@ -1,0 +1,10 @@
+# [TITLE]: pypi-cheetah3-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-legacy_cgi-python3)
+include(python3-core)
+pypi-cheetah3-python3

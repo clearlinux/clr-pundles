@@ -1,0 +1,11 @@
+# [TITLE]: qrencode-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpng-lib)
+include(qrencode-lib)
+include(qrencode-license)
+qrencode-bin

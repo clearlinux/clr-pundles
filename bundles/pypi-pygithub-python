@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pygithub-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pygithub-python3)
+pypi-pygithub-python

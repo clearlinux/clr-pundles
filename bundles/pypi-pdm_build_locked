@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pdm_build_locked
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pdm_build_locked-license)
+include(pypi-pdm_build_locked-python)
+include(pypi-pdm_build_locked-python3)
+pypi-pdm_build_locked

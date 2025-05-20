@@ -1,0 +1,8 @@
+# [TITLE]: pypi-prettytable-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-prettytable-python3)
+pypi-prettytable-python

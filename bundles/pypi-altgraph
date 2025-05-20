@@ -1,0 +1,10 @@
+# [TITLE]: pypi-altgraph
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-altgraph-license)
+include(pypi-altgraph-python)
+include(pypi-altgraph-python3)
+pypi-altgraph

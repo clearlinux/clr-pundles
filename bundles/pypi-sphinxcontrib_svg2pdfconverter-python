@@ -1,0 +1,8 @@
+# [TITLE]: pypi-sphinxcontrib_svg2pdfconverter-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_svg2pdfconverter-python3)
+pypi-sphinxcontrib_svg2pdfconverter-python

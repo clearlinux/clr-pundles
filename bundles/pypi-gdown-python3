@@ -1,0 +1,12 @@
+# [TITLE]: pypi-gdown-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beautifulsoup4-python3)
+include(pypi-filelock-python3)
+include(pypi-requests-python3)
+include(pypi-tqdm-python3)
+include(python3-core)
+pypi-gdown-python3

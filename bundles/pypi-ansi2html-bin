@@ -1,0 +1,9 @@
+# [TITLE]: pypi-ansi2html-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ansi2html-license)
+include(python3-core)
+pypi-ansi2html-bin

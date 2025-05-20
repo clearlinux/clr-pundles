@@ -1,0 +1,11 @@
+# [TITLE]: pypi-qtawesome
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-qtawesome-bin)
+include(pypi-qtawesome-license)
+include(pypi-qtawesome-python)
+include(pypi-qtawesome-python3)
+pypi-qtawesome

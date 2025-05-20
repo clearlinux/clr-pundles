@@ -1,0 +1,9 @@
+# [TITLE]: tiff-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(tiff-lib)
+tiff-bin

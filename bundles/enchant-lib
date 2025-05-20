@@ -1,0 +1,15 @@
+# [TITLE]: enchant-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell-lib)
+include(enchant-data)
+include(enchant-license)
+include(glib-lib)
+include(hunspell-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+enchant-lib

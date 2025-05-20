@@ -1,0 +1,10 @@
+# [TITLE]: pypi-vine
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-vine-license)
+include(pypi-vine-python)
+include(pypi-vine-python3)
+pypi-vine

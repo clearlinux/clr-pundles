@@ -1,0 +1,10 @@
+# [TITLE]: pypi-readme_renderer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-readme_renderer-license)
+include(pypi-readme_renderer-python)
+include(pypi-readme_renderer-python3)
+pypi-readme_renderer

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-tempora-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-tempora-python3)
+pypi-tempora-python

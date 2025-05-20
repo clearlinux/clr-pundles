@@ -1,0 +1,11 @@
+# [TITLE]: pypi-rdflib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rdflib-bin)
+include(pypi-rdflib-license)
+include(pypi-rdflib-python)
+include(pypi-rdflib-python3)
+pypi-rdflib

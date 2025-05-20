@@ -1,0 +1,14 @@
+# [TITLE]: pypi-pylint-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mccabe-python3)
+include(pypi-astroid-python3)
+include(pypi-dill-python3)
+include(pypi-isort-python3)
+include(pypi-platformdirs-python3)
+include(pypi-tomlkit-python3)
+include(python3-core)
+pypi-pylint-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-patsy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-patsy-python3)
+pypi-patsy-python

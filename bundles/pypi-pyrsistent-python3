@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyrsistent-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-pyrsistent-python3

@@ -1,0 +1,12 @@
+# [TITLE]: libvorbis-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libogg-dev)
+include(libvorbis)
+include(libvorbis-dev)
+include(libvorbis-lib)
+include(pkg-config-bin)
+libvorbis-dev

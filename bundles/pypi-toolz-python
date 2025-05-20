@@ -1,0 +1,8 @@
+# [TITLE]: pypi-toolz-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-toolz-python3)
+pypi-toolz-python

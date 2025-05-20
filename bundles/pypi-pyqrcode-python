@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyqrcode-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyqrcode-python3)
+pypi-pyqrcode-python

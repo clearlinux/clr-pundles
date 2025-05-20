@@ -1,0 +1,9 @@
+# [TITLE]: pypi-cloudevents-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-deprecation-python3)
+include(python3-core)
+pypi-cloudevents-python3

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pockets-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pockets-python3)
+pypi-pockets-python

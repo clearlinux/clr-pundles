@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pyasn1_modules
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyasn1_modules-license)
+include(pypi-pyasn1_modules-python)
+include(pypi-pyasn1_modules-python3)
+pypi-pyasn1_modules

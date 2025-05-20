@@ -1,0 +1,9 @@
+# [TITLE]: pypi-rsa-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyasn1-python3)
+include(python3-core)
+pypi-rsa-python3

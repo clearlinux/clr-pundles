@@ -1,0 +1,13 @@
+# [TITLE]: geos-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(geos-lib)
+include(geos-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+geos-bin

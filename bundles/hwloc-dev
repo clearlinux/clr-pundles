@@ -1,0 +1,14 @@
+# [TITLE]: hwloc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hwloc)
+include(hwloc-bin)
+include(hwloc-data)
+include(hwloc-lib)
+include(libpciaccess-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+hwloc-dev

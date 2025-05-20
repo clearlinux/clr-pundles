@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ttp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ttp-python3)
+pypi-ttp-python

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-greenlet-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-greenlet-python3)
+pypi-greenlet-python

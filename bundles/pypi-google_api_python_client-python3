@@ -1,0 +1,13 @@
+# [TITLE]: pypi-google_api_python_client-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-google_api_core-python3)
+include(pypi-google_auth-python3)
+include(pypi-google_auth_httplib2-python3)
+include(pypi-httplib2-python3)
+include(pypi-uritemplate-python3)
+include(python3-core)
+pypi-google_api_python_client-python3

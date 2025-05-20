@@ -1,0 +1,8 @@
+# [TITLE]: pypi-graphviz-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-graphviz-python3)
+pypi-graphviz-python

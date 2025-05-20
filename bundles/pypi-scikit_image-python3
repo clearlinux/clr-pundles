@@ -1,0 +1,19 @@
+# [TITLE]: pypi-scikit_image-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pypi-imageio-python3)
+include(pypi-lazy_loader-python3)
+include(pypi-networkx-python3)
+include(pypi-numpy-python3)
+include(pypi-packaging-python3)
+include(pypi-pillow-python3)
+include(pypi-tifffile-python3)
+include(python3-core)
+include(scipy-python3)
+pypi-scikit_image-python3

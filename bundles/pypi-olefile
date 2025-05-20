@@ -1,0 +1,10 @@
+# [TITLE]: pypi-olefile
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-olefile-license)
+include(pypi-olefile-python)
+include(pypi-olefile-python3)
+pypi-olefile

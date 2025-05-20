@@ -1,0 +1,8 @@
+# [TITLE]: pypi-marisa_trie-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-marisa_trie-python3)
+pypi-marisa_trie-python

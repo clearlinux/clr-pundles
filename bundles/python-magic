@@ -1,0 +1,10 @@
+# [TITLE]: python-magic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-magic-license)
+include(python-magic-python)
+include(python-magic-python3)
+python-magic

@@ -17,4 +17,4 @@ include(dav1d-lib)
 # end of custom additions
 
 # main package
-pypi-xpra
+include(pypi-xpra)

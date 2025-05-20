@@ -1,0 +1,8 @@
+# [TITLE]: pandas-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pandas-python3)
+pandas-python

@@ -1,0 +1,11 @@
+# [TITLE]: pypi-mkdocs_get_deps
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocs_get_deps-bin)
+include(pypi-mkdocs_get_deps-license)
+include(pypi-mkdocs_get_deps-python)
+include(pypi-mkdocs_get_deps-python3)
+pypi-mkdocs_get_deps

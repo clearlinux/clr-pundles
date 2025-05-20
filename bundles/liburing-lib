@@ -1,0 +1,8 @@
+# [TITLE]: liburing-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liburing-license)
+liburing-lib

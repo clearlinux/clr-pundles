@@ -1,0 +1,10 @@
+# [TITLE]: pypi-ipywidgets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ipywidgets-license)
+include(pypi-ipywidgets-python)
+include(pypi-ipywidgets-python3)
+pypi-ipywidgets

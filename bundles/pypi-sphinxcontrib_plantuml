@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinxcontrib_plantuml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinxcontrib_plantuml-license)
+include(pypi-sphinxcontrib_plantuml-python)
+include(pypi-sphinxcontrib_plantuml-python3)
+pypi-sphinxcontrib_plantuml

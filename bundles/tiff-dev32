@@ -1,0 +1,11 @@
+# [TITLE]: tiff-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(tiff-bin)
+include(tiff-dev)
+include(tiff-lib32)
+tiff-dev32

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xvfbwrapper-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xvfbwrapper-python3)
+pypi-xvfbwrapper-python

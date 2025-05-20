@@ -1,0 +1,8 @@
+# [TITLE]: pypi-jarn.viewdoc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+pypi-jarn.viewdoc-bin

@@ -1,0 +1,10 @@
+# [TITLE]: pypi-flake8_docstrings-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-flake8-python3)
+include(pypi-pydocstyle-python3)
+include(python3-core)
+pypi-flake8_docstrings-python3

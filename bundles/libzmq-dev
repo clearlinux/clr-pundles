@@ -1,0 +1,11 @@
+# [TITLE]: libzmq-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libunwind-dev)
+include(libzmq)
+include(libzmq-lib)
+include(pkg-config-bin)
+libzmq-dev

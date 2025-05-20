@@ -1,0 +1,12 @@
+# [TITLE]: pypi-mkdocs_htmlproofer_plugin-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-beautifulsoup4-python3)
+include(pypi-markdown-python3)
+include(pypi-mkdocs-python3)
+include(pypi-requests-python3)
+include(python3-core)
+pypi-mkdocs_htmlproofer_plugin-python3

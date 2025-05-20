@@ -1,0 +1,10 @@
+# [TITLE]: pypi-requirements_parser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requirements_parser-license)
+include(pypi-requirements_parser-python)
+include(pypi-requirements_parser-python3)
+pypi-requirements_parser

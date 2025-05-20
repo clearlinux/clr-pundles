@@ -1,0 +1,11 @@
+# [TITLE]: libnice
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnice-bin)
+include(libnice-data)
+include(libnice-lib)
+include(libnice-license)
+libnice

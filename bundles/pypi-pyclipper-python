@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyclipper-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyclipper-python3)
+pypi-pyclipper-python

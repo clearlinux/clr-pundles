@@ -1,0 +1,8 @@
+# [TITLE]: pypi-plaster_pastedeploy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-plaster_pastedeploy-python3)
+pypi-plaster_pastedeploy-python

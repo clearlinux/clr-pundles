@@ -1,0 +1,10 @@
+# [TITLE]: pypi-sphinx_argparse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx_argparse-license)
+include(pypi-sphinx_argparse-python)
+include(pypi-sphinx_argparse-python3)
+pypi-sphinx_argparse

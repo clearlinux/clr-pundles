@@ -1,0 +1,8 @@
+# [TITLE]: pypi-icecream-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-icecream-python3)
+pypi-icecream-python

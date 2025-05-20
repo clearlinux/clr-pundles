@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ordered_set-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ordered_set-python3)
+pypi-ordered_set-python

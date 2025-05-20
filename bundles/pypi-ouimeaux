@@ -1,0 +1,12 @@
+# [TITLE]: pypi-ouimeaux
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-future-python3)
+include(pypi-ouimeaux-bin)
+include(pypi-ouimeaux-license)
+include(pypi-ouimeaux-python)
+include(pypi-ouimeaux-python3)
+pypi-ouimeaux

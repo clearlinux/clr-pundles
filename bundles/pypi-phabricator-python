@@ -1,0 +1,8 @@
+# [TITLE]: pypi-phabricator-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-phabricator-python3)
+pypi-phabricator-python

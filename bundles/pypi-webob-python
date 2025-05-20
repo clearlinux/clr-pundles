@@ -1,0 +1,8 @@
+# [TITLE]: pypi-webob-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-webob-python3)
+pypi-webob-python

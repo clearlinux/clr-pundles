@@ -1,0 +1,10 @@
+# [TITLE]: pypi-pep517
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pep517-license)
+include(pypi-pep517-python)
+include(pypi-pep517-python3)
+pypi-pep517

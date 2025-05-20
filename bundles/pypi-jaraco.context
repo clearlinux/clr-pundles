@@ -1,0 +1,10 @@
+# [TITLE]: pypi-jaraco.context
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jaraco.context-license)
+include(pypi-jaraco.context-python)
+include(pypi-jaraco.context-python3)
+pypi-jaraco.context

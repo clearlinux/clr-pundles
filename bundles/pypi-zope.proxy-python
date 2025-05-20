@@ -1,0 +1,8 @@
+# [TITLE]: pypi-zope.proxy-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-zope.proxy-python3)
+pypi-zope.proxy-python

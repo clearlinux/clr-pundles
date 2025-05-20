@@ -1,0 +1,10 @@
+# [TITLE]: pypi-uharfbuzz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-uharfbuzz-license)
+include(pypi-uharfbuzz-python)
+include(pypi-uharfbuzz-python3)
+pypi-uharfbuzz

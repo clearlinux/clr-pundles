@@ -1,0 +1,8 @@
+# [TITLE]: pypi-parsley-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-parsley-python3)
+pypi-parsley-python

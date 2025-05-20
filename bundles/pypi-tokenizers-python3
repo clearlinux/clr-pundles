@@ -1,0 +1,12 @@
+# [TITLE]: pypi-tokenizers-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pypi-huggingface_hub-python3)
+include(python3-core)
+pypi-tokenizers-python3

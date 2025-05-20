@@ -1,0 +1,10 @@
+# [TITLE]: pypi-crypt_r-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libxcrypt-lib)
+include(python3-core)
+pypi-crypt_r-python3

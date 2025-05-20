@@ -1,0 +1,11 @@
+# [TITLE]: pypi-ttp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ttp-bin)
+include(pypi-ttp-license)
+include(pypi-ttp-python)
+include(pypi-ttp-python3)
+pypi-ttp

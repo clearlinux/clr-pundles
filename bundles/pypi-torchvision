@@ -1,0 +1,10 @@
+# [TITLE]: pypi-torchvision
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-torchvision-license)
+include(pypi-torchvision-python)
+include(pypi-torchvision-python3)
+pypi-torchvision

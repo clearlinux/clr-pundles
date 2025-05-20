@@ -1,0 +1,12 @@
+# [TITLE]: pypi-blockdiag-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-funcparserlib-python3)
+include(pypi-pillow-python3)
+include(pypi-setuptools-python3)
+include(pypi-webcolors-python3)
+include(python3-core)
+pypi-blockdiag-python3

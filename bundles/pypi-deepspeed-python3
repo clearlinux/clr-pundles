@@ -1,0 +1,19 @@
+# [TITLE]: pypi-deepspeed-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ninja-python3)
+include(pypi-einops-python3)
+include(pypi-hjson-python3)
+include(pypi-msgpack-python3)
+include(pypi-numpy-python3)
+include(pypi-packaging-python3)
+include(pypi-psutil-python3)
+include(pypi-py_cpuinfo-python3)
+include(pypi-pydantic-python3)
+include(pypi-tqdm-python3)
+include(python3-core)
+include(pytorch-python3)
+pypi-deepspeed-python3

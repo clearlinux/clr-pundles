@@ -1,0 +1,8 @@
+# [TITLE]: pypi-datetime-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-datetime-python3)
+pypi-datetime-python

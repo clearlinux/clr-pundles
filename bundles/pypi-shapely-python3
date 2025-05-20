@@ -1,0 +1,11 @@
+# [TITLE]: pypi-shapely-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geos-lib)
+include(libc6)
+include(pypi-numpy-python3)
+include(python3-core)
+pypi-shapely-python3

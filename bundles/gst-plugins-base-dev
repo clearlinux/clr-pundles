@@ -1,0 +1,23 @@
+# [TITLE]: gst-plugins-base-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gst-plugins-base)
+include(gst-plugins-base-bin)
+include(gst-plugins-base-data)
+include(gst-plugins-base-dev)
+include(gst-plugins-base-lib)
+include(gstreamer-dev)
+include(libX11-dev)
+include(libdrm-dev)
+include(libglvnd-dev)
+include(libgudev-dev)
+include(mesa-dev)
+include(orc-dev)
+include(pkg-config-bin)
+include(wayland-dev)
+include(zlib-dev)
+gst-plugins-base-dev

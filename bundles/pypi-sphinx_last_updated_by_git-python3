@@ -1,0 +1,9 @@
+# [TITLE]: pypi-sphinx_last_updated_by_git-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx-python3)
+include(python3-core)
+pypi-sphinx_last_updated_by_git-python3

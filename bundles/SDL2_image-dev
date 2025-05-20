@@ -1,0 +1,11 @@
+# [TITLE]: SDL2_image-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-dev)
+include(SDL2_image)
+include(SDL2_image-lib)
+include(pkg-config-bin)
+SDL2_image-dev

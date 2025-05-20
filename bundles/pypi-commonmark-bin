@@ -1,0 +1,9 @@
+# [TITLE]: pypi-commonmark-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-commonmark-license)
+include(python3-core)
+pypi-commonmark-bin

@@ -1,0 +1,9 @@
+# [TITLE]: pypi-voluptuous_serialize-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-voluptuous-python3)
+include(python3-core)
+pypi-voluptuous_serialize-python3

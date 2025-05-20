@@ -1,0 +1,8 @@
+# [TITLE]: pypi-widgetsnbextension-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-widgetsnbextension-python3)
+pypi-widgetsnbextension-python

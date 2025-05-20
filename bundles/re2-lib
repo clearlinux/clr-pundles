@@ -1,0 +1,12 @@
+# [TITLE]: re2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(re2-license)
+re2-lib

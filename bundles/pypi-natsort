@@ -1,0 +1,11 @@
+# [TITLE]: pypi-natsort
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-natsort-bin)
+include(pypi-natsort-license)
+include(pypi-natsort-python)
+include(pypi-natsort-python3)
+pypi-natsort

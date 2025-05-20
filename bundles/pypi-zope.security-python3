@@ -1,0 +1,16 @@
+# [TITLE]: pypi-zope.security-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pypi-setuptools-python3)
+include(pypi-zope.component-python3)
+include(pypi-zope.i18nmessageid-python3)
+include(pypi-zope.interface-python3)
+include(pypi-zope.location-python3)
+include(pypi-zope.proxy-python3)
+include(pypi-zope.schema-python3)
+include(python3-core)
+pypi-zope.security-python3

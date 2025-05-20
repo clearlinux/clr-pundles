@@ -1,0 +1,9 @@
+# [TITLE]: libtheora
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtheora-lib)
+include(libtheora-license)
+libtheora

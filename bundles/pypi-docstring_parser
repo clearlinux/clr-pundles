@@ -1,0 +1,10 @@
+# [TITLE]: pypi-docstring_parser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-docstring_parser-license)
+include(pypi-docstring_parser-python)
+include(pypi-docstring_parser-python3)
+pypi-docstring_parser

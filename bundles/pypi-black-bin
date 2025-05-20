@@ -1,0 +1,9 @@
+# [TITLE]: pypi-black-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-black-license)
+include(python3-core)
+pypi-black-bin

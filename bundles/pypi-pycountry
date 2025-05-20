@@ -1,0 +1,9 @@
+# [TITLE]: pypi-pycountry
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycountry-python)
+include(pypi-pycountry-python3)
+pypi-pycountry

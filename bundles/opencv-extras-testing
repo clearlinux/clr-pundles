@@ -1,0 +1,11 @@
+# [TITLE]: opencv-extras-testing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(opencv-lib)
+opencv-extras-testing

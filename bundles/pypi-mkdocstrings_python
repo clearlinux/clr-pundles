@@ -1,0 +1,10 @@
+# [TITLE]: pypi-mkdocstrings_python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-mkdocstrings_python-license)
+include(pypi-mkdocstrings_python-python)
+include(pypi-mkdocstrings_python-python3)
+pypi-mkdocstrings_python

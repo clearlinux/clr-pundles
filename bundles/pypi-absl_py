@@ -1,0 +1,10 @@
+# [TITLE]: pypi-absl_py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-absl_py-license)
+include(pypi-absl_py-python)
+include(pypi-absl_py-python3)
+pypi-absl_py

@@ -1,0 +1,8 @@
+# [TITLE]: pypi-huggingface_hub-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-huggingface_hub-python3)
+pypi-huggingface_hub-python

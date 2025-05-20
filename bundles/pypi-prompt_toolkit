@@ -1,0 +1,11 @@
+# [TITLE]: pypi-prompt_toolkit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-prompt_toolkit-license)
+include(pypi-prompt_toolkit-python)
+include(pypi-prompt_toolkit-python3)
+include(pypi-pygments-python3)
+pypi-prompt_toolkit

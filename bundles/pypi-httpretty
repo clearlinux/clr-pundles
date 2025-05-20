@@ -1,0 +1,10 @@
+# [TITLE]: pypi-httpretty
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-httpretty-license)
+include(pypi-httpretty-python)
+include(pypi-httpretty-python3)
+pypi-httpretty
