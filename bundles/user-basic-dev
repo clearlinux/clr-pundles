@@ -23,7 +23,7 @@ include(LVM2-extras)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
 OpenSP
-PyYAML
+include(PyYAML)
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)

@@ -16,7 +16,7 @@ include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
-PyYAML
+include(PyYAML)
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)

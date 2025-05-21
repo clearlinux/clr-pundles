@@ -14,7 +14,7 @@ include(devpkg-LVM2)
 include(LVM2-extras)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
-PyYAML
+include(PyYAML)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 include(devpkg-SPIRV-Headers)

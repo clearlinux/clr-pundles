@@ -17,7 +17,7 @@ potrace
 include(pycairo)
 include(pygobject)
 include(pypi-pyopengl)
-PyYAML
+include(PyYAML)
 include(pypi-svg.path)
 include(tcl)
 tk

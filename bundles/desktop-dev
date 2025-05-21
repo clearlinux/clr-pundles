@@ -18,7 +18,7 @@ include(devpkg-LuaJIT)
 include(MarkupSafe-python3)
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
-PyYAML
+include(PyYAML)
 include(PyYAML-python3)
 include(devpkg-SDL)
 include(devpkg-SDL2)

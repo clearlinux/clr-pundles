@@ -12,7 +12,7 @@ include(devpkg-Imath)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
-PyYAML
+include(PyYAML)
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)

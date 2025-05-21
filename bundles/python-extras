@@ -18,7 +18,7 @@ include(graphviz)
 include(glibc-bin)
 
 #
-PyYAML
+include(PyYAML)
 include(pypi-black)
 include(pypi-build)
 include(pypi-certifi)

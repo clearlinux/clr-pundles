@@ -33,7 +33,7 @@ include(MarkupSafe-python3)
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 OpenSP
-PyYAML
+include(PyYAML)
 include(PyYAML-python3)
 R
 include(devpkg-SDL)

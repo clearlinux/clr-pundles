@@ -73,7 +73,7 @@ include(pypi-pyparsing)
 include(pypi-future)
 include(pypi-levenshtein)
 include(pypi-mock)
-PyYAML
+include(PyYAML)
 include(pypi-scikit_image)
 include(scipy-python)
 pypi-six
