@@ -5,5 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(libc6)
+include(libgcc1)
+include(libstdc++)
 include(python3-core)
 pypi-ndindex-python3
