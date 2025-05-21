@@ -5,6 +5,5 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(pypi-packaging-python3)
-include(pypi-types_setuptools-python3)
 include(python3-core)
 pypi-requirements_parser-python3
