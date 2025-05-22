@@ -1,0 +1,8 @@
+# [TITLE]: perl-Object-Accessor-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Object-Accessor)
+perl-Object-Accessor-dev

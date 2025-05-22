@@ -1,0 +1,9 @@
+# [TITLE]: libfontenc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfontenc-lib)
+include(libfontenc-license)
+libfontenc

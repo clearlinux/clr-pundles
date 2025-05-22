@@ -1,0 +1,9 @@
+# [TITLE]: perl-Importer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Importer-license)
+include(perl-Importer-perl)
+perl-Importer

@@ -1,0 +1,8 @@
+# [TITLE]: perl-URI-Find-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-URI-Find)
+perl-URI-Find-perl

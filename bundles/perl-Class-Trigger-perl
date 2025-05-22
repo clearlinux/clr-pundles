@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Trigger-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Trigger)
+perl-Class-Trigger-perl

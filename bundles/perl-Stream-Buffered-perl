@@ -1,0 +1,8 @@
+# [TITLE]: perl-Stream-Buffered-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Stream-Buffered)
+perl-Stream-Buffered-perl

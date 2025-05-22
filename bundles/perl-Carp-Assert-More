@@ -1,0 +1,9 @@
+# [TITLE]: perl-Carp-Assert-More
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Carp-Assert-More-license)
+include(perl-Carp-Assert-More-perl)
+perl-Carp-Assert-More

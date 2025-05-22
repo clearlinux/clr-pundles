@@ -1,0 +1,8 @@
+# [TITLE]: perl-URI-Escape-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-URI-Escape-XS-perl)
+perl-URI-Escape-XS

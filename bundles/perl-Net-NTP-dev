@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-NTP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-NTP)
+perl-Net-NTP-dev

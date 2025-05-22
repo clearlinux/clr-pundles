@@ -1,0 +1,8 @@
+# [TITLE]: perl-List-MoreUtils-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-List-MoreUtils)
+perl-List-MoreUtils-perl

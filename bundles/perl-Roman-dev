@@ -1,0 +1,8 @@
+# [TITLE]: perl-Roman-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Roman)
+perl-Roman-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Math-Random-ISAAC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Random-ISAAC-license)
+include(perl-Math-Random-ISAAC-perl)
+perl-Math-Random-ISAAC

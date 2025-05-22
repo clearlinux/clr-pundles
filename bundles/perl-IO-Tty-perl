@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Tty-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-IO-Tty)
+perl-IO-Tty-perl

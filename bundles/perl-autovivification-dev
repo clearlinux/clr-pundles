@@ -1,0 +1,8 @@
+# [TITLE]: perl-autovivification-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-autovivification)
+perl-autovivification-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mail-Sendmail-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mail-Sendmail)
+perl-Mail-Sendmail-dev

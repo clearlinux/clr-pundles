@@ -1,0 +1,12 @@
+# [TITLE]: perl-CGI-Emulate-PSGI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CGI-Emulate-PSGI-license)
+include(perl-CGI-Emulate-PSGI-perl)
+include(perl-CGI-perl)
+include(perl-HTTP-Message-perl)
+include(perl-URI-perl)
+perl-CGI-Emulate-PSGI

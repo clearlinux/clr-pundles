@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Touch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Touch-license)
+include(perl-File-Touch-perl)
+perl-File-Touch

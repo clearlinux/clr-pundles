@@ -1,0 +1,8 @@
+# [TITLE]: perl-Number-Compare-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Number-Compare)
+perl-Number-Compare-dev

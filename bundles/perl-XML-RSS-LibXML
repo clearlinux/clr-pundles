@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-RSS-LibXML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-RSS-LibXML-license)
+include(perl-XML-RSS-LibXML-perl)
+perl-XML-RSS-LibXML

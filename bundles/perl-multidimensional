@@ -1,0 +1,9 @@
+# [TITLE]: perl-multidimensional
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-multidimensional-license)
+include(perl-multidimensional-perl)
+perl-multidimensional

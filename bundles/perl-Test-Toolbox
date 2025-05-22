@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Toolbox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Toolbox-license)
+include(perl-Test-Toolbox-perl)
+perl-Test-Toolbox

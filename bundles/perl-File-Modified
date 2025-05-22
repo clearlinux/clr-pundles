@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Modified
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Modified-license)
+include(perl-File-Modified-perl)
+perl-File-Modified

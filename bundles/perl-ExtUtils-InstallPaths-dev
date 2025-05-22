@@ -1,0 +1,8 @@
+# [TITLE]: perl-ExtUtils-InstallPaths-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-ExtUtils-InstallPaths)
+perl-ExtUtils-InstallPaths-dev

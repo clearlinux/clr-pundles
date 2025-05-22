@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Trap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Trap-perl)
+perl-Test-Trap

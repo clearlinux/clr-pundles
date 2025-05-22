@@ -1,0 +1,10 @@
+# [TITLE]: perl-Pod-Plainer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Parser-perl)
+include(perl-Pod-Plainer-license)
+include(perl-Pod-Plainer-perl)
+perl-Pod-Plainer

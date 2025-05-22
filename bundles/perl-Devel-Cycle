@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-Cycle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Cycle-license)
+include(perl-Devel-Cycle-perl)
+perl-Devel-Cycle

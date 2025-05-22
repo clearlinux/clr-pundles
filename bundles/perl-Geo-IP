@@ -1,0 +1,9 @@
+# [TITLE]: perl-Geo-IP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Geo-IP-license)
+include(perl-Geo-IP-perl)
+perl-Geo-IP

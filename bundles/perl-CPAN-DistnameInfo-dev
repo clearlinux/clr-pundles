@@ -1,0 +1,8 @@
+# [TITLE]: perl-CPAN-DistnameInfo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CPAN-DistnameInfo)
+perl-CPAN-DistnameInfo-dev

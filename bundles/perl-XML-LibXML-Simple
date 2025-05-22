@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-LibXML-Simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-LibXML-Simple-license)
+include(perl-XML-LibXML-Simple-perl)
+perl-XML-LibXML-Simple

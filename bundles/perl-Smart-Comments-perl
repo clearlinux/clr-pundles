@@ -1,0 +1,8 @@
+# [TITLE]: perl-Smart-Comments-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Smart-Comments)
+perl-Smart-Comments-perl

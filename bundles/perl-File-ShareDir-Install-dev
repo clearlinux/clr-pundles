@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-ShareDir-Install-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-ShareDir-Install)
+perl-File-ShareDir-Install-dev

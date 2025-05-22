@@ -1,0 +1,10 @@
+# [TITLE]: perl-Template-Toolkit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Template-Toolkit-bin)
+include(perl-Template-Toolkit-man)
+include(perl-Template-Toolkit-perl)
+perl-Template-Toolkit

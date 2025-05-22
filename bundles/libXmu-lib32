@@ -1,0 +1,11 @@
+# [TITLE]: libXmu-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libX11-lib32)
+include(libXmu-license)
+include(libXt-lib32)
+libXmu-lib32

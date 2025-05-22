@@ -1,0 +1,8 @@
+# [TITLE]: perl-Type-Tiny-XS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Type-Tiny-XS)
+perl-Type-Tiny-XS-dev

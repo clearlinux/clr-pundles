@@ -1,0 +1,12 @@
+# [TITLE]: perl-Log-Dispatch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Dispatch-license)
+include(perl-Log-Dispatch-perl)
+include(perl-MIME-Lite-perl)
+include(perl-Mail-Sender-perl)
+include(perl-Mail-Sendmail-perl)
+perl-Log-Dispatch

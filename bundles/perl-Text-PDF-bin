@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-PDF-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-PDF-license)
+include(perl-bin)
+perl-Text-PDF-bin

@@ -1,0 +1,9 @@
+# [TITLE]: perl-I18N-Charset
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-I18N-Charset-license)
+include(perl-I18N-Charset-perl)
+perl-I18N-Charset

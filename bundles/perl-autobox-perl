@@ -1,0 +1,9 @@
+# [TITLE]: perl-autobox-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-autobox)
+perl-autobox-perl

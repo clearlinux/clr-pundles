@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-Remove-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Remove)
+perl-File-Remove-dev

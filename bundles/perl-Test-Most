@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Most
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Most-perl)
+perl-Test-Most

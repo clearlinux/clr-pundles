@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-FcntlLock-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-File-FcntlLock)
+perl-File-FcntlLock-perl

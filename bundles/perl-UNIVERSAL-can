@@ -1,0 +1,9 @@
+# [TITLE]: perl-UNIVERSAL-can
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-UNIVERSAL-can-license)
+include(perl-UNIVERSAL-can-perl)
+perl-UNIVERSAL-can

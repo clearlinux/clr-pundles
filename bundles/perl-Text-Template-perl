@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Template-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Template)
+perl-Text-Template-perl

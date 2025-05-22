@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-StackTrace-AsHTML-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-StackTrace-AsHTML)
+perl-Devel-StackTrace-AsHTML-dev

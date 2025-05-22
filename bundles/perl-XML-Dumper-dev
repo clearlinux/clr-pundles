@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-Dumper-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Dumper)
+perl-XML-Dumper-dev

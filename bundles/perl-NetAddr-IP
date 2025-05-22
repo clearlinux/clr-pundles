@@ -1,0 +1,9 @@
+# [TITLE]: perl-NetAddr-IP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-NetAddr-IP-license)
+include(perl-NetAddr-IP-perl)
+perl-NetAddr-IP

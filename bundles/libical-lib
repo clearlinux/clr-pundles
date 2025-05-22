@@ -1,0 +1,15 @@
+# [TITLE]: libical-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libical-data)
+include(libical-libexec)
+include(libical-license)
+include(libstdc++)
+libical-lib

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Fennec-Lite-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Fennec-Lite)
+perl-Fennec-Lite-dev

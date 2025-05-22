@@ -1,0 +1,12 @@
+# [TITLE]: libXpm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXpm-lib)
+include(libXpm-license)
+include(libXt-lib)
+include(libc6)
+libXpm-bin

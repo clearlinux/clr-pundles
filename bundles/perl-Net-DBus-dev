@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-DBus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-DBus)
+perl-Net-DBus-dev

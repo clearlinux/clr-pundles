@@ -1,0 +1,13 @@
+# [TITLE]: perl-XML-Feed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-Builder-perl)
+include(perl-DateTime-Format-Flexible-perl)
+include(perl-DateTime-Format-ISO8601-perl)
+include(perl-DateTime-Format-Natural-perl)
+include(perl-XML-Feed-perl)
+include(perl-XML-RSS-LibXML-perl)
+perl-XML-Feed

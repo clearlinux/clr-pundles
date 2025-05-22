@@ -1,0 +1,8 @@
+# [TITLE]: perl-Module-Starter-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Starter)
+perl-Module-Starter-perl

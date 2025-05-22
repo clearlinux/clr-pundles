@@ -1,0 +1,8 @@
+# [TITLE]: perl-DateTime-Format-DateParse-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-DateParse)
+perl-DateTime-Format-DateParse-perl

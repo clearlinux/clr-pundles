@@ -1,0 +1,8 @@
+# [TITLE]: perl-CDDB-File-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CDDB-File)
+perl-CDDB-File-dev

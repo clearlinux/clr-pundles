@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-String
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-String-license)
+include(perl-IO-String-perl)
+perl-IO-String

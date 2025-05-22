@@ -1,0 +1,9 @@
+# [TITLE]: perl-Geo-IPfree
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Geo-IPfree-license)
+include(perl-Geo-IPfree-perl)
+perl-Geo-IPfree

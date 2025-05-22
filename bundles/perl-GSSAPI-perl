@@ -1,0 +1,10 @@
+# [TITLE]: perl-GSSAPI-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krb5-lib)
+include(libc6)
+include(perl-GSSAPI)
+perl-GSSAPI-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Digest-SHA3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Digest-SHA3)
+include(perl-Digest-SHA3-bin)
+perl-Digest-SHA3-dev

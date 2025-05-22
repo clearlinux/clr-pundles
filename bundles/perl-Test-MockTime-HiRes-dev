@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-MockTime-HiRes-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-MockTime-HiRes)
+perl-Test-MockTime-HiRes-dev

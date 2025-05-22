@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-UPnP-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-UPnP)
+perl-Net-UPnP-perl

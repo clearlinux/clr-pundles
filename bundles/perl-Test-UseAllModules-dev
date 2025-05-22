@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-UseAllModules-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-UseAllModules)
+perl-Test-UseAllModules-dev

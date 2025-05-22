@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTTP-Request-AsCGI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Request-AsCGI-license)
+include(perl-HTTP-Request-AsCGI-perl)
+perl-HTTP-Request-AsCGI

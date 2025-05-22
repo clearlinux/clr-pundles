@@ -1,0 +1,9 @@
+# [TITLE]: perl-Math-Prime-XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Math-Prime-XS)
+perl-Math-Prime-XS-perl

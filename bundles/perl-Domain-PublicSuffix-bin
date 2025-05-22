@@ -1,0 +1,9 @@
+# [TITLE]: perl-Domain-PublicSuffix-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Domain-PublicSuffix-license)
+include(perl-bin)
+perl-Domain-PublicSuffix-bin

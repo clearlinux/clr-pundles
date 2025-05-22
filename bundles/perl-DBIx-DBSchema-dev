@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBIx-DBSchema-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-DBSchema)
+perl-DBIx-DBSchema-dev

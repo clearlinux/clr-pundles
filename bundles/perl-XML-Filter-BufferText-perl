@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-Filter-BufferText-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Filter-BufferText)
+perl-XML-Filter-BufferText-perl

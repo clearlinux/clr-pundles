@@ -1,0 +1,8 @@
+# [TITLE]: perl-DB_File
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DB_File-perl)
+perl-DB_File

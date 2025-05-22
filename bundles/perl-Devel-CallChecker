@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-CallChecker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-CallChecker-perl)
+perl-Devel-CallChecker

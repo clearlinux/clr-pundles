@@ -1,0 +1,8 @@
+# [TITLE]: perl-Throwable-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Throwable)
+perl-Throwable-dev

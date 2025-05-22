@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Unidecode-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Unidecode)
+perl-Text-Unidecode-dev

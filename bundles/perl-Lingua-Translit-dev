@@ -1,0 +1,9 @@
+# [TITLE]: perl-Lingua-Translit-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Lingua-Translit)
+include(perl-Lingua-Translit-bin)
+perl-Lingua-Translit-dev

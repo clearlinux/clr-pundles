@@ -1,0 +1,11 @@
+# [TITLE]: perl-Test-SubCalls
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Hook-LexWrap-perl)
+include(perl-Test-Simple-perl)
+include(perl-Test-SubCalls-license)
+include(perl-Test-SubCalls-perl)
+perl-Test-SubCalls

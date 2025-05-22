@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBIx-Simple-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Simple)
+perl-DBIx-Simple-dev

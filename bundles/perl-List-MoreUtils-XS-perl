@@ -1,0 +1,9 @@
+# [TITLE]: perl-List-MoreUtils-XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-List-MoreUtils-XS)
+perl-List-MoreUtils-XS-perl

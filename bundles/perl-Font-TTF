@@ -1,0 +1,9 @@
+# [TITLE]: perl-Font-TTF
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Font-TTF-license)
+include(perl-Font-TTF-perl)
+perl-Font-TTF

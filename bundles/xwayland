@@ -1,0 +1,12 @@
+# [TITLE]: xwayland
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xkbcomp)
+include(xwayland-bin)
+include(xwayland-data)
+include(xwayland-license)
+include(xwayland-man)
+xwayland

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sys-Mmap-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Sys-Mmap)
+perl-Sys-Mmap-perl

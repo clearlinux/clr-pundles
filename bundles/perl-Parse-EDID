@@ -1,0 +1,9 @@
+# [TITLE]: perl-Parse-EDID
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Parse-EDID-license)
+include(perl-Parse-EDID-perl)
+perl-Parse-EDID

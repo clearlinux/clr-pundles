@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Number-Delta
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Number-Delta-license)
+include(perl-Test-Number-Delta-perl)
+perl-Test-Number-Delta

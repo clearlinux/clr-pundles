@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-RegExp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-RegExp-perl)
+perl-XML-RegExp

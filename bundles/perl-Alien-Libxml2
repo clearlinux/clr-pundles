@@ -1,0 +1,9 @@
+# [TITLE]: perl-Alien-Libxml2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Alien-Libxml2-license)
+include(perl-Alien-Libxml2-perl)
+perl-Alien-Libxml2

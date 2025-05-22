@@ -1,0 +1,11 @@
+# [TITLE]: perl-Archive-Cpio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Archive-Cpio-bin)
+include(perl-Archive-Cpio-license)
+include(perl-Archive-Cpio-man)
+include(perl-Archive-Cpio-perl)
+perl-Archive-Cpio

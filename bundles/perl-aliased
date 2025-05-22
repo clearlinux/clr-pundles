@@ -1,0 +1,9 @@
+# [TITLE]: perl-aliased
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-aliased-license)
+include(perl-aliased-perl)
+perl-aliased

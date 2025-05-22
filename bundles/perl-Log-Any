@@ -1,0 +1,9 @@
+# [TITLE]: perl-Log-Any
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Any-license)
+include(perl-Log-Any-perl)
+perl-Log-Any

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Manifest-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Manifest)
+perl-Test-Manifest-perl

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Feed-Find-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Feed-Find)
+perl-Feed-Find-perl

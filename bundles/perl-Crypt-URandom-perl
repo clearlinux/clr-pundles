@@ -1,0 +1,9 @@
+# [TITLE]: perl-Crypt-URandom-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Crypt-URandom)
+perl-Crypt-URandom-perl

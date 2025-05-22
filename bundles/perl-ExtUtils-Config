@@ -1,0 +1,9 @@
+# [TITLE]: perl-ExtUtils-Config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-ExtUtils-Config-license)
+include(perl-ExtUtils-Config-perl)
+perl-ExtUtils-Config

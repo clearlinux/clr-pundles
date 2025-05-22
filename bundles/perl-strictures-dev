@@ -1,0 +1,8 @@
+# [TITLE]: perl-strictures-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-strictures)
+perl-strictures-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-AnyEvent-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-AnyEvent)
+perl-AnyEvent-dev

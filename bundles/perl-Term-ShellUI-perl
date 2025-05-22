@@ -1,0 +1,8 @@
+# [TITLE]: perl-Term-ShellUI-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-ShellUI)
+perl-Term-ShellUI-perl

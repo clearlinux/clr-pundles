@@ -1,0 +1,8 @@
+# [TITLE]: perl-Locale-Msgfmt-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Locale-Msgfmt)
+perl-Locale-Msgfmt-perl

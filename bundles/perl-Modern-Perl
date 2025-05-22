@@ -1,0 +1,9 @@
+# [TITLE]: perl-Modern-Perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Modern-Perl-license)
+include(perl-Modern-Perl-perl)
+perl-Modern-Perl

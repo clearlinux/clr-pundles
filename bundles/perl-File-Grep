@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Grep
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Grep-license)
+include(perl-File-Grep-perl)
+perl-File-Grep

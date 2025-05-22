@@ -1,0 +1,8 @@
+# [TITLE]: perl-Curses-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Curses)
+perl-Curses-dev

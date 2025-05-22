@@ -1,0 +1,8 @@
+# [TITLE]: perl-Log-Any-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Any)
+perl-Log-Any-perl

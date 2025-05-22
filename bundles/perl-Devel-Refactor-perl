@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-Refactor-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Refactor)
+perl-Devel-Refactor-perl

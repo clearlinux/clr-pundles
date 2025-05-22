@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBIx-Class-DynamicDefault
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Class-DynamicDefault-perl)
+perl-DBIx-Class-DynamicDefault

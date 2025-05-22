@@ -1,0 +1,8 @@
+# [TITLE]: perl-Module-Versions-Report-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Versions-Report)
+perl-Module-Versions-Report-perl

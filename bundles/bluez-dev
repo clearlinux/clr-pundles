@@ -1,0 +1,12 @@
+# [TITLE]: bluez-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez)
+include(bluez-bin)
+include(bluez-data)
+include(bluez-lib)
+include(pkg-config-bin)
+bluez-dev

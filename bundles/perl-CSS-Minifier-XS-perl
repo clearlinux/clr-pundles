@@ -1,0 +1,9 @@
+# [TITLE]: perl-CSS-Minifier-XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-CSS-Minifier-XS)
+perl-CSS-Minifier-XS-perl

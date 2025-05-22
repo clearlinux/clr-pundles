@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-Slurp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Slurp-perl)
+perl-File-Slurp

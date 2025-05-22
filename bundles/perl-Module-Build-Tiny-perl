@@ -1,0 +1,8 @@
+# [TITLE]: perl-Module-Build-Tiny-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Build-Tiny)
+perl-Module-Build-Tiny-perl

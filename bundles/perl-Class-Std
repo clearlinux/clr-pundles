@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Std
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Std-perl)
+perl-Class-Std

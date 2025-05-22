@@ -1,0 +1,9 @@
+# [TITLE]: perl-Roman
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Roman-license)
+include(perl-Roman-perl)
+perl-Roman

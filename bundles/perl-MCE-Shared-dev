@@ -1,0 +1,8 @@
+# [TITLE]: perl-MCE-Shared-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MCE-Shared)
+perl-MCE-Shared-dev

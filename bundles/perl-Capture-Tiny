@@ -1,0 +1,9 @@
+# [TITLE]: perl-Capture-Tiny
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Capture-Tiny-license)
+include(perl-Capture-Tiny-perl)
+perl-Capture-Tiny

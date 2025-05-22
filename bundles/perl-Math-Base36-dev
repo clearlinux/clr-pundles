@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-Base36-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Base36)
+perl-Math-Base36-dev

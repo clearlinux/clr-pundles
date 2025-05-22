@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-Next-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Next)
+perl-File-Next-perl

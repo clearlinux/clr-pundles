@@ -1,0 +1,10 @@
+# [TITLE]: perl-Compress-Bzip2-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(perl-Compress-Bzip2)
+perl-Compress-Bzip2-perl

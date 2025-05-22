@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sort-Key-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Sort-Key)
+perl-Sort-Key-perl

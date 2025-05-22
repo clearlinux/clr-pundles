@@ -24,7 +24,7 @@ include(libinput-libexec)
 include(libX11)
 include(libX11-lib)
 include(libXft-lib)
-libXScrnSaver-lib
+include(libXScrnSaver-lib)
 include(libXcursor-lib)
 include(libXtst-lib)
 include(libXt-lib)

@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTTP-CookieJar-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-CookieJar)
+perl-HTTP-CookieJar-perl

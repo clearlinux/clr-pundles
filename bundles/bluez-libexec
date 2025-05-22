@@ -1,0 +1,13 @@
+# [TITLE]: bluez-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-config)
+include(bluez-license)
+include(dbus-lib)
+include(glib-lib)
+include(libc6)
+include(libical-lib)
+bluez-libexec

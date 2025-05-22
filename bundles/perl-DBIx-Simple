@@ -1,0 +1,9 @@
+# [TITLE]: perl-DBIx-Simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Simple-license)
+include(perl-DBIx-Simple-perl)
+perl-DBIx-Simple

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Canary-Stability
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Canary-Stability-license)
+include(perl-Canary-Stability-perl)
+perl-Canary-Stability

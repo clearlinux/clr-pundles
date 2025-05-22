@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-LWP-UserAgent-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-LWP-UserAgent)
+perl-Test-LWP-UserAgent-perl

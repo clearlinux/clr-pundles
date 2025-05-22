@@ -1,0 +1,9 @@
+# [TITLE]: perl-System-Command
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-System-Command-license)
+include(perl-System-Command-perl)
+perl-System-Command

@@ -1,0 +1,8 @@
+# [TITLE]: perl-JSON-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-JSON)
+perl-JSON-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-Similarity
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-Similarity-license)
+include(perl-String-Similarity-perl)
+perl-String-Similarity

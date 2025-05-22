@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Trim
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Trim-license)
+include(perl-Text-Trim-perl)
+perl-Text-Trim

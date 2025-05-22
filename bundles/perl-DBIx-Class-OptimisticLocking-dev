@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBIx-Class-OptimisticLocking-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Class-OptimisticLocking)
+perl-DBIx-Class-OptimisticLocking-dev

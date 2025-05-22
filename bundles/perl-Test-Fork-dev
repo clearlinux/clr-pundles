@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Fork-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Fork)
+perl-Test-Fork-dev

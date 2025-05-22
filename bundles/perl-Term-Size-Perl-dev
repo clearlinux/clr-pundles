@@ -1,0 +1,8 @@
+# [TITLE]: perl-Term-Size-Perl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-Size-Perl)
+perl-Term-Size-Perl-dev

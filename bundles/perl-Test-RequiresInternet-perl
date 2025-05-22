@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-RequiresInternet-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-RequiresInternet)
+perl-Test-RequiresInternet-perl

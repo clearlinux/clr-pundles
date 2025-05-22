@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-GlobalDestruction
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-GlobalDestruction-perl)
+perl-Devel-GlobalDestruction

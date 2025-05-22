@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-MAC-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-MAC)
+perl-Net-MAC-perl

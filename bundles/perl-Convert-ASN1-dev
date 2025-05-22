@@ -1,0 +1,8 @@
+# [TITLE]: perl-Convert-ASN1-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Convert-ASN1)
+perl-Convert-ASN1-dev

@@ -1,0 +1,10 @@
+# [TITLE]: perl-Net-SSH2-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libssh2-lib)
+include(perl-Net-SSH2)
+perl-Net-SSH2-perl

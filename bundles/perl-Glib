@@ -1,0 +1,9 @@
+# [TITLE]: perl-Glib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Glib-license)
+include(perl-Glib-perl)
+perl-Glib

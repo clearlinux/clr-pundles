@@ -1,0 +1,9 @@
+# [TITLE]: perl-Alien-Build
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Alien-Build-license)
+include(perl-Alien-Build-perl)
+perl-Alien-Build

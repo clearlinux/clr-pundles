@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Capture
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Capture-license)
+include(perl-IO-Capture-perl)
+perl-IO-Capture

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-C3-Componentised-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-C3-Componentised)
+perl-Class-C3-Componentised-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Slurp-Tiny
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Slurp-Tiny-license)
+include(perl-File-Slurp-Tiny-perl)
+perl-File-Slurp-Tiny

@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-DesktopEntry-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-DesktopEntry)
+perl-File-DesktopEntry-perl

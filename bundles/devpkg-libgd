@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libgd-dev
+include(libgd-dev)
 include(lib-imageformat)
 include(perl-basic)
 include(libXpm-lib)

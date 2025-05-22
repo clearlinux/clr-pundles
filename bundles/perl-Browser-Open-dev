@@ -1,0 +1,8 @@
+# [TITLE]: perl-Browser-Open-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Browser-Open)
+perl-Browser-Open-dev

@@ -16,5 +16,5 @@ openpace
 pam_u2f
 include(pcsc-lite)
 pcsc-tools
-perl-Chipcard-PCSC
+include(perl-Chipcard-PCSC)
 include(pypi-yubikey_manager)

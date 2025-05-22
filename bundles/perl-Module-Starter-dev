@@ -1,0 +1,9 @@
+# [TITLE]: perl-Module-Starter-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Starter)
+include(perl-Module-Starter-bin)
+perl-Module-Starter-dev

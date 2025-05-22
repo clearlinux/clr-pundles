@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Multiplex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Multiplex-license)
+include(perl-IO-Multiplex-perl)
+perl-IO-Multiplex

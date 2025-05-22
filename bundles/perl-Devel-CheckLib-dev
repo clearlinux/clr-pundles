@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-CheckLib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-CheckLib)
+include(perl-Devel-CheckLib-bin)
+perl-Devel-CheckLib-dev

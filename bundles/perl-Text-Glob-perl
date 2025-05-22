@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Glob-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Glob)
+perl-Text-Glob-perl

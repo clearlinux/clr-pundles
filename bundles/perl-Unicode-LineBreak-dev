@@ -1,0 +1,8 @@
+# [TITLE]: perl-Unicode-LineBreak-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Unicode-LineBreak)
+perl-Unicode-LineBreak-dev

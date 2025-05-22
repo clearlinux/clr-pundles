@@ -1,0 +1,9 @@
+# [TITLE]: apr-util-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-util-license)
+include(filesystem)
+apr-util-bin

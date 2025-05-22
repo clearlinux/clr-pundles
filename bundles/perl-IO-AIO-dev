@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-AIO-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-AIO)
+include(perl-IO-AIO-bin)
+perl-IO-AIO-dev

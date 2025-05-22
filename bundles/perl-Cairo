@@ -1,0 +1,9 @@
+# [TITLE]: perl-Cairo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Cairo-license)
+include(perl-Cairo-perl)
+perl-Cairo

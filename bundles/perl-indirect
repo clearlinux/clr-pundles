@@ -1,0 +1,9 @@
+# [TITLE]: perl-indirect
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-indirect-license)
+include(perl-indirect-perl)
+perl-indirect

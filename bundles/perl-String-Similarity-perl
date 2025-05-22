@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-Similarity-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-String-Similarity)
+perl-String-Similarity-perl

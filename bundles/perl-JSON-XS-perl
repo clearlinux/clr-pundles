@@ -1,0 +1,9 @@
+# [TITLE]: perl-JSON-XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-JSON-XS)
+perl-JSON-XS-perl

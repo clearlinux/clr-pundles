@@ -1,0 +1,8 @@
+# [TITLE]: perl-JSON-Any-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-JSON-Any)
+perl-JSON-Any-perl

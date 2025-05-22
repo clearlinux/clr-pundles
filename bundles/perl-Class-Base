@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-Base
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Base-license)
+include(perl-Class-Base-perl)
+perl-Class-Base

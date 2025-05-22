@@ -1,0 +1,9 @@
+# [TITLE]: perl-Crypt-Random-Seed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Crypt-Random-Seed-license)
+include(perl-Crypt-Random-Seed-perl)
+perl-Crypt-Random-Seed

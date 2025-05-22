@@ -1,0 +1,8 @@
+# [TITLE]: perl-SGMLS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-SGMLS)
+perl-SGMLS-perl

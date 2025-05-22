@@ -1,0 +1,12 @@
+# [TITLE]: gobject-introspection-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gobject-introspection-data)
+include(gobject-introspection-license)
+include(libc6)
+include(libffi-lib)
+gobject-introspection-lib

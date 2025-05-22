@@ -1,0 +1,9 @@
+# [TITLE]: perl-IPC-ShareLite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IPC-ShareLite-license)
+include(perl-IPC-ShareLite-perl)
+perl-IPC-ShareLite

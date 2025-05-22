@@ -1,0 +1,8 @@
+# [TITLE]: perl-accessors
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-accessors-perl)
+perl-accessors

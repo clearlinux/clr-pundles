@@ -1,0 +1,9 @@
+# [TITLE]: perl-FreezeThaw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-FreezeThaw-license)
+include(perl-FreezeThaw-perl)
+perl-FreezeThaw

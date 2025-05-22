@@ -1,0 +1,9 @@
+# [TITLE]: perl-GD-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-GD)
+include(perl-GD-bin)
+perl-GD-dev

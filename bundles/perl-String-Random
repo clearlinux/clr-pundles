@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-Random
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-Random-license)
+include(perl-String-Random-perl)
+perl-String-Random

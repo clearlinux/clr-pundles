@@ -1,0 +1,9 @@
+# [TITLE]: perl-Biblio-EndnoteStyle-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Biblio-EndnoteStyle-license)
+include(perl-bin)
+perl-Biblio-EndnoteStyle-bin

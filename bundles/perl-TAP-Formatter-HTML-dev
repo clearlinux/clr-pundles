@@ -1,0 +1,8 @@
+# [TITLE]: perl-TAP-Formatter-HTML-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-TAP-Formatter-HTML)
+perl-TAP-Formatter-HTML-dev

@@ -80,7 +80,7 @@ include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
 include(devpkg-dav1d)
-db
+include(db)
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
@@ -356,7 +356,7 @@ include(devpkg-pcre2)
 include(devpkg-pcre2)
 include(perl)
 include(perl-Digest-MD5-perl)
-perl-IPC-Run-perl
+include(perl-IPC-Run-perl)
 include(perl-Test-Simple-perl)
 include(perl-XML-Parser-perl)
 php-dev
@@ -458,7 +458,7 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 include(which)
-xauth
+include(xauth)
 xcb-proto
 include(devpkg-xcb-proto)
 xdg-utils

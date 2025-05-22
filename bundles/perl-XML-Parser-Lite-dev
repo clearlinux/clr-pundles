@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-Parser-Lite-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Parser-Lite)
+perl-XML-Parser-Lite-dev

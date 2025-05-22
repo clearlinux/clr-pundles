@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-LibMagic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-LibMagic-license)
+include(perl-File-LibMagic-perl)
+perl-File-LibMagic

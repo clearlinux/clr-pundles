@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-INET6Glue
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-INET6Glue-license)
+include(perl-Net-INET6Glue-perl)
+perl-Net-INET6Glue

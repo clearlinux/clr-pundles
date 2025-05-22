@@ -1,0 +1,8 @@
+# [TITLE]: perl-SQL-Translator-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+perl-SQL-Translator-bin

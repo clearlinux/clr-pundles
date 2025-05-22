@@ -1,0 +1,8 @@
+# [TITLE]: perl-B-Hooks-OP-Check-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Hooks-OP-Check)
+perl-B-Hooks-OP-Check-dev

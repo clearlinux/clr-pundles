@@ -1,0 +1,8 @@
+# [TITLE]: perl-DateTime-Format-Mail-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-Mail)
+perl-DateTime-Format-Mail-dev

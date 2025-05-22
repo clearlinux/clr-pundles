@@ -1,0 +1,10 @@
+# [TITLE]: perl-Net-OpenSSH
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-OpenSSH-license)
+include(perl-Net-OpenSSH-perl)
+include(perl-Object-Remote-perl)
+perl-Net-OpenSSH

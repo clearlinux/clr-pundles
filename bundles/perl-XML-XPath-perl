@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-XPath-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-XPath)
+perl-XML-XPath-perl

@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBICx-TestDatabase-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBICx-TestDatabase)
+perl-DBICx-TestDatabase-dev

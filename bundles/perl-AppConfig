@@ -1,0 +1,9 @@
+# [TITLE]: perl-AppConfig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-AppConfig-license)
+include(perl-AppConfig-perl)
+perl-AppConfig

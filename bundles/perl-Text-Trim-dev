@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Trim-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Trim)
+perl-Text-Trim-dev

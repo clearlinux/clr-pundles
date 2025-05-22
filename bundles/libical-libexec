@@ -1,0 +1,11 @@
+# [TITLE]: libical-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libical-license)
+include(libxml2-lib)
+libical-libexec

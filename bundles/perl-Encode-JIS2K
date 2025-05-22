@@ -1,0 +1,9 @@
+# [TITLE]: perl-Encode-JIS2K
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Encode-JIS2K-license)
+include(perl-Encode-JIS2K-perl)
+perl-Encode-JIS2K

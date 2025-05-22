@@ -1,0 +1,13 @@
+# [TITLE]: perl-Test-NeedsDisplay
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-NeedsDisplay-license)
+include(perl-Test-NeedsDisplay-perl)
+include(xauth)
+include(xkbcomp)
+include(xkeyboard-config)
+include(xvfb-run)
+perl-Test-NeedsDisplay

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Compress-Bzip2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Compress-Bzip2-license)
+include(perl-Compress-Bzip2-perl)
+perl-Compress-Bzip2

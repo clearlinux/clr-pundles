@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTML-Tiny-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Tiny)
+perl-HTML-Tiny-perl

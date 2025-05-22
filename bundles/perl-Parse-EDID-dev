@@ -1,0 +1,8 @@
+# [TITLE]: perl-Parse-EDID-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Parse-EDID)
+perl-Parse-EDID-dev

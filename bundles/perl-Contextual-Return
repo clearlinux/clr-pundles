@@ -1,0 +1,8 @@
+# [TITLE]: perl-Contextual-Return
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Contextual-Return-perl)
+perl-Contextual-Return

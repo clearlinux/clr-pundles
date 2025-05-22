@@ -1,0 +1,8 @@
+# [TITLE]: perl-Socket-MsgHdr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Socket-MsgHdr-perl)
+perl-Socket-MsgHdr

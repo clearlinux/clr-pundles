@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mojolicious-Plugin-RenderFile-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mojolicious-Plugin-RenderFile)
+perl-Mojolicious-Plugin-RenderFile-dev

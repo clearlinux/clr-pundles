@@ -1,0 +1,8 @@
+# [TITLE]: perl-Library-CallNumber-LC-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Library-CallNumber-LC)
+perl-Library-CallNumber-LC-perl

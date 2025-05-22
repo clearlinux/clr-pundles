@@ -1,0 +1,9 @@
+# [TITLE]: perl-Statistics-CaseResampling-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Statistics-CaseResampling)
+perl-Statistics-CaseResampling-perl

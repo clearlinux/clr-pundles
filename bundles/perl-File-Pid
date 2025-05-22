@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Pid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Pid-license)
+include(perl-File-Pid-perl)
+perl-File-Pid

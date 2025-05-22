@@ -1,0 +1,8 @@
+# [TITLE]: perl-Algorithm-Munkres-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Algorithm-Munkres)
+perl-Algorithm-Munkres-dev

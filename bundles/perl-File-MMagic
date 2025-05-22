@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-MMagic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-MMagic-license)
+include(perl-File-MMagic-perl)
+perl-File-MMagic

@@ -1,0 +1,10 @@
+# [TITLE]: perl-Perl-Version
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Perl-Version-bin)
+include(perl-Perl-Version-man)
+include(perl-Perl-Version-perl)
+perl-Perl-Version

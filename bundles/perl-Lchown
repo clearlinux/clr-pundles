@@ -1,0 +1,9 @@
+# [TITLE]: perl-Lchown
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Lchown-license)
+include(perl-Lchown-perl)
+perl-Lchown

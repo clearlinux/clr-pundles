@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTML-Lint-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+perl-HTML-Lint-bin

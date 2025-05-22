@@ -1,0 +1,13 @@
+# [TITLE]: perl-Feed-Find
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-ErrorHandler-perl)
+include(perl-Feed-Find-license)
+include(perl-Feed-Find-perl)
+include(perl-HTML-Parser-perl)
+include(perl-URI-perl)
+include(perl-libwww-perl-perl)
+perl-Feed-Find

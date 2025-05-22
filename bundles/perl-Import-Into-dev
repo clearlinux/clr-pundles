@@ -1,0 +1,8 @@
+# [TITLE]: perl-Import-Into-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Import-Into)
+perl-Import-Into-dev

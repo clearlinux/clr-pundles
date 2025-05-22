@@ -1,0 +1,9 @@
+# [TITLE]: perl-TAP-Harness-Archive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-TAP-Harness-Archive-perl)
+include(perl-YAML-Tiny-perl)
+perl-TAP-Harness-Archive

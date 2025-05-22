@@ -1,0 +1,10 @@
+# [TITLE]: xf86-video-fbdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-video-fbdev-lib)
+include(xf86-video-fbdev-license)
+include(xf86-video-fbdev-man)
+xf86-video-fbdev

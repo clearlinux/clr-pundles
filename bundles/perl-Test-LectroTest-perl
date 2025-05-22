@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-LectroTest-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-LectroTest)
+perl-Test-LectroTest-perl

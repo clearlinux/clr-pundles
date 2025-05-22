@@ -1,0 +1,13 @@
+# [TITLE]: file-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(file-data)
+include(file-license)
+include(libc6)
+include(zlib-lib)
+include(zstd-lib)
+file-lib

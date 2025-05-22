@@ -1,0 +1,9 @@
+# [TITLE]: perl-Data-Integer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Integer-license)
+include(perl-Data-Integer-perl)
+perl-Data-Integer

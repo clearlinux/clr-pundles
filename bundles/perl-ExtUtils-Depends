@@ -1,0 +1,8 @@
+# [TITLE]: perl-ExtUtils-Depends
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-ExtUtils-Depends-perl)
+perl-ExtUtils-Depends

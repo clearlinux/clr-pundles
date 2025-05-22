@@ -1,0 +1,8 @@
+# [TITLE]: perl-POE-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-POE)
+perl-POE-perl

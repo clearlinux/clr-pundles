@@ -1,0 +1,10 @@
+# [TITLE]: perl-File-LibMagic-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(file-lib)
+include(libc6)
+include(perl-File-LibMagic)
+perl-File-LibMagic-perl

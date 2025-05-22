@@ -1,0 +1,8 @@
+# [TITLE]: perl-FCGI-ProcManager-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-FCGI-ProcManager)
+perl-FCGI-ProcManager-perl

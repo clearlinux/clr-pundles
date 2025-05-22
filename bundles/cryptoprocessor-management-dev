@@ -240,7 +240,7 @@ include(util-linux-extras)
 include(valgrind)
 include(devpkg-valgrind)
 include(which)
-xauth
+include(xauth)
 xmlto
 include(xz)
 include(devpkg-xz)

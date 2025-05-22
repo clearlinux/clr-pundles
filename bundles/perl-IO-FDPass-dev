@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-FDPass-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-FDPass)
+perl-IO-FDPass-dev

@@ -1,0 +1,10 @@
+# [TITLE]: perl-Net-Bluetooth-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-lib)
+include(libc6)
+include(perl-Net-Bluetooth)
+perl-Net-Bluetooth-perl

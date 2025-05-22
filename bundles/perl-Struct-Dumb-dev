@@ -1,0 +1,8 @@
+# [TITLE]: perl-Struct-Dumb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Struct-Dumb)
+perl-Struct-Dumb-dev

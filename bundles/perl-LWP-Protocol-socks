@@ -1,0 +1,9 @@
+# [TITLE]: perl-LWP-Protocol-socks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-LWP-Protocol-socks-license)
+include(perl-LWP-Protocol-socks-perl)
+perl-LWP-Protocol-socks

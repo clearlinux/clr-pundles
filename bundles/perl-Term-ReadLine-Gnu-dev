@@ -1,0 +1,9 @@
+# [TITLE]: perl-Term-ReadLine-Gnu-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-ReadLine-Gnu)
+include(perl-Term-ReadLine-Gnu-bin)
+perl-Term-ReadLine-Gnu-dev

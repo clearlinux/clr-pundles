@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-SSH2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-SSH2)
+perl-Net-SSH2-dev

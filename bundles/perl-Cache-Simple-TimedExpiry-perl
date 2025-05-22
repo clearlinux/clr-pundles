@@ -1,0 +1,8 @@
+# [TITLE]: perl-Cache-Simple-TimedExpiry-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Cache-Simple-TimedExpiry)
+perl-Cache-Simple-TimedExpiry-perl

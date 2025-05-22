@@ -1,0 +1,9 @@
+# [TITLE]: perl-Math-Calc-Units-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Calc-Units-license)
+include(perl-bin)
+perl-Math-Calc-Units-bin

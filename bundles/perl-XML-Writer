@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-Writer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Writer-license)
+include(perl-XML-Writer-perl)
+perl-XML-Writer

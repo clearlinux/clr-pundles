@@ -1,0 +1,8 @@
+# [TITLE]: perl-PHP-Serialization-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PHP-Serialization)
+perl-PHP-Serialization-perl

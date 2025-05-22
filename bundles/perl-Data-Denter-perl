@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Denter-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Denter)
+perl-Data-Denter-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-PerlIO-via-Timeout
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PerlIO-via-Timeout-license)
+include(perl-PerlIO-via-Timeout-perl)
+perl-PerlIO-via-Timeout

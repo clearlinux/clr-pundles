@@ -1,0 +1,10 @@
+# [TITLE]: perl-Syntax-Keyword-Try
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Syntax-Keyword-Try-license)
+include(perl-Syntax-Keyword-Try-perl)
+include(perl-XS-Parse-Keyword-perl)
+perl-Syntax-Keyword-Try

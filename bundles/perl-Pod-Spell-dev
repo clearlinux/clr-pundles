@@ -1,0 +1,9 @@
+# [TITLE]: perl-Pod-Spell-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Spell)
+include(perl-Pod-Spell-bin)
+perl-Pod-Spell-dev

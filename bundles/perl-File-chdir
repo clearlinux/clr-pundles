@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-chdir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-chdir-license)
+include(perl-File-chdir-perl)
+perl-File-chdir

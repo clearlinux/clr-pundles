@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-EnforceEncapsulation
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-EnforceEncapsulation-license)
+include(perl-Devel-EnforceEncapsulation-perl)
+perl-Devel-EnforceEncapsulation

@@ -1,0 +1,9 @@
+# [TITLE]: perl-WWW-Form-UrlEncoded-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-WWW-Form-UrlEncoded-XS-license)
+include(perl-WWW-Form-UrlEncoded-XS-perl)
+perl-WWW-Form-UrlEncoded-XS

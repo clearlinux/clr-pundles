@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-SSLeay-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-SSLeay)
+perl-Net-SSLeay-dev

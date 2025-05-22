@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Pager-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Pager)
+include(perl-bin)
+perl-IO-Pager-perl

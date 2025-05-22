@@ -1,0 +1,9 @@
+# [TITLE]: perl-Time-Period
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Time-Period-license)
+include(perl-Time-Period-perl)
+perl-Time-Period

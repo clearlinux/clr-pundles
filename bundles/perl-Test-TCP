@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-TCP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-TCP-license)
+include(perl-Test-TCP-perl)
+perl-Test-TCP

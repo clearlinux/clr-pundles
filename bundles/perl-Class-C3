@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-C3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-C3-license)
+include(perl-Class-C3-perl)
+perl-Class-C3

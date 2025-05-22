@@ -1,0 +1,9 @@
+# [TITLE]: perl-Log-Dispatch-Array
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Dispatch-Array-license)
+include(perl-Log-Dispatch-Array-perl)
+perl-Log-Dispatch-Array

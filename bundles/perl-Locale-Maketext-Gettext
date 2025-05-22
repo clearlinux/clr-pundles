@@ -1,0 +1,11 @@
+# [TITLE]: perl-Locale-Maketext-Gettext
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Locale-Maketext-Gettext-bin)
+include(perl-Locale-Maketext-Gettext-license)
+include(perl-Locale-Maketext-Gettext-man)
+include(perl-Locale-Maketext-Gettext-perl)
+perl-Locale-Maketext-Gettext

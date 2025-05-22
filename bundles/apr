@@ -1,0 +1,11 @@
+# [TITLE]: apr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-bin)
+include(apr-data)
+include(apr-lib)
+include(apr-license)
+apr

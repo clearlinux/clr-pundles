@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-Expand
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-Expand-license)
+include(perl-String-Expand-perl)
+perl-String-Expand

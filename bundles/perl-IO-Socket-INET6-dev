@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Socket-INET6-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Socket-INET6)
+perl-IO-Socket-INET6-dev

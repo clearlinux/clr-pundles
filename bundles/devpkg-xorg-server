@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-xorg-server-dev
+include(xorg-server-dev)
 include(lib-opengl)
 include(libX11client)

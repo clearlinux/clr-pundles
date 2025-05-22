@@ -1,0 +1,18 @@
+# [TITLE]: xorg-server-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libXfont2-lib)
+include(libbsd-lib)
+include(libc6)
+include(libdrm-lib)
+include(libepoxy-lib)
+include(libglvnd-lib)
+include(mesa-lib)
+include(pixman-lib)
+include(systemd-lib)
+include(xorg-server-data)
+include(xorg-server-license)
+xorg-server-lib

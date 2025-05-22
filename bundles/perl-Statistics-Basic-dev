@@ -1,0 +1,8 @@
+# [TITLE]: perl-Statistics-Basic-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Statistics-Basic)
+perl-Statistics-Basic-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Email-Address-XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Email-Address-XS)
+perl-Email-Address-XS-perl

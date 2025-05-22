@@ -1,0 +1,8 @@
+# [TITLE]: perl-Archive-Tar-Wrapper-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Archive-Tar-Wrapper)
+perl-Archive-Tar-Wrapper-dev

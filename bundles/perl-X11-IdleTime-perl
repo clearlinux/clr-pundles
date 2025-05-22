@@ -1,0 +1,11 @@
+# [TITLE]: perl-X11-IdleTime-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libc6)
+include(perl-X11-IdleTime)
+perl-X11-IdleTime-perl

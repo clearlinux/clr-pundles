@@ -1,0 +1,13 @@
+# [TITLE]: xorg-server-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pixman-dev)
+include(pkg-config-bin)
+include(xorg-server)
+include(xorg-server-bin)
+include(xorg-server-data)
+include(xorg-server-lib)
+xorg-server-dev

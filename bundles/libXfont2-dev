@@ -1,0 +1,14 @@
+# [TITLE]: libXfont2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freetype-dev)
+include(libXfont2)
+include(libXfont2-lib)
+include(libfontenc-dev)
+include(pkg-config-bin)
+include(xorgproto-dev)
+include(zlib-dev)
+libXfont2-dev

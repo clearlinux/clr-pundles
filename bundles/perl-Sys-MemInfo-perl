@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sys-MemInfo-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Sys-MemInfo)
+perl-Sys-MemInfo-perl

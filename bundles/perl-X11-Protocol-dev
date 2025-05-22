@@ -1,0 +1,8 @@
+# [TITLE]: perl-X11-Protocol-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-X11-Protocol)
+perl-X11-Protocol-dev

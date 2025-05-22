@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-MockTime-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-MockTime)
+perl-Test-MockTime-perl

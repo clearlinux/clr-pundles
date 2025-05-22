@@ -1,0 +1,8 @@
+# [TITLE]: perl-Hash-Flatten-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Hash-Flatten)
+perl-Hash-Flatten-dev

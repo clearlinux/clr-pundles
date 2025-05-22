@@ -1,0 +1,8 @@
+# [TITLE]: perl-Lchown-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Lchown)
+perl-Lchown-dev

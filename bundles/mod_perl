@@ -1,0 +1,14 @@
+# [TITLE]: mod_perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mod_perl-bin)
+include(mod_perl-lib)
+include(mod_perl-license)
+include(mod_perl-perl)
+include(perl-BSD-Resource-perl)
+include(perl-Data-Flow-perl)
+include(perl-Linux-Pid-perl)
+mod_perl

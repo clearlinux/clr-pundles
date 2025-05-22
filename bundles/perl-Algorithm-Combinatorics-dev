@@ -1,0 +1,8 @@
+# [TITLE]: perl-Algorithm-Combinatorics-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Algorithm-Combinatorics)
+perl-Algorithm-Combinatorics-dev

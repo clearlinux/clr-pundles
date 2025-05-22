@@ -1,0 +1,11 @@
+# [TITLE]: mod_perl-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-lib)
+include(apr-util-lib)
+include(libc6)
+include(mod_perl)
+mod_perl-perl

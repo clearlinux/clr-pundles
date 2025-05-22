@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBD-MariaDB-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBD-MariaDB)
+perl-DBD-MariaDB-dev

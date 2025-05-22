@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-String-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-String)
+perl-IO-String-perl

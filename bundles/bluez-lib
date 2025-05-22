@@ -1,0 +1,11 @@
+# [TITLE]: bluez-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-data)
+include(bluez-libexec)
+include(bluez-license)
+include(libc6)
+bluez-lib

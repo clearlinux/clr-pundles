@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-Format-W3CDTF
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-W3CDTF-license)
+include(perl-DateTime-Format-W3CDTF-perl)
+perl-DateTime-Format-W3CDTF

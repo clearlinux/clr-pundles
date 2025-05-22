@@ -1,0 +1,11 @@
+# [TITLE]: libXmu-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXmu-license)
+include(libXt-lib)
+include(libc6)
+libXmu-lib

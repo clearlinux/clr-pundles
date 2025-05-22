@@ -1,0 +1,10 @@
+# [TITLE]: perl-File-Find-Rule
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Find-Rule-bin)
+include(perl-File-Find-Rule-man)
+include(perl-File-Find-Rule-perl)
+perl-File-Find-Rule

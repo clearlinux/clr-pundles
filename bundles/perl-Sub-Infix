@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sub-Infix
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Infix-license)
+include(perl-Sub-Infix-perl)
+perl-Sub-Infix

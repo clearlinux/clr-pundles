@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-Caller-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Devel-Caller)
+perl-Devel-Caller-perl

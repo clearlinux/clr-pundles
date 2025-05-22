@@ -1,0 +1,8 @@
+# [TITLE]: perl-Compress-Raw-Lzma-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Compress-Raw-Lzma)
+perl-Compress-Raw-Lzma-dev

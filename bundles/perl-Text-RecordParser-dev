@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-RecordParser-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-RecordParser)
+include(perl-Text-RecordParser-bin)
+perl-Text-RecordParser-dev

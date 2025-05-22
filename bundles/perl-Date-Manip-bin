@@ -1,0 +1,9 @@
+# [TITLE]: perl-Date-Manip-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Date-Manip-license)
+include(perl-bin)
+perl-Date-Manip-bin

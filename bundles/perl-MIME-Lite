@@ -1,0 +1,9 @@
+# [TITLE]: perl-MIME-Lite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MIME-Lite-license)
+include(perl-MIME-Lite-perl)
+perl-MIME-Lite

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Getopt-Euclid-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Getopt-Euclid)
+include(perl-IO-Pager-perl)
+perl-Getopt-Euclid-perl

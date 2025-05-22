@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-TieCombine
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-TieCombine-license)
+include(perl-IO-TieCombine-perl)
+perl-IO-TieCombine

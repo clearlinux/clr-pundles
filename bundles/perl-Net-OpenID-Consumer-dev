@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-OpenID-Consumer-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-OpenID-Consumer)
+perl-Net-OpenID-Consumer-dev

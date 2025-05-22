@@ -1,0 +1,9 @@
+# [TITLE]: perl-WWW-Form-UrlEncoded
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-WWW-Form-UrlEncoded-license)
+include(perl-WWW-Form-UrlEncoded-perl)
+perl-WWW-Form-UrlEncoded

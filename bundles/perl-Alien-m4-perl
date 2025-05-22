@@ -1,0 +1,8 @@
+# [TITLE]: perl-Alien-m4-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Alien-m4)
+perl-Alien-m4-perl

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Scope-Upper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Scope-Upper-perl)
+perl-Scope-Upper

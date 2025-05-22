@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-BaseDir-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-BaseDir)
+perl-File-BaseDir-dev

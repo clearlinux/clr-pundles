@@ -1,0 +1,9 @@
+# [TITLE]: perl-Const-Fast
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Const-Fast-license)
+include(perl-Const-Fast-perl)
+perl-Const-Fast

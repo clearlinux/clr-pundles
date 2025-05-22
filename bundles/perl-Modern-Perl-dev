@@ -1,0 +1,8 @@
+# [TITLE]: perl-Modern-Perl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Modern-Perl)
+perl-Modern-Perl-dev

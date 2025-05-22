@@ -1,0 +1,11 @@
+# [TITLE]: perl-Perl-Tidy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Perl-Tidy-bin)
+include(perl-Perl-Tidy-license)
+include(perl-Perl-Tidy-man)
+include(perl-Perl-Tidy-perl)
+perl-Perl-Tidy

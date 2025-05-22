@@ -1,0 +1,8 @@
+# [TITLE]: perl-Perl-Tidy-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Perl-Tidy)
+perl-Perl-Tidy-perl

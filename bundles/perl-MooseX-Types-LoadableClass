@@ -1,0 +1,9 @@
+# [TITLE]: perl-MooseX-Types-LoadableClass
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MooseX-Types-LoadableClass-license)
+include(perl-MooseX-Types-LoadableClass-perl)
+perl-MooseX-Types-LoadableClass

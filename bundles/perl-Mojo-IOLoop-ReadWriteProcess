@@ -1,0 +1,9 @@
+# [TITLE]: perl-Mojo-IOLoop-ReadWriteProcess
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mojo-IOLoop-ReadWriteProcess-license)
+include(perl-Mojo-IOLoop-ReadWriteProcess-perl)
+perl-Mojo-IOLoop-ReadWriteProcess

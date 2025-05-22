@@ -1,0 +1,13 @@
+# [TITLE]: perl-POE
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Curses-perl)
+include(perl-IO-Pipely-perl)
+include(perl-IO-Tty-perl)
+include(perl-POE-Test-Loops-perl)
+include(perl-POE-perl)
+include(perl-Term-ReadKey-perl)
+perl-POE

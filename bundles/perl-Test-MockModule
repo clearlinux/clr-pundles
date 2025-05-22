@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-MockModule
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-MockModule-license)
+include(perl-Test-MockModule-perl)
+perl-Test-MockModule

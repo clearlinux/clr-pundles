@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-CheckBin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-CheckBin-license)
+include(perl-Devel-CheckBin-perl)
+perl-Devel-CheckBin

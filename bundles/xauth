@@ -1,0 +1,10 @@
+# [TITLE]: xauth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xauth-bin)
+include(xauth-license)
+include(xauth-man)
+xauth

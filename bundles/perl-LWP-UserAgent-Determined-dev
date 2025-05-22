@@ -1,0 +1,8 @@
+# [TITLE]: perl-LWP-UserAgent-Determined-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-LWP-UserAgent-Determined)
+perl-LWP-UserAgent-Determined-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-XS-Parse-Keyword-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-XS-Parse-Keyword)
+perl-XS-Parse-Keyword-perl

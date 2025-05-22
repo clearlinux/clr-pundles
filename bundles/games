@@ -52,11 +52,11 @@ glu-lib
 gtk+-lib
 harfbuzz-lib
 include(libX11-lib)
-libXScrnSaver-lib
+include(libXScrnSaver-lib)
 libXaw-lib
 include(libXcursor-lib)
 include(libXft-lib)
-libXmu-lib
+include(libXmu-lib)
 libXpm-lib
 include(libXt-lib)
 include(libXtst-lib)
@@ -66,7 +66,7 @@ libXxf86dga-lib
 libcanberra-lib
 include(libcap-lib)
 include(libdrm-lib)
-libfontenc-lib
+include(libfontenc-lib)
 include(libgcrypt-lib)
 include(libgudev-lib)
 libidn-lib

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Types-Serialiser-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Types-Serialiser)
+perl-Types-Serialiser-perl

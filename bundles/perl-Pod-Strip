@@ -1,0 +1,9 @@
+# [TITLE]: perl-Pod-Strip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Strip-license)
+include(perl-Pod-Strip-perl)
+perl-Pod-Strip

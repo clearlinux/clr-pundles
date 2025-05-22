@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-Cover-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+perl-Devel-Cover-bin

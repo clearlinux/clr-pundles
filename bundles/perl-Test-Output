@@ -1,0 +1,10 @@
+# [TITLE]: perl-Test-Output
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Capture-Tiny-perl)
+include(perl-Test-Output-perl)
+include(perl-Test-Simple-perl)
+perl-Test-Output

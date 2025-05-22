@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-HiRes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-HiRes-license)
+include(perl-DateTime-HiRes-perl)
+perl-DateTime-HiRes

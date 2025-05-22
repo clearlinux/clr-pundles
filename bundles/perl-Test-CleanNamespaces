@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-CleanNamespaces
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-CleanNamespaces-license)
+include(perl-Test-CleanNamespaces-perl)
+perl-Test-CleanNamespaces

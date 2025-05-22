@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-FcntlLock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-FcntlLock-perl)
+perl-File-FcntlLock

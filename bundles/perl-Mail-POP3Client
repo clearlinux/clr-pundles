@@ -1,0 +1,9 @@
+# [TITLE]: perl-Mail-POP3Client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mail-POP3Client-license)
+include(perl-Mail-POP3Client-perl)
+perl-Mail-POP3Client

@@ -1,0 +1,11 @@
+# [TITLE]: perl-AnyEvent-AIO
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-AnyEvent-AIO-license)
+include(perl-AnyEvent-AIO-perl)
+include(perl-AnyEvent-perl)
+include(perl-IO-AIO-perl)
+perl-AnyEvent-AIO

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Reporter-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Reporter)
+perl-Test-Reporter-perl

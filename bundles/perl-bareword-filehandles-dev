@@ -1,0 +1,8 @@
+# [TITLE]: perl-bareword-filehandles-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bareword-filehandles)
+perl-bareword-filehandles-dev

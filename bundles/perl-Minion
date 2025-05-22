@@ -1,0 +1,10 @@
+# [TITLE]: perl-Minion
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Minion-license)
+include(perl-Minion-perl)
+include(perl-SQL-Abstract-Pg-perl)
+perl-Minion

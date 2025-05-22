@@ -1,0 +1,8 @@
+# [TITLE]: perl-constant-defer-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-constant-defer)
+perl-constant-defer-perl

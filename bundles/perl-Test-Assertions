@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Assertions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Assertions-license)
+include(perl-Test-Assertions-perl)
+perl-Test-Assertions

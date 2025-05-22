@@ -1,0 +1,11 @@
+# [TITLE]: perl-Cpanel-JSON-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Cpanel-JSON-XS-bin)
+include(perl-Cpanel-JSON-XS-license)
+include(perl-Cpanel-JSON-XS-man)
+include(perl-Cpanel-JSON-XS-perl)
+perl-Cpanel-JSON-XS

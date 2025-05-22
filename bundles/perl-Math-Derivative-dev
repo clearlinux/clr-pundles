@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-Derivative-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Derivative)
+perl-Math-Derivative-dev

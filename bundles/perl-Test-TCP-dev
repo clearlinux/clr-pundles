@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-TCP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-TCP)
+perl-Test-TCP-dev

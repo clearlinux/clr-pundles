@@ -1,0 +1,8 @@
+# [TITLE]: perl-Tie-Simple-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Tie-Simple)
+perl-Tie-Simple-dev

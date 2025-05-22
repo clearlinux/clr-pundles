@@ -1,0 +1,11 @@
+# [TITLE]: perl-Devel-CheckOS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-CheckOS-bin)
+include(perl-Devel-CheckOS-license)
+include(perl-Devel-CheckOS-man)
+include(perl-Devel-CheckOS-perl)
+perl-Devel-CheckOS

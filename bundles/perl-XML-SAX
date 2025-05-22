@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-SAX
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-SAX-license)
+include(perl-XML-SAX-perl)
+perl-XML-SAX

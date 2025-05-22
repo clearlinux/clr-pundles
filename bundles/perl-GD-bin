@@ -1,0 +1,9 @@
+# [TITLE]: perl-GD-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-GD-license)
+include(perl-bin)
+perl-GD-bin

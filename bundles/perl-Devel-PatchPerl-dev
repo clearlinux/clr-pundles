@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-PatchPerl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-PatchPerl)
+include(perl-Devel-PatchPerl-bin)
+perl-Devel-PatchPerl-dev

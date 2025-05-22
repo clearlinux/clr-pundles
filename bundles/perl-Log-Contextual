@@ -1,0 +1,9 @@
+# [TITLE]: perl-Log-Contextual
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Contextual-license)
+include(perl-Log-Contextual-perl)
+perl-Log-Contextual

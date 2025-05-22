@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTML-Encoding-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Encoding)
+perl-HTML-Encoding-perl

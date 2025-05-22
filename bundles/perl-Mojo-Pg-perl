@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mojo-Pg-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mojo-Pg)
+perl-Mojo-Pg-perl

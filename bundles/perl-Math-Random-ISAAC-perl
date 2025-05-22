@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-Random-ISAAC-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Random-ISAAC)
+perl-Math-Random-ISAAC-perl

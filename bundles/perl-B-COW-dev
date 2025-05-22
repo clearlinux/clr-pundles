@@ -1,0 +1,8 @@
+# [TITLE]: perl-B-COW-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-COW)
+perl-B-COW-dev

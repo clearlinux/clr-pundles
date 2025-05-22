@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-LongString
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-LongString-license)
+include(perl-Test-LongString-perl)
+perl-Test-LongString

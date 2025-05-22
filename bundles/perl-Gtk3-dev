@@ -1,0 +1,8 @@
+# [TITLE]: perl-Gtk3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Gtk3)
+perl-Gtk3-dev

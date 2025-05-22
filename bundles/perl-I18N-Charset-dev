@@ -1,0 +1,8 @@
+# [TITLE]: perl-I18N-Charset-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-I18N-Charset)
+perl-I18N-Charset-dev

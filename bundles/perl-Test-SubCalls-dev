@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-SubCalls-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-SubCalls)
+perl-Test-SubCalls-dev

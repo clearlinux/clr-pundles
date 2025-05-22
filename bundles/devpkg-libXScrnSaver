@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libXScrnSaver-dev
+include(libXScrnSaver-dev)
 include(libX11client)

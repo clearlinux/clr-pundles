@@ -1,0 +1,8 @@
+# [TITLE]: perl-System-Command-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-System-Command)
+perl-System-Command-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Dumper-Concise-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Dumper-Concise)
+perl-Data-Dumper-Concise-perl

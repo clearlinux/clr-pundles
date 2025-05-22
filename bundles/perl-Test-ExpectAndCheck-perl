@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-ExpectAndCheck-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-ExpectAndCheck)
+perl-Test-ExpectAndCheck-perl

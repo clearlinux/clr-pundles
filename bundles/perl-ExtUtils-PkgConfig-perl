@@ -1,0 +1,8 @@
+# [TITLE]: perl-ExtUtils-PkgConfig-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-ExtUtils-PkgConfig)
+perl-ExtUtils-PkgConfig-perl

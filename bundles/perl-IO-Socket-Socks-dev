@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Socket-Socks-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Socket-Socks)
+perl-IO-Socket-Socks-dev

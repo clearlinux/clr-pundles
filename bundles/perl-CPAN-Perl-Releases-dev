@@ -1,0 +1,8 @@
+# [TITLE]: perl-CPAN-Perl-Releases-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CPAN-Perl-Releases)
+perl-CPAN-Perl-Releases-dev

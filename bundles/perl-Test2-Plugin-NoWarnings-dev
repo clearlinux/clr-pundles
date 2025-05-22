@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test2-Plugin-NoWarnings-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test2-Plugin-NoWarnings)
+perl-Test2-Plugin-NoWarnings-dev

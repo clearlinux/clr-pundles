@@ -1,0 +1,8 @@
+# [TITLE]: perl-Linux-Pid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Linux-Pid-perl)
+perl-Linux-Pid

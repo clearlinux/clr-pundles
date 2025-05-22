@@ -1,0 +1,9 @@
+# [TITLE]: perl-Dumbbench
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Dumbbench-bin)
+include(perl-Dumbbench-perl)
+perl-Dumbbench

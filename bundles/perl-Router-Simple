@@ -1,0 +1,9 @@
+# [TITLE]: perl-Router-Simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Router-Simple-license)
+include(perl-Router-Simple-perl)
+perl-Router-Simple

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Object-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Object)
+perl-Test-Object-dev

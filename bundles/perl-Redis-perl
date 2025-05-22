@@ -1,0 +1,8 @@
+# [TITLE]: perl-Redis-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Redis)
+perl-Redis-perl

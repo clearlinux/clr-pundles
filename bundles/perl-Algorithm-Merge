@@ -1,0 +1,9 @@
+# [TITLE]: perl-Algorithm-Merge
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Algorithm-Merge-license)
+include(perl-Algorithm-Merge-perl)
+perl-Algorithm-Merge

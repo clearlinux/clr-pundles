@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-Approx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-Approx-license)
+include(perl-String-Approx-perl)
+perl-String-Approx

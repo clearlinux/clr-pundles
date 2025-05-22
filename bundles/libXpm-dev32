@@ -1,0 +1,12 @@
+# [TITLE]: libXpm-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXpm-bin)
+include(libXpm-dev)
+include(libXpm-lib32)
+include(pkg-config-bin)
+libXpm-dev32

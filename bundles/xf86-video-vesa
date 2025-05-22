@@ -1,0 +1,10 @@
+# [TITLE]: xf86-video-vesa
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-video-vesa-lib)
+include(xf86-video-vesa-license)
+include(xf86-video-vesa-man)
+xf86-video-vesa

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Safe-Isa-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Safe-Isa)
+perl-Safe-Isa-dev

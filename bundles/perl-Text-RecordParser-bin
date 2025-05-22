@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-RecordParser-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+perl-Text-RecordParser-bin

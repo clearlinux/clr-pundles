@@ -1,0 +1,9 @@
+# [TITLE]: perl-Email-MessageID
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Email-MessageID-license)
+include(perl-Email-MessageID-perl)
+perl-Email-MessageID

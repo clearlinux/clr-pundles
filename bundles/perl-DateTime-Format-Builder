@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-Format-Builder
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-Builder-license)
+include(perl-DateTime-Format-Builder-perl)
+perl-DateTime-Format-Builder

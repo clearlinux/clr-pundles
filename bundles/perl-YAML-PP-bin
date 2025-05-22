@@ -1,0 +1,9 @@
+# [TITLE]: perl-YAML-PP-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-YAML-PP-license)
+include(perl-bin)
+perl-YAML-PP-bin

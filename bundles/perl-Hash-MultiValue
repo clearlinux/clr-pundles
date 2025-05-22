@@ -1,0 +1,9 @@
+# [TITLE]: perl-Hash-MultiValue
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Hash-MultiValue-license)
+include(perl-Hash-MultiValue-perl)
+perl-Hash-MultiValue

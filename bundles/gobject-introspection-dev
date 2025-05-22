@@ -1,0 +1,14 @@
+# [TITLE]: gobject-introspection-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gobject-introspection)
+include(gobject-introspection-bin)
+include(gobject-introspection-data)
+include(gobject-introspection-dev)
+include(gobject-introspection-lib)
+include(pkg-config-bin)
+gobject-introspection-dev

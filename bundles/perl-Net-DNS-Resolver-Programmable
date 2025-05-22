@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-DNS-Resolver-Programmable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-DNS-Resolver-Programmable-license)
+include(perl-Net-DNS-Resolver-Programmable-perl)
+perl-Net-DNS-Resolver-Programmable

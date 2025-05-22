@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Socket-Multicast-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Socket-Multicast)
+perl-IO-Socket-Multicast-dev

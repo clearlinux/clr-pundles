@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Method-Modifiers-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Method-Modifiers)
+perl-Class-Method-Modifiers-dev

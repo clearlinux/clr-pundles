@@ -1,0 +1,10 @@
+# [TITLE]: perl-Coro-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Coro)
+include(perl-bin)
+perl-Coro-perl

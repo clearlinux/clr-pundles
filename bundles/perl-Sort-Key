@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sort-Key
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sort-Key-license)
+include(perl-Sort-Key-perl)
+perl-Sort-Key

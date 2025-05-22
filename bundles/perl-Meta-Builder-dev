@@ -1,0 +1,8 @@
+# [TITLE]: perl-Meta-Builder-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Meta-Builder)
+perl-Meta-Builder-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-Vec-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Vec)
+perl-Math-Vec-dev

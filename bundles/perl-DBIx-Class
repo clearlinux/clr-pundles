@@ -1,0 +1,17 @@
+# [TITLE]: perl-DBIx-Class
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Class-bin)
+include(perl-DBIx-Class-license)
+include(perl-DBIx-Class-man)
+include(perl-DBIx-Class-perl)
+include(perl-JSON-Any-perl)
+include(perl-MooseX-Types-JSON-perl)
+include(perl-MooseX-Types-LoadableClass-perl)
+include(perl-MooseX-Types-Path-Class-perl)
+include(perl-MooseX-Types-perl)
+include(perl-SQL-Abstract-Classic-perl)
+perl-DBIx-Class

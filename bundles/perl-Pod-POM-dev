@@ -1,0 +1,9 @@
+# [TITLE]: perl-Pod-POM-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-POM)
+include(perl-Pod-POM-bin)
+perl-Pod-POM-dev

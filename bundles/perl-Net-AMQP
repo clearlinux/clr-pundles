@@ -1,0 +1,12 @@
+# [TITLE]: perl-Net-AMQP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-List-Util-perl)
+include(perl-Net-AMQP-license)
+include(perl-Net-AMQP-perl)
+include(perl-XML-LibXML-perl)
+include(perl-perl)
+perl-Net-AMQP

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-Refactor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Refactor-license)
+include(perl-Devel-Refactor-perl)
+perl-Devel-Refactor

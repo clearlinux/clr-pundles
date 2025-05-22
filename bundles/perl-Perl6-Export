@@ -1,0 +1,9 @@
+# [TITLE]: perl-Perl6-Export
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Perl6-Export-license)
+include(perl-Perl6-Export-perl)
+perl-Perl6-Export

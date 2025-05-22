@@ -1,0 +1,11 @@
+# [TITLE]: libgd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgd-lib)
+include(libgd-license)
+include(perl-bin)
+libgd-bin

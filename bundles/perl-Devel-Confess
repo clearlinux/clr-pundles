@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-Confess
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Confess-perl)
+perl-Devel-Confess

@@ -1,0 +1,10 @@
+# [TITLE]: perl-Sereal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sereal-Decoder-perl)
+include(perl-Sereal-Encoder-perl)
+include(perl-Sereal-perl)
+perl-Sereal

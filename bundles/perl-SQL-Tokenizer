@@ -1,0 +1,8 @@
+# [TITLE]: perl-SQL-Tokenizer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-SQL-Tokenizer-perl)
+perl-SQL-Tokenizer

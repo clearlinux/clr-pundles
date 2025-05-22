@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Glob
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Glob-license)
+include(perl-Text-Glob-perl)
+perl-Text-Glob

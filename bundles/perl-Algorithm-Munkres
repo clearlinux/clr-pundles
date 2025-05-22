@@ -1,0 +1,9 @@
+# [TITLE]: perl-Algorithm-Munkres
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Algorithm-Munkres-license)
+include(perl-Algorithm-Munkres-perl)
+perl-Algorithm-Munkres

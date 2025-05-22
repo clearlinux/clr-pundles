@@ -1,0 +1,8 @@
+# [TITLE]: perl-Time-ParseDate-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Time-ParseDate)
+perl-Time-ParseDate-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-Filter-BufferText
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Filter-BufferText-license)
+include(perl-XML-Filter-BufferText-perl)
+perl-XML-Filter-BufferText

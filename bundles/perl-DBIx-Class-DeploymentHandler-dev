@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBIx-Class-DeploymentHandler-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Class-DeploymentHandler)
+perl-DBIx-Class-DeploymentHandler-dev

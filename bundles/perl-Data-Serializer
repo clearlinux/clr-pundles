@@ -1,0 +1,16 @@
+# [TITLE]: perl-Data-Serializer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Bencode-perl)
+include(perl-Convert-Bencode-perl)
+include(perl-Convert-Bencode_XS-perl)
+include(perl-Data-Denter-perl)
+include(perl-Data-Serializer-license)
+include(perl-Data-Serializer-perl)
+include(perl-Data-Taxi-perl)
+include(perl-PHP-Serialization-perl)
+include(perl-XML-Dumper-perl)
+perl-Data-Serializer

@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-CRC32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-CRC32-license)
+include(perl-String-CRC32-perl)
+perl-String-CRC32

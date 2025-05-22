@@ -1,0 +1,9 @@
+# [TITLE]: perl-URI-Fetch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-URI-Fetch-license)
+include(perl-URI-Fetch-perl)
+perl-URI-Fetch

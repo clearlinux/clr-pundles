@@ -1,0 +1,9 @@
+# [TITLE]: perl-Module-Extract
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Extract-license)
+include(perl-Module-Extract-perl)
+perl-Module-Extract

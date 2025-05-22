@@ -1,0 +1,19 @@
+# [TITLE]: xorg-server-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXfont2-lib)
+include(libbsd-lib)
+include(libc6)
+include(libglvnd-lib)
+include(libtirpc-lib)
+include(nettle-lib)
+include(pixman-lib)
+include(systemd-extras-libsystemd)
+include(xorg-server-data)
+include(xorg-server-license)
+include(xorg-server-setuid)
+xorg-server-bin

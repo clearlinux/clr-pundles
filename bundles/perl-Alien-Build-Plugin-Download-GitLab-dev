@@ -1,0 +1,8 @@
+# [TITLE]: perl-Alien-Build-Plugin-Download-GitLab-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Alien-Build-Plugin-Download-GitLab)
+perl-Alien-Build-Plugin-Download-GitLab-dev

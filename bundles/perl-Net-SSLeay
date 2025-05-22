@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-SSLeay
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-SSLeay-license)
+include(perl-Net-SSLeay-perl)
+perl-Net-SSLeay

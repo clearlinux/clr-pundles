@@ -1,0 +1,8 @@
+# [TITLE]: perl-Router-Simple-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Router-Simple)
+perl-Router-Simple-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Throwable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Throwable-license)
+include(perl-Throwable-perl)
+perl-Throwable

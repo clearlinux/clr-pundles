@@ -1,0 +1,8 @@
+# [TITLE]: perl-UNIVERSAL-require-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-UNIVERSAL-require)
+perl-UNIVERSAL-require-dev

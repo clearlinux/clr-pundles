@@ -1,0 +1,9 @@
+# [TITLE]: perl-X11-Protocol
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-X11-Protocol-license)
+include(perl-X11-Protocol-perl)
+perl-X11-Protocol

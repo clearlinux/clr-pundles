@@ -1,0 +1,8 @@
+# [TITLE]: perl-Perl6-Export-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Perl6-Export)
+perl-Perl6-Export-dev

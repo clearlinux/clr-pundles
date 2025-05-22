@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Brew-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Brew)
+perl-Text-Brew-perl

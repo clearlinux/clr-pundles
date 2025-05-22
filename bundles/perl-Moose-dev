@@ -1,0 +1,9 @@
+# [TITLE]: perl-Moose-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Moose)
+include(perl-Moose-bin)
+perl-Moose-dev

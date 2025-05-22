@@ -1,0 +1,9 @@
+# [TITLE]: perl-MLDBM
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MLDBM-license)
+include(perl-MLDBM-perl)
+perl-MLDBM

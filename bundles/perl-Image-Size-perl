@@ -1,0 +1,8 @@
+# [TITLE]: perl-Image-Size-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Image-Size)
+perl-Image-Size-perl

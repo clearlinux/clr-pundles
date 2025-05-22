@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-CIDR-Lite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-CIDR-Lite-license)
+include(perl-Net-CIDR-Lite-perl)
+perl-Net-CIDR-Lite

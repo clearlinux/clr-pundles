@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-DBus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-DBus-license)
+include(perl-Net-DBus-perl)
+perl-Net-DBus

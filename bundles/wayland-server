@@ -6,6 +6,6 @@
 include(libX11client)
 include(mesa)
 include(wayland)
-xwayland
-xkbcomp
+include(xwayland)
+include(xkbcomp)
 include(lib-opengl)

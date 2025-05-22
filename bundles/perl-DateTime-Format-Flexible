@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-Format-Flexible
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-Flexible-license)
+include(perl-DateTime-Format-Flexible-perl)
+perl-DateTime-Format-Flexible

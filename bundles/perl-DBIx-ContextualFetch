@@ -1,0 +1,9 @@
+# [TITLE]: perl-DBIx-ContextualFetch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-ContextualFetch-license)
+include(perl-DBIx-ContextualFetch-perl)
+perl-DBIx-ContextualFetch

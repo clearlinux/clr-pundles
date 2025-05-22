@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-Round-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Round)
+perl-Math-Round-dev

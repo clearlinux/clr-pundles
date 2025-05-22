@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTML-Clean-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-Clean)
+include(perl-HTML-Clean-bin)
+perl-HTML-Clean-dev

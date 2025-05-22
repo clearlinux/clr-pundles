@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-SharedFork
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-SharedFork-license)
+include(perl-Test-SharedFork-perl)
+perl-Test-SharedFork

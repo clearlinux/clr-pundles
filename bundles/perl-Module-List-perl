@@ -1,0 +1,8 @@
+# [TITLE]: perl-Module-List-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-List)
+perl-Module-List-perl

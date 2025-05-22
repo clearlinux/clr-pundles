@@ -1,0 +1,8 @@
+# [TITLE]: perl-Lexical-SealRequireHints-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Lexical-SealRequireHints)
+perl-Lexical-SealRequireHints-perl

@@ -1,0 +1,11 @@
+# [TITLE]: libei-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libei-license)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+libei-lib

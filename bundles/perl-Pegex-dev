@@ -1,0 +1,8 @@
+# [TITLE]: perl-Pegex-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pegex)
+perl-Pegex-dev

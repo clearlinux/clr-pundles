@@ -1,0 +1,12 @@
+# [TITLE]: perl-Glib-Object-Introspection-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gobject-introspection-lib)
+include(libc6)
+include(libffi-lib)
+include(perl-Glib-Object-Introspection)
+perl-Glib-Object-Introspection-perl

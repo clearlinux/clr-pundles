@@ -1,0 +1,9 @@
+# [TITLE]: perl-common-sense
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-common-sense-license)
+include(perl-common-sense-perl)
+perl-common-sense

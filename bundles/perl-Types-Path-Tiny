@@ -1,0 +1,9 @@
+# [TITLE]: perl-Types-Path-Tiny
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Types-Path-Tiny-license)
+include(perl-Types-Path-Tiny-perl)
+perl-Types-Path-Tiny

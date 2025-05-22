@@ -1,0 +1,8 @@
+# [TITLE]: perl-Biblio-EndnoteStyle-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Biblio-EndnoteStyle)
+perl-Biblio-EndnoteStyle-perl

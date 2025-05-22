@@ -1,0 +1,9 @@
+# [TITLE]: perl-App-perlbrew-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-perlbrew)
+include(perl-App-perlbrew-bin)
+perl-App-perlbrew-dev

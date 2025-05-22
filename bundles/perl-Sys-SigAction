@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sys-SigAction
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sys-SigAction-license)
+include(perl-Sys-SigAction-perl)
+perl-Sys-SigAction

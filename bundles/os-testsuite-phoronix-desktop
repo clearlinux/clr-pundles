@@ -67,7 +67,7 @@ also-add(gnuplot)
 also-add(devpkg-hwloc)
 include(devpkg-jemalloc)
 include(devpkg-jemalloc)
-libXpm
+include(libXpm)
 also-add(devpkg-libXv)
 also-add(devpkg-libXvMC)
 libXxf86dga

@@ -1,0 +1,9 @@
+# [TITLE]: perl-SQL-SplitStatement-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-SQL-SplitStatement)
+include(perl-SQL-SplitStatement-bin)
+perl-SQL-SplitStatement-dev

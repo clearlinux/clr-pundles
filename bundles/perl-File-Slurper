@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Slurper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Slurper-license)
+include(perl-File-Slurper-perl)
+perl-File-Slurper

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Munge-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Munge)
+perl-Data-Munge-dev

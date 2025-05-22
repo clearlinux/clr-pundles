@@ -1,0 +1,8 @@
+# [TITLE]: perl-MooseX-Types
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MooseX-Types-perl)
+perl-MooseX-Types

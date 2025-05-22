@@ -1,0 +1,11 @@
+# [TITLE]: perl-Future-IO-ImplBase
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Future-IO-ImplBase-license)
+include(perl-Future-IO-ImplBase-perl)
+include(perl-Future-perl)
+include(perl-Struct-Dumb-perl)
+perl-Future-IO-ImplBase

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-Hide-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Hide)
+perl-Devel-Hide-dev

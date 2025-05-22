@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-Twig-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Twig)
+include(perl-XML-Twig-bin)
+perl-XML-Twig-dev

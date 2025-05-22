@@ -1,0 +1,8 @@
+# [TITLE]: perl-Term-Shell-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-Shell)
+perl-Term-Shell-dev

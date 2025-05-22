@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-Format-Mail
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-Mail-license)
+include(perl-DateTime-Format-Mail-perl)
+perl-DateTime-Format-Mail

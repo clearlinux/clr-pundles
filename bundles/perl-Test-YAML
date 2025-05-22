@@ -1,0 +1,10 @@
+# [TITLE]: perl-Test-YAML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-YAML-bin)
+include(perl-Test-YAML-license)
+include(perl-Test-YAML-perl)
+perl-Test-YAML

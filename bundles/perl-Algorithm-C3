@@ -1,0 +1,9 @@
+# [TITLE]: perl-Algorithm-C3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Algorithm-C3-license)
+include(perl-Algorithm-C3-perl)
+perl-Algorithm-C3

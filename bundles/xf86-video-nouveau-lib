@@ -1,0 +1,11 @@
+# [TITLE]: xf86-video-nouveau-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdrm-lib)
+include(systemd-lib)
+include(xf86-video-nouveau-license)
+xf86-video-nouveau-lib

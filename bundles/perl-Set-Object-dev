@@ -1,0 +1,8 @@
+# [TITLE]: perl-Set-Object-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Set-Object)
+perl-Set-Object-dev

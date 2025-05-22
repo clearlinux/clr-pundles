@@ -1,0 +1,9 @@
+# [TITLE]: perl-Number-Bytes-Human
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Number-Bytes-Human-license)
+include(perl-Number-Bytes-Human-perl)
+perl-Number-Bytes-Human

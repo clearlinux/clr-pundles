@@ -1,0 +1,9 @@
+# [TITLE]: perl-Struct-Dumb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Struct-Dumb-license)
+include(perl-Struct-Dumb-perl)
+perl-Struct-Dumb

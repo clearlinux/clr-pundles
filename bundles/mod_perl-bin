@@ -1,0 +1,9 @@
+# [TITLE]: mod_perl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mod_perl-license)
+include(perl-bin)
+mod_perl-bin

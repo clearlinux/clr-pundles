@@ -1,0 +1,11 @@
+# [TITLE]: file-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(file-data)
+include(file-lib)
+include(file-license)
+include(libc6)
+file-bin

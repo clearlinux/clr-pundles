@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Pod
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Pod-perl)
+perl-Test-Pod

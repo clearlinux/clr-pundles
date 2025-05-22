@@ -1,0 +1,8 @@
+# [TITLE]: perl-Want
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Want-perl)
+perl-Want

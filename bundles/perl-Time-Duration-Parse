@@ -1,0 +1,9 @@
+# [TITLE]: perl-Time-Duration-Parse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Time-Duration-Parse-license)
+include(perl-Time-Duration-Parse-perl)
+perl-Time-Duration-Parse

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-SFTP-Foreign-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-SFTP-Foreign)
+perl-Net-SFTP-Foreign-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTTP-Server-Simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CGI-perl)
+include(perl-HTTP-Server-Simple-perl)
+perl-HTTP-Server-Simple

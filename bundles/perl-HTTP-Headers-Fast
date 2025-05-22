@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTTP-Headers-Fast
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Headers-Fast-license)
+include(perl-HTTP-Headers-Fast-perl)
+perl-HTTP-Headers-Fast

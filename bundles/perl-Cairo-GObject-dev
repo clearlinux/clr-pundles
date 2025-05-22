@@ -1,0 +1,8 @@
+# [TITLE]: perl-Cairo-GObject-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Cairo-GObject)
+perl-Cairo-GObject-dev

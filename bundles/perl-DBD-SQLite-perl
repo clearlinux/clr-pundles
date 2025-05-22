@@ -1,0 +1,10 @@
+# [TITLE]: perl-DBD-SQLite-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-DBD-SQLite)
+include(sqlite-autoconf-lib)
+perl-DBD-SQLite-perl

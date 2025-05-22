@@ -1,0 +1,11 @@
+# [TITLE]: perl-PPI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-String-perl)
+include(perl-PPI-license)
+include(perl-PPI-perl)
+include(perl-Params-Util-perl)
+perl-PPI

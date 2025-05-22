@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Without-Module-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Without-Module)
+perl-Test-Without-Module-perl

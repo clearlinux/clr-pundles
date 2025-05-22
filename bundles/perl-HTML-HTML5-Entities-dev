@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTML-HTML5-Entities-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-HTML5-Entities)
+perl-HTML-HTML5-Entities-dev

@@ -1,0 +1,10 @@
+# [TITLE]: xf86-video-nouveau
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-video-nouveau-lib)
+include(xf86-video-nouveau-license)
+include(xf86-video-nouveau-man)
+xf86-video-nouveau

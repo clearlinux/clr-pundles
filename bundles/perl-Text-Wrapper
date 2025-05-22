@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Wrapper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Wrapper-license)
+include(perl-Text-Wrapper-perl)
+perl-Text-Wrapper

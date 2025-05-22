@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Interactive-Tiny-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Interactive-Tiny)
+perl-IO-Interactive-Tiny-dev

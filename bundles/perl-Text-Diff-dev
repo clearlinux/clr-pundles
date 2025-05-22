@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Diff-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Diff)
+perl-Text-Diff-dev

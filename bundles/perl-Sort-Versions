@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sort-Versions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sort-Versions-license)
+include(perl-Sort-Versions-perl)
+perl-Sort-Versions

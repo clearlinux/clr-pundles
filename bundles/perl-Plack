@@ -1,0 +1,31 @@
+# [TITLE]: perl-Plack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mod_perl-perl)
+include(perl-Apache-LogFormat-Compiler-perl)
+include(perl-CGI-Emulate-PSGI-perl)
+include(perl-Cookie-Baker-perl)
+include(perl-Devel-StackTrace-AsHTML-perl)
+include(perl-Devel-StackTrace-perl)
+include(perl-File-ShareDir-perl)
+include(perl-File-pushd-perl)
+include(perl-HTTP-Date-perl)
+include(perl-HTTP-Entity-Parser-perl)
+include(perl-HTTP-Headers-Fast-perl)
+include(perl-HTTP-Message-perl)
+include(perl-HTTP-MultiPartParser-perl)
+include(perl-Hash-MultiValue-perl)
+include(perl-JSON-MaybeXS-perl)
+include(perl-Module-Refresh-perl)
+include(perl-POSIX-strftime-Compiler-perl)
+include(perl-Plack-bin)
+include(perl-Plack-license)
+include(perl-Plack-man)
+include(perl-Plack-perl)
+include(perl-Stream-Buffered-perl)
+include(perl-URI-perl)
+include(perl-WWW-Form-UrlEncoded-perl)
+perl-Plack

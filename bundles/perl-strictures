@@ -1,0 +1,9 @@
+# [TITLE]: perl-strictures
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-strictures-license)
+include(perl-strictures-perl)
+perl-strictures

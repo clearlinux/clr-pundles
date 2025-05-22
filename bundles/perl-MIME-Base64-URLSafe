@@ -1,0 +1,9 @@
+# [TITLE]: perl-MIME-Base64-URLSafe
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MIME-Base64-URLSafe-license)
+include(perl-MIME-Base64-URLSafe-perl)
+perl-MIME-Base64-URLSafe

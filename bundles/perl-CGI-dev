@@ -1,0 +1,8 @@
+# [TITLE]: perl-CGI-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CGI)
+perl-CGI-dev

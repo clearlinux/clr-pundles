@@ -1,0 +1,9 @@
+# [TITLE]: perl-Crypt-Rijndael-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Crypt-Rijndael)
+perl-Crypt-Rijndael-perl

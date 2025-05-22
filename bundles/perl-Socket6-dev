@@ -1,0 +1,8 @@
+# [TITLE]: perl-Socket6-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Socket6)
+perl-Socket6-dev

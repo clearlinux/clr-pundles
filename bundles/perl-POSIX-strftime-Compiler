@@ -1,0 +1,9 @@
+# [TITLE]: perl-POSIX-strftime-Compiler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-POSIX-strftime-Compiler-license)
+include(perl-POSIX-strftime-Compiler-perl)
+perl-POSIX-strftime-Compiler

@@ -1,0 +1,9 @@
+# [TITLE]: perl-CSS-DOM
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CSS-DOM-license)
+include(perl-CSS-DOM-perl)
+perl-CSS-DOM

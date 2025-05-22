@@ -1,0 +1,9 @@
+# [TITLE]: perl-Module-ScanDeps-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-ScanDeps-license)
+include(perl-bin)
+perl-Module-ScanDeps-bin

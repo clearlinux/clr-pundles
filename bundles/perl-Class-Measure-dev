@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Measure-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Measure)
+perl-Class-Measure-dev

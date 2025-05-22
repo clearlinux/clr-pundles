@@ -1,0 +1,9 @@
+# [TITLE]: perl-ExtUtils-Helpers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-ExtUtils-Helpers-license)
+include(perl-ExtUtils-Helpers-perl)
+perl-ExtUtils-Helpers

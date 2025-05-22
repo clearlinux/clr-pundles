@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-Escape
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-Escape-license)
+include(perl-String-Escape-perl)
+perl-String-Escape

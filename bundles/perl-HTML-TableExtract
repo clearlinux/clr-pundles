@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTML-TableExtract
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-TableExtract-license)
+include(perl-HTML-TableExtract-perl)
+perl-HTML-TableExtract

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Config-Std-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-Std)
+perl-Config-Std-dev

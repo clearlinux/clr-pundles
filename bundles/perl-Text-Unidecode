@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Unidecode
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Unidecode-license)
+include(perl-Text-Unidecode-perl)
+perl-Text-Unidecode

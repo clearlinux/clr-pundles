@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Markdown-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Markdown)
+perl-Text-Markdown-perl

@@ -41,7 +41,7 @@ cppcheck
 include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
-db
+include(db)
 include(devpkg-dbus)
 include(devpkg-dbus)
 include(dbus-python)
@@ -224,7 +224,7 @@ include(util-linux-extras)
 include(valgrind)
 include(devpkg-valgrind)
 include(which)
-xauth
+include(xauth)
 xmlto
 include(xz)
 include(devpkg-xz)

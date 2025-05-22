@@ -1,0 +1,9 @@
+# [TITLE]: perl-B-Hooks-OP-Check-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-B-Hooks-OP-Check)
+perl-B-Hooks-OP-Check-perl

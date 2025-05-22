@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Strict
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Strict-license)
+include(perl-Test-Strict-perl)
+perl-Test-Strict

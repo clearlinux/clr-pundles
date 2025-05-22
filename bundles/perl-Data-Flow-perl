@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Flow-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Flow)
+perl-Data-Flow-perl

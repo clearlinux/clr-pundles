@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Autoformat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Autoformat-license)
+include(perl-Text-Autoformat-perl)
+perl-Text-Autoformat

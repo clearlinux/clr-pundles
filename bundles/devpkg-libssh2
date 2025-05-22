@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libssh2-dev
+include(libssh2-dev)

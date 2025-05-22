@@ -1,0 +1,11 @@
+# [TITLE]: perl-Mojolicious
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mojolicious-bin)
+include(perl-Mojolicious-license)
+include(perl-Mojolicious-man)
+include(perl-Mojolicious-perl)
+perl-Mojolicious

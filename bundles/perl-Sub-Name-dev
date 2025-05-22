@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sub-Name-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Name)
+perl-Sub-Name-dev

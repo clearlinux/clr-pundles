@@ -1,0 +1,8 @@
+# [TITLE]: perl-JavaScript-Minifier-XS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-JavaScript-Minifier-XS)
+perl-JavaScript-Minifier-XS-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Calendar-Simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Calendar-Simple-bin)
+include(perl-Calendar-Simple-perl)
+perl-Calendar-Simple

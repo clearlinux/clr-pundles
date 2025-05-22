@@ -1,0 +1,11 @@
+# [TITLE]: perl-Cairo-GObject-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(libc6)
+include(perl-Cairo-GObject)
+perl-Cairo-GObject-perl

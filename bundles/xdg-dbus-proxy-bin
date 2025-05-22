@@ -1,0 +1,11 @@
+# [TITLE]: xdg-dbus-proxy-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(xdg-dbus-proxy-license)
+xdg-dbus-proxy-bin

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-TabularDisplay-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-TabularDisplay)
+perl-Text-TabularDisplay-dev

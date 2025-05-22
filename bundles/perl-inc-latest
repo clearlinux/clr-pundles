@@ -1,0 +1,9 @@
+# [TITLE]: perl-inc-latest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-inc-latest-license)
+include(perl-inc-latest-perl)
+perl-inc-latest

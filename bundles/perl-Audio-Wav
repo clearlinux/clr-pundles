@@ -1,0 +1,9 @@
+# [TITLE]: perl-Audio-Wav
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Audio-Wav-license)
+include(perl-Audio-Wav-perl)
+perl-Audio-Wav

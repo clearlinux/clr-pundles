@@ -1,0 +1,8 @@
+# [TITLE]: perl-Statistics-CaseResampling-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Statistics-CaseResampling)
+perl-Statistics-CaseResampling-dev

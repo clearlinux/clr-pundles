@@ -1,0 +1,8 @@
+# [TITLE]: perl-FFI-CheckLib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-FFI-CheckLib)
+perl-FFI-CheckLib-dev

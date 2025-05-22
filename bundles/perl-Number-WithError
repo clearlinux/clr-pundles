@@ -1,0 +1,8 @@
+# [TITLE]: perl-Number-WithError
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Number-WithError-perl)
+perl-Number-WithError

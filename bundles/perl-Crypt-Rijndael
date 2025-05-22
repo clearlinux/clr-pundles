@@ -1,0 +1,9 @@
+# [TITLE]: perl-Crypt-Rijndael
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Crypt-Rijndael-license)
+include(perl-Crypt-Rijndael-perl)
+perl-Crypt-Rijndael

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Future-IO-Impl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Future-IO-Impl-license)
+include(perl-Test-Future-IO-Impl-perl)
+perl-Test-Future-IO-Impl

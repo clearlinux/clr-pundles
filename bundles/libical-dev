@@ -1,0 +1,14 @@
+# [TITLE]: libical-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(icu4c-dev)
+include(libical)
+include(libical-data)
+include(libical-dev)
+include(libical-lib)
+include(pkg-config-bin)
+libical-dev

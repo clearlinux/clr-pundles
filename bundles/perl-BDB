@@ -1,0 +1,9 @@
+# [TITLE]: perl-BDB
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-BDB-license)
+include(perl-BDB-perl)
+perl-BDB

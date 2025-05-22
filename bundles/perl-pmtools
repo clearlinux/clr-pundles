@@ -1,0 +1,11 @@
+# [TITLE]: perl-pmtools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-pmtools-bin)
+include(perl-pmtools-license)
+include(perl-pmtools-man)
+include(perl-pmtools-perl)
+perl-pmtools

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Memoize-ExpireLRU
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Memoize-ExpireLRU-license)
+include(perl-Memoize-ExpireLRU-perl)
+perl-Memoize-ExpireLRU

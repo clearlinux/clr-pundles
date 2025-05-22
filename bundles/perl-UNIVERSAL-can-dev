@@ -1,0 +1,8 @@
+# [TITLE]: perl-UNIVERSAL-can-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-UNIVERSAL-can)
+perl-UNIVERSAL-can-dev

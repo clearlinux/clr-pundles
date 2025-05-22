@@ -1,0 +1,8 @@
+# [TITLE]: perl-Event-RPC-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Event-RPC)
+perl-Event-RPC-perl

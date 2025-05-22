@@ -1,0 +1,8 @@
+# [TITLE]: perl-Task-Weaken-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Task-Weaken)
+perl-Task-Weaken-perl

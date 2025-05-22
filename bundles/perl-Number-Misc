@@ -1,0 +1,9 @@
+# [TITLE]: perl-Number-Misc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Number-Misc-license)
+include(perl-Number-Misc-perl)
+perl-Number-Misc

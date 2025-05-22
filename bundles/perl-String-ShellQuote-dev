@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-ShellQuote-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-ShellQuote)
+include(perl-String-ShellQuote-bin)
+perl-String-ShellQuote-dev

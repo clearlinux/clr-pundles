@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Float-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Float)
+perl-Data-Float-perl

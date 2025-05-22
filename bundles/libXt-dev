@@ -1,0 +1,12 @@
+# [TITLE]: libXt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXt)
+include(libXt-lib)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libXt-dev

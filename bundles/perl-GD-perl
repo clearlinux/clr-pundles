@@ -1,0 +1,10 @@
+# [TITLE]: perl-GD-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgd-lib)
+include(perl-GD)
+perl-GD-perl

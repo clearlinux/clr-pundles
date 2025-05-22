@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Uniqid-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Uniqid)
+perl-Data-Uniqid-dev

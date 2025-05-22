@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sub-Exporter-ForMethods-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Exporter-ForMethods)
+perl-Sub-Exporter-ForMethods-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-autobox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-autobox-license)
+include(perl-autobox-perl)
+perl-autobox

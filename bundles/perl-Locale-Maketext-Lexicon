@@ -1,0 +1,13 @@
+# [TITLE]: perl-Locale-Maketext-Lexicon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Locale-Maketext-Lexicon-bin)
+include(perl-Locale-Maketext-Lexicon-license)
+include(perl-Locale-Maketext-Lexicon-man)
+include(perl-Locale-Maketext-Lexicon-perl)
+include(perl-PPI-perl)
+include(perl-Text-Haml-perl)
+perl-Locale-Maketext-Lexicon

@@ -1,0 +1,11 @@
+# [TITLE]: perl-JSON-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-JSON-XS-bin)
+include(perl-JSON-XS-license)
+include(perl-JSON-XS-man)
+include(perl-JSON-XS-perl)
+perl-JSON-XS

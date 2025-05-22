@@ -1,0 +1,8 @@
+# [TITLE]: perl-Alien-Libxml2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Alien-Libxml2)
+perl-Alien-Libxml2-dev

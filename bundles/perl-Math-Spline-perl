@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-Spline-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Spline)
+perl-Math-Spline-perl

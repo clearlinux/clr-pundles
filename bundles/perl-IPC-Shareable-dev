@@ -1,0 +1,8 @@
+# [TITLE]: perl-IPC-Shareable-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IPC-Shareable)
+perl-IPC-Shareable-dev

@@ -1,0 +1,11 @@
+# [TITLE]: xauth-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXmu-lib)
+include(libc6)
+include(xauth-license)
+xauth-bin

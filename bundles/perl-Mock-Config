@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mock-Config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mock-Config-perl)
+perl-Mock-Config

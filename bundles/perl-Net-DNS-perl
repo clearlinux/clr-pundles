@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-DNS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-DNS)
+perl-Net-DNS-perl

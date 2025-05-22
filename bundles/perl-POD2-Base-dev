@@ -1,0 +1,8 @@
+# [TITLE]: perl-POD2-Base-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-POD2-Base)
+perl-POD2-Base-dev

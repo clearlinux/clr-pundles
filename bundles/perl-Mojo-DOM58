@@ -1,0 +1,9 @@
+# [TITLE]: perl-Mojo-DOM58
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mojo-DOM58-license)
+include(perl-Mojo-DOM58-perl)
+perl-Mojo-DOM58

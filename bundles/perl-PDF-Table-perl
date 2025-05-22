@@ -1,0 +1,8 @@
+# [TITLE]: perl-PDF-Table-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PDF-Table)
+perl-PDF-Table-perl

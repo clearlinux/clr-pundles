@@ -1,0 +1,8 @@
+# [TITLE]: perl-Hash-MultiValue-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Hash-MultiValue)
+perl-Hash-MultiValue-perl

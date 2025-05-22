@@ -1,0 +1,8 @@
+# [TITLE]: perl-Parallel-ForkManager-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Parallel-ForkManager)
+perl-Parallel-ForkManager-perl

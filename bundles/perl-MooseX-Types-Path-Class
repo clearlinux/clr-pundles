@@ -1,0 +1,9 @@
+# [TITLE]: perl-MooseX-Types-Path-Class
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MooseX-Types-Path-Class-license)
+include(perl-MooseX-Types-Path-Class-perl)
+perl-MooseX-Types-Path-Class

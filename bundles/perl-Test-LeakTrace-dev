@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-LeakTrace-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-LeakTrace)
+perl-Test-LeakTrace-dev

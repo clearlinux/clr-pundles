@@ -1,0 +1,9 @@
+# [TITLE]: perl-Mail-Sender
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mail-Sender-license)
+include(perl-Mail-Sender-perl)
+perl-Mail-Sender

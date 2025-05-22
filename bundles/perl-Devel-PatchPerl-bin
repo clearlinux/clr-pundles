@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-PatchPerl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-PatchPerl-license)
+include(perl-bin)
+perl-Devel-PatchPerl-bin

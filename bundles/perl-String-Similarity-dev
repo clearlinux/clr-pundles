@@ -1,0 +1,8 @@
+# [TITLE]: perl-String-Similarity-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-Similarity)
+perl-String-Similarity-dev

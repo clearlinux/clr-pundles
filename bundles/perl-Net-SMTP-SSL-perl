@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-SMTP-SSL-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-SMTP-SSL)
+perl-Net-SMTP-SSL-perl

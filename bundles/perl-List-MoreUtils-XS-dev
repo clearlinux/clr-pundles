@@ -1,0 +1,8 @@
+# [TITLE]: perl-List-MoreUtils-XS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-List-MoreUtils-XS)
+perl-List-MoreUtils-XS-dev

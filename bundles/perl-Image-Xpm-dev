@@ -1,0 +1,8 @@
+# [TITLE]: perl-Image-Xpm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Image-Xpm)
+perl-Image-Xpm-dev

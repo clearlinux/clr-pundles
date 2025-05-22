@@ -1,0 +1,8 @@
+# [TITLE]: perl-Graph-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Graph)
+perl-Graph-perl

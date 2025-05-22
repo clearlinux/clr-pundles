@@ -1,0 +1,8 @@
+# [TITLE]: perl-Module-Find-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Find)
+perl-Module-Find-dev

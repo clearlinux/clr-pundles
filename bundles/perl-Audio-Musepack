@@ -1,0 +1,8 @@
+# [TITLE]: perl-Audio-Musepack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Audio-Musepack-perl)
+perl-Audio-Musepack

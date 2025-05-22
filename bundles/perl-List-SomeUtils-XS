@@ -1,0 +1,9 @@
+# [TITLE]: perl-List-SomeUtils-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-List-SomeUtils-XS-license)
+include(perl-List-SomeUtils-XS-perl)
+perl-List-SomeUtils-XS

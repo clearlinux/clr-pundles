@@ -1,0 +1,10 @@
+# [TITLE]: perl-Image-Info
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Image-Info-perl)
+include(perl-Image-Xbm-perl)
+include(perl-Image-Xpm-perl)
+perl-Image-Info

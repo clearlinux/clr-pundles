@@ -1,0 +1,9 @@
+# [TITLE]: perl-Log-Trace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Trace-license)
+include(perl-Log-Trace-perl)
+perl-Log-Trace

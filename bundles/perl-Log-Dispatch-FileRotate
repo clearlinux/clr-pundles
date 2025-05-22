@@ -1,0 +1,9 @@
+# [TITLE]: perl-Log-Dispatch-FileRotate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Dispatch-FileRotate-license)
+include(perl-Log-Dispatch-FileRotate-perl)
+perl-Log-Dispatch-FileRotate

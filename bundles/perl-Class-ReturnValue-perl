@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-ReturnValue-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-ReturnValue)
+perl-Class-ReturnValue-perl

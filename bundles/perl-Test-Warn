@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Warn
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Warn-perl)
+perl-Test-Warn

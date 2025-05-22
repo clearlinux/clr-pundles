@@ -1,0 +1,8 @@
+# [TITLE]: perl-Switch-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Switch)
+perl-Switch-dev

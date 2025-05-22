@@ -1,0 +1,10 @@
+# [TITLE]: perl-Object-Remote
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Object-Remote-bin)
+include(perl-Object-Remote-license)
+include(perl-Object-Remote-perl)
+perl-Object-Remote

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-IP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-IP)
+include(perl-Net-IP-bin)
+perl-Net-IP-dev

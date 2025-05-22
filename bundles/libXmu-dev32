@@ -1,0 +1,13 @@
+# [TITLE]: libXmu-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXmu-dev)
+include(libXmu-lib32)
+include(libXt-dev)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libXmu-dev32

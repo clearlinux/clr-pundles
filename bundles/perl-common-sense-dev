@@ -1,0 +1,8 @@
+# [TITLE]: perl-common-sense-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-common-sense)
+perl-common-sense-dev

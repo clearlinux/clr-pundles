@@ -1,0 +1,9 @@
+# [TITLE]: perl-DBD-Pg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBD-Pg-license)
+include(perl-DBD-Pg-perl)
+perl-DBD-Pg

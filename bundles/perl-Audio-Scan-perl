@@ -1,0 +1,10 @@
+# [TITLE]: perl-Audio-Scan-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Audio-Scan)
+include(zlib-lib)
+perl-Audio-Scan-perl

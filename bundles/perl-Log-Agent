@@ -1,0 +1,10 @@
+# [TITLE]: perl-Log-Agent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Agent-license)
+include(perl-Log-Agent-perl)
+include(perl-Mail-Mailer-perl)
+perl-Log-Agent

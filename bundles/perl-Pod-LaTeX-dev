@@ -1,0 +1,9 @@
+# [TITLE]: perl-Pod-LaTeX-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-LaTeX)
+include(perl-Pod-LaTeX-bin)
+perl-Pod-LaTeX-dev

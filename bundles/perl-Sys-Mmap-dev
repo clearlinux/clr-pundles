@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sys-Mmap-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sys-Mmap)
+perl-Sys-Mmap-dev

@@ -1,0 +1,12 @@
+# [TITLE]: bubblewrap-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bubblewrap-data)
+include(bubblewrap-license)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+bubblewrap-bin

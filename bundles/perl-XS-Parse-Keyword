@@ -1,0 +1,9 @@
+# [TITLE]: perl-XS-Parse-Keyword
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XS-Parse-Keyword-license)
+include(perl-XS-Parse-Keyword-perl)
+perl-XS-Parse-Keyword

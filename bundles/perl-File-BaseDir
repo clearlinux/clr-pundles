@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-BaseDir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-BaseDir-license)
+include(perl-File-BaseDir-perl)
+perl-File-BaseDir

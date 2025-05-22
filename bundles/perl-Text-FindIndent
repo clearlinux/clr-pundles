@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-FindIndent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-FindIndent-license)
+include(perl-Text-FindIndent-perl)
+perl-Text-FindIndent

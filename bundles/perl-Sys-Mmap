@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sys-Mmap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sys-Mmap-license)
+include(perl-Sys-Mmap-perl)
+perl-Sys-Mmap

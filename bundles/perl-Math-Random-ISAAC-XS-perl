@@ -1,0 +1,9 @@
+# [TITLE]: perl-Math-Random-ISAAC-XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Math-Random-ISAAC-XS)
+perl-Math-Random-ISAAC-XS-perl

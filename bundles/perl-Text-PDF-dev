@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-PDF-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-PDF)
+include(perl-Text-PDF-bin)
+perl-Text-PDF-dev

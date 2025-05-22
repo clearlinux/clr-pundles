@@ -1,0 +1,9 @@
+# [TITLE]: perl-Filesys-Df
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Filesys-Df-license)
+include(perl-Filesys-Df-perl)
+perl-Filesys-Df

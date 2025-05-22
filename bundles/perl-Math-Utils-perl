@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-Utils-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Utils)
+perl-Math-Utils-perl

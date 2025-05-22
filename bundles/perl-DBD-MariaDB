@@ -1,0 +1,9 @@
+# [TITLE]: perl-DBD-MariaDB
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBD-MariaDB-license)
+include(perl-DBD-MariaDB-perl)
+perl-DBD-MariaDB

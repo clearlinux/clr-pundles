@@ -1,0 +1,9 @@
+# [TITLE]: perl-Exporter-Easy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Exporter-Easy-license)
+include(perl-Exporter-Easy-perl)
+perl-Exporter-Easy

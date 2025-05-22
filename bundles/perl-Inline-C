@@ -1,0 +1,9 @@
+# [TITLE]: perl-Inline-C
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Inline-C-license)
+include(perl-Inline-C-perl)
+perl-Inline-C

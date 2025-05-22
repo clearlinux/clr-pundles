@@ -1,0 +1,9 @@
+# [TITLE]: perl-Data-Page
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Page-license)
+include(perl-Data-Page-perl)
+perl-Data-Page

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sys-MemInfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sys-MemInfo-license)
+include(perl-Sys-MemInfo-perl)
+perl-Sys-MemInfo

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Getopt-Tabular
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Getopt-Tabular-license)
+include(perl-Getopt-Tabular-perl)
+perl-Getopt-Tabular

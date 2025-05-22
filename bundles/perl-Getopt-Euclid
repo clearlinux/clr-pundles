@@ -1,0 +1,9 @@
+# [TITLE]: perl-Getopt-Euclid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Getopt-Euclid-license)
+include(perl-Getopt-Euclid-perl)
+perl-Getopt-Euclid

@@ -1,0 +1,8 @@
+# [TITLE]: perl-CSS-Minifier-XS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CSS-Minifier-XS)
+perl-CSS-Minifier-XS-dev

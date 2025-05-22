@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Prompter-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Prompter)
+perl-IO-Prompter-dev

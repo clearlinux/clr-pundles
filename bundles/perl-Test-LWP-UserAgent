@@ -1,0 +1,18 @@
+# [TITLE]: perl-Test-LWP-UserAgent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Date-perl)
+include(perl-HTTP-Message-perl)
+include(perl-List-Util-perl)
+include(perl-Safe-Isa-perl)
+include(perl-Storable-perl)
+include(perl-Test-LWP-UserAgent-license)
+include(perl-Test-LWP-UserAgent-perl)
+include(perl-Try-Tiny-perl)
+include(perl-URI-perl)
+include(perl-libwww-perl-perl)
+include(perl-namespace-clean-perl)
+perl-Test-LWP-UserAgent

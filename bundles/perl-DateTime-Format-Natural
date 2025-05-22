@@ -1,0 +1,11 @@
+# [TITLE]: perl-DateTime-Format-Natural
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-Natural-bin)
+include(perl-DateTime-Format-Natural-man)
+include(perl-DateTime-Format-Natural-perl)
+include(perl-DateTime-HiRes-perl)
+perl-DateTime-Format-Natural

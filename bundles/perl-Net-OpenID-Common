@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-OpenID-Common
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-OpenID-Common-license)
+include(perl-Net-OpenID-Common-perl)
+perl-Net-OpenID-Common

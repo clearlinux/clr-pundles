@@ -1,0 +1,20 @@
+# [TITLE]: perl-Coro
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-AnyEvent-AIO-perl)
+include(perl-AnyEvent-BDB-perl)
+include(perl-AnyEvent-perl)
+include(perl-BDB-perl)
+include(perl-Canary-Stability-perl)
+include(perl-Coro-license)
+include(perl-Coro-perl)
+include(perl-EV-perl)
+include(perl-Event-perl)
+include(perl-Guard-perl)
+include(perl-List-Util-perl)
+include(perl-Storable-perl)
+include(perl-common-sense-perl)
+perl-Coro

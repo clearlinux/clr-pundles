@@ -1,0 +1,8 @@
+# [TITLE]: perl-Alien-Build-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Alien-Build)
+perl-Alien-Build-perl

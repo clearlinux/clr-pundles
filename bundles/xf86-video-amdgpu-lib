@@ -1,0 +1,13 @@
+# [TITLE]: xf86-video-amdgpu-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdrm-lib)
+include(mesa-lib)
+include(systemd-lib)
+include(xf86-video-amdgpu-data)
+include(xf86-video-amdgpu-license)
+xf86-video-amdgpu-lib

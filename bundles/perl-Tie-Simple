@@ -1,0 +1,9 @@
+# [TITLE]: perl-Tie-Simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Tie-Simple-license)
+include(perl-Tie-Simple-perl)
+perl-Tie-Simple

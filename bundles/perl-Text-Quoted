@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Quoted
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Quoted-license)
+include(perl-Text-Quoted-perl)
+perl-Text-Quoted

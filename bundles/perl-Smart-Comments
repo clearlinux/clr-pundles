@@ -1,0 +1,9 @@
+# [TITLE]: perl-Smart-Comments
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Smart-Comments-license)
+include(perl-Smart-Comments-perl)
+perl-Smart-Comments

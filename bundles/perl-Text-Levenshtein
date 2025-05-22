@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Levenshtein
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Levenshtein-license)
+include(perl-Text-Levenshtein-perl)
+perl-Text-Levenshtein

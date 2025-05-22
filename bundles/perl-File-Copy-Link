@@ -1,0 +1,10 @@
+# [TITLE]: perl-File-Copy-Link
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Copy-Link-bin)
+include(perl-File-Copy-Link-man)
+include(perl-File-Copy-Link-perl)
+perl-File-Copy-Link

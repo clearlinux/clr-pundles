@@ -1,0 +1,9 @@
+# [TITLE]: perl-EV
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-EV-license)
+include(perl-EV-perl)
+perl-EV

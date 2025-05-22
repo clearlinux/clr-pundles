@@ -1,0 +1,9 @@
+# [TITLE]: perl-Scope-Upper-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Scope-Upper)
+perl-Scope-Upper-perl

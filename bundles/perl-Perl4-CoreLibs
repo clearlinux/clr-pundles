@@ -1,0 +1,8 @@
+# [TITLE]: perl-Perl4-CoreLibs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Perl4-CoreLibs-perl)
+perl-Perl4-CoreLibs

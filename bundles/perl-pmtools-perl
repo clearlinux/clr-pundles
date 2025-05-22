@@ -1,0 +1,8 @@
+# [TITLE]: perl-pmtools-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-pmtools)
+perl-pmtools-perl

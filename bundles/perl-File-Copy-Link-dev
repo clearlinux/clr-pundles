@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Copy-Link-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Copy-Link)
+include(perl-File-Copy-Link-bin)
+perl-File-Copy-Link-dev

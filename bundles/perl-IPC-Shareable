@@ -1,0 +1,14 @@
+# [TITLE]: perl-IPC-Shareable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IPC-Shareable-license)
+include(perl-IPC-Shareable-perl)
+include(perl-JSON-perl)
+include(perl-List-Util-perl)
+include(perl-Storable-perl)
+include(perl-String-CRC32-perl)
+include(perl-perl)
+perl-IPC-Shareable

@@ -1,0 +1,11 @@
+# [TITLE]: perl-Net-MQTT
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-MQTT-bin)
+include(perl-Net-MQTT-license)
+include(perl-Net-MQTT-man)
+include(perl-Net-MQTT-perl)
+perl-Net-MQTT

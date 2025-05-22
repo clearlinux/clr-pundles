@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Future-IO-Impl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Future-IO-Impl)
+perl-Test-Future-IO-Impl-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-GSSAPI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-GSSAPI-perl)
+perl-GSSAPI

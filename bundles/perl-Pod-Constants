@@ -1,0 +1,10 @@
+# [TITLE]: perl-Pod-Constants
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Constants-license)
+include(perl-Pod-Constants-perl)
+include(perl-Pod-Parser-perl)
+perl-Pod-Constants

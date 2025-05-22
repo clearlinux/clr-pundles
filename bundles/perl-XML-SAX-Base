@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-SAX-Base
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-SAX-Base-perl)
+perl-XML-SAX-Base

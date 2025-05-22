@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-Atom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Atom-license)
+include(perl-XML-Atom-perl)
+perl-XML-Atom

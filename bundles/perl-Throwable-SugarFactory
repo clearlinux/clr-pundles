@@ -1,0 +1,9 @@
+# [TITLE]: perl-Throwable-SugarFactory
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Throwable-SugarFactory-license)
+include(perl-Throwable-SugarFactory-perl)
+perl-Throwable-SugarFactory

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-NTP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-NTP-license)
+include(perl-Net-NTP-perl)
+perl-Net-NTP

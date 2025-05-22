@@ -1,0 +1,8 @@
+# [TITLE]: perl-Config-Grammar-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-Grammar)
+perl-Config-Grammar-perl

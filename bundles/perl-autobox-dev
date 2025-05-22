@@ -1,0 +1,8 @@
+# [TITLE]: perl-autobox-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-autobox)
+perl-autobox-dev

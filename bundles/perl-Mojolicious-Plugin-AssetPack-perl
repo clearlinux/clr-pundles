@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mojolicious-Plugin-AssetPack-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mojolicious-Plugin-AssetPack)
+perl-Mojolicious-Plugin-AssetPack-perl

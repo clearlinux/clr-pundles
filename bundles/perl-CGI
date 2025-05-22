@@ -1,0 +1,9 @@
+# [TITLE]: perl-CGI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CGI-license)
+include(perl-CGI-perl)
+perl-CGI

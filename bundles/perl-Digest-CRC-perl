@@ -1,0 +1,9 @@
+# [TITLE]: perl-Digest-CRC-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Digest-CRC)
+perl-Digest-CRC-perl

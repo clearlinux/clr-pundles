@@ -1,0 +1,8 @@
+# [TITLE]: perl-Archive-Cpio-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Archive-Cpio)
+perl-Archive-Cpio-perl

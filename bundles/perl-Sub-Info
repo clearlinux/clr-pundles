@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sub-Info
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Info-license)
+include(perl-Sub-Info-perl)
+perl-Sub-Info

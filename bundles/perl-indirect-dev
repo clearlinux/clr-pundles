@@ -1,0 +1,8 @@
+# [TITLE]: perl-indirect-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-indirect)
+perl-indirect-dev

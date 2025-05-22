@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Compile-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Compile)
+perl-Test-Compile-perl

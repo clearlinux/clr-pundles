@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Reform
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Reform-perl)
+perl-Text-Reform

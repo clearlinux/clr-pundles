@@ -1,0 +1,9 @@
+# [TITLE]: perl-PostScript-File
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PostScript-File-license)
+include(perl-PostScript-File-perl)
+perl-PostScript-File

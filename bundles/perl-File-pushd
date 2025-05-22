@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-pushd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-pushd-license)
+include(perl-File-pushd-perl)
+perl-File-pushd

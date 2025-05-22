@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-CSV-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-CSV)
+perl-Text-CSV-perl

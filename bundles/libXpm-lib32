@@ -1,0 +1,10 @@
+# [TITLE]: libXpm-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libX11-lib32)
+include(libXpm-license)
+libXpm-lib32

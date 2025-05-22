@@ -1,0 +1,8 @@
+# [TITLE]: perl-Encode-HanExtra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Encode-HanExtra-perl)
+perl-Encode-HanExtra

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Tie-Cycle-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Tie-Cycle)
+perl-Tie-Cycle-perl

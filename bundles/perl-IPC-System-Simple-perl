@@ -1,0 +1,8 @@
+# [TITLE]: perl-IPC-System-Simple-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IPC-System-Simple)
+perl-IPC-System-Simple-perl

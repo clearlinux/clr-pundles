@@ -1,0 +1,11 @@
+# [TITLE]: libtirpc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtirpc)
+include(libtirpc-data)
+include(libtirpc-lib)
+include(pkg-config-bin)
+libtirpc-dev

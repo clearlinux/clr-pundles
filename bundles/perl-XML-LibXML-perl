@@ -1,0 +1,10 @@
+# [TITLE]: perl-XML-LibXML-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(perl-XML-LibXML)
+perl-XML-LibXML-perl

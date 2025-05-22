@@ -1,0 +1,11 @@
+# [TITLE]: perl-Term-ReadLine-Gnu-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(perl-Term-ReadLine-Gnu)
+include(readline-lib)
+perl-Term-ReadLine-Gnu-perl

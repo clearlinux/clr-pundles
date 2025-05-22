@@ -1,0 +1,13 @@
+# [TITLE]: perl-Log-Log4perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Dispatch-FileRotate-perl)
+include(perl-Log-Log4perl-bin)
+include(perl-Log-Log4perl-license)
+include(perl-Log-Log4perl-man)
+include(perl-Log-Log4perl-perl)
+include(perl-XML-DOM-perl)
+perl-Log-Log4perl

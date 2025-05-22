@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sys-Statistics-Linux
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sys-Statistics-Linux-license)
+include(perl-Sys-Statistics-Linux-perl)
+perl-Sys-Statistics-Linux

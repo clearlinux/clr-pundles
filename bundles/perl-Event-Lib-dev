@@ -1,0 +1,8 @@
+# [TITLE]: perl-Event-Lib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Event-Lib)
+perl-Event-Lib-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Term-ProgressBar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-ProgressBar-license)
+include(perl-Term-ProgressBar-perl)
+perl-Term-ProgressBar

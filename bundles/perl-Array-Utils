@@ -1,0 +1,9 @@
+# [TITLE]: perl-Array-Utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Array-Utils-license)
+include(perl-Array-Utils-perl)
+perl-Array-Utils

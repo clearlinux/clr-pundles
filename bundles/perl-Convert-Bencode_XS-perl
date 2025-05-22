@@ -1,0 +1,9 @@
+# [TITLE]: perl-Convert-Bencode_XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Convert-Bencode_XS)
+perl-Convert-Bencode_XS-perl

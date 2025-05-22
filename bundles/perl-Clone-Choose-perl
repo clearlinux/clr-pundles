@@ -1,0 +1,8 @@
+# [TITLE]: perl-Clone-Choose-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Clone-Choose)
+perl-Clone-Choose-perl

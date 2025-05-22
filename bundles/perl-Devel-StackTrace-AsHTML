@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-StackTrace-AsHTML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-StackTrace-AsHTML-license)
+include(perl-Devel-StackTrace-AsHTML-perl)
+perl-Devel-StackTrace-AsHTML

@@ -1,0 +1,11 @@
+# [TITLE]: libical
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libical-data)
+include(libical-lib)
+include(libical-libexec)
+include(libical-license)
+libical

@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-KeePass-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-KeePass)
+perl-File-KeePass-perl

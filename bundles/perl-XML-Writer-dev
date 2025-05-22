@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-Writer-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Writer)
+perl-XML-Writer-dev

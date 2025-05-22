@@ -1,0 +1,10 @@
+# [TITLE]: perl-XML-SAX-ExpatXS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(libc6)
+include(perl-XML-SAX-ExpatXS)
+perl-XML-SAX-ExpatXS-perl

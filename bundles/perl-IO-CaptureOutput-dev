@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-CaptureOutput-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-CaptureOutput)
+perl-IO-CaptureOutput-dev

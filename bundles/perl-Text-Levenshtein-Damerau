@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Levenshtein-Damerau
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Levenshtein-Damerau-license)
+include(perl-Text-Levenshtein-Damerau-perl)
+perl-Text-Levenshtein-Damerau

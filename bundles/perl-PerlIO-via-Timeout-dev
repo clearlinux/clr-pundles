@@ -1,0 +1,8 @@
+# [TITLE]: perl-PerlIO-via-Timeout-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PerlIO-via-Timeout)
+perl-PerlIO-via-Timeout-dev

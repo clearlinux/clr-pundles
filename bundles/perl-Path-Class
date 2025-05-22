@@ -1,0 +1,9 @@
+# [TITLE]: perl-Path-Class
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Path-Class-license)
+include(perl-Path-Class-perl)
+perl-Path-Class

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Canary-Stability-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Canary-Stability)
+perl-Canary-Stability-dev

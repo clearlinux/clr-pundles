@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-DiagINC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-DiagINC-license)
+include(perl-Test-DiagINC-perl)
+perl-Test-DiagINC

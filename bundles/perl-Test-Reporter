@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Reporter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Reporter-license)
+include(perl-Test-Reporter-perl)
+perl-Test-Reporter

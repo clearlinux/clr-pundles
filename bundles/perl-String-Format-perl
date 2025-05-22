@@ -1,0 +1,8 @@
+# [TITLE]: perl-String-Format-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-Format)
+perl-String-Format-perl

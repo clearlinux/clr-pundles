@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Pipely
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Pipely-license)
+include(perl-IO-Pipely-perl)
+perl-IO-Pipely

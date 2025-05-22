@@ -21,7 +21,7 @@ include(poppler)
 # extra stuff we need
 #
 adwaita-icon-theme
-bluez
+include(bluez)
 include(dbus-extras)
 desktop-file-utils
 include(fontconfig)

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Chipcard-PCSC-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Chipcard-PCSC)
+perl-Chipcard-PCSC-dev

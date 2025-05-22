@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-Bluetooth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-Bluetooth-perl)
+perl-Net-Bluetooth

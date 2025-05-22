@@ -1,0 +1,8 @@
+# [TITLE]: perl-Set-Scalar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Set-Scalar-perl)
+perl-Set-Scalar

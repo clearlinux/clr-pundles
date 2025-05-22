@@ -1,0 +1,9 @@
+# [TITLE]: perl-boolean
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-boolean-license)
+include(perl-boolean-perl)
+perl-boolean

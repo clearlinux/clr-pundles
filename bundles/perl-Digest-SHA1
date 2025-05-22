@@ -1,0 +1,8 @@
+# [TITLE]: perl-Digest-SHA1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Digest-SHA1-perl)
+perl-Digest-SHA1

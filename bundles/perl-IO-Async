@@ -1,0 +1,15 @@
+# [TITLE]: perl-IO-Async
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Future-IO-ImplBase-perl)
+include(perl-Future-perl)
+include(perl-IO-Async-license)
+include(perl-IO-Async-perl)
+include(perl-Struct-Dumb-perl)
+include(perl-Test-Fatal-perl)
+include(perl-Test-Metrics-Any-perl)
+include(perl-Test-Refcount-perl)
+perl-IO-Async

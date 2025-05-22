@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Socket-SSL-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Socket-SSL)
+perl-IO-Socket-SSL-dev

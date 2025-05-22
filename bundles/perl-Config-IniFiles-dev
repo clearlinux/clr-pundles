@@ -1,0 +1,8 @@
+# [TITLE]: perl-Config-IniFiles-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-IniFiles)
+perl-Config-IniFiles-dev

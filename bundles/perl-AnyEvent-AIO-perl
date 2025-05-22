@@ -1,0 +1,8 @@
+# [TITLE]: perl-AnyEvent-AIO-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-AnyEvent-AIO)
+perl-AnyEvent-AIO-perl

@@ -1,0 +1,11 @@
+# [TITLE]: perl-POE-Test-Loops
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-POE-Test-Loops-bin)
+include(perl-POE-Test-Loops-license)
+include(perl-POE-Test-Loops-man)
+include(perl-POE-Test-Loops-perl)
+perl-POE-Test-Loops

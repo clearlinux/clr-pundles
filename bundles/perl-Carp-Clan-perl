@@ -1,0 +1,8 @@
+# [TITLE]: perl-Carp-Clan-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Carp-Clan)
+perl-Carp-Clan-perl

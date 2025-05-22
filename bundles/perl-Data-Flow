@@ -1,0 +1,9 @@
+# [TITLE]: perl-Data-Flow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Flow-license)
+include(perl-Data-Flow-perl)
+perl-Data-Flow

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Exporter-Tidy-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Exporter-Tidy)
+perl-Exporter-Tidy-dev

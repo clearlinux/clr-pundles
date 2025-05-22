@@ -1,0 +1,11 @@
+# [TITLE]: perl-Geo-Distance
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Const-Fast-perl)
+include(perl-GIS-Distance-perl)
+include(perl-Geo-Distance-license)
+include(perl-Geo-Distance-perl)
+perl-Geo-Distance

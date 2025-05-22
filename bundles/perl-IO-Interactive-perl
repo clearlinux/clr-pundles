@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Interactive-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Interactive)
+perl-IO-Interactive-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Interface
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Interface-license)
+include(perl-IO-Interface-perl)
+perl-IO-Interface

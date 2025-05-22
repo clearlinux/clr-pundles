@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-IP-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-IP-license)
+include(perl-bin)
+perl-Net-IP-bin

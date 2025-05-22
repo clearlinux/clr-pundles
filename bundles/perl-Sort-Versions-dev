@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sort-Versions-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sort-Versions)
+perl-Sort-Versions-dev

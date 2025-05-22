@@ -1,0 +1,9 @@
+# [TITLE]: perl-List-SomeUtils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-List-SomeUtils-license)
+include(perl-List-SomeUtils-perl)
+perl-List-SomeUtils

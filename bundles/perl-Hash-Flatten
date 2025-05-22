@@ -1,0 +1,9 @@
+# [TITLE]: perl-Hash-Flatten
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Hash-Flatten-license)
+include(perl-Hash-Flatten-perl)
+perl-Hash-Flatten

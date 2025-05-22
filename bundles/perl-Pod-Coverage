@@ -1,0 +1,10 @@
+# [TITLE]: perl-Pod-Coverage
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Coverage-bin)
+include(perl-Pod-Coverage-perl)
+include(perl-Pod-Parser-perl)
+perl-Pod-Coverage

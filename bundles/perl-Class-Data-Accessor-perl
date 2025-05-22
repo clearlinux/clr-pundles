@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Data-Accessor-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Data-Accessor)
+perl-Class-Data-Accessor-perl

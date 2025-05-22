@@ -1,0 +1,9 @@
+# [TITLE]: perl-AnyEvent-CacheDNS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-AnyEvent-CacheDNS-license)
+include(perl-AnyEvent-CacheDNS-perl)
+perl-AnyEvent-CacheDNS

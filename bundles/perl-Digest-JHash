@@ -1,0 +1,9 @@
+# [TITLE]: perl-Digest-JHash
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Digest-JHash-license)
+include(perl-Digest-JHash-perl)
+perl-Digest-JHash

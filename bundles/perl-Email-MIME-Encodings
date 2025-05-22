@@ -1,0 +1,9 @@
+# [TITLE]: perl-Email-MIME-Encodings
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Email-MIME-Encodings-license)
+include(perl-Email-MIME-Encodings-perl)
+perl-Email-MIME-Encodings

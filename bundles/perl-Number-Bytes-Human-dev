@@ -1,0 +1,8 @@
+# [TITLE]: perl-Number-Bytes-Human-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Number-Bytes-Human)
+perl-Number-Bytes-Human-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-File-ShareDir-Dist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-File-ShareDir-Dist-license)
+include(perl-Test-File-ShareDir-Dist-perl)
+perl-Test-File-ShareDir-Dist

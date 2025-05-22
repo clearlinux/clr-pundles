@@ -1,0 +1,8 @@
+# [TITLE]: perl-DynaLoader-Functions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DynaLoader-Functions-perl)
+perl-DynaLoader-Functions

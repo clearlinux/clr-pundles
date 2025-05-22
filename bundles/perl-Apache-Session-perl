@@ -1,0 +1,8 @@
+# [TITLE]: perl-Apache-Session-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Apache-Session)
+perl-Apache-Session-perl

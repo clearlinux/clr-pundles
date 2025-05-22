@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-LibXML-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-LibXML)
+perl-XML-LibXML-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-CheckBin-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-CheckBin)
+perl-Devel-CheckBin-perl

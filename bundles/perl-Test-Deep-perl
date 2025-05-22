@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Deep-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Deep)
+perl-Test-Deep-perl

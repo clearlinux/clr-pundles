@@ -1,0 +1,9 @@
+# [TITLE]: perl-CBOR-XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-CBOR-XS)
+perl-CBOR-XS-perl

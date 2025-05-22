@@ -1,0 +1,8 @@
+# [TITLE]: perl-MooX-Role-Parameterized-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MooX-Role-Parameterized)
+perl-MooX-Role-Parameterized-dev

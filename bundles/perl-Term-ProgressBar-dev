@@ -1,0 +1,8 @@
+# [TITLE]: perl-Term-ProgressBar-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-ProgressBar)
+perl-Term-ProgressBar-dev

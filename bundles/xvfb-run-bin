@@ -1,0 +1,9 @@
+# [TITLE]: xvfb-run-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(xvfb-run-license)
+xvfb-run-bin

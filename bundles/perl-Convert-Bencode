@@ -1,0 +1,9 @@
+# [TITLE]: perl-Convert-Bencode
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Convert-Bencode-license)
+include(perl-Convert-Bencode-perl)
+perl-Convert-Bencode

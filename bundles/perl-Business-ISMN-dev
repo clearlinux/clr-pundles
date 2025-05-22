@@ -1,0 +1,8 @@
+# [TITLE]: perl-Business-ISMN-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Business-ISMN)
+perl-Business-ISMN-dev

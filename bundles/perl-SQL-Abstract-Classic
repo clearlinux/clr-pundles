@@ -1,0 +1,8 @@
+# [TITLE]: perl-SQL-Abstract-Classic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-SQL-Abstract-Classic-perl)
+perl-SQL-Abstract-Classic

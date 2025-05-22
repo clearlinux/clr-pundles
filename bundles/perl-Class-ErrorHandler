@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-ErrorHandler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-ErrorHandler-license)
+include(perl-Class-ErrorHandler-perl)
+perl-Class-ErrorHandler

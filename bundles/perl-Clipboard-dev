@@ -1,0 +1,9 @@
+# [TITLE]: perl-Clipboard-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Clipboard)
+include(perl-Clipboard-bin)
+perl-Clipboard-dev

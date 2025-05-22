@@ -1,0 +1,11 @@
+# [TITLE]: bubblewrap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bubblewrap-bin)
+include(bubblewrap-data)
+include(bubblewrap-license)
+include(bubblewrap-man)
+bubblewrap

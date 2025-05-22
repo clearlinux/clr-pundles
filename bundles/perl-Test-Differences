@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Differences
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Differences-perl)
+perl-Test-Differences

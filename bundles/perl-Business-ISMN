@@ -1,0 +1,9 @@
+# [TITLE]: perl-Business-ISMN
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Business-ISMN-license)
+include(perl-Business-ISMN-perl)
+perl-Business-ISMN

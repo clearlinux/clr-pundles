@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-NoWarnings-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-NoWarnings)
+perl-Test-NoWarnings-dev

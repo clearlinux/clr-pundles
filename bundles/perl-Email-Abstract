@@ -1,0 +1,9 @@
+# [TITLE]: perl-Email-Abstract
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Email-Abstract-license)
+include(perl-Email-Abstract-perl)
+perl-Email-Abstract

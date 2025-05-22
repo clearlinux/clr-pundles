@@ -1,0 +1,8 @@
+# [TITLE]: perl-Tie-IxHash-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Tie-IxHash)
+perl-Tie-IxHash-perl

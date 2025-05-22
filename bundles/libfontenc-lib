@@ -1,0 +1,10 @@
+# [TITLE]: libfontenc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libfontenc-license)
+include(zlib-lib)
+libfontenc-lib

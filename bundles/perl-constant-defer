@@ -1,0 +1,9 @@
+# [TITLE]: perl-constant-defer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-constant-defer-license)
+include(perl-constant-defer-perl)
+perl-constant-defer

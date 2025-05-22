@@ -1,0 +1,8 @@
+# [TITLE]: perl-GD-Barcode-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-GD-Barcode)
+perl-GD-Barcode-dev

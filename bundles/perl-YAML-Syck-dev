@@ -1,0 +1,8 @@
+# [TITLE]: perl-YAML-Syck-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-YAML-Syck)
+perl-YAML-Syck-dev

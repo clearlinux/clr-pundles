@@ -1,0 +1,8 @@
+# [TITLE]: perl-Guard-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Guard)
+perl-Guard-dev

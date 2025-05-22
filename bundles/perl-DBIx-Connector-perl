@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBIx-Connector-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Connector)
+perl-DBIx-Connector-perl

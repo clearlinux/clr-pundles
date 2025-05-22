@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-LeakTrace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-LeakTrace-license)
+include(perl-Test-LeakTrace-perl)
+perl-Test-LeakTrace

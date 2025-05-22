@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-StackTrace-Extract
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-StackTrace-Extract-license)
+include(perl-Devel-StackTrace-Extract-perl)
+perl-Devel-StackTrace-Extract

@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-Handler-Trees-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Handler-Trees)
+perl-XML-Handler-Trees-dev

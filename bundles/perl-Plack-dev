@@ -1,0 +1,9 @@
+# [TITLE]: perl-Plack-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Plack)
+include(perl-Plack-bin)
+perl-Plack-dev

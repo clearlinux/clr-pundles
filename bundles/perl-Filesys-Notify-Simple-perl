@@ -1,0 +1,8 @@
+# [TITLE]: perl-Filesys-Notify-Simple-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Filesys-Notify-Simple)
+perl-Filesys-Notify-Simple-perl

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Ref-Util-XS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Ref-Util-XS)
+perl-Ref-Util-XS-perl

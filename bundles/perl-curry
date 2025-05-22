@@ -1,0 +1,9 @@
+# [TITLE]: perl-curry
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-curry-license)
+include(perl-curry-perl)
+perl-curry

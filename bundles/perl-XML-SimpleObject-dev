@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-SimpleObject-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-SimpleObject)
+perl-XML-SimpleObject-dev

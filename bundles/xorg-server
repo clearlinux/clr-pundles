@@ -1,0 +1,20 @@
+# [TITLE]: xorg-server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-input-libinput)
+include(xf86-video-amdgpu)
+include(xf86-video-ati)
+include(xf86-video-fbdev)
+include(xf86-video-nouveau)
+include(xf86-video-vesa)
+include(xorg-server-bin)
+include(xorg-server-data)
+include(xorg-server-lib)
+include(xorg-server-license)
+include(xorg-server-man)
+include(xorg-server-setuid)
+include(xwayland)
+xorg-server

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Term-UI-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-UI)
+perl-Term-UI-dev

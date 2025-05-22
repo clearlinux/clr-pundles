@@ -1,0 +1,12 @@
+# [TITLE]: perl-Redis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Socket-SSL-perl)
+include(perl-IO-Socket-Timeout-perl)
+include(perl-Redis-license)
+include(perl-Redis-perl)
+include(perl-Try-Tiny-perl)
+perl-Redis

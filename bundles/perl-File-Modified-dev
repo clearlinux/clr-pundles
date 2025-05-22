@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-Modified-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Modified)
+perl-File-Modified-dev

@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-apr-util-dev
+include(apr-util-dev)

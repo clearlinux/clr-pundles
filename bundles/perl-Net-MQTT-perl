@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-MQTT-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-MQTT)
+perl-Net-MQTT-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Identity
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Identity-license)
+include(perl-Test-Identity-perl)
+perl-Test-Identity

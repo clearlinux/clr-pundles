@@ -1,0 +1,8 @@
+# [TITLE]: perl-CBOR-XS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CBOR-XS)
+perl-CBOR-XS-dev

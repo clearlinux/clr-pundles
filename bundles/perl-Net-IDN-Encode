@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-IDN-Encode
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-IDN-Encode-license)
+include(perl-Net-IDN-Encode-perl)
+perl-Net-IDN-Encode

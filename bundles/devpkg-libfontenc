@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libfontenc-dev
+include(libfontenc-dev)

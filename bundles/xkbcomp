@@ -1,0 +1,10 @@
+# [TITLE]: xkbcomp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xkbcomp-bin)
+include(xkbcomp-license)
+include(xkbcomp-man)
+xkbcomp

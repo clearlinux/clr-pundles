@@ -1,0 +1,9 @@
+# [TITLE]: perl-MooseX-Types-JSON
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MooseX-Types-JSON-license)
+include(perl-MooseX-Types-JSON-perl)
+perl-MooseX-Types-JSON

@@ -1,0 +1,13 @@
+# [TITLE]: perl-App-MigrateModules
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-MigrateModules-bin)
+include(perl-App-MigrateModules-license)
+include(perl-App-MigrateModules-man)
+include(perl-App-MigrateModules-perl)
+include(perl-Getopt-Long-Modern-perl)
+include(perl-HTTP-Tinyish-perl)
+perl-App-MigrateModules

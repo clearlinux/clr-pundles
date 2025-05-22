@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTTP-MultiPartParser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-MultiPartParser-license)
+include(perl-HTTP-MultiPartParser-perl)
+perl-HTTP-MultiPartParser

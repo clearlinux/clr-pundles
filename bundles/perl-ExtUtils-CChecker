@@ -1,0 +1,9 @@
+# [TITLE]: perl-ExtUtils-CChecker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-ExtUtils-CChecker-license)
+include(perl-ExtUtils-CChecker-perl)
+perl-ExtUtils-CChecker

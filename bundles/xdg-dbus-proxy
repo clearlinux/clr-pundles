@@ -1,0 +1,10 @@
+# [TITLE]: xdg-dbus-proxy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xdg-dbus-proxy-bin)
+include(xdg-dbus-proxy-license)
+include(xdg-dbus-proxy-man)
+xdg-dbus-proxy

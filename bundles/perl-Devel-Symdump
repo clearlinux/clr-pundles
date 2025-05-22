@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-Symdump
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Symdump-perl)
+perl-Devel-Symdump

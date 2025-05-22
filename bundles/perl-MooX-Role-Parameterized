@@ -1,0 +1,9 @@
+# [TITLE]: perl-MooX-Role-Parameterized
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MooX-Role-Parameterized-license)
+include(perl-MooX-Role-Parameterized-perl)
+perl-MooX-Role-Parameterized

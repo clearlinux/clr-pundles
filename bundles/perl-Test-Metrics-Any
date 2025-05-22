@@ -1,0 +1,10 @@
+# [TITLE]: perl-Test-Metrics-Any
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Metrics-Any-perl)
+include(perl-Test-Metrics-Any-license)
+include(perl-Test-Metrics-Any-perl)
+perl-Test-Metrics-Any

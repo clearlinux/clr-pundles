@@ -1,0 +1,8 @@
+# [TITLE]: perl-Moo-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Moo)
+perl-Moo-perl

@@ -7,6 +7,6 @@
 
 include(compat-fuse-soname2)
 compat-readline-soname5
-libbsd-lib
+include(libbsd-lib)
 libudev0-shim
 include(ncurses-lib)

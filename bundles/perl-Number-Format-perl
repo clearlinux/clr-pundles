@@ -1,0 +1,8 @@
+# [TITLE]: perl-Number-Format-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Number-Format)
+perl-Number-Format-perl

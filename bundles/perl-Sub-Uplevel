@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sub-Uplevel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Uplevel-license)
+include(perl-Sub-Uplevel-perl)
+perl-Sub-Uplevel

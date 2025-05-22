@@ -16,7 +16,7 @@ cmocka
 include(devpkg-cmocka)
 glog
 include(googletest)
-perl-TAP-Harness-Archive
+include(perl-TAP-Harness-Archive)
 include(pypi-pytest_cov)
 include(pypi-pytest_forked)
 include(pypi-pytest_randomly)

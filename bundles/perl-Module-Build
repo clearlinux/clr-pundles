@@ -1,0 +1,11 @@
+# [TITLE]: perl-Module-Build
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Build-bin)
+include(perl-Module-Build-license)
+include(perl-Module-Build-man)
+include(perl-Module-Build-perl)
+perl-Module-Build

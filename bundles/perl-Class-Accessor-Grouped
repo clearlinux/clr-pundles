@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Accessor-Grouped
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Accessor-Grouped-perl)
+perl-Class-Accessor-Grouped

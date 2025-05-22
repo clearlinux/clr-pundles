@@ -1,0 +1,9 @@
+# [TITLE]: perl-Module-Versions-Report
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Versions-Report-license)
+include(perl-Module-Versions-Report-perl)
+perl-Module-Versions-Report

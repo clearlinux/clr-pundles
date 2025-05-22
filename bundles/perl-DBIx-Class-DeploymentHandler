@@ -1,0 +1,10 @@
+# [TITLE]: perl-DBIx-Class-DeploymentHandler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Class-DeploymentHandler-license)
+include(perl-DBIx-Class-DeploymentHandler-perl)
+include(perl-SQL-SplitStatement)
+perl-DBIx-Class-DeploymentHandler

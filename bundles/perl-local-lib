@@ -1,0 +1,9 @@
+# [TITLE]: perl-local-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-local-lib-license)
+include(perl-local-lib-perl)
+perl-local-lib

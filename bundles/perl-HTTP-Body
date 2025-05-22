@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTTP-Body
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Body-license)
+include(perl-HTTP-Body-perl)
+perl-HTTP-Body

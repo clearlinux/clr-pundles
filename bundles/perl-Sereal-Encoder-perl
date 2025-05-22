@@ -1,0 +1,10 @@
+# [TITLE]: perl-Sereal-Encoder-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Sereal-Encoder)
+include(zstd-lib)
+perl-Sereal-Encoder-perl

@@ -1,0 +1,8 @@
+# [TITLE]: perl-IPC-Run3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IPC-Run3)
+perl-IPC-Run3-dev

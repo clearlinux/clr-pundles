@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-OverloadInfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-OverloadInfo-license)
+include(perl-Devel-OverloadInfo-perl)
+perl-Devel-OverloadInfo

@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTTP-Parser-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Parser-XS-license)
+include(perl-HTTP-Parser-XS-perl)
+perl-HTTP-Parser-XS

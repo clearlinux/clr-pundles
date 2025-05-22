@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Async-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Async)
+perl-IO-Async-perl

@@ -1,0 +1,8 @@
+# [TITLE]: perl-MLDBM-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MLDBM)
+perl-MLDBM-dev

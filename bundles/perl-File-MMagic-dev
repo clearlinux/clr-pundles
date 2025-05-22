@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-MMagic-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-MMagic)
+perl-File-MMagic-dev

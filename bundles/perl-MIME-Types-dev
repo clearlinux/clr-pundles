@@ -1,0 +1,8 @@
+# [TITLE]: perl-MIME-Types-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MIME-Types)
+perl-MIME-Types-dev

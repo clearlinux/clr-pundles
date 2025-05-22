@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-All
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-All-license)
+include(perl-IO-All-perl)
+perl-IO-All

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Protocol-OSC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Protocol-OSC-license)
+include(perl-Protocol-OSC-perl)
+perl-Protocol-OSC

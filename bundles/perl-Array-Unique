@@ -1,0 +1,8 @@
+# [TITLE]: perl-Array-Unique
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Array-Unique-perl)
+perl-Array-Unique

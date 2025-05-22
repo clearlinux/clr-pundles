@@ -1,0 +1,9 @@
+# [TITLE]: perl-Module-Util-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Util)
+include(perl-Module-Util-bin)
+perl-Module-Util-dev

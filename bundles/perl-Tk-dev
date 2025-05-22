@@ -1,0 +1,9 @@
+# [TITLE]: perl-Tk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Tk)
+include(perl-Tk-bin)
+perl-Tk-dev

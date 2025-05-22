@@ -1,0 +1,9 @@
+# [TITLE]: perl-Regexp-Common
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Regexp-Common-license)
+include(perl-Regexp-Common-perl)
+perl-Regexp-Common

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-CSV-Encoded
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-CSV-Encoded-license)
+include(perl-Text-CSV-Encoded-perl)
+perl-Text-CSV-Encoded

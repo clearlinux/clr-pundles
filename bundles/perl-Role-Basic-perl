@@ -1,0 +1,8 @@
+# [TITLE]: perl-Role-Basic-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Role-Basic)
+perl-Role-Basic-perl

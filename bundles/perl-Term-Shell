@@ -1,0 +1,9 @@
+# [TITLE]: perl-Term-Shell
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-Shell-license)
+include(perl-Term-Shell-perl)
+perl-Term-Shell

@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTTP-Entity-Parser-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Entity-Parser)
+perl-HTTP-Entity-Parser-perl

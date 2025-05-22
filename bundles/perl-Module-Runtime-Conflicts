@@ -1,0 +1,9 @@
+# [TITLE]: perl-Module-Runtime-Conflicts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-Runtime-Conflicts-license)
+include(perl-Module-Runtime-Conflicts-perl)
+perl-Module-Runtime-Conflicts

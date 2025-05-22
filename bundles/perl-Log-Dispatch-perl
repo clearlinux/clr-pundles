@@ -1,0 +1,8 @@
+# [TITLE]: perl-Log-Dispatch-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Dispatch)
+perl-Log-Dispatch-perl

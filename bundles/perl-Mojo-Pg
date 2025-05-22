@@ -1,0 +1,10 @@
+# [TITLE]: perl-Mojo-Pg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mojo-Pg-license)
+include(perl-Mojo-Pg-perl)
+include(perl-SQL-Abstract-Pg-perl)
+perl-Mojo-Pg

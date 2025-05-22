@@ -1,0 +1,9 @@
+# [TITLE]: perl-Cookie-Baker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Cookie-Baker-license)
+include(perl-Cookie-Baker-perl)
+perl-Cookie-Baker

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Linux-Pid-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Linux-Pid)
+perl-Linux-Pid-perl

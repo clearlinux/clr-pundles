@@ -1,0 +1,9 @@
+# [TITLE]: perl-B-COW-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-B-COW)
+perl-B-COW-perl

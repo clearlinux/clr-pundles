@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-Feed-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Feed)
+perl-XML-Feed-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Base
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Base-license)
+include(perl-Test-Base-perl)
+perl-Test-Base

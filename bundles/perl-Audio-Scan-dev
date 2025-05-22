@@ -1,0 +1,8 @@
+# [TITLE]: perl-Audio-Scan-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Audio-Scan)
+perl-Audio-Scan-dev

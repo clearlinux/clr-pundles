@@ -1,0 +1,8 @@
+# [TITLE]: perl-Archive-Extract-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Archive-Extract)
+perl-Archive-Extract-perl

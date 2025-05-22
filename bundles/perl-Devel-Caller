@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-Caller
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Caller-perl)
+perl-Devel-Caller

@@ -1,0 +1,10 @@
+# [TITLE]: perl-IO-Socket-Timeout
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Socket-Timeout-license)
+include(perl-IO-Socket-Timeout-perl)
+include(perl-PerlIO-via-Timeout-perl)
+perl-IO-Socket-Timeout

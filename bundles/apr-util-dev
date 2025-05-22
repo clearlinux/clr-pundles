@@ -1,0 +1,12 @@
+# [TITLE]: apr-util-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-dev)
+include(apr-util)
+include(apr-util-bin)
+include(apr-util-lib)
+include(expat-dev)
+apr-util-dev

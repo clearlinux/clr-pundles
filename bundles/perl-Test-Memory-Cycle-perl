@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Memory-Cycle-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Memory-Cycle)
+perl-Test-Memory-Cycle-perl

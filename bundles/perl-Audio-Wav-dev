@@ -1,0 +1,8 @@
+# [TITLE]: perl-Audio-Wav-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Audio-Wav)
+perl-Audio-Wav-dev

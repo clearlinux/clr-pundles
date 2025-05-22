@@ -1,0 +1,9 @@
+# [TITLE]: perl-SMTP-Server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-SMTP-Server-license)
+include(perl-SMTP-Server-perl)
+perl-SMTP-Server

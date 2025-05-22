@@ -1,0 +1,8 @@
+# [TITLE]: perl-Email-Address-XS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Email-Address-XS)
+perl-Email-Address-XS-dev

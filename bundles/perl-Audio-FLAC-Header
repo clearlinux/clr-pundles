@@ -1,0 +1,8 @@
+# [TITLE]: perl-Audio-FLAC-Header
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Audio-FLAC-Header-perl)
+perl-Audio-FLAC-Header

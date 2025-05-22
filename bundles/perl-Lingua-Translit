@@ -1,0 +1,11 @@
+# [TITLE]: perl-Lingua-Translit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Lingua-Translit-bin)
+include(perl-Lingua-Translit-license)
+include(perl-Lingua-Translit-man)
+include(perl-Lingua-Translit-perl)
+perl-Lingua-Translit

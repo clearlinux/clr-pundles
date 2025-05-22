@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mock-Sub-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mock-Sub)
+perl-Mock-Sub-dev

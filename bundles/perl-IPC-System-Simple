@@ -1,0 +1,9 @@
+# [TITLE]: perl-IPC-System-Simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IPC-System-Simple-license)
+include(perl-IPC-System-Simple-perl)
+perl-IPC-System-Simple

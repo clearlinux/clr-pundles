@@ -1,0 +1,11 @@
+# [TITLE]: xkbcomp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(libxkbfile-lib)
+include(xkbcomp-license)
+xkbcomp-bin

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Readonly-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Readonly)
+perl-Readonly-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-UPnP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-UPnP-license)
+include(perl-Net-UPnP-perl)
+perl-Net-UPnP

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Image-Info-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Image-Info)
+perl-Image-Info-perl

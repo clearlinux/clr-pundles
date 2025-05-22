@@ -1,0 +1,10 @@
+# [TITLE]: perl-Sereal-Decoder-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Sereal-Decoder)
+include(zstd-lib)
+perl-Sereal-Decoder-perl

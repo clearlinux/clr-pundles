@@ -1,0 +1,8 @@
+# [TITLE]: perl-Scope-Guard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Scope-Guard-perl)
+perl-Scope-Guard

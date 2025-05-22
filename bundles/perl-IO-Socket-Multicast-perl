@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Socket-Multicast-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-IO-Socket-Multicast)
+perl-IO-Socket-Multicast-perl

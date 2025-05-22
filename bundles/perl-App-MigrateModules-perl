@@ -1,0 +1,8 @@
+# [TITLE]: perl-App-MigrateModules-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-MigrateModules)
+perl-App-MigrateModules-perl

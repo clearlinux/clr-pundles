@@ -1,0 +1,12 @@
+# [TITLE]: file-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(file)
+include(file-bin)
+include(file-data)
+include(file-lib)
+include(pkg-config-bin)
+file-dev

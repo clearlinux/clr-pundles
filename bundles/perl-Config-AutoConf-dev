@@ -1,0 +1,8 @@
+# [TITLE]: perl-Config-AutoConf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-AutoConf)
+perl-Config-AutoConf-dev

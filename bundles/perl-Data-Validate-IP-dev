@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Validate-IP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Validate-IP)
+perl-Data-Validate-IP-dev

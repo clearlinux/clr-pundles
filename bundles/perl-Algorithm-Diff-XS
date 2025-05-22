@@ -1,0 +1,9 @@
+# [TITLE]: perl-Algorithm-Diff-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Algorithm-Diff-XS-license)
+include(perl-Algorithm-Diff-XS-perl)
+perl-Algorithm-Diff-XS

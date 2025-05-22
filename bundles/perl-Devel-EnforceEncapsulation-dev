@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-EnforceEncapsulation-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-EnforceEncapsulation)
+perl-Devel-EnforceEncapsulation-dev

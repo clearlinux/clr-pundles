@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-WrapI18N-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-WrapI18N)
+perl-Text-WrapI18N-perl

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Inline-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Inline)
+perl-Inline-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-Format-MySQL
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-MySQL-license)
+include(perl-DateTime-Format-MySQL-perl)
+perl-DateTime-Format-MySQL

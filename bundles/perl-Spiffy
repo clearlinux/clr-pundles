@@ -1,0 +1,9 @@
+# [TITLE]: perl-Spiffy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Spiffy-license)
+include(perl-Spiffy-perl)
+perl-Spiffy

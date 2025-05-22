@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-LexAlias-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Devel-LexAlias)
+perl-Devel-LexAlias-perl

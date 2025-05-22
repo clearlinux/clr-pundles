@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-NCopy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-NCopy-license)
+include(perl-File-NCopy-perl)
+perl-File-NCopy

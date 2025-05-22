@@ -1,0 +1,8 @@
+# [TITLE]: perl-Pod-Parser-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Parser)
+perl-Pod-Parser-perl

@@ -1,0 +1,19 @@
+# [TITLE]: libgd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-dev)
+include(freetype-dev)
+include(libXpm-dev)
+include(libavif-dev)
+include(libgd)
+include(libgd-bin)
+include(libgd-lib)
+include(libjpeg-turbo-dev)
+include(libpng-dev)
+include(libwebp-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+libgd-dev

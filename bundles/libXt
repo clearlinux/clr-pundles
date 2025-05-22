@@ -1,0 +1,9 @@
+# [TITLE]: libXt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libXt-lib)
+include(libXt-license)
+libXt

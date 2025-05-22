@@ -1,0 +1,9 @@
+# [TITLE]: perl-Glib-Object-Introspection-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Glib-Object-Introspection-license)
+include(perl-bin)
+perl-Glib-Object-Introspection-bin

@@ -1,0 +1,11 @@
+# [TITLE]: xf86-input-libinput
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-input-libinput-data)
+include(xf86-input-libinput-lib)
+include(xf86-input-libinput-license)
+include(xf86-input-libinput-man)
+xf86-input-libinput

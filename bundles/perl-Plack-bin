@@ -1,0 +1,9 @@
+# [TITLE]: perl-Plack-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Plack-license)
+include(perl-bin)
+perl-Plack-bin

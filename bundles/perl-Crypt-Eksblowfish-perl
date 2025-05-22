@@ -1,0 +1,9 @@
+# [TITLE]: perl-Crypt-Eksblowfish-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Crypt-Eksblowfish)
+perl-Crypt-Eksblowfish-perl

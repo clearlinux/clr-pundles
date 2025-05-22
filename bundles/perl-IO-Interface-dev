@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Interface-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Interface)
+perl-IO-Interface-dev

@@ -1,0 +1,10 @@
+# [TITLE]: libfontenc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfontenc)
+include(libfontenc-lib)
+include(pkg-config-bin)
+libfontenc-dev

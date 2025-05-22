@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTML-StripScripts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTML-StripScripts-license)
+include(perl-HTML-StripScripts-perl)
+perl-HTML-StripScripts

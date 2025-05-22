@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-Format-Strptime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-Strptime-license)
+include(perl-DateTime-Format-Strptime-perl)
+perl-DateTime-Format-Strptime

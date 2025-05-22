@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-CRC32-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-String-CRC32)
+perl-String-CRC32-perl

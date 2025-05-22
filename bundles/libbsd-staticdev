@@ -1,0 +1,8 @@
+# [TITLE]: libbsd-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbsd-dev)
+libbsd-staticdev

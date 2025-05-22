@@ -1,0 +1,9 @@
+# [TITLE]: perl-MCE
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MCE-license)
+include(perl-MCE-perl)
+perl-MCE

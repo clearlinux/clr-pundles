@@ -1,0 +1,9 @@
+# [TITLE]: perl-Git-Version-Compare
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Git-Version-Compare-license)
+include(perl-Git-Version-Compare-perl)
+perl-Git-Version-Compare

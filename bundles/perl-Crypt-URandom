@@ -1,0 +1,9 @@
+# [TITLE]: perl-Crypt-URandom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Crypt-URandom-license)
+include(perl-Crypt-URandom-perl)
+perl-Crypt-URandom

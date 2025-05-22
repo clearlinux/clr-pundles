@@ -1,0 +1,8 @@
+# [TITLE]: perl-Math-Polygon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Polygon)
+perl-Math-Polygon-dev

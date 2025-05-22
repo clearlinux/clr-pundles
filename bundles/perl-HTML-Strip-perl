@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTML-Strip-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-HTML-Strip)
+perl-HTML-Strip-perl

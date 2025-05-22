@@ -13,7 +13,7 @@ evtest
 numlockx
 setxkbmap
 also-add(x11vnc)
-xauth
+include(xauth)
 xclip
 xdotool
 xdpyinfo
@@ -21,8 +21,8 @@ xfontsel
 xhost
 xinput
 xinput
-xkbcomp
-xkbcomp
+include(xkbcomp)
+include(xkbcomp)
 include(xkeyboard-config)
 xkill
 xmodmap

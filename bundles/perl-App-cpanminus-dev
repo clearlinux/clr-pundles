@@ -1,0 +1,9 @@
+# [TITLE]: perl-App-cpanminus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-cpanminus)
+include(perl-App-cpanminus-bin)
+perl-App-cpanminus-dev

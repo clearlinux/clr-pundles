@@ -1,0 +1,8 @@
+# [TITLE]: perl-PDF-Writer-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PDF-Writer)
+perl-PDF-Writer-dev

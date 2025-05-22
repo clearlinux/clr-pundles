@@ -1,0 +1,8 @@
+# [TITLE]: perl-B-Debug-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Debug)
+perl-B-Debug-dev

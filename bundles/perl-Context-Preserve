@@ -1,0 +1,9 @@
+# [TITLE]: perl-Context-Preserve
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Context-Preserve-license)
+include(perl-Context-Preserve-perl)
+perl-Context-Preserve

@@ -1,0 +1,8 @@
+# [TITLE]: perl-PDF-API2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PDF-API2)
+perl-PDF-API2-dev

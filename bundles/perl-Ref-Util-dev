@@ -1,0 +1,8 @@
+# [TITLE]: perl-Ref-Util-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Ref-Util)
+perl-Ref-Util-dev

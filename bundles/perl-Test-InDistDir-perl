@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-InDistDir-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-InDistDir)
+perl-Test-InDistDir-perl

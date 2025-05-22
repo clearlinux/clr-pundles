@@ -1,0 +1,11 @@
+# [TITLE]: perl-App-perlbrew
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-App-perlbrew-bin)
+include(perl-App-perlbrew-license)
+include(perl-App-perlbrew-man)
+include(perl-App-perlbrew-perl)
+perl-App-perlbrew

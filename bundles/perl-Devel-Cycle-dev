@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-Cycle-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Cycle)
+perl-Devel-Cycle-dev

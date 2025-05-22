@@ -1,0 +1,10 @@
+# [TITLE]: perl-DB_File-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(db)
+include(libc6)
+include(perl-DB_File)
+perl-DB_File-perl

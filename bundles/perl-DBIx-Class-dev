@@ -1,0 +1,9 @@
+# [TITLE]: perl-DBIx-Class-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBIx-Class)
+include(perl-DBIx-Class-bin)
+perl-DBIx-Class-dev

@@ -1,0 +1,10 @@
+# [TITLE]: perl-Mojo-RabbitMQ-Client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mojo-RabbitMQ-Client-license)
+include(perl-Mojo-RabbitMQ-Client-perl)
+include(perl-Net-AMQP-perl)
+perl-Mojo-RabbitMQ-Client

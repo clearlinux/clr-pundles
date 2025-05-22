@@ -1,0 +1,9 @@
+# [TITLE]: perl-Moo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Moo-license)
+include(perl-Moo-perl)
+perl-Moo

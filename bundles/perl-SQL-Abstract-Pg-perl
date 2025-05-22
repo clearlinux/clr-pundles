@@ -1,0 +1,8 @@
+# [TITLE]: perl-SQL-Abstract-Pg-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-SQL-Abstract-Pg)
+perl-SQL-Abstract-Pg-perl

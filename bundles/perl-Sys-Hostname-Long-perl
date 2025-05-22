@@ -1,0 +1,9 @@
+# [TITLE]: perl-Sys-Hostname-Long-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sys-Hostname-Long)
+include(perl-bin)
+perl-Sys-Hostname-Long-perl

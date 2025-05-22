@@ -1,0 +1,8 @@
+# [TITLE]: perl-Digest-CRC-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Digest-CRC)
+perl-Digest-CRC-dev

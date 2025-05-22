@@ -1,0 +1,8 @@
+# [TITLE]: perl-PostScript-File-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PostScript-File)
+perl-PostScript-File-dev

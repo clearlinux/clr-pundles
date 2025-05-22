@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-XPathEngine
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-XPathEngine-license)
+include(perl-XML-XPathEngine-perl)
+perl-XML-XPathEngine

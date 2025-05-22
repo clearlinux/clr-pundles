@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-stringy-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-stringy)
+perl-IO-stringy-dev

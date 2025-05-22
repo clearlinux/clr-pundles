@@ -1,0 +1,11 @@
+# [TITLE]: perl-Pod-Markdown
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Markdown-bin)
+include(perl-Pod-Markdown-license)
+include(perl-Pod-Markdown-man)
+include(perl-Pod-Markdown-perl)
+perl-Pod-Markdown

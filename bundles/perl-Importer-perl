@@ -1,0 +1,8 @@
+# [TITLE]: perl-Importer-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Importer)
+perl-Importer-perl

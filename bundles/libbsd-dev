@@ -1,0 +1,11 @@
+# [TITLE]: libbsd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbsd)
+include(libbsd-dev)
+include(libbsd-lib)
+include(pkg-config-bin)
+libbsd-dev

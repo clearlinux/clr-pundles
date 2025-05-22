@@ -1,0 +1,8 @@
+# [TITLE]: perl-curry-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-curry)
+perl-curry-perl

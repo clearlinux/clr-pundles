@@ -1,0 +1,8 @@
+# [TITLE]: perl-Image-Base-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Image-Base)
+perl-Image-Base-dev

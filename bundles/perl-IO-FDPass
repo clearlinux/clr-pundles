@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-FDPass
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-FDPass-license)
+include(perl-IO-FDPass-perl)
+perl-IO-FDPass

@@ -1,0 +1,9 @@
+# [TITLE]: perl-HTTP-Tinyish
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Tinyish-license)
+include(perl-HTTP-Tinyish-perl)
+perl-HTTP-Tinyish

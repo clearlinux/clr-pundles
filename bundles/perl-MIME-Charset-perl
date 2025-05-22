@@ -1,0 +1,8 @@
+# [TITLE]: perl-MIME-Charset-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MIME-Charset)
+perl-MIME-Charset-perl

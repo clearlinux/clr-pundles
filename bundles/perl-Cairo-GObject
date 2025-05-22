@@ -1,0 +1,9 @@
+# [TITLE]: perl-Cairo-GObject
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Cairo-GObject-license)
+include(perl-Cairo-GObject-perl)
+perl-Cairo-GObject

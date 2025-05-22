@@ -1,0 +1,8 @@
+# [TITLE]: libssh2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libssh2-lib)
+libssh2

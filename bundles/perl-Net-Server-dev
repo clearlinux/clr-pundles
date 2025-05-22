@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-Server-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-Server)
+include(perl-Net-Server-bin)
+perl-Net-Server-dev

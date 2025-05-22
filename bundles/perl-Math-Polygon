@@ -1,0 +1,9 @@
+# [TITLE]: perl-Math-Polygon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Polygon-license)
+include(perl-Math-Polygon-perl)
+perl-Math-Polygon

@@ -1,0 +1,8 @@
+# [TITLE]: perl-BDB-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-BDB)
+perl-BDB-dev

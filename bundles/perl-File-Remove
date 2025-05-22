@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Remove
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Remove-license)
+include(perl-File-Remove-perl)
+perl-File-Remove

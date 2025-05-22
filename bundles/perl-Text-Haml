@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Haml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Haml-license)
+include(perl-Text-Haml-perl)
+perl-Text-Haml

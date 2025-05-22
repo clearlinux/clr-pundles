@@ -1,0 +1,9 @@
+# [TITLE]: perl-Audio-Scan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Audio-Scan-license)
+include(perl-Audio-Scan-perl)
+perl-Audio-Scan

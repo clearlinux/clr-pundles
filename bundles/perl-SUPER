@@ -1,0 +1,9 @@
+# [TITLE]: perl-SUPER
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-SUPER-license)
+include(perl-SUPER-perl)
+perl-SUPER

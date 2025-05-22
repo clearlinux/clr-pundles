@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Socket-INET6
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Socket-INET6-license)
+include(perl-IO-Socket-INET6-perl)
+perl-IO-Socket-INET6

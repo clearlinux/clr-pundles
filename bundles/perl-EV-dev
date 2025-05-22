@@ -1,0 +1,8 @@
+# [TITLE]: perl-EV-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-EV)
+perl-EV-dev

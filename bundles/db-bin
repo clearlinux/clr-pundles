@@ -1,0 +1,9 @@
+# [TITLE]: db-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(db)
+include(libc6)
+db-bin

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-CharWidth-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Text-CharWidth)
+perl-Text-CharWidth-perl

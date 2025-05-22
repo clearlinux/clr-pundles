@@ -1,0 +1,9 @@
+# [TITLE]: perl-Locale-gettext-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Locale-gettext)
+perl-Locale-gettext-perl

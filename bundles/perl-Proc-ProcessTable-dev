@@ -1,0 +1,8 @@
+# [TITLE]: perl-Proc-ProcessTable-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Proc-ProcessTable)
+perl-Proc-ProcessTable-dev

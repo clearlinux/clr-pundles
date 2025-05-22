@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-NeedsDisplay-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-NeedsDisplay)
+perl-Test-NeedsDisplay-dev

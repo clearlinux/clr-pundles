@@ -1,0 +1,9 @@
+# [TITLE]: perl-Ref-Util-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Ref-Util-XS-license)
+include(perl-Ref-Util-XS-perl)
+perl-Ref-Util-XS

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Archive-Tar-Wrapper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Archive-Tar-Wrapper-license)
+include(perl-Archive-Tar-Wrapper-perl)
+perl-Archive-Tar-Wrapper

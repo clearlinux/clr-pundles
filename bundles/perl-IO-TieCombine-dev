@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-TieCombine-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-TieCombine)
+perl-IO-TieCombine-dev

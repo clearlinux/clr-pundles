@@ -1,0 +1,11 @@
+# [TITLE]: perl-Pegex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pegex-license)
+include(perl-Pegex-perl)
+include(perl-YAML-PP-perl)
+include(perl-perl)
+perl-Pegex

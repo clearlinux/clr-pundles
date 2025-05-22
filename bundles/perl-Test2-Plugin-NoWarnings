@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test2-Plugin-NoWarnings
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test2-Plugin-NoWarnings-license)
+include(perl-Test2-Plugin-NoWarnings-perl)
+perl-Test2-Plugin-NoWarnings

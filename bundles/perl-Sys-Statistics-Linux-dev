@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sys-Statistics-Linux-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sys-Statistics-Linux)
+perl-Sys-Statistics-Linux-dev

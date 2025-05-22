@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Accessor-Lite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Accessor-Lite-perl)
+perl-Class-Accessor-Lite

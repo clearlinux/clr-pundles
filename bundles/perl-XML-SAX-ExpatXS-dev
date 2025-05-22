@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-SAX-ExpatXS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-SAX-ExpatXS)
+perl-XML-SAX-ExpatXS-dev

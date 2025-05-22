@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-Factory-Util
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Factory-Util-license)
+include(perl-Class-Factory-Util-perl)
+perl-Class-Factory-Util

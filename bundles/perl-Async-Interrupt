@@ -1,0 +1,9 @@
+# [TITLE]: perl-Async-Interrupt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Async-Interrupt-license)
+include(perl-Async-Interrupt-perl)
+perl-Async-Interrupt

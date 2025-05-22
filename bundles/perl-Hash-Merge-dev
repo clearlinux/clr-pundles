@@ -1,0 +1,8 @@
+# [TITLE]: perl-Hash-Merge-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Hash-Merge)
+perl-Hash-Merge-dev

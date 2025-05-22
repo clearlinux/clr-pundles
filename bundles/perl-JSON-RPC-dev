@@ -1,0 +1,8 @@
+# [TITLE]: perl-JSON-RPC-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-JSON-RPC)
+perl-JSON-RPC-dev

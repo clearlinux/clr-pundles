@@ -1,0 +1,9 @@
+# [TITLE]: perl-Number-Compare
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Number-Compare-license)
+include(perl-Number-Compare-perl)
+perl-Number-Compare

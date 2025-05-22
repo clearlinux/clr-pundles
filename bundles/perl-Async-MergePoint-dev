@@ -1,0 +1,8 @@
+# [TITLE]: perl-Async-MergePoint-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Async-MergePoint)
+perl-Async-MergePoint-dev

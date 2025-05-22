@@ -1,0 +1,9 @@
+# [TITLE]: perl-Tk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Tk-license)
+include(perl-bin)
+perl-Tk-bin

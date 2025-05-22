@@ -1,0 +1,9 @@
+# [TITLE]: perl-Event
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Event-license)
+include(perl-Event-perl)
+perl-Event

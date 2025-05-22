@@ -1,0 +1,10 @@
+# [TITLE]: perl-DBD-MariaDB-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mariadb-extras-clientlib)
+include(perl-DBD-MariaDB)
+perl-DBD-MariaDB-perl

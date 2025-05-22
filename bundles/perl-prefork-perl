@@ -1,0 +1,8 @@
+# [TITLE]: perl-prefork-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-prefork)
+perl-prefork-perl

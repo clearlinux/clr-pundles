@@ -1,0 +1,8 @@
+# [TITLE]: perl-NetAddr-IP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-NetAddr-IP)
+perl-NetAddr-IP-dev

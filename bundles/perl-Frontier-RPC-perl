@@ -1,0 +1,8 @@
+# [TITLE]: perl-Frontier-RPC-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Frontier-RPC)
+perl-Frontier-RPC-perl

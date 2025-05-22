@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-FailWarnings
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-FailWarnings-license)
+include(perl-Test-FailWarnings-perl)
+perl-Test-FailWarnings

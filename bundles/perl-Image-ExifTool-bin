@@ -1,0 +1,8 @@
+# [TITLE]: perl-Image-ExifTool-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+perl-Image-ExifTool-bin

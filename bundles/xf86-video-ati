@@ -1,0 +1,11 @@
+# [TITLE]: xf86-video-ati
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-video-ati-data)
+include(xf86-video-ati-lib)
+include(xf86-video-ati-license)
+include(xf86-video-ati-man)
+xf86-video-ati

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Email-Date-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Email-Date)
+perl-Email-Date-perl

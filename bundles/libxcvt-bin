@@ -1,0 +1,10 @@
+# [TITLE]: libxcvt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libxcvt-lib)
+include(libxcvt-license)
+libxcvt-bin

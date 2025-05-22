@@ -1,0 +1,8 @@
+# [TITLE]: perl-Exporter-Lite-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Exporter-Lite)
+perl-Exporter-Lite-perl

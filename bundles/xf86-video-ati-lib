@@ -1,0 +1,14 @@
+# [TITLE]: xf86-video-ati-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdrm-lib)
+include(libpciaccess-lib)
+include(mesa-lib)
+include(systemd-lib)
+include(xf86-video-ati-data)
+include(xf86-video-ati-license)
+xf86-video-ati-lib

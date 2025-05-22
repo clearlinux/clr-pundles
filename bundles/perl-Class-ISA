@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-ISA
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-ISA-perl)
+perl-Class-ISA

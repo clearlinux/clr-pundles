@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-Method-Modifiers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Method-Modifiers-license)
+include(perl-Class-Method-Modifiers-perl)
+perl-Class-Method-Modifiers

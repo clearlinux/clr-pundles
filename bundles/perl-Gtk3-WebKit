@@ -1,0 +1,10 @@
+# [TITLE]: perl-Gtk3-WebKit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Gtk3-WebKit-license)
+include(perl-Gtk3-WebKit-perl)
+include(webkitgtk)
+perl-Gtk3-WebKit

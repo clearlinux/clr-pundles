@@ -1,0 +1,12 @@
+# [TITLE]: libssh2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libssh2)
+include(libssh2-lib)
+include(openssl-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+libssh2-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Systemd-Daemon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Systemd-Daemon)
+perl-Systemd-Daemon-dev

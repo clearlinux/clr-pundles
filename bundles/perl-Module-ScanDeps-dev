@@ -1,0 +1,9 @@
+# [TITLE]: perl-Module-ScanDeps-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-ScanDeps)
+include(perl-Module-ScanDeps-bin)
+perl-Module-ScanDeps-dev

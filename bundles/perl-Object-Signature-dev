@@ -1,0 +1,8 @@
+# [TITLE]: perl-Object-Signature-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Object-Signature)
+perl-Object-Signature-dev

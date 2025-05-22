@@ -1,0 +1,9 @@
+# [TITLE]: perl-BSD-Resource
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-BSD-Resource-license)
+include(perl-BSD-Resource-perl)
+perl-BSD-Resource

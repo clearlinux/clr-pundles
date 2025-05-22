@@ -1,0 +1,8 @@
+# [TITLE]: perl-Palm-PDB-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Palm-PDB)
+perl-Palm-PDB-dev

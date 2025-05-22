@@ -1,0 +1,8 @@
+# [TITLE]: perl-Log-Agent-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Log-Agent)
+perl-Log-Agent-dev

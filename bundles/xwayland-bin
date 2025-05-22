@@ -1,0 +1,22 @@
+# [TITLE]: xwayland-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXfont2-lib)
+include(libc6)
+include(libdrm-lib)
+include(libei-lib)
+include(libepoxy-lib)
+include(libglvnd-lib)
+include(libtirpc-lib)
+include(libxcvt-lib)
+include(mesa-lib)
+include(nettle-lib)
+include(pixman-lib)
+include(wayland-lib)
+include(xwayland-data)
+include(xwayland-license)
+xwayland-bin

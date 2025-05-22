@@ -1,0 +1,8 @@
+# [TITLE]: perl-MARC-Record-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MARC-Record)
+perl-MARC-Record-perl

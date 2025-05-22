@@ -1,0 +1,8 @@
+# [TITLE]: perl-PPI-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PPI)
+perl-PPI-perl

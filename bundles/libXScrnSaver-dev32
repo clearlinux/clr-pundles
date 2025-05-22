@@ -1,0 +1,11 @@
+# [TITLE]: libXScrnSaver-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXScrnSaver-dev)
+include(libXScrnSaver-lib32)
+include(xorgproto-dev)
+libXScrnSaver-dev32

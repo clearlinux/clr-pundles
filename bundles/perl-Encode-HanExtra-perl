@@ -1,0 +1,9 @@
+# [TITLE]: perl-Encode-HanExtra-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Encode-HanExtra)
+perl-Encode-HanExtra-perl

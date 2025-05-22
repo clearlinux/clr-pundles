@@ -1,0 +1,9 @@
+# [TITLE]: perl-B-Debug
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-Debug-license)
+include(perl-B-Debug-perl)
+perl-B-Debug

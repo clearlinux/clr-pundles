@@ -1,0 +1,9 @@
+# [TITLE]: perl-Unicode-Map-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Unicode-Map-license)
+include(perl-bin)
+perl-Unicode-Map-bin

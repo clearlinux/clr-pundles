@@ -1,0 +1,9 @@
+# [TITLE]: perl-CSS-Minifier-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CSS-Minifier-XS-license)
+include(perl-CSS-Minifier-XS-perl)
+perl-CSS-Minifier-XS

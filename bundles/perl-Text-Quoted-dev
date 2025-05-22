@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Quoted-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Quoted)
+perl-Text-Quoted-dev

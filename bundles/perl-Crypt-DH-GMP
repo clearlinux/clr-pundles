@@ -1,0 +1,8 @@
+# [TITLE]: perl-Crypt-DH-GMP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Crypt-DH-GMP-perl)
+perl-Crypt-DH-GMP

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Font-AFM
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Font-AFM-license)
+include(perl-Font-AFM-perl)
+perl-Font-AFM

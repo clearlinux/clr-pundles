@@ -1,0 +1,9 @@
+# [TITLE]: perl-Data-Random
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Random-license)
+include(perl-Data-Random-perl)
+perl-Data-Random

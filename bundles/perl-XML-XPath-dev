@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-XPath-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-XPath)
+include(perl-XML-XPath-bin)
+perl-XML-XPath-dev

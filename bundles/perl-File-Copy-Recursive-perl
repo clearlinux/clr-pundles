@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-Copy-Recursive-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Copy-Recursive)
+perl-File-Copy-Recursive-perl

@@ -1,0 +1,9 @@
+# [TITLE]: perl-URI-Encode
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-URI-Encode-license)
+include(perl-URI-Encode-perl)
+perl-URI-Encode

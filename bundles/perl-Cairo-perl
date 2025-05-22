@@ -1,0 +1,10 @@
+# [TITLE]: perl-Cairo-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(libc6)
+include(perl-Cairo)
+perl-Cairo-perl

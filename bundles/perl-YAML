@@ -1,0 +1,9 @@
+# [TITLE]: perl-YAML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-YAML-license)
+include(perl-YAML-perl)
+perl-YAML

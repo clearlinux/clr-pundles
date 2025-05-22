@@ -1,0 +1,8 @@
+# [TITLE]: perl-Async-Interrupt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Async-Interrupt)
+perl-Async-Interrupt-dev

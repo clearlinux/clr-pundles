@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-ReadBackwards
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-ReadBackwards-license)
+include(perl-File-ReadBackwards-perl)
+perl-File-ReadBackwards

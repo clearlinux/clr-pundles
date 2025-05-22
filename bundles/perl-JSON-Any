@@ -1,0 +1,9 @@
+# [TITLE]: perl-JSON-Any
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-JSON-Any-license)
+include(perl-JSON-Any-perl)
+perl-JSON-Any

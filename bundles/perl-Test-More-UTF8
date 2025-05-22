@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-More-UTF8
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-More-UTF8-perl)
+perl-Test-More-UTF8

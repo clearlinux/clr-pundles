@@ -1,0 +1,11 @@
+# [TITLE]: perl-IO-AIO
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-AIO-bin)
+include(perl-IO-AIO-license)
+include(perl-IO-AIO-man)
+include(perl-IO-AIO-perl)
+perl-IO-AIO

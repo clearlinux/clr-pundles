@@ -1,0 +1,8 @@
+# [TITLE]: perl-Lingua-EN-Inflect-Number-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Lingua-EN-Inflect-Number)
+perl-Lingua-EN-Inflect-Number-perl

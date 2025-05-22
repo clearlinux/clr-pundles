@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-Server-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-Server-license)
+include(perl-bin)
+perl-Net-Server-bin

@@ -1,0 +1,13 @@
+# [TITLE]: xvfb-run
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(which)
+include(xauth)
+include(xorg-server-bin)
+include(xvfb-run-bin)
+include(xvfb-run-license)
+include(xvfb-run-man)
+xvfb-run

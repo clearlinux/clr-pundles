@@ -1,0 +1,9 @@
+# [TITLE]: perl-YAML-LibYAML-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-YAML-LibYAML)
+perl-YAML-LibYAML-perl

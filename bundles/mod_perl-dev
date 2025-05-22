@@ -1,0 +1,10 @@
+# [TITLE]: mod_perl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mod_perl)
+include(mod_perl-bin)
+include(mod_perl-lib)
+mod_perl-dev

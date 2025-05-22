@@ -1,0 +1,9 @@
+# [TITLE]: perl-PerlIO-eol
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PerlIO-eol-license)
+include(perl-PerlIO-eol-perl)
+perl-PerlIO-eol

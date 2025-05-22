@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-Util
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-String-Util-license)
+include(perl-String-Util-perl)
+perl-String-Util

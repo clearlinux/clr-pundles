@@ -1,0 +1,9 @@
+# [TITLE]: perl-Task-Weaken
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Task-Weaken-license)
+include(perl-Task-Weaken-perl)
+perl-Task-Weaken

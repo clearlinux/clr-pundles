@@ -1,0 +1,11 @@
+# [TITLE]: perl-AnyEvent-BDB
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-AnyEvent-BDB-license)
+include(perl-AnyEvent-BDB-perl)
+include(perl-AnyEvent-perl)
+include(perl-BDB-perl)
+perl-AnyEvent-BDB

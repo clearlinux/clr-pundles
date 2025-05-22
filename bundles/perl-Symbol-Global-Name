@@ -1,0 +1,9 @@
+# [TITLE]: perl-Symbol-Global-Name
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Symbol-Global-Name-license)
+include(perl-Symbol-Global-Name-perl)
+perl-Symbol-Global-Name

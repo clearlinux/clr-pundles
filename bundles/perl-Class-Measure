@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-Measure
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Measure-license)
+include(perl-Class-Measure-perl)
+perl-Class-Measure

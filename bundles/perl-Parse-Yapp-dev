@@ -1,0 +1,9 @@
+# [TITLE]: perl-Parse-Yapp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Parse-Yapp)
+include(perl-Parse-Yapp-bin)
+perl-Parse-Yapp-dev

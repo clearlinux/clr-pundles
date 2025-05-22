@@ -1,0 +1,9 @@
+# [TITLE]: perl-PerlIO-eol-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-PerlIO-eol)
+perl-PerlIO-eol-perl

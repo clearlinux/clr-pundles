@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-DOM-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-DOM)
+perl-XML-DOM-perl

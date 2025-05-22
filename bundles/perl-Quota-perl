@@ -1,0 +1,10 @@
+# [TITLE]: perl-Quota-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtirpc-lib)
+include(perl-Quota)
+perl-Quota-perl

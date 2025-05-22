@@ -1,0 +1,8 @@
+# [TITLE]: perl-MooseX-Role-Parameterized-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MooseX-Role-Parameterized)
+perl-MooseX-Role-Parameterized-perl

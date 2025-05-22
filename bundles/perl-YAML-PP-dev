@@ -1,0 +1,9 @@
+# [TITLE]: perl-YAML-PP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-YAML-PP)
+include(perl-YAML-PP-bin)
+perl-YAML-PP-dev

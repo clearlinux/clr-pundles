@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-Format-ISO8601
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-ISO8601-license)
+include(perl-DateTime-Format-ISO8601-perl)
+perl-DateTime-Format-ISO8601

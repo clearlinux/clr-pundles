@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sys-SigAction-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sys-SigAction)
+perl-Sys-SigAction-dev

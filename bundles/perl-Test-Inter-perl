@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Inter-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Inter)
+perl-Test-Inter-perl

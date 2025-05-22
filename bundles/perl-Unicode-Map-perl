@@ -1,0 +1,9 @@
+# [TITLE]: perl-Unicode-Map-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Unicode-Map)
+perl-Unicode-Map-perl

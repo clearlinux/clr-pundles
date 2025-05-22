@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-Tee
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Tee-license)
+include(perl-IO-Tee-perl)
+perl-IO-Tee

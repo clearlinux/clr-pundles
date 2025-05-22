@@ -13,10 +13,10 @@ gnome-session
 include(libXcursor-lib)
 mutter
 include(shared-mime-info)
-xf86-input-libinput
-xkbcomp
+include(xf86-input-libinput)
+include(xkbcomp)
 include(xkeyboard-config)
-xorg-server
+include(xorg-server)
 xwdrun
 include(gdk-pixbuf)
 include(audio-pipewire)

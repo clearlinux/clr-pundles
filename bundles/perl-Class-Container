@@ -1,0 +1,9 @@
+# [TITLE]: perl-Class-Container
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Container-license)
+include(perl-Class-Container-perl)
+perl-Class-Container

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Taint-Util-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Taint-Util)
+perl-Taint-Util-dev

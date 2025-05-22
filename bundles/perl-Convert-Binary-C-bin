@@ -1,0 +1,9 @@
+# [TITLE]: perl-Convert-Binary-C-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Convert-Binary-C-license)
+include(perl-bin)
+perl-Convert-Binary-C-bin

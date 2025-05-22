@@ -1,0 +1,9 @@
+# [TITLE]: perl-Config-Std
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Config-Std-license)
+include(perl-Config-Std-perl)
+perl-Config-Std

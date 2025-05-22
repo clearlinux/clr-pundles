@@ -1,0 +1,10 @@
+# [TITLE]: mod_perl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mod_perl-license)
+include(perl-perl)
+mod_perl-lib

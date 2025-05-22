@@ -1,0 +1,8 @@
+# [TITLE]: perl-HTTP-Body-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-HTTP-Body)
+perl-HTTP-Body-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Parse-ExuberantCTags
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Parse-ExuberantCTags-perl)
+perl-Parse-ExuberantCTags

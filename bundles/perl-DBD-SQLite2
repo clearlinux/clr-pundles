@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBD-SQLite2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBD-SQLite2-perl)
+perl-DBD-SQLite2

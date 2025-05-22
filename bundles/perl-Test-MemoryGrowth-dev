@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-MemoryGrowth-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-MemoryGrowth)
+perl-Test-MemoryGrowth-dev

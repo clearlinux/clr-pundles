@@ -1,0 +1,8 @@
+# [TITLE]: perl-Crypt-Eksblowfish
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Crypt-Eksblowfish-perl)
+perl-Crypt-Eksblowfish

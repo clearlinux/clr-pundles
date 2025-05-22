@@ -1,0 +1,12 @@
+# [TITLE]: libXfont2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freetype-lib)
+include(libXfont2-license)
+include(libc6)
+include(libfontenc-lib)
+include(zlib-lib)
+libXfont2-lib

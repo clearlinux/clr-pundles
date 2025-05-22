@@ -1,0 +1,9 @@
+# [TITLE]: perl-Math-Vec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Math-Vec-license)
+include(perl-Math-Vec-perl)
+perl-Math-Vec

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Convert-ASN1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Convert-ASN1-license)
+include(perl-Convert-ASN1-perl)
+perl-Convert-ASN1

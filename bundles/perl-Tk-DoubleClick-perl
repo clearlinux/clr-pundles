@@ -1,0 +1,8 @@
+# [TITLE]: perl-Tk-DoubleClick-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Tk-DoubleClick)
+perl-Tk-DoubleClick-perl

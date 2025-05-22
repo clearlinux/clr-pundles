@@ -1,0 +1,9 @@
+# [TITLE]: libbsd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbsd-license)
+include(libc6)
+libbsd-lib

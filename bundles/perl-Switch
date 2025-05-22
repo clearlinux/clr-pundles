@@ -1,0 +1,8 @@
+# [TITLE]: perl-Switch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Switch-perl)
+perl-Switch

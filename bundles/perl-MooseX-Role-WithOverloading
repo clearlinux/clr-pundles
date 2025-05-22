@@ -1,0 +1,9 @@
+# [TITLE]: perl-MooseX-Role-WithOverloading
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-MooseX-Role-WithOverloading-license)
+include(perl-MooseX-Role-WithOverloading-perl)
+perl-MooseX-Role-WithOverloading

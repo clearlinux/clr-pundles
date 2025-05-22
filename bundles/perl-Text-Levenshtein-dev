@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Levenshtein-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Levenshtein)
+perl-Text-Levenshtein-dev

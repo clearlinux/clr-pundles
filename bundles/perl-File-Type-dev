@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-Type-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Type)
+perl-File-Type-dev

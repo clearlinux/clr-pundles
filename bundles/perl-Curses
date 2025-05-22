@@ -1,0 +1,9 @@
+# [TITLE]: perl-Curses
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Curses-license)
+include(perl-Curses-perl)
+perl-Curses

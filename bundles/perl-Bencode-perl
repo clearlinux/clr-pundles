@@ -1,0 +1,8 @@
+# [TITLE]: perl-Bencode-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Bencode)
+perl-Bencode-perl

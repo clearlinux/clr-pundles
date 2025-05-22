@@ -1,0 +1,9 @@
+# [TITLE]: perl-Proc-Wait3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Proc-Wait3-license)
+include(perl-Proc-Wait3-perl)
+perl-Proc-Wait3

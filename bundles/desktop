@@ -24,7 +24,7 @@ also-add(x11-tools)
 
 # Low level UI requirements
 # gir/typelibs have been split out and we need them.
-bluez
+include(bluez)
 bolt
 clutter
 include(colord)

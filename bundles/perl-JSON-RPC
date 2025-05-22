@@ -1,0 +1,11 @@
+# [TITLE]: perl-JSON-RPC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mod_perl-perl)
+include(perl-JSON-RPC-license)
+include(perl-JSON-RPC-perl)
+include(perl-Plack-perl)
+perl-JSON-RPC

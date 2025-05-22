@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Pipely-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Pipely)
+perl-IO-Pipely-dev

@@ -1,0 +1,8 @@
+# [TITLE]: perl-POSIX-strftime-Compiler-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-POSIX-strftime-Compiler)
+perl-POSIX-strftime-Compiler-dev

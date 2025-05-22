@@ -1,0 +1,10 @@
+# [TITLE]: perl-DBD-Pg-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-DBD-Pg)
+include(postgresql-lib)
+perl-DBD-Pg-perl

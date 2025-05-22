@@ -1,0 +1,8 @@
+# [TITLE]: perl-boolean-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-boolean)
+perl-boolean-perl

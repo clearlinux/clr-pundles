@@ -1,0 +1,9 @@
+# [TITLE]: perl-String-Approx-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-String-Approx)
+perl-String-Approx-perl

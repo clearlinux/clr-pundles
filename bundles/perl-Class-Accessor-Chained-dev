@@ -1,0 +1,8 @@
+# [TITLE]: perl-Class-Accessor-Chained-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Class-Accessor-Chained)
+perl-Class-Accessor-Chained-dev

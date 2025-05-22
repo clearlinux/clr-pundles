@@ -1,0 +1,11 @@
+# [TITLE]: perl-match-simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Exporter-Tiny-perl)
+include(perl-Sub-Infix-perl)
+include(perl-match-simple-license)
+include(perl-match-simple-perl)
+perl-match-simple

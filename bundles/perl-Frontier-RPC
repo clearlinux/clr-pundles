@@ -1,0 +1,9 @@
+# [TITLE]: perl-Frontier-RPC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Frontier-RPC-license)
+include(perl-Frontier-RPC-perl)
+perl-Frontier-RPC

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Parallel-Iterator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Parallel-Iterator-license)
+include(perl-Parallel-Iterator-perl)
+perl-Parallel-Iterator

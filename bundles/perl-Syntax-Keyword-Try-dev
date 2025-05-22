@@ -1,0 +1,8 @@
+# [TITLE]: perl-Syntax-Keyword-Try-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Syntax-Keyword-Try)
+perl-Syntax-Keyword-Try-dev

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Quota
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Quota-license)
+include(perl-Quota-perl)
+perl-Quota

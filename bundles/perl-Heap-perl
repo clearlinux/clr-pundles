@@ -1,0 +1,8 @@
+# [TITLE]: perl-Heap-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Heap)
+perl-Heap-perl

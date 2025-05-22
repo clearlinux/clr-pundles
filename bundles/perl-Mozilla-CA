@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mozilla-CA
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mozilla-CA-perl)
+perl-Mozilla-CA

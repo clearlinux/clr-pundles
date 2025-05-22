@@ -1,0 +1,8 @@
+# [TITLE]: perl-Geo-Distance-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Geo-Distance)
+perl-Geo-Distance-dev

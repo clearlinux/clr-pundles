@@ -1,0 +1,9 @@
+# [TITLE]: perl-Systemd-Daemon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Systemd-Daemon-license)
+include(perl-Systemd-Daemon-perl)
+perl-Systemd-Daemon

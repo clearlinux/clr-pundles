@@ -1,0 +1,8 @@
+# [TITLE]: perl-File-Grep-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Grep)
+perl-File-Grep-perl

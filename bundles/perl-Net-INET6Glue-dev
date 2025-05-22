@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-INET6Glue-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-INET6Glue)
+perl-Net-INET6Glue-dev

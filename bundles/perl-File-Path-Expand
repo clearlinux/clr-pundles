@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Path-Expand
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Path-Expand-license)
+include(perl-File-Path-Expand-perl)
+perl-File-Path-Expand

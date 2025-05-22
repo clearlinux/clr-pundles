@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sereal-Decoder-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sereal-Decoder)
+perl-Sereal-Decoder-dev

@@ -1,0 +1,11 @@
+# [TITLE]: perl-Module-CPANfile
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Module-CPANfile-bin)
+include(perl-Module-CPANfile-license)
+include(perl-Module-CPANfile-man)
+include(perl-Module-CPANfile-perl)
+perl-Module-CPANfile

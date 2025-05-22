@@ -1,0 +1,9 @@
+# [TITLE]: perl-CBOR-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CBOR-XS-license)
+include(perl-CBOR-XS-perl)
+perl-CBOR-XS

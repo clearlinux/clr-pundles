@@ -1,0 +1,9 @@
+# [TITLE]: perl-Async-MergePoint
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Async-MergePoint-license)
+include(perl-Async-MergePoint-perl)
+perl-Async-MergePoint

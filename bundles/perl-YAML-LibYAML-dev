@@ -1,0 +1,8 @@
+# [TITLE]: perl-YAML-LibYAML-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-YAML-LibYAML)
+perl-YAML-LibYAML-dev

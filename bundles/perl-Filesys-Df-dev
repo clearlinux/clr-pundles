@@ -1,0 +1,8 @@
+# [TITLE]: perl-Filesys-Df-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Filesys-Df)
+perl-Filesys-Df-dev

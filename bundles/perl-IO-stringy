@@ -1,0 +1,9 @@
+# [TITLE]: perl-IO-stringy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-stringy-license)
+include(perl-IO-stringy-perl)
+perl-IO-stringy

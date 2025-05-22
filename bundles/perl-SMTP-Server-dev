@@ -1,0 +1,8 @@
+# [TITLE]: perl-SMTP-Server-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-SMTP-Server)
+perl-SMTP-Server-dev

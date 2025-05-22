@@ -1,0 +1,8 @@
+# [TITLE]: perl-Mail-Mailer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Mail-Mailer-perl)
+perl-Mail-Mailer

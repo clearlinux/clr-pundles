@@ -1,0 +1,9 @@
+# [TITLE]: perl-Getopt-Long-Modern
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Getopt-Long-Modern-license)
+include(perl-Getopt-Long-Modern-perl)
+perl-Getopt-Long-Modern

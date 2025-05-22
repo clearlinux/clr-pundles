@@ -1,0 +1,9 @@
+# [TITLE]: perl-BSD-Resource-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-BSD-Resource)
+perl-BSD-Resource-perl

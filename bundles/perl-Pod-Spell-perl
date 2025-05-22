@@ -1,0 +1,8 @@
+# [TITLE]: perl-Pod-Spell-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Spell)
+perl-Pod-Spell-perl

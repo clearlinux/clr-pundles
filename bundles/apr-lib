@@ -1,0 +1,11 @@
+# [TITLE]: apr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-data)
+include(apr-license)
+include(libc6)
+include(util-linux-lib)
+apr-lib

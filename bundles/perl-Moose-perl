@@ -1,0 +1,9 @@
+# [TITLE]: perl-Moose-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Moose)
+perl-Moose-perl

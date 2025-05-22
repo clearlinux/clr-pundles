@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-ArgNames
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-ArgNames-license)
+include(perl-Devel-ArgNames-perl)
+perl-Devel-ArgNames

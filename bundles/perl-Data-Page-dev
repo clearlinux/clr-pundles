@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Page-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Page)
+perl-Data-Page-dev

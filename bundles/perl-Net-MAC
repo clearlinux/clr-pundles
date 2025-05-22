@@ -1,0 +1,9 @@
+# [TITLE]: perl-Net-MAC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-MAC-license)
+include(perl-Net-MAC-perl)
+perl-Net-MAC

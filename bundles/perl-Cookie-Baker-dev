@@ -1,0 +1,8 @@
+# [TITLE]: perl-Cookie-Baker-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Cookie-Baker)
+perl-Cookie-Baker-dev

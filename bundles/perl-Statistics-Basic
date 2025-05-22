@@ -1,0 +1,9 @@
+# [TITLE]: perl-Statistics-Basic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Statistics-Basic-license)
+include(perl-Statistics-Basic-perl)
+perl-Statistics-Basic

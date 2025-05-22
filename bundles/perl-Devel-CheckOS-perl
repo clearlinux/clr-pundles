@@ -1,0 +1,8 @@
+# [TITLE]: perl-Devel-CheckOS-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-CheckOS)
+perl-Devel-CheckOS-perl

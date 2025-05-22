@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libXpm-dev
+include(libXpm-dev)
 include(libX11client)
 include(libXpm-lib)

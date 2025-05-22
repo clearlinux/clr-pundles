@@ -1,0 +1,9 @@
+# [TITLE]: perl-NetAddr-IP-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-NetAddr-IP)
+perl-NetAddr-IP-perl

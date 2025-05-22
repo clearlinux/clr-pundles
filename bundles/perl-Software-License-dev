@@ -1,0 +1,8 @@
+# [TITLE]: perl-Software-License-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Software-License)
+perl-Software-License-dev

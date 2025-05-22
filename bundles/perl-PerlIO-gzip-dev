@@ -1,0 +1,8 @@
+# [TITLE]: perl-PerlIO-gzip-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-PerlIO-gzip)
+perl-PerlIO-gzip-dev

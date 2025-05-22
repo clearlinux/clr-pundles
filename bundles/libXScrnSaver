@@ -1,0 +1,9 @@
+# [TITLE]: libXScrnSaver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libXScrnSaver-lib)
+include(libXScrnSaver-license)
+libXScrnSaver

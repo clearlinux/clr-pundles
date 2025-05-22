@@ -1,0 +1,9 @@
+# [TITLE]: perl-Text-Format
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Format-license)
+include(perl-Text-Format-perl)
+perl-Text-Format

@@ -1,0 +1,9 @@
+# [TITLE]: perl-Params-Classify-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(perl-Params-Classify)
+perl-Params-Classify-perl

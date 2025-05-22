@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Exception-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Exception)
+perl-Test-Exception-perl

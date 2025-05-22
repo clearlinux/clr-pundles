@@ -1,0 +1,9 @@
+# [TITLE]: perl-Hook-LexWrap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Hook-LexWrap-license)
+include(perl-Hook-LexWrap-perl)
+perl-Hook-LexWrap

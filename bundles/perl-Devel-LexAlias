@@ -1,0 +1,9 @@
+# [TITLE]: perl-Devel-LexAlias
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Devel-Caller-perl)
+include(perl-Devel-LexAlias-perl)
+perl-Devel-LexAlias

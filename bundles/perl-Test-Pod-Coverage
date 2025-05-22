@@ -1,0 +1,9 @@
+# [TITLE]: perl-Test-Pod-Coverage
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Parser-perl)
+include(perl-Test-Pod-Coverage-perl)
+perl-Test-Pod-Coverage

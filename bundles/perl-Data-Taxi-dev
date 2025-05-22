@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Taxi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Taxi)
+perl-Data-Taxi-dev

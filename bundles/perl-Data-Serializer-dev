@@ -1,0 +1,8 @@
+# [TITLE]: perl-Data-Serializer-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Serializer)
+perl-Data-Serializer-dev

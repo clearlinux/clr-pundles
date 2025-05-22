@@ -1,0 +1,13 @@
+# [TITLE]: apr-util-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-lib)
+include(apr-util-license)
+include(expat-lib)
+include(libc6)
+include(libxcrypt-lib)
+include(sqlite-autoconf-lib)
+apr-util-lib

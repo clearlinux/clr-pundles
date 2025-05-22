@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-Simple
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Simple-license)
+include(perl-XML-Simple-perl)
+perl-XML-Simple

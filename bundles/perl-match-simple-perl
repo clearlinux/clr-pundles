@@ -1,0 +1,8 @@
+# [TITLE]: perl-match-simple-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-match-simple)
+perl-match-simple-perl

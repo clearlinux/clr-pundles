@@ -1,0 +1,8 @@
+# [TITLE]: perl-XML-Atom-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-XML-Atom)
+perl-XML-Atom-perl

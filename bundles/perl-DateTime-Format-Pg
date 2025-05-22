@@ -1,0 +1,9 @@
+# [TITLE]: perl-DateTime-Format-Pg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DateTime-Format-Pg-license)
+include(perl-DateTime-Format-Pg-perl)
+perl-DateTime-Format-Pg

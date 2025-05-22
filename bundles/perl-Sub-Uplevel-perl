@@ -1,0 +1,8 @@
+# [TITLE]: perl-Sub-Uplevel-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Sub-Uplevel)
+perl-Sub-Uplevel-perl

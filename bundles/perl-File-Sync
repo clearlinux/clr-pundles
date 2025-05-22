@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Sync
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Sync-license)
+include(perl-File-Sync-perl)
+perl-File-Sync

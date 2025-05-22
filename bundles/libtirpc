@@ -1,0 +1,11 @@
+# [TITLE]: libtirpc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtirpc-data)
+include(libtirpc-lib)
+include(libtirpc-license)
+include(libtirpc-man)
+libtirpc

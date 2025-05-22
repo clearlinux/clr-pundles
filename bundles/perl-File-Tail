@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Tail
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Tail-license)
+include(perl-File-Tail-perl)
+perl-File-Tail

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Test-Synopsis-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Test-Synopsis)
+perl-Test-Synopsis-dev

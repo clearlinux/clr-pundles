@@ -1,0 +1,8 @@
+# [TITLE]: perl-List-Compare-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-List-Compare)
+perl-List-Compare-dev

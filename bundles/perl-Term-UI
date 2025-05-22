@@ -1,0 +1,9 @@
+# [TITLE]: perl-Term-UI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Term-UI-license)
+include(perl-Term-UI-perl)
+perl-Term-UI

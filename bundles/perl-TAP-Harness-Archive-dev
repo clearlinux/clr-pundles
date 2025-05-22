@@ -1,0 +1,8 @@
+# [TITLE]: perl-TAP-Harness-Archive-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-TAP-Harness-Archive)
+perl-TAP-Harness-Archive-dev

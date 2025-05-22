@@ -1,0 +1,9 @@
+# [TITLE]: perl-Proc-ProcessTable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Proc-ProcessTable-license)
+include(perl-Proc-ProcessTable-perl)
+perl-Proc-ProcessTable

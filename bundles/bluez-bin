@@ -1,0 +1,17 @@
+# [TITLE]: bluez-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-config)
+include(bluez-data)
+include(bluez-libexec)
+include(bluez-license)
+include(bluez-services)
+include(dbus-lib)
+include(glib-lib)
+include(libc6)
+include(readline-lib)
+include(systemd-lib)
+bluez-bin

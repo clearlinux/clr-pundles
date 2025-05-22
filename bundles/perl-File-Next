@@ -1,0 +1,9 @@
+# [TITLE]: perl-File-Next
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-File-Next-license)
+include(perl-File-Next-perl)
+perl-File-Next

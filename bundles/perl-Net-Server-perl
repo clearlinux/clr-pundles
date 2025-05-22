@@ -1,0 +1,8 @@
+# [TITLE]: perl-Net-Server-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Net-Server)
+perl-Net-Server-perl

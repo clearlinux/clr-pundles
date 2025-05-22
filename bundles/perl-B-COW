@@ -1,0 +1,9 @@
+# [TITLE]: perl-B-COW
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-B-COW-license)
+include(perl-B-COW-perl)
+perl-B-COW

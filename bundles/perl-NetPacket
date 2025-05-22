@@ -1,0 +1,9 @@
+# [TITLE]: perl-NetPacket
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-NetPacket-license)
+include(perl-NetPacket-perl)
+perl-NetPacket

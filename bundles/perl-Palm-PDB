@@ -1,0 +1,9 @@
+# [TITLE]: perl-Palm-PDB
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Palm-PDB-license)
+include(perl-Palm-PDB-perl)
+perl-Palm-PDB

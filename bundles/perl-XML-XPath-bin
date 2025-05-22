@@ -1,0 +1,9 @@
+# [TITLE]: perl-XML-XPath-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(perl-XML-XPath-license)
+perl-XML-XPath-bin

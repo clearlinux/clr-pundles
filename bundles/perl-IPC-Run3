@@ -1,0 +1,9 @@
+# [TITLE]: perl-IPC-Run3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IPC-Run3-license)
+include(perl-IPC-Run3-perl)
+perl-IPC-Run3

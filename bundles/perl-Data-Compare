@@ -1,0 +1,9 @@
+# [TITLE]: perl-Data-Compare
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Data-Compare-license)
+include(perl-Data-Compare-perl)
+perl-Data-Compare

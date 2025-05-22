@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-gobject-introspection-dev
+include(gobject-introspection-dev)
 include(libglib)
 include(gobject-introspection)

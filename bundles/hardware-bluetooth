@@ -7,7 +7,7 @@
 include(libstdcpp)
 include(libglib)
 
-bluez
-bluez-extras
+include(bluez)
+include(bluez-extras)
 include(icu4c-lib)
 include(libxml2)

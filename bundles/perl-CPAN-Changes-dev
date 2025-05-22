@@ -1,0 +1,9 @@
+# [TITLE]: perl-CPAN-Changes-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CPAN-Changes)
+include(perl-CPAN-Changes-bin)
+perl-CPAN-Changes-dev

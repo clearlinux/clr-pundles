@@ -1,0 +1,8 @@
+# [TITLE]: perl-Font-AFM-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Font-AFM)
+perl-Font-AFM-perl

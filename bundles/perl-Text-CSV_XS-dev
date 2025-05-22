@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-CSV_XS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-CSV_XS)
+perl-Text-CSV_XS-dev

@@ -1,0 +1,10 @@
+# [TITLE]: perl-X11-IdleTime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Digest-MD5-perl)
+include(perl-Inline-perl)
+include(perl-X11-IdleTime-perl)
+perl-X11-IdleTime

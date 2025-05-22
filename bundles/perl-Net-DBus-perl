@@ -1,0 +1,10 @@
+# [TITLE]: perl-Net-DBus-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libc6)
+include(perl-Net-DBus)
+perl-Net-DBus-perl

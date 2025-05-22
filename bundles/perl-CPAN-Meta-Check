@@ -1,0 +1,9 @@
+# [TITLE]: perl-CPAN-Meta-Check
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-CPAN-Meta-Check-license)
+include(perl-CPAN-Meta-Check-perl)
+perl-CPAN-Meta-Check

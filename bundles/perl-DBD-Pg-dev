@@ -1,0 +1,8 @@
+# [TITLE]: perl-DBD-Pg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-DBD-Pg)
+perl-DBD-Pg-dev

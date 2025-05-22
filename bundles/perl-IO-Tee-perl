@@ -1,0 +1,8 @@
+# [TITLE]: perl-IO-Tee-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-IO-Tee)
+perl-IO-Tee-perl

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Text-Levenshtein-Damerau-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Text-Levenshtein-Damerau)
+perl-Text-Levenshtein-Damerau-dev

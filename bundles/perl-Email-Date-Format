@@ -1,0 +1,9 @@
+# [TITLE]: perl-Email-Date-Format
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Email-Date-Format-license)
+include(perl-Email-Date-Format-perl)
+perl-Email-Date-Format

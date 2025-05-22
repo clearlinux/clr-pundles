@@ -1,0 +1,8 @@
+# [TITLE]: perl-Array-Utils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Array-Utils)
+perl-Array-Utils-dev

@@ -1,0 +1,11 @@
+# [TITLE]: perl-Debug-ShowStuff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Debug-ShowStuff-license)
+include(perl-Debug-ShowStuff-perl)
+include(perl-String-Util-perl)
+include(perl-Tie-IxHash-perl)
+perl-Debug-ShowStuff
