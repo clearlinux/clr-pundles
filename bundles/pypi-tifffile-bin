@@ -4,5 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pypi-tifffile-license)
 include(python3-core)
 pypi-tifffile-bin
