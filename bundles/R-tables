@@ -1,0 +1,9 @@
+# [TITLE]: R-tables
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-knitr)
+R-tables

@@ -1,0 +1,8 @@
+# [TITLE]: php-proctitle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-proctitle-lib)
+php-proctitle

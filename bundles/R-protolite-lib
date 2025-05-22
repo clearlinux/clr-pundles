@@ -1,0 +1,12 @@
+# [TITLE]: R-protolite-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(protobuf-lib)
+R-protolite-lib

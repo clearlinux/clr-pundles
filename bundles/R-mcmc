@@ -1,0 +1,8 @@
+# [TITLE]: R-mcmc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mcmc-lib)
+R-mcmc

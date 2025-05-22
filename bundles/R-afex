@@ -1,0 +1,12 @@
+# [TITLE]: R-afex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-car)
+include(R-lme4)
+include(R-lmerTest)
+include(R-pbkrtest)
+include(R-reshape2)
+R-afex

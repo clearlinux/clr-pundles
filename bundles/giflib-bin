@@ -1,0 +1,9 @@
+# [TITLE]: giflib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(giflib-license)
+include(libc6)
+giflib-bin

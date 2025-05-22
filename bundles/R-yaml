@@ -1,0 +1,9 @@
+# [TITLE]: R-yaml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-yaml-lib)
+include(R-yaml-license)
+R-yaml

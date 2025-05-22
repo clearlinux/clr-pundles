@@ -1,0 +1,13 @@
+# [TITLE]: R-Rserve
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rserve-lib)
+include(R-Rserve-license)
+include(R-lib)
+include(libc6)
+include(libxcrypt-lib)
+include(openssl-lib)
+R-Rserve

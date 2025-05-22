@@ -1,0 +1,12 @@
+# [TITLE]: R-tseries
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jsonlite)
+include(R-quadprog)
+include(R-quantmod)
+include(R-tseries-lib)
+include(R-zoo)
+R-tseries

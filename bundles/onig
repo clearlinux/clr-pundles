@@ -1,0 +1,10 @@
+# [TITLE]: onig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(onig-bin)
+include(onig-lib)
+include(onig-license)
+onig

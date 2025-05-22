@@ -1,0 +1,9 @@
+# [TITLE]: R-lhs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-lhs-lib)
+R-lhs

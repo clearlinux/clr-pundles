@@ -1,0 +1,9 @@
+# [TITLE]: R-memoise
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cachem)
+include(R-rlang)
+R-memoise

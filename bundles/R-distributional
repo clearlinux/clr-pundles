@@ -1,0 +1,13 @@
+# [TITLE]: R-distributional
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-generics)
+include(R-lifecycle)
+include(R-numDeriv)
+include(R-pillar)
+include(R-rlang)
+include(R-vctrs)
+R-distributional

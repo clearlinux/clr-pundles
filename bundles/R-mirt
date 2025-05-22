@@ -1,0 +1,17 @@
+# [TITLE]: R-mirt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Deriv)
+include(R-GPArotation)
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-SimDesign)
+include(R-dcurver)
+include(R-gridExtra)
+include(R-mirt-lib)
+include(R-pbapply)
+include(R-vegan)
+R-mirt

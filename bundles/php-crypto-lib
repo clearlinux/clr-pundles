@@ -1,0 +1,10 @@
+# [TITLE]: php-crypto-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(php-crypto-license)
+php-crypto-lib

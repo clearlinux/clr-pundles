@@ -1,0 +1,15 @@
+# [TITLE]: R-adespatial
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ade4)
+include(R-adegraphics)
+include(R-adephylo)
+include(R-adespatial-lib)
+include(R-shiny)
+include(R-sp)
+include(R-spdep)
+include(R-vegan)
+R-adespatial

@@ -1,0 +1,12 @@
+# [TITLE]: gsl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsl-bin)
+include(gsl-info)
+include(gsl-lib)
+include(gsl-license)
+include(gsl-man)
+gsl

@@ -1,0 +1,16 @@
+# [TITLE]: R-rio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R.utils)
+include(R-curl)
+include(R-data.table)
+include(R-haven)
+include(R-lifecycle)
+include(R-readr)
+include(R-readxl)
+include(R-tibble)
+include(R-writexl)
+R-rio

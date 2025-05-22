@@ -1,0 +1,8 @@
+# [TITLE]: R-multiwayvcov
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sandwich)
+R-multiwayvcov

@@ -1,0 +1,9 @@
+# [TITLE]: php-crypto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-crypto-lib)
+include(php-crypto-license)
+php-crypto

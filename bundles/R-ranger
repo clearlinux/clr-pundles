@@ -1,0 +1,10 @@
+# [TITLE]: R-ranger
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-ranger-lib)
+R-ranger

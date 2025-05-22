@@ -1,0 +1,11 @@
+# [TITLE]: gsl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsl)
+include(gsl-bin)
+include(gsl-lib)
+include(pkg-config-bin)
+gsl-dev

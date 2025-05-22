@@ -1,0 +1,9 @@
+# [TITLE]: R-pdfCluster
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-geometry)
+include(R-pdfCluster-lib)
+R-pdfCluster

@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-LibRaw-dev
+include(LibRaw-dev)
 include(lib-imageformat)
 include(libstdcpp)

@@ -1,0 +1,8 @@
+# [TITLE]: R-spatstat.utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-spatstat.utils-lib)
+R-spatstat.utils

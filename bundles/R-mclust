@@ -1,0 +1,8 @@
+# [TITLE]: R-mclust
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mclust-lib)
+R-mclust

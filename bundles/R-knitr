@@ -1,0 +1,12 @@
+# [TITLE]: R-knitr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-evaluate)
+include(R-highr)
+include(R-xfun)
+include(R-yaml)
+include(coreutils-bin)
+R-knitr

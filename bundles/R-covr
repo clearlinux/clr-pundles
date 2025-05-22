@@ -1,0 +1,16 @@
+# [TITLE]: R-covr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-covr-lib)
+include(R-covr-license)
+include(R-crayon)
+include(R-digest)
+include(R-httr)
+include(R-jsonlite)
+include(R-rex)
+include(R-withr)
+include(R-yaml)
+R-covr

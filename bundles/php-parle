@@ -1,0 +1,9 @@
+# [TITLE]: php-parle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-parle-lib)
+include(php-parle-license)
+php-parle

@@ -1,0 +1,8 @@
+# [TITLE]: R-fitdistrplus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rlang)
+R-fitdistrplus

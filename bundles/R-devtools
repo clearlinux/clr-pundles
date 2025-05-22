@@ -1,0 +1,28 @@
+# [TITLE]: R-devtools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-desc)
+include(R-ellipsis)
+include(R-fs)
+include(R-lifecycle)
+include(R-memoise)
+include(R-miniUI)
+include(R-pkgbuild)
+include(R-pkgdown)
+include(R-pkgload)
+include(R-profvis)
+include(R-rcmdcheck)
+include(R-remotes)
+include(R-rlang)
+include(R-roxygen2)
+include(R-rversions)
+include(R-sessioninfo)
+include(R-testthat)
+include(R-urlchecker)
+include(R-usethis)
+include(R-withr)
+R-devtools

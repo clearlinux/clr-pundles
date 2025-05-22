@@ -1,0 +1,9 @@
+# [TITLE]: R-classInt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-classInt-lib)
+include(R-e1071)
+R-classInt

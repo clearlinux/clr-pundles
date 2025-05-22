@@ -1,0 +1,11 @@
+# [TITLE]: R-etm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-data.table)
+include(R-etm-lib)
+R-etm

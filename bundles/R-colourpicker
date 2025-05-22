@@ -1,0 +1,14 @@
+# [TITLE]: R-colourpicker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-jsonlite)
+include(R-miniUI)
+include(R-shiny)
+include(R-shinyjs)
+R-colourpicker

@@ -1,0 +1,9 @@
+# [TITLE]: R-tensorA
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-tensorA-lib)
+include(R-tensorA-license)
+R-tensorA

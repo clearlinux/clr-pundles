@@ -1,0 +1,12 @@
+# [TITLE]: R-vroom-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-vroom-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-vroom-lib

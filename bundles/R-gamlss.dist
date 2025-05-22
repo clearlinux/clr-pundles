@@ -1,0 +1,8 @@
+# [TITLE]: R-gamlss.dist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gamlss.dist-lib)
+R-gamlss.dist

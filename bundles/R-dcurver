@@ -1,0 +1,10 @@
+# [TITLE]: R-dcurver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-dcurver-lib)
+R-dcurver

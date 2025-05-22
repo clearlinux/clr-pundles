@@ -1,0 +1,16 @@
+# [TITLE]: R-BayesFactor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BayesFactor-lib)
+include(R-MatrixModels)
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-coda)
+include(R-hypergeo)
+include(R-mvtnorm)
+include(R-pbapply)
+include(R-stringr)
+R-BayesFactor

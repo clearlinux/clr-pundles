@@ -1,0 +1,10 @@
+# [TITLE]: R-csvy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-data.table)
+include(R-jsonlite)
+include(R-yaml)
+R-csvy

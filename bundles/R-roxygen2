@@ -1,0 +1,22 @@
+# [TITLE]: R-roxygen2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-brew)
+include(R-cli)
+include(R-commonmark)
+include(R-cpp11)
+include(R-desc)
+include(R-knitr)
+include(R-pkgload)
+include(R-purrr)
+include(R-rlang)
+include(R-roxygen2-lib)
+include(R-stringi)
+include(R-stringr)
+include(R-withr)
+include(R-xml2)
+R-roxygen2

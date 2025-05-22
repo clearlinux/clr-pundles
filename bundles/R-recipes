@@ -1,0 +1,27 @@
+# [TITLE]: R-recipes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-clock)
+include(R-dplyr)
+include(R-generics)
+include(R-glue)
+include(R-gower)
+include(R-hardhat)
+include(R-ipred)
+include(R-lifecycle)
+include(R-lubridate)
+include(R-magrittr)
+include(R-purrr)
+include(R-rlang)
+include(R-sparsevctrs)
+include(R-tibble)
+include(R-tidyr)
+include(R-tidyselect)
+include(R-timeDate)
+include(R-vctrs)
+include(R-withr)
+R-recipes

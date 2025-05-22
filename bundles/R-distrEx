@@ -1,0 +1,10 @@
+# [TITLE]: R-distrEx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-distr)
+include(R-distrEx-lib)
+include(R-startupmsg)
+R-distrEx

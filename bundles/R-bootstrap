@@ -1,0 +1,8 @@
+# [TITLE]: R-bootstrap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bootstrap-lib)
+R-bootstrap

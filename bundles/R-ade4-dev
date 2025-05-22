@@ -1,0 +1,9 @@
+# [TITLE]: R-ade4-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ade4)
+include(R-ade4-lib)
+R-ade4-dev

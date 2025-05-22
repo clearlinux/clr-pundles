@@ -1,0 +1,9 @@
+# [TITLE]: R-cmprsk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cmprsk-license)
+include(libc6)
+R-cmprsk-lib

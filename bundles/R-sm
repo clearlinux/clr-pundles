@@ -1,0 +1,11 @@
+# [TITLE]: R-sm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sm-lib)
+include(R-sm-license)
+include(tcl)
+include(tk)
+R-sm

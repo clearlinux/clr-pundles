@@ -1,0 +1,9 @@
+# [TITLE]: R-wk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-wk)
+include(R-wk-lib)
+R-wk-dev

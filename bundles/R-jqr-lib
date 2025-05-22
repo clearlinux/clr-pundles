@@ -1,0 +1,10 @@
+# [TITLE]: R-jqr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(jq-lib)
+include(libc6)
+R-jqr-lib

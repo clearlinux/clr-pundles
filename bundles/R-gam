@@ -1,0 +1,9 @@
+# [TITLE]: R-gam
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-foreach)
+include(R-gam-lib)
+R-gam

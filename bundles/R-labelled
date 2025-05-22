@@ -1,0 +1,16 @@
+# [TITLE]: R-labelled
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-dplyr)
+include(R-haven)
+include(R-lifecycle)
+include(R-rlang)
+include(R-stringr)
+include(R-tidyr)
+include(R-tidyselect)
+include(R-vctrs)
+R-labelled

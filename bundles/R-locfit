@@ -1,0 +1,8 @@
+# [TITLE]: R-locfit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-locfit-lib)
+R-locfit

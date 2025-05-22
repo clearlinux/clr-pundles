@@ -1,0 +1,11 @@
+# [TITLE]: R-tzdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cpp11)
+include(R-tzdb-lib)
+include(R-tzdb-license)
+include(perl-bin)
+R-tzdb

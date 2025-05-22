@@ -1,0 +1,8 @@
+# [TITLE]: R-RaschSampler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RaschSampler-lib)
+R-RaschSampler

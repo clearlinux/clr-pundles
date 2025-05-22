@@ -1,0 +1,19 @@
+# [TITLE]: R-WikidataR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Hmisc)
+include(R-WikidataQueryServiceR)
+include(R-WikipediR)
+include(R-crayon)
+include(R-dplyr)
+include(R-httr)
+include(R-jsonlite)
+include(R-pbapply)
+include(R-progress)
+include(R-readr)
+include(R-stringr)
+include(R-tibble)
+R-WikidataR

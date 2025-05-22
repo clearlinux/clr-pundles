@@ -1,0 +1,8 @@
+# [TITLE]: R-nleqslv
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-nleqslv-lib)
+R-nleqslv

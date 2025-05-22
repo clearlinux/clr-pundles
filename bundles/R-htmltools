@@ -1,0 +1,12 @@
+# [TITLE]: R-htmltools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc)
+include(R-digest)
+include(R-fastmap)
+include(R-htmltools-lib)
+include(R-rlang)
+R-htmltools

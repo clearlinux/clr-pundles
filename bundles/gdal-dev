@@ -1,0 +1,12 @@
+# [TITLE]: gdal-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdal)
+include(gdal-bin)
+include(gdal-data)
+include(gdal-lib)
+include(pkg-config-bin)
+gdal-dev

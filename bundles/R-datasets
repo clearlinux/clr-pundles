@@ -6,9 +6,9 @@
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(R-basic)
 
-R-Lahman
-R-mapdata
-R-pwt
-R-spatstat.data
-R-TH.data
-R-VGAMdata
+include(R-Lahman)
+include(R-mapdata)
+include(R-pwt)
+include(R-spatstat.data)
+include(R-TH.data)
+include(R-VGAMdata)

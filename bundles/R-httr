@@ -1,0 +1,12 @@
+# [TITLE]: R-httr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-curl)
+include(R-jsonlite)
+include(R-mime)
+include(R-openssl)
+R-httr

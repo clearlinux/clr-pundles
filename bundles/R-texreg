@@ -1,0 +1,8 @@
+# [TITLE]: R-texreg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-httr)
+R-texreg

@@ -1,0 +1,11 @@
+# [TITLE]: php-parle-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(php-parle-license)
+php-parle-lib

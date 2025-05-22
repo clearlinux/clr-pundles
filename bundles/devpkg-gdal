@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gdal-dev
+include(gdal-dev)
 include(curl)
 include(lib-imageformat)
 include(libstdcpp)

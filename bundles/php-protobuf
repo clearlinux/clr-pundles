@@ -1,0 +1,9 @@
+# [TITLE]: php-protobuf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-protobuf-lib)
+include(php-protobuf-license)
+php-protobuf

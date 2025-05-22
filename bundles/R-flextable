@@ -1,0 +1,17 @@
+# [TITLE]: R-flextable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-data.table)
+include(R-gdtools)
+include(R-htmltools)
+include(R-knitr)
+include(R-officer)
+include(R-ragg)
+include(R-rlang)
+include(R-rmarkdown)
+include(R-uuid)
+include(R-xml2)
+R-flextable

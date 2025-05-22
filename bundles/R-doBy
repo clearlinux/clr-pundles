@@ -1,0 +1,17 @@
+# [TITLE]: R-doBy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Deriv)
+include(R-broom)
+include(R-cowplot)
+include(R-dplyr)
+include(R-ggplot2)
+include(R-microbenchmark)
+include(R-modelr)
+include(R-rlang)
+include(R-tibble)
+include(R-tidyr)
+R-doBy

@@ -1,0 +1,9 @@
+# [TITLE]: R-pscl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-pscl-lib)
+include(R-pscl-license)
+R-pscl

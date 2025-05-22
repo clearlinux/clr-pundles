@@ -1,0 +1,16 @@
+# [TITLE]: R-dtplyr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-data.table)
+include(R-dplyr)
+include(R-glue)
+include(R-lifecycle)
+include(R-rlang)
+include(R-tibble)
+include(R-tidyselect)
+include(R-vctrs)
+R-dtplyr

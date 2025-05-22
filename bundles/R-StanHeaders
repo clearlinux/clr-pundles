@@ -1,0 +1,10 @@
+# [TITLE]: R-StanHeaders
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RcppEigen)
+include(R-RcppParallel)
+include(R-StanHeaders-license)
+R-StanHeaders

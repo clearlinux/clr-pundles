@@ -1,0 +1,14 @@
+# [TITLE]: libgit2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgit2)
+include(libgit2-bin)
+include(libgit2-lib)
+include(openssl-dev)
+include(pcre2-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+libgit2-dev

@@ -1,0 +1,10 @@
+# [TITLE]: R-fauxpas
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-httpcode)
+include(R-whisker)
+R-fauxpas

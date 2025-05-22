@@ -1,0 +1,13 @@
+# [TITLE]: R-phylobase
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RNeXML)
+include(R-Rcpp)
+include(R-ade4)
+include(R-ape)
+include(R-phylobase-lib)
+include(R-rncl)
+R-phylobase

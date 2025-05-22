@@ -1,0 +1,8 @@
+# [TITLE]: R-goftest-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-goftest-lib

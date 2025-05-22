@@ -1,0 +1,11 @@
+# [TITLE]: udunits-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(udunits)
+include(udunits-bin)
+include(udunits-data)
+include(udunits-lib)
+udunits-dev

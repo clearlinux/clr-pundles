@@ -1,0 +1,15 @@
+# [TITLE]: R-lintr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-backports)
+include(R-cli)
+include(R-digest)
+include(R-glue)
+include(R-knitr)
+include(R-rex)
+include(R-xml2)
+include(R-xmlparsedata)
+R-lintr

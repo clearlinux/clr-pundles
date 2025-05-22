@@ -1,0 +1,16 @@
+# [TITLE]: R-broom.mixed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-broom)
+include(R-coda)
+include(R-dplyr)
+include(R-forcats)
+include(R-furrr)
+include(R-purrr)
+include(R-stringr)
+include(R-tibble)
+include(R-tidyr)
+R-broom.mixed

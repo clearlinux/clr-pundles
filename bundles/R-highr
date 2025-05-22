@@ -1,0 +1,8 @@
+# [TITLE]: R-highr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-xfun)
+R-highr

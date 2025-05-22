@@ -1,0 +1,9 @@
+# [TITLE]: R-vcd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-colorspace)
+include(R-lmtest)
+R-vcd

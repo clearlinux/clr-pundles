@@ -1,0 +1,12 @@
+# [TITLE]: ruby-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(ruby)
+include(ruby-bin)
+include(ruby-data)
+include(ruby-lib)
+ruby-dev

@@ -1,0 +1,14 @@
+# [TITLE]: R-car
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-abind)
+include(R-carData)
+include(R-lme4)
+include(R-pbkrtest)
+include(R-quantreg)
+include(R-scales)
+R-car

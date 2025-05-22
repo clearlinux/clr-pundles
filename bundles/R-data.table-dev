@@ -1,0 +1,9 @@
+# [TITLE]: R-data.table-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-data.table)
+include(R-data.table-lib)
+R-data.table-dev

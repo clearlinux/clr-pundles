@@ -1,0 +1,11 @@
+# [TITLE]: R-webshot
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-callr)
+include(R-jsonlite)
+include(R-magrittr)
+include(R-webshot-license)
+R-webshot

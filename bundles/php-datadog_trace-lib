@@ -1,0 +1,11 @@
+# [TITLE]: php-datadog_trace-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(libc6)
+include(libgcc1)
+include(php-datadog_trace-license)
+php-datadog_trace-lib

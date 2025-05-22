@@ -1,0 +1,9 @@
+# [TITLE]: php-inotify
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-inotify-lib)
+include(php-inotify-license)
+php-inotify

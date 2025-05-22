@@ -1,0 +1,8 @@
+# [TITLE]: R-ATR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-partykit)
+R-ATR

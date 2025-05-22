@@ -1,0 +1,11 @@
+# [TITLE]: tk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(tk-bin)
+include(tk-license)
+include(tk-man)
+tk

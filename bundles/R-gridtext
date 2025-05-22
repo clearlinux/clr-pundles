@@ -1,0 +1,16 @@
+# [TITLE]: R-gridtext
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-curl)
+include(R-gridtext-lib)
+include(R-jpeg)
+include(R-markdown)
+include(R-png)
+include(R-rlang)
+include(R-stringr)
+include(R-xml2)
+R-gridtext

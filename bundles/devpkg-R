@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-R-dev
+include(R-dev)
 include(libX11client)
 include(curl)
 include(libglib)

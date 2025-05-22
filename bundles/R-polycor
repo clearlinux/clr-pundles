@@ -1,0 +1,9 @@
+# [TITLE]: R-polycor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-admisc)
+include(R-mvtnorm)
+R-polycor

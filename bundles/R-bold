@@ -1,0 +1,12 @@
+# [TITLE]: R-bold
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-crul)
+include(R-data.table)
+include(R-jsonlite)
+include(R-stringi)
+include(R-xml2)
+R-bold

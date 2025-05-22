@@ -1,0 +1,14 @@
+# [TITLE]: R-cards
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-dplyr)
+include(R-glue)
+include(R-lifecycle)
+include(R-rlang)
+include(R-tidyr)
+include(R-tidyselect)
+R-cards

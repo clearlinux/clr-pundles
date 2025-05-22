@@ -1,0 +1,15 @@
+# [TITLE]: R-modelr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-broom)
+include(R-magrittr)
+include(R-purrr)
+include(R-rlang)
+include(R-tibble)
+include(R-tidyr)
+include(R-tidyselect)
+include(R-vctrs)
+R-modelr

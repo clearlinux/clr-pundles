@@ -1,0 +1,13 @@
+# [TITLE]: R-hdrcde
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-ash)
+include(R-ggplot2)
+include(R-hdrcde-lib)
+include(R-ks)
+include(R-locfit)
+R-hdrcde

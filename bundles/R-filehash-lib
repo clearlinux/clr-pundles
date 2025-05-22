@@ -1,0 +1,10 @@
+# [TITLE]: R-filehash-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-filehash-license)
+include(R-lib)
+include(libc6)
+R-filehash-lib

@@ -1,0 +1,12 @@
+# [TITLE]: R-mixtools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-kernlab)
+include(R-mixtools-lib)
+include(R-plotly)
+include(R-scales)
+include(R-segmented)
+R-mixtools

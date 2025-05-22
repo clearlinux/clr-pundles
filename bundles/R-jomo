@@ -1,0 +1,11 @@
+# [TITLE]: R-jomo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jomo-lib)
+include(R-lme4)
+include(R-ordinal)
+include(R-tibble)
+R-jomo

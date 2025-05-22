@@ -1,0 +1,8 @@
+# [TITLE]: R-magrittr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-magrittr-lib)
+R-magrittr

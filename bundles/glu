@@ -1,0 +1,8 @@
+# [TITLE]: glu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glu-lib)
+glu

@@ -1,0 +1,10 @@
+# [TITLE]: R-hypergeo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-contfrac)
+include(R-deSolve)
+include(R-elliptic)
+R-hypergeo

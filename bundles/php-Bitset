@@ -1,0 +1,9 @@
+# [TITLE]: php-Bitset
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-Bitset-lib)
+include(php-Bitset-license)
+php-Bitset

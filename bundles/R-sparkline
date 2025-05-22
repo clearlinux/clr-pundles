@@ -1,0 +1,9 @@
+# [TITLE]: R-sparkline
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-htmlwidgets)
+R-sparkline

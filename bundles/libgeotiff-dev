@@ -1,0 +1,13 @@
+# [TITLE]: libgeotiff-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgeotiff)
+include(libgeotiff-bin)
+include(libgeotiff-lib)
+include(pkg-config-bin)
+include(proj-dev)
+include(tiff-dev)
+libgeotiff-dev

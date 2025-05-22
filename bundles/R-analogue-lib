@@ -1,0 +1,9 @@
+# [TITLE]: R-analogue-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-analogue-license)
+include(R-lib)
+R-analogue-lib

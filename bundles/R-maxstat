@@ -1,0 +1,10 @@
+# [TITLE]: R-maxstat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-exactRankTests)
+include(R-maxstat-lib)
+include(R-mvtnorm)
+R-maxstat

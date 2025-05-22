@@ -1,0 +1,8 @@
+# [TITLE]: R-audio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-audio-lib)
+R-audio

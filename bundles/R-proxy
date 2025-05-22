@@ -1,0 +1,8 @@
+# [TITLE]: R-proxy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-proxy-lib)
+R-proxy

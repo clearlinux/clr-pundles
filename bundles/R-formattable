@@ -1,0 +1,11 @@
+# [TITLE]: R-formattable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-knitr)
+include(R-rmarkdown)
+R-formattable

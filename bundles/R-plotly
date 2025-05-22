@@ -1,0 +1,29 @@
+# [TITLE]: R-plotly
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-base64enc)
+include(R-crosstalk)
+include(R-data.table)
+include(R-digest)
+include(R-dplyr)
+include(R-ggplot2)
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-httr)
+include(R-jsonlite)
+include(R-lazyeval)
+include(R-magrittr)
+include(R-plotly-license)
+include(R-promises)
+include(R-purrr)
+include(R-rlang)
+include(R-scales)
+include(R-tibble)
+include(R-tidyr)
+include(R-vctrs)
+include(R-viridisLite)
+R-plotly

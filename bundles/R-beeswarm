@@ -1,0 +1,8 @@
+# [TITLE]: R-beeswarm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-beeswarm-lib)
+R-beeswarm

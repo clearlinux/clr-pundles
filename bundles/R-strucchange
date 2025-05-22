@@ -1,0 +1,10 @@
+# [TITLE]: R-strucchange
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sandwich)
+include(R-strucchange-lib)
+include(R-zoo)
+R-strucchange

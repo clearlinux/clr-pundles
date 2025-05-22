@@ -1,0 +1,10 @@
+# [TITLE]: R-urltools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-triebeard)
+include(R-urltools-lib)
+R-urltools

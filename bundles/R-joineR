@@ -1,0 +1,9 @@
+# [TITLE]: R-joineR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-joineR-license)
+include(R-statmod)
+R-joineR

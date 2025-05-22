@@ -1,0 +1,8 @@
+# [TITLE]: R-fastmatch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fastmatch-lib)
+R-fastmatch

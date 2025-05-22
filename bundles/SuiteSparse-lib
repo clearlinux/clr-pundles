@@ -1,0 +1,16 @@
+# [TITLE]: SuiteSparse-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SuiteSparse-license)
+include(gcc-libs-math)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(metis-lib)
+include(mpfr-lib)
+include(openblas)
+SuiteSparse-lib

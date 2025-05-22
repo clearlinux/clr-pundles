@@ -1,0 +1,21 @@
+# [TITLE]: R-projpred
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-abind)
+include(R-gamm4)
+include(R-ggplot2)
+include(R-gtools)
+include(R-lme4)
+include(R-loo)
+include(R-mclogit)
+include(R-mvtnorm)
+include(R-ordinal)
+include(R-projpred-lib)
+include(R-rstantools)
+include(R-scales)
+R-projpred

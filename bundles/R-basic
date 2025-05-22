@@ -10,7 +10,7 @@ include(libX11client)
 # R base packages
 #
 clr-R-helpers
-R
+include(R)
 include(devpkg-R)
 include(tcl-basic)
 #
@@ -36,4 +36,4 @@ include(less)
 #
 # broadly useful R utilities
 #
-R-languageserver
+include(R-languageserver)

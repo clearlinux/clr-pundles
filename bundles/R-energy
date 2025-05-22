@@ -1,0 +1,10 @@
+# [TITLE]: R-energy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-energy-lib)
+include(R-gsl)
+R-energy

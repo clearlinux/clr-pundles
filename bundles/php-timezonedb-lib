@@ -1,0 +1,8 @@
+# [TITLE]: php-timezonedb-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-timezonedb-license)
+php-timezonedb-lib

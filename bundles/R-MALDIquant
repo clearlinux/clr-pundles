@@ -1,0 +1,8 @@
+# [TITLE]: R-MALDIquant
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-MALDIquant-lib)
+R-MALDIquant

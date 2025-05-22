@@ -1,0 +1,13 @@
+# [TITLE]: php-mongodb-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(libc6)
+include(openssl-lib)
+include(php-mongodb-license)
+include(zlib-lib)
+include(zstd-lib)
+php-mongodb-lib

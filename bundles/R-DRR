@@ -1,0 +1,9 @@
+# [TITLE]: R-DRR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-CVST)
+include(R-kernlab)
+R-DRR

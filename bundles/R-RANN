@@ -1,0 +1,8 @@
+# [TITLE]: R-RANN
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RANN-lib)
+R-RANN

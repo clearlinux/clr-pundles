@@ -1,0 +1,10 @@
+# [TITLE]: R-shinyjs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-digest)
+include(R-jsonlite)
+include(R-shiny)
+R-shinyjs

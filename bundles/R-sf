@@ -1,0 +1,14 @@
+# [TITLE]: R-sf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DBI)
+include(R-Rcpp)
+include(R-classInt)
+include(R-magrittr)
+include(R-s2)
+include(R-sf-lib)
+include(R-units)
+R-sf

@@ -1,0 +1,8 @@
+# [TITLE]: R-lars-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-lars-lib

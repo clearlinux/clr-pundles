@@ -1,0 +1,10 @@
+# [TITLE]: php-rdkafka-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(librdkafka-lib)
+include(php-rdkafka-license)
+php-rdkafka-lib

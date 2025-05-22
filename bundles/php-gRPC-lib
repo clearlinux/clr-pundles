@@ -1,0 +1,10 @@
+# [TITLE]: php-gRPC-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(php-gRPC-license)
+php-gRPC-lib

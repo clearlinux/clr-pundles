@@ -1,0 +1,14 @@
+# [TITLE]: R-sass
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-fs)
+include(R-htmltools)
+include(R-rappdirs)
+include(R-rlang)
+include(R-sass-lib)
+include(R-sass-license)
+R-sass

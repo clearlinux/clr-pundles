@@ -1,0 +1,8 @@
+# [TITLE]: R-reshape
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-plyr)
+R-reshape

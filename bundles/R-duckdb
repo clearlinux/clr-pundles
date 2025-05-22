@@ -1,0 +1,9 @@
+# [TITLE]: R-duckdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DBI)
+include(R-duckdb-lib)
+R-duckdb

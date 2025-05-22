@@ -1,0 +1,8 @@
+# [TITLE]: R-hexbin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-hexbin-lib)
+R-hexbin

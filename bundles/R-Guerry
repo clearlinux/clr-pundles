@@ -1,0 +1,8 @@
+# [TITLE]: R-Guerry
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sp)
+R-Guerry

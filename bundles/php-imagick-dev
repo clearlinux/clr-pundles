@@ -1,0 +1,9 @@
+# [TITLE]: php-imagick-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-imagick)
+include(php-imagick-lib)
+php-imagick-dev

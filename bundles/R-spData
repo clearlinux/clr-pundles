@@ -1,0 +1,8 @@
+# [TITLE]: R-spData
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sp)
+R-spData

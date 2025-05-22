@@ -1,0 +1,8 @@
+# [TITLE]: R-jsonlite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jsonlite-lib)
+R-jsonlite

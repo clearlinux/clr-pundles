@@ -1,0 +1,10 @@
+# [TITLE]: R-RProtoBuf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RProtoBuf-lib)
+include(R-Rcpp)
+include(filesystem)
+R-RProtoBuf

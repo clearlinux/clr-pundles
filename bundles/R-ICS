@@ -1,0 +1,9 @@
+# [TITLE]: R-ICS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mvtnorm)
+include(R-survey)
+R-ICS

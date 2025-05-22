@@ -1,0 +1,11 @@
+# [TITLE]: R-conquer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-conquer-lib)
+include(R-matrixStats)
+R-conquer

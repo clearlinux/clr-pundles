@@ -1,0 +1,9 @@
+# [TITLE]: R-spatstat.univar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-spatstat.univar-lib)
+include(R-spatstat.utils)
+R-spatstat.univar

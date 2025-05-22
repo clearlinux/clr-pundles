@@ -1,0 +1,8 @@
+# [TITLE]: R-Exact
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rootSolve)
+R-Exact

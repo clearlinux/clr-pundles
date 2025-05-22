@@ -1,0 +1,12 @@
+# [TITLE]: R-ade4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-ade4-lib)
+include(R-pixmap)
+include(R-sp)
+R-ade4

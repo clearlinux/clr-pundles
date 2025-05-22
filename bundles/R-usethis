@@ -1,0 +1,27 @@
+# [TITLE]: R-usethis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-clipr)
+include(R-crayon)
+include(R-curl)
+include(R-desc)
+include(R-fs)
+include(R-gert)
+include(R-gh)
+include(R-glue)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-purrr)
+include(R-rappdirs)
+include(R-rlang)
+include(R-rprojroot)
+include(R-rstudioapi)
+include(R-usethis-license)
+include(R-whisker)
+include(R-withr)
+include(R-yaml)
+R-usethis

@@ -1,0 +1,9 @@
+# [TITLE]: R-xml2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-xml2)
+include(R-xml2-lib)
+R-xml2-dev

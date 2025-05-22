@@ -1,0 +1,8 @@
+# [TITLE]: R-betareg-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-betareg-lib

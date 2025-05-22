@@ -1,0 +1,9 @@
+# [TITLE]: php-eio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-eio-lib)
+include(php-eio-license)
+php-eio

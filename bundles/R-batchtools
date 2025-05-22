@@ -1,0 +1,21 @@
+# [TITLE]: R-batchtools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-backports)
+include(R-base64url)
+include(R-batchtools-lib)
+include(R-brew)
+include(R-checkmate)
+include(R-data.table)
+include(R-digest)
+include(R-fs)
+include(R-progress)
+include(R-rappdirs)
+include(R-stringi)
+include(R-withr)
+include(filesystem)
+R-batchtools

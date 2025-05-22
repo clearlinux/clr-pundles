@@ -1,0 +1,9 @@
+# [TITLE]: R-sampling
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lpSolve)
+include(R-sampling-lib)
+R-sampling

@@ -1,0 +1,23 @@
+# [TITLE]: R-googlesheets4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cellranger)
+include(R-cli)
+include(R-curl)
+include(R-gargle)
+include(R-glue)
+include(R-googledrive)
+include(R-httr)
+include(R-ids)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-purrr)
+include(R-rematch2)
+include(R-rlang)
+include(R-tibble)
+include(R-vctrs)
+include(R-withr)
+R-googlesheets4

@@ -1,0 +1,11 @@
+# [TITLE]: udunits-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(libc6)
+include(udunits-data)
+include(udunits-license)
+udunits-lib

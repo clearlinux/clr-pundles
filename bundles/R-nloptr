@@ -1,0 +1,8 @@
+# [TITLE]: R-nloptr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-nloptr-lib)
+R-nloptr

@@ -1,0 +1,9 @@
+# [TITLE]: R-zip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-zip-lib)
+include(libc6)
+R-zip

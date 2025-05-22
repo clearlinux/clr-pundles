@@ -1,0 +1,21 @@
+# [TITLE]: R-leaflet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-crosstalk)
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-jquerylib)
+include(R-leaflet-license)
+include(R-leaflet.providers)
+include(R-magrittr)
+include(R-png)
+include(R-raster)
+include(R-scales)
+include(R-sp)
+include(R-viridisLite)
+include(R-xfun)
+R-leaflet

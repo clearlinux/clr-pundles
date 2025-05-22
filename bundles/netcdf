@@ -1,0 +1,12 @@
+# [TITLE]: netcdf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(netcdf-bin)
+include(netcdf-lib)
+include(netcdf-license)
+include(netcdf-man)
+include(netcdf-openmpi)
+netcdf

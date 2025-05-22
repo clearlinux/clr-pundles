@@ -1,0 +1,14 @@
+# [TITLE]: R-ClustVarLV
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ClustVarLV-lib)
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-doParallel)
+include(R-foreach)
+include(R-iterators)
+include(R-plyr)
+R-ClustVarLV

@@ -1,0 +1,8 @@
+# [TITLE]: R-ordinalCont
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Deriv)
+R-ordinalCont

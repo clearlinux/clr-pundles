@@ -1,0 +1,10 @@
+# [TITLE]: R-viridis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+include(R-gridExtra)
+include(R-viridisLite)
+R-viridis

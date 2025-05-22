@@ -1,0 +1,8 @@
+# [TITLE]: R-WDI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jsonlite)
+R-WDI

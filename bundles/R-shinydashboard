@@ -1,0 +1,10 @@
+# [TITLE]: R-shinydashboard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-promises)
+include(R-shiny)
+R-shinydashboard

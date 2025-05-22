@@ -1,0 +1,9 @@
+# [TITLE]: R-princurve
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-princurve-lib)
+R-princurve

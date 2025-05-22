@@ -1,0 +1,8 @@
+# [TITLE]: tk-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tk-dev)
+tk-staticdev

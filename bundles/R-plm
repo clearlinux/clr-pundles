@@ -1,0 +1,15 @@
+# [TITLE]: R-plm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-Rdpack)
+include(R-bdsmatrix)
+include(R-collapse)
+include(R-lmtest)
+include(R-maxLik)
+include(R-sandwich)
+include(R-zoo)
+R-plm

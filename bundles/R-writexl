@@ -1,0 +1,9 @@
+# [TITLE]: R-writexl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-writexl-lib)
+include(R-writexl-license)
+R-writexl

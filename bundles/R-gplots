@@ -1,0 +1,9 @@
+# [TITLE]: R-gplots
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-caTools)
+include(R-gtools)
+R-gplots

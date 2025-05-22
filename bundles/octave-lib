@@ -1,0 +1,27 @@
+# [TITLE]: octave-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SuiteSparse-lib)
+include(curl-lib)
+include(fftw-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(gcc-libgfortran)
+include(gcc-libs-math)
+include(glu-lib)
+include(hdf5-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(octave-data)
+include(octave-license)
+include(openblas)
+include(pcre2-lib)
+include(readline-lib)
+include(zlib-lib)
+octave-lib

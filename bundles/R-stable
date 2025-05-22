@@ -1,0 +1,9 @@
+# [TITLE]: R-stable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rmutil)
+include(R-stable-lib)
+R-stable

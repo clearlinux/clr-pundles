@@ -1,0 +1,11 @@
+# [TITLE]: R-progress
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-crayon)
+include(R-hms)
+include(R-prettyunits)
+R-progress

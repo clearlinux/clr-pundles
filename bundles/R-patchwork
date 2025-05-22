@@ -1,0 +1,12 @@
+# [TITLE]: R-patchwork
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-farver)
+include(R-ggplot2)
+include(R-gtable)
+include(R-rlang)
+R-patchwork

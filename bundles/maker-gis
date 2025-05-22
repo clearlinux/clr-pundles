@@ -18,7 +18,7 @@ include(c-basic)
 # low level components
 include(gdal)
 include(geos)
-proj
+include(proj)
 
 
 # higher layer pieces

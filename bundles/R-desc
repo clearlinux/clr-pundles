@@ -1,0 +1,9 @@
+# [TITLE]: R-desc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-cli)
+R-desc

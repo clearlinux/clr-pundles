@@ -1,0 +1,9 @@
+# [TITLE]: R-zoo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-zoo)
+include(R-zoo-lib)
+R-zoo-dev

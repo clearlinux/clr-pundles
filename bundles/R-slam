@@ -1,0 +1,8 @@
+# [TITLE]: R-slam
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-slam-lib)
+R-slam

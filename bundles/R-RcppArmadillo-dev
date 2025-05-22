@@ -1,0 +1,9 @@
+# [TITLE]: R-RcppArmadillo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RcppArmadillo)
+include(R-RcppArmadillo-lib)
+R-RcppArmadillo-dev

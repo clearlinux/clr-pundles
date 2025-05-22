@@ -1,0 +1,8 @@
+# [TITLE]: R-Rcgmin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-optextras)
+R-Rcgmin

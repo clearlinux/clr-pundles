@@ -1,0 +1,8 @@
+# [TITLE]: R-shinythemes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-shiny)
+R-shinythemes

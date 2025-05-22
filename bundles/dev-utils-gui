@@ -11,7 +11,7 @@ include(qt-basic)
 
 include(ddd)
 git-gui
-tk
+include(tk)
 qgit
 include(aspell)
 include(gobject-introspection)

@@ -1,0 +1,11 @@
+# [TITLE]: R-TTR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-TTR-lib)
+include(R-curl)
+include(R-xts)
+include(R-zoo)
+R-TTR

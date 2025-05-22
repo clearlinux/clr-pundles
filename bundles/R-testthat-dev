@@ -1,0 +1,9 @@
+# [TITLE]: R-testthat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-testthat)
+include(R-testthat-lib)
+R-testthat-dev

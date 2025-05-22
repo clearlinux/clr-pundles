@@ -1,0 +1,12 @@
+# [TITLE]: R-systemfonts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc)
+include(R-cpp11)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-systemfonts-lib)
+R-systemfonts

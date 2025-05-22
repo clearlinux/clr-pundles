@@ -1,0 +1,10 @@
+# [TITLE]: R-Rmpi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+include(openmpi-lib)
+R-Rmpi-lib

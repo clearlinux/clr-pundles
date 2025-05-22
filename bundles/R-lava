@@ -1,0 +1,12 @@
+# [TITLE]: R-lava
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-SQUAREM)
+include(R-cli)
+include(R-future.apply)
+include(R-numDeriv)
+include(R-progressr)
+R-lava

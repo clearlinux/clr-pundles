@@ -1,0 +1,13 @@
+# [TITLE]: R-purrrlyr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-dplyr)
+include(R-magrittr)
+include(R-purrr)
+include(R-purrrlyr-lib)
+include(R-purrrlyr-license)
+R-purrrlyr

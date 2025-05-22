@@ -1,0 +1,14 @@
+# [TITLE]: R-party
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-coin)
+include(R-modeltools)
+include(R-mvtnorm)
+include(R-party-lib)
+include(R-sandwich)
+include(R-strucchange)
+include(R-zoo)
+R-party

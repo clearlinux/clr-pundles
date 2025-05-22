@@ -1,0 +1,11 @@
+# [TITLE]: R-doMPI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rmpi)
+include(R-foreach)
+include(R-iterators)
+include(openmpi)
+R-doMPI

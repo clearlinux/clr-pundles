@@ -1,0 +1,18 @@
+# [TITLE]: librdkafka-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+include(cyrus-sasl-dev)
+include(librdkafka)
+include(librdkafka-data)
+include(librdkafka-dev)
+include(librdkafka-lib)
+include(lz4-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+include(zstd-dev)
+librdkafka-dev

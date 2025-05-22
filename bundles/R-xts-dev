@@ -1,0 +1,9 @@
+# [TITLE]: R-xts-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-xts)
+include(R-xts-lib)
+R-xts-dev

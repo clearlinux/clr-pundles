@@ -1,0 +1,12 @@
+# [TITLE]: tk-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-lib)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libXft-lib)
+include(libc6)
+tk-extras

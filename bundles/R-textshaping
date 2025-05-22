@@ -1,0 +1,12 @@
+# [TITLE]: R-textshaping
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cpp11)
+include(R-lifecycle)
+include(R-stringi)
+include(R-systemfonts)
+include(R-textshaping-lib)
+R-textshaping

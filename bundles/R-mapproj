@@ -1,0 +1,10 @@
+# [TITLE]: R-mapproj
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mapproj-lib)
+include(R-mapproj-license)
+include(R-maps)
+R-mapproj

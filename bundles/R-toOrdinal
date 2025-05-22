@@ -1,0 +1,9 @@
+# [TITLE]: R-toOrdinal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-crayon)
+include(R-testthat)
+R-toOrdinal

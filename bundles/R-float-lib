@@ -1,0 +1,12 @@
+# [TITLE]: R-float-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-float-license)
+include(R-lib)
+include(gcc-libs-math)
+include(libc6)
+include(openblas)
+R-float-lib

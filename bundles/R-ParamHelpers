@@ -1,0 +1,12 @@
+# [TITLE]: R-ParamHelpers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BBmisc)
+include(R-ParamHelpers-lib)
+include(R-backports)
+include(R-checkmate)
+include(R-fastmatch)
+R-ParamHelpers

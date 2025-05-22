@@ -1,0 +1,9 @@
+# [TITLE]: R-network-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-network)
+include(R-network-lib)
+R-network-dev

@@ -1,0 +1,9 @@
+# [TITLE]: R-quantreg-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+R-quantreg-lib

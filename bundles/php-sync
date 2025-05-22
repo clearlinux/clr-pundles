@@ -1,0 +1,9 @@
+# [TITLE]: php-sync
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-sync-lib)
+include(php-sync-license)
+php-sync

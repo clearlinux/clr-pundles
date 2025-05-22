@@ -1,0 +1,18 @@
+# [TITLE]: R-httr2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-cli)
+include(R-curl)
+include(R-glue)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-openssl)
+include(R-rappdirs)
+include(R-rlang)
+include(R-vctrs)
+include(R-withr)
+R-httr2

@@ -1,0 +1,13 @@
+# [TITLE]: R-survey
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-minqa)
+include(R-mitools)
+include(R-numDeriv)
+include(R-survey-lib)
+R-survey

@@ -1,0 +1,12 @@
+# [TITLE]: R-R2jags
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R2WinBUGS)
+include(R-abind)
+include(R-coda)
+include(R-rjags)
+include(R-stringr)
+R-R2jags

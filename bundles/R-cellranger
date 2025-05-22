@@ -1,0 +1,9 @@
+# [TITLE]: R-cellranger
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rematch)
+include(R-tibble)
+R-cellranger

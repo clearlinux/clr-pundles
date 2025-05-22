@@ -1,0 +1,9 @@
+# [TITLE]: R-futile.logger
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-futile.options)
+include(R-lambda.r)
+R-futile.logger

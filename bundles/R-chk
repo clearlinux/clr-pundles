@@ -1,0 +1,9 @@
+# [TITLE]: R-chk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lifecycle)
+include(R-rlang)
+R-chk

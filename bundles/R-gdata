@@ -1,0 +1,8 @@
+# [TITLE]: R-gdata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gtools)
+R-gdata

@@ -1,0 +1,8 @@
+# [TITLE]: R-lfe-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+R-lfe-extras

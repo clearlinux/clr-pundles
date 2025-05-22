@@ -1,0 +1,11 @@
+# [TITLE]: R-hunspell
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-digest)
+include(R-hunspell-lib)
+include(R-hunspell-license)
+R-hunspell

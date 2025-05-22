@@ -1,0 +1,12 @@
+# [TITLE]: R-lbfgsb3c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-lbfgsb3c-lib)
+include(R-lbfgsb3c-license)
+include(R-numDeriv)
+R-lbfgsb3c

@@ -1,0 +1,12 @@
+# [TITLE]: R-htmlwidgets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-jsonlite)
+include(R-knitr)
+include(R-rmarkdown)
+include(R-yaml)
+R-htmlwidgets

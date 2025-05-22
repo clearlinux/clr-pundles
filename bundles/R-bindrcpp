@@ -1,0 +1,11 @@
+# [TITLE]: R-bindrcpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-bindr)
+include(R-bindrcpp-lib)
+include(R-plogr)
+R-bindrcpp

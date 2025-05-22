@@ -1,0 +1,9 @@
+# [TITLE]: R-pmml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-XML)
+include(R-stringr)
+R-pmml

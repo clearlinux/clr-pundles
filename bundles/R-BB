@@ -1,0 +1,8 @@
+# [TITLE]: R-BB
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-quadprog)
+R-BB

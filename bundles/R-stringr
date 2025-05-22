@@ -1,0 +1,14 @@
+# [TITLE]: R-stringr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-glue)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-rlang)
+include(R-stringi)
+include(R-vctrs)
+R-stringr

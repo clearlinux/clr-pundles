@@ -1,0 +1,9 @@
+# [TITLE]: R-fds
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RCurl)
+include(R-rainbow)
+R-fds

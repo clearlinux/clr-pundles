@@ -1,0 +1,10 @@
+# [TITLE]: R-seqinr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ade4)
+include(R-segmented)
+include(R-seqinr-lib)
+R-seqinr

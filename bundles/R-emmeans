@@ -1,0 +1,10 @@
+# [TITLE]: R-emmeans
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-estimability)
+include(R-mvtnorm)
+include(R-numDeriv)
+R-emmeans

@@ -1,0 +1,9 @@
+# [TITLE]: R-whoami
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-httr)
+include(R-jsonlite)
+R-whoami

@@ -1,0 +1,12 @@
+# [TITLE]: R-glmnet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-foreach)
+include(R-glmnet-lib)
+include(R-shape)
+R-glmnet

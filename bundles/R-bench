@@ -1,0 +1,13 @@
+# [TITLE]: R-bench
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bench-lib)
+include(R-glue)
+include(R-pillar)
+include(R-profmem)
+include(R-rlang)
+include(R-tibble)
+R-bench

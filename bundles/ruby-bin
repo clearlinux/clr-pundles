@@ -1,0 +1,14 @@
+# [TITLE]: ruby-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(libc6)
+include(libxcrypt-lib)
+include(ruby-data)
+include(ruby-lib)
+include(ruby-license)
+include(zlib-lib)
+ruby-bin

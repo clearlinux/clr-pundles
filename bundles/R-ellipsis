@@ -1,0 +1,9 @@
+# [TITLE]: R-ellipsis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ellipsis-lib)
+include(R-rlang)
+R-ellipsis

@@ -1,0 +1,16 @@
+# [TITLE]: R-spatstat.linnet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-spatstat.data)
+include(R-spatstat.explore)
+include(R-spatstat.geom)
+include(R-spatstat.linnet-lib)
+include(R-spatstat.model)
+include(R-spatstat.random)
+include(R-spatstat.sparse)
+include(R-spatstat.univar)
+include(R-spatstat.utils)
+R-spatstat.linnet

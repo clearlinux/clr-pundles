@@ -1,0 +1,11 @@
+# [TITLE]: R-fNonlinear
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fBasics)
+include(R-fNonlinear-lib)
+include(R-timeDate)
+include(R-timeSeries)
+R-fNonlinear

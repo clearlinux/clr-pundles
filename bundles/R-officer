@@ -1,0 +1,14 @@
+# [TITLE]: R-officer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-cli)
+include(R-openssl)
+include(R-ragg)
+include(R-uuid)
+include(R-xml2)
+include(R-zip)
+R-officer

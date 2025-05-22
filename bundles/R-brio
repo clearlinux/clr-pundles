@@ -1,0 +1,8 @@
+# [TITLE]: R-brio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-brio-lib)
+R-brio

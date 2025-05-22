@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-nlopt-dev
+include(nlopt-dev)
 include(libstdcpp)
 include(libnl)
 include(libX11client)

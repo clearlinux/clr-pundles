@@ -1,0 +1,10 @@
+# [TITLE]: librttopo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geos-lib)
+include(libc6)
+include(librttopo-license)
+librttopo-lib

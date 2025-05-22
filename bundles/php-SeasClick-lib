@@ -1,0 +1,11 @@
+# [TITLE]: php-SeasClick-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(php-SeasClick-license)
+php-SeasClick-lib

@@ -1,0 +1,10 @@
+# [TITLE]: R-bbmle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bdsmatrix)
+include(R-mvtnorm)
+include(R-numDeriv)
+R-bbmle

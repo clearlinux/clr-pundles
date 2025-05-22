@@ -1,0 +1,10 @@
+# [TITLE]: R-quantreg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-MatrixModels)
+include(R-SparseM)
+include(R-quantreg-lib)
+R-quantreg

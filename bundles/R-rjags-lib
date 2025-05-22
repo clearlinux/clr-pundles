@@ -1,0 +1,12 @@
+# [TITLE]: R-rjags-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(JAGS-lib)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-rjags-lib

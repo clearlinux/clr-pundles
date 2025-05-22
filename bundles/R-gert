@@ -1,0 +1,14 @@
+# [TITLE]: R-gert
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-askpass)
+include(R-credentials)
+include(R-gert-lib)
+include(R-openssl)
+include(R-rstudioapi)
+include(R-sys)
+include(R-zip)
+R-gert

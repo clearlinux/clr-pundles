@@ -1,0 +1,8 @@
+# [TITLE]: R-optextras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-numDeriv)
+R-optextras

@@ -1,0 +1,8 @@
+# [TITLE]: R-rbibutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rbibutils-lib)
+R-rbibutils

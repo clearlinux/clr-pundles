@@ -1,0 +1,22 @@
+# [TITLE]: R-rstanarm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BH)
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-RcppParallel)
+include(R-StanHeaders)
+include(R-bayesplot)
+include(R-ggplot2)
+include(R-lme4)
+include(R-loo)
+include(R-posterior)
+include(R-rstan)
+include(R-rstanarm-lib)
+include(R-rstanarm-license)
+include(R-rstantools)
+include(R-shinystan)
+R-rstanarm

@@ -1,0 +1,8 @@
+# [TITLE]: R-fracdiff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fracdiff-lib)
+R-fracdiff

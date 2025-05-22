@@ -1,0 +1,27 @@
+# [TITLE]: R
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bin)
+include(R-doc)
+include(R-lib)
+include(cairo-lib)
+include(filesystem)
+include(gcc-libgfortran)
+include(gcc-libs-math)
+include(glib-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(pango-lib)
+include(tcl-lib)
+include(tk-extras)
+include(which)
+include(zlib-lib)
+R

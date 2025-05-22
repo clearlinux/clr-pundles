@@ -1,0 +1,12 @@
+# [TITLE]: R-lobstr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cpp11)
+include(R-crayon)
+include(R-lobstr-lib)
+include(R-prettyunits)
+include(R-rlang)
+R-lobstr

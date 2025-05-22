@@ -1,0 +1,11 @@
+# [TITLE]: udunits-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(udunits-data)
+include(udunits-lib)
+include(udunits-license)
+udunits-bin

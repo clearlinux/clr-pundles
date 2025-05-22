@@ -1,0 +1,10 @@
+# [TITLE]: R-WikipediR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-httr)
+include(R-jsonlite)
+include(R-magrittr)
+R-WikipediR

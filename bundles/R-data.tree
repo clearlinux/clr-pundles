@@ -1,0 +1,9 @@
+# [TITLE]: R-data.tree
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-stringi)
+R-data.tree

@@ -1,0 +1,11 @@
+# [TITLE]: R-Hmisc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Hmisc-license)
+include(R-lib)
+include(gcc-libgfortran)
+include(libc6)
+R-Hmisc-lib

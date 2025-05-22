@@ -1,0 +1,8 @@
+# [TITLE]: R-kernlab
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-kernlab-lib)
+R-kernlab

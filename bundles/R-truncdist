@@ -1,0 +1,8 @@
+# [TITLE]: R-truncdist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-evd)
+R-truncdist

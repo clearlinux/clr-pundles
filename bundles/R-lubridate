@@ -1,0 +1,10 @@
+# [TITLE]: R-lubridate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-generics)
+include(R-lubridate-lib)
+include(R-timechange)
+R-lubridate

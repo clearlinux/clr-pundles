@@ -1,0 +1,9 @@
+# [TITLE]: R-bdsmatrix
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bdsmatrix-lib)
+include(R-bdsmatrix-license)
+R-bdsmatrix

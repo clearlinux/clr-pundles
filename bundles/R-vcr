@@ -1,0 +1,16 @@
+# [TITLE]: R-vcr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-base64enc)
+include(R-crul)
+include(R-httr)
+include(R-httr2)
+include(R-rprojroot)
+include(R-urltools)
+include(R-webmockr)
+include(R-yaml)
+R-vcr

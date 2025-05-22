@@ -1,0 +1,9 @@
+# [TITLE]: R-dtw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-dtw-lib)
+include(R-proxy)
+R-dtw

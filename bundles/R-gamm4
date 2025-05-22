@@ -1,0 +1,8 @@
+# [TITLE]: R-gamm4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lme4)
+R-gamm4

@@ -1,0 +1,10 @@
+# [TITLE]: php-yaml-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(php-yaml-license)
+include(yaml-lib)
+php-yaml-lib

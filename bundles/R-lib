@@ -1,0 +1,31 @@
+# [TITLE]: R-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(cairo-lib)
+include(curl-lib)
+include(gcc-libgfortran)
+include(gcc-libs-math)
+include(glib-lib)
+include(harfbuzz-lib)
+include(icu4c-lib)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libXt-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(ncurses-lib)
+include(openblas)
+include(pango-lib)
+include(pcre2-lib)
+include(readline-lib)
+include(tcl-lib)
+include(tk-extras)
+include(xz-lib)
+include(zlib-lib)
+R-lib

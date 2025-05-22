@@ -1,0 +1,8 @@
+# [TITLE]: R-ncdf4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ncdf4-lib)
+R-ncdf4

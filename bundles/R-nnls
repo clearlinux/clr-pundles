@@ -1,0 +1,8 @@
+# [TITLE]: R-nnls
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-nnls-lib)
+R-nnls

@@ -1,0 +1,8 @@
+# [TITLE]: R-ICEbox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sfsmisc)
+R-ICEbox

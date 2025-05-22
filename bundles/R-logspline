@@ -1,0 +1,8 @@
+# [TITLE]: R-logspline
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-logspline-lib)
+R-logspline

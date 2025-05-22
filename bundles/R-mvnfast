@@ -1,0 +1,12 @@
+# [TITLE]: R-mvnfast
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BH)
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-mvnfast-lib)
+include(R-mvnfast-license)
+R-mvnfast

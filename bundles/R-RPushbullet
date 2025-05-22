@@ -1,0 +1,9 @@
+# [TITLE]: R-RPushbullet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-curl)
+include(R-jsonlite)
+R-RPushbullet

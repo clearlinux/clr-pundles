@@ -1,0 +1,9 @@
+# [TITLE]: R-timeSeries
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-timeDate)
+include(R-timeSeries-license)
+R-timeSeries

@@ -1,0 +1,10 @@
+# [TITLE]: R-BBmisc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BBmisc-lib)
+include(R-checkmate)
+include(R-data.table)
+R-BBmisc

@@ -1,0 +1,13 @@
+# [TITLE]: proj-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(proj-data)
+include(proj-lib)
+include(proj-license)
+proj-bin

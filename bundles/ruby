@@ -1,0 +1,13 @@
+# [TITLE]: ruby
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(ruby-bin)
+include(ruby-data)
+include(ruby-lib)
+include(ruby-license)
+include(ruby-man)
+ruby

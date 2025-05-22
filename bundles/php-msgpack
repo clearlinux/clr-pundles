@@ -1,0 +1,9 @@
+# [TITLE]: php-msgpack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-msgpack-lib)
+include(php-msgpack-license)
+php-msgpack

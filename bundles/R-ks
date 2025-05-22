@@ -1,0 +1,14 @@
+# [TITLE]: R-ks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-FNN)
+include(R-kernlab)
+include(R-ks-lib)
+include(R-mclust)
+include(R-multicool)
+include(R-mvtnorm)
+include(R-pracma)
+R-ks

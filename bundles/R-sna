@@ -1,0 +1,11 @@
+# [TITLE]: R-sna
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-network)
+include(R-sna-lib)
+include(R-sna-license)
+include(R-statnet.common)
+R-sna

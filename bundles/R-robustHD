@@ -1,0 +1,13 @@
+# [TITLE]: R-robustHD
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-ggplot2)
+include(R-perry)
+include(R-robustHD-lib)
+include(R-robustbase)
+R-robustHD

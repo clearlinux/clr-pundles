@@ -1,0 +1,26 @@
+# [TITLE]: R-DiagrammeR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DiagrammeR-license)
+include(R-RColorBrewer)
+include(R-cli)
+include(R-dplyr)
+include(R-glue)
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-igraph)
+include(R-magrittr)
+include(R-purrr)
+include(R-readr)
+include(R-rlang)
+include(R-rstudioapi)
+include(R-scales)
+include(R-stringr)
+include(R-tibble)
+include(R-tidyr)
+include(R-viridisLite)
+include(R-visNetwork)
+R-DiagrammeR

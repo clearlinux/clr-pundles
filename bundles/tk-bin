@@ -1,0 +1,11 @@
+# [TITLE]: tk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(tcl-lib)
+include(tk-extras)
+include(tk-license)
+tk-bin

@@ -1,0 +1,9 @@
+# [TITLE]: R-tfautograph
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-backports)
+include(R-reticulate)
+R-tfautograph

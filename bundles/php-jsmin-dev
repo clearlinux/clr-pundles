@@ -1,0 +1,9 @@
+# [TITLE]: php-jsmin-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-jsmin)
+include(php-jsmin-lib)
+php-jsmin-dev

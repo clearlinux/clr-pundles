@@ -1,0 +1,17 @@
+# [TITLE]: R-vdiffr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cpp11)
+include(R-diffobj)
+include(R-glue)
+include(R-htmltools)
+include(R-lifecycle)
+include(R-rlang)
+include(R-testthat)
+include(R-vdiffr-lib)
+include(R-vdiffr-license)
+include(R-xml2)
+R-vdiffr

@@ -1,0 +1,14 @@
+# [TITLE]: netcdf-openmpi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(filesystem)
+include(hdf5-lib)
+include(libc6)
+include(libxml2-lib)
+include(netcdf-lib)
+include(openmpi-lib)
+netcdf-openmpi

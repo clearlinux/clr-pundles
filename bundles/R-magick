@@ -1,0 +1,11 @@
+# [TITLE]: R-magick
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-curl)
+include(R-magick-lib)
+include(R-magrittr)
+R-magick

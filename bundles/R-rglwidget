@@ -1,0 +1,8 @@
+# [TITLE]: R-rglwidget
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rgl)
+R-rglwidget

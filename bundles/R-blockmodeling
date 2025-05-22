@@ -1,0 +1,8 @@
+# [TITLE]: R-blockmodeling
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-blockmodeling-lib)
+R-blockmodeling

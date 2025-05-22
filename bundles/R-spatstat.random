@@ -1,0 +1,12 @@
+# [TITLE]: R-spatstat.random
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-spatstat.data)
+include(R-spatstat.geom)
+include(R-spatstat.random-lib)
+include(R-spatstat.univar)
+include(R-spatstat.utils)
+R-spatstat.random

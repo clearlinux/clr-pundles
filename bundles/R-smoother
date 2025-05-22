@@ -1,0 +1,8 @@
+# [TITLE]: R-smoother
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-TTR)
+R-smoother

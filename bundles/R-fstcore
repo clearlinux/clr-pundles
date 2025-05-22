@@ -1,0 +1,10 @@
+# [TITLE]: R-fstcore
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-fstcore-lib)
+include(R-fstcore-license)
+R-fstcore

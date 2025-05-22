@@ -1,0 +1,9 @@
+# [TITLE]: R-RCurl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RCurl-lib)
+include(R-bitops)
+R-RCurl

@@ -430,7 +430,7 @@ include(devpkg-qttools)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 include(devpkg-readline)
-ruby
+include(ruby)
 include(sed)
 include(shadow)
 include(shared-mime-info)
@@ -450,8 +450,8 @@ include(tcl-staticdev)
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tk)
-tk-extras
-tk-staticdev
+include(tk-extras)
+include(tk-staticdev)
 include(devpkg-tpm2-tss)
 include(tzdata)
 include(unzip)

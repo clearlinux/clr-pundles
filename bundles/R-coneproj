@@ -1,0 +1,10 @@
+# [TITLE]: R-coneproj
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-coneproj-lib)
+R-coneproj

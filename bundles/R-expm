@@ -1,0 +1,8 @@
+# [TITLE]: R-expm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-expm-lib)
+R-expm

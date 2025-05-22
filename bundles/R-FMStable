@@ -1,0 +1,8 @@
+# [TITLE]: R-FMStable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-FMStable-lib)
+R-FMStable

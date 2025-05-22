@@ -1,0 +1,15 @@
+# [TITLE]: proj-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+include(pkg-config-bin)
+include(proj)
+include(proj-bin)
+include(proj-data)
+include(proj-lib)
+include(sqlite-autoconf-dev)
+include(tiff-dev)
+proj-dev

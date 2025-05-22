@@ -1,0 +1,9 @@
+# [TITLE]: R-rjstat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-checkmate)
+include(R-jsonlite)
+R-rjstat

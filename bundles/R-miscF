@@ -1,0 +1,11 @@
+# [TITLE]: R-miscF
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-MCMCpack)
+include(R-R2jags)
+include(R-miscF-lib)
+include(R-mvtnorm)
+R-miscF

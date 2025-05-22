@@ -1,0 +1,9 @@
+# [TITLE]: php-uopz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-uopz-lib)
+include(php-uopz-license)
+php-uopz

@@ -1,0 +1,8 @@
+# [TITLE]: R-base64enc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc-lib)
+R-base64enc

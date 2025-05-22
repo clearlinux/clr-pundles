@@ -1,0 +1,10 @@
+# [TITLE]: glu-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glu-dev)
+include(glu-lib32)
+include(libglvnd-dev)
+glu-dev32

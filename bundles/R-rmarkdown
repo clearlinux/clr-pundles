@@ -1,0 +1,18 @@
+# [TITLE]: R-rmarkdown
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bslib)
+include(R-evaluate)
+include(R-fontawesome)
+include(R-htmltools)
+include(R-jquerylib)
+include(R-jsonlite)
+include(R-knitr)
+include(R-rmarkdown-license)
+include(R-tinytex)
+include(R-xfun)
+include(R-yaml)
+R-rmarkdown

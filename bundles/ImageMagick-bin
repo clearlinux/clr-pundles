@@ -1,0 +1,12 @@
+# [TITLE]: ImageMagick-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ImageMagick-data)
+include(ImageMagick-lib)
+include(ImageMagick-license)
+include(filesystem)
+include(libc6)
+ImageMagick-bin

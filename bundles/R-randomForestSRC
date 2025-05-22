@@ -1,0 +1,10 @@
+# [TITLE]: R-randomForestSRC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DiagrammeR)
+include(R-data.tree)
+include(R-randomForestSRC-lib)
+R-randomForestSRC

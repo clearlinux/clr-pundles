@@ -1,0 +1,8 @@
+# [TITLE]: R-mlr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-mlr-lib

@@ -1,0 +1,9 @@
+# [TITLE]: R-RcppParallel-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RcppParallel)
+include(R-RcppParallel-lib)
+R-RcppParallel-dev

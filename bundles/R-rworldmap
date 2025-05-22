@@ -1,0 +1,11 @@
+# [TITLE]: R-rworldmap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fields)
+include(R-raster)
+include(R-sp)
+include(R-terra)
+R-rworldmap

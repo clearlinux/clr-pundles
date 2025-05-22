@@ -1,0 +1,9 @@
+# [TITLE]: R-procmaps
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-procmaps-lib)
+include(R-procmaps-license)
+R-procmaps

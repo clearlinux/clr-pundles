@@ -1,0 +1,9 @@
+# [TITLE]: R-arules
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-arules-lib)
+include(R-generics)
+R-arules

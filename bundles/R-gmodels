@@ -1,0 +1,8 @@
+# [TITLE]: R-gmodels
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gdata)
+R-gmodels

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-ImageMagick-dev
+include(ImageMagick-dev)
 include(libX11client)
 include(lib-imageformat)
 include(libstdcpp)

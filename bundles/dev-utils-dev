@@ -31,7 +31,7 @@ include(devpkg-acl)
 include(devpkg-acl)
 include(acl-staticdev)
 include(devpkg-alsa-lib)
-armadillo-data
+include(armadillo-data)
 asciidoc
 asciidoctor
 include(devpkg-at-spi2-core)
@@ -593,7 +593,7 @@ include(devpkg-readline)
 include(devpkg-readline)
 rpm
 include(rsync)
-ruby
+include(ruby)
 rust-bindgen
 include(rustc)
 include(rustc-extras-lib32)
@@ -624,10 +624,10 @@ include(texinfo)
 include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)
-tk
+include(tk)
 include(devpkg-tk)
-tk-extras
-tk-staticdev
+include(tk-extras)
+include(tk-staticdev)
 include(devpkg-tpm2-tss)
 include(tzdata)
 umockdev-dev

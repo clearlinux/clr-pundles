@@ -1,0 +1,10 @@
+# [TITLE]: libzip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libzip-bin)
+include(libzip-lib)
+include(libzip-license)
+libzip

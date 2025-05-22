@@ -1,0 +1,11 @@
+# [TITLE]: R-robust
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fit.models)
+include(R-robust-lib)
+include(R-robustbase)
+include(R-rrcov)
+R-robust

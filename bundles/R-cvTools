@@ -1,0 +1,8 @@
+# [TITLE]: R-cvTools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-robustbase)
+R-cvTools

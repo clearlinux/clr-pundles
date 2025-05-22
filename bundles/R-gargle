@@ -1,0 +1,17 @@
+# [TITLE]: R-gargle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-fs)
+include(R-glue)
+include(R-httr)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-openssl)
+include(R-rappdirs)
+include(R-rlang)
+include(R-withr)
+R-gargle

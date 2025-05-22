@@ -1,0 +1,8 @@
+# [TITLE]: R-fastICA
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fastICA-lib)
+R-fastICA

@@ -1,0 +1,10 @@
+# [TITLE]: R-DendSer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DendSer-lib)
+include(R-gclus)
+include(R-seriation)
+R-DendSer

@@ -1,0 +1,10 @@
+# [TITLE]: R-gld
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-e1071)
+include(R-gld-lib)
+include(R-lmom)
+R-gld

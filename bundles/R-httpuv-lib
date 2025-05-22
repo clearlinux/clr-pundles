@@ -1,0 +1,12 @@
+# [TITLE]: R-httpuv-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-httpuv-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-httpuv-lib

@@ -1,0 +1,11 @@
+# [TITLE]: R-BradleyTerry2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-brglm)
+include(R-gtools)
+include(R-lme4)
+include(R-qvcalc)
+R-BradleyTerry2

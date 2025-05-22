@@ -1,0 +1,9 @@
+# [TITLE]: R-xopen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-processx)
+include(filesystem)
+R-xopen

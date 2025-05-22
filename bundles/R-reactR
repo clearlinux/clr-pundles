@@ -1,0 +1,9 @@
+# [TITLE]: R-reactR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-reactR-license)
+R-reactR

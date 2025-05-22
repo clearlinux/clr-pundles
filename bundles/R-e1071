@@ -1,0 +1,9 @@
+# [TITLE]: R-e1071
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-e1071-lib)
+include(R-proxy)
+R-e1071

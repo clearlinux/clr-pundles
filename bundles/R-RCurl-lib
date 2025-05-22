@@ -1,0 +1,10 @@
+# [TITLE]: R-RCurl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(curl-lib)
+include(libc6)
+R-RCurl-lib

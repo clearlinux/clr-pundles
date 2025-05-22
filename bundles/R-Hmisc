@@ -1,0 +1,21 @@
+# [TITLE]: R-Hmisc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-Hmisc-lib)
+include(R-Hmisc-license)
+include(R-base64enc)
+include(R-colorspace)
+include(R-data.table)
+include(R-ggplot2)
+include(R-gridExtra)
+include(R-gtable)
+include(R-htmlTable)
+include(R-htmltools)
+include(R-knitr)
+include(R-rmarkdown)
+include(R-viridis)
+R-Hmisc

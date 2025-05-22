@@ -1,0 +1,10 @@
+# [TITLE]: R-fossil
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-maps)
+include(R-shapefiles)
+include(R-sp)
+R-fossil

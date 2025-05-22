@@ -1,0 +1,12 @@
+# [TITLE]: R-conquer-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-conquer-lib

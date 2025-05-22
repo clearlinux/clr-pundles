@@ -1,0 +1,8 @@
+# [TITLE]: R-glue
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-glue-lib)
+R-glue

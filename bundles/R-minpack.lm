@@ -1,0 +1,9 @@
+# [TITLE]: R-minpack.lm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-minpack.lm-lib)
+include(R-minpack.lm-license)
+R-minpack.lm

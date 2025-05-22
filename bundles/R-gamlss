@@ -1,0 +1,10 @@
+# [TITLE]: R-gamlss
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gamlss-lib)
+include(R-gamlss.data)
+include(R-gamlss.dist)
+R-gamlss

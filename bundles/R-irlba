@@ -1,0 +1,8 @@
+# [TITLE]: R-irlba
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-irlba-lib)
+R-irlba

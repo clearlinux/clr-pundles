@@ -1,0 +1,17 @@
+# [TITLE]: R-ggplot2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-glue)
+include(R-gtable)
+include(R-isoband)
+include(R-lifecycle)
+include(R-rlang)
+include(R-scales)
+include(R-tibble)
+include(R-vctrs)
+include(R-withr)
+R-ggplot2

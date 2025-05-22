@@ -1,0 +1,9 @@
+# [TITLE]: R-rjags
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-coda)
+include(R-rjags-lib)
+R-rjags

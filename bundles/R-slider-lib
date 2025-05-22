@@ -1,0 +1,9 @@
+# [TITLE]: R-slider-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+R-slider-lib

@@ -1,0 +1,22 @@
+# [TITLE]: R-DescTools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DescTools-lib)
+include(R-Exact)
+include(R-Rcpp)
+include(R-cli)
+include(R-data.table)
+include(R-expm)
+include(R-fs)
+include(R-gld)
+include(R-haven)
+include(R-httr)
+include(R-mvtnorm)
+include(R-readr)
+include(R-readxl)
+include(R-rstudioapi)
+include(R-withr)
+R-DescTools

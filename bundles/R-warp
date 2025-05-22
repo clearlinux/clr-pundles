@@ -1,0 +1,8 @@
+# [TITLE]: R-warp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-warp-lib)
+R-warp

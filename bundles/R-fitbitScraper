@@ -1,0 +1,10 @@
+# [TITLE]: R-fitbitScraper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-httr)
+include(R-jsonlite)
+include(R-stringr)
+R-fitbitScraper

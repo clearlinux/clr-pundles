@@ -1,0 +1,8 @@
+# [TITLE]: R-truncnorm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-truncnorm-lib)
+R-truncnorm

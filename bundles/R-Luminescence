@@ -1,0 +1,21 @@
+# [TITLE]: R-Luminescence
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DEoptim)
+include(R-Luminescence-lib)
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-XML)
+include(R-bbmle)
+include(R-data.table)
+include(R-httr)
+include(R-interp)
+include(R-lamW)
+include(R-matrixStats)
+include(R-mclust)
+include(R-minpack.lm)
+include(R-shape)
+R-Luminescence

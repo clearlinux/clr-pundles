@@ -1,0 +1,8 @@
+# [TITLE]: R-Rdpack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rbibutils)
+R-Rdpack

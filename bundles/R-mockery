@@ -1,0 +1,8 @@
+# [TITLE]: R-mockery
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-testthat)
+R-mockery

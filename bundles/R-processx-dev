@@ -1,0 +1,9 @@
+# [TITLE]: R-processx-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-processx)
+include(R-processx-lib)
+R-processx-dev

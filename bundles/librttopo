@@ -1,0 +1,9 @@
+# [TITLE]: librttopo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librttopo-lib)
+include(librttopo-license)
+librttopo

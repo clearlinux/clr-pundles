@@ -1,0 +1,10 @@
+# [TITLE]: R-jqr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jqr-lib)
+include(R-lazyeval)
+include(R-magrittr)
+R-jqr

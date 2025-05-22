@@ -1,0 +1,11 @@
+# [TITLE]: JAGS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(JAGS)
+include(JAGS-bin)
+include(JAGS-lib)
+include(pkg-config-bin)
+JAGS-dev

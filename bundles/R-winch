@@ -1,0 +1,11 @@
+# [TITLE]: R-winch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lifecycle)
+include(R-procmaps)
+include(R-winch-lib)
+include(R-winch-license)
+R-winch

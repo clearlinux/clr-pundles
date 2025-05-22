@@ -1,0 +1,11 @@
+# [TITLE]: R-spatstat.sparse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-abind)
+include(R-spatstat.sparse-lib)
+include(R-spatstat.utils)
+include(R-tensor)
+R-spatstat.sparse

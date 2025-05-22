@@ -1,0 +1,10 @@
+# [TITLE]: R-lifecycle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-glue)
+include(R-rlang)
+R-lifecycle

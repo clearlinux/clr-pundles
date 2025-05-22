@@ -1,0 +1,11 @@
+# [TITLE]: R-eiPack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-coda)
+include(R-eiPack-lib)
+include(R-eiPack-license)
+include(R-msm)
+R-eiPack

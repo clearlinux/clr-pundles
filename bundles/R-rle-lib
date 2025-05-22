@@ -1,0 +1,8 @@
+# [TITLE]: R-rle-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-rle-lib

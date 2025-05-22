@@ -1,0 +1,8 @@
+# [TITLE]: R-sourcetools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sourcetools-lib)
+R-sourcetools

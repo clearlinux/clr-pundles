@@ -1,0 +1,10 @@
+# [TITLE]: R-pdftools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-pdftools-lib)
+include(R-qpdf)
+R-pdftools

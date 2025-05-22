@@ -1,0 +1,16 @@
+# [TITLE]: R-keras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-generics)
+include(R-glue)
+include(R-magrittr)
+include(R-reticulate)
+include(R-rlang)
+include(R-tensorflow)
+include(R-tfruns)
+include(R-zeallot)
+R-keras

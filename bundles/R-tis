@@ -1,0 +1,8 @@
+# [TITLE]: R-tis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-tis-lib)
+R-tis

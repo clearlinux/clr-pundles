@@ -1,0 +1,9 @@
+# [TITLE]: R-brglm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-brglm-lib)
+include(R-profileModel)
+R-brglm

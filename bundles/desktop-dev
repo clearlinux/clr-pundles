@@ -1093,8 +1093,8 @@ include(devpkg-readline)
 include(devpkg-rest)
 include(rsync)
 include(devpkg-rtmpdump)
-ruby
-ruby-dev
+include(ruby)
+include(ruby-dev)
 rust-bindgen
 include(rustc)
 include(rustc-extras-lib32)
@@ -1150,8 +1150,8 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 include(devpkg-tk)
-tk-extras
-tk-staticdev
+include(tk-extras)
+include(tk-staticdev)
 include(devpkg-tpm2-tss)
 tracker-dev
 include(tracker-miners)

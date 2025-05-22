@@ -1,0 +1,18 @@
+# [TITLE]: R-mlt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BB)
+include(R-alabama)
+include(R-basefun)
+include(R-coneproj)
+include(R-mlt-lib)
+include(R-mvtnorm)
+include(R-nloptr)
+include(R-numDeriv)
+include(R-quadprog)
+include(R-sandwich)
+include(R-variables)
+R-mlt

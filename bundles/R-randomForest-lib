@@ -1,0 +1,10 @@
+# [TITLE]: R-randomForest-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-randomForest-license)
+include(libc6)
+R-randomForest-lib

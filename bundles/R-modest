@@ -1,0 +1,11 @@
+# [TITLE]: R-modest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-knitr)
+include(R-rhandsontable)
+include(R-shiny)
+include(R-shinyBS)
+R-modest

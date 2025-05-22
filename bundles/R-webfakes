@@ -1,0 +1,8 @@
+# [TITLE]: R-webfakes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-webfakes-lib)
+R-webfakes

@@ -1,0 +1,21 @@
+# [TITLE]: R-rsample
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-dplyr)
+include(R-furrr)
+include(R-generics)
+include(R-glue)
+include(R-lifecycle)
+include(R-pillar)
+include(R-purrr)
+include(R-rlang)
+include(R-slider)
+include(R-tibble)
+include(R-tidyr)
+include(R-tidyselect)
+include(R-vctrs)
+R-rsample

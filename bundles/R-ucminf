@@ -1,0 +1,8 @@
+# [TITLE]: R-ucminf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ucminf-lib)
+R-ucminf

@@ -1,0 +1,30 @@
+# [TITLE]: R-robCompositions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-GGally)
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-VIM)
+include(R-cvTools)
+include(R-data.table)
+include(R-dplyr)
+include(R-e1071)
+include(R-fda)
+include(R-fpc)
+include(R-ggfortify)
+include(R-ggplot2)
+include(R-kernlab)
+include(R-magrittr)
+include(R-mclust)
+include(R-pls)
+include(R-reshape2)
+include(R-robCompositions-lib)
+include(R-robustHD)
+include(R-robustbase)
+include(R-rrcov)
+include(R-tidyr)
+include(R-zCompositions)
+R-robCompositions

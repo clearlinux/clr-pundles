@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-librttopo-dev
+include(librttopo-dev)

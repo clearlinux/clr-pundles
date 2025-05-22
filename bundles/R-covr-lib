@@ -1,0 +1,9 @@
+# [TITLE]: R-covr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-covr-license)
+include(R-lib)
+R-covr-lib

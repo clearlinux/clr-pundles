@@ -48,7 +48,7 @@ include(freetype-lib)
 include(gdk-pixbuf-lib)
 include(glib-lib)
 include(glibc-libc32)
-glu-lib
+include(glu-lib)
 gtk+-lib
 harfbuzz-lib
 include(libX11-lib)

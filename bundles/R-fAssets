@@ -1,0 +1,16 @@
+# [TITLE]: R-fAssets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ecodist)
+include(R-energy)
+include(R-fBasics)
+include(R-fMultivar)
+include(R-mvnormtest)
+include(R-robustbase)
+include(R-sn)
+include(R-timeDate)
+include(R-timeSeries)
+R-fAssets

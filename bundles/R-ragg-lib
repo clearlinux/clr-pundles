@@ -1,0 +1,16 @@
+# [TITLE]: R-ragg-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-ragg-license)
+include(freetype-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(tiff-lib)
+R-ragg-lib

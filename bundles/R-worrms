@@ -1,0 +1,11 @@
+# [TITLE]: R-worrms
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-crul)
+include(R-data.table)
+include(R-jsonlite)
+include(R-tibble)
+R-worrms

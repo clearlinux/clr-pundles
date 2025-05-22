@@ -1,0 +1,9 @@
+# [TITLE]: R-fda
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-deSolve)
+include(R-fds)
+R-fda

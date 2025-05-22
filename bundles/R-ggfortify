@@ -1,0 +1,14 @@
+# [TITLE]: R-ggfortify
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-dplyr)
+include(R-ggplot2)
+include(R-gridExtra)
+include(R-scales)
+include(R-stringr)
+include(R-tibble)
+include(R-tidyr)
+R-ggfortify

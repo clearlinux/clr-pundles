@@ -1,0 +1,8 @@
+# [TITLE]: R-plot3D
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-misc3d)
+R-plot3D

@@ -1,0 +1,11 @@
+# [TITLE]: glu-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgcc32)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+include(mesa-lib32)
+glu-lib32

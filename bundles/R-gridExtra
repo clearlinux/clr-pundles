@@ -1,0 +1,8 @@
+# [TITLE]: R-gridExtra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gtable)
+R-gridExtra

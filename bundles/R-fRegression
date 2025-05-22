@@ -1,0 +1,12 @@
+# [TITLE]: R-fRegression
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fBasics)
+include(R-lmtest)
+include(R-polspline)
+include(R-timeDate)
+include(R-timeSeries)
+R-fRegression

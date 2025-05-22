@@ -1,0 +1,8 @@
+# [TITLE]: R-spls
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-pls)
+R-spls

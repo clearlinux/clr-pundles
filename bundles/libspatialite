@@ -1,0 +1,9 @@
+# [TITLE]: libspatialite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libspatialite-lib)
+include(libspatialite-license)
+libspatialite

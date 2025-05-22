@@ -1,0 +1,9 @@
+# [TITLE]: R-nanoparquet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-nanoparquet-lib)
+include(R-nanoparquet-license)
+R-nanoparquet

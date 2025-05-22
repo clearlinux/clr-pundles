@@ -1,0 +1,12 @@
+# [TITLE]: R-bridgesampling
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Brobdingnag)
+include(R-coda)
+include(R-mvtnorm)
+include(R-scales)
+include(R-stringr)
+R-bridgesampling

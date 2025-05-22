@@ -1,0 +1,19 @@
+# [TITLE]: R-rstan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BH)
+include(R-QuickJSR)
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-RcppParallel)
+include(R-StanHeaders)
+include(R-ggplot2)
+include(R-gridExtra)
+include(R-inline)
+include(R-loo)
+include(R-pkgbuild)
+include(R-rstan-lib)
+R-rstan

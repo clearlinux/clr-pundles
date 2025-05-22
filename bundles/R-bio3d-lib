@@ -1,0 +1,12 @@
+# [TITLE]: R-bio3d-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(zlib-lib)
+R-bio3d-lib

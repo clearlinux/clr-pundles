@@ -1,0 +1,11 @@
+# [TITLE]: R-ordinal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-numDeriv)
+include(R-ordinal-lib)
+include(R-ordinal-license)
+include(R-ucminf)
+R-ordinal

@@ -1,0 +1,8 @@
+# [TITLE]: R-digest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-digest-lib)
+R-digest

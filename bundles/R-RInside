@@ -1,0 +1,9 @@
+# [TITLE]: R-RInside
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RInside-lib)
+include(R-Rcpp)
+R-RInside

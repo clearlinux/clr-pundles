@@ -1,0 +1,9 @@
+# [TITLE]: R-ps
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ps-lib)
+include(libc6)
+R-ps

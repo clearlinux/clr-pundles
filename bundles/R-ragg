@@ -1,0 +1,11 @@
+# [TITLE]: R-ragg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ragg-lib)
+include(R-ragg-license)
+include(R-systemfonts)
+include(R-textshaping)
+R-ragg

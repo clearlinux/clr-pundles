@@ -1,0 +1,9 @@
+# [TITLE]: php-gnupg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-gnupg-lib)
+include(php-gnupg-license)
+php-gnupg

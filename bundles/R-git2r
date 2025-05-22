@@ -1,0 +1,9 @@
+# [TITLE]: R-git2r
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-git2r-lib)
+include(R-git2r-license)
+R-git2r

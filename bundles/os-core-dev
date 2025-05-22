@@ -185,7 +185,7 @@ include(python3-dev)
 include(pyudev)
 include(devpkg-readline)
 include(devpkg-readline)
-ruby
+include(ruby)
 include(sed)
 include(shadow)
 include(shadow-dev)

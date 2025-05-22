@@ -1,0 +1,8 @@
+# [TITLE]: R-subplex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-subplex-lib)
+R-subplex

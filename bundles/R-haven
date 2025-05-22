@@ -1,0 +1,19 @@
+# [TITLE]: R-haven
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-cpp11)
+include(R-forcats)
+include(R-haven-lib)
+include(R-haven-license)
+include(R-hms)
+include(R-lifecycle)
+include(R-readr)
+include(R-rlang)
+include(R-tibble)
+include(R-tidyselect)
+include(R-vctrs)
+R-haven

@@ -1,0 +1,11 @@
+# [TITLE]: R-pander
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-digest)
+include(R-pander-lib)
+include(R-pander-license)
+R-pander

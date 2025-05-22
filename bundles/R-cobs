@@ -1,0 +1,10 @@
+# [TITLE]: R-cobs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-SparseM)
+include(R-cobs-lib)
+include(R-quantreg)
+R-cobs

@@ -1,0 +1,8 @@
+# [TITLE]: R-spatstat.linnet-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-spatstat.linnet-lib

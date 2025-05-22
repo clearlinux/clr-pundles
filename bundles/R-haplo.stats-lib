@@ -1,0 +1,10 @@
+# [TITLE]: R-haplo.stats-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-haplo.stats-license)
+include(R-lib)
+include(libc6)
+R-haplo.stats-lib

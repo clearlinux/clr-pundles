@@ -1,0 +1,20 @@
+# [TITLE]: R-rms
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Hmisc)
+include(R-SparseM)
+include(R-colorspace)
+include(R-digest)
+include(R-ggplot2)
+include(R-htmlTable)
+include(R-htmltools)
+include(R-knitr)
+include(R-multcomp)
+include(R-polspline)
+include(R-quantreg)
+include(R-rms-lib)
+include(R-scales)
+R-rms

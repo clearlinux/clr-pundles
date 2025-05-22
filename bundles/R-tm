@@ -1,0 +1,13 @@
+# [TITLE]: R-tm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BH)
+include(R-NLP)
+include(R-Rcpp)
+include(R-slam)
+include(R-tm-lib)
+include(R-xml2)
+R-tm

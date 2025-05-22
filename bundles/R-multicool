@@ -1,0 +1,9 @@
+# [TITLE]: R-multicool
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-multicool-lib)
+R-multicool

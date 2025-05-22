@@ -1,0 +1,9 @@
+# [TITLE]: php-dio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-dio-lib)
+include(php-dio-license)
+php-dio

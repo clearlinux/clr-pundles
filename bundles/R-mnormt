@@ -1,0 +1,9 @@
+# [TITLE]: R-mnormt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mnormt-lib)
+include(R-mnormt-license)
+R-mnormt

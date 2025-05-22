@@ -1,0 +1,20 @@
+# [TITLE]: R-NMF
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-NMF-lib)
+include(R-RColorBrewer)
+include(R-colorspace)
+include(R-digest)
+include(R-doParallel)
+include(R-foreach)
+include(R-ggplot2)
+include(R-gridBase)
+include(R-pkgmaker)
+include(R-registry)
+include(R-reshape2)
+include(R-rngtools)
+include(R-stringr)
+R-NMF

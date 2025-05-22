@@ -1,0 +1,13 @@
+# [TITLE]: R-betareg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-betareg-lib)
+include(R-flexmix)
+include(R-lmtest)
+include(R-modeltools)
+include(R-sandwich)
+R-betareg

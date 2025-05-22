@@ -1,0 +1,14 @@
+# [TITLE]: R-gdtools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gdtools-license)
+include(R-lib)
+include(cairo-lib)
+include(freetype-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-gdtools-lib

@@ -1,0 +1,12 @@
+# [TITLE]: R-fs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fs-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-fs-lib

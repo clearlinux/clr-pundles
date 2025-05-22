@@ -1,0 +1,8 @@
+# [TITLE]: R-kmi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mitools)
+R-kmi

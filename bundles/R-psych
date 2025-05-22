@@ -1,0 +1,9 @@
+# [TITLE]: R-psych
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-GPArotation)
+include(R-mnormt)
+R-psych

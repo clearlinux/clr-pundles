@@ -1,0 +1,11 @@
+# [TITLE]: R-eddington
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-Rcpp)
+include(R-eddington-lib)
+include(R-xml2)
+R-eddington

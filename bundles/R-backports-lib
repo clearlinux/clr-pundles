@@ -1,0 +1,8 @@
+# [TITLE]: R-backports-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-backports-lib

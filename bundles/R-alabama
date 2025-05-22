@@ -1,0 +1,8 @@
+# [TITLE]: R-alabama
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-numDeriv)
+R-alabama

@@ -1,0 +1,10 @@
+# [TITLE]: php-krb5-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krb5-lib)
+include(libc6)
+include(php-krb5-license)
+php-krb5-lib

@@ -1,0 +1,12 @@
+# [TITLE]: R-crosstalk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-crosstalk-license)
+include(R-htmltools)
+include(R-jsonlite)
+include(R-lazyeval)
+R-crosstalk

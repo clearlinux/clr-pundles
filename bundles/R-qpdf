@@ -1,0 +1,11 @@
+# [TITLE]: R-qpdf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-askpass)
+include(R-curl)
+include(R-qpdf-lib)
+R-qpdf

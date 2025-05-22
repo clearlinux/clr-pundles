@@ -1,0 +1,11 @@
+# [TITLE]: R-rrcov
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mvtnorm)
+include(R-pcaPP)
+include(R-robustbase)
+include(R-rrcov-lib)
+R-rrcov

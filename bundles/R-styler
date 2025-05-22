@@ -1,0 +1,16 @@
+# [TITLE]: R-styler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R.cache)
+include(R-bin)
+include(R-cli)
+include(R-magrittr)
+include(R-purrr)
+include(R-rlang)
+include(R-rprojroot)
+include(R-vctrs)
+include(R-withr)
+R-styler

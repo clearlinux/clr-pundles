@@ -1,0 +1,13 @@
+# [TITLE]: R-crul
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-curl)
+include(R-httpcode)
+include(R-jsonlite)
+include(R-mime)
+include(R-urltools)
+R-crul

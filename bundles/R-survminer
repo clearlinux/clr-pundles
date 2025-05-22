@@ -1,0 +1,21 @@
+# [TITLE]: R-survminer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-broom)
+include(R-dplyr)
+include(R-ggplot2)
+include(R-ggpubr)
+include(R-ggtext)
+include(R-gridExtra)
+include(R-magrittr)
+include(R-maxstat)
+include(R-purrr)
+include(R-rlang)
+include(R-scales)
+include(R-survMisc)
+include(R-tibble)
+include(R-tidyr)
+R-survminer

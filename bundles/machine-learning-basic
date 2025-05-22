@@ -25,9 +25,9 @@ include(pypi-scikit_learn)
 
 include(pypi-configargparse)
 include(pypi-pillow)
-R-deepnet
-R-neuralnet
-R-statmod
+include(R-deepnet)
+include(R-neuralnet)
+include(R-statmod)
 include(pypi-appdirs)
 include(pypi-astroid)
 include(pypi-bokeh)

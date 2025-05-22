@@ -1,0 +1,8 @@
+# [TITLE]: R-orthopolynom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-polynom)
+R-orthopolynom

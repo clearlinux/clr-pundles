@@ -1,0 +1,9 @@
+# [TITLE]: R-klaR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-combinat)
+include(R-questionr)
+R-klaR

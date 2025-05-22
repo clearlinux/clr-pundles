@@ -1,0 +1,16 @@
+# [TITLE]: R-webmockr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-cli)
+include(R-crul)
+include(R-curl)
+include(R-fauxpas)
+include(R-jsonlite)
+include(R-magrittr)
+include(R-rlang)
+include(R-urltools)
+R-webmockr

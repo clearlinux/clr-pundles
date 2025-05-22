@@ -1,0 +1,9 @@
+# [TITLE]: R-ecodist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ecodist-lib)
+include(R-igraph)
+R-ecodist

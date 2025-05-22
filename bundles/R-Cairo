@@ -1,0 +1,8 @@
+# [TITLE]: R-Cairo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Cairo-lib)
+R-Cairo

@@ -1,0 +1,8 @@
+# [TITLE]: R-cclust
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cclust-lib)
+R-cclust

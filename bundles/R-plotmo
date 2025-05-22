@@ -1,0 +1,9 @@
+# [TITLE]: R-plotmo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-plotrix)
+R-plotmo

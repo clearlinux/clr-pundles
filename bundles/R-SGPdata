@@ -1,0 +1,9 @@
+# [TITLE]: R-SGPdata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-crayon)
+include(R-data.table)
+R-SGPdata

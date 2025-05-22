@@ -1,0 +1,10 @@
+# [TITLE]: R-ICSNP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ICS)
+include(R-ICSNP-lib)
+include(R-mvtnorm)
+R-ICSNP

@@ -1,0 +1,9 @@
+# [TITLE]: R-biglm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DBI)
+include(R-biglm-lib)
+R-biglm

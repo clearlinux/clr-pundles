@@ -1,0 +1,8 @@
+# [TITLE]: R-kit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-kit-lib)
+R-kit

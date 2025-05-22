@@ -1,0 +1,13 @@
+# [TITLE]: R-coin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-coin-lib)
+include(R-libcoin)
+include(R-matrixStats)
+include(R-modeltools)
+include(R-multcomp)
+include(R-mvtnorm)
+R-coin

@@ -1,0 +1,10 @@
+# [TITLE]: php-zmq-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libzmq-lib)
+include(php-zmq-license)
+php-zmq-lib

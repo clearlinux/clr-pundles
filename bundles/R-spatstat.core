@@ -1,0 +1,16 @@
+# [TITLE]: R-spatstat.core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-abind)
+include(R-goftest)
+include(R-spatstat.core-lib)
+include(R-spatstat.data)
+include(R-spatstat.geom)
+include(R-spatstat.random)
+include(R-spatstat.sparse)
+include(R-spatstat.utils)
+include(R-tensor)
+R-spatstat.core

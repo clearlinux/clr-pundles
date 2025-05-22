@@ -1,0 +1,12 @@
+# [TITLE]: tk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(tcl-dev)
+include(tk)
+include(tk-bin)
+include(tk-staticdev)
+tk-dev

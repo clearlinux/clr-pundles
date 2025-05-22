@@ -1,0 +1,11 @@
+# [TITLE]: R-lme4-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-lme4-lib

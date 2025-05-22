@@ -1,0 +1,9 @@
+# [TITLE]: R-data.table
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-data.table-lib)
+include(R-data.table-license)
+R-data.table

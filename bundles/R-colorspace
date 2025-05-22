@@ -1,0 +1,8 @@
+# [TITLE]: R-colorspace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-colorspace-lib)
+R-colorspace

@@ -1,0 +1,12 @@
+# [TITLE]: R-purrrlyr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-purrrlyr-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-purrrlyr-lib

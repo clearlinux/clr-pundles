@@ -1,0 +1,12 @@
+# [TITLE]: R-pkgbuild
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-callr)
+include(R-cli)
+include(R-desc)
+include(R-processx)
+R-pkgbuild

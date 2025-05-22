@@ -1,0 +1,23 @@
+# [TITLE]: R-ggpubr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cowplot)
+include(R-dplyr)
+include(R-ggplot2)
+include(R-ggrepel)
+include(R-ggsci)
+include(R-ggsignif)
+include(R-glue)
+include(R-gridExtra)
+include(R-magrittr)
+include(R-polynom)
+include(R-purrr)
+include(R-rlang)
+include(R-rstatix)
+include(R-scales)
+include(R-tibble)
+include(R-tidyr)
+R-ggpubr

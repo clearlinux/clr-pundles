@@ -1,0 +1,9 @@
+# [TITLE]: R-tzdb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-tzdb)
+include(R-tzdb-lib)
+R-tzdb-dev

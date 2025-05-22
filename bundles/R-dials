@@ -1,0 +1,21 @@
+# [TITLE]: R-dials
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DiceDesign)
+include(R-cli)
+include(R-dplyr)
+include(R-glue)
+include(R-hardhat)
+include(R-lifecycle)
+include(R-pillar)
+include(R-purrr)
+include(R-rlang)
+include(R-scales)
+include(R-sfd)
+include(R-tibble)
+include(R-vctrs)
+include(R-withr)
+R-dials

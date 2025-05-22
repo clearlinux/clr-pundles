@@ -1,0 +1,17 @@
+# [TITLE]: R-rgl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-base64enc)
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-jsonlite)
+include(R-knitr)
+include(R-magrittr)
+include(R-mime)
+include(R-rgl-lib)
+include(R-rgl-license)
+R-rgl

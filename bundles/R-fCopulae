@@ -1,0 +1,11 @@
+# [TITLE]: R-fCopulae
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fBasics)
+include(R-fMultivar)
+include(R-timeDate)
+include(R-timeSeries)
+R-fCopulae

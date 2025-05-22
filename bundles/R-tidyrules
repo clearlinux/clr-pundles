@@ -1,0 +1,23 @@
+# [TITLE]: R-tidyrules
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DescTools)
+include(R-MetricsWeighted)
+include(R-checkmate)
+include(R-cli)
+include(R-data.table)
+include(R-generics)
+include(R-glue)
+include(R-magrittr)
+include(R-partykit)
+include(R-pheatmap)
+include(R-proxy)
+include(R-purrr)
+include(R-rlang)
+include(R-stringr)
+include(R-tibble)
+include(R-tidytable)
+R-tidyrules

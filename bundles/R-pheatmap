@@ -1,0 +1,10 @@
+# [TITLE]: R-pheatmap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-gtable)
+include(R-scales)
+R-pheatmap

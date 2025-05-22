@@ -404,7 +404,7 @@ include(devpkg-qttools)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 include(devpkg-readline)
-ruby
+include(ruby)
 include(rustc)
 include(sed)
 sg3_utils-dev

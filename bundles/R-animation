@@ -1,0 +1,8 @@
+# [TITLE]: R-animation
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-magick)
+R-animation

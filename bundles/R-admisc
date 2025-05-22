@@ -1,0 +1,8 @@
+# [TITLE]: R-admisc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-admisc-lib)
+R-admisc

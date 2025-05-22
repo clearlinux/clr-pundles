@@ -1,0 +1,12 @@
+# [TITLE]: R-slider
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-rlang)
+include(R-slider-lib)
+include(R-vctrs)
+include(R-warp)
+R-slider

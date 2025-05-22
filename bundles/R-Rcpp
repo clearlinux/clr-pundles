@@ -1,0 +1,10 @@
+# [TITLE]: R-Rcpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp-lib)
+include(coreutils-bin)
+include(filesystem)
+R-Rcpp

@@ -1,0 +1,8 @@
+# [TITLE]: R-sys
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sys-lib)
+R-sys

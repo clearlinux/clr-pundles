@@ -1,0 +1,9 @@
+# [TITLE]: metis-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(metis-license)
+metis-lib

@@ -1,0 +1,8 @@
+# [TITLE]: R-IRdisplay
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-repr)
+R-IRdisplay

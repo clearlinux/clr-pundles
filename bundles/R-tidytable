@@ -1,0 +1,15 @@
+# [TITLE]: R-tidytable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-data.table)
+include(R-glue)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-pillar)
+include(R-rlang)
+include(R-tidyselect)
+include(R-vctrs)
+R-tidytable

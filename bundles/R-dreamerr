@@ -1,0 +1,9 @@
+# [TITLE]: R-dreamerr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-stringmagic)
+R-dreamerr

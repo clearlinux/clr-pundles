@@ -1,0 +1,9 @@
+# [TITLE]: R-rneos
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RCurl)
+include(R-XML)
+R-rneos

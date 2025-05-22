@@ -1,0 +1,9 @@
+# [TITLE]: R-triebeard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-triebeard-lib)
+R-triebeard

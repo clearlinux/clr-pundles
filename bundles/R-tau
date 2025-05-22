@@ -1,0 +1,8 @@
+# [TITLE]: R-tau
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-tau-lib)
+R-tau

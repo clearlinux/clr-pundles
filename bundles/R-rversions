@@ -1,0 +1,9 @@
+# [TITLE]: R-rversions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-curl)
+include(R-xml2)
+R-rversions

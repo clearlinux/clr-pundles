@@ -1,0 +1,26 @@
+# [TITLE]: R-pkgdown
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bslib)
+include(R-callr)
+include(R-cli)
+include(R-desc)
+include(R-downlit)
+include(R-fontawesome)
+include(R-fs)
+include(R-httr2)
+include(R-jsonlite)
+include(R-openssl)
+include(R-purrr)
+include(R-ragg)
+include(R-rlang)
+include(R-rmarkdown)
+include(R-tibble)
+include(R-whisker)
+include(R-withr)
+include(R-xml2)
+include(R-yaml)
+R-pkgdown

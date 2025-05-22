@@ -1,0 +1,12 @@
+# [TITLE]: JAGS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(JAGS-bin)
+include(JAGS-lib)
+include(JAGS-libexec)
+include(JAGS-license)
+include(JAGS-man)
+JAGS

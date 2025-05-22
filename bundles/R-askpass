@@ -1,0 +1,10 @@
+# [TITLE]: R-askpass
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-askpass-lib)
+include(R-sys)
+include(coreutils-bin)
+R-askpass

@@ -1,0 +1,11 @@
+# [TITLE]: libmemcached-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libmemcached-license)
+include(libstdc++)
+libmemcached-lib

@@ -1,0 +1,10 @@
+# [TITLE]: R-svglite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cpp11)
+include(R-svglite-lib)
+include(R-systemfonts)
+R-svglite

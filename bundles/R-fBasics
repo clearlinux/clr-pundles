@@ -1,0 +1,12 @@
+# [TITLE]: R-fBasics
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fBasics-lib)
+include(R-gss)
+include(R-stabledist)
+include(R-timeDate)
+include(R-timeSeries)
+R-fBasics

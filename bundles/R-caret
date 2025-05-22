@@ -1,0 +1,17 @@
+# [TITLE]: R-caret
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ModelMetrics)
+include(R-caret-lib)
+include(R-e1071)
+include(R-foreach)
+include(R-ggplot2)
+include(R-pROC)
+include(R-plyr)
+include(R-recipes)
+include(R-reshape2)
+include(R-withr)
+R-caret

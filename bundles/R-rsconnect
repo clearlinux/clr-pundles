@@ -1,0 +1,19 @@
+# [TITLE]: R-rsconnect
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-PKI)
+include(R-cli)
+include(R-curl)
+include(R-digest)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-openssl)
+include(R-packrat)
+include(R-renv)
+include(R-rlang)
+include(R-rstudioapi)
+include(R-yaml)
+R-rsconnect

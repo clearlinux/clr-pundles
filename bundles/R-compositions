@@ -1,0 +1,12 @@
+# [TITLE]: R-compositions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bayesm)
+include(R-compositions-lib)
+include(R-compositions-license)
+include(R-robustbase)
+include(R-tensorA)
+R-compositions

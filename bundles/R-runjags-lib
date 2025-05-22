@@ -1,0 +1,13 @@
+# [TITLE]: R-runjags-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(JAGS-lib)
+include(R-lib)
+include(R-runjags-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-runjags-lib

@@ -1,0 +1,12 @@
+# [TITLE]: armadillo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(armadillo-data)
+include(armadillo-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+armadillo-lib

@@ -1,0 +1,9 @@
+# [TITLE]: R-sem
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mi)
+include(R-sem-lib)
+R-sem

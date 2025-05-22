@@ -1,0 +1,8 @@
+# [TITLE]: R-highlight
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-highlight-lib)
+R-highlight

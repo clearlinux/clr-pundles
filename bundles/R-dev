@@ -1,0 +1,11 @@
+# [TITLE]: R-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp-dev)
+include(R-bin)
+include(R-lib)
+include(pkg-config-bin)
+R-dev

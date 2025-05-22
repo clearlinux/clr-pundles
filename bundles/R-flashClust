@@ -1,0 +1,8 @@
+# [TITLE]: R-flashClust
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-flashClust-lib)
+R-flashClust

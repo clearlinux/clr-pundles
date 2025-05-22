@@ -1,0 +1,9 @@
+# [TITLE]: R-gdtools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gdtools)
+include(R-gdtools-lib)
+R-gdtools-dev

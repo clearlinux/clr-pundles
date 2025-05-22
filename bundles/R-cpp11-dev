@@ -1,0 +1,8 @@
+# [TITLE]: R-cpp11-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cpp11)
+R-cpp11-dev

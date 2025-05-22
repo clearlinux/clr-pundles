@@ -1,0 +1,8 @@
+# [TITLE]: R-sendmailR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc)
+R-sendmailR

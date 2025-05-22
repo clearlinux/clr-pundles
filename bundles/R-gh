@@ -1,0 +1,15 @@
+# [TITLE]: R-gh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-gitcreds)
+include(R-glue)
+include(R-httr2)
+include(R-ini)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-rlang)
+R-gh

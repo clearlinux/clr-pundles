@@ -1,0 +1,18 @@
+# [TITLE]: R-geiger
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-ape)
+include(R-coda)
+include(R-colorspace)
+include(R-deSolve)
+include(R-digest)
+include(R-geiger-lib)
+include(R-mvtnorm)
+include(R-ncbit)
+include(R-phytools)
+include(R-subplex)
+R-geiger

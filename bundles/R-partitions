@@ -1,0 +1,12 @@
+# [TITLE]: R-partitions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rdpack)
+include(R-gmp)
+include(R-partitions-lib)
+include(R-polynom)
+include(R-sets)
+R-partitions

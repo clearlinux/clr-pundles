@@ -1,0 +1,13 @@
+# [TITLE]: R-readxl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cellranger)
+include(R-cpp11)
+include(R-progress)
+include(R-readxl-lib)
+include(R-readxl-license)
+include(R-tibble)
+R-readxl

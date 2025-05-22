@@ -1,0 +1,12 @@
+# [TITLE]: R-network
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-magrittr)
+include(R-network-lib)
+include(R-network-license)
+include(R-statnet.common)
+include(R-tibble)
+R-network

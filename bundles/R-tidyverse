@@ -1,0 +1,37 @@
+# [TITLE]: R-tidyverse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-broom)
+include(R-cli)
+include(R-conflicted)
+include(R-dbplyr)
+include(R-dplyr)
+include(R-dtplyr)
+include(R-forcats)
+include(R-ggplot2)
+include(R-googledrive)
+include(R-googlesheets4)
+include(R-haven)
+include(R-hms)
+include(R-httr)
+include(R-jsonlite)
+include(R-lubridate)
+include(R-magrittr)
+include(R-modelr)
+include(R-pillar)
+include(R-purrr)
+include(R-ragg)
+include(R-readr)
+include(R-readxl)
+include(R-reprex)
+include(R-rlang)
+include(R-rstudioapi)
+include(R-rvest)
+include(R-stringr)
+include(R-tibble)
+include(R-tidyr)
+include(R-xml2)
+R-tidyverse

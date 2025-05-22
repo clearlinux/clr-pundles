@@ -1,0 +1,9 @@
+# [TITLE]: R-maptools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-maptools-lib)
+include(R-sp)
+R-maptools

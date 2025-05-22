@@ -1,0 +1,9 @@
+# [TITLE]: R-future.apply
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-future)
+include(R-globals)
+R-future.apply

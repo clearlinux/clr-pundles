@@ -1,0 +1,12 @@
+# [TITLE]: R-metafor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-digest)
+include(R-mathjaxr)
+include(R-metadat)
+include(R-numDeriv)
+include(R-pbapply)
+R-metafor

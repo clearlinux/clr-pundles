@@ -1,0 +1,10 @@
+# [TITLE]: R-runjags
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-coda)
+include(R-runjags-lib)
+include(R-runjags-license)
+R-runjags

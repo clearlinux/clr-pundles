@@ -1,0 +1,20 @@
+# [TITLE]: R-ggstats
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-broom.helpers)
+include(R-cli)
+include(R-dplyr)
+include(R-forcats)
+include(R-ggplot2)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-patchwork)
+include(R-purrr)
+include(R-rlang)
+include(R-scales)
+include(R-stringr)
+include(R-tidyr)
+R-ggstats

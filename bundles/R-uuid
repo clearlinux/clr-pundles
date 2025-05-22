@@ -1,0 +1,9 @@
+# [TITLE]: R-uuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-uuid-lib)
+include(R-uuid-license)
+R-uuid

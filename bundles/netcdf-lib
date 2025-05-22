@@ -1,0 +1,12 @@
+# [TITLE]: netcdf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(hdf5-lib)
+include(libc6)
+include(libxml2-lib)
+include(netcdf-license)
+netcdf-lib

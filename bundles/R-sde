@@ -1,0 +1,10 @@
+# [TITLE]: R-sde
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fda)
+include(R-sde-lib)
+include(R-zoo)
+R-sde

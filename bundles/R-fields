@@ -1,0 +1,12 @@
+# [TITLE]: R-fields
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fields-lib)
+include(R-fields-license)
+include(R-maps)
+include(R-spam)
+include(R-viridisLite)
+R-fields

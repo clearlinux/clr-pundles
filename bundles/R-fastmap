@@ -1,0 +1,9 @@
+# [TITLE]: R-fastmap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fastmap-lib)
+include(R-fastmap-license)
+R-fastmap

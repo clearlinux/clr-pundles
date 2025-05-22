@@ -1,0 +1,11 @@
+# [TITLE]: R-repr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc)
+include(R-htmltools)
+include(R-jsonlite)
+include(R-pillar)
+R-repr

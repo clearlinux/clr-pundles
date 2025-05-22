@@ -1,0 +1,10 @@
+# [TITLE]: R-subselect
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ISwR)
+include(R-corpcor)
+include(R-subselect-lib)
+R-subselect

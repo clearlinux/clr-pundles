@@ -1,0 +1,10 @@
+# [TITLE]: R-readstata13
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-readstata13-lib)
+include(R-readstata13-license)
+R-readstata13

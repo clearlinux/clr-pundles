@@ -1,0 +1,9 @@
+# [TITLE]: php-datadog_trace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-datadog_trace-lib)
+include(php-datadog_trace-license)
+php-datadog_trace

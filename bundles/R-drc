@@ -1,0 +1,12 @@
+# [TITLE]: R-drc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-car)
+include(R-gtools)
+include(R-multcomp)
+include(R-plotrix)
+include(R-scales)
+R-drc

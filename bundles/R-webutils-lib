@@ -1,0 +1,9 @@
+# [TITLE]: R-webutils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+R-webutils-lib

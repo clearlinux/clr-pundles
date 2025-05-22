@@ -1,0 +1,9 @@
+# [TITLE]: R-mvoutlier
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-robustbase)
+include(R-sgeostat)
+R-mvoutlier

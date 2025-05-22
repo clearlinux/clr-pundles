@@ -1,0 +1,9 @@
+# [TITLE]: R-stringi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-stringi)
+include(R-stringi-lib)
+R-stringi-dev

@@ -1,0 +1,18 @@
+# [TITLE]: R-downlit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-brio)
+include(R-desc)
+include(R-digest)
+include(R-downlit-license)
+include(R-evaluate)
+include(R-fansi)
+include(R-memoise)
+include(R-rlang)
+include(R-vctrs)
+include(R-withr)
+include(R-yaml)
+R-downlit

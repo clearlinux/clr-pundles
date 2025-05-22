@@ -1,0 +1,8 @@
+# [TITLE]: R-som
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-som-lib)
+R-som

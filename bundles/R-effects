@@ -1,0 +1,13 @@
+# [TITLE]: R-effects
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-carData)
+include(R-colorspace)
+include(R-estimability)
+include(R-insight)
+include(R-lme4)
+include(R-survey)
+R-effects

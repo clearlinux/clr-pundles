@@ -1,0 +1,29 @@
+# [TITLE]: R-SGP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Cairo)
+include(R-RSQLite)
+include(R-callr)
+include(R-collapse)
+include(R-colorspace)
+include(R-crayon)
+include(R-data.table)
+include(R-digest)
+include(R-doParallel)
+include(R-equate)
+include(R-foreach)
+include(R-gridBase)
+include(R-gtools)
+include(R-iterators)
+include(R-jsonlite)
+include(R-matrixStats)
+include(R-quantreg)
+include(R-randomNames)
+include(R-rngtools)
+include(R-sn)
+include(R-svglite)
+include(R-toOrdinal)
+R-SGP

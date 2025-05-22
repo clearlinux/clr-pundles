@@ -1,0 +1,9 @@
+# [TITLE]: R-RSclient
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RSclient-lib)
+include(R-RSclient-license)
+R-RSclient

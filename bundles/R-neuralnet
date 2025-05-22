@@ -1,0 +1,8 @@
+# [TITLE]: R-neuralnet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Deriv)
+R-neuralnet

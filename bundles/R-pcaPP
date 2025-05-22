@@ -1,0 +1,9 @@
+# [TITLE]: R-pcaPP
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mvtnorm)
+include(R-pcaPP-lib)
+R-pcaPP

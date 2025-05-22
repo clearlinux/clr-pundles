@@ -1,0 +1,8 @@
+# [TITLE]: R-eha
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-eha-lib)
+R-eha

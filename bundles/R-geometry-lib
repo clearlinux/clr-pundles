@@ -1,0 +1,12 @@
+# [TITLE]: R-geometry-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-geometry-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-geometry-lib

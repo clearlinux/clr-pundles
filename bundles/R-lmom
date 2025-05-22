@@ -1,0 +1,8 @@
+# [TITLE]: R-lmom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lmom-lib)
+R-lmom

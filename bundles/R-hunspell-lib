@@ -1,0 +1,12 @@
+# [TITLE]: R-hunspell-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-hunspell-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-hunspell-lib

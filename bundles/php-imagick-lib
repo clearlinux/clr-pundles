@@ -1,0 +1,11 @@
+# [TITLE]: php-imagick-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ImageMagick-lib)
+include(gcc-libs-math)
+include(libc6)
+include(php-imagick-license)
+php-imagick-lib

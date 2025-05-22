@@ -1,0 +1,13 @@
+# [TITLE]: R-RcppParallel-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RcppParallel-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(tbb-lib)
+R-RcppParallel-lib

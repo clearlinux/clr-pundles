@@ -1,0 +1,10 @@
+# [TITLE]: R-dimRed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DRR)
+include(R-dimRed-license)
+include(R-magrittr)
+R-dimRed

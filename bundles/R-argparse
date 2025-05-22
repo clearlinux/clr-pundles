@@ -1,0 +1,12 @@
+# [TITLE]: R-argparse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-argparse-license)
+include(R-findpython)
+include(R-jsonlite)
+include(coreutils-bin)
+R-argparse

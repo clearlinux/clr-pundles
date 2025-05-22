@@ -1,0 +1,8 @@
+# [TITLE]: R-SparseM
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-SparseM-lib)
+R-SparseM

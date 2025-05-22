@@ -1,0 +1,12 @@
+# [TITLE]: R-profvis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmlwidgets)
+include(R-profvis-lib)
+include(R-profvis-license)
+include(R-rlang)
+include(R-vctrs)
+R-profvis

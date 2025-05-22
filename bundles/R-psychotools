@@ -1,0 +1,8 @@
+# [TITLE]: R-psychotools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-psychotools-lib)
+R-psychotools

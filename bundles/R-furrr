@@ -1,0 +1,13 @@
+# [TITLE]: R-furrr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-future)
+include(R-globals)
+include(R-lifecycle)
+include(R-purrr)
+include(R-rlang)
+include(R-vctrs)
+R-furrr

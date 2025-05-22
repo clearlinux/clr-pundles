@@ -1,0 +1,11 @@
+# [TITLE]: R-xgboost
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-data.table)
+include(R-jsonlite)
+include(R-xgboost-lib)
+include(R-xgboost-license)
+R-xgboost

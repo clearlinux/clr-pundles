@@ -1,0 +1,8 @@
+# [TITLE]: R-R2WinBUGS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-coda)
+R-R2WinBUGS

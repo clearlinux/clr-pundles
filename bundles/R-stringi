@@ -1,0 +1,9 @@
+# [TITLE]: R-stringi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-stringi-lib)
+include(R-stringi-license)
+R-stringi

@@ -1,0 +1,15 @@
+# [TITLE]: R-readODS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cellranger)
+include(R-cpp11)
+include(R-minty)
+include(R-readODS-lib)
+include(R-stringi)
+include(R-tibble)
+include(R-vctrs)
+include(R-zip)
+R-readODS

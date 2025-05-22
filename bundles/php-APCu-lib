@@ -1,0 +1,9 @@
+# [TITLE]: php-APCu-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(php-APCu-license)
+php-APCu-lib

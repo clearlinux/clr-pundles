@@ -1,0 +1,27 @@
+# [TITLE]: R-flexsurv
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-assertthat)
+include(R-deSolve)
+include(R-dplyr)
+include(R-flexsurv-lib)
+include(R-generics)
+include(R-ggplot2)
+include(R-magrittr)
+include(R-mstate)
+include(R-muhaz)
+include(R-mvtnorm)
+include(R-numDeriv)
+include(R-purrr)
+include(R-quadprog)
+include(R-rlang)
+include(R-rstpm2)
+include(R-statmod)
+include(R-tibble)
+include(R-tidyr)
+include(R-tidyselect)
+R-flexsurv

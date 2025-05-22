@@ -1,0 +1,9 @@
+# [TITLE]: php-vld
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-vld-lib)
+include(php-vld-license)
+php-vld

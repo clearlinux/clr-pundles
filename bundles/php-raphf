@@ -1,0 +1,9 @@
+# [TITLE]: php-raphf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-raphf-lib)
+include(php-raphf-license)
+php-raphf

@@ -1,0 +1,9 @@
+# [TITLE]: R-Rmpfr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rmpfr-lib)
+include(R-gmp)
+R-Rmpfr

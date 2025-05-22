@@ -1,0 +1,11 @@
+# [TITLE]: R-rsdmx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-XML)
+include(R-httr)
+include(R-plyr)
+R-rsdmx

@@ -1,0 +1,11 @@
+# [TITLE]: R-ape
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-ape-lib)
+include(R-ape-license)
+include(R-digest)
+R-ape

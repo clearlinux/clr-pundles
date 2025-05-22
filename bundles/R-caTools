@@ -1,0 +1,9 @@
+# [TITLE]: R-caTools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bitops)
+include(R-caTools-lib)
+R-caTools

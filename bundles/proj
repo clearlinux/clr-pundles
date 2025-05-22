@@ -1,0 +1,12 @@
+# [TITLE]: proj
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(proj-bin)
+include(proj-data)
+include(proj-lib)
+include(proj-license)
+include(proj-man)
+proj

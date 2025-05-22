@@ -1,0 +1,8 @@
+# [TITLE]: R-gower
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gower-lib)
+R-gower

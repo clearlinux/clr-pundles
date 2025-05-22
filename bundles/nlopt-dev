@@ -1,0 +1,11 @@
+# [TITLE]: nlopt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nlopt)
+include(nlopt-data)
+include(nlopt-lib)
+include(pkg-config-bin)
+nlopt-dev

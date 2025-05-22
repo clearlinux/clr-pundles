@@ -1,0 +1,9 @@
+# [TITLE]: R-statip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-clue)
+include(R-statip-lib)
+R-statip

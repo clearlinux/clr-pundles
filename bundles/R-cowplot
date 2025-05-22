@@ -1,0 +1,11 @@
+# [TITLE]: R-cowplot
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+include(R-gtable)
+include(R-rlang)
+include(R-scales)
+R-cowplot

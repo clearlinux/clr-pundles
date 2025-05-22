@@ -1,0 +1,8 @@
+# [TITLE]: R-bitops-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-bitops-lib

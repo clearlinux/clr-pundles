@@ -1,0 +1,15 @@
+# [TITLE]: R-remote
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-gridExtra)
+include(R-latticeExtra)
+include(R-mapdata)
+include(R-raster)
+include(R-remote-lib)
+include(R-remote-license)
+include(R-scales)
+R-remote

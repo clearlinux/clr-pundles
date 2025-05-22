@@ -1,0 +1,11 @@
+# [TITLE]: R-waldo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-diffobj)
+include(R-glue)
+include(R-rlang)
+R-waldo

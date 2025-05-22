@@ -10,8 +10,8 @@ include(python3-basic)
 #
 # Popular R packages (stan)
 #
-R-rstan
-R-rstanarm
-R-rstantools
-R-shinystan
+include(R-rstan)
+include(R-rstanarm)
+include(R-rstantools)
+include(R-shinystan)
 include(libnl)

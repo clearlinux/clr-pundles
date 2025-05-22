@@ -1,0 +1,19 @@
+# [TITLE]: R-readr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-cli)
+include(R-clipr)
+include(R-cpp11)
+include(R-crayon)
+include(R-hms)
+include(R-lifecycle)
+include(R-readr-lib)
+include(R-rlang)
+include(R-tibble)
+include(R-tzdb)
+include(R-vroom)
+R-readr

@@ -1,0 +1,13 @@
+# [TITLE]: ImageMagick-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ImageMagick)
+include(ImageMagick-bin)
+include(ImageMagick-data)
+include(ImageMagick-dev)
+include(ImageMagick-lib)
+include(pkg-config-bin)
+ImageMagick-dev

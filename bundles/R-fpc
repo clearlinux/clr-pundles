@@ -1,0 +1,13 @@
+# [TITLE]: R-fpc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-diptest)
+include(R-flexmix)
+include(R-kernlab)
+include(R-mclust)
+include(R-prabclus)
+include(R-robustbase)
+R-fpc

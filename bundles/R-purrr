@@ -1,0 +1,13 @@
+# [TITLE]: R-purrr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-purrr-lib)
+include(R-rlang)
+include(R-vctrs)
+R-purrr

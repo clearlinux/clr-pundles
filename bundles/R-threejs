@@ -1,0 +1,11 @@
+# [TITLE]: R-threejs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc)
+include(R-crosstalk)
+include(R-htmlwidgets)
+include(R-igraph)
+R-threejs

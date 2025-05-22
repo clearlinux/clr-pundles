@@ -1,0 +1,12 @@
+# [TITLE]: R-readxl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-readxl-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-readxl-lib

@@ -1,0 +1,8 @@
+# [TITLE]: R-biglm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-biglm-lib

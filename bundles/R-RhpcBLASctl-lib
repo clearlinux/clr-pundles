@@ -1,0 +1,10 @@
+# [TITLE]: R-RhpcBLASctl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(gcc-libs-math)
+include(libc6)
+R-RhpcBLASctl-lib

@@ -1,0 +1,16 @@
+# [TITLE]: R-reticulate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppTOML)
+include(R-here)
+include(R-jsonlite)
+include(R-png)
+include(R-rappdirs)
+include(R-reticulate-lib)
+include(R-rlang)
+include(R-withr)
+R-reticulate

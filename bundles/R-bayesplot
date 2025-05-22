@@ -1,0 +1,17 @@
+# [TITLE]: R-bayesplot
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-dplyr)
+include(R-ggplot2)
+include(R-ggridges)
+include(R-glue)
+include(R-posterior)
+include(R-reshape2)
+include(R-rlang)
+include(R-tibble)
+include(R-tidyr)
+include(R-tidyselect)
+R-bayesplot

@@ -1,0 +1,11 @@
+# [TITLE]: R-adegraphics
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-ade4)
+include(R-latticeExtra)
+include(R-sp)
+R-adegraphics

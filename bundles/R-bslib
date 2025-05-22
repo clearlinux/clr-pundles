@@ -1,0 +1,19 @@
+# [TITLE]: R-bslib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc)
+include(R-bslib-license)
+include(R-cachem)
+include(R-fastmap)
+include(R-htmltools)
+include(R-jquerylib)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-memoise)
+include(R-mime)
+include(R-rlang)
+include(R-sass)
+R-bslib

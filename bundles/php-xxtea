@@ -1,0 +1,9 @@
+# [TITLE]: php-xxtea
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-xxtea-lib)
+include(php-xxtea-license)
+php-xxtea

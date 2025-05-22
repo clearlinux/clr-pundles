@@ -1,0 +1,9 @@
+# [TITLE]: php-json_post-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(php-json_post-license)
+php-json_post-lib

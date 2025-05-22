@@ -1,0 +1,19 @@
+# [TITLE]: R-DBItest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DBI)
+include(R-blob)
+include(R-callr)
+include(R-desc)
+include(R-hms)
+include(R-lubridate)
+include(R-magrittr)
+include(R-nanoarrow)
+include(R-palmerpenguins)
+include(R-rlang)
+include(R-testthat)
+include(R-withr)
+R-DBItest

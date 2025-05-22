@@ -1,0 +1,9 @@
+# [TITLE]: R-muhaz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-muhaz-lib)
+include(R-muhaz-license)
+R-muhaz

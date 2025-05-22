@@ -1,0 +1,11 @@
+# [TITLE]: R-feather
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-feather-lib)
+include(R-hms)
+include(R-tibble)
+R-feather

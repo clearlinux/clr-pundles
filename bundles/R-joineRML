@@ -1,0 +1,20 @@
+# [TITLE]: R-joineRML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-cobs)
+include(R-doParallel)
+include(R-foreach)
+include(R-generics)
+include(R-ggplot2)
+include(R-joineRML-lib)
+include(R-joineRML-license)
+include(R-lme4)
+include(R-mvtnorm)
+include(R-randtoolbox)
+include(R-tibble)
+R-joineRML

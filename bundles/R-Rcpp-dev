@@ -1,0 +1,9 @@
+# [TITLE]: R-Rcpp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-Rcpp-lib)
+R-Rcpp-dev

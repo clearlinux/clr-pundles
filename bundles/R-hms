@@ -1,0 +1,11 @@
+# [TITLE]: R-hms
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lifecycle)
+include(R-pkgconfig)
+include(R-rlang)
+include(R-vctrs)
+R-hms

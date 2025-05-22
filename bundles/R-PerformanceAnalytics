@@ -1,0 +1,11 @@
+# [TITLE]: R-PerformanceAnalytics
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-PerformanceAnalytics-lib)
+include(R-quadprog)
+include(R-xts)
+include(R-zoo)
+R-PerformanceAnalytics

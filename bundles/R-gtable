@@ -1,0 +1,11 @@
+# [TITLE]: R-gtable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-glue)
+include(R-lifecycle)
+include(R-rlang)
+R-gtable

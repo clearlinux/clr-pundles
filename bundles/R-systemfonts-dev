@@ -1,0 +1,9 @@
+# [TITLE]: R-systemfonts-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-systemfonts)
+include(R-systemfonts-lib)
+R-systemfonts-dev

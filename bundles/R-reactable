@@ -1,0 +1,12 @@
+# [TITLE]: R-reactable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-digest)
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-jsonlite)
+include(R-reactR)
+R-reactable

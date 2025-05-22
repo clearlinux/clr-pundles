@@ -1,0 +1,17 @@
+# [TITLE]: ruby-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(libc6)
+include(libffi-lib)
+include(libgcc1)
+include(libxcrypt-lib)
+include(openssl-lib)
+include(ruby-data)
+include(ruby-license)
+include(yaml-lib)
+include(zlib-lib)
+ruby-lib

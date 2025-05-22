@@ -1,0 +1,9 @@
+# [TITLE]: R-MatchIt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-MatchIt)
+include(R-MatchIt-lib)
+R-MatchIt-dev

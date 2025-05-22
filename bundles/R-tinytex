@@ -1,0 +1,8 @@
+# [TITLE]: R-tinytex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-xfun)
+R-tinytex

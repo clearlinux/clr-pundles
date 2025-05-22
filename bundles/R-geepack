@@ -1,0 +1,10 @@
+# [TITLE]: R-geepack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-broom)
+include(R-geepack-lib)
+include(R-magrittr)
+R-geepack

@@ -1,0 +1,9 @@
+# [TITLE]: R-farver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-farver-lib)
+include(R-farver-license)
+R-farver

@@ -1,0 +1,9 @@
+# [TITLE]: R-cvar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rdpack)
+include(R-gbutils)
+R-cvar

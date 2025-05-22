@@ -1,0 +1,18 @@
+# [TITLE]: R-BatchJobs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BBmisc)
+include(R-DBI)
+include(R-RSQLite)
+include(R-backports)
+include(R-brew)
+include(R-checkmate)
+include(R-data.table)
+include(R-digest)
+include(R-sendmailR)
+include(R-stringi)
+include(filesystem)
+R-BatchJobs

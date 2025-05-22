@@ -1,0 +1,22 @@
+# [TITLE]: R-rhub
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-callr)
+include(R-cli)
+include(R-curl)
+include(R-desc)
+include(R-gert)
+include(R-gitcreds)
+include(R-glue)
+include(R-jsonlite)
+include(R-pkgbuild)
+include(R-processx)
+include(R-rappdirs)
+include(R-rematch)
+include(R-rprojroot)
+include(R-whoami)
+R-rhub

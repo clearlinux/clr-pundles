@@ -1,0 +1,14 @@
+# [TITLE]: libspatialite-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librttopo-dev)
+include(libspatialite)
+include(libspatialite-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+include(proj-dev)
+include(sqlite-autoconf-dev)
+libspatialite-dev

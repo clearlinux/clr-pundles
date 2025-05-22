@@ -1,0 +1,9 @@
+# [TITLE]: R-RJSONIO
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RJSONIO-lib)
+include(R-RJSONIO-license)
+R-RJSONIO

@@ -1,0 +1,9 @@
+# [TITLE]: R-libcoin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-libcoin-lib)
+include(R-mvtnorm)
+R-libcoin

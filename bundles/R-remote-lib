@@ -1,0 +1,12 @@
+# [TITLE]: R-remote-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-remote-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-remote-lib

@@ -1,0 +1,19 @@
+# [TITLE]: R-languageserver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-callr)
+include(R-collections)
+include(R-fs)
+include(R-jsonlite)
+include(R-languageserver-lib)
+include(R-lintr)
+include(R-roxygen2)
+include(R-stringi)
+include(R-styler)
+include(R-xml2)
+include(R-xmlparsedata)
+R-languageserver

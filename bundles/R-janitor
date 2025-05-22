@@ -1,0 +1,19 @@
+# [TITLE]: R-janitor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-dplyr)
+include(R-hms)
+include(R-lifecycle)
+include(R-lubridate)
+include(R-magrittr)
+include(R-purrr)
+include(R-rlang)
+include(R-snakecase)
+include(R-stringi)
+include(R-stringr)
+include(R-tidyr)
+include(R-tidyselect)
+R-janitor

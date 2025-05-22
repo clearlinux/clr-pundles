@@ -1,0 +1,8 @@
+# [TITLE]: R-rcorpora
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jsonlite)
+R-rcorpora

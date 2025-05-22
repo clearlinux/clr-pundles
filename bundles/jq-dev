@@ -1,0 +1,11 @@
+# [TITLE]: jq-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jq)
+include(jq-bin)
+include(jq-lib)
+include(pkg-config-bin)
+jq-dev

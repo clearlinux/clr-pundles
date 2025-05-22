@@ -1,0 +1,10 @@
+# [TITLE]: jq-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jq-lib)
+include(jq-license)
+include(libc6)
+jq-bin

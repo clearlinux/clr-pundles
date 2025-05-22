@@ -1,0 +1,10 @@
+# [TITLE]: R-dynlm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-car)
+include(R-lmtest)
+include(R-zoo)
+R-dynlm

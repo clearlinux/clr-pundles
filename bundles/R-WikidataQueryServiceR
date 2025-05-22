@@ -1,0 +1,15 @@
+# [TITLE]: R-WikidataQueryServiceR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-WikipediR)
+include(R-dplyr)
+include(R-httr)
+include(R-jsonlite)
+include(R-purrr)
+include(R-ratelimitr)
+include(R-readr)
+include(R-rex)
+R-WikidataQueryServiceR

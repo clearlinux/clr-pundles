@@ -1,0 +1,8 @@
+# [TITLE]: R-qap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-qap-lib)
+R-qap

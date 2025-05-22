@@ -1,0 +1,9 @@
+# [TITLE]: R-callr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-processx)
+R-callr

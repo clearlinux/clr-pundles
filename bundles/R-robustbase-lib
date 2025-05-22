@@ -1,0 +1,10 @@
+# [TITLE]: R-robustbase-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-robustbase-license)
+include(libc6)
+R-robustbase-lib

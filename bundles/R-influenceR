@@ -1,0 +1,9 @@
+# [TITLE]: R-influenceR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-igraph)
+include(R-influenceR-lib)
+R-influenceR

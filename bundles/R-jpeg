@@ -1,0 +1,8 @@
+# [TITLE]: R-jpeg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jpeg-lib)
+R-jpeg

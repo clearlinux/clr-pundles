@@ -1,0 +1,13 @@
+# [TITLE]: R-fGarch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cvar)
+include(R-fBasics)
+include(R-fGarch-lib)
+include(R-fastICA)
+include(R-timeDate)
+include(R-timeSeries)
+R-fGarch

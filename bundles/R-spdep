@@ -1,0 +1,15 @@
+# [TITLE]: R-spdep
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-deldir)
+include(R-e1071)
+include(R-s2)
+include(R-sf)
+include(R-sp)
+include(R-spData)
+include(R-spdep-lib)
+include(R-units)
+R-spdep

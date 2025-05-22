@@ -1,0 +1,8 @@
+# [TITLE]: R-ash-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+R-ash-lib

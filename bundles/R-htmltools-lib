@@ -1,0 +1,8 @@
+# [TITLE]: R-htmltools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-htmltools-lib

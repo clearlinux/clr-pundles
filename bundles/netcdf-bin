@@ -1,0 +1,12 @@
+# [TITLE]: netcdf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(hdf5-lib)
+include(libc6)
+include(netcdf-lib)
+include(netcdf-license)
+netcdf-bin

@@ -1,0 +1,30 @@
+# [TITLE]: ImageMagick-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ImageMagick-data)
+include(ImageMagick-license)
+include(LibRaw-lib)
+include(bzip2-lib)
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(glib-lib)
+include(graphviz-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(libzip-lib)
+include(openexr-lib)
+include(pango-lib)
+include(tiff-lib)
+include(zlib-lib)
+ImageMagick-lib

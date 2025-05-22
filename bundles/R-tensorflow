@@ -1,0 +1,15 @@
+# [TITLE]: R-tensorflow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-config)
+include(R-lifecycle)
+include(R-processx)
+include(R-reticulate)
+include(R-rstudioapi)
+include(R-tfautograph)
+include(R-tfruns)
+include(R-yaml)
+R-tensorflow

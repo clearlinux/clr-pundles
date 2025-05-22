@@ -1,0 +1,8 @@
+# [TITLE]: R-pbmcapply
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-pbmcapply-lib)
+R-pbmcapply

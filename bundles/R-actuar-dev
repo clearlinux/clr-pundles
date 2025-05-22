@@ -1,0 +1,9 @@
+# [TITLE]: R-actuar-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-actuar)
+include(R-actuar-lib)
+R-actuar-dev

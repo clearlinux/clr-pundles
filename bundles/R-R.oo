@@ -1,0 +1,8 @@
+# [TITLE]: R-R.oo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R.methodsS3)
+R-R.oo

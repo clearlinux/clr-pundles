@@ -1,0 +1,9 @@
+# [TITLE]: php-psr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-psr)
+include(php-psr-lib)
+php-psr-dev

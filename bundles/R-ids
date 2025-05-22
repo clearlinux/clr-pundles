@@ -1,0 +1,9 @@
+# [TITLE]: R-ids
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-openssl)
+include(R-uuid)
+R-ids

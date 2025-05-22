@@ -1,0 +1,14 @@
+# [TITLE]: R-solrium
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-crul)
+include(R-dplyr)
+include(R-jsonlite)
+include(R-plyr)
+include(R-tibble)
+include(R-xml2)
+R-solrium

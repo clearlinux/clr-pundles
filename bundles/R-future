@@ -1,0 +1,11 @@
+# [TITLE]: R-future
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-digest)
+include(R-globals)
+include(R-listenv)
+include(R-parallelly)
+R-future

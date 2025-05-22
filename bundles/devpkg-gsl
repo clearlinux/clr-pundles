@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-gsl-dev
+include(gsl-dev)

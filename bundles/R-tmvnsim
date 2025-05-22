@@ -1,0 +1,8 @@
+# [TITLE]: R-tmvnsim
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-tmvnsim-lib)
+R-tmvnsim

@@ -1,0 +1,11 @@
+# [TITLE]: R-ggtext
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+include(R-gridtext)
+include(R-rlang)
+include(R-scales)
+R-ggtext

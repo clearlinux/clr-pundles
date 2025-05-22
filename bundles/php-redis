@@ -1,0 +1,9 @@
+# [TITLE]: php-redis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-redis-lib)
+include(php-redis-license)
+php-redis

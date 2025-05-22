@@ -1,0 +1,8 @@
+# [TITLE]: R-sparsevctrs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-sparsevctrs-lib

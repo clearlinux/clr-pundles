@@ -1,0 +1,14 @@
+# [TITLE]: nlopt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(nlopt-data)
+include(nlopt-lib)
+include(nlopt-license)
+include(octave-lib)
+nlopt

@@ -1,0 +1,14 @@
+# [TITLE]: R-htmlTable
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-checkmate)
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-knitr)
+include(R-magrittr)
+include(R-rstudioapi)
+include(R-stringr)
+R-htmlTable

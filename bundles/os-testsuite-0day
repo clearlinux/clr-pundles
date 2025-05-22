@@ -26,5 +26,5 @@ include(devpkg-libXaw)
 include(memcached)
 include(moreutils)
 include(pandoc)
-ruby
+include(ruby)
 include(sg3_utils)

@@ -1,0 +1,11 @@
+# [TITLE]: libgeotiff-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgeotiff-lib)
+include(libgeotiff-license)
+include(tiff-lib)
+libgeotiff-bin

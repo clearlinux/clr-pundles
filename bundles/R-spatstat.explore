@@ -1,0 +1,16 @@
+# [TITLE]: R-spatstat.explore
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-abind)
+include(R-goftest)
+include(R-spatstat.data)
+include(R-spatstat.explore-lib)
+include(R-spatstat.geom)
+include(R-spatstat.random)
+include(R-spatstat.sparse)
+include(R-spatstat.univar)
+include(R-spatstat.utils)
+R-spatstat.explore

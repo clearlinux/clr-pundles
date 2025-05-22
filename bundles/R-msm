@@ -1,0 +1,12 @@
+# [TITLE]: R-msm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-expm)
+include(R-generics)
+include(R-msm-lib)
+include(R-mvtnorm)
+include(R-tibble)
+R-msm

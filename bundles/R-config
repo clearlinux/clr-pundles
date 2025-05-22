@@ -1,0 +1,8 @@
+# [TITLE]: R-config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-yaml)
+R-config

@@ -1,0 +1,8 @@
+# [TITLE]: R-lsmeans
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-emmeans)
+R-lsmeans

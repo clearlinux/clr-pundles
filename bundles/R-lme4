@@ -1,0 +1,13 @@
+# [TITLE]: R-lme4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-lme4-lib)
+include(R-minqa)
+include(R-nloptr)
+include(R-reformulas)
+R-lme4

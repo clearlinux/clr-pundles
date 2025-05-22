@@ -1,0 +1,11 @@
+# [TITLE]: R-reshape2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-plyr)
+include(R-reshape2-lib)
+include(R-stringr)
+R-reshape2

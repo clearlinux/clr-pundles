@@ -1,0 +1,9 @@
+# [TITLE]: php-krb5-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-krb5)
+include(php-krb5-lib)
+php-krb5-dev

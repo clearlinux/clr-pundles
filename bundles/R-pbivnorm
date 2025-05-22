@@ -1,0 +1,8 @@
+# [TITLE]: R-pbivnorm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-pbivnorm-lib)
+R-pbivnorm

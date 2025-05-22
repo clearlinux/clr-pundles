@@ -1,0 +1,11 @@
+# [TITLE]: R-rstpm2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-rstpm2-lib

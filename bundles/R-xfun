@@ -1,0 +1,8 @@
+# [TITLE]: R-xfun
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-xfun-lib)
+R-xfun

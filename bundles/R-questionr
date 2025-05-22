@@ -1,0 +1,16 @@
+# [TITLE]: R-questionr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-classInt)
+include(R-highr)
+include(R-htmltools)
+include(R-labelled)
+include(R-miniUI)
+include(R-rlang)
+include(R-rstudioapi)
+include(R-shiny)
+include(R-styler)
+R-questionr

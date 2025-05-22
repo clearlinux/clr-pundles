@@ -1,0 +1,11 @@
+# [TITLE]: R-raster
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-raster-lib)
+include(R-sp)
+include(R-terra)
+R-raster

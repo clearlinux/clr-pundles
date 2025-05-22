@@ -1,0 +1,8 @@
+# [TITLE]: R-distr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-distr-lib

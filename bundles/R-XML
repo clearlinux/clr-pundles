@@ -1,0 +1,9 @@
+# [TITLE]: R-XML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-XML-lib)
+include(R-XML-license)
+R-XML

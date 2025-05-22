@@ -1,0 +1,15 @@
+# [TITLE]: R-phangorn
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-ape)
+include(R-digest)
+include(R-fastmatch)
+include(R-generics)
+include(R-igraph)
+include(R-phangorn-lib)
+include(R-quadprog)
+R-phangorn

@@ -1,0 +1,9 @@
+# [TITLE]: R-minqa
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-minqa-lib)
+R-minqa

@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-JAGS-dev
+include(JAGS-dev)
 include(openblas)
 include(libstdcpp)

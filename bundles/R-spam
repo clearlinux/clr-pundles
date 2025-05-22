@@ -1,0 +1,11 @@
+# [TITLE]: R-spam
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-dotCall64)
+include(R-spam-lib)
+include(R-spam-license)
+R-spam

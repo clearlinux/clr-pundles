@@ -1,0 +1,9 @@
+# [TITLE]: R-rstpm2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rstpm2)
+include(R-rstpm2-lib)
+R-rstpm2-dev

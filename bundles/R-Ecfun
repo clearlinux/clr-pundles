@@ -1,0 +1,17 @@
+# [TITLE]: R-Ecfun
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BMA)
+include(R-fda)
+include(R-jpeg)
+include(R-mvtnorm)
+include(R-readr)
+include(R-rvest)
+include(R-rworldmap)
+include(R-stringi)
+include(R-tis)
+include(R-xml2)
+R-Ecfun

@@ -1,0 +1,8 @@
+# [TITLE]: R-mime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mime-lib)
+R-mime

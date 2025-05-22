@@ -1,0 +1,12 @@
+# [TITLE]: R-clustMixType
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-combinat)
+include(R-dplyr)
+include(R-rlang)
+include(R-tibble)
+R-clustMixType

@@ -1,0 +1,8 @@
+# [TITLE]: R-RandomFieldsUtils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RandomFieldsUtils-lib)
+R-RandomFieldsUtils

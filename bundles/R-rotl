@@ -1,0 +1,14 @@
+# [TITLE]: R-rotl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ape)
+include(R-curl)
+include(R-httr)
+include(R-jsonlite)
+include(R-rentrez)
+include(R-rlang)
+include(R-rncl)
+R-rotl

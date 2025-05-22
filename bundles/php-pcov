@@ -1,0 +1,9 @@
+# [TITLE]: php-pcov
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-pcov-lib)
+include(php-pcov-license)
+php-pcov

@@ -1,0 +1,11 @@
+# [TITLE]: R-fUnitRoots
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fBasics)
+include(R-fUnitRoots-lib)
+include(R-timeSeries)
+include(R-urca)
+R-fUnitRoots

@@ -1,0 +1,8 @@
+# [TITLE]: R-spc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-spc-lib)
+R-spc

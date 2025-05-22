@@ -1,0 +1,10 @@
+# [TITLE]: R-fields-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fields-license)
+include(R-lib)
+include(libc6)
+R-fields-lib

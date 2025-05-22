@@ -1,0 +1,16 @@
+# [TITLE]: R-igraph
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-cpp11)
+include(R-igraph-lib)
+include(R-igraph-license)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-pkgconfig)
+include(R-rlang)
+include(R-vctrs)
+R-igraph

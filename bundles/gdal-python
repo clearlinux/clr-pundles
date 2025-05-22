@@ -1,0 +1,8 @@
+# [TITLE]: gdal-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdal-python3)
+gdal-python

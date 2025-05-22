@@ -1,0 +1,9 @@
+# [TITLE]: R-FNN
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-FNN-lib)
+include(R-FNN-license)
+R-FNN

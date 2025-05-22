@@ -1,0 +1,9 @@
+# [TITLE]: R-statnet.common
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-coda)
+include(R-statnet.common-lib)
+R-statnet.common

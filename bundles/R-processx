@@ -1,0 +1,11 @@
+# [TITLE]: R-processx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-processx-lib)
+include(R-ps)
+include(libc6)
+R-processx

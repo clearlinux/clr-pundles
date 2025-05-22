@@ -1,0 +1,8 @@
+# [TITLE]: R-rngWELL
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rngWELL-lib)
+R-rngWELL

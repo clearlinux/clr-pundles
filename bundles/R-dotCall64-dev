@@ -1,0 +1,9 @@
+# [TITLE]: R-dotCall64-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-dotCall64)
+include(R-dotCall64-lib)
+R-dotCall64-dev

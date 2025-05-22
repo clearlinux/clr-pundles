@@ -1,0 +1,9 @@
+# [TITLE]: librttopo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librttopo)
+include(librttopo-lib)
+librttopo-dev

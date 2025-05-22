@@ -1,0 +1,11 @@
+# [TITLE]: R-topicmodels
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-modeltools)
+include(R-slam)
+include(R-tm)
+include(R-topicmodels-lib)
+R-topicmodels

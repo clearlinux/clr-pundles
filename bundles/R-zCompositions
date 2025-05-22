@@ -1,0 +1,9 @@
+# [TITLE]: R-zCompositions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-NADA)
+include(R-truncnorm)
+R-zCompositions

@@ -1,0 +1,11 @@
+# [TITLE]: R-MCMCpack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-MCMCpack-lib)
+include(R-coda)
+include(R-mcmc)
+include(R-quantreg)
+R-MCMCpack

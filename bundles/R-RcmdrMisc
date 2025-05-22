@@ -1,0 +1,17 @@
+# [TITLE]: R-RcmdrMisc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Hmisc)
+include(R-abind)
+include(R-car)
+include(R-colorspace)
+include(R-e1071)
+include(R-haven)
+include(R-nortest)
+include(R-readstata13)
+include(R-readxl)
+include(R-sandwich)
+R-RcmdrMisc

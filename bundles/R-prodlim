@@ -1,0 +1,14 @@
+# [TITLE]: R-prodlim
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-data.table)
+include(R-diagram)
+include(R-ggplot2)
+include(R-lava)
+include(R-prodlim-lib)
+include(R-rlang)
+R-prodlim

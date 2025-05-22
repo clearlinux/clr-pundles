@@ -1,0 +1,12 @@
+# [TITLE]: R-BMA
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BMA-lib)
+include(R-inline)
+include(R-leaps)
+include(R-robustbase)
+include(R-rrcov)
+R-BMA

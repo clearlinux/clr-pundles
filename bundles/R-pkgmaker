@@ -1,0 +1,13 @@
+# [TITLE]: R-pkgmaker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-assertthat)
+include(R-digest)
+include(R-registry)
+include(R-stringr)
+include(R-withr)
+include(R-xtable)
+R-pkgmaker

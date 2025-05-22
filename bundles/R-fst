@@ -1,0 +1,11 @@
+# [TITLE]: R-fst
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-fst-lib)
+include(R-fst-license)
+include(R-fstcore)
+R-fst

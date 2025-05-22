@@ -1,0 +1,9 @@
+# [TITLE]: R-utf8
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-utf8-lib)
+include(R-utf8-license)
+R-utf8

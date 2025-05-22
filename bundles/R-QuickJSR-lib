@@ -1,0 +1,12 @@
+# [TITLE]: R-QuickJSR-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-QuickJSR-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-QuickJSR-lib

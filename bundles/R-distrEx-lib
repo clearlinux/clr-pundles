@@ -1,0 +1,8 @@
+# [TITLE]: R-distrEx-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-distrEx-lib

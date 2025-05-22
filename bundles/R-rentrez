@@ -1,0 +1,10 @@
+# [TITLE]: R-rentrez
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-XML)
+include(R-httr)
+include(R-jsonlite)
+R-rentrez

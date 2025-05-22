@@ -1,0 +1,8 @@
+# [TITLE]: R-Lahman
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-dplyr)
+R-Lahman

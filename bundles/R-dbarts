@@ -1,0 +1,8 @@
+# [TITLE]: R-dbarts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-dbarts-lib)
+R-dbarts

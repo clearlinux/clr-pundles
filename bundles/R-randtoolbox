@@ -1,0 +1,9 @@
+# [TITLE]: R-randtoolbox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-randtoolbox-lib)
+include(R-rngWELL)
+R-randtoolbox

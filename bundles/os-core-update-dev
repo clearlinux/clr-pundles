@@ -235,7 +235,7 @@ include(pyudev)
 include(devpkg-qttools)
 include(devpkg-readline)
 include(devpkg-readline)
-ruby
+include(ruby)
 include(sed)
 include(shadow)
 include(shared-mime-info)

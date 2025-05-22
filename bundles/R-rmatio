@@ -1,0 +1,9 @@
+# [TITLE]: R-rmatio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rmatio-lib)
+include(R-rmatio-license)
+R-rmatio

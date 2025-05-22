@@ -1,0 +1,12 @@
+# [TITLE]: LibRaw-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibRaw)
+include(LibRaw-bin)
+include(LibRaw-lib)
+include(lcms2-dev)
+include(pkg-config-bin)
+LibRaw-dev

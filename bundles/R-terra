@@ -1,0 +1,9 @@
+# [TITLE]: R-terra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-terra-lib)
+R-terra

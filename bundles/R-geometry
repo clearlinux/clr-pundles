@@ -1,0 +1,14 @@
+# [TITLE]: R-geometry
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppProgress)
+include(R-geometry-lib)
+include(R-geometry-license)
+include(R-linprog)
+include(R-lpSolve)
+include(R-magic)
+R-geometry

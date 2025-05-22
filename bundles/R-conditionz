@@ -1,0 +1,9 @@
+# [TITLE]: R-conditionz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-uuid)
+R-conditionz

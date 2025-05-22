@@ -1,0 +1,27 @@
+# [TITLE]: R-taxize
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-ape)
+include(R-cli)
+include(R-crayon)
+include(R-crul)
+include(R-curl)
+include(R-data.table)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-natserv)
+include(R-phangorn)
+include(R-ritis)
+include(R-rotl)
+include(R-rredlist)
+include(R-stringi)
+include(R-tibble)
+include(R-wikitaxa)
+include(R-worrms)
+include(R-xml2)
+include(R-zoo)
+R-taxize

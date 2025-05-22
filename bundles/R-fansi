@@ -1,0 +1,8 @@
+# [TITLE]: R-fansi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fansi-lib)
+R-fansi

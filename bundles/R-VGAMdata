@@ -1,0 +1,8 @@
+# [TITLE]: R-VGAMdata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-VGAM)
+R-VGAMdata

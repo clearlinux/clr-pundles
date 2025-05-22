@@ -1,0 +1,10 @@
+# [TITLE]: R-BoolNet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BoolNet-lib)
+include(R-XML)
+include(R-igraph)
+R-BoolNet

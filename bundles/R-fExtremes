@@ -1,0 +1,11 @@
+# [TITLE]: R-fExtremes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fBasics)
+include(R-fGarch)
+include(R-timeDate)
+include(R-timeSeries)
+R-fExtremes

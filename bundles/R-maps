@@ -1,0 +1,8 @@
+# [TITLE]: R-maps
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-maps-lib)
+R-maps

@@ -1,0 +1,21 @@
+# [TITLE]: R-forecast
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-colorspace)
+include(R-forecast-lib)
+include(R-fracdiff)
+include(R-generics)
+include(R-ggplot2)
+include(R-lmtest)
+include(R-magrittr)
+include(R-timeDate)
+include(R-tseries)
+include(R-urca)
+include(R-withr)
+include(R-zoo)
+R-forecast

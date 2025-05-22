@@ -1,0 +1,9 @@
+# [TITLE]: php-zmq
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-zmq-lib)
+include(php-zmq-license)
+php-zmq

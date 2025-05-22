@@ -1,0 +1,13 @@
+# [TITLE]: R-geojson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jqr)
+include(R-jsonlite)
+include(R-lazyeval)
+include(R-magrittr)
+include(R-protolite)
+include(R-sp)
+R-geojson

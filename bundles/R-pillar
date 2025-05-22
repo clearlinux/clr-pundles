@@ -1,0 +1,13 @@
+# [TITLE]: R-pillar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-glue)
+include(R-lifecycle)
+include(R-rlang)
+include(R-utf8)
+include(R-vctrs)
+R-pillar

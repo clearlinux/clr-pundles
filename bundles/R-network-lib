@@ -1,0 +1,10 @@
+# [TITLE]: R-network-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-network-license)
+include(libc6)
+R-network-lib

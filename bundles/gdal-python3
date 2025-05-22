@@ -1,0 +1,12 @@
+# [TITLE]: gdal-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdal-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(python3-core)
+gdal-python3

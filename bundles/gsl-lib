@@ -1,0 +1,9 @@
+# [TITLE]: gsl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsl-license)
+include(libc6)
+gsl-lib

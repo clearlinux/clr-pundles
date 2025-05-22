@@ -1,0 +1,24 @@
+# [TITLE]: R-brms
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-abind)
+include(R-backports)
+include(R-bayesplot)
+include(R-bridgesampling)
+include(R-coda)
+include(R-future)
+include(R-future.apply)
+include(R-ggplot2)
+include(R-glue)
+include(R-loo)
+include(R-matrixStats)
+include(R-nleqslv)
+include(R-posterior)
+include(R-rlang)
+include(R-rstan)
+include(R-rstantools)
+R-brms

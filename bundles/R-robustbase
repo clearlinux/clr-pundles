@@ -1,0 +1,10 @@
+# [TITLE]: R-robustbase
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DEoptimR)
+include(R-robustbase-lib)
+include(R-robustbase-license)
+R-robustbase

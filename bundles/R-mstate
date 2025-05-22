@@ -1,0 +1,12 @@
+# [TITLE]: R-mstate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-data.table)
+include(R-mstate-lib)
+include(R-rlang)
+include(R-viridisLite)
+R-mstate

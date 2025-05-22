@@ -1,0 +1,15 @@
+# [TITLE]: R-mice
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-broom)
+include(R-cpp11)
+include(R-dplyr)
+include(R-glmnet)
+include(R-mice-lib)
+include(R-mitml)
+include(R-tidyr)
+R-mice

@@ -1,0 +1,10 @@
+# [TITLE]: R-arm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-abind)
+include(R-coda)
+include(R-lme4)
+R-arm

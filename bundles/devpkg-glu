@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-glu-dev
+include(glu-dev)
 include(lib-opengl)
 include(libstdcpp)

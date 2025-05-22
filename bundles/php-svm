@@ -1,0 +1,9 @@
+# [TITLE]: php-svm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-svm-lib)
+include(php-svm-license)
+php-svm

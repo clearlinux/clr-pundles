@@ -1,0 +1,27 @@
+# [TITLE]: R-shiny
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-bslib)
+include(R-cachem)
+include(R-commonmark)
+include(R-crayon)
+include(R-fastmap)
+include(R-fontawesome)
+include(R-glue)
+include(R-htmltools)
+include(R-httpuv)
+include(R-jsonlite)
+include(R-later)
+include(R-lifecycle)
+include(R-mime)
+include(R-promises)
+include(R-rlang)
+include(R-shiny-license)
+include(R-sourcetools)
+include(R-withr)
+include(R-xtable)
+R-shiny

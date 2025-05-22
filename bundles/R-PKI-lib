@@ -1,0 +1,11 @@
+# [TITLE]: R-PKI-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-PKI-license)
+include(R-lib)
+include(libc6)
+include(openssl-lib)
+R-PKI-lib

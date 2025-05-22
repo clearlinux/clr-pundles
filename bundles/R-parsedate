@@ -1,0 +1,8 @@
+# [TITLE]: R-parsedate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-parsedate-lib)
+R-parsedate

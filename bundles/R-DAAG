@@ -1,0 +1,9 @@
+# [TITLE]: R-DAAG
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rdpack)
+include(R-latticeExtra)
+R-DAAG

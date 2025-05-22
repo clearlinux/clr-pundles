@@ -1,0 +1,9 @@
+# [TITLE]: R-binGroup
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rdpack)
+include(R-partitions)
+R-binGroup

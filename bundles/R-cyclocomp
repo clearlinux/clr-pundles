@@ -1,0 +1,12 @@
+# [TITLE]: R-cyclocomp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-callr)
+include(R-crayon)
+include(R-desc)
+include(R-remotes)
+include(R-withr)
+R-cyclocomp

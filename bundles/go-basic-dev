@@ -23,7 +23,7 @@ include(devpkg-acl)
 include(devpkg-acl)
 include(acl-staticdev)
 include(devpkg-alsa-lib)
-armadillo-data
+include(armadillo-data)
 asciidoc
 asciidoctor
 include(devpkg-attr)
@@ -454,7 +454,7 @@ include(devpkg-qttools)
 include(devpkg-readline)
 include(devpkg-readline)
 include(rsync)
-ruby
+include(ruby)
 include(sed)
 include(shadow)
 include(shared-mime-info)
@@ -477,10 +477,10 @@ include(texinfo)
 include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)
-tk
+include(tk)
 include(devpkg-tk)
-tk-extras
-tk-staticdev
+include(tk-extras)
+include(tk-staticdev)
 include(devpkg-tpm2-tss)
 include(tzdata)
 include(unzip)

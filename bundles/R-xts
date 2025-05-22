@@ -1,0 +1,9 @@
+# [TITLE]: R-xts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-xts-lib)
+include(R-zoo)
+R-xts

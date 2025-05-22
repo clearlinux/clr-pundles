@@ -1,0 +1,9 @@
+# [TITLE]: R-float-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-float)
+include(R-float-lib)
+R-float-dev

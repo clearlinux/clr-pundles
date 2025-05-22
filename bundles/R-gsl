@@ -1,0 +1,8 @@
+# [TITLE]: R-gsl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gsl-lib)
+R-gsl

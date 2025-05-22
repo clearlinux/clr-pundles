@@ -1,0 +1,8 @@
+# [TITLE]: R-mitools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DBI)
+R-mitools

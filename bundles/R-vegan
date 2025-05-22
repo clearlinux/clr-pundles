@@ -1,0 +1,9 @@
+# [TITLE]: R-vegan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-permute)
+include(R-vegan-lib)
+R-vegan

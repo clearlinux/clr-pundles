@@ -1,0 +1,11 @@
+# [TITLE]: R-latticeExtra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-interp)
+include(R-jpeg)
+include(R-png)
+R-latticeExtra

@@ -1,0 +1,8 @@
+# [TITLE]: R-ratelimitr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-assertthat)
+R-ratelimitr

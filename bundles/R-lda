@@ -1,0 +1,8 @@
+# [TITLE]: R-lda
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lda-lib)
+R-lda

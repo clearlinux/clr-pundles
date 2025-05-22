@@ -1,0 +1,12 @@
+# [TITLE]: R-FNN-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-FNN-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-FNN-lib

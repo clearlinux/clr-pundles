@@ -1,0 +1,9 @@
+# [TITLE]: R-leaflet.providers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-leaflet.providers-license)
+R-leaflet.providers

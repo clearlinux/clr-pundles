@@ -1,0 +1,8 @@
+# [TITLE]: R-rlecuyer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rlecuyer-lib)
+R-rlecuyer

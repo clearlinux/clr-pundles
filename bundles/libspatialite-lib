@@ -1,0 +1,15 @@
+# [TITLE]: libspatialite-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(geos-lib)
+include(libc6)
+include(librttopo-lib)
+include(libspatialite-license)
+include(proj-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+libspatialite-lib

@@ -1,0 +1,10 @@
+# [TITLE]: php-lua-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(lua-lib)
+include(php-lua-license)
+php-lua-lib

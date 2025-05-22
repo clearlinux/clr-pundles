@@ -1,0 +1,17 @@
+# [TITLE]: R-adegenet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ade4)
+include(R-adegenet-lib)
+include(R-ape)
+include(R-dplyr)
+include(R-ggplot2)
+include(R-igraph)
+include(R-reshape2)
+include(R-seqinr)
+include(R-shiny)
+include(R-vegan)
+R-adegenet

@@ -1,0 +1,9 @@
+# [TITLE]: R-ranger-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ranger)
+include(R-ranger-lib)
+R-ranger-dev

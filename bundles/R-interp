@@ -1,0 +1,11 @@
+# [TITLE]: R-interp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppEigen)
+include(R-deldir)
+include(R-interp-lib)
+R-interp

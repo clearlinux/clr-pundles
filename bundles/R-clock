@@ -1,0 +1,14 @@
+# [TITLE]: R-clock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-clock-lib)
+include(R-cpp11)
+include(R-lifecycle)
+include(R-rlang)
+include(R-tzdb)
+include(R-vctrs)
+R-clock

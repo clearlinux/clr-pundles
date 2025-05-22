@@ -1,0 +1,9 @@
+# [TITLE]: R-Cubist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Cubist-lib)
+include(R-reshape2)
+R-Cubist

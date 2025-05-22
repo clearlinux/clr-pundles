@@ -1,0 +1,10 @@
+# [TITLE]: glu-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glu)
+include(glu-lib)
+include(libglvnd-dev)
+glu-dev

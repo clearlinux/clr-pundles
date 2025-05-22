@@ -1,0 +1,9 @@
+# [TITLE]: R-miniUI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-shiny)
+R-miniUI

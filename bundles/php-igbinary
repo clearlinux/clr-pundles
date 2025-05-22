@@ -1,0 +1,9 @@
+# [TITLE]: php-igbinary
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-igbinary-lib)
+include(php-igbinary-license)
+php-igbinary

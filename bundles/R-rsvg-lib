@@ -1,0 +1,12 @@
+# [TITLE]: R-rsvg-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(cairo-lib)
+include(glib-lib)
+include(libc6)
+include(librsvg-lib)
+R-rsvg-lib

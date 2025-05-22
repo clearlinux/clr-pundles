@@ -1,0 +1,10 @@
+# [TITLE]: R-benchr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppProgress)
+include(R-benchr-lib)
+R-benchr

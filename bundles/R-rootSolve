@@ -1,0 +1,8 @@
+# [TITLE]: R-rootSolve
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rootSolve-lib)
+R-rootSolve

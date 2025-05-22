@@ -1,0 +1,9 @@
+# [TITLE]: php-Xdebug
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-Xdebug-lib)
+include(php-Xdebug-license)
+php-Xdebug

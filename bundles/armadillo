@@ -1,0 +1,10 @@
+# [TITLE]: armadillo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(armadillo-data)
+include(armadillo-lib)
+include(armadillo-license)
+armadillo

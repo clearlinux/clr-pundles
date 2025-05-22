@@ -1,0 +1,9 @@
+# [TITLE]: R-litedown
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-commonmark)
+include(R-xfun)
+R-litedown

@@ -1,0 +1,8 @@
+# [TITLE]: R-bibtex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-backports)
+R-bibtex

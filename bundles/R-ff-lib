@@ -1,0 +1,11 @@
+# [TITLE]: R-ff-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-ff-lib

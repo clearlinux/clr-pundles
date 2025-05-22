@@ -1,0 +1,8 @@
+# [TITLE]: R-gmp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gmp-lib)
+R-gmp

@@ -1,0 +1,16 @@
+# [TITLE]: R-ggvis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-assertthat)
+include(R-dplyr)
+include(R-ggvis-license)
+include(R-htmltools)
+include(R-jsonlite)
+include(R-magrittr)
+include(R-rlang)
+include(R-shiny)
+include(filesystem)
+R-ggvis

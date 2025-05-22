@@ -1,0 +1,12 @@
+# [TITLE]: R-spam-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-spam-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-spam-lib

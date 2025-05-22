@@ -1,0 +1,13 @@
+# [TITLE]: libzip-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(libzip-license)
+include(openssl-lib)
+include(zlib-lib)
+include(zstd-lib)
+libzip-lib

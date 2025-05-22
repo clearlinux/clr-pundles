@@ -1,0 +1,9 @@
+# [TITLE]: R-fontquiver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fontBitstreamVera)
+include(R-fontLiberation)
+R-fontquiver

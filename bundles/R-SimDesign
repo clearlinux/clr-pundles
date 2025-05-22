@@ -1,0 +1,17 @@
+# [TITLE]: R-SimDesign
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R.utils)
+include(R-beepr)
+include(R-dplyr)
+include(R-future)
+include(R-future.apply)
+include(R-parallelly)
+include(R-pbapply)
+include(R-progressr)
+include(R-sessioninfo)
+include(R-testthat)
+R-SimDesign

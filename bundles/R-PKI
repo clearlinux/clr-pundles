@@ -1,0 +1,10 @@
+# [TITLE]: R-PKI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-PKI-lib)
+include(R-PKI-license)
+include(R-base64enc)
+R-PKI

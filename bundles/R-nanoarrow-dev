@@ -1,0 +1,9 @@
+# [TITLE]: R-nanoarrow-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-nanoarrow)
+include(R-nanoarrow-lib)
+R-nanoarrow-dev

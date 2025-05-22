@@ -1,0 +1,14 @@
+# [TITLE]: R-ggrepel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-ggplot2)
+include(R-ggrepel-lib)
+include(R-ggrepel-license)
+include(R-rlang)
+include(R-scales)
+include(R-withr)
+R-ggrepel

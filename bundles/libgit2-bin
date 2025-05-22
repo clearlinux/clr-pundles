@@ -1,0 +1,13 @@
+# [TITLE]: libgit2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgit2-license)
+include(libssh2-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(zlib-lib)
+libgit2-bin

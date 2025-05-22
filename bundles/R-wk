@@ -1,0 +1,8 @@
+# [TITLE]: R-wk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-wk-lib)
+R-wk

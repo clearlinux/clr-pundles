@@ -1,0 +1,11 @@
+# [TITLE]: R-rainbow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-colorspace)
+include(R-hdrcde)
+include(R-ks)
+include(R-pcaPP)
+R-rainbow

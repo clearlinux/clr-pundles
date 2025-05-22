@@ -1,0 +1,10 @@
+# [TITLE]: R-seqinr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(libc6)
+include(zlib-lib)
+R-seqinr-lib

@@ -1,0 +1,8 @@
+# [TITLE]: R-RhpcBLASctl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RhpcBLASctl-lib)
+R-RhpcBLASctl

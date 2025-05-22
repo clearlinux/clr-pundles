@@ -1,0 +1,10 @@
+# [TITLE]: R-rms-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(gcc-libgfortran)
+include(libc6)
+R-rms-lib

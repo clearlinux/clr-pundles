@@ -1,0 +1,9 @@
+# [TITLE]: R-fs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fs-lib)
+include(R-fs-license)
+R-fs

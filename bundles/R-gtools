@@ -1,0 +1,8 @@
+# [TITLE]: R-gtools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-gtools-lib)
+R-gtools

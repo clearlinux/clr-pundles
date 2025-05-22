@@ -1,0 +1,10 @@
+# [TITLE]: R-openssl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-askpass)
+include(R-openssl-lib)
+include(filesystem)
+R-openssl

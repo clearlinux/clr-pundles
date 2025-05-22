@@ -1,0 +1,8 @@
+# [TITLE]: R-ash
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ash-lib)
+R-ash

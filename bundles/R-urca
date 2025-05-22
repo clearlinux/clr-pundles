@@ -1,0 +1,9 @@
+# [TITLE]: R-urca
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-urca-lib)
+include(R-urca-license)
+R-urca

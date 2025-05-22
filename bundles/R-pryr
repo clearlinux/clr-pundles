@@ -1,0 +1,11 @@
+# [TITLE]: R-pryr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-lobstr)
+include(R-pryr-lib)
+include(R-stringr)
+R-pryr

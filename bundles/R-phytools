@@ -1,0 +1,21 @@
+# [TITLE]: R-phytools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DEoptim)
+include(R-ape)
+include(R-clusterGeneration)
+include(R-coda)
+include(R-combinat)
+include(R-doParallel)
+include(R-expm)
+include(R-foreach)
+include(R-maps)
+include(R-mnormt)
+include(R-numDeriv)
+include(R-optimParallel)
+include(R-phangorn)
+include(R-scatterplot3d)
+R-phytools

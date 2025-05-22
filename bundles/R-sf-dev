@@ -1,0 +1,9 @@
+# [TITLE]: R-sf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sf)
+include(R-sf-lib)
+R-sf-dev

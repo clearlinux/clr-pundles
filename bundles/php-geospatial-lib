@@ -1,0 +1,9 @@
+# [TITLE]: php-geospatial-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(php-geospatial-license)
+php-geospatial-lib

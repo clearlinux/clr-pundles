@@ -1,0 +1,17 @@
+# [TITLE]: R-pkgload
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-desc)
+include(R-fs)
+include(R-glue)
+include(R-lifecycle)
+include(R-pkgbuild)
+include(R-processx)
+include(R-rlang)
+include(R-rprojroot)
+include(R-withr)
+R-pkgload

@@ -1,0 +1,11 @@
+# [TITLE]: R-rstantools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppParallel)
+include(R-desc)
+include(filesystem)
+R-rstantools

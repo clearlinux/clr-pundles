@@ -1,0 +1,12 @@
+# [TITLE]: R-analogue
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-analogue-lib)
+include(R-analogue-license)
+include(R-brglm)
+include(R-princurve)
+include(R-vegan)
+R-analogue

@@ -1,0 +1,11 @@
+# [TITLE]: R-RNetCDF-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RNetCDF-license)
+include(R-lib)
+include(libc6)
+include(netcdf-lib)
+R-RNetCDF-lib

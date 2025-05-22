@@ -1,0 +1,9 @@
+# [TITLE]: R-diffobj
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-crayon)
+include(R-diffobj-lib)
+R-diffobj

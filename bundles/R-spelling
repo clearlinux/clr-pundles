@@ -1,0 +1,11 @@
+# [TITLE]: R-spelling
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-commonmark)
+include(R-hunspell)
+include(R-knitr)
+include(R-xml2)
+R-spelling

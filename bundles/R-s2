@@ -1,0 +1,10 @@
+# [TITLE]: R-s2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-s2-lib)
+include(R-wk)
+R-s2

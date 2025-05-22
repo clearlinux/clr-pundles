@@ -1,0 +1,10 @@
+# [TITLE]: R-qtl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-qtl-lib)
+include(filesystem)
+include(ruby-bin)
+R-qtl

@@ -1,0 +1,9 @@
+# [TITLE]: php-oauth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-oauth-lib)
+include(php-oauth-license)
+php-oauth

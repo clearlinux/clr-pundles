@@ -1,0 +1,14 @@
+# [TITLE]: R-vembedr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-assertthat)
+include(R-glue)
+include(R-htmltools)
+include(R-httr)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-stringr)
+R-vembedr

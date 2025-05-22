@@ -1,0 +1,9 @@
+# [TITLE]: R-float
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-float-lib)
+include(R-float-license)
+R-float

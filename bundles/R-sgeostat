@@ -1,0 +1,8 @@
+# [TITLE]: R-sgeostat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sgeostat-lib)
+R-sgeostat

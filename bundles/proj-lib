@@ -1,0 +1,15 @@
+# [TITLE]: proj-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(proj-data)
+include(proj-license)
+include(sqlite-autoconf-lib)
+include(tiff-lib)
+proj-lib

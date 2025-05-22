@@ -1,0 +1,8 @@
+# [TITLE]: R-chron
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-chron-lib)
+R-chron

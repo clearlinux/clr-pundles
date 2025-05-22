@@ -1,0 +1,11 @@
+# [TITLE]: R-later
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-later-lib)
+include(R-later-license)
+include(R-rlang)
+R-later

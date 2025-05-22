@@ -1,0 +1,8 @@
+# [TITLE]: R-acepack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-acepack-lib)
+R-acepack

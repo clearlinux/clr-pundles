@@ -1,0 +1,8 @@
+# [TITLE]: R-bazar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-kimisc)
+R-bazar

@@ -1,0 +1,18 @@
+# [TITLE]: librdkafka-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(cyrus-sasl-lib)
+include(libc6)
+include(libgcc1)
+include(librdkafka-data)
+include(librdkafka-license)
+include(libstdc++)
+include(lz4-lib)
+include(openssl-lib)
+include(zlib-lib)
+include(zstd-lib)
+librdkafka-lib

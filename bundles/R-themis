@@ -1,0 +1,22 @@
+# [TITLE]: R-themis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RANN)
+include(R-ROSE)
+include(R-cli)
+include(R-dplyr)
+include(R-generics)
+include(R-glue)
+include(R-gower)
+include(R-hardhat)
+include(R-lifecycle)
+include(R-purrr)
+include(R-recipes)
+include(R-rlang)
+include(R-tibble)
+include(R-vctrs)
+include(R-withr)
+R-themis

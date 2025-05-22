@@ -1,0 +1,11 @@
+# [TITLE]: gsl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gsl-lib)
+include(gsl-license)
+include(libc6)
+gsl-bin

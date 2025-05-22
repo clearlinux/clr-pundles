@@ -1,0 +1,17 @@
+# [TITLE]: R-mlr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BBmisc)
+include(R-ParamHelpers)
+include(R-XML)
+include(R-backports)
+include(R-checkmate)
+include(R-data.table)
+include(R-ggplot2)
+include(R-mlr-lib)
+include(R-parallelMap)
+include(R-stringi)
+R-mlr

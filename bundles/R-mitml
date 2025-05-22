@@ -1,0 +1,10 @@
+# [TITLE]: R-mitml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-haven)
+include(R-jomo)
+include(R-pan)
+R-mitml

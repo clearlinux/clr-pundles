@@ -1,0 +1,10 @@
+# [TITLE]: R-vioplot
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sm)
+include(R-vioplot-license)
+include(R-zoo)
+R-vioplot

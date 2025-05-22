@@ -1,0 +1,9 @@
+# [TITLE]: R-cubature-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cubature)
+include(R-cubature-lib)
+R-cubature-dev

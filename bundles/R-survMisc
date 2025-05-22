@@ -1,0 +1,15 @@
+# [TITLE]: R-survMisc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-KMsurv)
+include(R-data.table)
+include(R-ggplot2)
+include(R-gridExtra)
+include(R-km.ci)
+include(R-knitr)
+include(R-xtable)
+include(R-zoo)
+R-survMisc

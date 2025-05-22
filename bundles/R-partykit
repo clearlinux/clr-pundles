@@ -1,0 +1,12 @@
+# [TITLE]: R-partykit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-inum)
+include(R-libcoin)
+include(R-mvtnorm)
+include(R-partykit-lib)
+R-partykit

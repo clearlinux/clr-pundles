@@ -1,0 +1,9 @@
+# [TITLE]: R-markdown
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-litedown)
+include(R-xfun)
+R-markdown

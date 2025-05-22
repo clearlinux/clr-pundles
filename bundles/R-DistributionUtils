@@ -1,0 +1,8 @@
+# [TITLE]: R-DistributionUtils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DistributionUtils-lib)
+R-DistributionUtils

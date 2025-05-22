@@ -1,0 +1,10 @@
+# [TITLE]: R-pROC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-pROC-lib)
+include(R-plyr)
+R-pROC

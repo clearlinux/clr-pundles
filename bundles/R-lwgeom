@@ -1,0 +1,11 @@
+# [TITLE]: R-lwgeom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-lwgeom-lib)
+include(R-sf)
+include(R-units)
+R-lwgeom

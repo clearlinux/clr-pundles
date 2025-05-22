@@ -1,0 +1,11 @@
+# [TITLE]: libzip-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libzip)
+include(libzip-bin)
+include(libzip-lib)
+include(pkg-config-bin)
+libzip-dev

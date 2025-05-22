@@ -1,0 +1,13 @@
+# [TITLE]: R-gfonts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-crayon)
+include(R-crul)
+include(R-glue)
+include(R-htmltools)
+include(R-jsonlite)
+include(R-shiny)
+R-gfonts

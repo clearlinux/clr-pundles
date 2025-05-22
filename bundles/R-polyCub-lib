@@ -1,0 +1,8 @@
+# [TITLE]: R-polyCub-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-polyCub-lib

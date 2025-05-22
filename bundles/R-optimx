@@ -1,0 +1,10 @@
+# [TITLE]: R-optimx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-nloptr)
+include(R-numDeriv)
+include(R-pracma)
+R-optimx

@@ -1,0 +1,10 @@
+# [TITLE]: R-C50
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-C50-lib)
+include(R-Cubist)
+include(R-partykit)
+R-C50

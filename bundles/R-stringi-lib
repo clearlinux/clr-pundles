@@ -1,0 +1,13 @@
+# [TITLE]: R-stringi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-stringi-license)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-stringi-lib

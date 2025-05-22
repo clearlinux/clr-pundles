@@ -1,0 +1,10 @@
+# [TITLE]: R-sfd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-rlang)
+include(R-tibble)
+R-sfd

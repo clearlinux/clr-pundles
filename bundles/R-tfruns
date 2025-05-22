@@ -1,0 +1,17 @@
+# [TITLE]: R-tfruns
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc)
+include(R-config)
+include(R-jsonlite)
+include(R-magrittr)
+include(R-reticulate)
+include(R-rlang)
+include(R-rstudioapi)
+include(R-tidyselect)
+include(R-whisker)
+include(R-yaml)
+R-tfruns

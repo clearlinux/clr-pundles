@@ -1,0 +1,8 @@
+# [TITLE]: R-mi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-arm)
+R-mi

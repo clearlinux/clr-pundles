@@ -1,0 +1,12 @@
+# [TITLE]: R-glmnet-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(gcc-libgfortran)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-glmnet-lib

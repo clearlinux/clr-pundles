@@ -1,0 +1,9 @@
+# [TITLE]: php-ds
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-ds-lib)
+include(php-ds-license)
+php-ds

@@ -1,0 +1,14 @@
+# [TITLE]: R-rstpm2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-bbmle)
+include(R-fastGHQuad)
+include(R-mvtnorm)
+include(R-numDeriv)
+include(R-rstpm2-lib)
+R-rstpm2

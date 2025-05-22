@@ -1,0 +1,12 @@
+# [TITLE]: R-dygraphs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-magrittr)
+include(R-xts)
+include(R-zoo)
+R-dygraphs

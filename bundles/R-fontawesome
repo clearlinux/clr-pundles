@@ -1,0 +1,9 @@
+# [TITLE]: R-fontawesome
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-rlang)
+R-fontawesome

@@ -1,0 +1,9 @@
+# [TITLE]: R-ggsci
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+include(R-scales)
+R-ggsci

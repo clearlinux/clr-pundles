@@ -1,0 +1,14 @@
+# [TITLE]: R-bipartite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bipartite-lib)
+include(R-corpcor)
+include(R-fields)
+include(R-igraph)
+include(R-permute)
+include(R-sna)
+include(R-vegan)
+R-bipartite

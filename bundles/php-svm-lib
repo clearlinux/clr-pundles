@@ -1,0 +1,11 @@
+# [TITLE]: php-svm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(php-svm-license)
+php-svm-lib

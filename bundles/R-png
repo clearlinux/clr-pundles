@@ -1,0 +1,8 @@
+# [TITLE]: R-png
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-png-lib)
+R-png

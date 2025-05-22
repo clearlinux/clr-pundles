@@ -1,0 +1,9 @@
+# [TITLE]: R-ipred-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ipred-license)
+include(R-lib)
+R-ipred-lib

@@ -1,0 +1,11 @@
+# [TITLE]: R-Ryacas
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-Ryacas-lib)
+include(R-Ryacas-license)
+include(R-magrittr)
+R-Ryacas

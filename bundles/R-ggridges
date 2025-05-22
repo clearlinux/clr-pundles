@@ -1,0 +1,11 @@
+# [TITLE]: R-ggridges
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+include(R-ggridges-license)
+include(R-scales)
+include(R-withr)
+R-ggridges

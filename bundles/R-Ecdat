@@ -1,0 +1,8 @@
+# [TITLE]: R-Ecdat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Ecfun)
+R-Ecdat

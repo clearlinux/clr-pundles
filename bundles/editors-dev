@@ -193,7 +193,7 @@ include(python3-dev)
 include(pyudev)
 include(devpkg-readline)
 include(devpkg-readline)
-ruby
+include(ruby)
 include(sed)
 include(shadow)
 include(devpkg-slang)
@@ -212,8 +212,8 @@ include(tcl-staticdev)
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tk)
-tk-extras
-tk-staticdev
+include(tk-extras)
+include(tk-staticdev)
 include(devpkg-tpm2-tss)
 include(unzip)
 include(util-linux)

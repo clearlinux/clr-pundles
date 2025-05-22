@@ -1,0 +1,8 @@
+# [TITLE]: R-SnowballC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-SnowballC-lib)
+R-SnowballC

@@ -1,0 +1,8 @@
+# [TITLE]: R-prabclus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mclust)
+R-prabclus

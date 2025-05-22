@@ -1,0 +1,25 @@
+# [TITLE]: R-vroom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bit64)
+include(R-cli)
+include(R-cpp11)
+include(R-crayon)
+include(R-glue)
+include(R-hms)
+include(R-lifecycle)
+include(R-progress)
+include(R-rlang)
+include(R-tibble)
+include(R-tidyselect)
+include(R-tzdb)
+include(R-vctrs)
+include(R-vroom-lib)
+include(R-vroom-license)
+include(R-withr)
+include(coreutils-bin)
+include(filesystem)
+R-vroom

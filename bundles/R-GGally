@@ -1,0 +1,19 @@
+# [TITLE]: R-GGally
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-dplyr)
+include(R-ggplot2)
+include(R-ggstats)
+include(R-gtable)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-plyr)
+include(R-progress)
+include(R-rlang)
+include(R-scales)
+include(R-tidyr)
+R-GGally

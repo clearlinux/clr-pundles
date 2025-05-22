@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-tk-dev
+include(tk-dev)
 include(libX11client)
 include(harfbuzz-lib)
 include(icu4c-lib)

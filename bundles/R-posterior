@@ -1,0 +1,16 @@
+# [TITLE]: R-posterior
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-abind)
+include(R-checkmate)
+include(R-distributional)
+include(R-matrixStats)
+include(R-pillar)
+include(R-rlang)
+include(R-tensorA)
+include(R-tibble)
+include(R-vctrs)
+R-posterior

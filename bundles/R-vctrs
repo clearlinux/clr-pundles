@@ -1,0 +1,13 @@
+# [TITLE]: R-vctrs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-glue)
+include(R-lifecycle)
+include(R-rlang)
+include(R-vctrs-lib)
+include(R-vctrs-license)
+R-vctrs

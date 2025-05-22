@@ -1,0 +1,12 @@
+# [TITLE]: R-pbkrtest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-broom)
+include(R-doBy)
+include(R-dplyr)
+include(R-lme4)
+include(R-numDeriv)
+R-pbkrtest

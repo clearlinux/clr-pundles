@@ -1,0 +1,8 @@
+# [TITLE]: R-dtw-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-dtw-lib

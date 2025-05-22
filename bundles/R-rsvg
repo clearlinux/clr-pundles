@@ -1,0 +1,8 @@
+# [TITLE]: R-rsvg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rsvg-lib)
+R-rsvg

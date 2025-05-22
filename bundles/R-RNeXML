@@ -1,0 +1,19 @@
+# [TITLE]: R-RNeXML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-XML)
+include(R-ape)
+include(R-dplyr)
+include(R-httr)
+include(R-plyr)
+include(R-reshape2)
+include(R-rlang)
+include(R-stringi)
+include(R-stringr)
+include(R-tidyr)
+include(R-uuid)
+include(R-xml2)
+R-RNeXML

@@ -1,0 +1,9 @@
+# [TITLE]: R-EnvStats
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+include(R-nortest)
+R-EnvStats

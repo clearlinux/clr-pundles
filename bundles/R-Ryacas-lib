@@ -1,0 +1,12 @@
+# [TITLE]: R-Ryacas-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Ryacas-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-Ryacas-lib

@@ -1,0 +1,8 @@
+# [TITLE]: R-rappdirs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rappdirs-lib)
+R-rappdirs

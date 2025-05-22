@@ -1,0 +1,11 @@
+# [TITLE]: R-randomForestSRC-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+R-randomForestSRC-lib

@@ -1,0 +1,9 @@
+# [TITLE]: R-pbdZMQ
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-pbdZMQ-lib)
+include(R-pbdZMQ-license)
+R-pbdZMQ

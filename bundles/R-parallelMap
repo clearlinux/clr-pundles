@@ -1,0 +1,9 @@
+# [TITLE]: R-parallelMap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BBmisc)
+include(R-checkmate)
+R-parallelMap

@@ -1,0 +1,9 @@
+# [TITLE]: R-mvtnorm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mvtnorm)
+include(R-mvtnorm-lib)
+R-mvtnorm-dev

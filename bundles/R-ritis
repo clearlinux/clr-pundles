@@ -1,0 +1,12 @@
+# [TITLE]: R-ritis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-crul)
+include(R-data.table)
+include(R-jsonlite)
+include(R-solrium)
+include(R-tibble)
+R-ritis

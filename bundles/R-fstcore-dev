@@ -1,0 +1,9 @@
+# [TITLE]: R-fstcore-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fstcore)
+include(R-fstcore-lib)
+R-fstcore-dev

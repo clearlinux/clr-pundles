@@ -1,0 +1,10 @@
+# [TITLE]: R-doSNOW
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-foreach)
+include(R-iterators)
+include(R-snow)
+R-doSNOW

@@ -1,0 +1,18 @@
+# [TITLE]: R-kableExtra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-digest)
+include(R-htmltools)
+include(R-knitr)
+include(R-magrittr)
+include(R-rmarkdown)
+include(R-rstudioapi)
+include(R-scales)
+include(R-stringr)
+include(R-svglite)
+include(R-viridisLite)
+include(R-xml2)
+R-kableExtra

@@ -1,0 +1,8 @@
+# [TITLE]: R-exactRankTests-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+R-exactRankTests-lib

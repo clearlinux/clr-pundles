@@ -1,0 +1,10 @@
+# [TITLE]: R-earth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-earth-lib)
+include(R-plotmo)
+R-earth

@@ -1,0 +1,8 @@
+# [TITLE]: R-rjson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rjson-lib)
+R-rjson

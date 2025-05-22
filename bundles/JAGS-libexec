@@ -1,0 +1,13 @@
+# [TITLE]: JAGS-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(JAGS-lib)
+include(JAGS-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libtool-lib)
+JAGS-libexec

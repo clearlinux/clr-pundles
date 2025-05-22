@@ -1,0 +1,13 @@
+# [TITLE]: JAGS-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(JAGS-libexec)
+include(JAGS-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openblas)
+JAGS-lib

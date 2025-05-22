@@ -1,0 +1,9 @@
+# [TITLE]: R-RcppTOML-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RcppTOML)
+include(R-RcppTOML-lib)
+R-RcppTOML-dev

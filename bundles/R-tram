@@ -1,0 +1,14 @@
+# [TITLE]: R-tram
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-basefun)
+include(R-mlt)
+include(R-multcomp)
+include(R-mvtnorm)
+include(R-sandwich)
+include(R-variables)
+R-tram

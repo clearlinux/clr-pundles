@@ -1,0 +1,18 @@
+# [TITLE]: R-rstatix
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-broom)
+include(R-car)
+include(R-corrplot)
+include(R-dplyr)
+include(R-generics)
+include(R-magrittr)
+include(R-purrr)
+include(R-rlang)
+include(R-tibble)
+include(R-tidyr)
+include(R-tidyselect)
+R-rstatix

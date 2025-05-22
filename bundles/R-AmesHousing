@@ -1,0 +1,9 @@
+# [TITLE]: R-AmesHousing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-dplyr)
+include(R-magrittr)
+R-AmesHousing

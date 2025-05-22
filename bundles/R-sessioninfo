@@ -1,0 +1,8 @@
+# [TITLE]: R-sessioninfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+R-sessioninfo

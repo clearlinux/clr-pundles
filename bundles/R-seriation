@@ -1,0 +1,16 @@
+# [TITLE]: R-seriation
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-TSP)
+include(R-ca)
+include(R-colorspace)
+include(R-foreach)
+include(R-gclus)
+include(R-qap)
+include(R-registry)
+include(R-seriation-lib)
+include(R-vegan)
+R-seriation

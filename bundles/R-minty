@@ -1,0 +1,10 @@
+# [TITLE]: R-minty
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cpp11)
+include(R-minty-lib)
+include(R-tzdb)
+R-minty

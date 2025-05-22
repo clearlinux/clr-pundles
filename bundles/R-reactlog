@@ -1,0 +1,9 @@
+# [TITLE]: R-reactlog
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-jsonlite)
+include(R-reactlog-license)
+R-reactlog

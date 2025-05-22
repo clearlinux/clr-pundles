@@ -1,0 +1,9 @@
+# [TITLE]: R-readstata13-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-readstata13)
+include(R-readstata13-lib)
+R-readstata13-dev

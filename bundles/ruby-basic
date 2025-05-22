@@ -9,7 +9,7 @@ include(libstdcpp)
 include(libglib)
 
 include(devpkg-gmp)
-ruby
-ruby-dev
+include(ruby)
+include(ruby-dev)
 include(ncurses-lib)
 include(gmp-lib)

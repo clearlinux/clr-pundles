@@ -1,0 +1,8 @@
+# [TITLE]: R-deldir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-deldir-lib)
+R-deldir

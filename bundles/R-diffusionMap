@@ -1,0 +1,9 @@
+# [TITLE]: R-diffusionMap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-igraph)
+include(R-scatterplot3d)
+R-diffusionMap

@@ -1,0 +1,8 @@
+# [TITLE]: R-mathjaxr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-mathjaxr-license)
+R-mathjaxr

@@ -1,0 +1,11 @@
+# [TITLE]: R-rgeos-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-rgeos-license)
+include(geos-lib)
+include(libc6)
+R-rgeos-lib

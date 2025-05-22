@@ -1,0 +1,16 @@
+# [TITLE]: R-Cairo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(cairo-lib)
+include(freetype-lib)
+include(harfbuzz-lib)
+include(icu4c-lib)
+include(libX11-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(tiff-lib)
+R-Cairo-lib

@@ -1,0 +1,12 @@
+# [TITLE]: R-adephylo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ade4)
+include(R-adegenet)
+include(R-adephylo-lib)
+include(R-ape)
+include(R-phylobase)
+R-adephylo

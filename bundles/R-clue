@@ -1,0 +1,8 @@
+# [TITLE]: R-clue
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-clue-lib)
+R-clue

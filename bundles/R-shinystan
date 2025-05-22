@@ -1,0 +1,23 @@
+# [TITLE]: R-shinystan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DT)
+include(R-bayesplot)
+include(R-colourpicker)
+include(R-dygraphs)
+include(R-ggplot2)
+include(R-gridExtra)
+include(R-gtools)
+include(R-markdown)
+include(R-reshape2)
+include(R-rstan)
+include(R-shiny)
+include(R-shinyjs)
+include(R-shinythemes)
+include(R-threejs)
+include(R-xtable)
+include(R-xts)
+R-shinystan

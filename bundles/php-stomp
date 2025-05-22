@@ -1,0 +1,9 @@
+# [TITLE]: php-stomp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-stomp-lib)
+include(php-stomp-license)
+php-stomp

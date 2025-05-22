@@ -1,0 +1,9 @@
+# [TITLE]: php-trader
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-trader-lib)
+include(php-trader-license)
+php-trader

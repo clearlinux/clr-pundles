@@ -1,0 +1,11 @@
+# [TITLE]: php-memcached-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libmemcached-lib)
+include(php-memcached-license)
+include(zlib-lib)
+php-memcached-lib

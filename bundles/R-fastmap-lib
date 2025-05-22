@@ -1,0 +1,12 @@
+# [TITLE]: R-fastmap-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fastmap-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-fastmap-lib

@@ -1,0 +1,9 @@
+# [TITLE]: R-ggjoy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+include(R-ggridges)
+R-ggjoy

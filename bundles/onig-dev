@@ -1,0 +1,11 @@
+# [TITLE]: onig-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(onig)
+include(onig-bin)
+include(onig-lib)
+include(pkg-config-bin)
+onig-dev

@@ -1,0 +1,9 @@
+# [TITLE]: R-bio3d
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-bio3d-lib)
+R-bio3d

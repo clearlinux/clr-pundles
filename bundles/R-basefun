@@ -1,0 +1,11 @@
+# [TITLE]: R-basefun
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-basefun-lib)
+include(R-orthopolynom)
+include(R-polynom)
+include(R-variables)
+R-basefun

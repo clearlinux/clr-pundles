@@ -1,0 +1,8 @@
+# [TITLE]: R-contfrac
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-contfrac-lib)
+R-contfrac

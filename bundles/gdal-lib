@@ -1,0 +1,34 @@
+# [TITLE]: gdal-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(compat-libxml2-soname2-lib)
+include(curl-lib)
+include(expat-lib)
+include(gdal-data)
+include(gdal-license)
+include(geos-lib)
+include(giflib-lib)
+include(hdf5-lib)
+include(json-c-lib)
+include(libc6)
+include(libgcc1)
+include(libgeotiff-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libspatialite-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(openexr-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(poppler-lib)
+include(proj-lib)
+include(sqlite-autoconf-lib)
+include(tiff-lib)
+include(zlib-lib)
+include(zstd-lib)
+gdal-lib

@@ -1,0 +1,14 @@
+# [TITLE]: R-epiR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-BiasedUrn)
+include(R-flextable)
+include(R-lubridate)
+include(R-officer)
+include(R-pander)
+include(R-sf)
+include(R-zoo)
+R-epiR

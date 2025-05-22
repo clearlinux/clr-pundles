@@ -1,0 +1,11 @@
+# [TITLE]: R-fMultivar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cubature)
+include(R-fBasics)
+include(R-mvtnorm)
+include(R-sn)
+R-fMultivar

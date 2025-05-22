@@ -1,0 +1,8 @@
+# [TITLE]: R-perry
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-ggplot2)
+R-perry

@@ -1,0 +1,20 @@
+# [TITLE]: R-tidyr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-cpp11)
+include(R-dplyr)
+include(R-glue)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-purrr)
+include(R-rlang)
+include(R-stringr)
+include(R-tibble)
+include(R-tidyr-lib)
+include(R-tidyselect)
+include(R-vctrs)
+R-tidyr

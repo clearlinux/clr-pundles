@@ -1,0 +1,19 @@
+# [TITLE]: R-VIM
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-VIM-lib)
+include(R-car)
+include(R-colorspace)
+include(R-data.table)
+include(R-e1071)
+include(R-laeken)
+include(R-magrittr)
+include(R-ranger)
+include(R-robustbase)
+include(R-sp)
+include(R-vcd)
+R-VIM

@@ -1,0 +1,9 @@
+# [TITLE]: R-poLCA
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-poLCA-lib)
+include(R-scatterplot3d)
+R-poLCA

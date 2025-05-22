@@ -1,0 +1,16 @@
+# [TITLE]: R-RSQLite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-DBI)
+include(R-RSQLite-lib)
+include(R-bit64)
+include(R-blob)
+include(R-cpp11)
+include(R-memoise)
+include(R-pkgconfig)
+include(R-plogr)
+include(R-rlang)
+R-RSQLite

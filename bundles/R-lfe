@@ -1,0 +1,11 @@
+# [TITLE]: R-lfe
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Formula)
+include(R-lfe-lib)
+include(R-sandwich)
+include(R-xtable)
+R-lfe

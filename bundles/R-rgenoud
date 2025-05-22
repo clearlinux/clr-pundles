@@ -1,0 +1,8 @@
+# [TITLE]: R-rgenoud
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rgenoud-lib)
+R-rgenoud

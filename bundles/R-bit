@@ -1,0 +1,8 @@
+# [TITLE]: R-bit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-bit-lib)
+R-bit

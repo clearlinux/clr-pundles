@@ -1,0 +1,15 @@
+# [TITLE]: R-fstcore-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-fstcore-license)
+include(R-lib)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(lz4-lib)
+include(zstd-lib)
+R-fstcore-lib

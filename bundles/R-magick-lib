@@ -1,0 +1,12 @@
+# [TITLE]: R-magick-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ImageMagick-lib)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+R-magick-lib

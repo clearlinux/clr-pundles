@@ -1,0 +1,8 @@
+# [TITLE]: R-mlmRev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lme4)
+R-mlmRev

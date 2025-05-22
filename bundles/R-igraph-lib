@@ -1,0 +1,13 @@
+# [TITLE]: R-igraph-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-igraph-license)
+include(R-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+R-igraph-lib

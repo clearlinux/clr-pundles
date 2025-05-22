@@ -1,0 +1,10 @@
+# [TITLE]: R-kimisc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-memoise)
+include(R-plyr)
+include(R-pryr)
+R-kimisc

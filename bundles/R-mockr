@@ -1,0 +1,9 @@
+# [TITLE]: R-mockr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rlang)
+include(R-withr)
+R-mockr

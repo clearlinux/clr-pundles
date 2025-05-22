@@ -1,0 +1,21 @@
+# [TITLE]: R-googledrive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-gargle)
+include(R-glue)
+include(R-httr)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-pillar)
+include(R-purrr)
+include(R-rlang)
+include(R-tibble)
+include(R-uuid)
+include(R-vctrs)
+include(R-withr)
+R-googledrive

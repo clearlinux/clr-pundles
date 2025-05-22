@@ -1,0 +1,10 @@
+# [TITLE]: R-rgeos
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rgeos-lib)
+include(R-rgeos-license)
+include(R-sp)
+R-rgeos

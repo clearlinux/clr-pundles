@@ -1,0 +1,10 @@
+# [TITLE]: R-rlang
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-rlang-lib)
+include(R-rlang-license)
+include(R-winch)
+R-rlang

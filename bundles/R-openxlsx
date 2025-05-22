@@ -1,0 +1,11 @@
+# [TITLE]: R-openxlsx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-openxlsx-lib)
+include(R-stringi)
+include(R-zip)
+R-openxlsx

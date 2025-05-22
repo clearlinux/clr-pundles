@@ -1,0 +1,25 @@
+# [TITLE]: R-testthat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-R6)
+include(R-brio)
+include(R-callr)
+include(R-cli)
+include(R-desc)
+include(R-digest)
+include(R-evaluate)
+include(R-jsonlite)
+include(R-lifecycle)
+include(R-magrittr)
+include(R-pkgload)
+include(R-praise)
+include(R-processx)
+include(R-ps)
+include(R-rlang)
+include(R-testthat-lib)
+include(R-waldo)
+include(R-withr)
+R-testthat

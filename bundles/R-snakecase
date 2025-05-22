@@ -1,0 +1,9 @@
+# [TITLE]: R-snakecase
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-stringi)
+include(R-stringr)
+R-snakecase

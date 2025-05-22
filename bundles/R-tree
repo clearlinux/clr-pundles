@@ -1,0 +1,9 @@
+# [TITLE]: R-tree
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-tree-lib)
+include(R-tree-license)
+R-tree

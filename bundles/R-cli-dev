@@ -1,0 +1,9 @@
+# [TITLE]: R-cli-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-cli)
+include(R-cli-lib)
+R-cli-dev

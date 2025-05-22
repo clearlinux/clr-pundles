@@ -20,4 +20,4 @@ include(pypi-pyopengl)
 include(PyYAML)
 include(pypi-svg.path)
 include(tcl)
-tk
+include(tk)

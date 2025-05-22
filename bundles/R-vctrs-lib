@@ -1,0 +1,10 @@
+# [TITLE]: R-vctrs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-lib)
+include(R-vctrs-license)
+include(libc6)
+R-vctrs-lib

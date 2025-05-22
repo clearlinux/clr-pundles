@@ -1,0 +1,15 @@
+# [TITLE]: R-rasterVis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-RColorBrewer)
+include(R-hexbin)
+include(R-latticeExtra)
+include(R-raster)
+include(R-sp)
+include(R-terra)
+include(R-viridisLite)
+include(R-zoo)
+R-rasterVis

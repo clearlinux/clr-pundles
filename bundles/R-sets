@@ -1,0 +1,8 @@
+# [TITLE]: R-sets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-sets-lib)
+R-sets

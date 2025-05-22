@@ -1,0 +1,12 @@
+# [TITLE]: R-visNetwork
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-jsonlite)
+include(R-magrittr)
+include(R-visNetwork-license)
+R-visNetwork

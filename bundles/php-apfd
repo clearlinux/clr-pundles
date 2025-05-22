@@ -1,0 +1,9 @@
+# [TITLE]: php-apfd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php-apfd-lib)
+include(php-apfd-license)
+php-apfd

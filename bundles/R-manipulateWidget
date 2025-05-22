@@ -1,0 +1,15 @@
+# [TITLE]: R-manipulateWidget
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R-base64enc)
+include(R-htmltools)
+include(R-htmlwidgets)
+include(R-knitr)
+include(R-miniUI)
+include(R-shiny)
+include(R-shinyjs)
+include(R-webshot)
+R-manipulateWidget
