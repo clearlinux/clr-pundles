@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(coreutils-bin)
 include(pypi-smartypants-python3)
 include(python3-core)
 pypi-typogrify-python3

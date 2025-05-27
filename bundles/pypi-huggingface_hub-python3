@@ -7,6 +7,7 @@
 include(PyYAML-python3)
 include(pypi-filelock-python3)
 include(pypi-fsspec-python3)
+include(pypi-hf_xet-python3)
 include(pypi-packaging-python3)
 include(pypi-requests-python3)
 include(pypi-tqdm-python3)
