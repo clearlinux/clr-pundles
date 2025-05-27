@@ -8,4 +8,5 @@ include(R-digest)
 include(R-globals)
 include(R-listenv)
 include(R-parallelly)
+include(coreutils-bin)
 R-future
