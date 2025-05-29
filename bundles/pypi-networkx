@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pypi-networkx-license)
 include(pypi-networkx-python)
 include(pypi-networkx-python3)
 pypi-networkx
