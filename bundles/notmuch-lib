@@ -1,0 +1,16 @@
+# [TITLE]: notmuch-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gmime-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(notmuch-data)
+include(notmuch-license)
+include(talloc-lib)
+include(xapian-core-lib)
+notmuch-lib

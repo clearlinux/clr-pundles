@@ -1,0 +1,9 @@
+# [TITLE]: F-Engrave
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(F-Engrave-bin)
+include(potrace)
+F-Engrave

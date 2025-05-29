@@ -1,0 +1,9 @@
+# [TITLE]: dracut-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dracut-data)
+include(dracut-license)
+dracut-lib

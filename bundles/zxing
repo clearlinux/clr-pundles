@@ -1,0 +1,9 @@
+# [TITLE]: zxing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zxing-lib)
+include(zxing-license)
+zxing

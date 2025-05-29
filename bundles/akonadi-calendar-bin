@@ -1,0 +1,25 @@
+# [TITLE]: akonadi-calendar-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-calendar-data)
+include(akonadi-calendar-lib)
+include(akonadi-calendar-license)
+include(akonadi-lib)
+include(kcalendarcore-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kidentitymanagement-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kservice-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+akonadi-calendar-bin

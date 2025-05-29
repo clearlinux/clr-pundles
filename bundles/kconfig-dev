@@ -1,0 +1,11 @@
+# [TITLE]: kconfig-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig)
+include(kconfig-bin)
+include(kconfig-data)
+include(kconfig-lib)
+kconfig-dev

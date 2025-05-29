@@ -1,0 +1,10 @@
+# [TITLE]: rttr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rttr)
+include(rttr-data)
+include(rttr-lib)
+rttr-dev

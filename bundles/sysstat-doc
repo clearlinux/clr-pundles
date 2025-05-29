@@ -1,0 +1,8 @@
+# [TITLE]: sysstat-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sysstat-man)
+sysstat-doc

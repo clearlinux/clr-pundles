@@ -1,0 +1,19 @@
+# [TITLE]: pdns-recursor-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(boost)
+include(boost-extras)
+include(curl-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(pdns-recursor-license)
+include(pdns-recursor-services)
+include(systemd-extras-libsystemd)
+pdns-recursor-bin

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-xmlb-dev
+include(xmlb-dev)
 include(libglib)

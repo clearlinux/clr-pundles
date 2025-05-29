@@ -1,0 +1,9 @@
+# [TITLE]: bcftools-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bcftools-license)
+include(libc6)
+bcftools-libexec

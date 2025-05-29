@@ -1,0 +1,13 @@
+# [TITLE]: isync-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(filesystem)
+include(isync-license)
+include(libc6)
+include(openssl-lib)
+include(zlib-lib)
+isync-bin

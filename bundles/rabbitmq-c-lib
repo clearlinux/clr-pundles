@@ -1,0 +1,10 @@
+# [TITLE]: rabbitmq-c-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(rabbitmq-c-license)
+rabbitmq-c-lib

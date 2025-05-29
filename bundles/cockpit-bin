@@ -1,0 +1,13 @@
+# [TITLE]: cockpit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cockpit-config)
+include(cockpit-data)
+include(cockpit-libexec)
+include(cockpit-license)
+include(cockpit-services)
+include(python3-core)
+cockpit-bin

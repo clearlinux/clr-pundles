@@ -1,0 +1,11 @@
+# [TITLE]: wireshark-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wireshark)
+include(wireshark-bin)
+include(wireshark-data)
+include(wireshark-lib)
+wireshark-dev

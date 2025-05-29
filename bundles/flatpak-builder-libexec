@@ -1,0 +1,10 @@
+# [TITLE]: flatpak-builder-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-lib)
+include(flatpak-builder-license)
+include(libc6)
+flatpak-builder-libexec

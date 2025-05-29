@@ -1,0 +1,38 @@
+# [TITLE]: gst-plugins-good-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(cairo-lib)
+include(flac-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gst-plugins-good-data)
+include(gst-plugins-good-license)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libvpx-lib)
+include(libxml2-lib)
+include(mpg123-lib)
+include(nettle-lib)
+include(orc-lib)
+include(pulseaudio-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(speex-lib)
+include(taglib-lib)
+include(v4l-utils-lib)
+include(wavpack-lib)
+include(zlib-lib)
+gst-plugins-good-lib

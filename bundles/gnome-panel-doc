@@ -1,0 +1,8 @@
+# [TITLE]: gnome-panel-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-panel-man)
+gnome-panel-doc

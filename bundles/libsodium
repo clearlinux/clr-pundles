@@ -1,0 +1,9 @@
+# [TITLE]: libsodium
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsodium-lib)
+include(libsodium-license)
+libsodium

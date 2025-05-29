@@ -1,0 +1,9 @@
+# [TITLE]: gnome-video-effects
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-video-effects-data)
+include(gnome-video-effects-license)
+gnome-video-effects

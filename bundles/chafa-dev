@@ -1,0 +1,12 @@
+# [TITLE]: chafa-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chafa)
+include(chafa-bin)
+include(chafa-lib)
+include(glib-dev)
+include(pkg-config-bin)
+chafa-dev

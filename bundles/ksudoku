@@ -1,0 +1,11 @@
+# [TITLE]: ksudoku
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksudoku-bin)
+include(ksudoku-data)
+include(ksudoku-license)
+include(ksudoku-locales)
+ksudoku

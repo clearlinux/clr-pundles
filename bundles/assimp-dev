@@ -1,0 +1,11 @@
+# [TITLE]: assimp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(assimp)
+include(assimp-bin)
+include(assimp-lib)
+include(pkg-config-bin)
+assimp-dev

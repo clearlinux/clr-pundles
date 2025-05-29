@@ -1,0 +1,13 @@
+# [TITLE]: fish-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fish-data)
+include(fish-license)
+include(libc6)
+include(libstdc++)
+include(ncurses-lib)
+include(pcre2-lib)
+fish-bin

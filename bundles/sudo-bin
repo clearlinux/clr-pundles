@@ -1,0 +1,14 @@
+# [TITLE]: sudo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(sudo-data)
+include(sudo-libexec)
+include(sudo-license)
+include(sudo-setuid)
+include(zlib-lib)
+sudo-bin

@@ -1,0 +1,11 @@
+# [TITLE]: amazon-ssm-agent-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(amazon-ssm-agent-data)
+include(amazon-ssm-agent-license)
+include(amazon-ssm-agent-services)
+include(libc6)
+amazon-ssm-agent-bin

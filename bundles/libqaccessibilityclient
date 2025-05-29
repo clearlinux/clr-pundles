@@ -1,0 +1,11 @@
+# [TITLE]: libqaccessibilityclient
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqaccessibilityclient-bin)
+include(libqaccessibilityclient-data)
+include(libqaccessibilityclient-lib)
+include(libqaccessibilityclient-license)
+libqaccessibilityclient

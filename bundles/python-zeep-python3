@@ -1,0 +1,18 @@
+# [TITLE]: python-zeep-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(defusedxml-python3)
+include(isodate-python3)
+include(pypi-appdirs-python3)
+include(pypi-attrs-python3)
+include(pypi-cached_property-python3)
+include(pypi-lxml-python3)
+include(pypi-pytz-python3)
+include(pypi-requests-python3)
+include(pypi-requests_toolbelt-python3)
+include(pypi-six-python3)
+include(python3-core)
+python-zeep-python3

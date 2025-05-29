@@ -1,0 +1,22 @@
+# [TITLE]: gnome-panel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(dconf-lib)
+include(gdk-pixbuf-lib)
+include(gdm-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gnome-panel-data)
+include(gnome-panel-lib)
+include(gnome-panel-license)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libc6)
+include(pango-lib)
+gnome-panel-bin

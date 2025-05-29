@@ -11,9 +11,9 @@ include(popt-lib)
 include(pcre-lib)
 include(lib-imageformat)
 include(tmux)
-newt
-screen
-byobu-doc
+include(newt)
+include(screen)
+include(byobu-doc)
 include(python3-basic)
 include(perl-basic)
 # end of custom additions

@@ -1,0 +1,11 @@
+# [TITLE]: kjumpingcube
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kjumpingcube-bin)
+include(kjumpingcube-data)
+include(kjumpingcube-license)
+include(kjumpingcube-locales)
+kjumpingcube

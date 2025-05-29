@@ -1,0 +1,11 @@
+# [TITLE]: libiscsi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libiscsi-bin)
+include(libiscsi-lib)
+include(libiscsi-license)
+include(libiscsi-man)
+libiscsi

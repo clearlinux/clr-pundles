@@ -1,0 +1,18 @@
+# [TITLE]: kronosnet-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(kronosnet-license)
+include(libc6)
+include(libnl-lib)
+include(lz4-lib)
+include(lzo-lib)
+include(nspr)
+include(nss-lib)
+include(openssl-lib)
+include(zlib-lib)
+include(zstd-lib)
+kronosnet-lib

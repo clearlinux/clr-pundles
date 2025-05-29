@@ -1,0 +1,17 @@
+# [TITLE]: avahi-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(dbus-lib)
+include(expat-lib)
+include(gcc-libs-math)
+include(libc6)
+include(libcap-lib)
+include(libdaemon-lib)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+avahi-extras

@@ -1,0 +1,8 @@
+# [TITLE]: kernel-config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+kernel-config

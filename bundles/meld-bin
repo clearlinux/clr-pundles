@@ -1,0 +1,10 @@
+# [TITLE]: meld-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(meld-data)
+include(meld-license)
+include(python3-core)
+meld-bin

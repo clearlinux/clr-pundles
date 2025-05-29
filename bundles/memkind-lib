@@ -1,0 +1,11 @@
+# [TITLE]: memkind-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(memkind-filemap)
+include(memkind-license)
+include(numactl-lib)
+memkind-lib

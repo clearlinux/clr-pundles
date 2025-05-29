@@ -1,0 +1,9 @@
+# [TITLE]: dive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dive-bin)
+include(dive-license)
+dive

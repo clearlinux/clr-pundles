@@ -1,0 +1,8 @@
+# [TITLE]: sysprof-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sysprof-dev)
+sysprof-staticdev

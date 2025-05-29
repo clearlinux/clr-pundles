@@ -1,0 +1,24 @@
+# [TITLE]: MuseScore-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MuseScore-data)
+include(MuseScore-license)
+include(alsa-lib-lib)
+include(freetype-lib)
+include(harfbuzz-lib)
+include(libc6)
+include(libgcc1)
+include(libopusenc-lib)
+include(libsndfile-lib)
+include(libstdc++)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6networkauth-lib)
+include(qt6scxml-lib)
+include(qt6svg-lib)
+include(zlib-lib)
+MuseScore-bin

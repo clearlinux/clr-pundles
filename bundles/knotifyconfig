@@ -1,0 +1,11 @@
+# [TITLE]: knotifyconfig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(knotifyconfig-data)
+include(knotifyconfig-lib)
+include(knotifyconfig-license)
+include(knotifyconfig-locales)
+knotifyconfig

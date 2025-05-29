@@ -1,0 +1,27 @@
+# [TITLE]: pulseaudio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(dbus-lib)
+include(fftw-lib)
+include(gdbm-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libsndfile-lib)
+include(libtool-lib)
+include(openssl-lib)
+include(orc-lib)
+include(pulseaudio-data)
+include(pulseaudio-license)
+include(sbc-lib)
+include(speexdsp-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+pulseaudio-lib

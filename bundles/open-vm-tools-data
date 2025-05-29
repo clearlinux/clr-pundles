@@ -1,0 +1,8 @@
+# [TITLE]: open-vm-tools-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+open-vm-tools-data

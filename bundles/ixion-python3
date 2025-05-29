@@ -1,0 +1,12 @@
+# [TITLE]: ixion-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ixion-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(python3-core)
+ixion-python3

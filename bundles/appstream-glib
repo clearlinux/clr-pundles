@@ -1,0 +1,13 @@
+# [TITLE]: appstream-glib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-glib-bin)
+include(appstream-glib-data)
+include(appstream-glib-lib)
+include(appstream-glib-license)
+include(appstream-glib-locales)
+include(appstream-glib-man)
+appstream-glib

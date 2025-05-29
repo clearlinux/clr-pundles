@@ -1,0 +1,8 @@
+# [TITLE]: unbundle-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(unbundle-python3)
+unbundle-python

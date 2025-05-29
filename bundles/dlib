@@ -1,0 +1,11 @@
+# [TITLE]: dlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dlib-lib)
+include(dlib-license)
+include(dlib-python)
+include(dlib-python3)
+dlib

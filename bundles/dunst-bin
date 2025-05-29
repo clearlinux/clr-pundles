@@ -1,0 +1,20 @@
+# [TITLE]: dunst-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(dunst-data)
+include(dunst-license)
+include(dunst-services)
+include(filesystem)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libc6)
+include(libnotify-lib)
+include(pango-lib)
+include(wayland-lib)
+dunst-bin

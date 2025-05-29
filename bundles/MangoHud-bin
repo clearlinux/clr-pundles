@@ -1,0 +1,19 @@
+# [TITLE]: MangoHud-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MangoHud-data)
+include(MangoHud-license)
+include(coreutils-bin)
+include(filesystem)
+include(glew-lib)
+include(glfw-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(spdlog-lib)
+include(wayland-lib)
+MangoHud-bin

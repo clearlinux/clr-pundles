@@ -1,0 +1,18 @@
+# [TITLE]: geany-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(geany-data)
+include(geany-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pango-lib)
+geany-lib

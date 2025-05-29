@@ -1,0 +1,10 @@
+# [TITLE]: libtermkey
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtermkey-lib)
+include(libtermkey-license)
+include(libtermkey-man)
+libtermkey

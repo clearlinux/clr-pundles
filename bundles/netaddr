@@ -1,0 +1,11 @@
+# [TITLE]: netaddr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(netaddr-bin)
+include(netaddr-license)
+include(netaddr-python)
+include(netaddr-python3)
+netaddr

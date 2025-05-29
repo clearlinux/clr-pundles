@@ -1,0 +1,8 @@
+# [TITLE]: evolution-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-man)
+evolution-doc

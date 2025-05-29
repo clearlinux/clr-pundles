@@ -1,0 +1,9 @@
+# [TITLE]: robin-map
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(robin-map-data)
+include(robin-map-license)
+robin-map

@@ -1,0 +1,9 @@
+# [TITLE]: inotify-tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inotify-tools-license)
+include(libc6)
+inotify-tools-lib

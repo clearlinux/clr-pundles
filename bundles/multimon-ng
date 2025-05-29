@@ -1,0 +1,11 @@
+# [TITLE]: multimon-ng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(multimon-ng-bin)
+include(multimon-ng-license)
+include(multimon-ng-man)
+include(sox)
+multimon-ng

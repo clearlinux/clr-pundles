@@ -1,0 +1,15 @@
+# [TITLE]: devhelp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(devhelp-data)
+include(devhelp-lib)
+include(devhelp-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(pango-lib)
+include(webkitgtk-lib)
+devhelp-bin

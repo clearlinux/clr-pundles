@@ -1,0 +1,16 @@
+# [TITLE]: tracker-miners-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gstreamer-lib)
+include(libc6)
+include(libgcc1)
+include(tracker-lib)
+include(tracker-miners-data)
+include(tracker-miners-libexec)
+include(tracker-miners-license)
+include(tracker-miners-services)
+tracker-miners-bin

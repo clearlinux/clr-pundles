@@ -1,0 +1,9 @@
+# [TITLE]: dmidecode-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dmidecode-license)
+include(libc6)
+dmidecode-bin

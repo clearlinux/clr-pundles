@@ -1,0 +1,11 @@
+# [TITLE]: kpeople
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kpeople-data)
+include(kpeople-lib)
+include(kpeople-license)
+include(kpeople-locales)
+kpeople

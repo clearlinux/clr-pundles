@@ -1,0 +1,23 @@
+# [TITLE]: grantleetheme-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grantleetheme-data)
+include(grantleetheme-license)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(knewstuff-lib)
+include(ktexttemplate-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+grantleetheme-lib

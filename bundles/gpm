@@ -1,0 +1,15 @@
+# [TITLE]: gpm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpm-autostart)
+include(gpm-bin)
+include(gpm-data)
+include(gpm-info)
+include(gpm-lib)
+include(gpm-license)
+include(gpm-man)
+include(gpm-services)
+gpm

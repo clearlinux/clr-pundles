@@ -1,0 +1,16 @@
+# [TITLE]: libfprint-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libfprint-data)
+include(libfprint-license)
+include(libgcc1)
+include(libgudev-lib)
+include(libgusb-lib)
+include(openssl-lib)
+include(pixman-lib)
+libfprint-lib

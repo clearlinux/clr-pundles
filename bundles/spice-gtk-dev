@@ -1,0 +1,34 @@
+# [TITLE]: spice-gtk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-dev)
+include(glib-dev)
+include(gobject-introspection-dev)
+include(gst-plugins-base-dev)
+include(gstreamer-dev)
+include(gtk3-dev)
+include(json-glib-dev)
+include(libX11-dev)
+include(libcacard-dev)
+include(libepoxy-dev)
+include(libjpeg-turbo-dev)
+include(libusb-dev)
+include(libva-dev)
+include(lz4-dev)
+include(openssl-dev)
+include(opus-dev)
+include(pixman-dev)
+include(pkg-config-bin)
+include(spice-gtk)
+include(spice-gtk-bin)
+include(spice-gtk-data)
+include(spice-gtk-dev)
+include(spice-gtk-lib)
+include(spice-protocol-dev)
+include(usbredir-dev)
+include(wayland-dev)
+include(zlib-dev)
+spice-gtk-dev

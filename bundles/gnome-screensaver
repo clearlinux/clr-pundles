@@ -1,0 +1,13 @@
+# [TITLE]: gnome-screensaver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-screensaver-bin)
+include(gnome-screensaver-data)
+include(gnome-screensaver-libexec)
+include(gnome-screensaver-license)
+include(gnome-screensaver-locales)
+include(gnome-screensaver-man)
+gnome-screensaver

@@ -1,0 +1,10 @@
+# [TITLE]: xset
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xset-bin)
+include(xset-license)
+include(xset-man)
+xset

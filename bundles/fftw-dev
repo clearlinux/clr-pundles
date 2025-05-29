@@ -1,0 +1,11 @@
+# [TITLE]: fftw-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fftw)
+include(fftw-bin)
+include(fftw-lib)
+include(pkg-config-bin)
+fftw-dev

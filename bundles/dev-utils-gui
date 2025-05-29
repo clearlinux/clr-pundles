@@ -10,8 +10,8 @@ include(tcl-basic)
 include(qt-basic)
 
 include(ddd)
-git-gui
+include(git-gui)
 include(tk)
-qgit
+include(qgit)
 include(aspell)
 include(gobject-introspection)

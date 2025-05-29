@@ -1,0 +1,13 @@
+# [TITLE]: libappindicator-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libappindicator-data)
+include(libappindicator-license)
+include(libdbusmenu-lib)
+include(libindicator-lib)
+libappindicator-lib

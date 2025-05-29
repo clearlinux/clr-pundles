@@ -1,0 +1,19 @@
+# [TITLE]: lxc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(filesystem)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libseccomp-lib)
+include(lxc-data)
+include(lxc-lib)
+include(lxc-libexec)
+include(lxc-license)
+include(lxc-services)
+include(openssl-lib)
+lxc-bin

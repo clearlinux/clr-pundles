@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-ldb-dev
+include(ldb-dev)
 include(popt-lib)

@@ -1,0 +1,8 @@
+# [TITLE]: mpv-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpv-man)
+mpv-doc

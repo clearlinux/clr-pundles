@@ -1,0 +1,9 @@
+# [TITLE]: oxygen-sounds
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oxygen-sounds-data)
+include(oxygen-sounds-license)
+oxygen-sounds

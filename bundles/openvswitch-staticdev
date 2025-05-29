@@ -1,0 +1,8 @@
+# [TITLE]: openvswitch-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openvswitch-dev)
+openvswitch-staticdev

@@ -1,0 +1,33 @@
+# [TITLE]: akonadiconsole-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-contacts-lib)
+include(akonadi-lib)
+include(akonadi-search-lib)
+include(akonadiconsole-data)
+include(akonadiconsole-license)
+include(calendarsupport-lib)
+include(kcalendarcore-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kitemmodels-lib)
+include(kmime-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libkdepim-lib)
+include(libstdc++)
+include(messagelib-lib)
+include(qt6base-lib)
+include(xapian-core-lib)
+akonadiconsole-lib

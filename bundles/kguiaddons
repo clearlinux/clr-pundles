@@ -1,0 +1,11 @@
+# [TITLE]: kguiaddons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kguiaddons-bin)
+include(kguiaddons-data)
+include(kguiaddons-lib)
+include(kguiaddons-license)
+kguiaddons

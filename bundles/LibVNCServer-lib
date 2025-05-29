@@ -1,0 +1,16 @@
+# [TITLE]: LibVNCServer-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibVNCServer-license)
+include(gnutls-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(lzo-lib)
+include(openssl-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+LibVNCServer-lib

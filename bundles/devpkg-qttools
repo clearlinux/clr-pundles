@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qttools-dev
+include(qttools-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

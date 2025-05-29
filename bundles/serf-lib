@@ -1,0 +1,16 @@
+# [TITLE]: serf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-lib)
+include(apr-util-lib)
+include(expat-lib)
+include(libc6)
+include(libxcrypt-lib)
+include(openssl-lib)
+include(serf-license)
+include(util-linux-lib)
+include(zlib-lib)
+serf-lib

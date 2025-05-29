@@ -1,0 +1,12 @@
+# [TITLE]: libftdi1-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libftdi1)
+include(libftdi1-bin)
+include(libftdi1-dev)
+include(libftdi1-lib)
+include(libusb-dev)
+libftdi1-dev

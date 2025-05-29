@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-shapelib-dev
+include(shapelib-dev)
 include(libstdcpp)

@@ -1,0 +1,13 @@
+# [TITLE]: babeltrace-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babeltrace-lib)
+include(babeltrace-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+babeltrace-bin

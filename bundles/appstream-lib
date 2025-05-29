@@ -1,0 +1,20 @@
+# [TITLE]: appstream-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-data)
+include(appstream-license)
+include(curl-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(qt6base-lib)
+include(systemd-extras-libsystemd)
+include(xmlb-lib)
+include(yaml-lib)
+include(zstd-lib)
+appstream-lib

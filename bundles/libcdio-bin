@@ -1,0 +1,11 @@
+# [TITLE]: libcdio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcdio-lib)
+include(libcdio-license)
+include(ncurses-lib)
+libcdio-bin

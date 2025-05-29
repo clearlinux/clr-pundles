@@ -1,0 +1,11 @@
+# [TITLE]: signond
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(signond-bin)
+include(signond-data)
+include(signond-lib)
+include(signond-license)
+signond

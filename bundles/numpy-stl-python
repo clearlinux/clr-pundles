@@ -1,0 +1,8 @@
+# [TITLE]: numpy-stl-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(numpy-stl-python3)
+numpy-stl-python

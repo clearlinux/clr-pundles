@@ -1,0 +1,11 @@
+# [TITLE]: dolphin-plugins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dolphin-plugins-data)
+include(dolphin-plugins-lib)
+include(dolphin-plugins-license)
+include(dolphin-plugins-locales)
+dolphin-plugins

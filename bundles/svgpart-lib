@@ -1,0 +1,17 @@
+# [TITLE]: svgpart-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kparts-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6svg-lib)
+include(svgpart-data)
+include(svgpart-license)
+svgpart-lib

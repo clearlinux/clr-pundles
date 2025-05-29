@@ -1,0 +1,9 @@
+# [TITLE]: opencl-headers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opencl-headers-data)
+include(opencl-headers-license)
+opencl-headers

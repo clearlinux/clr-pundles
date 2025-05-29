@@ -1,0 +1,12 @@
+# [TITLE]: kitemviews-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kitemviews-data)
+include(kitemviews-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kitemviews-lib

@@ -1,0 +1,10 @@
+# [TITLE]: qtserialbus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtserialbus-bin)
+include(qtserialbus-lib)
+include(qtserialbus-license)
+qtserialbus

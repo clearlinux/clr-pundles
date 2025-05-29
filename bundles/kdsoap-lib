@@ -1,0 +1,13 @@
+# [TITLE]: kdsoap-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdsoap-data)
+include(kdsoap-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+kdsoap-lib

@@ -1,0 +1,11 @@
+# [TITLE]: rest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rest-bin)
+include(rest-data)
+include(rest-lib)
+include(rest-license)
+rest

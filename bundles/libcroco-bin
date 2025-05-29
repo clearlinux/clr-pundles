@@ -1,0 +1,13 @@
+# [TITLE]: libcroco-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glib-lib)
+include(libc6)
+include(libcroco-lib)
+include(libcroco-license)
+include(libxml2-lib)
+libcroco-bin

@@ -1,0 +1,16 @@
+# [TITLE]: cgit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cgit-config)
+include(cgit-data)
+include(cgit-libexec)
+include(cgit-license)
+include(cgit-man)
+include(groff)
+include(pypi-docutils)
+include(pypi-markdown)
+include(pypi-pygments)
+cgit

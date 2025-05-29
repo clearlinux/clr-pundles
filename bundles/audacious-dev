@@ -1,0 +1,12 @@
+# [TITLE]: audacious-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audacious)
+include(audacious-bin)
+include(audacious-data)
+include(audacious-lib)
+include(pkg-config-bin)
+audacious-dev

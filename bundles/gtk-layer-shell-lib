@@ -1,0 +1,13 @@
+# [TITLE]: gtk-layer-shell-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk-layer-shell-data)
+include(gtk-layer-shell-license)
+include(gtk3-lib)
+include(libc6)
+include(wayland-lib)
+gtk-layer-shell-lib

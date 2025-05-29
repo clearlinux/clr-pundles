@@ -1,0 +1,8 @@
+# [TITLE]: kfind-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kfind-man)
+kfind-doc

@@ -1,0 +1,9 @@
+# [TITLE]: lsacpi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lsacpi-bin)
+include(lsacpi-data)
+lsacpi

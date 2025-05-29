@@ -1,0 +1,18 @@
+# [TITLE]: mock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mock-bin)
+include(mock-data)
+include(mock-libexec)
+include(mock-license)
+include(mock-man)
+include(mock-python)
+include(mock-python3)
+include(pypi-distro-python3)
+include(pypi-jinja2-python3)
+include(pypi-pyroute2-python3)
+include(pypi-templated_dictionary-python3)
+mock

@@ -1,0 +1,13 @@
+# [TITLE]: kqtquickcharts-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kqtquickcharts-license)
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+kqtquickcharts-lib

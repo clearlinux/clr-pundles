@@ -1,0 +1,11 @@
+# [TITLE]: blinken
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(blinken-bin)
+include(blinken-data)
+include(blinken-license)
+include(blinken-locales)
+blinken

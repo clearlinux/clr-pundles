@@ -1,0 +1,14 @@
+# [TITLE]: qalculate-gtk-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libqalculate-lib)
+include(libstdc++)
+include(qalculate-gtk-license)
+qalculate-gtk-libexec

@@ -1,0 +1,11 @@
+# [TITLE]: autossh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autossh-bin)
+include(autossh-data)
+include(autossh-man)
+include(openssh)
+autossh

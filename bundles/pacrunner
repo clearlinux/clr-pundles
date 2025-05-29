@@ -1,0 +1,13 @@
+# [TITLE]: pacrunner
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pacrunner-autostart)
+include(pacrunner-bin)
+include(pacrunner-config)
+include(pacrunner-data)
+include(pacrunner-license)
+include(pacrunner-services)
+pacrunner

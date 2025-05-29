@@ -1,0 +1,16 @@
+# [TITLE]: libadwaita-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-dev)
+include(fribidi-dev)
+include(glib-dev)
+include(gtk4-dev)
+include(libadwaita)
+include(libadwaita-bin)
+include(libadwaita-data)
+include(libadwaita-lib)
+include(pkg-config-bin)
+libadwaita-dev

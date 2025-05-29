@@ -1,0 +1,15 @@
+# [TITLE]: pyotherside-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pyotherside-license)
+include(python3-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6svg-lib)
+pyotherside-lib

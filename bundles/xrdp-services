@@ -1,0 +1,8 @@
+# [TITLE]: xrdp-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+xrdp-services

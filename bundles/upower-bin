@@ -1,0 +1,15 @@
+# [TITLE]: upower-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(upower-config)
+include(upower-data)
+include(upower-lib)
+include(upower-libexec)
+include(upower-license)
+include(upower-services)
+upower-bin

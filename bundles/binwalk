@@ -1,0 +1,11 @@
+# [TITLE]: binwalk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binwalk-bin)
+include(binwalk-license)
+include(binwalk-python)
+include(binwalk-python3)
+binwalk

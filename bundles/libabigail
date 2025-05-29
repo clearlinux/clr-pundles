@@ -1,0 +1,11 @@
+# [TITLE]: libabigail
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libabigail-bin)
+include(libabigail-lib)
+include(libabigail-license)
+include(libabigail-man)
+libabigail

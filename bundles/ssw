@@ -1,0 +1,10 @@
+# [TITLE]: ssw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ssw-info)
+include(ssw-lib)
+include(ssw-license)
+ssw

@@ -1,0 +1,21 @@
+# [TITLE]: ddd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ddd-data)
+include(ddd-license)
+include(fontconfig-lib)
+include(libX11-lib)
+include(libXaw-lib)
+include(libXft-lib)
+include(libXmu-lib)
+include(libXpm-lib)
+include(libXt-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(motif-lib)
+include(ncurses-lib)
+ddd-bin

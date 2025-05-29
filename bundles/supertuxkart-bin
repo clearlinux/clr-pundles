@@ -1,0 +1,25 @@
+# [TITLE]: supertuxkart-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-lib)
+include(curl-lib)
+include(freetype-lib)
+include(harfbuzz-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libvorbis-lib)
+include(openal-soft-lib)
+include(openssl-lib)
+include(shaderc-lib)
+include(sqlite-autoconf-lib)
+include(supertuxkart-data)
+include(supertuxkart-lib)
+include(supertuxkart-license)
+include(zlib-lib)
+supertuxkart-bin

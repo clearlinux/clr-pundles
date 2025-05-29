@@ -1,0 +1,12 @@
+# [TITLE]: kwallet-pam-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(kwallet-pam-data)
+include(kwallet-pam-license)
+include(libc6)
+include(libgcrypt-lib)
+kwallet-pam-lib

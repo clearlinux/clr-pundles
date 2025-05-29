@@ -1,0 +1,23 @@
+# [TITLE]: kmplot-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kmplot-data)
+include(kmplot-license)
+include(kparts-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kmplot-bin

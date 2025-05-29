@@ -1,0 +1,16 @@
+# [TITLE]: ksshaskpass-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(ksshaskpass-data)
+include(ksshaskpass-license)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+ksshaskpass-bin

@@ -1,0 +1,15 @@
+# [TITLE]: notmuch-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gmime-lib)
+include(libc6)
+include(notmuch-data)
+include(notmuch-lib)
+include(notmuch-license)
+include(talloc-lib)
+include(zlib-lib)
+notmuch-bin

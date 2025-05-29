@@ -1,0 +1,12 @@
+# [TITLE]: libgtop-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libgtop)
+include(libgtop-data)
+include(libgtop-lib)
+include(pkg-config-bin)
+libgtop-dev

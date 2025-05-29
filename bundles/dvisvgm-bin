@@ -1,0 +1,18 @@
+# [TITLE]: dvisvgm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-lib)
+include(dvisvgm-license)
+include(freetype-lib)
+include(ghostscript-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(potrace-lib)
+include(texlive-lib)
+include(woff2-lib)
+include(zlib-lib)
+dvisvgm-bin

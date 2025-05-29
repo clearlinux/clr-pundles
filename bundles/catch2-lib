@@ -1,0 +1,12 @@
+# [TITLE]: catch2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(catch2-data)
+include(catch2-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+catch2-lib

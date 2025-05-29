@@ -1,0 +1,14 @@
+# [TITLE]: tracker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tracker-bin)
+include(tracker-data)
+include(tracker-lib)
+include(tracker-libexec)
+include(tracker-license)
+include(tracker-locales)
+include(tracker-services)
+tracker

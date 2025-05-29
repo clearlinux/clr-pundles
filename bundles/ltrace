@@ -1,0 +1,11 @@
+# [TITLE]: ltrace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ltrace-bin)
+include(ltrace-data)
+include(ltrace-license)
+include(ltrace-man)
+ltrace

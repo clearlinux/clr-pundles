@@ -1,0 +1,8 @@
+# [TITLE]: rabbitmq-server-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rabbitmq-server-man)
+rabbitmq-server-doc

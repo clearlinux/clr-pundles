@@ -1,0 +1,12 @@
+# [TITLE]: libgedit-amtk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk3-dev)
+include(libgedit-amtk)
+include(libgedit-amtk-lib)
+include(pkg-config-bin)
+libgedit-amtk-dev

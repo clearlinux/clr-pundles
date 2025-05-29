@@ -1,0 +1,10 @@
+# [TITLE]: opensm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(opensm-lib)
+include(opensm-license)
+opensm-bin

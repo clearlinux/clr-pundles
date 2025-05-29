@@ -1,0 +1,11 @@
+# [TITLE]: kexec-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kexec-tools-license)
+include(libc6)
+include(zlib-lib)
+include(zstd-lib)
+kexec-tools-bin

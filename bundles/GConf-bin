@@ -1,0 +1,15 @@
+# [TITLE]: GConf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(GConf-data)
+include(GConf-lib)
+include(GConf-libexec)
+include(GConf-license)
+include(compat-libxml2-soname2-lib)
+include(coreutils-bin)
+include(glib-lib)
+include(libc6)
+GConf-bin

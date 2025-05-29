@@ -1,0 +1,20 @@
+# [TITLE]: OpenColorIO-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenColorIO-data)
+include(OpenColorIO-lib)
+include(OpenColorIO-license)
+include(freeglut-lib)
+include(glew-lib)
+include(glu-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(minizip-ng-lib)
+include(openexr-lib)
+OpenColorIO-bin

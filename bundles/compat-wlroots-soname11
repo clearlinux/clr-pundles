@@ -1,0 +1,9 @@
+# [TITLE]: compat-wlroots-soname11
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-wlroots-soname11-lib)
+include(compat-wlroots-soname11-license)
+compat-wlroots-soname11

@@ -1,0 +1,11 @@
+# [TITLE]: konquest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(konquest-bin)
+include(konquest-data)
+include(konquest-license)
+include(konquest-locales)
+konquest

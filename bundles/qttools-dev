@@ -1,0 +1,20 @@
+# [TITLE]: qttools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(qtbase-dev)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qttools)
+include(qttools-bin)
+include(qttools-data)
+include(qttools-dev)
+include(qttools-lib)
+qttools-dev

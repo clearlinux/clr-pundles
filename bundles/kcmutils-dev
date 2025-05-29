@@ -1,0 +1,11 @@
+# [TITLE]: kcmutils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils)
+include(kcmutils-bin)
+include(kcmutils-data)
+include(kcmutils-lib)
+kcmutils-dev

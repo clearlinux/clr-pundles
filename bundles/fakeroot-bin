@@ -1,0 +1,10 @@
+# [TITLE]: fakeroot-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fakeroot-license)
+include(filesystem)
+include(libc6)
+fakeroot-bin

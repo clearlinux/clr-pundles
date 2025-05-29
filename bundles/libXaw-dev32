@@ -1,0 +1,15 @@
+# [TITLE]: libXaw-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXaw-dev)
+include(libXaw-lib32)
+include(libXmu-dev)
+include(libXpm-dev)
+include(libXt-dev)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libXaw-dev32

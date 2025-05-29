@@ -1,0 +1,27 @@
+# [TITLE]: khelpcenter-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbookmarks-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(kdoctools-lib)
+include(khelpcenter-data)
+include(khelpcenter-license)
+include(ki18n-lib)
+include(kio-lib)
+include(kservice-lib)
+include(ktexttemplate-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6webengine-lib)
+khelpcenter-bin

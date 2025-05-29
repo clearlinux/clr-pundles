@@ -1,0 +1,11 @@
+# [TITLE]: xerces-c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xerces-c)
+include(xerces-c-bin)
+include(xerces-c-lib)
+xerces-c-dev

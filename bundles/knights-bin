@@ -1,0 +1,26 @@
+# [TITLE]: knights-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(knights-data)
+include(knights-license)
+include(kplotting-lib)
+include(ksvg-lib)
+include(ktextwidgets-lib)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkdegames-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6speech-lib)
+knights-bin

@@ -1,0 +1,10 @@
+# [TITLE]: netplan-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(netplan-data)
+include(netplan-libexec)
+include(netplan-license)
+netplan-bin

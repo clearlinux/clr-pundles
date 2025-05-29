@@ -1,0 +1,11 @@
+# [TITLE]: Botan-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Botan-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+Botan-bin

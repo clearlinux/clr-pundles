@@ -1,0 +1,10 @@
+# [TITLE]: bash-completion-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-completion)
+include(bash-completion-data)
+include(pkg-config-bin)
+bash-completion-dev

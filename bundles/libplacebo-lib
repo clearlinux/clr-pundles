@@ -1,0 +1,14 @@
+# [TITLE]: libplacebo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-lib)
+include(lcms2-lib)
+include(libc6)
+include(libplacebo-license)
+include(libstdc++)
+include(libunwind-lib)
+include(shaderc-lib)
+libplacebo-lib

@@ -1,0 +1,11 @@
+# [TITLE]: ntfs-3g
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ntfs-3g-bin)
+include(ntfs-3g-lib)
+include(ntfs-3g-license)
+include(ntfs-3g-man)
+ntfs-3g

@@ -1,0 +1,11 @@
+# [TITLE]: libvma
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvma-bin)
+include(libvma-lib)
+include(libvma-license)
+include(libvma-man)
+libvma

@@ -1,0 +1,8 @@
+# [TITLE]: libstatgrab-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libstatgrab-man)
+libstatgrab-doc

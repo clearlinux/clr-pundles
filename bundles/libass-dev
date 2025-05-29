@@ -1,0 +1,15 @@
+# [TITLE]: libass-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-dev)
+include(freetype-dev)
+include(fribidi-dev)
+include(harfbuzz-dev)
+include(libass)
+include(libass-lib)
+include(libunibreak-dev)
+include(pkg-config-bin)
+libass-dev

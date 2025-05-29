@@ -1,0 +1,14 @@
+# [TITLE]: ibus-typing-booster
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ibus-typing-booster-bin)
+include(ibus-typing-booster-data)
+include(ibus-typing-booster-libexec)
+include(ibus-typing-booster-license)
+include(ibus-typing-booster-locales)
+include(m17n-lib)
+include(pypi-packaging)
+ibus-typing-booster

@@ -1,0 +1,10 @@
+# [TITLE]: mosh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mosh-bin)
+include(mosh-license)
+include(mosh-man)
+mosh

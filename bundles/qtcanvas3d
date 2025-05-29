@@ -1,0 +1,9 @@
+# [TITLE]: qtcanvas3d
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtcanvas3d-lib)
+include(qtcanvas3d-license)
+qtcanvas3d

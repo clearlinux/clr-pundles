@@ -1,0 +1,10 @@
+# [TITLE]: libgravatar-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgravatar)
+include(libgravatar-data)
+include(libgravatar-lib)
+libgravatar-dev

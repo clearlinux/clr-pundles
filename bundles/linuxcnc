@@ -13,7 +13,7 @@ linuxcnc
 # dependencies
 
 include(gtk3)
-potrace
+include(potrace)
 include(pycairo)
 include(pygobject)
 include(pypi-pyopengl)

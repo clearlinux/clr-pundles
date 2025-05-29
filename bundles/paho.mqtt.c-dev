@@ -1,0 +1,10 @@
+# [TITLE]: paho.mqtt.c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(paho.mqtt.c)
+include(paho.mqtt.c-bin)
+include(paho.mqtt.c-lib)
+paho.mqtt.c-dev

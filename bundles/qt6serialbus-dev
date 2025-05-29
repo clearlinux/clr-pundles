@@ -1,0 +1,11 @@
+# [TITLE]: qt6serialbus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6serialbus)
+include(qt6serialbus-lib)
+qt6serialbus-dev

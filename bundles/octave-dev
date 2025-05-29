@@ -1,0 +1,12 @@
+# [TITLE]: octave-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(octave)
+include(octave-bin)
+include(octave-data)
+include(octave-lib)
+include(pkg-config-bin)
+octave-dev

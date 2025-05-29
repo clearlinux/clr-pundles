@@ -1,0 +1,13 @@
+# [TITLE]: PyQt6-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyQt6-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+PyQt6-lib

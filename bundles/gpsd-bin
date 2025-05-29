@@ -1,0 +1,19 @@
+# [TITLE]: gpsd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-lib)
+include(coreutils-bin)
+include(dbus-lib)
+include(filesystem)
+include(gpsd-config)
+include(gpsd-data)
+include(gpsd-license)
+include(gpsd-services)
+include(libc6)
+include(libcap-lib)
+include(libusb-lib)
+include(ncurses-lib)
+gpsd-bin

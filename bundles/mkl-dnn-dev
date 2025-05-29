@@ -1,0 +1,9 @@
+# [TITLE]: mkl-dnn-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mkl-dnn)
+include(mkl-dnn-lib)
+mkl-dnn-dev

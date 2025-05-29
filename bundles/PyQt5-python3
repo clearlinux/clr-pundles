@@ -1,0 +1,26 @@
+# [TITLE]: PyQt5-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libc6)
+include(libstdc++)
+include(pypi-pyqt5_sip)
+include(python3-core)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtconnectivity-lib)
+include(qtdeclarative-lib)
+include(qtlocation-lib)
+include(qtmultimedia-lib)
+include(qtsensors-lib)
+include(qtserialport-lib)
+include(qtsvg-lib)
+include(qttools-lib)
+include(qtwebchannel-lib)
+include(qtwebsockets-lib)
+include(qtx11extras-lib)
+include(qtxmlpatterns-lib)
+PyQt5-python3

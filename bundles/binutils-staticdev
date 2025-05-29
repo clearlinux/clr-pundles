@@ -1,0 +1,8 @@
+# [TITLE]: binutils-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binutils-dev)
+binutils-staticdev

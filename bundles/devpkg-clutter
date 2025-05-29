@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-clutter-dev
+include(clutter-dev)
 include(libX11client)
 include(libglib)
 include(lib-opengl)

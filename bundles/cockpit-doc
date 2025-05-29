@@ -1,0 +1,8 @@
+# [TITLE]: cockpit-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cockpit-man)
+cockpit-doc

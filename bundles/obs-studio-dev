@@ -1,0 +1,12 @@
+# [TITLE]: obs-studio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(obs-studio)
+include(obs-studio-bin)
+include(obs-studio-data)
+include(obs-studio-lib)
+include(pkg-config-bin)
+obs-studio-dev

@@ -1,0 +1,10 @@
+# [TITLE]: openjdk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openjdk)
+include(openjdk-bin)
+include(openjdk-lib)
+openjdk-dev

@@ -1,0 +1,11 @@
+# [TITLE]: kapptemplate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kapptemplate-bin)
+include(kapptemplate-data)
+include(kapptemplate-license)
+include(kapptemplate-locales)
+kapptemplate

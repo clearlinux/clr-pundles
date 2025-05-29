@@ -1,0 +1,12 @@
+# [TITLE]: indi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(indi)
+include(indi-bin)
+include(indi-data)
+include(indi-lib)
+include(pkg-config-bin)
+indi-dev

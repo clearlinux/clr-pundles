@@ -1,0 +1,8 @@
+# [TITLE]: slang-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(slang-man)
+slang-doc

@@ -1,0 +1,12 @@
+# [TITLE]: llvm15-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(llvm15-extras-libclang)
+include(llvm15-extras-libllvm)
+include(llvm15-license)
+llvm15-lib

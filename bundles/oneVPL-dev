@@ -1,0 +1,12 @@
+# [TITLE]: oneVPL-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oneVPL)
+include(oneVPL-bin)
+include(oneVPL-data)
+include(oneVPL-lib)
+include(pkg-config-bin)
+oneVPL-dev

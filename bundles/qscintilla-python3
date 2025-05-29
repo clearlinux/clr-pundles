@@ -1,0 +1,12 @@
+# [TITLE]: qscintilla-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyQt6)
+include(libc6)
+include(libstdc++)
+include(python3-core)
+include(qt6base-lib)
+qscintilla-python3

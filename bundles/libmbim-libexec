@@ -1,0 +1,12 @@
+# [TITLE]: libmbim-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libmbim-lib)
+include(libmbim-license)
+libmbim-libexec

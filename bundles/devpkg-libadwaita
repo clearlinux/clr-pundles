@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libadwaita-dev
+include(libadwaita-dev)
 include(libglib)
 include(gnome-base-libs)

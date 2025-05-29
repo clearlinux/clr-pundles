@@ -1,0 +1,13 @@
+# [TITLE]: libadwaita-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk4-lib)
+include(libadwaita-data)
+include(libadwaita-lib)
+include(libadwaita-license)
+include(libc6)
+libadwaita-bin

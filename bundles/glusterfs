@@ -1,0 +1,18 @@
+# [TITLE]: glusterfs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glusterfs-bin)
+include(glusterfs-data)
+include(glusterfs-lib)
+include(glusterfs-libexec)
+include(glusterfs-license)
+include(glusterfs-man)
+include(glusterfs-python)
+include(glusterfs-python3)
+include(glusterfs-services)
+include(rpcbind)
+glusterfs

@@ -1,0 +1,12 @@
+# [TITLE]: sudo-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libc6)
+include(openssl-lib)
+include(sudo-license)
+include(zlib-lib)
+sudo-libexec

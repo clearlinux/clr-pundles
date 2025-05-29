@@ -1,0 +1,10 @@
+# [TITLE]: fcgi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fcgi-lib)
+include(fcgi-license)
+include(libc6)
+fcgi-bin

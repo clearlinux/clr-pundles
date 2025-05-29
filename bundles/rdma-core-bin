@@ -1,0 +1,19 @@
+# [TITLE]: rdma-core-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libnl-lib)
+include(perl-bin)
+include(rdma-core-config)
+include(rdma-core-data)
+include(rdma-core-lib)
+include(rdma-core-libexec)
+include(rdma-core-license)
+include(rdma-core-services)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+rdma-core-bin

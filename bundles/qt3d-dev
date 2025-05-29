@@ -1,0 +1,13 @@
+# [TITLE]: qt3d-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt3d)
+include(qt3d-bin)
+include(qt3d-dev)
+include(qt3d-lib)
+include(qtbase-dev)
+include(qtdeclarative-dev)
+qt3d-dev

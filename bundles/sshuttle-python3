@@ -1,0 +1,9 @@
+# [TITLE]: sshuttle-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-sphinx-python3)
+include(python3-core)
+sshuttle-python3

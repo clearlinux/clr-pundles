@@ -1,0 +1,10 @@
+# [TITLE]: cscope
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cscope-bin)
+include(cscope-license)
+include(cscope-man)
+cscope

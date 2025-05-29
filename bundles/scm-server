@@ -9,5 +9,5 @@ include(nginx)
 include(openssh-server)
 include(perl-basic)
 include(python3-basic)
-cgit
-gitolite
+include(cgit)
+include(gitolite)

@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-source-highlight-dev
+include(source-highlight-dev)
 include(libstdcpp)
 include(icu4c-lib)

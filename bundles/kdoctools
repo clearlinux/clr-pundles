@@ -1,0 +1,16 @@
+# [TITLE]: kdoctools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(docbook-xml)
+include(kdoctools-bin)
+include(kdoctools-data)
+include(kdoctools-lib)
+include(kdoctools-license)
+include(kdoctools-locales)
+include(kdoctools-man)
+include(libxml2)
+include(libxslt)
+kdoctools

@@ -1,0 +1,15 @@
+# [TITLE]: libzmf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(libc6)
+include(libgcc1)
+include(libpng-lib)
+include(librevenge-lib)
+include(libstdc++)
+include(libzmf-license)
+include(zlib-lib)
+libzmf-lib

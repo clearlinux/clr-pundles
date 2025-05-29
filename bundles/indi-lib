@@ -1,0 +1,19 @@
+# [TITLE]: indi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cfitsio-lib)
+include(fftw-lib)
+include(gsl-lib)
+include(indi-data)
+include(indi-license)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libnova-lib)
+include(libstdc++)
+include(libusb-lib)
+include(zlib-lib)
+indi-lib

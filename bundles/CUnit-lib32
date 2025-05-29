@@ -1,0 +1,10 @@
+# [TITLE]: CUnit-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CUnit-data)
+include(CUnit-license)
+include(glibc-libc32)
+CUnit-lib32

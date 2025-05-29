@@ -1,0 +1,12 @@
+# [TITLE]: motif
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(motif-bin)
+include(motif-data)
+include(motif-lib)
+include(motif-license)
+include(motif-man)
+motif

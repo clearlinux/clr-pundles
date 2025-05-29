@@ -1,0 +1,15 @@
+# [TITLE]: git-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(expat-lib)
+include(filesystem)
+include(git-license)
+include(libc6)
+include(openssl-lib)
+include(pcre2-lib)
+include(zlib-lib)
+git-libexec

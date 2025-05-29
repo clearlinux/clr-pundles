@@ -1,0 +1,12 @@
+# [TITLE]: qt6svg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6svg)
+include(qt6svg-dev)
+include(qt6svg-lib)
+qt6svg-dev

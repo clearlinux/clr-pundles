@@ -1,0 +1,8 @@
+# [TITLE]: gnu-efi-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnu-efi-dev)
+gnu-efi-staticdev

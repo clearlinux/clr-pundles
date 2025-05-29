@@ -1,0 +1,10 @@
+# [TITLE]: open-isns-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(open-isns)
+include(open-isns-bin)
+include(open-isns-lib)
+open-isns-dev

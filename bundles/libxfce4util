@@ -1,0 +1,12 @@
+# [TITLE]: libxfce4util
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxfce4util-bin)
+include(libxfce4util-data)
+include(libxfce4util-lib)
+include(libxfce4util-license)
+include(libxfce4util-locales)
+libxfce4util

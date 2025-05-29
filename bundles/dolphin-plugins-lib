@@ -1,0 +1,25 @@
+# [TITLE]: dolphin-plugins-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dolphin-lib)
+include(dolphin-plugins-data)
+include(dolphin-plugins-license)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kservice-lib)
+include(ktexteditor-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(solid-lib)
+dolphin-plugins-lib

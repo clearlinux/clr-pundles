@@ -1,0 +1,9 @@
+# [TITLE]: capnproto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(capnproto-bin)
+include(capnproto-license)
+capnproto

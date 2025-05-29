@@ -1,0 +1,12 @@
+# [TITLE]: qt6serialport-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6serialport-license)
+include(systemd-lib)
+qt6serialport-lib

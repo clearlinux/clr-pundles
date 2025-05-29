@@ -1,0 +1,14 @@
+# [TITLE]: ctags-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ctags-license)
+include(jansson-lib)
+include(libc6)
+include(libseccomp-lib)
+include(libxml2-lib)
+include(pcre2-lib)
+include(yaml-lib)
+ctags-bin

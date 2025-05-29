@@ -1,0 +1,8 @@
+# [TITLE]: oath-toolkit-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oath-toolkit-man)
+oath-toolkit-doc

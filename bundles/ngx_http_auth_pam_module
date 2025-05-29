@@ -1,0 +1,9 @@
+# [TITLE]: ngx_http_auth_pam_module
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ngx_http_auth_pam_module-lib)
+include(ngx_http_auth_pam_module-license)
+ngx_http_auth_pam_module

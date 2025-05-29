@@ -1,0 +1,18 @@
+# [TITLE]: qt6quick3d-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6quick3d-license)
+include(qt6quicktimeline-lib)
+include(qt6shadertools-lib)
+include(zlib-lib)
+qt6quick3d-lib

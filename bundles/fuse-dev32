@@ -1,0 +1,11 @@
+# [TITLE]: fuse-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fuse-bin)
+include(fuse-dev)
+include(fuse-lib32)
+include(pkg-config-bin)
+fuse-dev32

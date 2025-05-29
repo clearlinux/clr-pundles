@@ -1,0 +1,12 @@
+# [TITLE]: elisa
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elisa-bin)
+include(elisa-data)
+include(elisa-lib)
+include(elisa-license)
+include(elisa-locales)
+elisa

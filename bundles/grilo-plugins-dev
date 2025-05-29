@@ -1,0 +1,11 @@
+# [TITLE]: grilo-plugins-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grilo-plugins)
+include(grilo-plugins-data)
+include(grilo-plugins-lib)
+include(pkg-config-bin)
+grilo-plugins-dev

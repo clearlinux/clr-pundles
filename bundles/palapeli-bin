@@ -1,0 +1,29 @@
+# [TITLE]: palapeli-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(knotifications-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkdegames-lib)
+include(libstdc++)
+include(palapeli-data)
+include(palapeli-lib)
+include(palapeli-license)
+include(qt6base-lib)
+include(qt6svg-lib)
+palapeli-bin

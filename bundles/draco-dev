@@ -1,0 +1,12 @@
+# [TITLE]: draco-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(draco)
+include(draco-bin)
+include(draco-data)
+include(draco-lib)
+include(pkg-config-bin)
+draco-dev

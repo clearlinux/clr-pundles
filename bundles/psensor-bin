@@ -1,0 +1,22 @@
+# [TITLE]: psensor-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-json-c-soname4-lib)
+include(curl-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libappindicator-lib)
+include(libatasmart-lib)
+include(libc6)
+include(libgtop-lib)
+include(libmicrohttpd-lib)
+include(libnotify-lib)
+include(lm-sensors-lib)
+include(psensor-data)
+include(psensor-license)
+include(udisks2-lib)
+psensor-bin

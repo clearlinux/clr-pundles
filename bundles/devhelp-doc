@@ -1,0 +1,8 @@
+# [TITLE]: devhelp-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(devhelp-man)
+devhelp-doc

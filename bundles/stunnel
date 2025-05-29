@@ -1,0 +1,12 @@
+# [TITLE]: stunnel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(stunnel-bin)
+include(stunnel-lib)
+include(stunnel-license)
+include(stunnel-man)
+include(stunnel-services)
+stunnel

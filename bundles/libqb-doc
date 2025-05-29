@@ -1,0 +1,8 @@
+# [TITLE]: libqb-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqb-man)
+libqb-doc

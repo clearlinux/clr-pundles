@@ -1,0 +1,9 @@
+# [TITLE]: alsa-firmware
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-firmware-data)
+include(alsa-firmware-license)
+alsa-firmware

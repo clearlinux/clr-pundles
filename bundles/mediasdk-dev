@@ -1,0 +1,9 @@
+# [TITLE]: mediasdk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mediasdk)
+include(mediasdk-lib)
+mediasdk-dev

@@ -1,0 +1,8 @@
+# [TITLE]: volk-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(volk-python3)
+volk-python

@@ -1,0 +1,8 @@
+# [TITLE]: ppft-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+ppft-python3

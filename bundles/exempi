@@ -1,0 +1,11 @@
+# [TITLE]: exempi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exempi-bin)
+include(exempi-lib)
+include(exempi-license)
+include(exempi-man)
+exempi

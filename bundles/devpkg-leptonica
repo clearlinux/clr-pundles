@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-leptonica-dev
+include(leptonica-dev)
 include(lib-imageformat)

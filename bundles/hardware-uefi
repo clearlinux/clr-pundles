@@ -7,10 +7,10 @@
 include(os-core)
 include(libglib)
 
-efibootmgr-bin
-console-autostart
+include(efibootmgr-bin)
+include(console-autostart)
 include(bootloader)
-irqbalance
+include(irqbalance)
 
 include(linux-firmware)
 include(linux-firmware-extras)

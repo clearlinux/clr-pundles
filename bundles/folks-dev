@@ -1,0 +1,16 @@
+# [TITLE]: folks-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-dev)
+include(folks)
+include(folks-bin)
+include(folks-data)
+include(folks-dev)
+include(folks-lib)
+include(glib-dev)
+include(libgee-dev)
+include(pkg-config-bin)
+folks-dev

@@ -1,0 +1,9 @@
+# [TITLE]: google-crc32c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(google-crc32c-lib)
+include(google-crc32c-license)
+google-crc32c

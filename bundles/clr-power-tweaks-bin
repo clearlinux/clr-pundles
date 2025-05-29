@@ -1,0 +1,10 @@
+# [TITLE]: clr-power-tweaks-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-power-tweaks-license)
+include(clr-power-tweaks-services)
+include(libc6)
+clr-power-tweaks-bin

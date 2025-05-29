@@ -1,0 +1,12 @@
+# [TITLE]: osm-gps-map-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsoup-soname-24-dev)
+include(gtk3-dev)
+include(osm-gps-map)
+include(osm-gps-map-data)
+include(osm-gps-map-lib)
+osm-gps-map-dev

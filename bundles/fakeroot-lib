@@ -1,0 +1,9 @@
+# [TITLE]: fakeroot-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fakeroot-license)
+include(libc6)
+fakeroot-lib

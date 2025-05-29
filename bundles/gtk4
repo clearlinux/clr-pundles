@@ -1,0 +1,12 @@
+# [TITLE]: gtk4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk4-bin)
+include(gtk4-data)
+include(gtk4-lib)
+include(gtk4-license)
+include(gtk4-locales)
+gtk4

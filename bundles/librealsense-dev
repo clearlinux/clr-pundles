@@ -1,0 +1,12 @@
+# [TITLE]: librealsense-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librealsense)
+include(librealsense-bin)
+include(librealsense-dev)
+include(librealsense-lib)
+include(pkg-config-bin)
+librealsense-dev

@@ -1,0 +1,10 @@
+# [TITLE]: pam_wrapper-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libc6)
+include(pam_wrapper-license)
+pam_wrapper-lib

@@ -1,0 +1,9 @@
+# [TITLE]: qtmultimedia
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtmultimedia-lib)
+include(qtmultimedia-license)
+qtmultimedia

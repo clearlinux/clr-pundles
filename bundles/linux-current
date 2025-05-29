@@ -1,0 +1,10 @@
+# [TITLE]: linux-current
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(init-rdahead-extras)
+include(linux-current-license)
+include(systemd-bin)
+linux-current

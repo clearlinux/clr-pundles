@@ -1,0 +1,11 @@
+# [TITLE]: opa-psm2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(opa-psm2-config)
+include(opa-psm2-lib)
+include(opa-psm2-license)
+opa-psm2

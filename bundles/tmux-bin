@@ -1,0 +1,11 @@
+# [TITLE]: tmux-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libevent-lib)
+include(ncurses-lib)
+include(tmux-license)
+tmux-bin

@@ -1,0 +1,8 @@
+# [TITLE]: clr-update-triggers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+clr-update-triggers

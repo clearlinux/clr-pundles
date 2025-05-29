@@ -1,0 +1,8 @@
+# [TITLE]: RawTherapee-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(RawTherapee-man)
+RawTherapee-doc

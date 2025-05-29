@@ -1,0 +1,11 @@
+# [TITLE]: SFCGAL-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SFCGAL)
+include(SFCGAL-bin)
+include(SFCGAL-lib)
+include(pkg-config-bin)
+SFCGAL-dev

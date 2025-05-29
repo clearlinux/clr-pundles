@@ -1,0 +1,29 @@
+# [TITLE]: kontact-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grantleetheme-lib)
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kontact-data)
+include(kontact-license)
+include(kontactinterface-lib)
+include(kparts-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkdepim-lib)
+include(libstdc++)
+include(pimcommon-lib)
+include(qt6base-lib)
+include(qt6webengine-lib)
+kontact-lib

@@ -1,0 +1,9 @@
+# [TITLE]: collectl-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(perl-bin)
+collectl-data

@@ -1,0 +1,11 @@
+# [TITLE]: xdg-user-dirs-gtk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xdg-user-dirs-gtk-bin)
+include(xdg-user-dirs-gtk-data)
+include(xdg-user-dirs-gtk-license)
+include(xdg-user-dirs-gtk-locales)
+xdg-user-dirs-gtk

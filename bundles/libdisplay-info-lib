@@ -1,0 +1,9 @@
+# [TITLE]: libdisplay-info-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdisplay-info-license)
+libdisplay-info-lib

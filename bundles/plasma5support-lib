@@ -1,0 +1,28 @@
+# [TITLE]: plasma5support-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpsd-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kidletime-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(knotifications-lib)
+include(kservice-lib)
+include(libX11-lib)
+include(libc6)
+include(libksysguard-lib)
+include(libstdc++)
+include(networkmanager-qt-lib)
+include(plasma-activities-lib)
+include(plasma5support-data)
+include(plasma5support-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(solid-lib)
+plasma5support-lib

@@ -1,0 +1,9 @@
+# [TITLE]: compat-pangomm-soname14
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-pangomm-soname14-lib)
+include(compat-pangomm-soname14-license)
+compat-pangomm-soname14

@@ -1,0 +1,10 @@
+# [TITLE]: scene-alembic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(scene-alembic-bin)
+include(scene-alembic-lib)
+include(scene-alembic-license)
+scene-alembic

@@ -1,0 +1,20 @@
+# [TITLE]: oiio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(OpenColorIO-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(oiio-data)
+include(oiio-lib)
+include(oiio-license)
+include(opencv-lib)
+include(openexr-lib)
+include(qt6base-lib)
+include(zlib-lib)
+oiio-bin

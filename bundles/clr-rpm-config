@@ -1,0 +1,15 @@
+# [TITLE]: clr-rpm-config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-avx-tools)
+include(clr-python-timestamp)
+include(clr-rpm-config-license)
+include(filesystem)
+include(findutils)
+include(gawk-bin)
+include(perl-bin)
+include(python3-core)
+clr-rpm-config

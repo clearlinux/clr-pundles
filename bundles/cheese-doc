@@ -1,0 +1,8 @@
+# [TITLE]: cheese-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cheese-man)
+cheese-doc

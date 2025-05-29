@@ -1,0 +1,8 @@
+# [TITLE]: wsjtx-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wsjtx-man)
+wsjtx-doc

@@ -1,0 +1,21 @@
+# [TITLE]: blinken-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(blinken-data)
+include(blinken-license)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+include(qt6svg-lib)
+blinken-bin

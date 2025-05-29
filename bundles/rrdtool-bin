@@ -1,0 +1,12 @@
+# [TITLE]: rrdtool-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(rrdtool-data)
+include(rrdtool-lib)
+include(rrdtool-license)
+rrdtool-bin

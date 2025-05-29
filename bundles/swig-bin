@@ -1,0 +1,14 @@
+# [TITLE]: swig-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pcre2-lib)
+include(swig-data)
+include(swig-license)
+include(zlib-lib)
+swig-bin

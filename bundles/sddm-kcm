@@ -1,0 +1,19 @@
+# [TITLE]: sddm-kcm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kauth-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(sddm-kcm-bin)
+include(sddm-kcm-data)
+include(sddm-kcm-lib)
+include(sddm-kcm-license)
+include(sddm-kcm-locales)
+sddm-kcm

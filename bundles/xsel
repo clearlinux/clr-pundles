@@ -1,0 +1,10 @@
+# [TITLE]: xsel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xsel-bin)
+include(xsel-license)
+include(xsel-man)
+xsel

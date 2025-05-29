@@ -1,0 +1,12 @@
+# [TITLE]: khangman
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(khangman-bin)
+include(khangman-data)
+include(khangman-license)
+include(khangman-locales)
+include(khangman-man)
+khangman

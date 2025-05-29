@@ -1,0 +1,14 @@
+# [TITLE]: Thunar-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Thunar)
+include(Thunar-bin)
+include(Thunar-data)
+include(Thunar-lib)
+include(glib-dev)
+include(gtk3-dev)
+include(pkg-config-bin)
+Thunar-dev

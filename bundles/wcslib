@@ -1,0 +1,11 @@
+# [TITLE]: wcslib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wcslib-bin)
+include(wcslib-lib)
+include(wcslib-license)
+include(wcslib-man)
+wcslib

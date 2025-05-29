@@ -1,0 +1,8 @@
+# [TITLE]: ucpp-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ucpp-dev)
+ucpp-staticdev

@@ -1,0 +1,9 @@
+# [TITLE]: nvme-cli-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmod)
+include(systemd)
+nvme-cli-services

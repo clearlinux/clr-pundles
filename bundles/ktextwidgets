@@ -1,0 +1,10 @@
+# [TITLE]: ktextwidgets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktextwidgets-lib)
+include(ktextwidgets-license)
+include(ktextwidgets-locales)
+ktextwidgets

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gutenprint-dev
+include(gutenprint-dev)
 include(libglib)
 include(libX11client)
 include(gegl)

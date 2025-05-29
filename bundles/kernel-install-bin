@@ -1,0 +1,9 @@
+# [TITLE]: kernel-install-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(kernel-install-license)
+kernel-install-bin

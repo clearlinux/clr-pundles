@@ -1,0 +1,17 @@
+# [TITLE]: libqalculate-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(compat-libxml2-soname2-lib)
+include(curl-lib)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libqalculate-data)
+include(libqalculate-license)
+include(libstdc++)
+include(mpfr-lib)
+libqalculate-lib

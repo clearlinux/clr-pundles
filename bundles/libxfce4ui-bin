@@ -1,0 +1,14 @@
+# [TITLE]: libxfce4ui-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libxfce4ui-data)
+include(libxfce4ui-lib)
+include(libxfce4ui-license)
+include(libxfce4util-lib)
+libxfce4ui-bin

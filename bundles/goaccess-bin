@@ -1,0 +1,11 @@
+# [TITLE]: goaccess-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(goaccess-license)
+include(libc6)
+include(ncurses-lib)
+include(openssl-lib)
+goaccess-bin

@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-open-isns-dev
+include(open-isns-dev)

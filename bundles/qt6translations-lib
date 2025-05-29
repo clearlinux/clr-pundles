@@ -1,0 +1,9 @@
+# [TITLE]: qt6translations-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6translations-data)
+include(qt6translations-license)
+qt6translations-lib

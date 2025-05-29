@@ -1,0 +1,10 @@
+# [TITLE]: qtkeychain
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtkeychain-data)
+include(qtkeychain-lib)
+include(qtkeychain-license)
+qtkeychain

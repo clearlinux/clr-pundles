@@ -1,0 +1,13 @@
+# [TITLE]: ndctl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ndctl-bin)
+include(ndctl-data)
+include(ndctl-lib)
+include(ndctl-license)
+include(ndctl-man)
+include(ndctl-services)
+ndctl

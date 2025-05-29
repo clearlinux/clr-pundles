@@ -1,0 +1,19 @@
+# [TITLE]: libksysguard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(ki18n-lib)
+include(libc6)
+include(libgcc1)
+include(libksysguard-data)
+include(libksysguard-lib)
+include(libksysguard-license)
+include(libksysguard-locales)
+include(libnl-lib)
+include(libpcap-lib)
+include(libstdc++)
+include(qt6base-lib)
+libksysguard

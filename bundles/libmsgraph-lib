@@ -1,0 +1,15 @@
+# [TITLE]: libmsgraph-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-online-accounts-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libmsgraph-data)
+include(libmsgraph-license)
+include(libsoup-lib)
+libmsgraph-lib

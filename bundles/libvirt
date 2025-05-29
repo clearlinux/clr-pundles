@@ -1,0 +1,19 @@
+# [TITLE]: libvirt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvirt-bin)
+include(libvirt-config)
+include(libvirt-data)
+include(libvirt-dbus)
+include(libvirt-lib)
+include(libvirt-libexec)
+include(libvirt-license)
+include(libvirt-locales)
+include(libvirt-man)
+include(libvirt-services)
+include(polkit)
+include(qemu-setuid)
+libvirt

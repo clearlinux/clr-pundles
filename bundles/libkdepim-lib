@@ -1,0 +1,14 @@
+# [TITLE]: libkdepim-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ki18n-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libkdepim-data)
+include(libkdepim-license)
+include(libstdc++)
+include(qt6base-lib)
+libkdepim-lib

@@ -1,0 +1,8 @@
+# [TITLE]: gnome-settings-daemon-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+gnome-settings-daemon-services

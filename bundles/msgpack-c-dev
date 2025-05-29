@@ -1,0 +1,10 @@
+# [TITLE]: msgpack-c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(msgpack-c)
+include(msgpack-c-lib)
+include(pkg-config-bin)
+msgpack-c-dev

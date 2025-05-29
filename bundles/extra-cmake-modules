@@ -1,0 +1,9 @@
+# [TITLE]: extra-cmake-modules
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(extra-cmake-modules-data)
+include(extra-cmake-modules-license)
+extra-cmake-modules

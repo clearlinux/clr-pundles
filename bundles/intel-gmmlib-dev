@@ -1,0 +1,10 @@
+# [TITLE]: intel-gmmlib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intel-gmmlib)
+include(intel-gmmlib-lib)
+include(pkg-config-bin)
+intel-gmmlib-dev

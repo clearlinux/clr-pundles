@@ -1,0 +1,25 @@
+# [TITLE]: gdb-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost-extras)
+include(compat-babeltrace-one-lib)
+include(coreutils-bin)
+include(expat-lib)
+include(filesystem)
+include(gdb-data)
+include(gdb-license)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mpfr-lib)
+include(ncurses-lib)
+include(processor-trace-lib)
+include(python3-lib)
+include(source-highlight-lib)
+include(zlib-lib)
+include(zstd-lib)
+gdb-bin

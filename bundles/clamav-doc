@@ -1,0 +1,8 @@
+# [TITLE]: clamav-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clamav-man)
+clamav-doc

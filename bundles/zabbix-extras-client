@@ -1,0 +1,11 @@
+# [TITLE]: zabbix-extras-client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(pcre-lib)
+include(zlib-lib)
+zabbix-extras-client

@@ -1,0 +1,9 @@
+# [TITLE]: gnu-efi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnu-efi)
+include(pkg-config-bin)
+gnu-efi-dev

@@ -1,0 +1,17 @@
+# [TITLE]: rest-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(json-glib-dev)
+include(libsoup-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+include(rest)
+include(rest-bin)
+include(rest-data)
+include(rest-dev)
+include(rest-lib)
+rest-dev

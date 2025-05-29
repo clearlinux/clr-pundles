@@ -1,0 +1,8 @@
+# [TITLE]: geocode-glib-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geocode-glib)
+geocode-glib-tests

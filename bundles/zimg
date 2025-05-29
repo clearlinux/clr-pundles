@@ -1,0 +1,9 @@
+# [TITLE]: zimg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zimg-lib)
+include(zimg-license)
+zimg

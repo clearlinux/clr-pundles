@@ -1,0 +1,12 @@
+# [TITLE]: libpagemaker-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libpagemaker-license)
+include(librevenge-lib)
+include(libstdc++)
+libpagemaker-lib

@@ -1,0 +1,17 @@
+# [TITLE]: frameworkintegration-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(frameworkintegration-data)
+include(frameworkintegration-license)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kiconthemes-lib)
+include(knotifications-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+frameworkintegration-lib

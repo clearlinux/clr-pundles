@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-grpc-dev
+include(grpc-dev)
 include(libstdcpp)
 include(protobuf-lib)

@@ -1,0 +1,14 @@
+# [TITLE]: v4l-utils-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libjpeg-turbo-dev)
+include(pkg-config-bin)
+include(systemd-dev)
+include(v4l-utils-bin)
+include(v4l-utils-data)
+include(v4l-utils-dev)
+include(v4l-utils-lib32)
+v4l-utils-dev32

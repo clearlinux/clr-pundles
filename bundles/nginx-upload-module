@@ -1,0 +1,8 @@
+# [TITLE]: nginx-upload-module
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nginx-upload-module-lib)
+nginx-upload-module

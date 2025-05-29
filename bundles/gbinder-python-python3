@@ -1,0 +1,10 @@
+# [TITLE]: gbinder-python-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgbinder-lib)
+include(python3-core)
+gbinder-python-python3

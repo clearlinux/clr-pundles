@@ -1,0 +1,16 @@
+# [TITLE]: avahi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi)
+include(avahi-bin)
+include(avahi-data)
+include(avahi-dev)
+include(avahi-extras)
+include(avahi-lib)
+include(glib-dev)
+include(libevent-dev)
+include(qtbase-dev)
+avahi-dev

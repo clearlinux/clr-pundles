@@ -1,0 +1,10 @@
+# [TITLE]: purpose-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(purpose)
+include(purpose-data)
+include(purpose-lib)
+purpose-dev

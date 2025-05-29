@@ -1,0 +1,8 @@
+# [TITLE]: cpuloadgen-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cpuloadgen-license)
+cpuloadgen-bin

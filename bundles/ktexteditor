@@ -1,0 +1,16 @@
+# [TITLE]: ktexteditor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(ktexteditor-bin)
+include(ktexteditor-data)
+include(ktexteditor-lib)
+include(ktexteditor-license)
+include(ktexteditor-locales)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+ktexteditor

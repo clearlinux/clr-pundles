@@ -1,0 +1,12 @@
+# [TITLE]: libfreehand-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfreehand)
+include(libfreehand-bin)
+include(libfreehand-lib)
+include(librevenge-dev)
+include(zlib-dev)
+libfreehand-dev

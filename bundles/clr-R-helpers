@@ -1,0 +1,8 @@
+# [TITLE]: clr-R-helpers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(buildreq-R)
+clr-R-helpers

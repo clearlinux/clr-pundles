@@ -1,0 +1,13 @@
+# [TITLE]: libsolv-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsolv)
+include(libsolv-bin)
+include(libsolv-data)
+include(libsolv-dev)
+include(libsolv-lib)
+include(pkg-config-bin)
+libsolv-dev

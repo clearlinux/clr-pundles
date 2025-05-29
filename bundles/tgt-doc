@@ -1,0 +1,8 @@
+# [TITLE]: tgt-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tgt-man)
+tgt-doc

@@ -1,0 +1,11 @@
+# [TITLE]: openpace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openpace-bin)
+include(openpace-lib)
+include(openpace-license)
+include(openpace-man)
+openpace

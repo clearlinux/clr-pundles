@@ -1,0 +1,11 @@
+# [TITLE]: minizip-ng-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(minizip-ng)
+include(minizip-ng-lib)
+include(pkg-config-bin)
+include(zlib-dev)
+minizip-ng-dev

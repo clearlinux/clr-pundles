@@ -1,0 +1,9 @@
+# [TITLE]: libsass-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsass)
+include(libsass-lib)
+libsass-dev

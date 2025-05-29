@@ -1,0 +1,13 @@
+# [TITLE]: oath-toolkit-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(oath-toolkit-data)
+include(oath-toolkit-license)
+include(xmlsec1-lib)
+oath-toolkit-lib

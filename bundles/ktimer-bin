@@ -1,0 +1,21 @@
+# [TITLE]: ktimer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kstatusnotifieritem-lib)
+include(ktimer-data)
+include(ktimer-license)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+ktimer-bin

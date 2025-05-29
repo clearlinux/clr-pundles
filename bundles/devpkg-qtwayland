@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtwayland-dev
+include(qtwayland-dev)
 include(lib-opengl)
 include(qt-core)
 include(qt-basic)

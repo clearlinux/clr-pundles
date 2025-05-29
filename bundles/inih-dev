@@ -1,0 +1,11 @@
+# [TITLE]: inih-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inih)
+include(inih-dev)
+include(inih-lib)
+include(pkg-config-bin)
+inih-dev

@@ -1,0 +1,12 @@
+# [TITLE]: kiconthemes-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kiconthemes-data)
+include(kiconthemes-lib)
+include(kiconthemes-license)
+include(libc6)
+include(qt6base-lib)
+kiconthemes-bin

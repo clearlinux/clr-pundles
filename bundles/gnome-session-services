@@ -1,0 +1,8 @@
+# [TITLE]: gnome-session-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+gnome-session-services

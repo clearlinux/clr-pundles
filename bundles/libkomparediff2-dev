@@ -1,0 +1,10 @@
+# [TITLE]: libkomparediff2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkomparediff2)
+include(libkomparediff2-data)
+include(libkomparediff2-lib)
+libkomparediff2-dev

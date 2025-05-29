@@ -1,0 +1,31 @@
+# [TITLE]: gimp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-glib-lib)
+include(babl-lib)
+include(cairo-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(gdk-pixbuf-lib)
+include(gegl-lib)
+include(gexiv2-lib)
+include(gimp-data)
+include(gimp-lib)
+include(gimp-libexec)
+include(gimp-license)
+include(glib-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(json-glib-lib)
+include(lcms2-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libmypaint-lib)
+include(libunwind-lib)
+include(pango-lib)
+include(zlib-lib)
+gimp-bin

@@ -1,0 +1,15 @@
+# [TITLE]: exiv2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-lib)
+include(exiv2-license)
+include(expat-lib)
+include(inih-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(zlib-lib)
+exiv2-lib

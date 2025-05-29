@@ -1,0 +1,10 @@
+# [TITLE]: dracut-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dracut-data)
+include(dracut-license)
+include(filesystem)
+dracut-bin

@@ -1,0 +1,10 @@
+# [TITLE]: glslang
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glslang-bin)
+include(glslang-lib)
+include(glslang-license)
+glslang

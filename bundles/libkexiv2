@@ -1,0 +1,10 @@
+# [TITLE]: libkexiv2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkexiv2-data)
+include(libkexiv2-lib)
+include(libkexiv2-license)
+libkexiv2

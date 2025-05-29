@@ -1,0 +1,11 @@
+# [TITLE]: akonadi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi)
+include(akonadi-bin)
+include(akonadi-data)
+include(akonadi-lib)
+akonadi-dev

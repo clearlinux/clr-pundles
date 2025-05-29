@@ -1,0 +1,11 @@
+# [TITLE]: kanagram
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kanagram-bin)
+include(kanagram-data)
+include(kanagram-license)
+include(kanagram-locales)
+kanagram

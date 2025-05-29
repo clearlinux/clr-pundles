@@ -1,0 +1,10 @@
+# [TITLE]: xwininfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xwininfo-bin)
+include(xwininfo-license)
+include(xwininfo-man)
+xwininfo

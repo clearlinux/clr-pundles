@@ -1,0 +1,12 @@
+# [TITLE]: xfce4-terminal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfce4-terminal-bin)
+include(xfce4-terminal-data)
+include(xfce4-terminal-license)
+include(xfce4-terminal-locales)
+include(xfce4-terminal-man)
+xfce4-terminal

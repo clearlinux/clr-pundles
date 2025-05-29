@@ -1,0 +1,9 @@
+# [TITLE]: SDL_gfx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL_gfx-lib)
+include(SDL_gfx-license)
+SDL_gfx

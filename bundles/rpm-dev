@@ -1,0 +1,13 @@
+# [TITLE]: rpm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(popt-dev)
+include(rpm)
+include(rpm-bin)
+include(rpm-lib)
+include(zstd-dev)
+rpm-dev

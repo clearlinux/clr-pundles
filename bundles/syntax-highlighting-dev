@@ -1,0 +1,11 @@
+# [TITLE]: syntax-highlighting-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(syntax-highlighting)
+include(syntax-highlighting-bin)
+include(syntax-highlighting-data)
+include(syntax-highlighting-lib)
+syntax-highlighting-dev

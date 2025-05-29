@@ -1,0 +1,11 @@
+# [TITLE]: ibus-table-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(ibus-table-data)
+include(ibus-table-libexec)
+include(ibus-table-license)
+ibus-table-bin

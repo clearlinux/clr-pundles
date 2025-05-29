@@ -1,0 +1,10 @@
+# [TITLE]: libsamplerate-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsamplerate-dev)
+include(libsamplerate-lib32)
+include(pkg-config-bin)
+libsamplerate-dev32

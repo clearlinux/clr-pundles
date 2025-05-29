@@ -1,0 +1,8 @@
+# [TITLE]: gpsd-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpsd-python3)
+gpsd-python

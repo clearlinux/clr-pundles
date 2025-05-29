@@ -1,0 +1,11 @@
+# [TITLE]: kdsoap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdsoap-bin)
+include(kdsoap-data)
+include(kdsoap-lib)
+include(kdsoap-license)
+kdsoap

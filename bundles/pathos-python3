@@ -1,0 +1,12 @@
+# [TITLE]: pathos-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(multiprocess-python3)
+include(pox-python3)
+include(ppft-python3)
+include(pypi-dill-python3)
+include(python3-core)
+pathos-python3

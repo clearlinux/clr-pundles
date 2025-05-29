@@ -1,0 +1,9 @@
+# [TITLE]: minizip-ng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(minizip-ng-lib)
+include(minizip-ng-license)
+minizip-ng

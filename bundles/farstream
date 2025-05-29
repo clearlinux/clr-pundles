@@ -1,0 +1,10 @@
+# [TITLE]: farstream
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(farstream-data)
+include(farstream-lib)
+include(farstream-license)
+farstream

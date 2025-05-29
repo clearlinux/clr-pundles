@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gnome-control-center-dev
+include(gnome-control-center-dev)
 include(libglib)
 include(libX11client)
 include(gnome-base-libs)

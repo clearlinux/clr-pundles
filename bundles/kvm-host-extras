@@ -6,4 +6,4 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(kvm-host)
 include(python3-basic)
-libvirt-python
+include(libvirt-python)

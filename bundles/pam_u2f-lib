@@ -1,0 +1,12 @@
+# [TITLE]: pam_u2f-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libc6)
+include(libfido2-lib)
+include(openssl-lib)
+include(pam_u2f-license)
+pam_u2f-lib

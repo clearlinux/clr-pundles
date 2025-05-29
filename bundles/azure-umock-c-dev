@@ -1,0 +1,8 @@
+# [TITLE]: azure-umock-c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(azure-umock-c)
+azure-umock-c-dev

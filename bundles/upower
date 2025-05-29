@@ -1,0 +1,15 @@
+# [TITLE]: upower
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(upower-bin)
+include(upower-config)
+include(upower-data)
+include(upower-lib)
+include(upower-libexec)
+include(upower-license)
+include(upower-locales)
+include(upower-services)
+upower

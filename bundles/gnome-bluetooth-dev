@@ -1,0 +1,15 @@
+# [TITLE]: gnome-bluetooth-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnome-bluetooth)
+include(gnome-bluetooth-bin)
+include(gnome-bluetooth-data)
+include(gnome-bluetooth-lib)
+include(gtk4-dev)
+include(libadwaita-dev)
+include(pkg-config-bin)
+gnome-bluetooth-dev

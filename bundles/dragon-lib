@@ -1,0 +1,21 @@
+# [TITLE]: dragon-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dragon-data)
+include(dragon-license)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kparts-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(phonon-lib)
+include(qt6base-lib)
+include(solid-lib)
+dragon-lib

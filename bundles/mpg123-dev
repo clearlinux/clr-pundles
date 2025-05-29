@@ -1,0 +1,11 @@
+# [TITLE]: mpg123-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpg123)
+include(mpg123-bin)
+include(mpg123-lib)
+include(pkg-config-bin)
+mpg123-dev

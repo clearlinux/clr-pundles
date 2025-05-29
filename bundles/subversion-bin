@@ -1,0 +1,12 @@
+# [TITLE]: subversion-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-lib)
+include(apr-util-lib)
+include(libc6)
+include(subversion-lib)
+include(subversion-license)
+subversion-bin

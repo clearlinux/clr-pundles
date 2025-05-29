@@ -1,0 +1,11 @@
+# [TITLE]: kblocks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kblocks-bin)
+include(kblocks-data)
+include(kblocks-license)
+include(kblocks-locales)
+kblocks

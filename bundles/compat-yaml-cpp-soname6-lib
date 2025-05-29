@@ -1,0 +1,11 @@
+# [TITLE]: compat-yaml-cpp-soname6-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-yaml-cpp-soname6-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+compat-yaml-cpp-soname6-lib

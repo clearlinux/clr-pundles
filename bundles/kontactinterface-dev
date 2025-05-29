@@ -1,0 +1,10 @@
+# [TITLE]: kontactinterface-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kontactinterface)
+include(kontactinterface-data)
+include(kontactinterface-lib)
+kontactinterface-dev

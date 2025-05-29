@@ -1,0 +1,14 @@
+# [TITLE]: mediasdk-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libstdc++)
+include(libva-lib)
+include(mediasdk-lib)
+include(wayland-lib)
+mediasdk-extras

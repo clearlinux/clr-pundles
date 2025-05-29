@@ -1,0 +1,11 @@
+# [TITLE]: ktextaddons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktextaddons-data)
+include(ktextaddons-lib)
+include(ktextaddons-license)
+include(ktextaddons-locales)
+ktextaddons

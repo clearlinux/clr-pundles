@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libsmbios-dev
+include(libsmbios-dev)
 include(python3-basic)

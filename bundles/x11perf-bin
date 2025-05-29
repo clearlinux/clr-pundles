@@ -1,0 +1,13 @@
+# [TITLE]: x11perf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libX11-lib)
+include(libXft-lib)
+include(libXmu-lib)
+include(libc6)
+include(x11perf-license)
+x11perf-bin

@@ -1,0 +1,11 @@
+# [TITLE]: ktexteditor-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktexteditor)
+include(ktexteditor-bin)
+include(ktexteditor-data)
+include(ktexteditor-lib)
+ktexteditor-dev

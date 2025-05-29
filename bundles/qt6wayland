@@ -1,0 +1,10 @@
+# [TITLE]: qt6wayland
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6wayland-lib)
+include(qt6wayland-libexec)
+include(qt6wayland-license)
+qt6wayland

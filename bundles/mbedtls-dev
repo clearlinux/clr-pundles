@@ -1,0 +1,12 @@
+# [TITLE]: mbedtls-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mbedtls)
+include(mbedtls-bin)
+include(mbedtls-dev)
+include(mbedtls-lib)
+include(pkg-config-bin)
+mbedtls-dev

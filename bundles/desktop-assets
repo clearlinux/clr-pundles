@@ -8,24 +8,24 @@ include(desktop-gnomelibs)
 include(fonts-basic)
 
 # Shared styling assets (intended for all supported styles)
-clr-wallpapers
+include(clr-wallpapers)
 
 # Base fonts
-cantarell-fonts
-clear-font
-liberation-fonts
-noto-cjk
-noto-emoji
-powerline-fonts
-source-code-pro
-terminus-font
-adwaita-fonts
+include(cantarell-fonts)
+include(clear-font)
+include(liberation-fonts)
+include(noto-cjk)
+include(noto-emoji)
+include(powerline-fonts)
+include(source-code-pro)
+include(terminus-font)
+include(adwaita-fonts)
 
 # GNOME Platform assets (common)
-adwaita-icon-theme
-gnome-backgrounds
-gnome-icon-theme
-gnome-themes-extra
-hicolor-icon-theme
-sound-theme-freedesktop
-xcursor-themes
+include(adwaita-icon-theme)
+include(gnome-backgrounds)
+include(gnome-icon-theme)
+include(gnome-themes-extra)
+include(hicolor-icon-theme)
+include(sound-theme-freedesktop)
+include(xcursor-themes)

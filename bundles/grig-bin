@@ -1,0 +1,15 @@
+# [TITLE]: grig-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(grig-data)
+include(grig-license)
+include(gtk+-lib)
+include(hamlib-lib)
+include(libc6)
+include(pango-lib)
+grig-bin

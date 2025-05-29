@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libjcat-dev
+include(libjcat-dev)
 include(libglib)
 include(qt-core)
 include(icu4c-lib)

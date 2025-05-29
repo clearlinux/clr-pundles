@@ -1,0 +1,12 @@
+# [TITLE]: compat-atkmm-soname16-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-dev)
+include(compat-atkmm-soname16)
+include(compat-atkmm-soname16-data)
+include(compat-atkmm-soname16-lib)
+include(compat-glibmm-soname24-dev)
+compat-atkmm-soname16-dev

@@ -1,0 +1,22 @@
+# [TITLE]: gitg-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gitg-data)
+include(gitg-lib)
+include(gitg-license)
+include(glib-lib)
+include(gobject-introspection-lib)
+include(gspell-lib)
+include(gtk3-lib)
+include(gtksourceview4-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgee-lib)
+include(libgit2-glib-lib)
+include(libhandy-lib)
+include(libpeas-lib)
+include(pango-lib)
+gitg-bin

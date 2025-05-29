@@ -1,0 +1,11 @@
+# [TITLE]: sof-bin-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(coreutils-bin)
+include(libc6)
+include(sof-bin-license)
+sof-bin-bin

@@ -1,0 +1,28 @@
+# [TITLE]: kwalletmanager-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcodecs-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(kservice-lib)
+include(kstatusnotifieritem-lib)
+include(kwallet-lib)
+include(kwalletmanager-data)
+include(kwalletmanager-license)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kwalletmanager-bin

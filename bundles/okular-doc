@@ -1,0 +1,8 @@
+# [TITLE]: okular-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(okular-man)
+okular-doc

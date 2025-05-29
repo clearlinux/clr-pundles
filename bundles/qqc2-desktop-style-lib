@@ -1,0 +1,17 @@
+# [TITLE]: qqc2-desktop-style-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kiconthemes-lib)
+include(kirigami-lib)
+include(libc6)
+include(libstdc++)
+include(qqc2-desktop-style-data)
+include(qqc2-desktop-style-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+qqc2-desktop-style-lib

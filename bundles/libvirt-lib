@@ -1,0 +1,33 @@
+# [TITLE]: libvirt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(acl-lib)
+include(audit-lib)
+include(curl-lib)
+include(fuse-lib)
+include(glib-lib)
+include(gnutls-lib)
+include(json-c-lib)
+include(libbsd-lib)
+include(libc6)
+include(libcap-ng-lib)
+include(libgcc1)
+include(libiscsi-lib)
+include(libnl-lib)
+include(libpcap-lib)
+include(libpciaccess-lib)
+include(libssh-lib)
+include(libssh2-lib)
+include(libtirpc-lib)
+include(libvirt-data)
+include(libvirt-libexec)
+include(libvirt-license)
+include(libxml2-lib)
+include(numactl-lib)
+include(systemd-lib)
+include(util-linux-lib)
+libvirt-lib

@@ -1,0 +1,12 @@
+# [TITLE]: wol
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wol-bin)
+include(wol-info)
+include(wol-license)
+include(wol-locales)
+include(wol-man)
+wol

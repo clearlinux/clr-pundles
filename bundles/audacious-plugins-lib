@@ -1,0 +1,41 @@
+# [TITLE]: audacious-plugins-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-lib)
+include(alsa-lib-lib)
+include(audacious-lib)
+include(audacious-plugins-data)
+include(audacious-plugins-license)
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(curl-lib)
+include(flac-lib)
+include(fluidsynth-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(jack2-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libmodplug-lib)
+include(libnotify-lib)
+include(libogg-lib)
+include(libsamplerate-lib)
+include(libsndfile-lib)
+include(libstdc++)
+include(libvorbis-lib)
+include(mpg123-lib)
+include(opusfile-lib)
+include(pango-lib)
+include(pipewire-lib)
+include(pulseaudio-lib)
+include(qt6base-lib)
+include(wavpack-lib)
+include(zlib-lib)
+audacious-plugins-lib

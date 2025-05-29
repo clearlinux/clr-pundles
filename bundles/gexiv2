@@ -1,0 +1,12 @@
+# [TITLE]: gexiv2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gexiv2-data)
+include(gexiv2-lib)
+include(gexiv2-license)
+include(gexiv2-python)
+include(gexiv2-python3)
+gexiv2

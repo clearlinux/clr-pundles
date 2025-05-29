@@ -1,0 +1,9 @@
+# [TITLE]: eigen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(eigen-data)
+include(eigen-license)
+eigen

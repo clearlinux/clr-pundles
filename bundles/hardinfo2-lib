@@ -1,0 +1,11 @@
+# [TITLE]: hardinfo2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(hardinfo2-data)
+include(json-glib-lib)
+include(libc6)
+hardinfo2-lib

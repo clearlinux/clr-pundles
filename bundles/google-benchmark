@@ -1,0 +1,9 @@
+# [TITLE]: google-benchmark
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(google-benchmark-lib)
+include(google-benchmark-license)
+google-benchmark

@@ -1,0 +1,11 @@
+# [TITLE]: gnome-calendar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-calendar-bin)
+include(gnome-calendar-data)
+include(gnome-calendar-license)
+include(gnome-calendar-locales)
+gnome-calendar

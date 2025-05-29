@@ -1,0 +1,11 @@
+# [TITLE]: qt6networkauth-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6networkauth)
+include(qt6networkauth-lib)
+qt6networkauth-dev

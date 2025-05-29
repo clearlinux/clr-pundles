@@ -1,0 +1,10 @@
+# [TITLE]: pyecobee
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pyecobee-license)
+include(pyecobee-python)
+include(pyecobee-python3)
+pyecobee

@@ -1,0 +1,9 @@
+# [TITLE]: qtx11extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtx11extras-lib)
+include(qtx11extras-license)
+qtx11extras

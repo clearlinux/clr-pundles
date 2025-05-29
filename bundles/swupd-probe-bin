@@ -1,0 +1,10 @@
+# [TITLE]: swupd-probe-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(swupd-probe-license)
+include(swupd-probe-services)
+swupd-probe-bin

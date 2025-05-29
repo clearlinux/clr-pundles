@@ -1,0 +1,13 @@
+# [TITLE]: libgtop-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libgtop-data)
+include(libgtop-libexec)
+include(libgtop-license)
+libgtop-lib

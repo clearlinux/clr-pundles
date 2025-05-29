@@ -1,0 +1,10 @@
+# [TITLE]: LPCNet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LPCNet-lib)
+include(LPCNet-license)
+include(libc6)
+LPCNet-bin

@@ -1,0 +1,13 @@
+# [TITLE]: xfce4-screensaver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfce4-screensaver-bin)
+include(xfce4-screensaver-data)
+include(xfce4-screensaver-libexec)
+include(xfce4-screensaver-license)
+include(xfce4-screensaver-locales)
+include(xfce4-screensaver-man)
+xfce4-screensaver

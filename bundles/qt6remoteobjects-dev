@@ -1,0 +1,11 @@
+# [TITLE]: qt6remoteobjects-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6remoteobjects)
+include(qt6remoteobjects-lib)
+qt6remoteobjects-dev

@@ -1,0 +1,10 @@
+# [TITLE]: colm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colm-bin)
+include(colm-data)
+include(colm-license)
+colm

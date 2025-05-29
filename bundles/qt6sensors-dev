@@ -1,0 +1,11 @@
+# [TITLE]: qt6sensors-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6sensors)
+include(qt6sensors-lib)
+qt6sensors-dev

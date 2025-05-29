@@ -1,0 +1,8 @@
+# [TITLE]: docker-cli
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+docker-cli

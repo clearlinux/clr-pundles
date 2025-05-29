@@ -1,0 +1,22 @@
+# [TITLE]: kaccounts-integration-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kaccounts-integration-data)
+include(kaccounts-integration-license)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kwallet-lib)
+include(libaccounts-qt-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(signond-lib)
+kaccounts-integration-lib

@@ -1,0 +1,8 @@
+# [TITLE]: kate-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kate-man)
+kate-doc

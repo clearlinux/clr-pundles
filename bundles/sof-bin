@@ -1,0 +1,9 @@
+# [TITLE]: sof-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sof-bin-bin)
+include(sof-bin-license)
+sof-bin

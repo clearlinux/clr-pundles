@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtdatavis3d-dev
+include(qtdatavis3d-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

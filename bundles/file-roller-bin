@@ -1,0 +1,18 @@
+# [TITLE]: file-roller-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(file-roller-data)
+include(file-roller-libexec)
+include(file-roller-license)
+include(glib-lib)
+include(gtk4-lib)
+include(json-glib-lib)
+include(libadwaita-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(pango-lib)
+file-roller-bin

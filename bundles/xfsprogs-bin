@@ -1,0 +1,20 @@
+# [TITLE]: xfsprogs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(filesystem)
+include(icu4c-lib)
+include(inih-lib)
+include(libc6)
+include(python3-core)
+include(userspace-rcu-lib)
+include(util-linux-lib)
+include(xfsprogs-config)
+include(xfsprogs-data)
+include(xfsprogs-libexec)
+include(xfsprogs-license)
+include(xfsprogs-services)
+xfsprogs-bin

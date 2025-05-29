@@ -1,0 +1,9 @@
+# [TITLE]: glew
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glew-lib)
+include(glew-license)
+glew

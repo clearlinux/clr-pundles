@@ -1,0 +1,12 @@
+# [TITLE]: libcdio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcdio)
+include(libcdio-bin)
+include(libcdio-dev)
+include(libcdio-lib)
+include(pkg-config-bin)
+libcdio-dev

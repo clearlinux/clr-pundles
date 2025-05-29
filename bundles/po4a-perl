@@ -1,0 +1,9 @@
+# [TITLE]: po4a-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Syntax-Keyword-Try-perl)
+include(po4a)
+po4a-perl

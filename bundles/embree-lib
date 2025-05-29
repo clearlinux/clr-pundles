@@ -1,0 +1,13 @@
+# [TITLE]: embree-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(embree-libexec)
+include(embree-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(tbb-lib)
+embree-lib

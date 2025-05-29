@@ -1,0 +1,22 @@
+# [TITLE]: gdm-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(accountsservice-lib)
+include(audit-lib)
+include(filesystem)
+include(gdk-pixbuf-lib)
+include(gdm-config)
+include(gdm-lib)
+include(gdm-license)
+include(glib-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+gdm-libexec

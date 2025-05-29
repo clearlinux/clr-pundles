@@ -1,0 +1,10 @@
+# [TITLE]: krunner-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krunner)
+include(krunner-data)
+include(krunner-lib)
+krunner-dev

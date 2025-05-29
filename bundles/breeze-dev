@@ -1,0 +1,11 @@
+# [TITLE]: breeze-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(breeze)
+include(breeze-bin)
+include(breeze-data)
+include(breeze-lib)
+breeze-dev

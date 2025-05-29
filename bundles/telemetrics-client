@@ -1,0 +1,13 @@
+# [TITLE]: telemetrics-client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(telemetrics-client-bin)
+include(telemetrics-client-config)
+include(telemetrics-client-data)
+include(telemetrics-client-lib)
+include(telemetrics-client-license)
+include(telemetrics-client-man)
+telemetrics-client

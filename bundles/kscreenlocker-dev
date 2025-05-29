@@ -1,0 +1,10 @@
+# [TITLE]: kscreenlocker-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kscreenlocker)
+include(kscreenlocker-data)
+include(kscreenlocker-lib)
+kscreenlocker-dev

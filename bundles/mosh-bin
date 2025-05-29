@@ -1,0 +1,17 @@
+# [TITLE]: mosh-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mosh-license)
+include(ncurses-lib)
+include(openssl-lib)
+include(protobuf-lib)
+include(zlib-lib)
+mosh-bin

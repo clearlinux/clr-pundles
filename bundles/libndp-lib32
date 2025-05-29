@@ -1,0 +1,9 @@
+# [TITLE]: libndp-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libndp-license)
+libndp-lib32

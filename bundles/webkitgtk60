@@ -1,0 +1,15 @@
+# [TITLE]: webkitgtk60
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bubblewrap)
+include(webkitgtk60-bin)
+include(webkitgtk60-data)
+include(webkitgtk60-lib)
+include(webkitgtk60-libexec)
+include(webkitgtk60-license)
+include(webkitgtk60-locales)
+include(xdg-dbus-proxy)
+webkitgtk60

@@ -1,0 +1,10 @@
+# [TITLE]: xfontsel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfontsel-bin)
+include(xfontsel-data)
+include(xfontsel-man)
+xfontsel

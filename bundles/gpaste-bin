@@ -1,0 +1,15 @@
+# [TITLE]: gpaste-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gpaste-data)
+include(gpaste-lib)
+include(gpaste-libexec)
+include(gpaste-license)
+include(gpaste-services)
+include(libc6)
+include(libgcc1)
+gpaste-bin

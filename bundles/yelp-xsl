@@ -1,0 +1,9 @@
+# [TITLE]: yelp-xsl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yelp-xsl-data)
+include(yelp-xsl-license)
+yelp-xsl

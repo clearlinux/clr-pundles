@@ -1,0 +1,18 @@
+# [TITLE]: FreeRDP2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP2-license)
+include(alsa-lib-lib)
+include(cups-lib)
+include(libX11-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libusb-lib)
+include(libxkbfile-lib)
+include(openssl-lib)
+include(pulseaudio-lib)
+include(systemd-extras-libsystemd)
+FreeRDP2-lib

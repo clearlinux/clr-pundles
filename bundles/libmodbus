@@ -1,0 +1,9 @@
+# [TITLE]: libmodbus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmodbus-lib)
+include(libmodbus-license)
+libmodbus

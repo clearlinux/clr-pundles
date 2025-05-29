@@ -1,0 +1,9 @@
+# [TITLE]: qtimageformats
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtimageformats-lib)
+include(qtimageformats-license)
+qtimageformats

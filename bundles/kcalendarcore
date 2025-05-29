@@ -1,0 +1,10 @@
+# [TITLE]: kcalendarcore
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcalendarcore-data)
+include(kcalendarcore-lib)
+include(kcalendarcore-license)
+kcalendarcore

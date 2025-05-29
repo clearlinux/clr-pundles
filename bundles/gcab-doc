@@ -1,0 +1,8 @@
+# [TITLE]: gcab-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcab-man)
+gcab-doc

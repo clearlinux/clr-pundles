@@ -1,0 +1,14 @@
+# [TITLE]: gnuplot-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnuplot-license)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6svg-lib)
+gnuplot-libexec

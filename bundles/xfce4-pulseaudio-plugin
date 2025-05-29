@@ -1,0 +1,11 @@
+# [TITLE]: xfce4-pulseaudio-plugin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfce4-pulseaudio-plugin-data)
+include(xfce4-pulseaudio-plugin-lib)
+include(xfce4-pulseaudio-plugin-license)
+include(xfce4-pulseaudio-plugin-locales)
+xfce4-pulseaudio-plugin

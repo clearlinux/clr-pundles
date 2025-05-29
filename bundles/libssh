@@ -1,0 +1,9 @@
+# [TITLE]: libssh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libssh-lib)
+include(libssh-license)
+libssh

@@ -1,0 +1,10 @@
+# [TITLE]: rtkit-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libc6)
+include(rtkit)
+rtkit-tests

@@ -1,0 +1,11 @@
+# [TITLE]: serf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openssl-dev)
+include(pkg-config-bin)
+include(serf)
+include(serf-lib)
+serf-dev

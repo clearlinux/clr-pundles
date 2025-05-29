@@ -1,0 +1,12 @@
+# [TITLE]: xrdp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xrdp)
+include(xrdp-bin)
+include(xrdp-data)
+include(xrdp-lib)
+xrdp-dev

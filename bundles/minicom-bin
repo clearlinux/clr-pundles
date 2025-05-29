@@ -1,0 +1,11 @@
+# [TITLE]: minicom-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(minicom-license)
+include(ncurses-lib)
+minicom-bin

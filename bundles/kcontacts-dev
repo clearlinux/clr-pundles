@@ -1,0 +1,10 @@
+# [TITLE]: kcontacts-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcontacts)
+include(kcontacts-data)
+include(kcontacts-lib)
+kcontacts-dev

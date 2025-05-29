@@ -1,0 +1,10 @@
+# [TITLE]: gst-plugins-ugly
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gst-plugins-ugly-lib)
+include(gst-plugins-ugly-license)
+include(gst-plugins-ugly-locales)
+gst-plugins-ugly

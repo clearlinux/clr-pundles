@@ -1,0 +1,15 @@
+# [TITLE]: kwayland-server-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwayland-server-data)
+include(kwayland-server-license)
+include(libc6)
+include(libglvnd-lib)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(wayland-lib)
+kwayland-server-lib

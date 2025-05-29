@@ -1,0 +1,9 @@
+# [TITLE]: qt6speech
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6speech-lib)
+include(qt6speech-license)
+qt6speech

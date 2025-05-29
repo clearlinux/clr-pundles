@@ -1,0 +1,10 @@
+# [TITLE]: newt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(newt-license)
+include(slang-lib)
+newt-lib

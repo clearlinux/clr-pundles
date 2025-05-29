@@ -1,0 +1,9 @@
+# [TITLE]: libkcapi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkcapi-lib)
+include(libkcapi-license)
+libkcapi

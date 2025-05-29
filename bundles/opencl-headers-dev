@@ -1,0 +1,10 @@
+# [TITLE]: opencl-headers-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opencl-headers)
+include(opencl-headers-data)
+include(pkg-config-bin)
+opencl-headers-dev

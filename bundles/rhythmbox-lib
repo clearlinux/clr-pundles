@@ -1,0 +1,31 @@
+# [TITLE]: rhythmbox-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gobject-introspection-lib)
+include(grilo-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgudev-lib)
+include(libmtp-lib)
+include(libnotify-lib)
+include(libpeas-lib)
+include(libsoup-lib)
+include(pango-lib)
+include(rhythmbox-data)
+include(rhythmbox-libexec)
+include(rhythmbox-license)
+include(tdb-lib)
+include(totem-pl-parser-lib)
+rhythmbox-lib

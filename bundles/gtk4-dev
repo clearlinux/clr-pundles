@@ -1,0 +1,21 @@
+# [TITLE]: gtk4-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-dev)
+include(cairo-dev)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(graphene-dev)
+include(gtk4)
+include(gtk4-bin)
+include(gtk4-data)
+include(gtk4-dev)
+include(gtk4-lib)
+include(libX11-dev)
+include(pango-dev)
+include(pkg-config-bin)
+include(wayland-dev)
+gtk4-dev

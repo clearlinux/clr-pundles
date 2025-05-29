@@ -1,0 +1,9 @@
+# [TITLE]: noto-fonts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(noto-fonts-data)
+include(noto-fonts-license)
+noto-fonts

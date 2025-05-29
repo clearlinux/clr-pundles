@@ -1,0 +1,11 @@
+# [TITLE]: waffle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(waffle-bin)
+include(waffle-data)
+include(waffle-lib)
+include(waffle-license)
+waffle

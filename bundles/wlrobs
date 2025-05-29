@@ -1,0 +1,9 @@
+# [TITLE]: wlrobs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wlrobs-lib)
+include(wlrobs-license)
+wlrobs

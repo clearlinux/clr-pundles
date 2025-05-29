@@ -1,0 +1,9 @@
+# [TITLE]: qtsvg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtsvg-lib)
+include(qtsvg-license)
+qtsvg

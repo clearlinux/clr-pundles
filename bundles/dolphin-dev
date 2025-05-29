@@ -1,0 +1,11 @@
+# [TITLE]: dolphin-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dolphin)
+include(dolphin-bin)
+include(dolphin-data)
+include(dolphin-lib)
+dolphin-dev

@@ -1,0 +1,11 @@
+# [TITLE]: liboauth-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+include(liboauth)
+include(liboauth-lib)
+include(openssl-dev)
+liboauth-dev

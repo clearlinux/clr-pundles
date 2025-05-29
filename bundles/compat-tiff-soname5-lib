@@ -1,0 +1,15 @@
+# [TITLE]: compat-tiff-soname5-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-tiff-soname5-license)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+compat-tiff-soname5-lib

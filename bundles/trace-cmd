@@ -1,0 +1,12 @@
+# [TITLE]: trace-cmd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(trace-cmd-bin)
+include(trace-cmd-data)
+include(trace-cmd-license)
+include(trace-cmd-python)
+include(trace-cmd-python3)
+trace-cmd

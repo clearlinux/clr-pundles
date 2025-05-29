@@ -1,0 +1,14 @@
+# [TITLE]: oneVPL-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libstdc++)
+include(oneVPL-data)
+include(oneVPL-license)
+include(wayland-lib)
+oneVPL-lib

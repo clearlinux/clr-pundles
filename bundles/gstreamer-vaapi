@@ -1,0 +1,9 @@
+# [TITLE]: gstreamer-vaapi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gstreamer-vaapi-lib)
+include(gstreamer-vaapi-license)
+gstreamer-vaapi

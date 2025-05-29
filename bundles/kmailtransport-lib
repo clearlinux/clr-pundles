@@ -1,0 +1,22 @@
+# [TITLE]: kmailtransport-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kmailtransport-data)
+include(kmailtransport-license)
+include(ksmtp-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libkgapi-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qtkeychain-lib)
+kmailtransport-lib

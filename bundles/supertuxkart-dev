@@ -1,0 +1,11 @@
+# [TITLE]: supertuxkart-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(supertuxkart)
+include(supertuxkart-bin)
+include(supertuxkart-data)
+include(supertuxkart-lib)
+supertuxkart-dev

@@ -1,0 +1,12 @@
+# [TITLE]: xss-lock-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(xss-lock-data)
+include(xss-lock-license)
+xss-lock-bin

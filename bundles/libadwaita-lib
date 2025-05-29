@@ -1,0 +1,16 @@
+# [TITLE]: libadwaita-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-lib)
+include(fribidi-lib)
+include(glib-lib)
+include(graphene-lib)
+include(gtk4-lib)
+include(libadwaita-data)
+include(libadwaita-license)
+include(libc6)
+include(pango-lib)
+libadwaita-lib

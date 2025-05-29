@@ -1,0 +1,11 @@
+# [TITLE]: opensm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(opensm-license)
+include(rdma-core-lib)
+opensm-lib

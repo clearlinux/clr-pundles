@@ -1,0 +1,10 @@
+# [TITLE]: nginx-mainline-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nginx-mainline-data)
+include(nginx-mainline-license)
+nginx-mainline-lib

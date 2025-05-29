@@ -1,0 +1,8 @@
+# [TITLE]: testdisk-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(testdisk-man)
+testdisk-doc

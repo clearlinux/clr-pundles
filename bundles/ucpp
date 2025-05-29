@@ -1,0 +1,8 @@
+# [TITLE]: ucpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ucpp-bin)
+ucpp

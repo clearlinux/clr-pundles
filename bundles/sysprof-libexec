@@ -1,0 +1,13 @@
+# [TITLE]: sysprof-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(polkit-lib)
+include(sysprof-license)
+sysprof-libexec

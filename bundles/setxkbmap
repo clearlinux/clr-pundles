@@ -1,0 +1,10 @@
+# [TITLE]: setxkbmap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(setxkbmap-bin)
+include(setxkbmap-license)
+include(setxkbmap-man)
+setxkbmap

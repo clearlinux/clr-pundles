@@ -1,0 +1,10 @@
+# [TITLE]: ocamlbuild-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ocaml-bin)
+include(ocamlbuild-license)
+ocamlbuild-bin

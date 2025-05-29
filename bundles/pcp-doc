@@ -1,0 +1,8 @@
+# [TITLE]: pcp-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcp-man)
+pcp-doc

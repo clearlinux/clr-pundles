@@ -1,0 +1,10 @@
+# [TITLE]: deap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(deap-license)
+include(deap-python)
+include(deap-python3)
+deap

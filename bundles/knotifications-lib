@@ -1,0 +1,15 @@
+# [TITLE]: knotifications-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(knotifications-data)
+include(knotifications-license)
+include(libc6)
+include(libcanberra-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+knotifications-lib

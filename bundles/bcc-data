@@ -1,0 +1,13 @@
+# [TITLE]: bcc-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(elfutils-lib)
+include(filesystem)
+include(libc6)
+include(python3-core)
+include(zlib-lib)
+bcc-data

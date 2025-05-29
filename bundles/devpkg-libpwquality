@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libpwquality-dev
+include(libpwquality-dev)

@@ -1,0 +1,11 @@
+# [TITLE]: libaccounts-glib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libaccounts-glib-bin)
+include(libaccounts-glib-data)
+include(libaccounts-glib-lib)
+include(libaccounts-glib-license)
+libaccounts-glib

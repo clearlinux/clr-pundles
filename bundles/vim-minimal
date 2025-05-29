@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Productivity, Developer Tools, Editor
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-vim-extras-minimal
-usrbinvi
+include(vim-extras-minimal)
+include(usrbinvi)
 include(ncurses-lib)

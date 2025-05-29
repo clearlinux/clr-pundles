@@ -1,0 +1,12 @@
+# [TITLE]: modemmanager-qt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(modemmanager-qt-data)
+include(modemmanager-qt-license)
+include(qt6base-lib)
+modemmanager-qt-lib

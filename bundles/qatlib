@@ -1,0 +1,12 @@
+# [TITLE]: qatlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qatlib-bin)
+include(qatlib-lib)
+include(qatlib-license)
+include(qatlib-man)
+include(qatlib-services)
+qatlib

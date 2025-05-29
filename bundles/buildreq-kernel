@@ -1,0 +1,26 @@
+# [TITLE]: buildreq-kernel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash)
+include(bc)
+include(binutils-dev)
+include(bison)
+include(cpio-bin)
+include(dwarves)
+include(elfutils-dev)
+include(flex)
+include(gmp-dev)
+include(kernel-config)
+include(kernel-install)
+include(kmod)
+include(linux-firmware)
+include(lz4)
+include(make)
+include(mpc-dev)
+include(mpfr-dev)
+include(openssl-dev)
+include(xz)
+buildreq-kernel

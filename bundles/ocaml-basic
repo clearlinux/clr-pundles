@@ -7,5 +7,5 @@
 
 # perl for autoconf and friends
 
-ocaml
-ocamlbuild
+include(ocaml)
+include(ocamlbuild)

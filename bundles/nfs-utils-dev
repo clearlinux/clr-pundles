@@ -1,0 +1,11 @@
+# [TITLE]: nfs-utils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nfs-utils)
+include(nfs-utils-bin)
+include(nfs-utils-lib)
+include(pkg-config-bin)
+nfs-utils-dev

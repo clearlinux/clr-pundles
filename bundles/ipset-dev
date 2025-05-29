@@ -1,0 +1,12 @@
+# [TITLE]: ipset-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipset)
+include(ipset-bin)
+include(ipset-lib)
+include(libmnl-dev)
+include(pkg-config-bin)
+ipset-dev

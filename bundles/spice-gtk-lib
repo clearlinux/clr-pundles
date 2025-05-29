@@ -1,0 +1,32 @@
+# [TITLE]: spice-gtk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(cyrus-sasl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libcacard-lib)
+include(libepoxy-lib)
+include(libjpeg-turbo-lib)
+include(libusb-lib)
+include(libva-lib)
+include(lz4-lib)
+include(openssl-lib)
+include(opus-lib)
+include(pixman-lib)
+include(spice-gtk-data)
+include(spice-gtk-libexec)
+include(spice-gtk-license)
+include(usbredir-lib)
+include(wayland-lib)
+include(zlib-lib)
+spice-gtk-lib

@@ -1,0 +1,15 @@
+# [TITLE]: kcolorscheme-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcolorscheme-data)
+include(kcolorscheme-license)
+include(kconfig-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kcolorscheme-lib

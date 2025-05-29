@@ -1,0 +1,21 @@
+# [TITLE]: dpdk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dpdk)
+include(dpdk-bin)
+include(dpdk-data)
+include(dpdk-dev)
+include(dpdk-lib)
+include(elfutils-dev)
+include(isa-l-dev)
+include(jansson-dev)
+include(libbsd-dev)
+include(libpcap-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+include(rdma-core-dev)
+include(zlib-dev)
+dpdk-dev

@@ -1,0 +1,15 @@
+# [TITLE]: libportal-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk3-dev)
+include(gtk4-dev)
+include(libportal)
+include(libportal-data)
+include(libportal-dev)
+include(libportal-lib)
+include(pkg-config-bin)
+libportal-dev

@@ -1,0 +1,19 @@
+# [TITLE]: llvm17
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(llvm17-bin)
+include(llvm17-dev)
+include(llvm17-lib)
+include(llvm17-license)
+include(ncurses-lib)
+include(zlib-lib)
+include(zstd-lib)
+llvm17

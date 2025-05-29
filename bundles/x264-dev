@@ -1,0 +1,11 @@
+# [TITLE]: x264-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(x264)
+include(x264-bin)
+include(x264-lib)
+x264-dev

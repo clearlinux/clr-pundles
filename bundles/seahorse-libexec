@@ -1,0 +1,12 @@
+# [TITLE]: seahorse-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gcr-soname1-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(seahorse-license)
+seahorse-libexec

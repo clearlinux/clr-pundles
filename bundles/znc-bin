@@ -1,0 +1,18 @@
+# [TITLE]: znc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(argon2-lib)
+include(boost-extras)
+include(filesystem)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(zlib-lib)
+include(znc-data)
+include(znc-license)
+znc-bin

@@ -1,0 +1,10 @@
+# [TITLE]: unified-memory-framework-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hwloc-lib)
+include(libc6)
+include(unified-memory-framework-license)
+unified-memory-framework-lib

@@ -1,0 +1,22 @@
+# [TITLE]: plasma-welcome-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kservice-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-welcome-data)
+include(plasma-welcome-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+plasma-welcome-bin

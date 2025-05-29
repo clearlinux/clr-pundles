@@ -1,0 +1,13 @@
+# [TITLE]: libcdr-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcdr-lib)
+include(libcdr-license)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+libcdr-bin

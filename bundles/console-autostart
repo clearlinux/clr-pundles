@@ -1,0 +1,8 @@
+# [TITLE]: console-autostart
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd-bin)
+console-autostart

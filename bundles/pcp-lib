@@ -1,0 +1,15 @@
+# [TITLE]: pcp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(libc6)
+include(libuv-lib)
+include(openssl-lib)
+include(pcp-data)
+include(pcp-libexec)
+include(pcp-license)
+include(systemd-extras-libsystemd)
+pcp-lib

@@ -1,0 +1,10 @@
+# [TITLE]: volume_key-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(volume_key)
+include(volume_key-bin)
+include(volume_key-lib)
+volume_key-dev

@@ -1,0 +1,21 @@
+# [TITLE]: cheese-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cheese)
+include(cheese-bin)
+include(cheese-data)
+include(cheese-lib)
+include(clutter-dev)
+include(clutter-gst-dev)
+include(clutter-gtk-dev)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(gst-plugins-bad-dev)
+include(gst-plugins-base-dev)
+include(gstreamer-dev)
+include(gtk3-dev)
+include(libX11-dev)
+cheese-dev

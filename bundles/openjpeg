@@ -1,0 +1,10 @@
+# [TITLE]: openjpeg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openjpeg-bin)
+include(openjpeg-lib)
+include(openjpeg-license)
+openjpeg

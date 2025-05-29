@@ -1,0 +1,14 @@
+# [TITLE]: geany-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geany)
+include(geany-bin)
+include(geany-data)
+include(geany-lib)
+include(glib-dev)
+include(gtk3-dev)
+include(pkg-config-bin)
+geany-dev

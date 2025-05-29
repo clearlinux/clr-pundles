@@ -1,0 +1,9 @@
+# [TITLE]: libev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libev-lib)
+include(libev-license)
+libev

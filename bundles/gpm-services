@@ -1,0 +1,8 @@
+# [TITLE]: gpm-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+gpm-services

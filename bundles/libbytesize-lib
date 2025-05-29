@@ -1,0 +1,12 @@
+# [TITLE]: libbytesize-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(libbytesize-license)
+include(libc6)
+include(mpfr-lib)
+include(pcre2-lib)
+libbytesize-lib

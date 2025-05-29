@@ -1,0 +1,10 @@
+# [TITLE]: networkmanager-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(networkmanager-qt-data)
+include(networkmanager-qt-lib)
+include(networkmanager-qt-license)
+networkmanager-qt

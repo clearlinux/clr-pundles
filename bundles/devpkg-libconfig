@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libconfig-dev
+include(libconfig-dev)
 include(libstdcpp)

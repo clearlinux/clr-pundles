@@ -1,0 +1,15 @@
+# [TITLE]: libaccounts-glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libaccounts-glib)
+include(libaccounts-glib-bin)
+include(libaccounts-glib-data)
+include(libaccounts-glib-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+include(sqlite-autoconf-dev)
+libaccounts-glib-dev

@@ -1,0 +1,9 @@
+# [TITLE]: mozjs91-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mozjs91-bin)
+include(mozjs91-lib)
+mozjs91-dev

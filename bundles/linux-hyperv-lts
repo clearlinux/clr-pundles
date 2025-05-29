@@ -1,0 +1,11 @@
+# [TITLE]: linux-hyperv-lts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dyskctl-extra)
+include(init-rdahead)
+include(linux-hyperv-lts-license)
+include(systemd-bin)
+linux-hyperv-lts

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtsensors-dev
+include(qtsensors-dev)
 include(qt-core)
 include(libstdcpp)
 include(libX11client)

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gjs-dev
+include(gjs-dev)
 include(libX11client)
 include(libglib)
 include(libstdcpp)

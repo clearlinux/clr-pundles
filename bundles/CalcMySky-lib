@@ -1,0 +1,13 @@
+# [TITLE]: CalcMySky-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CalcMySky-data)
+include(CalcMySky-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+CalcMySky-lib

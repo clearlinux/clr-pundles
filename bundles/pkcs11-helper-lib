@@ -1,0 +1,12 @@
+# [TITLE]: pkcs11-helper-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-lib)
+include(libc6)
+include(nss-lib)
+include(openssl-lib)
+include(pkcs11-helper-license)
+pkcs11-helper-lib

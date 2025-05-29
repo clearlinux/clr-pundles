@@ -1,0 +1,12 @@
+# [TITLE]: hexchat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hexchat)
+include(hexchat-bin)
+include(hexchat-data)
+include(hexchat-lib)
+include(pkg-config-bin)
+hexchat-dev

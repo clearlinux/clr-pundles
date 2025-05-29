@@ -1,0 +1,9 @@
+# [TITLE]: flare-game
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flare-game-data)
+include(flare-game-license)
+flare-game

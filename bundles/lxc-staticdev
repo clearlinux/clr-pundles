@@ -1,0 +1,8 @@
+# [TITLE]: lxc-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lxc-dev)
+lxc-staticdev

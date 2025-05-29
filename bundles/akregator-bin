@@ -1,0 +1,28 @@
+# [TITLE]: akregator-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akregator-data)
+include(akregator-lib)
+include(akregator-license)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kontactinterface-lib)
+include(kparts-lib)
+include(kstatusnotifieritem-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libkdepim-lib)
+include(libstdc++)
+include(pimcommon-lib)
+include(qt6base-lib)
+include(syndication-lib)
+akregator-bin

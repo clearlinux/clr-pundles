@@ -1,0 +1,11 @@
+# [TITLE]: usb-modeswitch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(usb-modeswitch-bin)
+include(usb-modeswitch-license)
+include(usb-modeswitch-man)
+usb-modeswitch

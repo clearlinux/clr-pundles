@@ -1,0 +1,13 @@
+# [TITLE]: chrony-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chrony-config)
+include(chrony-data)
+include(chrony-license)
+include(chrony-services)
+include(libc6)
+include(libcap-lib)
+chrony-bin

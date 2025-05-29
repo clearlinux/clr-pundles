@@ -1,0 +1,9 @@
+# [TITLE]: xvidcore
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xvidcore-lib)
+include(xvidcore-license)
+xvidcore

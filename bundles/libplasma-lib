@@ -1,0 +1,33 @@
+# [TITLE]: libplasma-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kglobalaccel-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kirigami-lib)
+include(knotifications-lib)
+include(kpackage-lib)
+include(ksvg-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libX11-lib)
+include(libc6)
+include(libglvnd-lib)
+include(libplasma-data)
+include(libplasma-license)
+include(libstdc++)
+include(plasma-activities-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+libplasma-lib

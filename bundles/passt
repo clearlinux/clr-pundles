@@ -1,0 +1,10 @@
+# [TITLE]: passt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(passt-bin)
+include(passt-license)
+include(passt-man)
+passt

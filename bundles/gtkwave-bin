@@ -1,0 +1,20 @@
+# [TITLE]: gtkwave-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(gtkwave-data)
+include(gtkwave-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pango-lib)
+include(tcl-lib)
+include(tk-extras)
+include(zlib-lib)
+gtkwave-bin

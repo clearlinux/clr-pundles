@@ -1,0 +1,10 @@
+# [TITLE]: libfreehand
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfreehand-bin)
+include(libfreehand-lib)
+include(libfreehand-license)
+libfreehand

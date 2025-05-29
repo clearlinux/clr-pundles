@@ -1,0 +1,10 @@
+# [TITLE]: qtx11extras-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtx11extras)
+include(qtx11extras-lib)
+qtx11extras-dev

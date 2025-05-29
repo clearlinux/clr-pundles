@@ -1,0 +1,11 @@
+# [TITLE]: buildreq-nginx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nginx-mainline-dev)
+include(nginx-mainline-extras-modulebuild)
+include(pcre-dev)
+include(zlib-dev)
+buildreq-nginx

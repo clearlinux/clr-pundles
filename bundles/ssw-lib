@@ -1,0 +1,12 @@
+# [TITLE]: ssw-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(ssw-license)
+ssw-lib

@@ -1,0 +1,12 @@
+# [TITLE]: quassel-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(quassel-lib)
+quassel-extras

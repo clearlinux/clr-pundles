@@ -1,0 +1,12 @@
+# [TITLE]: xmlto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(util-linux-bin)
+include(xmlto-bin)
+include(xmlto-data)
+include(xmlto-license)
+include(xmlto-man)
+xmlto

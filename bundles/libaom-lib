@@ -1,0 +1,9 @@
+# [TITLE]: libaom-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libaom-license)
+include(libc6)
+libaom-lib

@@ -1,0 +1,11 @@
+# [TITLE]: libXxf86dga-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXxf86dga)
+include(libXxf86dga-lib)
+include(xorgproto-dev)
+libXxf86dga-dev

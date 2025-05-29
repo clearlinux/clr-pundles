@@ -1,0 +1,9 @@
+# [TITLE]: compat-ffmpeg-6
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-ffmpeg-6-lib)
+include(compat-ffmpeg-6-license)
+compat-ffmpeg-6

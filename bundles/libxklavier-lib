@@ -1,0 +1,14 @@
+# [TITLE]: libxklavier-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libxkbfile-lib)
+include(libxklavier-data)
+include(libxklavier-license)
+include(libxml2-lib)
+libxklavier-lib

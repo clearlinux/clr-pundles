@@ -1,0 +1,8 @@
+# [TITLE]: haveged-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+haveged-services

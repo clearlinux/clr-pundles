@@ -1,0 +1,10 @@
+# [TITLE]: leveldb-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(leveldb-license)
+include(libc6)
+include(libstdc++)
+leveldb-lib

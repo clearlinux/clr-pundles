@@ -1,0 +1,43 @@
+# [TITLE]: mailcommon-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-contacts-lib)
+include(akonadi-lib)
+include(akonadi-mime-lib)
+include(gpgme-extras)
+include(gpgme-lib)
+include(karchive-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kidentitymanagement-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(kmailtransport-lib)
+include(kmime-lib)
+include(ktextaddons-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libkdepim-lib)
+include(libkleo-lib)
+include(libstdc++)
+include(mailcommon-data)
+include(mailcommon-license)
+include(mailimporter-lib)
+include(messagelib-lib)
+include(pimcommon-lib)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+include(syntax-highlighting-lib)
+mailcommon-lib

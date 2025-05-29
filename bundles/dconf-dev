@@ -1,0 +1,12 @@
+# [TITLE]: dconf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dconf)
+include(dconf-bin)
+include(dconf-data)
+include(dconf-lib)
+include(glib-dev)
+dconf-dev

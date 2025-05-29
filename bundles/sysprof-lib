@@ -1,0 +1,19 @@
+# [TITLE]: sysprof-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(json-glib-lib)
+include(libc6)
+include(libdex-lib)
+include(libgcc1)
+include(libstdc++)
+include(libunwind-lib)
+include(polkit-lib)
+include(sysprof-data)
+include(sysprof-libexec)
+include(sysprof-license)
+include(systemd-extras-libsystemd)
+sysprof-lib

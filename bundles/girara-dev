@@ -1,0 +1,14 @@
+# [TITLE]: girara-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(girara)
+include(girara-lib)
+include(glib-dev)
+include(gtk3-dev)
+include(json-glib-dev)
+include(pango-dev)
+include(pkg-config-bin)
+girara-dev

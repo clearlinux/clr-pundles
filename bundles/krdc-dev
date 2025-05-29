@@ -1,0 +1,11 @@
+# [TITLE]: krdc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krdc)
+include(krdc-bin)
+include(krdc-data)
+include(krdc-lib)
+krdc-dev

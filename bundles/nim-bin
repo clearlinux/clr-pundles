@@ -1,0 +1,10 @@
+# [TITLE]: nim-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nim-data)
+include(nim-license)
+nim-bin

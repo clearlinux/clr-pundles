@@ -1,0 +1,9 @@
+# [TITLE]: buildreq-cpan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl)
+include(perl-Module-Build)
+buildreq-cpan

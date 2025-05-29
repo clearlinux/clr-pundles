@@ -1,0 +1,12 @@
+# [TITLE]: btop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(btop-data)
+include(btop-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+btop-bin

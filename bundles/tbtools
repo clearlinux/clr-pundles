@@ -1,0 +1,10 @@
+# [TITLE]: tbtools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tbtools-bin)
+include(tbtools-data)
+include(tbtools-license)
+tbtools

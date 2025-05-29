@@ -1,0 +1,14 @@
+# [TITLE]: siege-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(openssl-lib)
+include(perl-bin)
+include(siege-data)
+include(siege-license)
+include(zlib-lib)
+siege-bin

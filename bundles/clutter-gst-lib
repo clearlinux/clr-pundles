@@ -1,0 +1,27 @@
+# [TITLE]: clutter-gst-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(clutter-gst-data)
+include(clutter-gst-license)
+include(clutter-lib)
+include(cogl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libglvnd-lib)
+include(libgudev-lib)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(wayland-lib)
+clutter-gst-lib

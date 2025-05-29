@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libcgroup-dev
+include(libcgroup-dev)

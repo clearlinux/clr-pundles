@@ -1,0 +1,8 @@
+# [TITLE]: qtdatavis3d-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtdatavis3d-dev)
+qtdatavis3d-examples

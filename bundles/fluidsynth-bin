@@ -1,0 +1,13 @@
+# [TITLE]: fluidsynth-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fluidsynth-lib)
+include(fluidsynth-license)
+include(glib-lib)
+include(libc6)
+include(pipewire-lib)
+include(systemd-extras-libsystemd)
+fluidsynth-bin

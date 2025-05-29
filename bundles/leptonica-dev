@@ -1,0 +1,11 @@
+# [TITLE]: leptonica-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(leptonica)
+include(leptonica-bin)
+include(leptonica-lib)
+include(pkg-config-bin)
+leptonica-dev

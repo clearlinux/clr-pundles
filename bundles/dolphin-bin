@@ -1,0 +1,39 @@
+# [TITLE]: dolphin-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baloo-lib)
+include(baloo-widgets-lib)
+include(dolphin-data)
+include(dolphin-lib)
+include(dolphin-license)
+include(dolphin-services)
+include(kbookmarks-lib)
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(knewstuff-lib)
+include(knotifications-lib)
+include(kparts-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(phonon-lib)
+include(qt6base-lib)
+include(solid-lib)
+dolphin-bin

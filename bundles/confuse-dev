@@ -1,0 +1,9 @@
+# [TITLE]: confuse-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(confuse)
+include(confuse-lib)
+confuse-dev

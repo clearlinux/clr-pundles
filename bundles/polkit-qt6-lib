@@ -1,0 +1,14 @@
+# [TITLE]: polkit-qt6-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(polkit-lib)
+include(polkit-qt6-license)
+include(qt6base-lib)
+polkit-qt6-lib

@@ -1,0 +1,10 @@
+# [TITLE]: xprop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xprop-bin)
+include(xprop-license)
+include(xprop-man)
+xprop

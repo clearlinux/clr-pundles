@@ -1,0 +1,23 @@
+# [TITLE]: ibus-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(dconf-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(ibus-lib)
+include(ibus-license)
+include(libX11-lib)
+include(libc6)
+include(libdbusmenu-lib)
+include(libnotify-lib)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(wayland-lib)
+ibus-libexec

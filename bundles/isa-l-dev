@@ -1,0 +1,11 @@
+# [TITLE]: isa-l-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isa-l)
+include(isa-l-bin)
+include(isa-l-lib)
+include(pkg-config-bin)
+isa-l-dev

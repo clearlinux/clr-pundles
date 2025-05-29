@@ -1,0 +1,21 @@
+# [TITLE]: gimp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(gdk-pixbuf-dev)
+include(gegl-dev)
+include(gexiv2-dev)
+include(gimp)
+include(gimp-bin)
+include(gimp-data)
+include(gimp-dev)
+include(gimp-lib)
+include(glib-dev)
+include(gtk3-dev)
+include(lcms2-dev)
+include(pango-dev)
+include(pkg-config-bin)
+gimp-dev

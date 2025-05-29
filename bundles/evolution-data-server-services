@@ -1,0 +1,8 @@
+# [TITLE]: evolution-data-server-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+evolution-data-server-services

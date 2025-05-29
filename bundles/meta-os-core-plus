@@ -1,0 +1,22 @@
+# [TITLE]: meta-os-core-plus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-power-tweaks)
+include(clr-systemd-config)
+include(cnf)
+include(dbus-autostart)
+include(dbus-bin)
+include(iproute2-bin)
+include(kmod-bin)
+include(nano-bin)
+include(nano-data)
+include(netbase)
+include(nss-altfiles)
+include(procps-ng-bin)
+include(systemd)
+include(systemd-bootchart)
+include(systemd-lib)
+meta-os-core-plus

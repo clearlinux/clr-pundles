@@ -1,0 +1,11 @@
+# [TITLE]: mailimporter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mailimporter-data)
+include(mailimporter-lib)
+include(mailimporter-license)
+include(mailimporter-locales)
+mailimporter

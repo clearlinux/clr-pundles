@@ -1,0 +1,11 @@
+# [TITLE]: pam_wrapper-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pam_wrapper-lib)
+include(python3-core)
+include(python3-lib)
+pam_wrapper-python3

@@ -1,0 +1,12 @@
+# [TITLE]: xdg-desktop-portal-wlr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xdg-desktop-portal-wlr-data)
+include(xdg-desktop-portal-wlr-libexec)
+include(xdg-desktop-portal-wlr-license)
+include(xdg-desktop-portal-wlr-man)
+include(xdg-desktop-portal-wlr-services)
+xdg-desktop-portal-wlr

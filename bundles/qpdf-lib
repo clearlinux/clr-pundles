@@ -1,0 +1,15 @@
+# [TITLE]: qpdf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(openssl-lib)
+include(qpdf-license)
+include(zlib-lib)
+qpdf-lib

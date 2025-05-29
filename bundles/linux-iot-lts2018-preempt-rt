@@ -1,0 +1,8 @@
+# [TITLE]: linux-iot-lts2018-preempt-rt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd-bin)
+linux-iot-lts2018-preempt-rt

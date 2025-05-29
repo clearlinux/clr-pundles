@@ -14,4 +14,4 @@ include(lib-opengl)
 # end of custom additions
 
 # main package
-gtk4-lib
+include(gtk4-lib)

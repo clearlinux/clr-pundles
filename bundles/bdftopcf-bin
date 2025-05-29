@@ -1,0 +1,9 @@
+# [TITLE]: bdftopcf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bdftopcf-license)
+include(libc6)
+bdftopcf-bin

@@ -1,0 +1,12 @@
+# [TITLE]: bluez-qt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-qt)
+include(bluez-qt-data)
+include(bluez-qt-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+bluez-qt-dev

@@ -1,0 +1,10 @@
+# [TITLE]: kronosnet-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kronosnet)
+include(kronosnet-lib)
+include(pkg-config-bin)
+kronosnet-dev

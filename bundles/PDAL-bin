@@ -1,0 +1,14 @@
+# [TITLE]: PDAL-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PDAL-data)
+include(PDAL-lib)
+include(PDAL-license)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+PDAL-bin

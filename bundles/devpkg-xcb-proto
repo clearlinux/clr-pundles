@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-xcb-proto-dev
+include(xcb-proto-dev)

@@ -1,0 +1,23 @@
+# [TITLE]: kturtle-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(knewstuff-lib)
+include(ktextwidgets-lib)
+include(kturtle-data)
+include(kturtle-license)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6svg-lib)
+kturtle-bin

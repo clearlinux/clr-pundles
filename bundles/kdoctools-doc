@@ -1,0 +1,8 @@
+# [TITLE]: kdoctools-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdoctools-man)
+kdoctools-doc

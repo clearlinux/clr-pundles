@@ -1,0 +1,14 @@
+# [TITLE]: kwayland-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwayland-data)
+include(kwayland-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+kwayland-lib

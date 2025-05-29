@@ -1,0 +1,11 @@
+# [TITLE]: ibus-unikey
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ibus-unikey-data)
+include(ibus-unikey-libexec)
+include(ibus-unikey-license)
+include(ibus-unikey-locales)
+ibus-unikey

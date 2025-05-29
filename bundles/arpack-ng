@@ -1,0 +1,9 @@
+# [TITLE]: arpack-ng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(arpack-ng-lib)
+include(arpack-ng-license)
+arpack-ng

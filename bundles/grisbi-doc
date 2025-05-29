@@ -1,0 +1,8 @@
+# [TITLE]: grisbi-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grisbi-man)
+grisbi-doc

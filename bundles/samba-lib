@@ -1,0 +1,35 @@
+# [TITLE]: samba-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(acl-lib)
+include(dbus-lib)
+include(e2fsprogs-lib)
+include(gnutls-lib)
+include(gpgme-lib)
+include(icu4c-lib)
+include(jansson-lib)
+include(krb5-lib)
+include(ldb-extras)
+include(ldb-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libtasn1-lib)
+include(libtirpc-lib)
+include(libxcrypt-lib)
+include(openldap-lib)
+include(popt-lib)
+include(python3-lib)
+include(samba-data)
+include(samba-libexec)
+include(samba-license)
+include(systemd-extras-libsystemd)
+include(talloc-lib)
+include(tdb-lib)
+include(tevent-lib)
+include(zlib-lib)
+samba-lib

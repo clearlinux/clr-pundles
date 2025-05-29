@@ -1,0 +1,21 @@
+# [TITLE]: digikam-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(digikam-data)
+include(digikam-lib)
+include(digikam-license)
+include(filesystem)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(perl-bin)
+include(qt6base-lib)
+digikam-bin

@@ -1,0 +1,8 @@
+# [TITLE]: gst-python-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gst-python-python3)
+gst-python-python

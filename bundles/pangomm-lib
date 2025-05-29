@@ -1,0 +1,16 @@
+# [TITLE]: pangomm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairomm-lib)
+include(glib-lib)
+include(glibmm-lib)
+include(libc6)
+include(libgcc1)
+include(libsigc++-lib)
+include(libstdc++)
+include(pango-lib)
+include(pangomm-license)
+pangomm-lib

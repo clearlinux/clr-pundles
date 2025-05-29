@@ -1,0 +1,20 @@
+# [TITLE]: simple-scan-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(colord-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgusb-lib)
+include(libwebp-lib)
+include(sane-backends-lib)
+include(simple-scan-data)
+include(simple-scan-license)
+include(zlib-lib)
+simple-scan-bin

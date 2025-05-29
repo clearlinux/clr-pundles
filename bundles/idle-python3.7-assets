@@ -1,0 +1,9 @@
+# [TITLE]: idle-python3.7-assets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(idle-python3.7-assets-data)
+include(idle-python3.7-assets-license)
+idle-python3.7-assets

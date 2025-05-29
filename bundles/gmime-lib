@@ -1,0 +1,14 @@
+# [TITLE]: gmime-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gmime-data)
+include(gmime-license)
+include(gpgme-lib)
+include(libc6)
+include(libidn2-lib)
+include(zlib-lib)
+gmime-lib

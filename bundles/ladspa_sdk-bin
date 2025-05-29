@@ -1,0 +1,10 @@
+# [TITLE]: ladspa_sdk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ladspa_sdk-license)
+include(libc6)
+include(libsndfile-lib)
+ladspa_sdk-bin

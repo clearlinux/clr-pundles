@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libisofs-dev
+include(libisofs-dev)

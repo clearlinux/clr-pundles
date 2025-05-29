@@ -1,0 +1,12 @@
+# [TITLE]: kded
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kded-bin)
+include(kded-data)
+include(kded-license)
+include(kded-man)
+include(kded-services)
+kded

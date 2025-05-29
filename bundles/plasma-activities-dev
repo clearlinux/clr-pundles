@@ -1,0 +1,13 @@
+# [TITLE]: plasma-activities-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(plasma-activities)
+include(plasma-activities-bin)
+include(plasma-activities-data)
+include(plasma-activities-lib)
+include(qt6base-dev)
+plasma-activities-dev

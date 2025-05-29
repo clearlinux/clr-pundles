@@ -1,0 +1,12 @@
+# [TITLE]: kdecoration-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdecoration-license)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdecoration-lib

@@ -1,0 +1,10 @@
+# [TITLE]: mimetreeparser-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mimetreeparser)
+include(mimetreeparser-data)
+include(mimetreeparser-lib)
+mimetreeparser-dev

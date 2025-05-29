@@ -1,0 +1,13 @@
+# [TITLE]: compat-cairomm-soname10-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(compat-cairomm-soname10)
+include(compat-cairomm-soname10-data)
+include(compat-cairomm-soname10-dev)
+include(compat-cairomm-soname10-lib)
+include(compat-libsigc++-soname20-dev)
+compat-cairomm-soname10-dev

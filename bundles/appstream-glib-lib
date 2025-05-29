@@ -1,0 +1,22 @@
+# [TITLE]: appstream-glib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-glib-data)
+include(appstream-glib-license)
+include(cairo-lib)
+include(curl-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(pango-lib)
+include(util-linux-lib)
+appstream-glib-lib

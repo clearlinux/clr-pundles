@@ -1,0 +1,17 @@
+# [TITLE]: xsane-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk+-lib)
+include(lcms2-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(sane-backends-lib)
+include(tiff-lib)
+include(xsane-data)
+include(zlib-lib)
+xsane-bin

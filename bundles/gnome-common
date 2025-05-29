@@ -1,0 +1,9 @@
+# [TITLE]: gnome-common
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-common-bin)
+include(gnome-common-license)
+gnome-common

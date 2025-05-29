@@ -1,0 +1,8 @@
+# [TITLE]: qtsvg-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtsvg-dev)
+qtsvg-examples

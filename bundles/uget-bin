@@ -1,0 +1,20 @@
+# [TITLE]: uget-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(curl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libappindicator-lib)
+include(libc6)
+include(libnotify-lib)
+include(openssl-lib)
+include(pango-lib)
+include(uget-data)
+include(uget-license)
+uget-bin

@@ -1,0 +1,16 @@
+# [TITLE]: ModemManager
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager-bin)
+include(ModemManager-config)
+include(ModemManager-data)
+include(ModemManager-lib)
+include(ModemManager-license)
+include(ModemManager-locales)
+include(ModemManager-man)
+include(ModemManager-services)
+include(mobile-broadband-provider-info)
+ModemManager

@@ -1,0 +1,15 @@
+# [TITLE]: postfix-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(libc6)
+include(postfix-config)
+include(postfix-data)
+include(postfix-lib)
+include(postfix-libexec)
+include(postfix-license)
+include(postfix-services)
+postfix-bin

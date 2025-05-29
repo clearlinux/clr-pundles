@@ -1,0 +1,10 @@
+# [TITLE]: talloc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(talloc)
+include(talloc-lib)
+talloc-dev

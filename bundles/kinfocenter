@@ -1,0 +1,17 @@
+# [TITLE]: kinfocenter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kinfocenter-bin)
+include(kinfocenter-data)
+include(kinfocenter-lib)
+include(kinfocenter-license)
+include(kinfocenter-locales)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(systemsettings)
+kinfocenter

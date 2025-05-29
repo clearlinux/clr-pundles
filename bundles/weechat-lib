@@ -1,0 +1,19 @@
+# [TITLE]: weechat-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell-lib)
+include(cJSON-lib)
+include(gnutls-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(lua-lib)
+include(perl-perl)
+include(python3-lib)
+include(weechat-data)
+include(weechat-license)
+include(zlib-lib)
+include(zstd-lib)
+weechat-lib

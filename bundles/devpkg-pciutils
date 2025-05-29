@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-pciutils-dev
+include(pciutils-dev)

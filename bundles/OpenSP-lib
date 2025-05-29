@@ -1,0 +1,12 @@
+# [TITLE]: OpenSP-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenSP-data)
+include(OpenSP-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+OpenSP-lib

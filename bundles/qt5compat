@@ -1,0 +1,9 @@
+# [TITLE]: qt5compat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt5compat-lib)
+include(qt5compat-license)
+qt5compat

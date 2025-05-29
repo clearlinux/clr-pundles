@@ -1,0 +1,12 @@
+# [TITLE]: F-Engrave-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freetype-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(python3-core)
+F-Engrave-bin

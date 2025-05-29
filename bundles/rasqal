@@ -1,0 +1,11 @@
+# [TITLE]: rasqal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rasqal-bin)
+include(rasqal-lib)
+include(rasqal-license)
+include(rasqal-man)
+rasqal

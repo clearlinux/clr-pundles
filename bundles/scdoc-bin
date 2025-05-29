@@ -1,0 +1,9 @@
+# [TITLE]: scdoc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(scdoc-license)
+scdoc-bin

@@ -1,0 +1,11 @@
+# [TITLE]: kolf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kolf-bin)
+include(kolf-data)
+include(kolf-license)
+include(kolf-locales)
+kolf

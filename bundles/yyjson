@@ -1,0 +1,9 @@
+# [TITLE]: yyjson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yyjson-lib)
+include(yyjson-license)
+yyjson

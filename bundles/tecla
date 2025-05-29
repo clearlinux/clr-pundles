@@ -1,0 +1,11 @@
+# [TITLE]: tecla
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tecla-bin)
+include(tecla-data)
+include(tecla-license)
+include(tecla-locales)
+tecla

@@ -1,0 +1,10 @@
+# [TITLE]: kaccounts-integration-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kaccounts-integration)
+include(kaccounts-integration-data)
+include(kaccounts-integration-lib)
+kaccounts-integration-dev

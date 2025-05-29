@@ -1,0 +1,10 @@
+# [TITLE]: libfakekey-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+libfakekey-lib

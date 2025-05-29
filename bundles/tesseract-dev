@@ -1,0 +1,13 @@
+# [TITLE]: tesseract-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(leptonica-dev)
+include(pkg-config-bin)
+include(tesseract)
+include(tesseract-bin)
+include(tesseract-data)
+include(tesseract-lib)
+tesseract-dev

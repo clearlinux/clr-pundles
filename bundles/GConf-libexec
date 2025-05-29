@@ -1,0 +1,13 @@
+# [TITLE]: GConf-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(GConf-lib)
+include(GConf-license)
+include(dbus-glib-lib)
+include(dbus-lib)
+include(glib-lib)
+include(libc6)
+GConf-libexec

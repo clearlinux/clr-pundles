@@ -1,0 +1,11 @@
+# [TITLE]: htslib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(htslib-bin)
+include(htslib-lib)
+include(htslib-license)
+include(htslib-man)
+htslib

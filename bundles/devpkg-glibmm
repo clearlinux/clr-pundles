@@ -10,4 +10,4 @@ include(devpkg-glib)
 include(libglib)
 include(devpkg-libsigcplusplus)
 
-glibmm-dev
+include(glibmm-dev)

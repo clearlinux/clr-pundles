@@ -1,0 +1,8 @@
+# [TITLE]: dunst-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+dunst-services

@@ -1,0 +1,12 @@
+# [TITLE]: qtserialport-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtserialport-license)
+include(systemd-lib)
+qtserialport-lib

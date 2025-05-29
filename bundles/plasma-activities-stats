@@ -1,0 +1,10 @@
+# [TITLE]: plasma-activities-stats
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-activities-stats-data)
+include(plasma-activities-stats-lib)
+include(plasma-activities-stats-license)
+plasma-activities-stats

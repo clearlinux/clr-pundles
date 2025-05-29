@@ -1,0 +1,24 @@
+# [TITLE]: rpm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-rpm-config)
+include(debugedit)
+include(elfutils-lib)
+include(filesystem)
+include(libc6)
+include(perl-bin)
+include(plzip)
+include(popt-lib)
+include(python-rpm-packaging)
+include(rpm-bin)
+include(rpm-lib)
+include(rpm-license)
+include(rpm-locales)
+include(rpm-python)
+include(rpm-python3)
+include(unzip)
+include(zip)
+rpm

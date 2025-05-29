@@ -1,0 +1,13 @@
+# [TITLE]: WALinuxAgent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(WALinuxAgent-autostart)
+include(WALinuxAgent-license)
+include(WALinuxAgent-python)
+include(WALinuxAgent-python3)
+include(WALinuxAgent-services)
+include(pypi-distro-python3)
+WALinuxAgent

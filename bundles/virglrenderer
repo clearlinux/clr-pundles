@@ -1,0 +1,10 @@
+# [TITLE]: virglrenderer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(virglrenderer-bin)
+include(virglrenderer-lib)
+include(virglrenderer-license)
+virglrenderer

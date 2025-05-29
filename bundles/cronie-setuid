@@ -1,0 +1,8 @@
+# [TITLE]: cronie-setuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+cronie-setuid

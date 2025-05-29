@@ -1,0 +1,9 @@
+# [TITLE]: usrsctp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(usrsctp-lib)
+include(usrsctp-license)
+usrsctp

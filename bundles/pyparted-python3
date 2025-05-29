@@ -1,0 +1,10 @@
+# [TITLE]: pyparted-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(parted-lib)
+include(python3-core)
+pyparted-python3

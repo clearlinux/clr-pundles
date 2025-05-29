@@ -1,0 +1,9 @@
+# [TITLE]: exfatprogs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exfatprogs-license)
+include(libc6)
+exfatprogs-bin

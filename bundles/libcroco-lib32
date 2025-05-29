@@ -1,0 +1,11 @@
+# [TITLE]: libcroco-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib32)
+include(glibc-libc32)
+include(libcroco-license)
+include(libxml2-lib32)
+libcroco-lib32

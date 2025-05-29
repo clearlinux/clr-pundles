@@ -1,0 +1,8 @@
+# [TITLE]: asciinema-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asciinema-python3)
+asciinema-python

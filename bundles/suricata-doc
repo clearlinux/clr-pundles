@@ -1,0 +1,8 @@
+# [TITLE]: suricata-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(suricata-man)
+suricata-doc

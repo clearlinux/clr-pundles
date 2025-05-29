@@ -1,0 +1,10 @@
+# [TITLE]: flnet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flnet-bin)
+include(flnet-data)
+include(flnet-license)
+flnet

@@ -1,0 +1,9 @@
+# [TITLE]: rclone-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(rclone-license)
+rclone-bin

@@ -1,0 +1,9 @@
+# [TITLE]: modsecurity-nginx-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(modsecurity-lib)
+modsecurity-nginx-lib

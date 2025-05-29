@@ -1,0 +1,15 @@
+# [TITLE]: libopenmpt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libogg-dev)
+include(libopenmpt)
+include(libopenmpt-bin)
+include(libopenmpt-lib)
+include(libvorbis-dev)
+include(mpg123-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+libopenmpt-dev

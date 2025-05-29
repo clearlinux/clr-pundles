@@ -1,0 +1,12 @@
+# [TITLE]: LuaJIT-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT)
+include(LuaJIT-bin)
+include(LuaJIT-data)
+include(LuaJIT-lib)
+include(pkg-config-bin)
+LuaJIT-dev

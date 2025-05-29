@@ -1,0 +1,11 @@
+# [TITLE]: breeze-icons-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(breeze-icons-data)
+include(breeze-icons-license)
+include(libc6)
+include(qt6base-lib)
+breeze-icons-lib

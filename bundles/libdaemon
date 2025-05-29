@@ -1,0 +1,9 @@
+# [TITLE]: libdaemon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdaemon-lib)
+include(libdaemon-license)
+libdaemon

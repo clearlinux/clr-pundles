@@ -1,0 +1,9 @@
+# [TITLE]: vbox-integration
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vbox-integration-bin)
+include(vbox-integration-license)
+vbox-integration

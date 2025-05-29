@@ -1,0 +1,10 @@
+# [TITLE]: slirp4netns
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(slirp4netns-bin)
+include(slirp4netns-license)
+include(slirp4netns-man)
+slirp4netns

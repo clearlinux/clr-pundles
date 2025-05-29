@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-rrdtool-dev
+include(rrdtool-dev)
 include(libX11client)
 include(libglib)
 include(lib-imageformat)

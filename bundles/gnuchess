@@ -1,0 +1,13 @@
+# [TITLE]: gnuchess
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnuchess-bin)
+include(gnuchess-data)
+include(gnuchess-info)
+include(gnuchess-license)
+include(gnuchess-locales)
+include(gnuchess-man)
+gnuchess

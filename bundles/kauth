@@ -1,0 +1,13 @@
+# [TITLE]: kauth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-data)
+include(kauth-lib)
+include(kauth-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kauth

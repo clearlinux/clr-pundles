@@ -1,0 +1,11 @@
+# [TITLE]: granatier
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(granatier-bin)
+include(granatier-data)
+include(granatier-license)
+include(granatier-locales)
+granatier

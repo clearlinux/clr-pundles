@@ -1,0 +1,9 @@
+# [TITLE]: clr-python-timestamp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-python-timestamp-license)
+include(libc6)
+clr-python-timestamp-bin

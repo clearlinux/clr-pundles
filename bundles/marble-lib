@@ -1,0 +1,29 @@
+# [TITLE]: marble-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpsd-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kparts-lib)
+include(krunner-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(marble-data)
+include(marble-license)
+include(protobuf-lib)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6positioning-lib)
+include(qt6serialport-lib)
+include(qt6svg-lib)
+include(zlib-lib)
+marble-lib

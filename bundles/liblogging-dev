@@ -1,0 +1,11 @@
+# [TITLE]: liblogging-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liblogging)
+include(liblogging-bin)
+include(liblogging-lib)
+include(pkg-config-bin)
+liblogging-dev

@@ -1,0 +1,10 @@
+# [TITLE]: gcc11-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc11)
+include(gcc11-libs-math)
+include(libc6)
+gcc11-dev

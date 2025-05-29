@@ -1,0 +1,13 @@
+# [TITLE]: dbus-glib-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-glib-lib)
+include(dbus-glib-license)
+include(dbus-lib)
+include(expat-lib)
+include(glib-lib)
+include(libc6)
+dbus-glib-libexec

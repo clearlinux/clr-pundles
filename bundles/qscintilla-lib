@@ -1,0 +1,13 @@
+# [TITLE]: qscintilla-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qscintilla-data)
+include(qscintilla-license)
+include(qt6base-lib)
+qscintilla-lib

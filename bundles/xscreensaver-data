@@ -1,0 +1,8 @@
+# [TITLE]: xscreensaver-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+xscreensaver-data

@@ -1,0 +1,14 @@
+# [TITLE]: postfix-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(filesystem)
+include(libc6)
+include(openssl-lib)
+include(postfix-config)
+include(postfix-lib)
+include(postfix-license)
+postfix-libexec

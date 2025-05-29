@@ -1,0 +1,9 @@
+# [TITLE]: datefudge-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(datefudge-license)
+include(libc6)
+datefudge-lib

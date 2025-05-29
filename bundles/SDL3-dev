@@ -1,0 +1,11 @@
+# [TITLE]: SDL3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL3)
+include(SDL3-data)
+include(SDL3-lib)
+include(pkg-config-bin)
+SDL3-dev

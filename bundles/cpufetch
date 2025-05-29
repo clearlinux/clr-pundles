@@ -1,0 +1,11 @@
+# [TITLE]: cpufetch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cpufetch-bin)
+include(cpufetch-data)
+include(cpufetch-license)
+include(cpufetch-man)
+cpufetch

@@ -1,0 +1,13 @@
+# [TITLE]: chrony
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chrony-bin)
+include(chrony-config)
+include(chrony-data)
+include(chrony-license)
+include(chrony-man)
+include(chrony-services)
+chrony

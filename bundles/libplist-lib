@@ -1,0 +1,11 @@
+# [TITLE]: libplist-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libplist-license)
+include(libstdc++)
+libplist-lib

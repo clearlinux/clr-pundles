@@ -1,0 +1,8 @@
+# [TITLE]: corosync-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(corosync-man)
+corosync-doc

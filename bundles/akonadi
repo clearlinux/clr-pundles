@@ -12,13 +12,13 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(kmime)
-akonadi-calendar
-akonadi-calendar-tools
-akonadi-contacts
-akonadi-mime
-akonadi-notes
-akonadi-search
-akonadiconsole
+include(akonadi-calendar)
+include(akonadi-calendar-tools)
+include(akonadi-contacts)
+include(akonadi-mime)
+include(akonadi-notes)
+include(akonadi-search)
+include(akonadiconsole)
 also-add(mariadb)
 # end of custom additions
 

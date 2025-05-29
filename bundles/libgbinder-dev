@@ -1,0 +1,12 @@
+# [TITLE]: libgbinder-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libgbinder)
+include(libgbinder-lib)
+include(libglibutil-dev)
+include(pkg-config-bin)
+libgbinder-dev

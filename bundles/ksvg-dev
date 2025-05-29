@@ -1,0 +1,10 @@
+# [TITLE]: ksvg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksvg)
+include(ksvg-data)
+include(ksvg-lib)
+ksvg-dev

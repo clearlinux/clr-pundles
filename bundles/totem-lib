@@ -1,0 +1,28 @@
+# [TITLE]: totem-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gobject-introspection-lib)
+include(grilo-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libgcc1)
+include(libhandy-lib)
+include(libpeas-lib)
+include(libportal-lib)
+include(pango-lib)
+include(totem-data)
+include(totem-libexec)
+include(totem-license)
+include(totem-pl-parser-lib)
+totem-lib

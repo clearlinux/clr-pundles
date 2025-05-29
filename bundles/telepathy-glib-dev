@@ -1,0 +1,13 @@
+# [TITLE]: telepathy-glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-dev)
+include(dbus-glib-dev)
+include(glib-dev)
+include(telepathy-glib)
+include(telepathy-glib-data)
+include(telepathy-glib-lib)
+telepathy-glib-dev

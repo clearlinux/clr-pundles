@@ -1,0 +1,10 @@
+# [TITLE]: open-iscsi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(open-iscsi)
+include(open-iscsi-bin)
+include(open-iscsi-lib)
+open-iscsi-dev

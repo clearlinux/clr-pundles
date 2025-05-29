@@ -1,0 +1,9 @@
+# [TITLE]: pm-graph-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pm-graph-data)
+include(pm-graph-license)
+pm-graph-bin

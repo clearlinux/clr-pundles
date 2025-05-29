@@ -1,0 +1,17 @@
+# [TITLE]: karchive-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(karchive-data)
+include(karchive-license)
+include(libc6)
+include(libstdc++)
+include(openssl-lib)
+include(qt6base-lib)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+karchive-lib

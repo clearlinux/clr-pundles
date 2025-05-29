@@ -1,0 +1,9 @@
+# [TITLE]: SDL2_gfx-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-lib)
+include(libc6)
+SDL2_gfx-lib

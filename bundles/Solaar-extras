@@ -1,0 +1,8 @@
+# [TITLE]: Solaar-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+Solaar-extras

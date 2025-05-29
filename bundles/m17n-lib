@@ -1,0 +1,10 @@
+# [TITLE]: m17n-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(m17n-lib-bin)
+include(m17n-lib-lib)
+include(m17n-lib-license)
+m17n-lib

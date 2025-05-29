@@ -1,0 +1,8 @@
+# [TITLE]: lightdm-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+lightdm-services

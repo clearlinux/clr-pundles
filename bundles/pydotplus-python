@@ -1,0 +1,8 @@
+# [TITLE]: pydotplus-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pydotplus-python3)
+pydotplus-python

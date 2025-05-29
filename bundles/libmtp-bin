@@ -1,0 +1,11 @@
+# [TITLE]: libmtp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libmtp-config)
+include(libmtp-lib)
+include(libmtp-license)
+libmtp-bin

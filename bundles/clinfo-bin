@@ -1,0 +1,10 @@
+# [TITLE]: clinfo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clinfo-license)
+include(libc6)
+include(ocl-icd-lib)
+clinfo-bin

@@ -1,0 +1,21 @@
+# [TITLE]: xfce4-screensaver-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libglvnd-lib)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(libxklavier-lib)
+include(pango-lib)
+include(xfce4-screensaver-license)
+include(xfconf-lib)
+xfce4-screensaver-libexec

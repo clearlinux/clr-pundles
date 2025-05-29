@@ -1,0 +1,9 @@
+# [TITLE]: clr-desktop-defaults-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-desktop-defaults-license)
+include(filesystem)
+clr-desktop-defaults-libexec

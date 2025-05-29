@@ -1,0 +1,9 @@
+# [TITLE]: qcoro
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qcoro-lib)
+include(qcoro-license)
+qcoro

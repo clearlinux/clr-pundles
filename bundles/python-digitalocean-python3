@@ -1,0 +1,11 @@
+# [TITLE]: python-digitalocean-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-jsonpickle-python3)
+include(pypi-requests-python3)
+include(pypi-responses-python3)
+include(python3-core)
+python-digitalocean-python3

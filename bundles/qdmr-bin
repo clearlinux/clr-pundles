@@ -1,0 +1,16 @@
+# [TITLE]: qdmr-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qdmr-data)
+include(qdmr-lib)
+include(qdmr-license)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtlocation-lib)
+qdmr-bin

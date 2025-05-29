@@ -1,0 +1,18 @@
+# [TITLE]: os-autoinst-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fftw-lib)
+include(libc6)
+include(libgcc1)
+include(libsndfile-lib)
+include(libstdc++)
+include(opencv-lib)
+include(os-autoinst-data)
+include(os-autoinst-libexec)
+include(os-autoinst-license)
+include(os-autoinst-services)
+include(perl-bin)
+os-autoinst-bin

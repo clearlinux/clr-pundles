@@ -1,0 +1,13 @@
+# [TITLE]: gpsd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpsd)
+include(gpsd-bin)
+include(gpsd-data)
+include(gpsd-lib)
+include(pkg-config-bin)
+include(qtbase-dev)
+gpsd-dev

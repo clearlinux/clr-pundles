@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-open-iscsi-dev
+include(open-iscsi-dev)

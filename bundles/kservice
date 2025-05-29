@@ -1,0 +1,13 @@
+# [TITLE]: kservice
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kservice-bin)
+include(kservice-data)
+include(kservice-lib)
+include(kservice-license)
+include(kservice-locales)
+include(kservice-man)
+kservice

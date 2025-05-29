@@ -1,0 +1,15 @@
+# [TITLE]: gnome-photos-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(gegl-lib)
+include(glib-lib)
+include(gnome-photos-lib)
+include(gnome-photos-license)
+include(libc6)
+include(libdazzle-lib)
+include(libgcc1)
+gnome-photos-libexec

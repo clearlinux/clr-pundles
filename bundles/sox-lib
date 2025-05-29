@@ -1,0 +1,22 @@
+# [TITLE]: sox-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(file-lib)
+include(flac-lib)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libogg-lib)
+include(libpng-lib)
+include(libsndfile-lib)
+include(libtool-lib)
+include(libvorbis-lib)
+include(opusfile-lib)
+include(pulseaudio-lib)
+include(sox-license)
+include(zlib-lib)
+sox-lib

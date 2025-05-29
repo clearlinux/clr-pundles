@@ -1,0 +1,9 @@
+# [TITLE]: compat-taglib-soname1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-taglib-soname1-lib)
+include(compat-taglib-soname1-license)
+compat-taglib-soname1

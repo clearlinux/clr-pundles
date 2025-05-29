@@ -1,0 +1,11 @@
+# [TITLE]: shapelib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(shapelib)
+include(shapelib-bin)
+include(shapelib-lib)
+shapelib-dev

@@ -1,0 +1,12 @@
+# [TITLE]: ksshaskpass
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksshaskpass-bin)
+include(ksshaskpass-data)
+include(ksshaskpass-license)
+include(ksshaskpass-locales)
+include(ksshaskpass-man)
+ksshaskpass

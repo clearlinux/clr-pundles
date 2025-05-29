@@ -1,0 +1,9 @@
+# [TITLE]: breeze-gtk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(breeze-gtk-data)
+include(breeze-gtk-license)
+breeze-gtk

@@ -1,0 +1,16 @@
+# [TITLE]: mutt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(filesystem)
+include(gnutls-lib)
+include(krb5-lib)
+include(libc6)
+include(libidn-lib)
+include(ncurses-lib)
+include(tokyocabinet-lib)
+include(zlib-lib)
+mutt-bin

@@ -1,0 +1,17 @@
+# [TITLE]: tracker-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(json-glib-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+include(sqlite-autoconf-dev)
+include(tracker)
+include(tracker-bin)
+include(tracker-data)
+include(tracker-dev)
+include(tracker-lib)
+tracker-dev

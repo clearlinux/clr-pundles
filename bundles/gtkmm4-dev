@@ -1,0 +1,15 @@
+# [TITLE]: gtkmm4-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairomm-dev)
+include(gdk-pixbuf-dev)
+include(glibmm-dev)
+include(gtk4-dev)
+include(gtkmm4)
+include(gtkmm4-lib)
+include(pangomm-dev)
+include(pkg-config-bin)
+gtkmm4-dev

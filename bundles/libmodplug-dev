@@ -1,0 +1,9 @@
+# [TITLE]: libmodplug-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmodplug)
+include(libmodplug-lib)
+libmodplug-dev

@@ -1,0 +1,9 @@
+# [TITLE]: libmpack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmpack-lib)
+include(libmpack-license)
+libmpack

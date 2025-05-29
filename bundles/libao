@@ -1,0 +1,11 @@
+# [TITLE]: libao
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libao-lib)
+include(libao-license)
+include(libao-man)
+include(sndio)
+libao

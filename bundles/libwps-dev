@@ -1,0 +1,12 @@
+# [TITLE]: libwps-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librevenge-dev)
+include(libwps)
+include(libwps-bin)
+include(libwps-lib)
+include(pkg-config-bin)
+libwps-dev

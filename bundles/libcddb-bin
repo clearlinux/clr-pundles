@@ -1,0 +1,11 @@
+# [TITLE]: libcddb-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcddb-lib)
+include(libcddb-license)
+include(libcdio-lib)
+libcddb-bin

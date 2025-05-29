@@ -1,0 +1,12 @@
+# [TITLE]: xerces-c-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(xerces-c-lib)
+include(xerces-c-license)
+xerces-c-bin

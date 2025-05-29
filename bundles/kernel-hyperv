@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
-console-autostart
+include(console-autostart)
 include(init-rdahead)
 include(kernel-native)
-linux
+include(linux)

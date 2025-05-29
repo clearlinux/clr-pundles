@@ -1,0 +1,8 @@
+# [TITLE]: aspell-pt_BR
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell-pt_BR-license)
+aspell-pt_BR

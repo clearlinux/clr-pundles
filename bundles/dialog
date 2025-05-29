@@ -1,0 +1,12 @@
+# [TITLE]: dialog
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dialog-bin)
+include(dialog-lib)
+include(dialog-license)
+include(dialog-locales)
+include(dialog-man)
+dialog

@@ -1,0 +1,13 @@
+# [TITLE]: solid-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(solid-data)
+include(solid-lib)
+include(solid-license)
+solid-bin

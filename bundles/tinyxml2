@@ -1,0 +1,9 @@
+# [TITLE]: tinyxml2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tinyxml2-lib)
+include(tinyxml2-license)
+tinyxml2

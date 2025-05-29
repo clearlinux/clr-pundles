@@ -1,0 +1,9 @@
+# [TITLE]: libcerf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcerf-license)
+libcerf-lib

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-igt-gpu-tools-dev
+include(igt-gpu-tools-dev)
 include(libX11client)
 include(libglib)
 include(perl-basic)

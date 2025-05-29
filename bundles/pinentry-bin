@@ -1,0 +1,21 @@
+# [TITLE]: pinentry-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glib-lib)
+include(kguiaddons-lib)
+include(kwindowsystem-lib)
+include(libassuan-lib)
+include(libc6)
+include(libgcc1)
+include(libgpg-error-lib)
+include(libsecret-lib)
+include(libstdc++)
+include(ncurses-lib)
+include(pinentry-data)
+include(pinentry-license)
+include(qt6base-lib)
+pinentry-bin

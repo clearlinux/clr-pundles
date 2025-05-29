@@ -1,0 +1,10 @@
+# [TITLE]: libXxf86dga-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libX11-lib32)
+include(libXxf86dga-license)
+libXxf86dga-lib32

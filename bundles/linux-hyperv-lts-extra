@@ -1,0 +1,8 @@
+# [TITLE]: linux-hyperv-lts-extra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linux-hyperv-lts-license)
+linux-hyperv-lts-extra

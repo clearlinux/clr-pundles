@@ -1,0 +1,12 @@
+# [TITLE]: farstream-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(farstream)
+include(farstream-data)
+include(farstream-lib)
+include(gstreamer-dev)
+include(pkg-config-bin)
+farstream-dev

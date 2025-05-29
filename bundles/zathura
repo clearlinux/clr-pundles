@@ -9,7 +9,7 @@ include(libX11client)
 include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
-zathura-pdf-poppler
+include(zathura-pdf-poppler)
 include(lib-poppler)
 # end of custom additions
 

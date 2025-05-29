@@ -1,0 +1,10 @@
+# [TITLE]: vim-extras-minimal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(libc6)
+include(ncurses-lib)
+vim-extras-minimal

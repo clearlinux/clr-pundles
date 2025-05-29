@@ -1,0 +1,38 @@
+# [TITLE]: kio-extras-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-extras-data)
+include(kio-extras-license)
+include(kio-lib)
+include(knotifications-lib)
+include(kservice-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libgcc1)
+include(libkexiv2-lib)
+include(libmtp-lib)
+include(libssh-lib)
+include(libstdc++)
+include(libtirpc-lib)
+include(openexr-lib)
+include(phonon-lib)
+include(plasma-activities-lib)
+include(plasma-activities-stats-lib)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(qt6svg-lib)
+include(solid-lib)
+include(syntax-highlighting-lib)
+include(taglib-lib)
+kio-extras-lib

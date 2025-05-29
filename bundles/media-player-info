@@ -1,0 +1,10 @@
+# [TITLE]: media-player-info
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(media-player-info-config)
+include(media-player-info-data)
+include(media-player-info-license)
+media-player-info

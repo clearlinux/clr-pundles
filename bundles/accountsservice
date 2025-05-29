@@ -1,0 +1,13 @@
+# [TITLE]: accountsservice
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(accountsservice-data)
+include(accountsservice-lib)
+include(accountsservice-libexec)
+include(accountsservice-license)
+include(accountsservice-locales)
+include(accountsservice-services)
+accountsservice

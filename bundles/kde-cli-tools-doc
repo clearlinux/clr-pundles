@@ -1,0 +1,8 @@
+# [TITLE]: kde-cli-tools-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kde-cli-tools-man)
+kde-cli-tools-doc

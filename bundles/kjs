@@ -1,0 +1,12 @@
+# [TITLE]: kjs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kjs-bin)
+include(kjs-data)
+include(kjs-lib)
+include(kjs-license)
+include(kjs-man)
+kjs

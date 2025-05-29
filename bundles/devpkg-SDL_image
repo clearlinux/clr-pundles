@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-SDL_image-dev
+include(SDL_image-dev)

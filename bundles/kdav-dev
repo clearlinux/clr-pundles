@@ -1,0 +1,10 @@
+# [TITLE]: kdav-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdav)
+include(kdav-data)
+include(kdav-lib)
+kdav-dev

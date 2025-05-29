@@ -1,0 +1,11 @@
+# [TITLE]: gnome-initial-setup
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-initial-setup-data)
+include(gnome-initial-setup-libexec)
+include(gnome-initial-setup-license)
+include(gnome-initial-setup-locales)
+gnome-initial-setup

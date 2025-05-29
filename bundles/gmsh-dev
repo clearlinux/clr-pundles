@@ -1,0 +1,12 @@
+# [TITLE]: gmsh-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmsh)
+include(gmsh-bin)
+include(gmsh-data)
+include(gmsh-lib)
+include(gmsh-openmpi)
+gmsh-dev

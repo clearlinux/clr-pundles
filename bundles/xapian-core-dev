@@ -1,0 +1,12 @@
+# [TITLE]: xapian-core-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xapian-core)
+include(xapian-core-bin)
+include(xapian-core-data)
+include(xapian-core-lib)
+xapian-core-dev

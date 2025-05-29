@@ -1,0 +1,8 @@
+# [TITLE]: qtsensors-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtsensors-dev)
+qtsensors-examples

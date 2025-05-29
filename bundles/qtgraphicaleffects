@@ -1,0 +1,9 @@
+# [TITLE]: qtgraphicaleffects
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtgraphicaleffects-lib)
+include(qtgraphicaleffects-license)
+qtgraphicaleffects

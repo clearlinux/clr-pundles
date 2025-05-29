@@ -1,0 +1,11 @@
+# [TITLE]: pmdk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ndctl-lib)
+include(pmdk-data)
+include(pmdk-license)
+pmdk-lib

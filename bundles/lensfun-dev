@@ -1,0 +1,13 @@
+# [TITLE]: lensfun-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(lensfun)
+include(lensfun-bin)
+include(lensfun-data)
+include(lensfun-lib)
+include(pkg-config-bin)
+lensfun-dev

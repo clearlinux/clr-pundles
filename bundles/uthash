@@ -1,0 +1,8 @@
+# [TITLE]: uthash
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(uthash-license)
+uthash

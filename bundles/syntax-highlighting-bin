@@ -1,0 +1,13 @@
+# [TITLE]: syntax-highlighting-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(syntax-highlighting-data)
+include(syntax-highlighting-lib)
+include(syntax-highlighting-license)
+syntax-highlighting-bin

@@ -1,0 +1,12 @@
+# [TITLE]: libaccounts-qt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libaccounts-qt)
+include(libaccounts-qt-bin)
+include(libaccounts-qt-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+libaccounts-qt-dev

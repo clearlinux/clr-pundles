@@ -1,0 +1,38 @@
+# [TITLE]: emacs-x11-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ImageMagick-lib)
+include(acl-lib)
+include(alsa-lib-lib)
+include(cairo-lib)
+include(dbus-lib)
+include(emacs-x11-data)
+include(emacs-x11-libexec)
+include(emacs-x11-license)
+include(fontconfig-lib)
+include(freetype-lib)
+include(gcc-jit)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gmp-lib)
+include(gnutls-lib)
+include(gpm-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(librsvg-lib)
+include(libxml2-lib)
+include(ncurses-lib)
+include(pango-lib)
+include(sqlite-autoconf-lib)
+include(systemd-extras-libsystemd)
+include(tree-sitter-lib)
+include(zlib-lib)
+emacs-x11-bin

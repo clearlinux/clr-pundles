@@ -1,0 +1,15 @@
+# [TITLE]: kdesu-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdesu-data)
+include(kdesu-license)
+include(kpty-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdesu-lib

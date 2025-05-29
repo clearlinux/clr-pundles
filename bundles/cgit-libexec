@@ -1,0 +1,13 @@
+# [TITLE]: cgit-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cgit-config)
+include(cgit-license)
+include(coreutils-bin)
+include(filesystem)
+include(libc6)
+include(zlib-lib)
+cgit-libexec

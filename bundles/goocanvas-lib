@@ -1,0 +1,16 @@
+# [TITLE]: goocanvas-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(goocanvas-data)
+include(goocanvas-license)
+include(gtk3-lib)
+include(libc6)
+include(pango-lib)
+goocanvas-lib

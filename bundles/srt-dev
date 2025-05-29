@@ -1,0 +1,12 @@
+# [TITLE]: srt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openssl-dev)
+include(pkg-config-bin)
+include(srt)
+include(srt-bin)
+include(srt-lib)
+srt-dev

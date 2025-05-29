@@ -1,0 +1,12 @@
+# [TITLE]: quagga-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c-ares-lib)
+include(libc6)
+include(quagga-lib)
+include(quagga-license)
+include(readline-lib)
+quagga-bin

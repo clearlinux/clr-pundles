@@ -1,0 +1,8 @@
+# [TITLE]: gnome-music-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-music-python3)
+gnome-music-python

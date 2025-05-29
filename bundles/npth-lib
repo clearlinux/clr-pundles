@@ -1,0 +1,9 @@
+# [TITLE]: npth-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(npth-license)
+npth-lib

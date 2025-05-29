@@ -1,0 +1,11 @@
+# [TITLE]: menu-cache-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(menu-cache-libexec)
+include(menu-cache-license)
+menu-cache-lib

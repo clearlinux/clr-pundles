@@ -1,0 +1,8 @@
+# [TITLE]: pynvim-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pynvim-python3)
+pynvim-python

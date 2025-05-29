@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libcroco-dev
+include(libcroco-dev)
 include(libglib)

@@ -1,0 +1,13 @@
+# [TITLE]: imapfilter-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(imapfilter-data)
+include(imapfilter-license)
+include(libc6)
+include(lua-lib)
+include(openssl-lib)
+include(pcre2-lib)
+imapfilter-bin

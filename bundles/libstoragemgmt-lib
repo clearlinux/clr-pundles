@@ -1,0 +1,15 @@
+# [TITLE]: libstoragemgmt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(ledmon-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libstoragemgmt-libexec)
+include(libstoragemgmt-license)
+include(systemd-lib)
+libstoragemgmt-lib

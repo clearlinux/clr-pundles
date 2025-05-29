@@ -1,0 +1,13 @@
+# [TITLE]: ostree-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(ostree)
+include(ostree-bin)
+include(ostree-data)
+include(ostree-lib)
+include(pkg-config-bin)
+ostree-dev

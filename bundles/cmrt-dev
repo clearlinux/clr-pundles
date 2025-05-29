@@ -1,0 +1,9 @@
+# [TITLE]: cmrt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmrt)
+include(cmrt-lib)
+cmrt-dev

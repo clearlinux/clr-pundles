@@ -1,0 +1,14 @@
+# [TITLE]: gnome-autoar-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-autoar-data)
+include(gnome-autoar-license)
+include(gtk3-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+gnome-autoar-lib

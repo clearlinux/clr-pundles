@@ -1,0 +1,10 @@
+# [TITLE]: QR-Code-generator-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QR-Code-generator)
+include(QR-Code-generator-lib)
+include(pkg-config-bin)
+QR-Code-generator-dev

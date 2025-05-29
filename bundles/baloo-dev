@@ -1,0 +1,13 @@
+# [TITLE]: baloo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baloo)
+include(baloo-bin)
+include(baloo-data)
+include(baloo-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+baloo-dev

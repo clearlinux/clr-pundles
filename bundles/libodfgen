@@ -1,0 +1,9 @@
+# [TITLE]: libodfgen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libodfgen-lib)
+include(libodfgen-license)
+libodfgen

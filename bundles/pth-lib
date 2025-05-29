@@ -1,0 +1,9 @@
+# [TITLE]: pth-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pth-license)
+pth-lib

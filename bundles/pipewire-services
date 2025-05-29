@@ -1,0 +1,8 @@
+# [TITLE]: pipewire-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+pipewire-services

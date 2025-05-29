@@ -1,0 +1,11 @@
+# [TITLE]: xfce4-battery-plugin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfce4-battery-plugin-data)
+include(xfce4-battery-plugin-lib)
+include(xfce4-battery-plugin-license)
+include(xfce4-battery-plugin-locales)
+xfce4-battery-plugin

@@ -1,0 +1,16 @@
+# [TITLE]: powertop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libnl-lib)
+include(libstdc++)
+include(ncurses-lib)
+include(pciutils-lib)
+include(powertop-data)
+include(powertop-license)
+include(powertop-services)
+powertop-bin

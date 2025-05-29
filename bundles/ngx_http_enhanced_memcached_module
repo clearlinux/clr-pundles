@@ -1,0 +1,8 @@
+# [TITLE]: ngx_http_enhanced_memcached_module
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ngx_http_enhanced_memcached_module-lib)
+ngx_http_enhanced_memcached_module

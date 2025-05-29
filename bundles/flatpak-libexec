@@ -1,0 +1,26 @@
+# [TITLE]: flatpak-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(dconf-lib)
+include(filesystem)
+include(flatpak-config)
+include(flatpak-license)
+include(fuse-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libarchive-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libxml2-lib)
+include(ostree-lib)
+include(polkit-lib)
+include(systemd-extras-libsystemd)
+include(zstd-lib)
+flatpak-libexec

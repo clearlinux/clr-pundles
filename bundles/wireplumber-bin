@@ -1,0 +1,15 @@
+# [TITLE]: wireplumber-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(pipewire-lib)
+include(wireplumber-data)
+include(wireplumber-lib)
+include(wireplumber-license)
+include(wireplumber-services)
+wireplumber-bin

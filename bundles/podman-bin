@@ -1,0 +1,15 @@
+# [TITLE]: podman-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-lib)
+include(libc6)
+include(libseccomp-lib)
+include(podman-config)
+include(podman-data)
+include(podman-libexec)
+include(podman-license)
+include(podman-services)
+podman-bin

@@ -1,0 +1,11 @@
+# [TITLE]: killbots
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(killbots-bin)
+include(killbots-data)
+include(killbots-license)
+include(killbots-locales)
+killbots

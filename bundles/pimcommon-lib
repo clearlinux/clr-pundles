@@ -1,0 +1,36 @@
+# [TITLE]: pimcommon-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-contacts-lib)
+include(akonadi-lib)
+include(akonadi-search-lib)
+include(kcmutils-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kimap-lib)
+include(kio-lib)
+include(kitemmodels-lib)
+include(kitemviews-lib)
+include(kldap-lib)
+include(knewstuff-lib)
+include(ktextaddons-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libkdepim-lib)
+include(libstdc++)
+include(pimcommon-data)
+include(pimcommon-license)
+include(plasma-activities-lib)
+include(purpose-lib)
+include(qt6base-lib)
+pimcommon-lib

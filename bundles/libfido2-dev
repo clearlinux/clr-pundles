@@ -1,0 +1,12 @@
+# [TITLE]: libfido2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfido2)
+include(libfido2-bin)
+include(libfido2-lib)
+include(openssl-dev)
+include(pkg-config-bin)
+libfido2-dev

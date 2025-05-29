@@ -1,0 +1,10 @@
+# [TITLE]: emacs-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(emacs-license)
+include(filesystem)
+include(libc6)
+emacs-libexec

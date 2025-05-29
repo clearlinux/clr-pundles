@@ -1,0 +1,12 @@
+# [TITLE]: kde-dev-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kde-dev-utils-bin)
+include(kde-dev-utils-data)
+include(kde-dev-utils-lib)
+include(kde-dev-utils-license)
+include(kde-dev-utils-locales)
+kde-dev-utils

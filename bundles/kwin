@@ -1,0 +1,27 @@
+# [TITLE]: kwin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdecoration-lib)
+include(kglobalaccel-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(kwin-bin)
+include(kwin-data)
+include(kwin-lib)
+include(kwin-license)
+include(kwin-locales)
+include(kwin-services)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+kwin

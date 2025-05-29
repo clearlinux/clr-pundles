@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-font-util-dev
+include(font-util-dev)

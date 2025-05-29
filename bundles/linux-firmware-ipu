@@ -1,0 +1,8 @@
+# [TITLE]: linux-firmware-ipu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linux-firmware-doc)
+linux-firmware-ipu

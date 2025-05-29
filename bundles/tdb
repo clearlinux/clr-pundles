@@ -1,0 +1,12 @@
+# [TITLE]: tdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tdb-bin)
+include(tdb-lib)
+include(tdb-man)
+include(tdb-python)
+include(tdb-python3)
+tdb

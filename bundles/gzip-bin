@@ -1,0 +1,9 @@
+# [TITLE]: gzip-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gzip-license)
+gzip-bin

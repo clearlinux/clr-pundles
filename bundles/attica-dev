@@ -1,0 +1,12 @@
+# [TITLE]: attica-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attica)
+include(attica-data)
+include(attica-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+attica-dev

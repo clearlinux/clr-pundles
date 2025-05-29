@@ -1,0 +1,8 @@
+# [TITLE]: thermal_daemon-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+thermal_daemon-services

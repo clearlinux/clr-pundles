@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-xdg-desktop-portal-dev
+include(xdg-desktop-portal-dev)
 include(libglib)
 include(xdg-desktop-portal)

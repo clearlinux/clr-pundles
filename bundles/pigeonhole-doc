@@ -1,0 +1,8 @@
+# [TITLE]: pigeonhole-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pigeonhole-man)
+pigeonhole-doc

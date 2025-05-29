@@ -1,0 +1,15 @@
+# [TITLE]: etr-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SFML-lib)
+include(etr-data)
+include(etr-license)
+include(glu-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+etr-bin

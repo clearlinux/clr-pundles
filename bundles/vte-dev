@@ -1,0 +1,18 @@
+# [TITLE]: vte-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(glib-dev)
+include(gtk3-dev)
+include(gtk4-dev)
+include(pango-dev)
+include(pkg-config-bin)
+include(vte)
+include(vte-bin)
+include(vte-data)
+include(vte-extras)
+include(vte-lib)
+vte-dev

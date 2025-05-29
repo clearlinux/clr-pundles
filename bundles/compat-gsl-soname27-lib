@@ -1,0 +1,9 @@
+# [TITLE]: compat-gsl-soname27-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gsl-soname27-license)
+include(libc6)
+compat-gsl-soname27-lib

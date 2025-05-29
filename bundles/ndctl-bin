@@ -1,0 +1,15 @@
+# [TITLE]: ndctl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-lib)
+include(keyutils-lib)
+include(libc6)
+include(ndctl-data)
+include(ndctl-lib)
+include(ndctl-license)
+include(ndctl-services)
+include(util-linux-lib)
+ndctl-bin

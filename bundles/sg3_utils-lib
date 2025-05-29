@@ -1,0 +1,9 @@
+# [TITLE]: sg3_utils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(sg3_utils-license)
+sg3_utils-lib

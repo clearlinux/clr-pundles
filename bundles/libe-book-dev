@@ -1,0 +1,15 @@
+# [TITLE]: libe-book-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-dev)
+include(libe-book)
+include(libe-book-bin)
+include(libe-book-lib)
+include(liblangtag-dev)
+include(librevenge-dev)
+include(libxml2-dev)
+include(zlib-dev)
+libe-book-dev

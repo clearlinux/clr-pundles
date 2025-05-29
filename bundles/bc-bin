@@ -1,0 +1,9 @@
+# [TITLE]: bc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bc-license)
+include(libc6)
+bc-bin

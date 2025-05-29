@@ -1,0 +1,9 @@
+# [TITLE]: audisp-json
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audisp-json-bin)
+include(audisp-json-data)
+audisp-json

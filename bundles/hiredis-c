@@ -1,0 +1,9 @@
+# [TITLE]: hiredis-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hiredis-c-lib)
+include(hiredis-c-license)
+hiredis-c

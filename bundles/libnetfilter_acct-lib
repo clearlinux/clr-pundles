@@ -1,0 +1,10 @@
+# [TITLE]: libnetfilter_acct-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libmnl-lib)
+include(libnetfilter_acct-license)
+libnetfilter_acct-lib

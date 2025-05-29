@@ -1,0 +1,12 @@
+# [TITLE]: neon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(neon-bin)
+include(neon-lib)
+include(neon-license)
+include(neon-locales)
+include(neon-man)
+neon

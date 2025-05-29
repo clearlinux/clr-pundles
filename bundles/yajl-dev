@@ -1,0 +1,10 @@
+# [TITLE]: yajl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yajl)
+include(yajl-bin)
+include(yajl-lib)
+yajl-dev

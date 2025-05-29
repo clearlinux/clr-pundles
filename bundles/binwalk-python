@@ -1,0 +1,8 @@
+# [TITLE]: binwalk-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binwalk-python3)
+binwalk-python

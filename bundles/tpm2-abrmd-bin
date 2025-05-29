@@ -1,0 +1,13 @@
+# [TITLE]: tpm2-abrmd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(tpm2-abrmd-data)
+include(tpm2-abrmd-license)
+include(tpm2-abrmd-services)
+include(tpm2-tss-lib)
+tpm2-abrmd-bin

@@ -1,0 +1,12 @@
+# [TITLE]: boost-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+boost-extras

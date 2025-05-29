@@ -1,0 +1,9 @@
+# [TITLE]: libblockdev-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbytesize)
+include(python3-core)
+libblockdev-python3

@@ -1,0 +1,8 @@
+# [TITLE]: perl-Package-Constants
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Package-Constants-perl)
+perl-Package-Constants

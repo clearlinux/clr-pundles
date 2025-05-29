@@ -1,0 +1,11 @@
+# [TITLE]: ghostscript-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ghostscript)
+include(ghostscript-bin)
+include(ghostscript-data)
+include(ghostscript-lib)
+ghostscript-dev

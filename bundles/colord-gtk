@@ -1,0 +1,12 @@
+# [TITLE]: colord-gtk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-gtk-bin)
+include(colord-gtk-data)
+include(colord-gtk-lib)
+include(colord-gtk-license)
+include(colord-gtk-locales)
+colord-gtk

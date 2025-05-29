@@ -1,0 +1,14 @@
+# [TITLE]: audacious-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audacious-data)
+include(audacious-lib)
+include(audacious-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+audacious-bin

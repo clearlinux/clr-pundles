@@ -1,0 +1,9 @@
+# [TITLE]: psstop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(psstop-license)
+psstop-bin

@@ -13,7 +13,7 @@ include(ncurses-lib)
 # install pynvim for python plugins to work (having python is not
 # mandatory, but it will be used if available, hence we don't include() any
 # python bundle).
-pynvim
+include(pynvim)
 include(python3-basic)
 # end of custom additions
 

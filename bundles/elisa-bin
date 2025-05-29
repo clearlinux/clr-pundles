@@ -1,0 +1,19 @@
+# [TITLE]: elisa-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elisa-data)
+include(elisa-lib)
+include(elisa-license)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+elisa-bin

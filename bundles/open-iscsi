@@ -1,0 +1,13 @@
+# [TITLE]: open-iscsi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(open-iscsi-bin)
+include(open-iscsi-lib)
+include(open-iscsi-license)
+include(open-iscsi-man)
+include(open-iscsi-services)
+open-iscsi

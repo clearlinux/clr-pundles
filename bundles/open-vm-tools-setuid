@@ -1,0 +1,8 @@
+# [TITLE]: open-vm-tools-setuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+open-vm-tools-setuid

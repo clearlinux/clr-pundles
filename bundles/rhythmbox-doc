@@ -1,0 +1,8 @@
+# [TITLE]: rhythmbox-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rhythmbox-man)
+rhythmbox-doc

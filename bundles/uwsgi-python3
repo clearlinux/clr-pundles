@@ -1,0 +1,10 @@
+# [TITLE]: uwsgi-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests-python3)
+include(pypi-werkzeug-python3)
+include(python3-core)
+uwsgi-python3

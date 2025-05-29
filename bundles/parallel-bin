@@ -1,0 +1,11 @@
+# [TITLE]: parallel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(parallel-data)
+include(parallel-license)
+include(perl-bin)
+parallel-bin

@@ -1,0 +1,11 @@
+# [TITLE]: bspwm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bspwm-data)
+include(bspwm-license)
+include(libX11-lib)
+include(libc6)
+bspwm-bin

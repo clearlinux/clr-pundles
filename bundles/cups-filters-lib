@@ -1,0 +1,14 @@
+# [TITLE]: cups-filters-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-filters-data)
+include(cups-lib)
+include(dbus-lib)
+include(libc6)
+include(libexif-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+cups-filters-lib

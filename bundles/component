@@ -1,0 +1,9 @@
+# [TITLE]: component
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(component-python)
+include(component-python3)
+component

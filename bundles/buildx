@@ -1,0 +1,9 @@
+# [TITLE]: buildx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(docker)
+include(libc6)
+buildx

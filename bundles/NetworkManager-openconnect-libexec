@@ -1,0 +1,18 @@
+# [TITLE]: NetworkManager-openconnect-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-lib)
+include(NetworkManager-openconnect-license)
+include(compat-gcr-soname1-lib)
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libsecret-lib)
+include(libsoup-lib)
+include(openconnect-lib)
+include(webkitgtk-lib)
+NetworkManager-openconnect-libexec

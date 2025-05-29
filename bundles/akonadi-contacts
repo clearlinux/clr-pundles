@@ -1,0 +1,11 @@
+# [TITLE]: akonadi-contacts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-contacts-data)
+include(akonadi-contacts-lib)
+include(akonadi-contacts-license)
+include(akonadi-contacts-locales)
+akonadi-contacts

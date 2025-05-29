@@ -1,0 +1,14 @@
+# [TITLE]: qemu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qemu-bin)
+include(qemu-data)
+include(qemu-libexec)
+include(qemu-license)
+include(qemu-locales)
+include(qemu-man)
+include(qemu-setuid)
+qemu

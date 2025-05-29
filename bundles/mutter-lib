@@ -1,0 +1,43 @@
+# [TITLE]: mutter-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(colord-lib)
+include(fribidi-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(graphene-lib)
+include(harfbuzz-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libXtst-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libdisplay-info-lib)
+include(libdrm-lib)
+include(libei-lib)
+include(libgcc1)
+include(libglvnd-lib)
+include(libgudev-lib)
+include(libinput-lib)
+include(libwacom-lib)
+include(libxkbcommon-lib)
+include(libxkbfile-lib)
+include(mesa-lib)
+include(mutter-data)
+include(mutter-libexec)
+include(mutter-license)
+include(pango-lib)
+include(pipewire-lib)
+include(pixman-lib)
+include(startup-notification-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+include(wayland-lib)
+mutter-lib

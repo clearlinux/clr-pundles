@@ -1,0 +1,11 @@
+# [TITLE]: syslinux-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(syslinux-data)
+include(syslinux-license)
+include(util-linux-lib)
+syslinux-bin

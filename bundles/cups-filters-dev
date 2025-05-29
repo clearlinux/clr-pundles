@@ -1,0 +1,12 @@
+# [TITLE]: cups-filters-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-filters)
+include(cups-filters-bin)
+include(cups-filters-data)
+include(cups-filters-lib)
+include(pkg-config-bin)
+cups-filters-dev

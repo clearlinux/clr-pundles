@@ -1,0 +1,8 @@
+# [TITLE]: baobab-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baobab-man)
+baobab-doc

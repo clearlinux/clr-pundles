@@ -1,0 +1,8 @@
+# [TITLE]: vinagre-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vinagre-man)
+vinagre-doc

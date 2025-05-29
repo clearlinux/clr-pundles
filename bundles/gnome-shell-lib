@@ -1,0 +1,31 @@
+# [TITLE]: gnome-shell-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-lib)
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gcr-lib)
+include(gdk-pixbuf-lib)
+include(gjs-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gnome-shell-data)
+include(gnome-shell-libexec)
+include(gnome-shell-license)
+include(graphene-lib)
+include(gtk4-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libsecret-lib)
+include(mutter-lib)
+include(pango-lib)
+include(pipewire-lib)
+include(polkit-lib)
+include(pulseaudio-lib)
+include(systemd-extras-libsystemd)
+gnome-shell-lib

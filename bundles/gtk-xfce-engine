@@ -1,0 +1,10 @@
+# [TITLE]: gtk-xfce-engine
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk-xfce-engine-data)
+include(gtk-xfce-engine-lib)
+include(gtk-xfce-engine-license)
+gtk-xfce-engine

@@ -1,0 +1,10 @@
+# [TITLE]: gnome-shell-extensions
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-shell-extensions-data)
+include(gnome-shell-extensions-license)
+include(gnome-shell-extensions-locales)
+gnome-shell-extensions

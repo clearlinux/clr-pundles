@@ -1,0 +1,9 @@
+# [TITLE]: gnome-common-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-common)
+include(gnome-common-bin)
+gnome-common-dev

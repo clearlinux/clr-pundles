@@ -1,0 +1,14 @@
+# [TITLE]: libgsf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(libc6)
+include(libgsf-data)
+include(libgsf-license)
+include(zlib-lib)
+libgsf-lib

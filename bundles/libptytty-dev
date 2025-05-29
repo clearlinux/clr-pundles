@@ -1,0 +1,10 @@
+# [TITLE]: libptytty-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libptytty)
+include(libptytty-lib)
+include(pkg-config-bin)
+libptytty-dev

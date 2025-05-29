@@ -1,0 +1,14 @@
+# [TITLE]: qtkeychain-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qtkeychain-data)
+include(qtkeychain-license)
+qtkeychain-lib

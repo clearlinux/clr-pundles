@@ -1,0 +1,28 @@
+# [TITLE]: gnome-photos-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(babl-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(gegl-lib)
+include(geocode-glib-lib)
+include(gexiv2-lib)
+include(glib-lib)
+include(gnome-online-accounts-lib)
+include(gnome-photos-data)
+include(gnome-photos-lib)
+include(gnome-photos-libexec)
+include(gnome-photos-license)
+include(gtk3-lib)
+include(libc6)
+include(libdazzle-lib)
+include(libgcc1)
+include(libhandy-lib)
+include(libportal-lib)
+include(pango-lib)
+include(tracker-lib)
+gnome-photos-bin

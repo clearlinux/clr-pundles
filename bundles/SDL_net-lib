@@ -1,0 +1,10 @@
+# [TITLE]: SDL_net-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-lib)
+include(SDL_net-license)
+include(libc6)
+SDL_net-lib

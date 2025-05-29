@@ -1,0 +1,8 @@
+# [TITLE]: dnsmasq-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+dnsmasq-services

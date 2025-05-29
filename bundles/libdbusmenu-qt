@@ -1,0 +1,9 @@
+# [TITLE]: libdbusmenu-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdbusmenu-qt-lib)
+include(libdbusmenu-qt-license)
+libdbusmenu-qt

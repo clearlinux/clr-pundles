@@ -1,0 +1,8 @@
+# [TITLE]: sundials-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sundials-dev)
+sundials-staticdev

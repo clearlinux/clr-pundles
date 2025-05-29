@@ -1,0 +1,10 @@
+# [TITLE]: bind-utils-extras-dnssec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bind-utils-lib)
+include(libc6)
+include(openssl-lib)
+bind-utils-extras-dnssec

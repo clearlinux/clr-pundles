@@ -1,0 +1,11 @@
+# [TITLE]: quagga-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcap-lib)
+include(libxcrypt-lib)
+include(quagga-license)
+quagga-lib

@@ -1,0 +1,10 @@
+# [TITLE]: iproute2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iproute2)
+include(iproute2-bin)
+include(iproute2-data)
+iproute2-dev

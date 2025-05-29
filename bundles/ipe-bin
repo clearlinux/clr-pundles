@@ -1,0 +1,18 @@
+# [TITLE]: ipe-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(filesystem)
+include(ipe-data)
+include(ipe-lib)
+include(ipe-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(lua-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+ipe-bin

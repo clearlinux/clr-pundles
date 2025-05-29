@@ -1,0 +1,28 @@
+# [TITLE]: calendarsupport-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-calendar-lib)
+include(akonadi-lib)
+include(calendarsupport-data)
+include(calendarsupport-license)
+include(kcalendarcore-lib)
+include(kcalutils-lib)
+include(kcodecs-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kguiaddons-lib)
+include(kholidays-lib)
+include(ki18n-lib)
+include(kidentitymanagement-lib)
+include(kio-lib)
+include(kmime-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+calendarsupport-lib

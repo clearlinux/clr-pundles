@@ -1,0 +1,10 @@
+# [TITLE]: libburn-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libburn-lib)
+include(libburn-license)
+include(libc6)
+libburn-bin

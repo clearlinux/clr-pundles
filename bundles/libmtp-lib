@@ -1,0 +1,11 @@
+# [TITLE]: libmtp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcrypt-lib)
+include(libmtp-license)
+include(libusb-lib)
+libmtp-lib

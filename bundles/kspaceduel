@@ -1,0 +1,11 @@
+# [TITLE]: kspaceduel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kspaceduel-bin)
+include(kspaceduel-data)
+include(kspaceduel-license)
+include(kspaceduel-locales)
+kspaceduel

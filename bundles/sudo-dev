@@ -1,0 +1,10 @@
+# [TITLE]: sudo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sudo)
+include(sudo-bin)
+include(sudo-data)
+sudo-dev

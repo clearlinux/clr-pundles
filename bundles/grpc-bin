@@ -1,0 +1,15 @@
+# [TITLE]: grpc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(grpc-data)
+include(grpc-lib)
+include(grpc-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(protobuf-lib)
+grpc-bin

@@ -10,8 +10,8 @@
 include(popt-lib)
 include(numactl)
 include(libxml2)
-lttng-ust
+include(lttng-ust)
 # end of custom additions
 
 # main package
-lttng-tools
+include(lttng-tools)

@@ -1,0 +1,11 @@
+# [TITLE]: libksba
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libksba-bin)
+include(libksba-info)
+include(libksba-lib)
+include(libksba-license)
+libksba

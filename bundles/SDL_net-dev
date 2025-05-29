@@ -1,0 +1,10 @@
+# [TITLE]: SDL_net-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-dev)
+include(SDL_net)
+include(SDL_net-lib)
+SDL_net-dev

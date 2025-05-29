@@ -1,0 +1,11 @@
+# [TITLE]: routino-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(routino)
+include(routino-bin)
+include(routino-data)
+include(routino-lib)
+routino-dev

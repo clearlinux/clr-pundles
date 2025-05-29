@@ -1,0 +1,11 @@
+# [TITLE]: dtc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dtc)
+include(dtc-bin)
+include(dtc-lib)
+include(pkg-config-bin)
+dtc-dev

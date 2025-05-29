@@ -1,0 +1,8 @@
+# [TITLE]: openjdk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openjdk-license)
+openjdk-bin

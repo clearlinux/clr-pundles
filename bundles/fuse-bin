@@ -1,0 +1,11 @@
+# [TITLE]: fuse-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fuse-config)
+include(fuse-lib)
+include(fuse-license)
+include(libc6)
+fuse-bin

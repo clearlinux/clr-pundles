@@ -1,0 +1,14 @@
+# [TITLE]: gvfs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gvfs-config)
+include(gvfs-data)
+include(gvfs-lib)
+include(gvfs-libexec)
+include(gvfs-license)
+include(gvfs-locales)
+include(gvfs-services)
+gvfs

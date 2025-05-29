@@ -1,0 +1,8 @@
+# [TITLE]: musl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(musl-license)
+musl-lib

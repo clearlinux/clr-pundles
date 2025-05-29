@@ -1,0 +1,10 @@
+# [TITLE]: gnome-themes-extra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-themes-extra-data)
+include(gnome-themes-extra-lib)
+include(gnome-themes-extra-license)
+gnome-themes-extra

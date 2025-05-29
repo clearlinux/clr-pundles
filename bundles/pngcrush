@@ -1,0 +1,9 @@
+# [TITLE]: pngcrush
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pngcrush-bin)
+include(pngcrush-license)
+pngcrush

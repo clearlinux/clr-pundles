@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-icon-naming-utils-dev
+include(icon-naming-utils-dev)
 include(perl-basic)

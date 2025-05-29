@@ -1,0 +1,10 @@
+# [TITLE]: libkcddb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkcddb)
+include(libkcddb-data)
+include(libkcddb-lib)
+libkcddb-dev

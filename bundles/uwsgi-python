@@ -1,0 +1,8 @@
+# [TITLE]: uwsgi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(uwsgi-python3)
+uwsgi-python

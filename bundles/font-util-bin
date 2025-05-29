@@ -1,0 +1,10 @@
+# [TITLE]: font-util-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(font-util-data)
+include(font-util-license)
+include(libc6)
+font-util-bin

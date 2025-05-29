@@ -1,0 +1,10 @@
+# [TITLE]: npth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(npth-bin)
+include(npth-lib)
+include(npth-license)
+npth

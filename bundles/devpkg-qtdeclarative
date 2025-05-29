@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtdeclarative-dev
+include(qtdeclarative-dev)
 include(lib-opengl)
 include(qt-core)
 include(qt-basic)

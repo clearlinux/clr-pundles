@@ -1,0 +1,10 @@
+# [TITLE]: syndication-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(syndication)
+include(syndication-data)
+include(syndication-lib)
+syndication-dev

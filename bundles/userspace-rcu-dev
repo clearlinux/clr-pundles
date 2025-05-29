@@ -1,0 +1,10 @@
+# [TITLE]: userspace-rcu-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(userspace-rcu)
+include(userspace-rcu-lib)
+userspace-rcu-dev

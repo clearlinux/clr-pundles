@@ -1,0 +1,15 @@
+# [TITLE]: wireplumber-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(lua-lib)
+include(pipewire-lib)
+include(systemd-extras-libsystemd)
+include(wireplumber-data)
+include(wireplumber-license)
+wireplumber-lib

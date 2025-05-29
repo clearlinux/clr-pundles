@@ -1,0 +1,15 @@
+# [TITLE]: rng-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(jansson-lib)
+include(libc6)
+include(libcap-lib)
+include(openssl-lib)
+include(rng-tools-data)
+include(rng-tools-license)
+include(rng-tools-services)
+rng-tools-bin

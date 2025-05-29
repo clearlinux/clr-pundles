@@ -1,0 +1,11 @@
+# [TITLE]: btrfs-progs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(btrfs-progs)
+include(btrfs-progs-bin)
+include(btrfs-progs-lib)
+include(pkg-config-bin)
+btrfs-progs-dev

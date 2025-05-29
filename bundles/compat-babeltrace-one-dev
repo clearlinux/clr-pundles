@@ -1,0 +1,13 @@
+# [TITLE]: compat-babeltrace-one-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-babeltrace-one)
+include(compat-babeltrace-one-bin)
+include(compat-babeltrace-one-dev)
+include(compat-babeltrace-one-lib)
+include(popt-dev)
+include(util-linux-dev)
+compat-babeltrace-one-dev

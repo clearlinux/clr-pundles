@@ -1,0 +1,8 @@
+# [TITLE]: linecache2-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+linecache2-python3

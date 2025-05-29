@@ -1,0 +1,13 @@
+# [TITLE]: ModemManager-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager)
+include(ModemManager-bin)
+include(ModemManager-data)
+include(ModemManager-dev)
+include(ModemManager-lib)
+include(glib-dev)
+ModemManager-dev

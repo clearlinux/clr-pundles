@@ -1,0 +1,10 @@
+# [TITLE]: cifs-utils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cifs-utils)
+include(cifs-utils-bin)
+include(cifs-utils-lib)
+cifs-utils-dev

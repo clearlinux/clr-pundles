@@ -1,0 +1,15 @@
+# [TITLE]: qt6wayland-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libglvnd-lib)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(qt6base-lib)
+include(qt6wayland-libexec)
+include(qt6wayland-license)
+include(wayland-lib)
+qt6wayland-lib

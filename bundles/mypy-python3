@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(pypi-mypy_extensions-python3)
+include(pypi-pathspec-python3)
 include(pypi-typing_extensions-python3)
 include(python3-core)
 mypy-python3

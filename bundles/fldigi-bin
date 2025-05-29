@@ -1,0 +1,21 @@
+# [TITLE]: fldigi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fldigi-data)
+include(fldigi-license)
+include(fltk-lib)
+include(hamlib-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libpng-lib)
+include(libsamplerate-lib)
+include(libsndfile-lib)
+include(libstdc++)
+include(portaudio-lib)
+include(pulseaudio-lib)
+include(systemd-lib)
+fldigi-bin

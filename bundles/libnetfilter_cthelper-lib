@@ -1,0 +1,10 @@
+# [TITLE]: libnetfilter_cthelper-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libmnl-lib)
+include(libnetfilter_cthelper-license)
+libnetfilter_cthelper-lib

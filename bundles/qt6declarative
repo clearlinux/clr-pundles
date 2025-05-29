@@ -1,0 +1,10 @@
+# [TITLE]: qt6declarative
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6declarative-lib)
+include(qt6declarative-libexec)
+include(qt6declarative-license)
+qt6declarative

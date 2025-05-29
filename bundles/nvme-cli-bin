@@ -1,0 +1,15 @@
+# [TITLE]: nvme-cli-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-lib)
+include(libc6)
+include(libgcc1)
+include(libnvme-lib)
+include(nvme-cli-config)
+include(nvme-cli-data)
+include(nvme-cli-license)
+include(nvme-cli-services)
+nvme-cli-bin

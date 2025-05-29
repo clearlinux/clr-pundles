@@ -1,0 +1,12 @@
+# [TITLE]: cppcheck-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cppcheck-data)
+include(cppcheck-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+cppcheck-bin

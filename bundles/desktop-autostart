@@ -7,5 +7,5 @@
 
 include(desktop)
 
-gdm-autostart
-gnome-initial-setup
+include(gdm-autostart)
+include(gnome-initial-setup)

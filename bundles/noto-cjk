@@ -1,0 +1,9 @@
+# [TITLE]: noto-cjk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(noto-cjk-data)
+include(noto-cjk-license)
+noto-cjk

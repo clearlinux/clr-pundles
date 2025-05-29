@@ -1,0 +1,11 @@
+# [TITLE]: lib4sbom-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(defusedxml-python3)
+include(pypi-semantic_version-python3)
+include(python3-core)
+lib4sbom-python3

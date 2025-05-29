@@ -1,0 +1,12 @@
+# [TITLE]: libidn-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libidn-bin)
+include(libidn-data)
+include(libidn-dev)
+include(libidn-lib32)
+include(pkg-config-bin)
+libidn-dev32

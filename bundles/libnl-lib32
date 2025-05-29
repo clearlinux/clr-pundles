@@ -1,0 +1,11 @@
+# [TITLE]: libnl-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgcc32)
+include(glibc-libc32)
+include(libnl-data)
+include(libnl-license)
+libnl-lib32

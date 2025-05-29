@@ -1,0 +1,14 @@
+# [TITLE]: gjs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gjs-data)
+include(gjs-lib)
+include(gjs-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+gjs-bin

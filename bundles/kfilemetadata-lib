@@ -1,0 +1,21 @@
+# [TITLE]: kfilemetadata-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exiv2-lib)
+include(karchive-lib)
+include(kcodecs-lib)
+include(kcoreaddons-lib)
+include(kfilemetadata-data)
+include(kfilemetadata-license)
+include(ki18n-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(not-ffmpeg-lib)
+include(poppler-lib)
+include(qt6base-lib)
+include(taglib-lib)
+kfilemetadata-lib

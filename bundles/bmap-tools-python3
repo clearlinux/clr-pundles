@@ -1,0 +1,8 @@
+# [TITLE]: bmap-tools-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+bmap-tools-python3

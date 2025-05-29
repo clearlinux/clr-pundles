@@ -1,0 +1,14 @@
+# [TITLE]: feh-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(feh-data)
+include(feh-license)
+include(imlib2-lib)
+include(libX11-lib)
+include(libc6)
+include(libpng-lib)
+feh-bin

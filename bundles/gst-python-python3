@@ -1,0 +1,10 @@
+# [TITLE]: gst-python-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(python3-core)
+gst-python-python3

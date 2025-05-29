@@ -1,0 +1,8 @@
+# [TITLE]: node-addon-api-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(node-addon-api)
+node-addon-api-dev

@@ -1,0 +1,9 @@
+# [TITLE]: gnupg-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnupg-info)
+include(gnupg-man)
+gnupg-doc

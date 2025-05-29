@@ -1,0 +1,15 @@
+# [TITLE]: lttng-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(lttng-tools-bin)
+include(lttng-tools-data)
+include(lttng-tools-lib)
+include(lttng-tools-license)
+include(lttng-tools-man)
+include(lttng-ust-lib)
+include(userspace-rcu-lib)
+lttng-tools

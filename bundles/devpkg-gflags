@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-gflags-dev
+include(gflags-dev)
 include(libstdcpp)

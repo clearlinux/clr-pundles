@@ -1,0 +1,11 @@
+# [TITLE]: i3status
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(i3status-bin)
+include(i3status-data)
+include(i3status-license)
+include(i3status-man)
+i3status

@@ -1,0 +1,11 @@
+# [TITLE]: powerstat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(powerstat-bin)
+include(powerstat-data)
+include(powerstat-license)
+include(powerstat-man)
+powerstat

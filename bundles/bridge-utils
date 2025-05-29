@@ -1,0 +1,10 @@
+# [TITLE]: bridge-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bridge-utils-bin)
+include(bridge-utils-license)
+include(bridge-utils-man)
+bridge-utils

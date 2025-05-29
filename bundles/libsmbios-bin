@@ -1,0 +1,12 @@
+# [TITLE]: libsmbios-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libsmbios-data)
+include(libsmbios-lib)
+include(libsmbios-license)
+include(python3-core)
+libsmbios-bin

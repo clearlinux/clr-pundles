@@ -1,0 +1,23 @@
+# [TITLE]: bcachefs-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bcachefs-tools-config)
+include(bcachefs-tools-data)
+include(bcachefs-tools-libexec)
+include(bcachefs-tools-license)
+include(bcachefs-tools-services)
+include(keyutils-lib)
+include(libaio-lib)
+include(libc6)
+include(libgcc1)
+include(libsodium-lib)
+include(lz4-lib)
+include(systemd-lib)
+include(userspace-rcu-lib)
+include(util-linux-lib)
+include(zlib-lib)
+include(zstd-lib)
+bcachefs-tools-bin

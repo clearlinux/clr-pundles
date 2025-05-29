@@ -1,0 +1,11 @@
+# [TITLE]: libstoragemgmt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libstoragemgmt)
+include(libstoragemgmt-bin)
+include(libstoragemgmt-lib)
+include(pkg-config-bin)
+libstoragemgmt-dev

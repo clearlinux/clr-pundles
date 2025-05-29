@@ -1,0 +1,15 @@
+# [TITLE]: kde-gtk-config
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(kconfig-lib)
+include(kde-gtk-config-data)
+include(kde-gtk-config-lib)
+include(kde-gtk-config-license)
+include(libc6)
+include(qt6base-lib)
+kde-gtk-config

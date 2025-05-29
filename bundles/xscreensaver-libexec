@@ -1,0 +1,20 @@
+# [TITLE]: xscreensaver-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(glu-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libXt-lib)
+include(libc6)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libxcrypt-lib)
+include(perl-bin)
+include(systemd-extras-libsystemd)
+xscreensaver-libexec

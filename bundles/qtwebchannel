@@ -1,0 +1,9 @@
+# [TITLE]: qtwebchannel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtwebchannel-lib)
+include(qtwebchannel-license)
+qtwebchannel

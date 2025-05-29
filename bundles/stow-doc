@@ -1,0 +1,9 @@
+# [TITLE]: stow-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(stow-info)
+include(stow-man)
+stow-doc

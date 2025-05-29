@@ -1,0 +1,11 @@
+# [TITLE]: firewalld-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(firewalld-data)
+include(firewalld-license)
+include(firewalld-services)
+include(python3-core)
+firewalld-bin

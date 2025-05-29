@@ -1,0 +1,8 @@
+# [TITLE]: borgbackup-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(borgbackup-python3)
+borgbackup-python

@@ -1,0 +1,9 @@
+# [TITLE]: compat-abseil-cpp-rolling
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-abseil-cpp-rolling-lib)
+include(compat-abseil-cpp-rolling-license)
+compat-abseil-cpp-rolling

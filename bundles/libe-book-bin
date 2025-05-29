@@ -1,0 +1,13 @@
+# [TITLE]: libe-book-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libe-book-lib)
+include(libe-book-license)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+libe-book-bin

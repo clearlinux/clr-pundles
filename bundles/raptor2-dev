@@ -1,0 +1,11 @@
+# [TITLE]: raptor2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(raptor2)
+include(raptor2-bin)
+include(raptor2-lib)
+raptor2-dev

@@ -1,0 +1,12 @@
+# [TITLE]: bind-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bind-utils-lib)
+include(bind-utils-license)
+include(krb5-lib)
+include(libc6)
+include(readline-lib)
+bind-utils-bin

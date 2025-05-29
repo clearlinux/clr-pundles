@@ -1,0 +1,10 @@
+# [TITLE]: haveged-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(haveged)
+include(haveged-bin)
+include(haveged-lib)
+haveged-dev

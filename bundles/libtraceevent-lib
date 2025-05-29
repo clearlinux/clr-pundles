@@ -1,0 +1,8 @@
+# [TITLE]: libtraceevent-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+libtraceevent-lib

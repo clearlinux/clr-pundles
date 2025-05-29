@@ -1,0 +1,32 @@
+# [TITLE]: kget-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-lib)
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kget-data)
+include(kget-lib)
+include(kget-license)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(knotifyconfig-lib)
+include(kstatusnotifieritem-lib)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kget-bin

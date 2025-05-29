@@ -1,0 +1,9 @@
+# [TITLE]: compat-tbb-soname2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-tbb-soname2-lib)
+include(compat-tbb-soname2-license)
+compat-tbb-soname2

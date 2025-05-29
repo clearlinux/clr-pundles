@@ -1,0 +1,11 @@
+# [TITLE]: xl2tpd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpcap-lib)
+include(xl2tpd-license)
+include(xl2tpd-services)
+xl2tpd-bin

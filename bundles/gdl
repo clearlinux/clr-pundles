@@ -1,0 +1,11 @@
+# [TITLE]: gdl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdl-data)
+include(gdl-lib)
+include(gdl-license)
+include(gdl-locales)
+gdl

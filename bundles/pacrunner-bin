@@ -1,0 +1,16 @@
+# [TITLE]: pacrunner-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(dbus-lib)
+include(glib-lib)
+include(libc6)
+include(pacrunner-config)
+include(pacrunner-data)
+include(pacrunner-license)
+include(pacrunner-services)
+include(systemd-extras-libsystemd)
+pacrunner-bin

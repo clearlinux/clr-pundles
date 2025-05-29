@@ -1,0 +1,12 @@
+# [TITLE]: libplist-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libplist)
+include(libplist-bin)
+include(libplist-dev)
+include(libplist-lib)
+include(pkg-config-bin)
+libplist-dev

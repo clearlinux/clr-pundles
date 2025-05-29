@@ -1,0 +1,9 @@
+# [TITLE]: wayland-protocols
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wayland-protocols-data)
+include(wayland-protocols-license)
+wayland-protocols

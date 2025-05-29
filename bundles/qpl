@@ -1,0 +1,10 @@
+# [TITLE]: qpl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qpl-data)
+include(qpl-lib)
+include(qpl-license)
+qpl

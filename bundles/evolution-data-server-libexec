@@ -1,0 +1,16 @@
+# [TITLE]: evolution-data-server-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-lib)
+include(evolution-data-server-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libical-lib)
+include(libsecret-lib)
+include(perl-bin)
+evolution-data-server-libexec

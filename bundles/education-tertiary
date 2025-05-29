@@ -13,6 +13,6 @@ include(R-basic)
 
 include(kalgebra)
 include(kmplot)
-kturtle
+include(kturtle)
 include(kde-frameworks5)
 include(protobuf-lib)

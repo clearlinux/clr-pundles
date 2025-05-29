@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-newt-dev
+include(newt-dev)
 include(popt-lib)
 include(pcre-lib)
 include(lib-imageformat)

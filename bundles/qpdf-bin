@@ -1,0 +1,12 @@
+# [TITLE]: qpdf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qpdf-lib)
+include(qpdf-license)
+qpdf-bin

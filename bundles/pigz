@@ -1,0 +1,10 @@
+# [TITLE]: pigz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pigz-bin)
+include(pigz-license)
+include(pigz-man)
+pigz

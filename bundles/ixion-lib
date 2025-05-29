@@ -1,0 +1,11 @@
+# [TITLE]: ixion-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ixion-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+ixion-lib

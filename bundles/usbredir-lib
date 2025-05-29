@@ -1,0 +1,10 @@
+# [TITLE]: usbredir-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libusb-lib)
+include(usbredir-license)
+usbredir-lib

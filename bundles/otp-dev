@@ -1,0 +1,10 @@
+# [TITLE]: otp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(otp)
+include(otp-bin)
+include(otp-lib)
+otp-dev

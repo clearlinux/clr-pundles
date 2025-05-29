@@ -1,0 +1,12 @@
+# [TITLE]: bsdiff-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bsdiff-license)
+include(bzip2-lib)
+include(libc6)
+include(xz-lib)
+include(zlib-lib)
+bsdiff-lib

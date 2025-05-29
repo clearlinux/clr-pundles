@@ -1,0 +1,13 @@
+# [TITLE]: parted-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(parted-lib)
+include(parted-license)
+include(readline-lib)
+include(util-linux-lib)
+parted-bin

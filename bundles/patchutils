@@ -1,0 +1,10 @@
+# [TITLE]: patchutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(patchutils-bin)
+include(patchutils-license)
+include(patchutils-man)
+patchutils

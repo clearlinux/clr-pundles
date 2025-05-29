@@ -1,0 +1,9 @@
+# [TITLE]: perl-Package-Stash-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Package-Stash)
+include(perl-Package-Stash-bin)
+perl-Package-Stash-dev

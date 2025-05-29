@@ -1,0 +1,14 @@
+# [TITLE]: libmodulemd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libmodulemd-data)
+include(libmodulemd-license)
+include(rpm-lib)
+include(yaml-lib)
+libmodulemd-lib

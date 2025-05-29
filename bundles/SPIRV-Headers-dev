@@ -1,0 +1,10 @@
+# [TITLE]: SPIRV-Headers-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Headers)
+include(SPIRV-Headers-data)
+include(pkg-config-bin)
+SPIRV-Headers-dev

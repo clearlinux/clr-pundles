@@ -1,0 +1,10 @@
+# [TITLE]: libisofs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libisofs)
+include(libisofs-lib)
+include(pkg-config-bin)
+libisofs-dev

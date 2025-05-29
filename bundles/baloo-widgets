@@ -1,0 +1,12 @@
+# [TITLE]: baloo-widgets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baloo-widgets-bin)
+include(baloo-widgets-data)
+include(baloo-widgets-lib)
+include(baloo-widgets-license)
+include(baloo-widgets-locales)
+baloo-widgets

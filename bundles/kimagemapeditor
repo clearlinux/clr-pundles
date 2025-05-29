@@ -1,0 +1,12 @@
+# [TITLE]: kimagemapeditor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kimagemapeditor-bin)
+include(kimagemapeditor-data)
+include(kimagemapeditor-lib)
+include(kimagemapeditor-license)
+include(kimagemapeditor-locales)
+kimagemapeditor

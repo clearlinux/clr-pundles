@@ -1,0 +1,15 @@
+# [TITLE]: gdl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(gdk-pixbuf-lib)
+include(gdl-data)
+include(gdl-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+gdl-lib

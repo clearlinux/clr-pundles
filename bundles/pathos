@@ -1,0 +1,10 @@
+# [TITLE]: pathos
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pathos-bin)
+include(pathos-python)
+include(pathos-python3)
+pathos

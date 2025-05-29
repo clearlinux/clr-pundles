@@ -1,0 +1,8 @@
+# [TITLE]: patchelf-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(patchelf-man)
+patchelf-doc

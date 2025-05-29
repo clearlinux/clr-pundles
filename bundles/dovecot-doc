@@ -1,0 +1,8 @@
+# [TITLE]: dovecot-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dovecot-man)
+dovecot-doc

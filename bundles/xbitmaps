@@ -1,0 +1,8 @@
+# [TITLE]: xbitmaps
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xbitmaps-license)
+xbitmaps

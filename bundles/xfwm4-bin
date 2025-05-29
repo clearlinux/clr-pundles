@@ -1,0 +1,24 @@
+# [TITLE]: xfwm4-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libXpresent-lib)
+include(libXres-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libwnck3-lib)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(pango-lib)
+include(startup-notification-lib)
+include(xfconf-lib)
+include(xfwm4-data)
+include(xfwm4-license)
+xfwm4-bin

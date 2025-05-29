@@ -1,0 +1,8 @@
+# [TITLE]: input-remapper-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(input-remapper-python3)
+input-remapper-python

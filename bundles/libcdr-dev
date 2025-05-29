@@ -1,0 +1,14 @@
+# [TITLE]: libcdr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-dev)
+include(lcms2-dev)
+include(libcdr)
+include(libcdr-bin)
+include(libcdr-lib)
+include(librevenge-dev)
+include(zlib-dev)
+libcdr-dev

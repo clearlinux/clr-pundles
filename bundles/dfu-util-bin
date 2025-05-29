@@ -1,0 +1,10 @@
+# [TITLE]: dfu-util-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dfu-util-license)
+include(libc6)
+include(libusb-lib)
+dfu-util-bin

@@ -1,0 +1,15 @@
+# [TITLE]: libkscreen-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(libkscreen-data)
+include(libkscreen-license)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+libkscreen-lib

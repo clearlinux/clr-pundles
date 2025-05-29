@@ -1,0 +1,14 @@
+# [TITLE]: cgdb-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cgdb-data)
+include(cgdb-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ncurses-lib)
+include(readline-lib)
+cgdb-bin

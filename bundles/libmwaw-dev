@@ -1,0 +1,12 @@
+# [TITLE]: libmwaw-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmwaw)
+include(libmwaw-bin)
+include(libmwaw-lib)
+include(librevenge-dev)
+include(pkg-config-bin)
+libmwaw-dev

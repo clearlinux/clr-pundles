@@ -1,0 +1,11 @@
+# [TITLE]: SDL_mixer-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-dev)
+include(SDL_mixer)
+include(SDL_mixer-lib)
+include(pkg-config-bin)
+SDL_mixer-dev

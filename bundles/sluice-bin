@@ -1,0 +1,10 @@
+# [TITLE]: sluice-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(sluice-data)
+include(sluice-license)
+sluice-bin

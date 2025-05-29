@@ -1,0 +1,9 @@
+# [TITLE]: opencl-clang-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opencl-clang)
+include(opencl-clang-lib)
+opencl-clang-dev

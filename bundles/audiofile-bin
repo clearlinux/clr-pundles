@@ -1,0 +1,10 @@
+# [TITLE]: audiofile-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audiofile-lib)
+include(audiofile-license)
+include(libc6)
+audiofile-bin

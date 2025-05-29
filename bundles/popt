@@ -1,0 +1,10 @@
+# [TITLE]: popt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(popt-lib)
+include(popt-license)
+include(popt-locales)
+popt

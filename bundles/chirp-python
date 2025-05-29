@@ -1,0 +1,8 @@
+# [TITLE]: chirp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chirp-python3)
+chirp-python

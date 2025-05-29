@@ -1,0 +1,11 @@
+# [TITLE]: accel-config-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(accel-config)
+include(accel-config-bin)
+include(accel-config-lib)
+include(pkg-config-bin)
+accel-config-dev

@@ -1,0 +1,14 @@
+# [TITLE]: dnf-plugins-core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-python)
+include(dnf-plugins-core-libexec)
+include(dnf-plugins-core-license)
+include(dnf-plugins-core-locales)
+include(dnf-plugins-core-man)
+include(dnf-plugins-core-python)
+include(dnf-plugins-core-python3)
+dnf-plugins-core

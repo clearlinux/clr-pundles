@@ -1,0 +1,16 @@
+# [TITLE]: kdesdk-thumbnailers-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gettext-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdesdk-thumbnailers-data)
+include(kdesdk-thumbnailers-license)
+include(kio-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdesdk-thumbnailers-lib

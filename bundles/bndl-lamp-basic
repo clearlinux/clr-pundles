@@ -1,0 +1,10 @@
+# [TITLE]: bndl-lamp-basic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bndl-lamp-basic-autostart)
+include(bndl-lamp-basic-license)
+include(bndl-lamp-basic-services)
+bndl-lamp-basic

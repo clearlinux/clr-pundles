@@ -1,0 +1,8 @@
+# [TITLE]: elixir-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elixir-license)
+elixir-bin

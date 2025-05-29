@@ -10,4 +10,4 @@ include(devpkg-cairomm)
 include(devpkg-glibmm)
 include(devpkg-pango)
 
-pangomm-dev
+include(pangomm-dev)

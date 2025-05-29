@@ -1,0 +1,11 @@
+# [TITLE]: kubernetes-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(kubernetes-license)
+include(kubernetes-services)
+include(libc6)
+kubernetes-bin

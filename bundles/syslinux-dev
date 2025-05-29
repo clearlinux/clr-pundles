@@ -1,0 +1,10 @@
+# [TITLE]: syslinux-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(syslinux)
+include(syslinux-bin)
+include(syslinux-data)
+syslinux-dev

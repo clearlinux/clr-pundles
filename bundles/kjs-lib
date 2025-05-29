@@ -1,0 +1,13 @@
+# [TITLE]: kjs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kjs-data)
+include(kjs-license)
+include(libc6)
+include(libstdc++)
+include(pcre-lib)
+include(qtbase-extras)
+kjs-lib

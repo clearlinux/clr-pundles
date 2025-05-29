@@ -1,0 +1,14 @@
+# [TITLE]: xfsdump-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attr-lib)
+include(libc6)
+include(libgcc1)
+include(ncurses-lib)
+include(util-linux-lib)
+include(xfsdump-license)
+include(xfsprogs-lib)
+xfsdump-bin

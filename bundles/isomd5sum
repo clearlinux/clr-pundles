@@ -1,0 +1,12 @@
+# [TITLE]: isomd5sum
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isomd5sum-bin)
+include(isomd5sum-license)
+include(isomd5sum-man)
+include(isomd5sum-python)
+include(isomd5sum-python3)
+isomd5sum

@@ -10,11 +10,11 @@ include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
 include(os-core-plus)
-console-autostart
-irqbalance
-mcelog
+include(console-autostart)
+include(irqbalance)
+include(mcelog)
 
 # kernel package
-linux-preempt-rt
+include(linux-preempt-rt)
 include(libnl)
 include(numactl)

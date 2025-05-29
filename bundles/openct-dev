@@ -1,0 +1,11 @@
+# [TITLE]: openct-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openct)
+include(openct-bin)
+include(openct-lib)
+openct-dev

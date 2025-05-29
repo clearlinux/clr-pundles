@@ -1,0 +1,11 @@
+# [TITLE]: compat-re2-soname10-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-re2-soname10-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+compat-re2-soname10-lib

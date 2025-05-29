@@ -1,0 +1,8 @@
+# [TITLE]: libatomic_ops-staticdev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libatomic_ops-dev)
+libatomic_ops-staticdev32

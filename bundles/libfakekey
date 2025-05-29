@@ -1,0 +1,8 @@
+# [TITLE]: libfakekey
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfakekey-lib)
+libfakekey

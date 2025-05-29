@@ -1,0 +1,20 @@
+# [TITLE]: pspp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-gsl-soname27-lib)
+include(compat-gtksourceview-soname3-lib)
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(pango-lib)
+include(pspp-data)
+include(pspp-lib)
+include(pspp-license)
+include(readline-lib)
+include(ssw-lib)
+pspp-bin

@@ -1,0 +1,10 @@
+# [TITLE]: kjobwidgets-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kjobwidgets)
+include(kjobwidgets-data)
+include(kjobwidgets-lib)
+kjobwidgets-dev

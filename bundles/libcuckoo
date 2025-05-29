@@ -1,0 +1,9 @@
+# [TITLE]: libcuckoo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcuckoo-data)
+include(libcuckoo-license)
+libcuckoo

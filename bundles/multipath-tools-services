@@ -1,0 +1,8 @@
+# [TITLE]: multipath-tools-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+multipath-tools-services

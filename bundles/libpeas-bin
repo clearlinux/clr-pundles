@@ -1,0 +1,14 @@
+# [TITLE]: libpeas-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gobject-introspection-lib)
+include(gtk3-lib)
+include(libc6)
+include(libpeas-data)
+include(libpeas-lib)
+include(libpeas-license)
+libpeas-bin

@@ -1,0 +1,9 @@
+# [TITLE]: libyami
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libyami-lib)
+include(libyami-license)
+libyami

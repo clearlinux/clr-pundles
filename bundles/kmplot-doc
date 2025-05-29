@@ -1,0 +1,8 @@
+# [TITLE]: kmplot-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmplot-man)
+kmplot-doc

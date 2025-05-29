@@ -12,11 +12,11 @@ include(openssl)
 include(python3-basic)
 include(btrfs-progs)
 include(sudo)
-awscli
+include(awscli)
 include(botocore)
-docker
+include(docker)
 include(openssh-client)
-psmisc
+include(psmisc)
 include(sqlite)
 include(xorriso)
 include(gobject-introspection)

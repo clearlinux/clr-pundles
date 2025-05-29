@@ -1,0 +1,16 @@
+# [TITLE]: llvm15-extras-libllvm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libedit-lib)
+include(libffi-lib)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(ncurses-lib)
+include(zlib-lib)
+include(zstd-lib)
+llvm15-extras-libllvm

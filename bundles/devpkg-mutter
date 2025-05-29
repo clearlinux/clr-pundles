@@ -19,7 +19,7 @@ include(devpkg-libglvnd)
 include(devpkg-pango)
 include(devpkg-wayland)
 
-mutter-dev
+include(mutter-dev)
 include(lib-opengl)
 include(libX11client)
 include(gnome-base-libs)

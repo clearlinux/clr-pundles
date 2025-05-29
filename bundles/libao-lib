@@ -1,0 +1,12 @@
+# [TITLE]: libao-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(libao-license)
+include(libc6)
+include(pulseaudio-lib)
+include(sndio-lib)
+libao-lib

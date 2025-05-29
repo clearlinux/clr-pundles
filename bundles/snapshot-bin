@@ -1,0 +1,17 @@
+# [TITLE]: snapshot-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(graphene-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(snapshot-data)
+include(snapshot-license)
+snapshot-bin

@@ -1,0 +1,11 @@
+# [TITLE]: akonadi-mime-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-mime)
+include(akonadi-mime-bin)
+include(akonadi-mime-data)
+include(akonadi-mime-lib)
+akonadi-mime-dev

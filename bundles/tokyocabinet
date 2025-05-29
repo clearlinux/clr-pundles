@@ -1,0 +1,13 @@
+# [TITLE]: tokyocabinet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tokyocabinet-bin)
+include(tokyocabinet-data)
+include(tokyocabinet-lib)
+include(tokyocabinet-libexec)
+include(tokyocabinet-license)
+include(tokyocabinet-man)
+tokyocabinet

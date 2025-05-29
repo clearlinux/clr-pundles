@@ -1,0 +1,13 @@
+# [TITLE]: autofs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autofs)
+include(autofs-bin)
+include(autofs-lib)
+include(libc6)
+include(libgcc1)
+include(libtirpc-lib)
+autofs-dev

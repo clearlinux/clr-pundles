@@ -1,0 +1,10 @@
+# [TITLE]: libiptcdata-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libiptcdata)
+include(libiptcdata-bin)
+include(libiptcdata-lib)
+libiptcdata-dev

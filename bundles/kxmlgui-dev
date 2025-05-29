@@ -1,0 +1,10 @@
+# [TITLE]: kxmlgui-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kxmlgui)
+include(kxmlgui-data)
+include(kxmlgui-lib)
+kxmlgui-dev

@@ -1,0 +1,27 @@
+# [TITLE]: kwallet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gpgme-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(knotifications-lib)
+include(kwallet-data)
+include(kwallet-lib)
+include(kwallet-license)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libgcc1)
+include(libsecret-lib)
+include(libstdc++)
+include(qca-lib)
+include(qt6base-lib)
+kwallet-bin

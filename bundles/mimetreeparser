@@ -1,0 +1,11 @@
+# [TITLE]: mimetreeparser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mimetreeparser-data)
+include(mimetreeparser-lib)
+include(mimetreeparser-license)
+include(mimetreeparser-locales)
+mimetreeparser

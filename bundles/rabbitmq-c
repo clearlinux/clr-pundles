@@ -1,0 +1,9 @@
+# [TITLE]: rabbitmq-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rabbitmq-c-lib)
+include(rabbitmq-c-license)
+rabbitmq-c

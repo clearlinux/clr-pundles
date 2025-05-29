@@ -1,0 +1,8 @@
+# [TITLE]: pcp-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcp-python3)
+pcp-python

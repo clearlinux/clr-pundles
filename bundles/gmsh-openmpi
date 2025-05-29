@@ -1,0 +1,26 @@
+# [TITLE]: gmsh-openmpi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CGNS-lib)
+include(OpenCASCADE-lib)
+include(cairo-lib)
+include(fltk-lib)
+include(gcc-libs-math)
+include(glu-lib)
+include(gmp-lib)
+include(gmsh-lib)
+include(libMED-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(metis-lib)
+include(openmpi-lib)
+include(zlib-lib)
+gmsh-openmpi

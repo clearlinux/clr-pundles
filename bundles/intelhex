@@ -1,0 +1,11 @@
+# [TITLE]: intelhex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intelhex-bin)
+include(intelhex-license)
+include(intelhex-python)
+include(intelhex-python3)
+intelhex

@@ -1,0 +1,12 @@
+# [TITLE]: glslang-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-lib)
+include(glslang-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+glslang-lib

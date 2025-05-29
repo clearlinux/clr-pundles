@@ -1,0 +1,14 @@
+# [TITLE]: xfce4-screenshooter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfce4-screenshooter-bin)
+include(xfce4-screenshooter-data)
+include(xfce4-screenshooter-lib)
+include(xfce4-screenshooter-libexec)
+include(xfce4-screenshooter-license)
+include(xfce4-screenshooter-locales)
+include(xfce4-screenshooter-man)
+xfce4-screenshooter

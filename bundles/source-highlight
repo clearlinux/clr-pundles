@@ -1,0 +1,13 @@
+# [TITLE]: source-highlight
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(source-highlight-bin)
+include(source-highlight-data)
+include(source-highlight-info)
+include(source-highlight-lib)
+include(source-highlight-license)
+include(source-highlight-man)
+source-highlight

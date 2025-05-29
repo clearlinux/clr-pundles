@@ -1,0 +1,8 @@
+# [TITLE]: mock-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mock-python3)
+mock-python

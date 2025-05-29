@@ -1,0 +1,20 @@
+# [TITLE]: knewstuff-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attica-lib)
+include(karchive-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(knewstuff-data)
+include(knewstuff-license)
+include(kpackage-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+knewstuff-lib

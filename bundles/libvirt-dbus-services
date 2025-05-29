@@ -1,0 +1,8 @@
+# [TITLE]: libvirt-dbus-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+libvirt-dbus-services

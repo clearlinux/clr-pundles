@@ -1,0 +1,11 @@
+# [TITLE]: not-ffmpeg-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(not-ffmpeg-data)
+include(not-ffmpeg-lib)
+include(not-ffmpeg-license)
+not-ffmpeg-bin

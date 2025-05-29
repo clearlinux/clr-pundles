@@ -1,0 +1,9 @@
+# [TITLE]: dos2unix-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dos2unix-license)
+include(libc6)
+dos2unix-bin

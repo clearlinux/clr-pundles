@@ -1,0 +1,8 @@
+# [TITLE]: protobuf-c-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+protobuf-c-lib

@@ -1,0 +1,18 @@
+# [TITLE]: ModemManager-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager-config)
+include(ModemManager-data)
+include(ModemManager-lib)
+include(ModemManager-license)
+include(ModemManager-services)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgudev-lib)
+include(libmbim-lib)
+include(libqmi-lib)
+ModemManager-bin

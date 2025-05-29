@@ -1,0 +1,9 @@
+# [TITLE]: NetworkManager-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+include(systemd-bin)
+NetworkManager-services

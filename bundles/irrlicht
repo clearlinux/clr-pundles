@@ -1,0 +1,9 @@
+# [TITLE]: irrlicht
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(irrlicht-lib)
+include(irrlicht-license)
+irrlicht

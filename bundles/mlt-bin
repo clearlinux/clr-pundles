@@ -1,0 +1,12 @@
+# [TITLE]: mlt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-lib)
+include(libc6)
+include(mlt-data)
+include(mlt-lib)
+include(mlt-license)
+mlt-bin

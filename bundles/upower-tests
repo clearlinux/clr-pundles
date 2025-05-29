@@ -1,0 +1,8 @@
+# [TITLE]: upower-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(upower)
+upower-tests

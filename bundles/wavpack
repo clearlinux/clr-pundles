@@ -1,0 +1,10 @@
+# [TITLE]: wavpack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wavpack-bin)
+include(wavpack-lib)
+include(wavpack-man)
+wavpack

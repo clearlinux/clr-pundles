@@ -1,0 +1,9 @@
+# [TITLE]: qt6serialport
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6serialport-lib)
+include(qt6serialport-license)
+qt6serialport

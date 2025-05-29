@@ -1,0 +1,13 @@
+# [TITLE]: tpm2-abrmd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(tpm2-abrmd)
+include(tpm2-abrmd-bin)
+include(tpm2-abrmd-data)
+include(tpm2-abrmd-lib)
+include(tpm2-tss-dev)
+tpm2-abrmd-dev

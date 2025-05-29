@@ -1,0 +1,19 @@
+# [TITLE]: compat-wlroots-soname11-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-wlroots-soname11-license)
+include(libX11-lib)
+include(libc6)
+include(libdrm-lib)
+include(libglvnd-lib)
+include(libinput-lib)
+include(libxkbcommon-lib)
+include(mesa-lib)
+include(pixman-lib)
+include(seatd-lib)
+include(systemd-lib)
+include(wayland-lib)
+compat-wlroots-soname11-lib

@@ -1,0 +1,12 @@
+# [TITLE]: kwidgetsaddons-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwidgetsaddons-data)
+include(kwidgetsaddons-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kwidgetsaddons-lib

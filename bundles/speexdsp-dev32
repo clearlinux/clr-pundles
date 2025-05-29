@@ -1,0 +1,10 @@
+# [TITLE]: speexdsp-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(speexdsp-dev)
+include(speexdsp-lib32)
+speexdsp-dev32

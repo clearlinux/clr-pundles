@@ -1,0 +1,11 @@
+# [TITLE]: ibus-table-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ibus-table)
+include(ibus-table-bin)
+include(ibus-table-data)
+include(pkg-config-bin)
+ibus-table-dev

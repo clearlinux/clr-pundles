@@ -1,0 +1,9 @@
+# [TITLE]: qtvirtualkeyboard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtvirtualkeyboard-lib)
+include(qtvirtualkeyboard-license)
+qtvirtualkeyboard

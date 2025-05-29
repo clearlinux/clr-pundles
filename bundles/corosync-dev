@@ -1,0 +1,12 @@
+# [TITLE]: corosync-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(corosync)
+include(corosync-bin)
+include(corosync-lib)
+include(libqb-dev)
+include(pkg-config-bin)
+corosync-dev

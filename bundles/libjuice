@@ -1,0 +1,9 @@
+# [TITLE]: libjuice
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libjuice-lib)
+include(libjuice-license)
+libjuice

@@ -1,0 +1,16 @@
+# [TITLE]: frameworkintegration
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(frameworkintegration-data)
+include(frameworkintegration-lib)
+include(frameworkintegration-license)
+include(ki18n-lib)
+include(knewstuff-lib)
+include(knotifications-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+frameworkintegration

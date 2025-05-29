@@ -1,0 +1,11 @@
+# [TITLE]: notmuch-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(notmuch)
+include(notmuch-bin)
+include(notmuch-data)
+include(notmuch-lib)
+notmuch-dev

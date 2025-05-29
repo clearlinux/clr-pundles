@@ -1,0 +1,10 @@
+# [TITLE]: thin-provisioning-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(thin-provisioning-tools-bin)
+include(thin-provisioning-tools-license)
+include(thin-provisioning-tools-man)
+thin-provisioning-tools

@@ -1,0 +1,12 @@
+# [TITLE]: NetworkManager-openconnect
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-openconnect-data)
+include(NetworkManager-openconnect-lib)
+include(NetworkManager-openconnect-libexec)
+include(NetworkManager-openconnect-license)
+include(NetworkManager-openconnect-locales)
+NetworkManager-openconnect

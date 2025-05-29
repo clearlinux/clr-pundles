@@ -1,0 +1,11 @@
+# [TITLE]: phoronix-test-suite-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(phoronix-test-suite-data)
+include(phoronix-test-suite-license)
+include(phoronix-test-suite-services)
+phoronix-test-suite-bin

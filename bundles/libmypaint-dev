@@ -1,0 +1,12 @@
+# [TITLE]: libmypaint-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(json-c-dev)
+include(libmypaint)
+include(libmypaint-data)
+include(libmypaint-lib)
+libmypaint-dev

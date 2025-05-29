@@ -1,0 +1,14 @@
+# [TITLE]: ktexttemplate-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktexttemplate-data)
+include(ktexttemplate-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+ktexttemplate-lib

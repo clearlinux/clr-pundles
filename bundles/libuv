@@ -1,0 +1,9 @@
+# [TITLE]: libuv
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libuv-lib)
+include(libuv-license)
+libuv

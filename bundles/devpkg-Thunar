@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-Thunar-dev
+include(Thunar-dev)
 include(libX11client)
 include(libglib)
 include(libXpm-lib)

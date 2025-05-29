@@ -6,9 +6,9 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(iptables)
 include(nginx)
-dnsmasq
-ipxe
-wol
+include(dnsmasq)
+include(ipxe)
+include(wol)
 include(systemd)
 include(gmp-lib)
 include(nettle-lib)

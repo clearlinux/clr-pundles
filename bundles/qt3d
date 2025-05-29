@@ -1,0 +1,10 @@
+# [TITLE]: qt3d
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt3d-bin)
+include(qt3d-lib)
+include(qt3d-license)
+qt3d

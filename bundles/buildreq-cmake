@@ -1,0 +1,9 @@
+# [TITLE]: buildreq-cmake
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmake)
+include(libabigail)
+buildreq-cmake

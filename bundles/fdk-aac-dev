@@ -1,0 +1,10 @@
+# [TITLE]: fdk-aac-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fdk-aac)
+include(fdk-aac-lib)
+include(pkg-config-bin)
+fdk-aac-dev

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libmediaart-dev
+include(libmediaart-dev)
 include(libglib)
 include(gdk-pixbuf)
 include(libX11client)

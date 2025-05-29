@@ -1,0 +1,15 @@
+# [TITLE]: nut-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libtool-lib)
+include(nut-data)
+include(nut-libexec)
+include(nut-license)
+include(openssl-lib)
+nut-lib

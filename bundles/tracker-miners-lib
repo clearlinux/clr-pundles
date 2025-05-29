@@ -1,0 +1,18 @@
+# [TITLE]: tracker-miners-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gexiv2-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(tracker-lib)
+include(tracker-miners-data)
+include(tracker-miners-libexec)
+include(tracker-miners-license)
+tracker-miners-lib

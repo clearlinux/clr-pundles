@@ -1,0 +1,8 @@
+# [TITLE]: luanti-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(luanti-man)
+luanti-doc

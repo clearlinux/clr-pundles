@@ -1,0 +1,8 @@
+# [TITLE]: meld-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(meld-man)
+meld-doc

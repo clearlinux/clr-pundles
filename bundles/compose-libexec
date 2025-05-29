@@ -1,0 +1,9 @@
+# [TITLE]: compose-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compose-license)
+include(libc6)
+compose-libexec

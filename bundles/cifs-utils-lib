@@ -1,0 +1,12 @@
+# [TITLE]: cifs-utils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cifs-utils-license)
+include(keyutils-lib)
+include(libc6)
+include(talloc-lib)
+cifs-utils-lib

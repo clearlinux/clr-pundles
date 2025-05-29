@@ -1,0 +1,11 @@
+# [TITLE]: geany-plugins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geany-plugins-data)
+include(geany-plugins-lib)
+include(geany-plugins-license)
+include(geany-plugins-locales)
+geany-plugins

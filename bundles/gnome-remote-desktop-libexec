@@ -1,0 +1,29 @@
+# [TITLE]: gnome-remote-desktop-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP-lib)
+include(LibVNCServer-lib)
+include(Vulkan-Loader-lib)
+include(cairo-lib)
+include(fdk-aac-lib)
+include(fuse-lib)
+include(glib-lib)
+include(gnome-remote-desktop-config)
+include(gnome-remote-desktop-license)
+include(libc6)
+include(libei-lib)
+include(libepoxy-lib)
+include(libgcc1)
+include(libnotify-lib)
+include(libsecret-lib)
+include(libva-lib)
+include(libxkbcommon-lib)
+include(opus-lib)
+include(pipewire-lib)
+include(polkit-lib)
+include(systemd-extras-libsystemd)
+include(tpm2-tss-lib)
+gnome-remote-desktop-libexec

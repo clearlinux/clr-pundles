@@ -1,0 +1,11 @@
+# [TITLE]: dos2unix
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dos2unix-bin)
+include(dos2unix-license)
+include(dos2unix-locales)
+include(dos2unix-man)
+dos2unix

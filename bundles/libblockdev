@@ -1,0 +1,13 @@
+# [TITLE]: libblockdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libblockdev-bin)
+include(libblockdev-data)
+include(libblockdev-lib)
+include(libblockdev-license)
+include(libblockdev-python)
+include(libblockdev-python3)
+libblockdev

@@ -1,0 +1,18 @@
+# [TITLE]: gtksourceview4-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(fribidi-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(gtksourceview4-data)
+include(gtksourceview4-license)
+include(libc6)
+include(pango-lib)
+gtksourceview4-lib

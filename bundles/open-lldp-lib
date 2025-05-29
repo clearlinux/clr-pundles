@@ -1,0 +1,9 @@
+# [TITLE]: open-lldp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(open-lldp-license)
+open-lldp-lib

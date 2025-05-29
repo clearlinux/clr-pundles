@@ -1,0 +1,11 @@
+# [TITLE]: fastfetch-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fastfetch-data)
+include(fastfetch-license)
+include(libc6)
+include(libgcc1)
+fastfetch-bin

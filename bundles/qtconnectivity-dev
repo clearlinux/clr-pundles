@@ -1,0 +1,12 @@
+# [TITLE]: qtconnectivity-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qtbase-dev)
+include(qtconnectivity)
+include(qtconnectivity-bin)
+include(qtconnectivity-lib)
+qtconnectivity-dev

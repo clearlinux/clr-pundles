@@ -1,0 +1,11 @@
+# [TITLE]: menu-cache-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libfm-lib)
+include(menu-cache-license)
+menu-cache-libexec

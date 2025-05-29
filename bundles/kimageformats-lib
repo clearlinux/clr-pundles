@@ -1,0 +1,17 @@
+# [TITLE]: kimageformats-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(LibRaw-lib)
+include(karchive-lib)
+include(kimageformats-license)
+include(libavif-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openexr-lib)
+include(qt6base-lib)
+kimageformats-lib

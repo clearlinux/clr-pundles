@@ -1,0 +1,12 @@
+# [TITLE]: libxfce4ui
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxfce4ui-bin)
+include(libxfce4ui-data)
+include(libxfce4ui-lib)
+include(libxfce4ui-license)
+include(libxfce4ui-locales)
+libxfce4ui

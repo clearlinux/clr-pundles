@@ -1,0 +1,10 @@
+# [TITLE]: ding-libs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ding-libs)
+include(ding-libs-dev)
+include(ding-libs-lib)
+ding-libs-dev

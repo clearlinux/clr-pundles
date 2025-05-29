@@ -1,0 +1,9 @@
+# [TITLE]: embree-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(embree)
+include(embree-lib)
+embree-dev

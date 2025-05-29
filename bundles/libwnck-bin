@@ -1,0 +1,14 @@
+# [TITLE]: libwnck-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk+-lib)
+include(libX11-lib)
+include(libc6)
+include(libwnck-data)
+include(libwnck-lib)
+include(libwnck-license)
+libwnck-bin

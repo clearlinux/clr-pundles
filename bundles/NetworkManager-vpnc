@@ -1,0 +1,13 @@
+# [TITLE]: NetworkManager-vpnc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-vpnc-data)
+include(NetworkManager-vpnc-lib)
+include(NetworkManager-vpnc-libexec)
+include(NetworkManager-vpnc-license)
+include(NetworkManager-vpnc-locales)
+include(vpnc)
+NetworkManager-vpnc

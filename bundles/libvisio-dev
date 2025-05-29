@@ -1,0 +1,13 @@
+# [TITLE]: libvisio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-dev)
+include(librevenge-dev)
+include(libvisio)
+include(libvisio-bin)
+include(libvisio-lib)
+include(libxml2-dev)
+libvisio-dev

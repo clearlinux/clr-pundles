@@ -1,0 +1,13 @@
+# [TITLE]: OpenIPMI-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenIPMI)
+include(OpenIPMI-bin)
+include(OpenIPMI-dev)
+include(OpenIPMI-lib)
+include(ncurses-dev)
+include(pkg-config-bin)
+OpenIPMI-dev

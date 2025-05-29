@@ -9,6 +9,6 @@ include(devpkg-base)
 include(devpkg-cairo)
 include(devpkg-compat-libsigcplusplus-soname20)
 
-compat-cairomm-soname10-dev
+include(compat-cairomm-soname10-dev)
 include(libX11client)
 include(libstdcpp)

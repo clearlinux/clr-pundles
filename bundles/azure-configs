@@ -1,0 +1,10 @@
+# [TITLE]: azure-configs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(azure-configs-autostart)
+include(azure-configs-config)
+include(azure-configs-services)
+azure-configs

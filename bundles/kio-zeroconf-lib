@@ -1,0 +1,17 @@
+# [TITLE]: kio-zeroconf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(kdnssd-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kio-zeroconf-data)
+include(kio-zeroconf-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kio-zeroconf-lib

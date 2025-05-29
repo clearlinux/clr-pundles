@@ -1,0 +1,17 @@
+# [TITLE]: xfce4-notifyd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libxfce4util-lib)
+include(xfce4-notifyd-data)
+include(xfce4-notifyd-license)
+include(xfce4-panel-lib)
+include(xfconf-lib)
+xfce4-notifyd-lib

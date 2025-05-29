@@ -1,0 +1,13 @@
+# [TITLE]: sssd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pkg-config-bin)
+include(sssd)
+include(sssd-bin)
+include(sssd-data)
+include(sssd-lib)
+sssd-dev

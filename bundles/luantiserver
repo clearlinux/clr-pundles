@@ -16,4 +16,4 @@ include(postgresql)
 # end of custom additions
 
 # main package
-luanti-extras
+include(luanti-extras)

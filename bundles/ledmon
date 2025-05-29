@@ -1,0 +1,11 @@
+# [TITLE]: ledmon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ledmon-bin)
+include(ledmon-lib)
+include(ledmon-license)
+include(ledmon-man)
+ledmon

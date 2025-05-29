@@ -1,0 +1,10 @@
+# [TITLE]: libmsgraph
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmsgraph-data)
+include(libmsgraph-lib)
+include(libmsgraph-license)
+libmsgraph

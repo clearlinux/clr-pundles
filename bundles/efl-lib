@@ -1,0 +1,41 @@
+# [TITLE]: efl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(dbus-lib)
+include(efl-data)
+include(efl-license)
+include(fontconfig-lib)
+include(freetype-lib)
+include(fribidi-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(harfbuzz-lib)
+include(ibus-lib)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libXcursor-lib)
+include(libXtst-lib)
+include(libavif-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libinput-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libunwind-lib)
+include(libwebp-lib)
+include(libxkbcommon-lib)
+include(lz4-lib)
+include(openjpeg-lib)
+include(openssl-lib)
+include(systemd-lib)
+include(tiff-lib)
+include(util-linux-lib)
+include(wayland-lib)
+include(zlib-lib)
+efl-lib

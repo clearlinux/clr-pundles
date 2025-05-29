@@ -1,0 +1,27 @@
+# [TITLE]: ksirk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(knewstuff-lib)
+include(ksirk-data)
+include(ksirk-license)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libkdegames-lib)
+include(libstdc++)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+include(qt6svg-lib)
+ksirk-bin

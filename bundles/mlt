@@ -1,0 +1,12 @@
+# [TITLE]: mlt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mlt-bin)
+include(mlt-data)
+include(mlt-lib)
+include(mlt-license)
+include(mlt-man)
+mlt

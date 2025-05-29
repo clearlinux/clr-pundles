@@ -1,0 +1,10 @@
+# [TITLE]: tokyocabinet-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(tokyocabinet-lib)
+include(tokyocabinet-license)
+tokyocabinet-libexec

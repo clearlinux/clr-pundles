@@ -1,0 +1,12 @@
+# [TITLE]: kyotocabinet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kyotocabinet-lib)
+include(kyotocabinet-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+kyotocabinet-bin

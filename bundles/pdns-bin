@@ -1,0 +1,19 @@
+# [TITLE]: pdns-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(boost)
+include(curl-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mariadb-extras-clientlib)
+include(openssl-lib)
+include(pdns-license)
+include(pdns-services)
+include(sqlite-autoconf-lib)
+include(systemd-extras-libsystemd)
+pdns-bin

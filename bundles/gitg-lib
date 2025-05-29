@@ -1,0 +1,24 @@
+# [TITLE]: gitg-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(gdk-pixbuf-lib)
+include(gitg-data)
+include(gitg-license)
+include(glib-lib)
+include(gpgme-lib)
+include(gtk3-lib)
+include(gtksourceview4-lib)
+include(libc6)
+include(libdazzle-lib)
+include(libgcc1)
+include(libgee-lib)
+include(libgit2-glib-lib)
+include(libpeas-lib)
+include(libsecret-lib)
+include(pango-lib)
+gitg-lib

@@ -1,0 +1,15 @@
+# [TITLE]: lightdm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libxklavier-lib)
+include(lightdm-data)
+include(lightdm-libexec)
+include(lightdm-license)
+lightdm-lib

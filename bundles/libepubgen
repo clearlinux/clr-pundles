@@ -1,0 +1,9 @@
+# [TITLE]: libepubgen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libepubgen-lib)
+include(libepubgen-license)
+libepubgen

@@ -1,0 +1,11 @@
+# [TITLE]: asciidoctor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asciidoctor-bin)
+include(asciidoctor-license)
+include(coreutils-bin)
+include(ruby)
+asciidoctor

@@ -1,0 +1,9 @@
+# [TITLE]: ibus-typing-booster-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(ibus-typing-booster-license)
+ibus-typing-booster-libexec

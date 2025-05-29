@@ -1,0 +1,10 @@
+# [TITLE]: picocom-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(picocom-license)
+picocom-bin

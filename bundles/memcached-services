@@ -1,0 +1,8 @@
+# [TITLE]: memcached-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+memcached-services

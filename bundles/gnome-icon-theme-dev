@@ -1,0 +1,9 @@
+# [TITLE]: gnome-icon-theme-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-icon-theme)
+include(gnome-icon-theme-data)
+gnome-icon-theme-dev

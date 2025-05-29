@@ -1,0 +1,11 @@
+# [TITLE]: ardopcf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(ardopcf-data)
+include(ardopcf-license)
+include(libc6)
+ardopcf-bin

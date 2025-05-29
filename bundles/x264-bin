@@ -1,0 +1,9 @@
+# [TITLE]: x264-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(x264-license)
+x264-bin

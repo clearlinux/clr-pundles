@@ -1,0 +1,9 @@
+# [TITLE]: metrics-discovery-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(metrics-discovery)
+include(metrics-discovery-lib)
+metrics-discovery-dev

@@ -20,4 +20,4 @@ include(qt-basic)
 # end of custom additions
 
 # main package
-quassel-extras
+include(quassel-extras)

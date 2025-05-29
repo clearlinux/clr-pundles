@@ -1,0 +1,13 @@
+# [TITLE]: cheese
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cheese-bin)
+include(cheese-data)
+include(cheese-lib)
+include(cheese-license)
+include(cheese-locales)
+include(cheese-man)
+cheese

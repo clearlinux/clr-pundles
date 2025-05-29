@@ -1,0 +1,8 @@
+# [TITLE]: python-mimeparse-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-mimeparse-python3)
+python-mimeparse-python

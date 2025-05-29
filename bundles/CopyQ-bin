@@ -1,0 +1,19 @@
+# [TITLE]: CopyQ-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CopyQ-data)
+include(CopyQ-license)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtscript-lib)
+include(qtsvg-lib)
+include(qtx11extras-lib)
+CopyQ-bin

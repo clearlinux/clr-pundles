@@ -1,0 +1,12 @@
+# [TITLE]: xfdesktop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfdesktop-bin)
+include(xfdesktop-data)
+include(xfdesktop-license)
+include(xfdesktop-locales)
+include(xfdesktop-man)
+xfdesktop

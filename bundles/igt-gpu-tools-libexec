@@ -1,0 +1,17 @@
+# [TITLE]: igt-gpu-tools-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(igt-gpu-tools-lib)
+include(igt-gpu-tools-license)
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libpciaccess-lib)
+include(systemd-lib)
+include(zlib-lib)
+igt-gpu-tools-libexec

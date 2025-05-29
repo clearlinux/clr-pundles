@@ -1,0 +1,11 @@
+# [TITLE]: oiio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oiio-bin)
+include(oiio-data)
+include(oiio-lib)
+include(oiio-license)
+oiio

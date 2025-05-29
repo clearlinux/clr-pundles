@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-cJSON-dev
+include(cJSON-dev)

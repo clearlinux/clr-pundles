@@ -1,0 +1,14 @@
+# [TITLE]: ldb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ldb)
+include(ldb-bin)
+include(ldb-dev)
+include(ldb-lib)
+include(pkg-config-bin)
+include(talloc-dev)
+include(tdb-dev)
+ldb-dev

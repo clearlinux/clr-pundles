@@ -1,0 +1,17 @@
+# [TITLE]: llvm14
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(llvm14-bin)
+include(llvm14-lib)
+include(llvm14-license)
+include(ncurses-lib)
+include(zlib-lib)
+llvm14

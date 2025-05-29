@@ -1,0 +1,10 @@
+# [TITLE]: libajantv2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libajantv2-bin)
+include(libajantv2-lib)
+include(libajantv2-license)
+libajantv2

@@ -1,0 +1,8 @@
+# [TITLE]: nut-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+nut-services

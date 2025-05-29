@@ -1,0 +1,19 @@
+# [TITLE]: testdisk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(ncurses-lib)
+include(ntfs-3g-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(testdisk-data)
+include(testdisk-license)
+include(zlib-lib)
+testdisk-bin

@@ -1,0 +1,8 @@
+# [TITLE]: libdnf-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdnf-python3)
+libdnf-python

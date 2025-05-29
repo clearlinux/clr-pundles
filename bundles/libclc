@@ -1,0 +1,8 @@
+# [TITLE]: libclc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libclc-license)
+libclc

@@ -1,0 +1,25 @@
+# [TITLE]: mumble-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(avahi-lib)
+include(filesystem)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libsndfile-lib)
+include(libstdc++)
+include(mumble-data)
+include(mumble-license)
+include(openssl-lib)
+include(opus-lib)
+include(poco-lib)
+include(protobuf-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtsvg-lib)
+include(speexdsp-lib)
+mumble-bin

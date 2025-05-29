@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-kyotocabinet-dev
+include(kyotocabinet-dev)
 include(libstdcpp)

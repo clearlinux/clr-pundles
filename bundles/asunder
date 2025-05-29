@@ -9,9 +9,9 @@ include(libglib)
 include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)
-cdparanoia
-libcddb
-libcdio
+include(cdparanoia)
+include(libcddb)
+include(libcdio)
 # end of custom additions
 
 # main package

@@ -1,0 +1,13 @@
+# [TITLE]: binutils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binutils-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(zlib-lib)
+include(zstd-lib)
+binutils-lib

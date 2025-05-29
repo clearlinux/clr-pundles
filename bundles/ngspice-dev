@@ -1,0 +1,13 @@
+# [TITLE]: ngspice-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fftw-dev)
+include(ngspice)
+include(ngspice-bin)
+include(ngspice-data)
+include(ngspice-lib)
+include(pkg-config-bin)
+ngspice-dev

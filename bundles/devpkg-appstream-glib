@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-appstream-glib-dev
+include(appstream-glib-dev)
 include(libX11client)
 include(curl)
 include(libglib)

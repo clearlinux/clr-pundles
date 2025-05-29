@@ -1,0 +1,35 @@
+# [TITLE]: konsole-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-lib)
+include(kbookmarks-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kglobalaccel-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(knewstuff-lib)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(konsole-data)
+include(konsole-license)
+include(kparts-lib)
+include(kpty-lib)
+include(kservice-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+konsole-lib

@@ -1,0 +1,12 @@
+# [TITLE]: vapoursynth-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(vapoursynth-lib)
+include(vapoursynth-license)
+vapoursynth-bin

@@ -1,0 +1,14 @@
+# [TITLE]: sane-backends
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sane-backends-bin)
+include(sane-backends-config)
+include(sane-backends-data)
+include(sane-backends-lib)
+include(sane-backends-license)
+include(sane-backends-locales)
+include(sane-backends-man)
+sane-backends

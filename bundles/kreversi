@@ -1,0 +1,11 @@
+# [TITLE]: kreversi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kreversi-bin)
+include(kreversi-data)
+include(kreversi-license)
+include(kreversi-locales)
+kreversi

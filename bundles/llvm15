@@ -1,0 +1,21 @@
+# [TITLE]: llvm15
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(llvm15-bin)
+include(llvm15-extras-libclang)
+include(llvm15-extras-libclang-cpp)
+include(llvm15-extras-libllvm)
+include(llvm15-lib)
+include(llvm15-license)
+include(ncurses-lib)
+include(zlib-lib)
+include(zstd-lib)
+llvm15

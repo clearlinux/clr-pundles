@@ -8,8 +8,8 @@ include(cryptography)
 include(libX11client)
 include(python3-basic)
 
-clr-fwupd-hooks
-fwupd
+include(clr-fwupd-hooks)
+include(fwupd)
 include(libsoup)
 include(polkit)
 include(libpsl-lib)

@@ -1,0 +1,11 @@
+# [TITLE]: sweeper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sweeper-bin)
+include(sweeper-data)
+include(sweeper-license)
+include(sweeper-locales)
+sweeper

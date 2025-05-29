@@ -1,0 +1,24 @@
+# [TITLE]: plasma-pa-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kstatusnotifieritem-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libstdc++)
+include(plasma-pa-data)
+include(plasma-pa-license)
+include(pulseaudio-lib)
+include(pulseaudio-qt-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+plasma-pa-lib

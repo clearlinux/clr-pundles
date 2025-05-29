@@ -1,0 +1,15 @@
+# [TITLE]: os-autoinst-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libogg-lib)
+include(libstdc++)
+include(libtheora-lib)
+include(opencv-lib)
+include(os-autoinst-license)
+include(perl-bin)
+os-autoinst-libexec

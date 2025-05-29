@@ -1,0 +1,8 @@
+# [TITLE]: quilt-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(quilt-man)
+quilt-doc

@@ -1,0 +1,10 @@
+# [TITLE]: isl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(isl-license)
+include(libc6)
+isl-lib

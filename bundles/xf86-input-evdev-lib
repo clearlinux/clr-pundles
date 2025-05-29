@@ -1,0 +1,13 @@
+# [TITLE]: xf86-input-evdev-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libevdev-lib)
+include(mtdev-lib)
+include(systemd-lib)
+include(xf86-input-evdev-data)
+include(xf86-input-evdev-license)
+xf86-input-evdev-lib

@@ -1,0 +1,9 @@
+# [TITLE]: mock-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-bin)
+include(mock-license)
+mock-libexec

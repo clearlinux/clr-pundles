@@ -1,0 +1,11 @@
+# [TITLE]: kbounce
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbounce-bin)
+include(kbounce-data)
+include(kbounce-license)
+include(kbounce-locales)
+kbounce

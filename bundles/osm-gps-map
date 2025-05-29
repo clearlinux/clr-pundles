@@ -1,0 +1,10 @@
+# [TITLE]: osm-gps-map
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(osm-gps-map-data)
+include(osm-gps-map-lib)
+include(osm-gps-map-license)
+osm-gps-map

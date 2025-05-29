@@ -1,0 +1,13 @@
+# [TITLE]: libgit2-glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libgit2-dev)
+include(libgit2-glib)
+include(libgit2-glib-data)
+include(libgit2-glib-lib)
+include(pkg-config-bin)
+libgit2-glib-dev

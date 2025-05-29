@@ -1,0 +1,15 @@
+# [TITLE]: atkmm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(atkmm-license)
+include(glib-lib)
+include(glibmm-lib)
+include(libc6)
+include(libgcc1)
+include(libsigc++-lib)
+include(libstdc++)
+atkmm-lib

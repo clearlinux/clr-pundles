@@ -1,0 +1,10 @@
+# [TITLE]: QAT-ZSTD-Plugin-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QAT-ZSTD-Plugin)
+include(libc6)
+include(qatlib-lib)
+QAT-ZSTD-Plugin-dev

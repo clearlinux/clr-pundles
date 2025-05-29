@@ -1,0 +1,8 @@
+# [TITLE]: gmsh-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmsh-python3)
+gmsh-python

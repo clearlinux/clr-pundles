@@ -1,0 +1,12 @@
+# [TITLE]: dkms-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dkms-config)
+include(dkms-data)
+include(dkms-license)
+include(dkms-services)
+include(filesystem)
+dkms-bin

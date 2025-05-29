@@ -1,0 +1,15 @@
+# [TITLE]: ldb-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ldb-license)
+include(libc6)
+include(lmdb-lib)
+include(openldap-lib)
+include(popt-lib)
+include(talloc-lib)
+include(tdb-lib)
+include(tevent-lib)
+ldb-lib

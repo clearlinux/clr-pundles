@@ -1,0 +1,11 @@
+# [TITLE]: libdbusmenu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdbusmenu-data)
+include(libdbusmenu-lib)
+include(libdbusmenu-libexec)
+include(libdbusmenu-license)
+libdbusmenu

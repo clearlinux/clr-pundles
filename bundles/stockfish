@@ -1,0 +1,9 @@
+# [TITLE]: stockfish
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(stockfish-bin)
+include(stockfish-license)
+stockfish

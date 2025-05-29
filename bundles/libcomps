@@ -1,0 +1,11 @@
+# [TITLE]: libcomps
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcomps-lib)
+include(libcomps-license)
+include(libcomps-python)
+include(libcomps-python3)
+libcomps

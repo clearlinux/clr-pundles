@@ -1,0 +1,19 @@
+# [TITLE]: open-vm-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(fuse-lib)
+include(glib-lib)
+include(libc6)
+include(libdrm-lib)
+include(open-vm-tools-config)
+include(open-vm-tools-data)
+include(open-vm-tools-lib)
+include(open-vm-tools-license)
+include(open-vm-tools-services)
+include(open-vm-tools-setuid)
+include(systemd-lib)
+open-vm-tools-bin

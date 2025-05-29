@@ -1,0 +1,8 @@
+# [TITLE]: ldb-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ldb-python3)
+ldb-python

@@ -1,0 +1,11 @@
+# [TITLE]: kturtle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kturtle-bin)
+include(kturtle-data)
+include(kturtle-license)
+include(kturtle-locales)
+kturtle

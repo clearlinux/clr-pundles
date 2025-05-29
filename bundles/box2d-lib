@@ -1,0 +1,11 @@
+# [TITLE]: box2d-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(box2d-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+box2d-lib

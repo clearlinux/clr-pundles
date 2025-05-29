@@ -1,0 +1,15 @@
+# [TITLE]: folks-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(folks-data)
+include(folks-lib)
+include(folks-license)
+include(glib-lib)
+include(libc6)
+include(libgee-lib)
+include(libxml2-lib)
+include(readline-lib)
+folks-bin

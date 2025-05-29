@@ -1,0 +1,10 @@
+# [TITLE]: compat-libsigc++-soname20-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsigc++-soname20)
+include(compat-libsigc++-soname20-data)
+include(compat-libsigc++-soname20-lib)
+compat-libsigc++-soname20-dev

@@ -1,0 +1,20 @@
+# [TITLE]: dovecot-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(bzip2-lib)
+include(dovecot-config)
+include(dovecot-lib)
+include(dovecot-license)
+include(filesystem)
+include(libc6)
+include(libtirpc-lib)
+include(libxcrypt-lib)
+include(lz4-lib)
+include(openldap-lib)
+include(zlib-lib)
+include(zstd-lib)
+dovecot-libexec

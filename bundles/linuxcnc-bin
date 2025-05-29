@@ -1,0 +1,27 @@
+# [TITLE]: linuxcnc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost-extras)
+include(cairo-lib)
+include(filesystem)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libedit-lib)
+include(libgcc1)
+include(libmodbus-lib)
+include(libstdc++)
+include(libusb-lib)
+include(linuxcnc-data)
+include(linuxcnc-lib)
+include(linuxcnc-license)
+include(pango-lib)
+include(python3-core)
+include(python3-lib)
+include(systemd-lib)
+include(tcl-bin)
+include(tk-bin)
+linuxcnc-bin

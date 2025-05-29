@@ -1,0 +1,8 @@
+# [TITLE]: dtc-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dtc-dev)
+dtc-staticdev

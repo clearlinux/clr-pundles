@@ -1,0 +1,11 @@
+# [TITLE]: xf86-input-synaptics-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libevdev-lib)
+include(xf86-input-synaptics-data)
+include(xf86-input-synaptics-license)
+xf86-input-synaptics-lib

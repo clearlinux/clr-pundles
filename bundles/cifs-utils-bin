@@ -1,0 +1,14 @@
+# [TITLE]: cifs-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cifs-utils-license)
+include(keyutils-lib)
+include(krb5-lib)
+include(libc6)
+include(libcap-ng-lib)
+include(python3-core)
+include(talloc-lib)
+cifs-utils-bin

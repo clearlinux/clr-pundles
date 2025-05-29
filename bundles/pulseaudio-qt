@@ -1,0 +1,9 @@
+# [TITLE]: pulseaudio-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pulseaudio-qt-lib)
+include(pulseaudio-qt-license)
+pulseaudio-qt

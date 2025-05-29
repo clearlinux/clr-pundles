@@ -1,0 +1,17 @@
+# [TITLE]: SFML-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SFML)
+include(SFML-data)
+include(SFML-dev)
+include(SFML-lib)
+include(flac-dev)
+include(freetype-dev)
+include(libogg-dev)
+include(libvorbis-dev)
+include(openal-soft-dev)
+include(pkg-config-bin)
+SFML-dev

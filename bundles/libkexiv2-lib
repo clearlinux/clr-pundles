@@ -1,0 +1,14 @@
+# [TITLE]: libkexiv2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exiv2-lib)
+include(libc6)
+include(libgcc1)
+include(libkexiv2-data)
+include(libkexiv2-license)
+include(libstdc++)
+include(qt6base-lib)
+libkexiv2-lib

@@ -1,0 +1,12 @@
+# [TITLE]: bluedevil
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluedevil-bin)
+include(bluedevil-data)
+include(bluedevil-lib)
+include(bluedevil-license)
+include(bluedevil-locales)
+bluedevil

@@ -1,0 +1,11 @@
+# [TITLE]: parted-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(libc6)
+include(parted-license)
+include(util-linux-lib)
+parted-lib

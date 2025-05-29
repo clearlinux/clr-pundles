@@ -1,0 +1,16 @@
+# [TITLE]: smartmontools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libcap-ng-lib)
+include(libgcc1)
+include(libstdc++)
+include(smartmontools-data)
+include(smartmontools-license)
+include(smartmontools-services)
+include(systemd-extras-libsystemd)
+smartmontools-bin

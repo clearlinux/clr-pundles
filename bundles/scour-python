@@ -1,0 +1,8 @@
+# [TITLE]: scour-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(scour-python3)
+scour-python

@@ -1,0 +1,8 @@
+# [TITLE]: linux-lts2017-extra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linux-lts2017-license)
+linux-lts2017-extra

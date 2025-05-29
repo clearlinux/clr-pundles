@@ -1,0 +1,11 @@
+# [TITLE]: qdmr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qdmr)
+include(qdmr-bin)
+include(qdmr-data)
+include(qdmr-lib)
+qdmr-dev

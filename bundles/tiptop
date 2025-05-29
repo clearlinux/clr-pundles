@@ -1,0 +1,10 @@
+# [TITLE]: tiptop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tiptop-bin)
+include(tiptop-license)
+include(tiptop-man)
+tiptop

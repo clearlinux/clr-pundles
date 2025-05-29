@@ -1,0 +1,10 @@
+# [TITLE]: iw-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iw-license)
+include(libc6)
+include(libnl-lib)
+iw-bin

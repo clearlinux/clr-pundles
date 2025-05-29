@@ -1,0 +1,16 @@
+# [TITLE]: gsequencer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gsequencer-data)
+include(gsequencer-lib)
+include(gsequencer-license)
+include(gstreamer-lib)
+include(gtk4-lib)
+include(libc6)
+include(libinstpatch-lib)
+gsequencer-bin

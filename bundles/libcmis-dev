@@ -1,0 +1,14 @@
+# [TITLE]: libcmis-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+include(libcmis)
+include(libcmis-bin)
+include(libcmis-dev)
+include(libcmis-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+libcmis-dev

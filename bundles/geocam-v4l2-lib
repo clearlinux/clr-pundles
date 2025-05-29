@@ -1,0 +1,9 @@
+# [TITLE]: geocam-v4l2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geocam-v4l2-license)
+include(libc6)
+geocam-v4l2-lib

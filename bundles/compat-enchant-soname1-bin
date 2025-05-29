@@ -1,0 +1,11 @@
+# [TITLE]: compat-enchant-soname1-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-enchant-soname1-lib)
+include(compat-enchant-soname1-license)
+include(glib-lib)
+include(libc6)
+compat-enchant-soname1-bin

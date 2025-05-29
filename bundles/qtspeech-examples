@@ -1,0 +1,8 @@
+# [TITLE]: qtspeech-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtspeech-dev)
+qtspeech-examples

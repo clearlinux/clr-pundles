@@ -1,0 +1,8 @@
+# [TITLE]: chrony-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chrony-man)
+chrony-doc

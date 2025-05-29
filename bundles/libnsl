@@ -1,0 +1,9 @@
+# [TITLE]: libnsl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnsl-lib)
+include(libnsl-license)
+libnsl

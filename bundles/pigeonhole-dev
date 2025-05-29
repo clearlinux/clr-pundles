@@ -1,0 +1,10 @@
+# [TITLE]: pigeonhole-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pigeonhole)
+include(pigeonhole-bin)
+include(pigeonhole-lib)
+pigeonhole-dev

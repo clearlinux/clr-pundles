@@ -1,0 +1,9 @@
+# [TITLE]: speexdsp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(speexdsp-lib)
+include(speexdsp-license)
+speexdsp

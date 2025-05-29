@@ -1,0 +1,12 @@
+# [TITLE]: ixion
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ixion-bin)
+include(ixion-lib)
+include(ixion-license)
+include(ixion-python)
+include(ixion-python3)
+ixion

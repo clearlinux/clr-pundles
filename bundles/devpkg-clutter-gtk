@@ -9,6 +9,6 @@ include(devpkg-base)
 include(devpkg-clutter)
 include(devpkg-gtk3)
 
-clutter-gtk-dev
+include(clutter-gtk-dev)
 include(libX11client)
 include(libglib)

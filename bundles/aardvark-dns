@@ -1,0 +1,9 @@
+# [TITLE]: aardvark-dns
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aardvark-dns-libexec)
+include(aardvark-dns-license)
+aardvark-dns

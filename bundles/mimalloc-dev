@@ -1,0 +1,10 @@
+# [TITLE]: mimalloc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mimalloc)
+include(mimalloc-lib)
+include(pkg-config-bin)
+mimalloc-dev

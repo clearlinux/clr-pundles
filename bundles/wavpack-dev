@@ -1,0 +1,11 @@
+# [TITLE]: wavpack-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(wavpack)
+include(wavpack-bin)
+include(wavpack-lib)
+wavpack-dev

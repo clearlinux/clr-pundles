@@ -1,0 +1,11 @@
+# [TITLE]: potrace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(potrace-bin)
+include(potrace-lib)
+include(potrace-license)
+include(potrace-man)
+potrace

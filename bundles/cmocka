@@ -1,0 +1,9 @@
+# [TITLE]: cmocka
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmocka-lib)
+include(cmocka-license)
+cmocka

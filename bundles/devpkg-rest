@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-rest-dev
+include(rest-dev)
 include(libglib)
 include(gnome-base-libs)

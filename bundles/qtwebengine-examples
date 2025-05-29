@@ -1,0 +1,8 @@
+# [TITLE]: qtwebengine-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtwebengine-dev)
+qtwebengine-examples

@@ -1,0 +1,17 @@
+# [TITLE]: compat-gnome-bluetooth-soname-13-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(compat-gnome-bluetooth-soname-13-data)
+include(compat-gnome-bluetooth-soname-13-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libgcc1)
+include(libnotify-lib)
+include(systemd-lib)
+compat-gnome-bluetooth-soname-13-lib

@@ -1,0 +1,23 @@
+# [TITLE]: grilo-plugins-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gnome-online-accounts-lib)
+include(grilo-lib)
+include(grilo-plugins-data)
+include(grilo-plugins-license)
+include(gstreamer-lib)
+include(json-glib-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(liboauth-lib)
+include(lua-lib)
+include(sqlite-autoconf-lib)
+include(totem-pl-parser-lib)
+include(tracker-lib)
+grilo-plugins-lib

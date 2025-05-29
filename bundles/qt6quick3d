@@ -1,0 +1,9 @@
+# [TITLE]: qt6quick3d
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6quick3d-lib)
+include(qt6quick3d-license)
+qt6quick3d

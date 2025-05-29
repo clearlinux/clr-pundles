@@ -1,0 +1,9 @@
+# [TITLE]: cov-core-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-coverage-python3)
+include(python3-core)
+cov-core-python3

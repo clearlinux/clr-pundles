@@ -1,0 +1,11 @@
+# [TITLE]: kruler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kruler-bin)
+include(kruler-data)
+include(kruler-license)
+include(kruler-locales)
+kruler

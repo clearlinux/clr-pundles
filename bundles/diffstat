@@ -1,0 +1,9 @@
+# [TITLE]: diffstat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(diffstat-bin)
+include(diffstat-man)
+diffstat

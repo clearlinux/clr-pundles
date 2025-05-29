@@ -1,0 +1,12 @@
+# [TITLE]: groff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(groff-bin)
+include(groff-data)
+include(groff-info)
+include(groff-license)
+include(groff-man)
+groff

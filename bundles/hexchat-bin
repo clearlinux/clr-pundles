@@ -1,0 +1,18 @@
+# [TITLE]: hexchat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-glib-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(hexchat-data)
+include(hexchat-license)
+include(libX11-lib)
+include(libc6)
+include(libcanberra-lib)
+include(openssl-lib)
+include(pango-lib)
+hexchat-bin

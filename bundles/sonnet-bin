@@ -1,0 +1,12 @@
+# [TITLE]: sonnet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(sonnet-data)
+include(sonnet-license)
+sonnet-bin

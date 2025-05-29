@@ -1,0 +1,16 @@
+# [TITLE]: httpd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-lib)
+include(apr-util-lib)
+include(filesystem)
+include(httpd-config)
+include(httpd-data)
+include(libc6)
+include(libxcrypt-lib)
+include(openssl-lib)
+include(pcre-lib)
+httpd-bin

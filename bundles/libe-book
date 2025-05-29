@@ -1,0 +1,10 @@
+# [TITLE]: libe-book
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libe-book-bin)
+include(libe-book-lib)
+include(libe-book-license)
+libe-book

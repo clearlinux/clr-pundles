@@ -1,0 +1,13 @@
+# [TITLE]: gnome-bluetooth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-bluetooth-bin)
+include(gnome-bluetooth-data)
+include(gnome-bluetooth-lib)
+include(gnome-bluetooth-license)
+include(gnome-bluetooth-locales)
+include(gnome-bluetooth-man)
+gnome-bluetooth

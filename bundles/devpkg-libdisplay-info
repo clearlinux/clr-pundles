@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libdisplay-info-dev
+include(libdisplay-info-dev)

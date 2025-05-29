@@ -1,0 +1,8 @@
+# [TITLE]: redis2-nginx-module
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(redis2-nginx-module-lib)
+redis2-nginx-module

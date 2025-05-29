@@ -1,0 +1,8 @@
+# [TITLE]: msr-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(msr-tools-bin)
+msr-tools

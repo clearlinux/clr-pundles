@@ -1,0 +1,9 @@
+# [TITLE]: qtserialport
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtserialport-lib)
+include(qtserialport-license)
+qtserialport

@@ -1,0 +1,14 @@
+# [TITLE]: Coin-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Coin-data)
+include(Coin-license)
+include(expat-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+Coin-lib

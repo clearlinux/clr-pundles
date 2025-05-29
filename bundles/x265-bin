@@ -1,0 +1,11 @@
+# [TITLE]: x265-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(x265-lib)
+include(x265-license)
+x265-bin

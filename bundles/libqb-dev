@@ -1,0 +1,11 @@
+# [TITLE]: libqb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqb)
+include(libqb-bin)
+include(libqb-lib)
+include(pkg-config-bin)
+libqb-dev

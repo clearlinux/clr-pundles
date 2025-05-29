@@ -1,0 +1,10 @@
+# [TITLE]: igsc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(igsc-bin)
+include(igsc-lib)
+include(igsc-license)
+igsc

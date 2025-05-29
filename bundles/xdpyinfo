@@ -1,0 +1,10 @@
+# [TITLE]: xdpyinfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xdpyinfo-bin)
+include(xdpyinfo-license)
+include(xdpyinfo-man)
+xdpyinfo

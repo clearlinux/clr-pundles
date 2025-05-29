@@ -1,0 +1,10 @@
+# [TITLE]: kubernetes-migration-1.18
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(conntrack-tools)
+include(kubernetes-migration-1.18-license)
+include(libc6)
+kubernetes-migration-1.18

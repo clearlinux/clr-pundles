@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-pugixml-dev
+include(pugixml-dev)
 include(libstdcpp)

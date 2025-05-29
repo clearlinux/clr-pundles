@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-compat-enchant-soname1-dev
+include(compat-enchant-soname1-dev)
 include(libglib)
 include(libstdcpp)
 include(aspell)

@@ -1,0 +1,10 @@
+# [TITLE]: gcc8-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(libc6)
+include(libstdc++)
+gcc8-dev

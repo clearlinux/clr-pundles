@@ -1,0 +1,10 @@
+# [TITLE]: breeze-icons-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(breeze-icons)
+include(breeze-icons-data)
+include(breeze-icons-lib)
+breeze-icons-dev

@@ -1,0 +1,8 @@
+# [TITLE]: netplan-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(netplan-man)
+netplan-doc

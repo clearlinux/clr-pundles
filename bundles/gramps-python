@@ -1,0 +1,8 @@
+# [TITLE]: gramps-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gramps-python3)
+gramps-python

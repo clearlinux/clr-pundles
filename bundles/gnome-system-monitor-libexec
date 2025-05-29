@@ -1,0 +1,10 @@
+# [TITLE]: gnome-system-monitor-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-system-monitor-license)
+include(libc6)
+gnome-system-monitor-libexec

@@ -1,0 +1,8 @@
+# [TITLE]: glances-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glances-man)
+glances-doc

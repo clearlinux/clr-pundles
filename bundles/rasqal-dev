@@ -1,0 +1,12 @@
+# [TITLE]: rasqal-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(raptor2-dev)
+include(rasqal)
+include(rasqal-bin)
+include(rasqal-lib)
+rasqal-dev

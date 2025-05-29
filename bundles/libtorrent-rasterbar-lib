@@ -1,0 +1,13 @@
+# [TITLE]: libtorrent-rasterbar-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libtorrent-rasterbar-data)
+include(libtorrent-rasterbar-license)
+include(openssl-lib)
+libtorrent-rasterbar-lib

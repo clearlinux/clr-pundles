@@ -1,0 +1,15 @@
+# [TITLE]: kdav-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kdav-data)
+include(kdav-license)
+include(ki18n-lib)
+include(kio-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdav-lib

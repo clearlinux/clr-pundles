@@ -1,0 +1,11 @@
+# [TITLE]: ladspa_sdk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ladspa_sdk-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+ladspa_sdk-lib

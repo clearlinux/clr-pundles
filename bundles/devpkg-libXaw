@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libXaw-dev
+include(libXaw-dev)
 include(libX11client)
 include(libXpm-lib)

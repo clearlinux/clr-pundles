@@ -1,0 +1,12 @@
+# [TITLE]: simple-scan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(simple-scan-bin)
+include(simple-scan-data)
+include(simple-scan-license)
+include(simple-scan-locales)
+include(simple-scan-man)
+simple-scan

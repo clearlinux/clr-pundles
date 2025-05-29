@@ -1,0 +1,9 @@
+# [TITLE]: help2man-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(help2man-license)
+include(perl-bin)
+help2man-bin

@@ -1,0 +1,15 @@
+# [TITLE]: gtk+-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-data)
+include(gtk+-lib)
+include(gtk+-license)
+include(libc6)
+include(pango-lib)
+gtk+-bin

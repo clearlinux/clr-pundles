@@ -1,0 +1,8 @@
+# [TITLE]: cockpit-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cockpit-python3)
+cockpit-python

@@ -1,0 +1,13 @@
+# [TITLE]: kfilemetadata-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kfilemetadata-data)
+include(kfilemetadata-lib)
+include(kfilemetadata-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kfilemetadata-bin

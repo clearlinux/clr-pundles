@@ -1,0 +1,10 @@
+# [TITLE]: libiscsi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-lib)
+include(libc6)
+include(libiscsi-license)
+libiscsi-lib

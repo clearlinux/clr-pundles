@@ -1,0 +1,12 @@
+# [TITLE]: gutenprint-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk+-lib)
+include(gutenprint-data)
+include(gutenprint-license)
+include(libc6)
+gutenprint-lib

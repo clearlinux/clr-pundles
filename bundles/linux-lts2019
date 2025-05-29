@@ -1,0 +1,10 @@
+# [TITLE]: linux-lts2019
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(init-rdahead-extras)
+include(linux-lts2019-license)
+include(systemd-bin)
+linux-lts2019

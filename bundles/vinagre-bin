@@ -1,0 +1,19 @@
+# [TITLE]: vinagre-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk-vnc-lib)
+include(gtk3-lib)
+include(libc6)
+include(libsecret-lib)
+include(spice-gtk-lib)
+include(vinagre-data)
+include(vinagre-license)
+include(vte-lib)
+vinagre-bin

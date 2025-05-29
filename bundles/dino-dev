@@ -1,0 +1,11 @@
+# [TITLE]: dino-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dino)
+include(dino-bin)
+include(dino-data)
+include(dino-lib)
+dino-dev

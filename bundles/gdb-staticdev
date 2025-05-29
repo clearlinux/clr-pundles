@@ -1,0 +1,8 @@
+# [TITLE]: gdb-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdb-dev)
+gdb-staticdev

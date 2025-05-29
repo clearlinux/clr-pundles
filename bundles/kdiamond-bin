@@ -1,0 +1,24 @@
+# [TITLE]: kdiamond-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kdiamond-data)
+include(kdiamond-license)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkdegames-lib)
+include(libstdc++)
+include(qt6base-lib)
+kdiamond-bin

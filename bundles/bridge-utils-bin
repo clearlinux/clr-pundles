@@ -1,0 +1,9 @@
+# [TITLE]: bridge-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bridge-utils-license)
+include(libc6)
+bridge-utils-bin

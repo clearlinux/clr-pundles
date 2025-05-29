@@ -1,0 +1,11 @@
+# [TITLE]: nano-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nano-data)
+include(nano-license)
+include(ncurses-lib)
+nano-bin

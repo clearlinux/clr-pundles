@@ -1,0 +1,10 @@
+# [TITLE]: gcompris-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcompris-qt-bin)
+include(gcompris-qt-data)
+include(gcompris-qt-license)
+gcompris-qt

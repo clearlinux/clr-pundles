@@ -1,0 +1,12 @@
+# [TITLE]: akonadi-search
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-search-bin)
+include(akonadi-search-data)
+include(akonadi-search-lib)
+include(akonadi-search-license)
+include(akonadi-search-locales)
+akonadi-search

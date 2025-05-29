@@ -1,0 +1,9 @@
+# [TITLE]: libp11
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libp11-lib)
+include(libp11-license)
+libp11

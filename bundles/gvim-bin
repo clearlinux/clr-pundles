@@ -1,0 +1,24 @@
+# [TITLE]: gvim-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(cairo-lib)
+include(filesystem)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gpm-lib)
+include(gtk3-lib)
+include(gvim-data)
+include(gvim-license)
+include(libX11-lib)
+include(libXt-lib)
+include(libc6)
+include(libgcc1)
+include(lua-lib)
+include(ncurses-lib)
+include(pango-lib)
+include(python3-lib)
+gvim-bin

@@ -1,0 +1,9 @@
+# [TITLE]: elementary-xfce
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elementary-xfce-data)
+include(elementary-xfce-license)
+elementary-xfce

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-spdlog-dev
+include(spdlog-dev)
 include(libstdcpp)

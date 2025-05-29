@@ -1,0 +1,9 @@
+# [TITLE]: xdg-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(xdg-utils-license)
+xdg-utils-bin

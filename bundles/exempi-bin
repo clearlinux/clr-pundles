@@ -1,0 +1,12 @@
+# [TITLE]: exempi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exempi-lib)
+include(exempi-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+exempi-bin

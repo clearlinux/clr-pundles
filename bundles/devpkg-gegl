@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gegl-dev
+include(gegl-dev)
 include(libX11client)
 include(libglib)
 include(lib-imageformat)

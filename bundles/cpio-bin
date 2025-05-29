@@ -1,0 +1,9 @@
+# [TITLE]: cpio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cpio-license)
+include(libc6)
+cpio-bin

@@ -1,0 +1,11 @@
+# [TITLE]: qpl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qpl-data)
+include(qpl-license)
+qpl-lib

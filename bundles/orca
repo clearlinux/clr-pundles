@@ -1,0 +1,11 @@
+# [TITLE]: orca
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(orca-license)
+include(orca-python)
+include(orca-python3)
+include(pyatspi-python3)
+orca

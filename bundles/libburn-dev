@@ -1,0 +1,11 @@
+# [TITLE]: libburn-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libburn)
+include(libburn-bin)
+include(libburn-lib)
+include(pkg-config-bin)
+libburn-dev

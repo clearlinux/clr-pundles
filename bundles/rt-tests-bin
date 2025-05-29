@@ -1,0 +1,11 @@
+# [TITLE]: rt-tests-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(numactl-lib)
+include(rt-tests-license)
+rt-tests-bin

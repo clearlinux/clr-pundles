@@ -1,0 +1,33 @@
+# [TITLE]: eventviews-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-calendar-lib)
+include(akonadi-lib)
+include(calendarsupport-lib)
+include(eventviews-data)
+include(eventviews-license)
+include(kcalendarcore-lib)
+include(kcalutils-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(kdiagram-lib)
+include(kguiaddons-lib)
+include(kholidays-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kitemmodels-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgcc1)
+include(libkdepim-lib)
+include(libstdc++)
+include(qt6base-lib)
+eventviews-lib

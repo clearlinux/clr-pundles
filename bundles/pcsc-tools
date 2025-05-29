@@ -1,0 +1,12 @@
+# [TITLE]: pcsc-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcsc-tools-bin)
+include(pcsc-tools-data)
+include(pcsc-tools-license)
+include(pcsc-tools-locales)
+include(pcsc-tools-man)
+pcsc-tools

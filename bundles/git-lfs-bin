@@ -1,0 +1,10 @@
+# [TITLE]: git-lfs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(git-lfs-data)
+include(git-lfs-license)
+include(libc6)
+git-lfs-bin

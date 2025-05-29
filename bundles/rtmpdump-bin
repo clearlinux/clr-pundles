@@ -1,0 +1,10 @@
+# [TITLE]: rtmpdump-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(rtmpdump-lib)
+include(rtmpdump-license)
+rtmpdump-bin

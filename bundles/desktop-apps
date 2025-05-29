@@ -39,18 +39,18 @@ include(libva-utils)
 include(seahorse)
 also-add(totem)
 # apps
-dconf-editor
+include(dconf-editor)
 include(graphviz-extras)
-libyami-utils
-pavucontrol
-simple-scan
+include(libyami-utils)
+include(pavucontrol)
+include(simple-scan)
 
 # apps low level deps
 include(glib-bin)
 include(glib-config)
 
 # python specific deps
-python-zeep
+include(python-zeep)
 pypi-requests
 include(requests-ntlm)
 

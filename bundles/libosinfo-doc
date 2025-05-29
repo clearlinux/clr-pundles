@@ -1,0 +1,8 @@
+# [TITLE]: libosinfo-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libosinfo-man)
+libosinfo-doc

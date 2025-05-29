@@ -1,0 +1,14 @@
+# [TITLE]: wget-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpsl-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(util-linux-lib)
+include(wget-license)
+include(zlib-lib)
+wget-bin

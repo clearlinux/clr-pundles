@@ -1,0 +1,13 @@
+# [TITLE]: lensfun-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(lensfun-data)
+include(lensfun-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+lensfun-lib

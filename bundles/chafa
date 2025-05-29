@@ -1,0 +1,10 @@
+# [TITLE]: chafa
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chafa-bin)
+include(chafa-lib)
+include(chafa-license)
+chafa

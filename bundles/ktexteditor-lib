@@ -1,0 +1,31 @@
+# [TITLE]: ktexteditor-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kauth-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(kparts-lib)
+include(ktexteditor-data)
+include(ktexteditor-license)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6speech-lib)
+include(sonnet-lib)
+include(syntax-highlighting-lib)
+ktexteditor-lib

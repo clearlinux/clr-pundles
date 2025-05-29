@@ -1,0 +1,13 @@
+# [TITLE]: dssi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dssi-license)
+include(libc6)
+include(libgcc1)
+include(libsamplerate-lib)
+include(libsndfile-lib)
+include(libstdc++)
+dssi-lib

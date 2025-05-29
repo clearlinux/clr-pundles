@@ -1,0 +1,15 @@
+# [TITLE]: plasma-disks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-disks-data)
+include(plasma-disks-lib)
+include(plasma-disks-license)
+include(plasma-disks-locales)
+include(qt6base-lib)
+plasma-disks

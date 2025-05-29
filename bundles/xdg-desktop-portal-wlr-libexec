@@ -1,0 +1,15 @@
+# [TITLE]: xdg-desktop-portal-wlr-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inih-lib)
+include(libc6)
+include(libdrm-lib)
+include(mesa-lib)
+include(pipewire-lib)
+include(systemd-extras-libsystemd)
+include(wayland-lib)
+include(xdg-desktop-portal-wlr-license)
+xdg-desktop-portal-wlr-libexec

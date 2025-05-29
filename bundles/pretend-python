@@ -1,0 +1,8 @@
+# [TITLE]: pretend-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pretend-python3)
+pretend-python

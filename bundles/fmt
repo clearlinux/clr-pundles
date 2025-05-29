@@ -1,0 +1,9 @@
+# [TITLE]: fmt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fmt-lib)
+include(fmt-license)
+fmt

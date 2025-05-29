@@ -1,0 +1,15 @@
+# [TITLE]: gitg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gitg-bin)
+include(gitg-data)
+include(gitg-lib)
+include(gitg-license)
+include(gitg-locales)
+include(gitg-man)
+include(gitg-python)
+include(gitg-python3)
+gitg

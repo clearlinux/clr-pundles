@@ -1,0 +1,12 @@
+# [TITLE]: xmlsec1-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(filesystem)
+include(libc6)
+include(libxslt-lib)
+include(xmlsec1-lib)
+xmlsec1-bin

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-accountsservice-dev
+include(accountsservice-dev)
 include(libglib)

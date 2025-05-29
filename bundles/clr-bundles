@@ -1,0 +1,8 @@
+# [TITLE]: clr-bundles
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-bundles-data)
+clr-bundles

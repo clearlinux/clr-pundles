@@ -1,0 +1,11 @@
+# [TITLE]: gnome-settings-daemon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-settings-daemon)
+include(gnome-settings-daemon-data)
+include(gnome-settings-daemon-lib)
+include(pkg-config-bin)
+gnome-settings-daemon-dev

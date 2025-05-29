@@ -1,0 +1,11 @@
+# [TITLE]: quassel-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(quassel)
+include(quassel-bin)
+include(quassel-data)
+include(quassel-lib)
+quassel-dev

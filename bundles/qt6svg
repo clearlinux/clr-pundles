@@ -1,0 +1,9 @@
+# [TITLE]: qt6svg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6svg-lib)
+include(qt6svg-license)
+qt6svg

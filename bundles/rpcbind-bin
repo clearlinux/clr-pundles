@@ -1,0 +1,12 @@
+# [TITLE]: rpcbind-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtirpc-lib)
+include(rpcbind-license)
+include(rpcbind-services)
+include(systemd-extras-libsystemd)
+rpcbind-bin

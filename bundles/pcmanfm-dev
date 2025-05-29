@@ -1,0 +1,10 @@
+# [TITLE]: pcmanfm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcmanfm)
+include(pcmanfm-bin)
+include(pcmanfm-data)
+pcmanfm-dev

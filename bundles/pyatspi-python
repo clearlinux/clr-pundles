@@ -1,0 +1,8 @@
+# [TITLE]: pyatspi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pyatspi-python3)
+pyatspi-python

@@ -1,0 +1,12 @@
+# [TITLE]: arpack-ng-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(arpack-ng-license)
+include(gcc-libgfortran)
+include(libc6)
+include(libgcc1)
+include(openblas)
+arpack-ng-lib

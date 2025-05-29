@@ -1,0 +1,13 @@
+# [TITLE]: gnome-tweaks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-tweaks-bin)
+include(gnome-tweaks-data)
+include(gnome-tweaks-locales)
+include(gnome-tweaks-python)
+include(gnome-tweaks-python3)
+include(pygobject)
+gnome-tweaks

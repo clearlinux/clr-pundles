@@ -1,0 +1,11 @@
+# [TITLE]: sox-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(sox)
+include(sox-bin)
+include(sox-lib)
+sox-dev

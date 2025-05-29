@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-phonon-dev
+include(phonon-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

@@ -1,0 +1,33 @@
+# [TITLE]: RawTherapee-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(RawTherapee-data)
+include(RawTherapee-license)
+include(cairo-lib)
+include(compat-atkmm-soname16-lib)
+include(compat-cairomm-soname10-lib)
+include(compat-glibmm-soname24-lib)
+include(compat-libsigc++-soname20-lib)
+include(compat-pangomm-soname14-lib)
+include(exiv2-lib)
+include(expat-lib)
+include(fftw-lib)
+include(gcc-libs-math)
+include(glib-lib)
+include(gtk3-lib)
+include(gtkmm3-lib)
+include(lcms2-lib)
+include(lensfun-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(librsvg-lib)
+include(libstdc++)
+include(tiff-lib)
+include(zlib-lib)
+RawTherapee-bin

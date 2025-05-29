@@ -1,0 +1,10 @@
+# [TITLE]: luarocks-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lua-bin)
+include(luarocks-data)
+include(luarocks-license)
+luarocks-bin

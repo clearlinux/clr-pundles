@@ -1,0 +1,9 @@
+# [TITLE]: bpftool
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bpftool-bin)
+include(bpftool-license)
+bpftool

@@ -1,0 +1,20 @@
+# [TITLE]: qtwayland-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-lib)
+include(freetype-lib)
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libglvnd-lib)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qtwayland-license)
+include(wayland-lib)
+qtwayland-lib

@@ -1,0 +1,11 @@
+# [TITLE]: SDL_gfx-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-dev)
+include(SDL_gfx)
+include(SDL_gfx-lib)
+include(pkg-config-bin)
+SDL_gfx-dev

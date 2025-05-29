@@ -1,0 +1,11 @@
+# [TITLE]: calc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(calc-data)
+include(calc-license)
+include(libc6)
+include(readline-lib)
+calc-lib

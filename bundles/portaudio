@@ -1,0 +1,9 @@
+# [TITLE]: portaudio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(portaudio-lib)
+include(portaudio-license)
+portaudio

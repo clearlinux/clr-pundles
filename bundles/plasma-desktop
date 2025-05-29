@@ -1,0 +1,22 @@
+# [TITLE]: plasma-desktop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(ibus-lib)
+include(kauth-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-desktop-bin)
+include(plasma-desktop-data)
+include(plasma-desktop-lib)
+include(plasma-desktop-license)
+include(plasma-desktop-locales)
+include(plasma-desktop-services)
+include(qt6base-lib)
+plasma-desktop

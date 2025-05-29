@@ -1,0 +1,18 @@
+# [TITLE]: libkcddb-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libkcddb-data)
+include(libkcddb-license)
+include(libstdc++)
+include(qt6base-lib)
+libkcddb-lib

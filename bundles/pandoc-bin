@@ -1,0 +1,8 @@
+# [TITLE]: pandoc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pandoc-license)
+pandoc-bin

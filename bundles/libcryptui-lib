@@ -1,0 +1,14 @@
+# [TITLE]: libcryptui-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-glib-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libcryptui-data)
+include(libcryptui-license)
+include(pango-lib)
+libcryptui-lib

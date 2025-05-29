@@ -1,0 +1,9 @@
+# [TITLE]: perl-Package-New
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Package-New-license)
+include(perl-Package-New-perl)
+perl-Package-New

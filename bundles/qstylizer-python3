@@ -1,0 +1,10 @@
+# [TITLE]: qstylizer-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-inflection-python3)
+include(pypi-tinycss2-python3)
+include(python3-core)
+qstylizer-python3

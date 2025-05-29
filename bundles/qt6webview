@@ -1,0 +1,9 @@
+# [TITLE]: qt6webview
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6webview-lib)
+include(qt6webview-license)
+qt6webview

@@ -1,0 +1,9 @@
+# [TITLE]: bmap-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bmap-tools-license)
+include(python3-core)
+bmap-tools-bin

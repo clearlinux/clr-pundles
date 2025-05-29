@@ -1,0 +1,8 @@
+# [TITLE]: nose-parameterized-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nose-parameterized-python3)
+nose-parameterized-python

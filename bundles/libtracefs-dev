@@ -1,0 +1,13 @@
+# [TITLE]: libtracefs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtraceevent-dev)
+include(libtracefs)
+include(libtracefs-bin)
+include(libtracefs-data)
+include(libtracefs-lib)
+include(pkg-config-bin)
+libtracefs-dev

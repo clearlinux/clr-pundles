@@ -1,0 +1,10 @@
+# [TITLE]: libspectre-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libspectre)
+include(libspectre-lib)
+include(pkg-config-bin)
+libspectre-dev

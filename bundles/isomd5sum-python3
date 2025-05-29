@@ -1,0 +1,9 @@
+# [TITLE]: isomd5sum-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(python3-core)
+isomd5sum-python3

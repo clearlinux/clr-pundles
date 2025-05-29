@@ -1,0 +1,12 @@
+# [TITLE]: libabigail-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libabigail-lib)
+include(libabigail-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+libabigail-bin

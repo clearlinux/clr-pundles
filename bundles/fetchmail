@@ -1,0 +1,12 @@
+# [TITLE]: fetchmail
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fetchmail-bin)
+include(fetchmail-license)
+include(fetchmail-locales)
+include(fetchmail-man)
+include(procmail)
+fetchmail

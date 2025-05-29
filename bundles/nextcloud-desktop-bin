@@ -1,0 +1,23 @@
+# [TITLE]: nextcloud-desktop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(karchive-lib)
+include(kguiaddons-lib)
+include(libc6)
+include(libcloudproviders-lib)
+include(libgcc1)
+include(libstdc++)
+include(nextcloud-desktop-data)
+include(nextcloud-desktop-lib)
+include(nextcloud-desktop-license)
+include(openssl-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6svg-lib)
+include(qt6webengine-lib)
+include(qtkeychain-lib)
+nextcloud-desktop-bin

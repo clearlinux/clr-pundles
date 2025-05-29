@@ -1,0 +1,10 @@
+# [TITLE]: gtk-layer-shell
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk-layer-shell-data)
+include(gtk-layer-shell-lib)
+include(gtk-layer-shell-license)
+gtk-layer-shell

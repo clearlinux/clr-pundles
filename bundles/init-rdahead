@@ -7,7 +7,7 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-init-rdahead-extras
+include(init-rdahead-extras)
 # end of custom additions
 
 # main package

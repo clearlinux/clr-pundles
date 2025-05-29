@@ -1,0 +1,12 @@
+# [TITLE]: plzip-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(lzlib-lib)
+include(plzip-license)
+plzip-bin

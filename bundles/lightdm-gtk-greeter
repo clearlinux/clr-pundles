@@ -1,0 +1,11 @@
+# [TITLE]: lightdm-gtk-greeter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lightdm-gtk-greeter-bin)
+include(lightdm-gtk-greeter-data)
+include(lightdm-gtk-greeter-license)
+include(lightdm-gtk-greeter-locales)
+lightdm-gtk-greeter

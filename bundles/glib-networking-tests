@@ -1,0 +1,14 @@
+# [TITLE]: glib-networking-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(glib-lib)
+include(glib-networking)
+include(gnutls-lib)
+include(gsettings-desktop-schemas)
+include(libc6)
+glib-networking-tests

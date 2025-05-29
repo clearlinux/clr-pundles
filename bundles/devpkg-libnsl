@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libnsl-dev
+include(libnsl-dev)

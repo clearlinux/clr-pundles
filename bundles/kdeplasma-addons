@@ -1,0 +1,15 @@
+# [TITLE]: kdeplasma-addons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kdeplasma-addons-data)
+include(kdeplasma-addons-lib)
+include(kdeplasma-addons-license)
+include(kdeplasma-addons-locales)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdeplasma-addons

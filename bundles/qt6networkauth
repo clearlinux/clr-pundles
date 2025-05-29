@@ -1,0 +1,9 @@
+# [TITLE]: qt6networkauth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6networkauth-lib)
+include(qt6networkauth-license)
+qt6networkauth

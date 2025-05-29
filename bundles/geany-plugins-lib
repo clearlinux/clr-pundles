@@ -1,0 +1,23 @@
+# [TITLE]: geany-plugins-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-libsoup-soname-24-lib)
+include(enchant-lib)
+include(gdk-pixbuf-lib)
+include(geany-lib)
+include(geany-plugins-data)
+include(geany-plugins-license)
+include(glib-lib)
+include(gpgme-lib)
+include(gtk3-lib)
+include(gtkspell3-lib)
+include(libc6)
+include(libgit2-lib)
+include(libxml2-lib)
+include(pango-lib)
+include(vte-lib)
+geany-plugins-lib

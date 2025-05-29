@@ -1,0 +1,23 @@
+# [TITLE]: picmi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libkdegames-lib)
+include(libstdc++)
+include(picmi-data)
+include(picmi-license)
+include(qt6base-lib)
+include(qt6svg-lib)
+picmi-bin

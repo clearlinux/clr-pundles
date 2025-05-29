@@ -1,0 +1,9 @@
+# [TITLE]: asio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asio)
+include(pkg-config-bin)
+asio-dev

@@ -1,0 +1,11 @@
+# [TITLE]: igsc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(igsc-license)
+include(libc6)
+include(metee-lib)
+include(systemd-lib)
+igsc-lib

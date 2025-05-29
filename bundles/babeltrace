@@ -1,0 +1,11 @@
+# [TITLE]: babeltrace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babeltrace-bin)
+include(babeltrace-lib)
+include(babeltrace-license)
+include(babeltrace-man)
+babeltrace

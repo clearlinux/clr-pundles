@@ -1,0 +1,12 @@
+# [TITLE]: stoken
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(stoken-bin)
+include(stoken-data)
+include(stoken-lib)
+include(stoken-license)
+include(stoken-man)
+stoken

@@ -1,0 +1,10 @@
+# [TITLE]: jdcal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jdcal-license)
+include(jdcal-python)
+include(jdcal-python3)
+jdcal

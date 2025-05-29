@@ -1,0 +1,12 @@
+# [TITLE]: dconf-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dconf-data)
+include(dconf-license)
+include(gcc-libgcc32)
+include(glib-lib32)
+include(glibc-libc32)
+dconf-lib32

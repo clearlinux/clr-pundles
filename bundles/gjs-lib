@@ -1,0 +1,18 @@
+# [TITLE]: gjs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gjs-data)
+include(gjs-license)
+include(glib-lib)
+include(gobject-introspection-lib)
+include(libX11-lib)
+include(libc6)
+include(libffi-lib)
+include(libgcc1)
+include(libstdc++)
+include(mozjs128-lib)
+gjs-lib

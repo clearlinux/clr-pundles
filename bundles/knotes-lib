@@ -1,0 +1,39 @@
+# [TITLE]: knotes-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(akonadi-notes-lib)
+include(akonadi-search-lib)
+include(grantleetheme-lib)
+include(kcalendarcore-lib)
+include(kcalutils-lib)
+include(kcmutils-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(kdnssd-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kitemmodels-lib)
+include(kitemviews-lib)
+include(kmime-lib)
+include(knewstuff-lib)
+include(knotes-data)
+include(knotes-license)
+include(kontactinterface-lib)
+include(kparts-lib)
+include(ktextaddons-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pimcommon-lib)
+include(qt6base-lib)
+knotes-lib

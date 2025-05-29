@@ -1,0 +1,9 @@
+# [TITLE]: rasdaemon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rasdaemon)
+include(rasdaemon-bin)
+rasdaemon-dev

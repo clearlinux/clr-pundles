@@ -1,0 +1,8 @@
+# [TITLE]: zabbix-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+zabbix-data

@@ -1,0 +1,17 @@
+# [TITLE]: plasma-firewall
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-firewall-data)
+include(plasma-firewall-lib)
+include(plasma-firewall-license)
+include(plasma-firewall-locales)
+include(python3-core)
+include(qt6base-lib)
+plasma-firewall

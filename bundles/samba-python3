@@ -1,0 +1,21 @@
+# [TITLE]: samba-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-lib)
+include(gnutls-lib)
+include(krb5-lib)
+include(ldb-extras)
+include(ldb-lib)
+include(ldb-python3)
+include(libc6)
+include(libgcc1)
+include(python3-core)
+include(python3-lib)
+include(samba-lib)
+include(talloc-lib)
+include(talloc-python3)
+include(tevent-lib)
+samba-python3

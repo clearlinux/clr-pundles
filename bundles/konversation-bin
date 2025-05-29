@@ -1,0 +1,40 @@
+# [TITLE]: konversation-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kbookmarks-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kidletime-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(knewstuff-lib)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(konversation-data)
+include(konversation-license)
+include(kparts-lib)
+include(kstatusnotifieritem-lib)
+include(ktextwidgets-lib)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qca-lib)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+konversation-bin

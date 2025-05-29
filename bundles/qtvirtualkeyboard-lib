@@ -1,0 +1,15 @@
+# [TITLE]: qtvirtualkeyboard-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qtsvg-lib)
+include(qtvirtualkeyboard-license)
+qtvirtualkeyboard-lib

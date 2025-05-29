@@ -1,0 +1,10 @@
+# [TITLE]: virt-manager-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(virt-manager-data)
+include(virt-manager-license)
+virt-manager-bin

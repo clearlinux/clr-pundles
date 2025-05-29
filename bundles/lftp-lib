@@ -1,0 +1,16 @@
+# [TITLE]: lftp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(lftp-data)
+include(lftp-license)
+include(libc6)
+include(libidn2-lib)
+include(libstdc++)
+include(ncurses-lib)
+include(openssl-lib)
+include(zlib-lib)
+lftp-lib

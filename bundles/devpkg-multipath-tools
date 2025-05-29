@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-multipath-tools-dev
+include(multipath-tools-dev)

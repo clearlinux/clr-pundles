@@ -5,5 +5,5 @@
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(os-core-plus)
-isomd5sum-bin
+include(isomd5sum-bin)
 include(popt-lib)

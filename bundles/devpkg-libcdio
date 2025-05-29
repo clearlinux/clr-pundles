@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libcdio-dev
+include(libcdio-dev)
 include(libstdcpp)

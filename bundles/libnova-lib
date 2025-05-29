@@ -1,0 +1,9 @@
+# [TITLE]: libnova-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libnova-license)
+libnova-lib

@@ -7,7 +7,7 @@
 
 
 
-libgphoto2-lib
+include(libgphoto2-lib)
 include(libX11client)
 include(libXpm-lib)
 include(curl)

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-intel-gmmlib-dev
+include(intel-gmmlib-dev)
 include(libstdcpp)

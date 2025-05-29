@@ -1,0 +1,8 @@
+# [TITLE]: qpdf-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qpdf-man)
+qpdf-doc

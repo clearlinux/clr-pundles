@@ -6,18 +6,18 @@
 # [MAINTAINER]: Wu Chia Chuan <chia.chuan.wu@intel.com>
 include(glmark2)
 
-clear-font
+include(clear-font)
 include(gdk-pixbuf)
 include(glib)
-gnome-session
+include(gnome-session)
 include(libXcursor-lib)
-mutter
+include(mutter)
 include(shared-mime-info)
 include(xf86-input-libinput)
 include(xkbcomp)
 include(xkeyboard-config)
 include(xorg-server)
-xwdrun
+include(xwdrun)
 include(gdk-pixbuf)
 include(audio-pipewire)
 include(libpsl-lib)

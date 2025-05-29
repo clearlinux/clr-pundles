@@ -1,0 +1,12 @@
+# [TITLE]: libgee-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libgee)
+include(libgee-data)
+include(libgee-lib)
+include(pkg-config-bin)
+libgee-dev

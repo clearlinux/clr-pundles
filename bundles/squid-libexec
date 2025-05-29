@@ -1,0 +1,21 @@
+# [TITLE]: squid-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cyrus-sasl-lib)
+include(e2fsprogs-lib)
+include(filesystem)
+include(krb5-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxcrypt-lib)
+include(nettle-lib)
+include(openldap-lib)
+include(perl-bin)
+include(squid-config)
+include(squid-license)
+squid-libexec

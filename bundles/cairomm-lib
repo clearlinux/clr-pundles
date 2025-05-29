@@ -1,0 +1,13 @@
+# [TITLE]: cairomm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(cairomm-license)
+include(libc6)
+include(libgcc1)
+include(libsigc++-lib)
+include(libstdc++)
+cairomm-lib

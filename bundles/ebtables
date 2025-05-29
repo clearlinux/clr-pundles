@@ -1,0 +1,13 @@
+# [TITLE]: ebtables
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ebtables-bin)
+include(ebtables-data)
+include(ebtables-lib)
+include(ebtables-license)
+include(ebtables-man)
+include(iptables)
+ebtables

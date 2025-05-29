@@ -1,0 +1,12 @@
+# [TITLE]: libksba-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgpg-error-dev)
+include(libksba)
+include(libksba-bin)
+include(libksba-lib)
+include(pkg-config-bin)
+libksba-dev

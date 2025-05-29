@@ -9,6 +9,6 @@ include(devpkg-base)
 include(devpkg-at-spi2-core)
 include(devpkg-compat-glibmm-soname24)
 
-compat-atkmm-soname16-dev
+include(compat-atkmm-soname16-dev)
 include(libglib)
 include(libstdcpp)

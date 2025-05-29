@@ -1,0 +1,8 @@
+# [TITLE]: trace-cmd-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(trace-cmd-python3)
+trace-cmd-python

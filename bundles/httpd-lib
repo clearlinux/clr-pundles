@@ -1,0 +1,14 @@
+# [TITLE]: httpd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(httpd-config)
+include(httpd-data)
+include(libc6)
+include(nghttp2-lib)
+include(openssl-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+httpd-lib

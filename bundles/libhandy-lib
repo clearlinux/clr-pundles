@@ -1,0 +1,18 @@
+# [TITLE]: libhandy-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(fribidi-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libhandy-data)
+include(libhandy-license)
+include(pango-lib)
+libhandy-lib

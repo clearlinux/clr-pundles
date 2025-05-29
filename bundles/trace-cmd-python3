@@ -1,0 +1,10 @@
+# [TITLE]: trace-cmd-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtraceevent-lib)
+include(python3-core)
+trace-cmd-python3

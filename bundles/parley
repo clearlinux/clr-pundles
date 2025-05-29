@@ -1,0 +1,11 @@
+# [TITLE]: parley
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(parley-bin)
+include(parley-data)
+include(parley-license)
+include(parley-locales)
+parley

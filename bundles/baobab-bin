@@ -1,0 +1,16 @@
+# [TITLE]: baobab-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baobab-data)
+include(baobab-license)
+include(cairo-lib)
+include(glib-lib)
+include(graphene-lib)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(pango-lib)
+baobab-bin

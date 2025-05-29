@@ -1,0 +1,11 @@
+# [TITLE]: qt5compat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt5compat)
+include(qt5compat-lib)
+include(qt6base-dev)
+qt5compat-dev

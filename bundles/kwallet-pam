@@ -1,0 +1,12 @@
+# [TITLE]: kwallet-pam
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(kwallet-pam-data)
+include(kwallet-pam-lib)
+include(kwallet-pam-license)
+include(kwallet-pam-services)
+kwallet-pam

@@ -1,0 +1,8 @@
+# [TITLE]: polkit-kde-agent-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+polkit-kde-agent-services

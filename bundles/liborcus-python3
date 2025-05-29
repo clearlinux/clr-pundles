@@ -1,0 +1,12 @@
+# [TITLE]: liborcus-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(liborcus-lib)
+include(libstdc++)
+include(python3-core)
+liborcus-python3

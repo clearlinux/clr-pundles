@@ -1,0 +1,12 @@
+# [TITLE]: qt6remoteobjects-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6remoteobjects-libexec)
+include(qt6remoteobjects-license)
+qt6remoteobjects-lib

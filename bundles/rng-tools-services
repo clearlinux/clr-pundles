@@ -1,0 +1,8 @@
+# [TITLE]: rng-tools-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+rng-tools-services

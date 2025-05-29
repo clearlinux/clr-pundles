@@ -1,0 +1,20 @@
+# [TITLE]: salt-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+include(PyYAML-python3)
+include(coreutils-bin)
+include(filesystem)
+include(pypi-contextvars-python3)
+include(pypi-distro-python3)
+include(pypi-jinja2-python3)
+include(pypi-jmespath-python3)
+include(pypi-msgpack-python3)
+include(pypi-psutil-python3)
+include(pypi-pyzmq-python3)
+include(pypi-requests-python3)
+include(python3-core)
+salt-python3

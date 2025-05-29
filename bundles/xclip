@@ -1,0 +1,10 @@
+# [TITLE]: xclip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xclip-bin)
+include(xclip-license)
+include(xclip-man)
+xclip

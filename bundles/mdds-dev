@@ -1,0 +1,9 @@
+# [TITLE]: mdds-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mdds)
+include(pkg-config-bin)
+mdds-dev

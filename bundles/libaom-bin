@@ -1,0 +1,12 @@
+# [TITLE]: libaom-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libaom-lib)
+include(libaom-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+libaom-bin

@@ -1,0 +1,41 @@
+# [TITLE]: kdenlive-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kbookmarks-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kdenlive-data)
+include(kdenlive-license)
+include(kfilemetadata-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(knewstuff-lib)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(mlt-lib)
+include(purpose-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6multimedia-lib)
+include(qt6networkauth-lib)
+include(qt6svg-lib)
+include(solid-lib)
+kdenlive-bin

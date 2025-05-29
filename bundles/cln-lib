@@ -1,0 +1,11 @@
+# [TITLE]: cln-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cln-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+cln-lib

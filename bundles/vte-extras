@@ -1,0 +1,21 @@
+# [TITLE]: vte-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fribidi-lib)
+include(glib-lib)
+include(gnutls-lib)
+include(graphene-lib)
+include(gtk4-lib)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(lz4-lib)
+include(pango-lib)
+include(pcre2-lib)
+include(systemd-extras-libsystemd)
+vte-extras

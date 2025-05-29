@@ -1,0 +1,12 @@
+# [TITLE]: libsolv-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libsolv-data)
+include(libsolv-lib)
+include(libsolv-license)
+include(rpm-lib)
+libsolv-bin

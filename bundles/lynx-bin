@@ -1,0 +1,12 @@
+# [TITLE]: lynx-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(lynx-data)
+include(lynx-license)
+include(ncurses-lib)
+include(openssl-lib)
+lynx-bin

@@ -1,0 +1,23 @@
+# [TITLE]: ipe-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-gsl-soname27-lib)
+include(freetype-lib)
+include(gsl-lib)
+include(ipe-data)
+include(ipe-license)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libspiro-lib)
+include(libstdc++)
+include(lua-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(zlib-lib)
+ipe-lib

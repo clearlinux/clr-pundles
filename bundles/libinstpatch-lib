@@ -1,0 +1,11 @@
+# [TITLE]: libinstpatch-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libinstpatch-license)
+include(libsndfile-lib)
+libinstpatch-lib

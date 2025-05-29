@@ -1,0 +1,11 @@
+# [TITLE]: ragel-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ragel)
+include(ragel-bin)
+include(ragel-data)
+include(ragel-lib)
+ragel-dev

@@ -1,0 +1,20 @@
+# [TITLE]: fwupd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(fwupd-bin)
+include(fwupd-config)
+include(fwupd-data)
+include(fwupd-lib)
+include(fwupd-libexec)
+include(fwupd-license)
+include(fwupd-locales)
+include(fwupd-man)
+include(fwupd-services)
+include(glib)
+include(gsettings-desktop-schemas)
+include(udisks2)
+fwupd

@@ -1,0 +1,8 @@
+# [TITLE]: glm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glm)
+glm-dev

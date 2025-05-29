@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-clutter-gst-dev
+include(clutter-gst-dev)
 include(libX11client)
 include(libglib)
 include(gstreamer)

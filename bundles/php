@@ -1,0 +1,14 @@
+# [TITLE]: php
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(php-bin)
+include(php-data)
+include(php-lib)
+include(php-license)
+include(php-man)
+include(php-services)
+php

@@ -1,0 +1,14 @@
+# [TITLE]: libkdcraw-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibRaw-lib)
+include(libc6)
+include(libgcc1)
+include(libkdcraw-data)
+include(libkdcraw-license)
+include(libstdc++)
+include(qt6base-lib)
+libkdcraw-lib

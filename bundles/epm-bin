@@ -1,0 +1,9 @@
+# [TITLE]: epm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(epm-license)
+include(libc6)
+epm-bin

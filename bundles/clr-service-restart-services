@@ -1,0 +1,8 @@
+# [TITLE]: clr-service-restart-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+clr-service-restart-services

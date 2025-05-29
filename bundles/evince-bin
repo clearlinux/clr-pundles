@@ -1,0 +1,23 @@
+# [TITLE]: evince-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(evince-data)
+include(evince-lib)
+include(evince-libexec)
+include(evince-license)
+include(evince-services)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libhandy-lib)
+include(libsecret-lib)
+include(pango-lib)
+evince-bin

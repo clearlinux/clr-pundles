@@ -1,0 +1,11 @@
+# [TITLE]: qtscript-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtscript-license)
+qtscript-lib

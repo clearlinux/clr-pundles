@@ -1,0 +1,10 @@
+# [TITLE]: kwidgetsaddons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwidgetsaddons-data)
+include(kwidgetsaddons-lib)
+include(kwidgetsaddons-license)
+kwidgetsaddons

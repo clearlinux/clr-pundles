@@ -1,0 +1,11 @@
+# [TITLE]: xfsdump
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfsdump-bin)
+include(xfsdump-license)
+include(xfsdump-locales)
+include(xfsdump-man)
+xfsdump

@@ -1,0 +1,11 @@
+# [TITLE]: dlt-daemon-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dlt-daemon-data)
+include(dlt-daemon-lib)
+include(dlt-daemon-license)
+include(libc6)
+dlt-daemon-bin

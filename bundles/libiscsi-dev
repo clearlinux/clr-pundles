@@ -1,0 +1,11 @@
+# [TITLE]: libiscsi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libiscsi)
+include(libiscsi-bin)
+include(libiscsi-lib)
+include(pkg-config-bin)
+libiscsi-dev

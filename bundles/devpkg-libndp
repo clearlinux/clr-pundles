@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libndp-dev
+include(libndp-dev)

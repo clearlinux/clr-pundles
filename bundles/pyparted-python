@@ -1,0 +1,8 @@
+# [TITLE]: pyparted-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pyparted-python3)
+pyparted-python

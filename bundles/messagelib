@@ -1,0 +1,11 @@
+# [TITLE]: messagelib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(messagelib-data)
+include(messagelib-lib)
+include(messagelib-license)
+include(messagelib-locales)
+messagelib

@@ -1,0 +1,13 @@
+# [TITLE]: collectd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(collectd-data)
+include(collectd-lib)
+include(collectd-license)
+include(libc6)
+include(libcap-lib)
+include(libstatgrab-lib)
+collectd-bin

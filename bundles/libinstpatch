@@ -1,0 +1,9 @@
+# [TITLE]: libinstpatch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libinstpatch-lib)
+include(libinstpatch-license)
+libinstpatch

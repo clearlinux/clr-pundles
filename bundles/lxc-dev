@@ -1,0 +1,16 @@
+# [TITLE]: lxc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-dev)
+include(libcap-dev)
+include(libseccomp-dev)
+include(lxc)
+include(lxc-bin)
+include(lxc-data)
+include(lxc-lib)
+include(openssl-dev)
+include(pkg-config-bin)
+lxc-dev

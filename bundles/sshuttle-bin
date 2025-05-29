@@ -1,0 +1,9 @@
+# [TITLE]: sshuttle-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+include(sshuttle-license)
+sshuttle-bin

@@ -1,0 +1,13 @@
+# [TITLE]: minimodem-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(fftw-lib)
+include(libc6)
+include(libsndfile-lib)
+include(minimodem-license)
+include(pulseaudio-lib)
+minimodem-bin

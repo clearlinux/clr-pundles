@@ -1,0 +1,14 @@
+# [TITLE]: multipath-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(multipath-tools-bin)
+include(multipath-tools-config)
+include(multipath-tools-lib)
+include(multipath-tools-license)
+include(multipath-tools-man)
+include(multipath-tools-services)
+multipath-tools

@@ -1,0 +1,11 @@
+# [TITLE]: ksmtp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksmtp-data)
+include(ksmtp-lib)
+include(ksmtp-license)
+include(ksmtp-locales)
+ksmtp

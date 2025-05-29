@@ -1,0 +1,19 @@
+# [TITLE]: direwolf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(avahi-lib)
+include(direwolf-config)
+include(direwolf-data)
+include(direwolf-license)
+include(filesystem)
+include(gpsd-lib)
+include(hamlib-lib)
+include(libc6)
+include(perl-bin)
+include(python3-core)
+include(systemd-lib)
+direwolf-bin

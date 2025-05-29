@@ -1,0 +1,9 @@
+# [TITLE]: ding-libs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ding-libs-lib)
+include(ding-libs-license)
+ding-libs

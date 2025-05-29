@@ -1,0 +1,9 @@
+# [TITLE]: libisofs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libisofs-lib)
+include(libisofs-license)
+libisofs

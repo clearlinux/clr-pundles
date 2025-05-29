@@ -1,0 +1,16 @@
+# [TITLE]: knewstuff-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(ki18n-lib)
+include(knewstuff-data)
+include(knewstuff-lib)
+include(knewstuff-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+knewstuff-bin

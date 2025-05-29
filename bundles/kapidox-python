@@ -1,0 +1,8 @@
+# [TITLE]: kapidox-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kapidox-python3)
+kapidox-python

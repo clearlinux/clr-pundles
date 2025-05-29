@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-fftw-dev
+include(fftw-dev)

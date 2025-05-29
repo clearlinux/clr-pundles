@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-tpm2-abrmd-dev
+include(tpm2-abrmd-dev)
 include(libglib)

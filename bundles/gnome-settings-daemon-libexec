@@ -1,0 +1,34 @@
+# [TITLE]: gnome-settings-daemon-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager-lib)
+include(NetworkManager-lib)
+include(alsa-lib-lib)
+include(colord-lib)
+include(cups-lib)
+include(fontconfig-lib)
+include(gcr-lib)
+include(geoclue-lib)
+include(geocode-glib-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gnome-settings-daemon-config)
+include(gnome-settings-daemon-lib)
+include(gnome-settings-daemon-license)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libgcc1)
+include(libgudev-lib)
+include(libgweather-lib)
+include(libnotify-lib)
+include(p11-kit-lib)
+include(polkit-lib)
+include(pulseaudio-lib)
+include(systemd-extras-libsystemd)
+include(upower-lib)
+gnome-settings-daemon-libexec

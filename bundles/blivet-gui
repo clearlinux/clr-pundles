@@ -15,10 +15,10 @@ include(gmp-lib)
 include(pypi-six)
 include(pypi-blivet)
 include(parted)
-pyparted
+include(pyparted)
 include(pypi-pid)
 include(pypi-ped)
-libblockdev
+include(libblockdev)
 also-add(storage-utils)
 include(libstdcpp)
 include(python3-basic)

@@ -1,0 +1,10 @@
+# [TITLE]: corosync-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(corosync-license)
+include(libc6)
+include(libqb-lib)
+corosync-lib

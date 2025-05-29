@@ -1,0 +1,12 @@
+# [TITLE]: collectd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(collectd)
+include(collectd-bin)
+include(collectd-data)
+include(collectd-lib)
+include(pkg-config-bin)
+collectd-dev

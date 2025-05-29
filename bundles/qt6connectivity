@@ -1,0 +1,10 @@
+# [TITLE]: qt6connectivity
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6connectivity-lib)
+include(qt6connectivity-libexec)
+include(qt6connectivity-license)
+qt6connectivity

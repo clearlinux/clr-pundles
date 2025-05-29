@@ -1,0 +1,16 @@
+# [TITLE]: fwupd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+include(fwupd)
+include(fwupd-bin)
+include(fwupd-data)
+include(fwupd-lib)
+include(glib-dev)
+include(json-glib-dev)
+include(libjcat-dev)
+include(pkg-config-bin)
+fwupd-dev

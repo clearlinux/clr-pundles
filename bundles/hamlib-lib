@@ -1,0 +1,12 @@
+# [TITLE]: hamlib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hamlib-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+hamlib-lib

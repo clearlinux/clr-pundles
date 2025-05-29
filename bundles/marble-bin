@@ -1,0 +1,22 @@
+# [TITLE]: marble-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(kparts-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(marble-data)
+include(marble-lib)
+include(marble-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+marble-bin

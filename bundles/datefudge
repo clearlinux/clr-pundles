@@ -1,0 +1,11 @@
+# [TITLE]: datefudge
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(datefudge-bin)
+include(datefudge-lib)
+include(datefudge-license)
+include(datefudge-man)
+datefudge

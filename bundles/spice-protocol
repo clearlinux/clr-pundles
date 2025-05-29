@@ -1,0 +1,8 @@
+# [TITLE]: spice-protocol
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(spice-protocol-license)
+spice-protocol

@@ -1,0 +1,14 @@
+# [TITLE]: libcanberra-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk+-dev)
+include(gtk3-dev)
+include(libcanberra)
+include(libcanberra-bin)
+include(libcanberra-data)
+include(libcanberra-dev)
+include(libcanberra-lib)
+libcanberra-dev

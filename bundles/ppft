@@ -1,0 +1,11 @@
+# [TITLE]: ppft
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ppft-bin)
+include(ppft-license)
+include(ppft-python)
+include(ppft-python3)
+ppft

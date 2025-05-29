@@ -1,0 +1,12 @@
+# [TITLE]: rdma-core-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libnl-lib)
+include(rdma-core-data)
+include(rdma-core-libexec)
+include(rdma-core-license)
+rdma-core-lib

@@ -1,0 +1,11 @@
+# [TITLE]: klines
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(klines-bin)
+include(klines-data)
+include(klines-license)
+include(klines-locales)
+klines

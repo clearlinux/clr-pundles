@@ -1,0 +1,12 @@
+# [TITLE]: libopenzwave-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libopenzwave)
+include(libopenzwave-bin)
+include(libopenzwave-data)
+include(libopenzwave-lib)
+include(pkg-config-bin)
+libopenzwave-dev

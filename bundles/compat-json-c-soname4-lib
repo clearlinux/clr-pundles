@@ -1,0 +1,9 @@
+# [TITLE]: compat-json-c-soname4-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-json-c-soname4-license)
+include(libc6)
+compat-json-c-soname4-lib

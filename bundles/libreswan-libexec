@@ -1,0 +1,20 @@
+# [TITLE]: libreswan-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(curl-lib)
+include(filesystem)
+include(libc6)
+include(libcap-ng-lib)
+include(libevent-lib)
+include(libreswan-config)
+include(libreswan-license)
+include(libxcrypt-lib)
+include(nspr)
+include(nss-lib)
+include(python3-core)
+include(systemd-extras-libsystemd)
+libreswan-libexec

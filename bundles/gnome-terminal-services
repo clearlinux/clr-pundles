@@ -1,0 +1,8 @@
+# [TITLE]: gnome-terminal-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+gnome-terminal-services

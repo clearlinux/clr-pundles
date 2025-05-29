@@ -1,0 +1,14 @@
+# [TITLE]: ragel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colm-dev)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ragel-data)
+include(ragel-lib)
+include(ragel-license)
+ragel-bin

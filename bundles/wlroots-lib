@@ -1,0 +1,23 @@
+# [TITLE]: wlroots-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libc6)
+include(libdisplay-info-lib)
+include(libdrm-lib)
+include(libglvnd-lib)
+include(libinput-lib)
+include(libliftoff-lib)
+include(libxkbcommon-lib)
+include(mesa-lib)
+include(pixman-lib)
+include(seatd-lib)
+include(systemd-lib)
+include(wayland-lib)
+include(wlroots-license)
+wlroots-lib

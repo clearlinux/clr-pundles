@@ -1,0 +1,12 @@
+# [TITLE]: input-remapper-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(input-remapper-config)
+include(input-remapper-data)
+include(input-remapper-license)
+include(input-remapper-services)
+input-remapper-bin

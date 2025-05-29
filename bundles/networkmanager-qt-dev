@@ -1,0 +1,10 @@
+# [TITLE]: networkmanager-qt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(networkmanager-qt)
+include(networkmanager-qt-data)
+include(networkmanager-qt-lib)
+networkmanager-qt-dev

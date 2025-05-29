@@ -1,0 +1,13 @@
+# [TITLE]: metacity
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(metacity-bin)
+include(metacity-data)
+include(metacity-lib)
+include(metacity-license)
+include(metacity-locales)
+include(metacity-man)
+metacity

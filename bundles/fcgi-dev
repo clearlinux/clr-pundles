@@ -1,0 +1,10 @@
+# [TITLE]: fcgi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fcgi)
+include(fcgi-bin)
+include(fcgi-lib)
+fcgi-dev

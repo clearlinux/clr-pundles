@@ -1,0 +1,11 @@
+# [TITLE]: kunitconversion
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kunitconversion-data)
+include(kunitconversion-lib)
+include(kunitconversion-license)
+include(kunitconversion-locales)
+kunitconversion

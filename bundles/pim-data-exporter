@@ -1,0 +1,12 @@
+# [TITLE]: pim-data-exporter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pim-data-exporter-bin)
+include(pim-data-exporter-data)
+include(pim-data-exporter-lib)
+include(pim-data-exporter-license)
+include(pim-data-exporter-locales)
+pim-data-exporter

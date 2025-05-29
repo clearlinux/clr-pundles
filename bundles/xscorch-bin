@@ -1,0 +1,13 @@
+# [TITLE]: xscorch-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk+-lib)
+include(libc6)
+include(libmikmod-lib)
+include(xscorch-data)
+include(xscorch-license)
+xscorch-bin

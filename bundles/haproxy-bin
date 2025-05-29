@@ -1,0 +1,15 @@
+# [TITLE]: haproxy-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(haproxy-license)
+include(haproxy-services)
+include(libc6)
+include(libxcrypt-lib)
+include(openssl-lib)
+include(pcre-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+haproxy-bin

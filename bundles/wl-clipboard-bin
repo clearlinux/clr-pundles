@@ -1,0 +1,11 @@
+# [TITLE]: wl-clipboard-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(wayland-lib)
+include(wl-clipboard-data)
+include(wl-clipboard-license)
+wl-clipboard-bin

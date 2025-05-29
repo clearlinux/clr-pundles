@@ -1,0 +1,9 @@
+# [TITLE]: efivar-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efivar-license)
+include(libc6)
+efivar-lib

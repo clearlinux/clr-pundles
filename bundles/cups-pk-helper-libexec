@@ -1,0 +1,12 @@
+# [TITLE]: cups-pk-helper-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-lib)
+include(cups-pk-helper-license)
+include(glib-lib)
+include(libc6)
+include(polkit-lib)
+cups-pk-helper-libexec

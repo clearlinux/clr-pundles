@@ -1,0 +1,13 @@
+# [TITLE]: volume_key-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(nspr)
+include(nss-lib)
+include(volume_key-lib)
+include(volume_key-license)
+volume_key-bin

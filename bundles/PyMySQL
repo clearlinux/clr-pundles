@@ -1,0 +1,10 @@
+# [TITLE]: PyMySQL
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyMySQL-license)
+include(PyMySQL-python)
+include(PyMySQL-python3)
+PyMySQL

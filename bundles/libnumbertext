@@ -1,0 +1,11 @@
+# [TITLE]: libnumbertext
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnumbertext-bin)
+include(libnumbertext-data)
+include(libnumbertext-lib)
+include(libnumbertext-license)
+libnumbertext

@@ -1,0 +1,17 @@
+# [TITLE]: quassel-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtmultimedia-lib)
+include(qtwebengine-lib)
+include(quassel-data)
+include(quassel-license)
+include(zlib-lib)
+quassel-lib

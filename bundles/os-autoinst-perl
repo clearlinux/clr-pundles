@@ -1,0 +1,12 @@
+# [TITLE]: os-autoinst-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(opencv-lib)
+include(os-autoinst)
+os-autoinst-perl

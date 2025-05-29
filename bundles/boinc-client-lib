@@ -1,0 +1,12 @@
+# [TITLE]: boinc-client-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boinc-client-data)
+include(boinc-client-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+boinc-client-lib

@@ -1,0 +1,8 @@
+# [TITLE]: ipp-crypto-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipp-crypto-dev)
+ipp-crypto-dev32

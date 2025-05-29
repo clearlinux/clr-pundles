@@ -1,0 +1,20 @@
+# [TITLE]: xastir-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(libX11-lib)
+include(libXpm-lib)
+include(libXt-lib)
+include(libc6)
+include(libgcc1)
+include(libgeotiff-lib)
+include(motif-lib)
+include(pcre2-lib)
+include(shapelib-lib)
+include(tiff-lib)
+include(xastir-data)
+include(xastir-license)
+xastir-bin

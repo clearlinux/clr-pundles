@@ -1,0 +1,9 @@
+# [TITLE]: cairomm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairomm-lib)
+include(cairomm-license)
+cairomm

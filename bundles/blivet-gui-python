@@ -1,0 +1,8 @@
+# [TITLE]: blivet-gui-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(blivet-gui-python3)
+blivet-gui-python

@@ -1,0 +1,10 @@
+# [TITLE]: bsdiff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bsdiff-bin)
+include(bsdiff-lib)
+include(bsdiff-license)
+bsdiff

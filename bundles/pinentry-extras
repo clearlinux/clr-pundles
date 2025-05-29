@@ -1,0 +1,17 @@
+# [TITLE]: pinentry-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fltk-lib)
+include(gcr-lib)
+include(glib-lib)
+include(libassuan-lib)
+include(libc6)
+include(libgcc1)
+include(libgpg-error-lib)
+include(libsecret-lib)
+include(libstdc++)
+include(ncurses-lib)
+pinentry-extras

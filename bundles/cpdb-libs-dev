@@ -1,0 +1,13 @@
+# [TITLE]: cpdb-libs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cpdb-libs)
+include(cpdb-libs-bin)
+include(cpdb-libs-dev)
+include(cpdb-libs-lib)
+include(glib-dev)
+include(pkg-config-bin)
+cpdb-libs-dev

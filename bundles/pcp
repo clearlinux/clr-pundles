@@ -1,0 +1,18 @@
+# [TITLE]: pcp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcp-bin)
+include(pcp-config)
+include(pcp-data)
+include(pcp-lib)
+include(pcp-libexec)
+include(pcp-license)
+include(pcp-man)
+include(pcp-perl)
+include(pcp-python)
+include(pcp-python3)
+include(pcp-services)
+pcp

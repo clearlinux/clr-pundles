@@ -1,0 +1,14 @@
+# [TITLE]: udisks2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pkg-config-bin)
+include(udisks2)
+include(udisks2-bin)
+include(udisks2-data)
+include(udisks2-dev)
+include(udisks2-lib)
+udisks2-dev

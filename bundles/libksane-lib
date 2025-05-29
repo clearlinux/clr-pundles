@@ -1,0 +1,17 @@
+# [TITLE]: libksane-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ki18n-lib)
+include(ksanecore-lib)
+include(ktextwidgets-lib)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libksane-data)
+include(libksane-license)
+include(libstdc++)
+include(qt6base-lib)
+libksane-lib

@@ -1,0 +1,8 @@
+# [TITLE]: qtscript-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtscript-dev)
+qtscript-examples

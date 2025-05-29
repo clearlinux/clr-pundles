@@ -1,0 +1,8 @@
+# [TITLE]: valgrind-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(valgrind-man)
+valgrind-doc

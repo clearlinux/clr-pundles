@@ -1,0 +1,12 @@
+# [TITLE]: logrotate-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(libc6)
+include(logrotate-license)
+include(logrotate-services)
+include(popt-lib)
+logrotate-bin

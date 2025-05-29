@@ -33,10 +33,10 @@ also-add(FreeRDP)
 #
 # Non-pundle apps
 #
-geany-plugins
-gmic
-libssh
-thermal_monitor
+include(geany-plugins)
+include(gmic)
+include(libssh)
+include(thermal_monitor)
 include(openblas)
 include(vte-lib)
 include(opencv-python)

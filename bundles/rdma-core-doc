@@ -1,0 +1,8 @@
+# [TITLE]: rdma-core-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rdma-core-man)
+rdma-core-doc

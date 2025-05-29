@@ -1,0 +1,11 @@
+# [TITLE]: AVB-AudioModules-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(AVB-AudioModules)
+include(AVB-AudioModules-data)
+include(AVB-AudioModules-lib)
+include(pkg-config-bin)
+AVB-AudioModules-dev

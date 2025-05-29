@@ -1,0 +1,10 @@
+# [TITLE]: bluez-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-qt-data)
+include(bluez-qt-lib)
+include(bluez-qt-license)
+bluez-qt

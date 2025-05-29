@@ -1,0 +1,12 @@
+# [TITLE]: waffle-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(systemd-lib)
+include(waffle-data)
+include(waffle-license)
+waffle-lib

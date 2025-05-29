@@ -1,0 +1,13 @@
+# [TITLE]: nss-pam-ldapd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krb5-lib)
+include(libc6)
+include(libgcc1)
+include(nss-pam-ldapd-data)
+include(nss-pam-ldapd-license)
+include(openldap-lib)
+nss-pam-ldapd-bin

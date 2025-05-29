@@ -1,0 +1,8 @@
+# [TITLE]: GConf-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(GConf-man)
+GConf-doc

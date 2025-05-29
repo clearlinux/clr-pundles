@@ -1,0 +1,17 @@
+# [TITLE]: libgdata-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gcr-soname1-lib)
+include(compat-libsoup-soname-24-lib)
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gnome-online-accounts-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgdata-data)
+include(libgdata-license)
+libgdata-lib

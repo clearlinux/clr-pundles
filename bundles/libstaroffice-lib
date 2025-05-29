@@ -1,0 +1,13 @@
+# [TITLE]: libstaroffice-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(librevenge-lib)
+include(libstaroffice-license)
+include(libstdc++)
+include(zlib-lib)
+libstaroffice-lib

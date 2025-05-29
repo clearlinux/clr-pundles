@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libuser-dev
+include(libuser-dev)
 include(libglib)
 include(popt-lib)

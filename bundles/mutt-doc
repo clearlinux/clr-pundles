@@ -1,0 +1,9 @@
+# [TITLE]: mutt-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mutt-info)
+include(mutt-man)
+mutt-doc

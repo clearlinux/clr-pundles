@@ -1,0 +1,10 @@
+# [TITLE]: kwayland-server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwayland-server-data)
+include(kwayland-server-lib)
+include(kwayland-server-license)
+kwayland-server

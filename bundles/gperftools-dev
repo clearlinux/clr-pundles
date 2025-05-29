@@ -1,0 +1,11 @@
+# [TITLE]: gperftools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gperftools)
+include(gperftools-bin)
+include(gperftools-lib)
+include(pkg-config-bin)
+gperftools-dev

@@ -1,0 +1,11 @@
+# [TITLE]: librtlsdr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librtlsdr)
+include(librtlsdr-bin)
+include(librtlsdr-lib)
+include(pkg-config-bin)
+librtlsdr-dev

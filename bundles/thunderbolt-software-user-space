@@ -1,0 +1,15 @@
+# [TITLE]: thunderbolt-software-user-space
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(thunderbolt-software-user-space-bin)
+include(thunderbolt-software-user-space-config)
+include(thunderbolt-software-user-space-data)
+include(thunderbolt-software-user-space-license)
+thunderbolt-software-user-space

@@ -1,0 +1,12 @@
+# [TITLE]: colord-kde
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-kde-bin)
+include(colord-kde-data)
+include(colord-kde-lib)
+include(colord-kde-license)
+include(colord-kde-locales)
+colord-kde

@@ -1,0 +1,13 @@
+# [TITLE]: hplip-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-lib)
+include(hplip-lib)
+include(libc6)
+include(python3-core)
+include(python3-lib)
+include(sane-backends-lib)
+hplip-python3

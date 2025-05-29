@@ -1,0 +1,12 @@
+# [TITLE]: metrics-discovery-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libstdc++)
+include(metrics-discovery-license)
+metrics-discovery-lib

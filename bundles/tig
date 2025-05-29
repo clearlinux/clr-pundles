@@ -1,0 +1,10 @@
+# [TITLE]: tig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tig-bin)
+include(tig-license)
+include(tig-man)
+tig

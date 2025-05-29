@@ -1,0 +1,8 @@
+# [TITLE]: kmag-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmag-man)
+kmag-doc

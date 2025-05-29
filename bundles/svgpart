@@ -1,0 +1,11 @@
+# [TITLE]: svgpart
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(svgpart-data)
+include(svgpart-lib)
+include(svgpart-license)
+include(svgpart-locales)
+svgpart

@@ -1,0 +1,23 @@
+# [TITLE]: kshisen-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kshisen-data)
+include(kshisen-license)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkdegames-lib)
+include(libkmahjongg-lib)
+include(libstdc++)
+include(qt6base-lib)
+kshisen-bin

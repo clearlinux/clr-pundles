@@ -1,0 +1,19 @@
+# [TITLE]: gnome-software-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-dev)
+include(glib-dev)
+include(gnome-software)
+include(gnome-software-bin)
+include(gnome-software-data)
+include(gnome-software-lib)
+include(gtk4-dev)
+include(json-glib-dev)
+include(libsoup-dev)
+include(pkg-config-bin)
+include(polkit-dev)
+include(xmlb-dev)
+gnome-software-dev

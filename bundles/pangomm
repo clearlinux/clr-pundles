@@ -1,0 +1,9 @@
+# [TITLE]: pangomm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pangomm-lib)
+include(pangomm-license)
+pangomm

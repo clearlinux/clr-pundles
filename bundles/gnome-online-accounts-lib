@@ -1,0 +1,21 @@
+# [TITLE]: gnome-online-accounts-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcr-lib)
+include(glib-lib)
+include(gnome-online-accounts-data)
+include(gnome-online-accounts-libexec)
+include(gnome-online-accounts-license)
+include(gtk4-lib)
+include(json-glib-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(libsecret-lib)
+include(libsoup-lib)
+include(libxml2-lib)
+include(rest-lib)
+gnome-online-accounts-lib

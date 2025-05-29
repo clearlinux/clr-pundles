@@ -1,0 +1,13 @@
+# [TITLE]: libvisio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+include(libvisio-lib)
+include(libvisio-license)
+libvisio-bin

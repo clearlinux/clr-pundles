@@ -1,0 +1,11 @@
+# [TITLE]: mbedtls-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(mbedtls-lib)
+include(mbedtls-license)
+mbedtls-bin

@@ -1,0 +1,8 @@
+# [TITLE]: llvm17-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(llvm17-license)
+llvm17-bin

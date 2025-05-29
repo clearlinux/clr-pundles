@@ -1,0 +1,17 @@
+# [TITLE]: mutter-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(mutter-config)
+include(mutter-data)
+include(mutter-lib)
+include(mutter-libexec)
+include(mutter-license)
+mutter-bin

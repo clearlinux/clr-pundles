@@ -1,0 +1,10 @@
+# [TITLE]: librtlsdr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librtlsdr-bin)
+include(librtlsdr-lib)
+include(librtlsdr-license)
+librtlsdr

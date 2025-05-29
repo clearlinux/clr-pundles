@@ -1,0 +1,12 @@
+# [TITLE]: system-config-printer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(system-config-printer-config)
+include(system-config-printer-data)
+include(system-config-printer-license)
+include(system-config-printer-services)
+system-config-printer-bin

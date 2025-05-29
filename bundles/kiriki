@@ -1,0 +1,11 @@
+# [TITLE]: kiriki
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kiriki-bin)
+include(kiriki-data)
+include(kiriki-license)
+include(kiriki-locales)
+kiriki

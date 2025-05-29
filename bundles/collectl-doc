@@ -1,0 +1,8 @@
+# [TITLE]: collectl-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(collectl-man)
+collectl-doc

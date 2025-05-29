@@ -1,0 +1,10 @@
+# [TITLE]: usbutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(usbutils-bin)
+include(usbutils-license)
+include(usbutils-man)
+usbutils

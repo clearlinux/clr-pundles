@@ -1,0 +1,9 @@
+# [TITLE]: gnome-characters-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-characters-data)
+include(gnome-characters-license)
+gnome-characters-bin

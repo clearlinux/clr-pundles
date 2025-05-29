@@ -1,0 +1,10 @@
+# [TITLE]: kquickcharts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kquickcharts-data)
+include(kquickcharts-lib)
+include(kquickcharts-license)
+kquickcharts

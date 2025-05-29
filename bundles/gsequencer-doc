@@ -1,0 +1,8 @@
+# [TITLE]: gsequencer-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsequencer-man)
+gsequencer-doc

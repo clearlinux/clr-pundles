@@ -1,0 +1,8 @@
+# [TITLE]: compat-python3-rolling-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+compat-python3-rolling-lib

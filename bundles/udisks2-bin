@@ -1,0 +1,16 @@
+# [TITLE]: udisks2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(polkit-lib)
+include(udisks2-config)
+include(udisks2-data)
+include(udisks2-lib)
+include(udisks2-libexec)
+include(udisks2-license)
+include(udisks2-services)
+udisks2-bin

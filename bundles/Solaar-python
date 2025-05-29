@@ -1,0 +1,8 @@
+# [TITLE]: Solaar-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Solaar-python3)
+Solaar-python

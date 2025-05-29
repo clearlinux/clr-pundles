@@ -1,0 +1,8 @@
+# [TITLE]: darktable-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(darktable-man)
+darktable-doc

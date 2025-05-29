@@ -1,0 +1,16 @@
+# [TITLE]: telemetrics-client-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(elfutils-lib)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+include(telemetrics-client-config)
+include(telemetrics-client-data)
+include(telemetrics-client-lib)
+include(telemetrics-client-license)
+telemetrics-client-bin

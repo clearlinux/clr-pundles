@@ -1,0 +1,8 @@
+# [TITLE]: kdesdk-kio-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+kdesdk-kio-data

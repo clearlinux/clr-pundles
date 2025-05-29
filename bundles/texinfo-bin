@@ -1,0 +1,15 @@
+# [TITLE]: texinfo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(ncurses-lib)
+include(perl-bin)
+include(texinfo-data)
+include(texinfo-libexec)
+include(texinfo-license)
+include(texinfo-services)
+texinfo-bin

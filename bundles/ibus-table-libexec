@@ -1,0 +1,9 @@
+# [TITLE]: ibus-table-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(ibus-table-license)
+ibus-table-libexec

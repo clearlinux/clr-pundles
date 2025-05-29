@@ -1,0 +1,13 @@
+# [TITLE]: PyQt5-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyQt5-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtdeclarative-lib)
+PyQt5-lib

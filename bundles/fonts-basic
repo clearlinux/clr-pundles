@@ -13,18 +13,18 @@ include(lib-opengl)
 include(fontconfig)
 include(freetype)
 include(harfbuzz)
-mkfontdir
-mkfontscale
+include(mkfontdir)
+include(mkfontscale)
 
 # fonts
-cantarell-fonts
-clear-font
-liberation-fonts
-noto-cjk
-noto-emoji
-noto-fonts
-powerline-fonts
-roboto
-source-code-pro
-terminus-font
-xorg-fonts
+include(cantarell-fonts)
+include(clear-font)
+include(liberation-fonts)
+include(noto-cjk)
+include(noto-emoji)
+include(noto-fonts)
+include(powerline-fonts)
+include(roboto)
+include(source-code-pro)
+include(terminus-font)
+include(xorg-fonts)

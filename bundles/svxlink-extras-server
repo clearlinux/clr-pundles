@@ -1,0 +1,20 @@
+# [TITLE]: svxlink-extras-server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsigc++-soname20-lib)
+include(curl-lib)
+include(filesystem)
+include(gsm-lib)
+include(libc6)
+include(libgcc1)
+include(libgcrypt-lib)
+include(librtlsdr-lib)
+include(libstdc++)
+include(popt-lib)
+include(svxlink-bin)
+include(svxlink-lib)
+include(tcl-lib)
+svxlink-extras-server

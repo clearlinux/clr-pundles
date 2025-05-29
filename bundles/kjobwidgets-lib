@@ -1,0 +1,15 @@
+# [TITLE]: kjobwidgets-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kjobwidgets-data)
+include(kjobwidgets-license)
+include(knotifications-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kjobwidgets-lib

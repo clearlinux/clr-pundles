@@ -1,0 +1,9 @@
+# [TITLE]: numpy-stl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(numpy-stl-license)
+include(python3-core)
+numpy-stl-bin

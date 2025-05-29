@@ -1,0 +1,9 @@
+# [TITLE]: passt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(passt-license)
+passt-bin

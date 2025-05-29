@@ -1,0 +1,12 @@
+# [TITLE]: bashdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bashdb-bin)
+include(bashdb-data)
+include(bashdb-info)
+include(bashdb-license)
+include(bashdb-man)
+bashdb

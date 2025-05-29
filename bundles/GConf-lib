@@ -1,0 +1,15 @@
+# [TITLE]: GConf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(GConf-data)
+include(GConf-libexec)
+include(GConf-license)
+include(compat-libxml2-soname2-lib)
+include(dbus-glib-lib)
+include(dbus-lib)
+include(glib-lib)
+include(libc6)
+GConf-lib

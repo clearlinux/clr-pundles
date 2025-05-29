@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libdazzle-dev
+include(libdazzle-dev)
 include(libX11client)
 include(libglib)
 include(lib-opengl)

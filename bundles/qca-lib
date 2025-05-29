@@ -1,0 +1,18 @@
+# [TITLE]: qca-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Botan-lib)
+include(cyrus-sasl-lib)
+include(libc6)
+include(libgcc1)
+include(libgcrypt-lib)
+include(libstdc++)
+include(nss-lib)
+include(openssl-lib)
+include(qca-license)
+include(qt5compat-lib)
+include(qt6base-lib)
+qca-lib

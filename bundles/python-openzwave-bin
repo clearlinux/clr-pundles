@@ -1,0 +1,9 @@
+# [TITLE]: python-openzwave-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-openzwave-license)
+include(python3-core)
+python-openzwave-bin

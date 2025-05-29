@@ -1,0 +1,9 @@
+# [TITLE]: haveged-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(haveged-license)
+include(libc6)
+haveged-lib

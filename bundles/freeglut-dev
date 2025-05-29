@@ -1,0 +1,10 @@
+# [TITLE]: freeglut-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freeglut)
+include(freeglut-lib)
+include(pkg-config-bin)
+freeglut-dev

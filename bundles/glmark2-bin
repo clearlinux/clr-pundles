@@ -1,0 +1,20 @@
+# [TITLE]: glmark2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glmark2-data)
+include(glmark2-license)
+include(libX11-lib)
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(mesa-lib)
+include(systemd-lib)
+include(wayland-lib)
+include(zlib-lib)
+glmark2-bin

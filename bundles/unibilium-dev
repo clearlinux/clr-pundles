@@ -1,0 +1,9 @@
+# [TITLE]: unibilium-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(unibilium)
+include(unibilium-lib)
+unibilium-dev

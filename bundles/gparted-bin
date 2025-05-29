@@ -1,0 +1,11 @@
+# [TITLE]: gparted-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gparted-data)
+include(gparted-libexec)
+include(gparted-license)
+gparted-bin

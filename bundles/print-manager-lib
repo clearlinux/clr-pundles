@@ -1,0 +1,22 @@
+# [TITLE]: print-manager-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-lib)
+include(kcmutils-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(print-manager-data)
+include(print-manager-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+print-manager-lib

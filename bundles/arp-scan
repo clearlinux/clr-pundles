@@ -1,0 +1,11 @@
+# [TITLE]: arp-scan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(arp-scan-bin)
+include(arp-scan-data)
+include(arp-scan-license)
+include(arp-scan-man)
+arp-scan

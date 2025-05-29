@@ -1,0 +1,10 @@
+# [TITLE]: mkfontdir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mkfontdir-bin)
+include(mkfontdir-license)
+include(mkfontdir-man)
+mkfontdir

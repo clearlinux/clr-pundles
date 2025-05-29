@@ -1,0 +1,11 @@
+# [TITLE]: libgnome-keyring
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgnome-keyring-data)
+include(libgnome-keyring-lib)
+include(libgnome-keyring-license)
+include(libgnome-keyring-locales)
+libgnome-keyring

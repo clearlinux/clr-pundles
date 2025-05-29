@@ -1,0 +1,11 @@
+# [TITLE]: minuet-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(minuet)
+include(minuet-bin)
+include(minuet-data)
+include(minuet-lib)
+minuet-dev

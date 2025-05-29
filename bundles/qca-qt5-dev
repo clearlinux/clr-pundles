@@ -1,0 +1,12 @@
+# [TITLE]: qca-qt5-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qca-qt5)
+include(qca-qt5-bin)
+include(qca-qt5-lib)
+include(qtbase-dev)
+qca-qt5-dev

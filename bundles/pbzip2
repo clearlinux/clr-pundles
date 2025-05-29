@@ -1,0 +1,10 @@
+# [TITLE]: pbzip2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pbzip2-bin)
+include(pbzip2-license)
+include(pbzip2-man)
+pbzip2

@@ -1,0 +1,8 @@
+# [TITLE]: net-snmp-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+net-snmp-services

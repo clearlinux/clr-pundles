@@ -1,0 +1,10 @@
+# [TITLE]: recode-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(recode)
+include(recode-bin)
+include(recode-lib)
+recode-dev

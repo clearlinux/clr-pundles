@@ -1,0 +1,9 @@
+# [TITLE]: intel-gmmlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intel-gmmlib-lib)
+include(intel-gmmlib-license)
+intel-gmmlib

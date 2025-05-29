@@ -1,0 +1,20 @@
+# [TITLE]: ksvg-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kguiaddons-lib)
+include(kirigami-lib)
+include(ksvg-data)
+include(ksvg-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6svg-lib)
+ksvg-lib

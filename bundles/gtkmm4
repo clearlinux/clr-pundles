@@ -1,0 +1,9 @@
+# [TITLE]: gtkmm4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtkmm4-lib)
+include(gtkmm4-license)
+gtkmm4

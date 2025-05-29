@@ -1,0 +1,10 @@
+# [TITLE]: kdecoration
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdecoration-lib)
+include(kdecoration-license)
+include(kdecoration-locales)
+kdecoration

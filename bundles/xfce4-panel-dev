@@ -1,0 +1,14 @@
+# [TITLE]: xfce4-panel-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk3-dev)
+include(libxfce4util-dev)
+include(xfce4-panel)
+include(xfce4-panel-bin)
+include(xfce4-panel-data)
+include(xfce4-panel-lib)
+xfce4-panel-dev

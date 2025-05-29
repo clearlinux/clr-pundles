@@ -1,0 +1,13 @@
+# [TITLE]: mlt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mlt)
+include(mlt-bin)
+include(mlt-data)
+include(mlt-dev)
+include(mlt-lib)
+include(pkg-config-bin)
+mlt-dev

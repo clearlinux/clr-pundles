@@ -1,0 +1,12 @@
+# [TITLE]: pcre-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(pcre-extras-unicode)
+include(pcre-lib)
+include(pcre-license)
+pcre-bin

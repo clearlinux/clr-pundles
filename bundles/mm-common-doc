@@ -1,0 +1,8 @@
+# [TITLE]: mm-common-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mm-common-man)
+mm-common-doc

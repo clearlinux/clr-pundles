@@ -1,0 +1,12 @@
+# [TITLE]: unixODBC-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(unixODBC)
+include(unixODBC-bin)
+include(unixODBC-dev)
+include(unixODBC-lib)
+unixODBC-dev

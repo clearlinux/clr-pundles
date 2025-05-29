@@ -1,0 +1,11 @@
+# [TITLE]: CalcMySky
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CalcMySky-bin)
+include(CalcMySky-data)
+include(CalcMySky-lib)
+include(CalcMySky-license)
+CalcMySky

@@ -1,0 +1,9 @@
+# [TITLE]: hugo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hugo-license)
+include(libc6)
+hugo-bin

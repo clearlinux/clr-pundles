@@ -1,0 +1,12 @@
+# [TITLE]: osinfo-db-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(osinfo-db-data)
+include(osinfo-db-tools-bin)
+include(osinfo-db-tools-license)
+include(osinfo-db-tools-locales)
+include(osinfo-db-tools-man)
+osinfo-db-tools

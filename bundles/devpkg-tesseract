@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-tesseract-dev
+include(tesseract-dev)
 include(curl)
 include(libstdcpp)
 include(tesseract)

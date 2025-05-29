@@ -1,0 +1,9 @@
+# [TITLE]: nano-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nano-info)
+include(nano-man)
+nano-doc

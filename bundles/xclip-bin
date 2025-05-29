@@ -1,0 +1,12 @@
+# [TITLE]: xclip-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libX11-lib)
+include(libXmu-lib)
+include(libc6)
+include(xclip-license)
+xclip-bin

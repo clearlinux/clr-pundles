@@ -1,0 +1,12 @@
+# [TITLE]: net-snmp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(net-snmp)
+include(net-snmp-bin)
+include(net-snmp-data)
+include(net-snmp-lib)
+include(pkg-config-bin)
+net-snmp-dev

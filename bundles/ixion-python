@@ -1,0 +1,8 @@
+# [TITLE]: ixion-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ixion-python3)
+ixion-python

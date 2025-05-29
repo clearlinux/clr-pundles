@@ -1,0 +1,13 @@
+# [TITLE]: gtkspell3-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(enchant-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(gtkspell3-data)
+include(gtkspell3-license)
+include(libc6)
+gtkspell3-lib

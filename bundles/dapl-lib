@@ -1,0 +1,10 @@
+# [TITLE]: dapl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dapl-license)
+include(libc6)
+include(rdma-core-lib)
+dapl-lib

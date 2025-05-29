@@ -1,0 +1,19 @@
+# [TITLE]: QGIS-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QGIS-lib)
+include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(python3-lib)
+include(qca-lib)
+include(qscintilla-lib)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+include(qt6positioning-lib)
+include(qt6svg-lib)
+QGIS-data

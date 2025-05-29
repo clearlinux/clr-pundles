@@ -1,0 +1,11 @@
+# [TITLE]: imlib2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(imlib2-bin)
+include(imlib2-data)
+include(imlib2-lib)
+include(imlib2-license)
+imlib2

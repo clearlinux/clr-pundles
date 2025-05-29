@@ -1,0 +1,17 @@
+# [TITLE]: btrfs-progs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(btrfs-progs-config)
+include(btrfs-progs-license)
+include(e2fsprogs-lib)
+include(filesystem)
+include(libc6)
+include(lzo-lib)
+include(systemd-lib)
+include(util-linux-lib)
+include(zlib-lib)
+include(zstd-lib)
+btrfs-progs-bin

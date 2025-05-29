@@ -1,0 +1,13 @@
+# [TITLE]: kapidox-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-doxypypy-python3)
+include(pypi-doxyqml-python3)
+include(pypi-jinja2-python3)
+include(pypi-requests-python3)
+include(python3-core)
+kapidox-python3

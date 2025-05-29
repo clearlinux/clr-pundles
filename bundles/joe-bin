@@ -1,0 +1,11 @@
+# [TITLE]: joe-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(joe-data)
+include(joe-license)
+include(libc6)
+include(ncurses-lib)
+joe-bin

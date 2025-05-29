@@ -1,0 +1,14 @@
+# [TITLE]: libvisio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+include(libvisio-license)
+libvisio-lib

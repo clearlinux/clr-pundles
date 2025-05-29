@@ -1,0 +1,20 @@
+# [TITLE]: subversion-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-dev)
+include(apr-util-dev)
+include(cyrus-sasl-dev)
+include(file-dev)
+include(libsecret-dev)
+include(lz4-dev)
+include(pkg-config-bin)
+include(serf-dev)
+include(sqlite-autoconf-dev)
+include(subversion)
+include(subversion-bin)
+include(subversion-dev)
+include(subversion-lib)
+subversion-dev

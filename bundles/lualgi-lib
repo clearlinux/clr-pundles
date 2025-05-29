@@ -1,0 +1,13 @@
+# [TITLE]: lualgi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libffi-soname6-lib)
+include(glib-lib)
+include(gobject-introspection-lib)
+include(libc6)
+include(lualgi-data)
+include(lualgi-license)
+lualgi-lib

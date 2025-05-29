@@ -1,0 +1,11 @@
+# [TITLE]: qtmultimedia-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtmultimedia)
+include(qtmultimedia-dev)
+include(qtmultimedia-lib)
+qtmultimedia-dev

@@ -1,0 +1,9 @@
+# [TITLE]: atkmm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(atkmm-lib)
+include(atkmm-license)
+atkmm

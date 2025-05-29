@@ -1,0 +1,9 @@
+# [TITLE]: libvdpau
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvdpau-lib)
+include(libvdpau-license)
+libvdpau

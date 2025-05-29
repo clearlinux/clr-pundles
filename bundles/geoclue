@@ -1,0 +1,13 @@
+# [TITLE]: geoclue
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geoclue-data)
+include(geoclue-lib)
+include(geoclue-libexec)
+include(geoclue-license)
+include(geoclue-man)
+include(geoclue-services)
+geoclue

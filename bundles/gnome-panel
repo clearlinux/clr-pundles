@@ -1,0 +1,13 @@
+# [TITLE]: gnome-panel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-panel-bin)
+include(gnome-panel-data)
+include(gnome-panel-lib)
+include(gnome-panel-license)
+include(gnome-panel-locales)
+include(gnome-panel-man)
+gnome-panel

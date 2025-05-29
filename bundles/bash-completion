@@ -1,0 +1,9 @@
+# [TITLE]: bash-completion
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-completion-data)
+include(bash-completion-license)
+bash-completion

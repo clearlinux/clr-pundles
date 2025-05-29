@@ -1,0 +1,8 @@
+# [TITLE]: isomd5sum-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isomd5sum-python3)
+isomd5sum-python

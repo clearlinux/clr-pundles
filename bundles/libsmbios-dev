@@ -1,0 +1,12 @@
+# [TITLE]: libsmbios-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsmbios)
+include(libsmbios-bin)
+include(libsmbios-data)
+include(libsmbios-lib)
+include(pkg-config-bin)
+libsmbios-dev

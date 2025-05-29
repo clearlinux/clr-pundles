@@ -1,0 +1,8 @@
+# [TITLE]: linuxcnc-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linuxcnc-python3)
+linuxcnc-python

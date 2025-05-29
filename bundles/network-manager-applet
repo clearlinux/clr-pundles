@@ -1,0 +1,13 @@
+# [TITLE]: network-manager-applet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager)
+include(network-manager-applet-bin)
+include(network-manager-applet-data)
+include(network-manager-applet-license)
+include(network-manager-applet-locales)
+include(network-manager-applet-man)
+network-manager-applet

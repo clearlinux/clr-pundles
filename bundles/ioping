@@ -1,0 +1,10 @@
+# [TITLE]: ioping
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ioping-bin)
+include(ioping-license)
+include(ioping-man)
+ioping

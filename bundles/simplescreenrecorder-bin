@@ -1,0 +1,22 @@
+# [TITLE]: simplescreenrecorder-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(compat-ffmpeg-4.4-lib)
+include(filesystem)
+include(jack2-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pulseaudio-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtx11extras-lib)
+include(simplescreenrecorder-data)
+include(simplescreenrecorder-license)
+include(v4l-utils-lib)
+simplescreenrecorder-bin

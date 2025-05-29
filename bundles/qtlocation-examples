@@ -1,0 +1,8 @@
+# [TITLE]: qtlocation-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtlocation-dev)
+qtlocation-examples

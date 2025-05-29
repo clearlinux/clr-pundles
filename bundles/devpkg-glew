@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-glew-dev
+include(glew-dev)
 include(lib-opengl)

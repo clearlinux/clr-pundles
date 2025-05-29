@@ -1,0 +1,31 @@
+# [TITLE]: mlt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-lib)
+include(SDL2-lib)
+include(alsa-lib-lib)
+include(fftw-lib)
+include(fontconfig-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(jack2-lib)
+include(libX11-lib)
+include(libc6)
+include(libexif-lib)
+include(libgcc1)
+include(libsamplerate-lib)
+include(libstdc++)
+include(libvorbis-lib)
+include(libxml2-lib)
+include(mlt-data)
+include(mlt-license)
+include(not-ffmpeg-lib)
+include(pango-lib)
+include(pulseaudio-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtsvg-lib)
+mlt-lib

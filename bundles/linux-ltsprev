@@ -1,0 +1,10 @@
+# [TITLE]: linux-ltsprev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(init-rdahead-extras)
+include(linux-ltsprev-license)
+include(systemd-bin)
+linux-ltsprev

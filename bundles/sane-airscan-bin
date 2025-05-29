@@ -1,0 +1,13 @@
+# [TITLE]: sane-airscan-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(gnutls-lib)
+include(libc6)
+include(libxml2-lib)
+include(sane-airscan-data)
+include(sane-airscan-license)
+sane-airscan-bin

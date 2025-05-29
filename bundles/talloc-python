@@ -1,0 +1,8 @@
+# [TITLE]: talloc-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(talloc-python3)
+talloc-python

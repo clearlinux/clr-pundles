@@ -1,0 +1,16 @@
+# [TITLE]: qtdeclarative-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-dev)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative)
+include(qtdeclarative-bin)
+include(qtdeclarative-dev)
+include(qtdeclarative-lib)
+qtdeclarative-dev

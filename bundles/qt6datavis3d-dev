@@ -1,0 +1,11 @@
+# [TITLE]: qt6datavis3d-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6datavis3d)
+include(qt6datavis3d-lib)
+qt6datavis3d-dev

@@ -1,0 +1,9 @@
+# [TITLE]: lua-nginx-module-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(libc6)
+lua-nginx-module-lib

@@ -1,0 +1,11 @@
+# [TITLE]: corosync
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(corosync-bin)
+include(corosync-lib)
+include(corosync-license)
+include(corosync-man)
+corosync

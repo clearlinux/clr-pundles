@@ -1,0 +1,8 @@
+# [TITLE]: clr-wallpapers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-wallpapers-data)
+clr-wallpapers

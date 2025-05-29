@@ -1,0 +1,14 @@
+# [TITLE]: libmodulemd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmodulemd-bin)
+include(libmodulemd-data)
+include(libmodulemd-lib)
+include(libmodulemd-license)
+include(libmodulemd-man)
+include(libmodulemd-python)
+include(libmodulemd-python3)
+libmodulemd

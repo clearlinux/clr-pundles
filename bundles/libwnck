@@ -1,0 +1,12 @@
+# [TITLE]: libwnck
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwnck-bin)
+include(libwnck-data)
+include(libwnck-lib)
+include(libwnck-license)
+include(libwnck-locales)
+libwnck

@@ -1,0 +1,12 @@
+# [TITLE]: rasqal-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mpfr-lib)
+include(pcre-lib)
+include(raptor2-lib)
+include(rasqal-license)
+rasqal-lib

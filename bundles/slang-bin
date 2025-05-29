@@ -1,0 +1,13 @@
+# [TITLE]: slang-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(readline-lib)
+include(slang-data)
+include(slang-lib)
+include(slang-license)
+slang-bin

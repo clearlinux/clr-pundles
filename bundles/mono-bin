@@ -1,0 +1,15 @@
+# [TITLE]: mono-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(mono-data)
+include(mono-lib)
+include(mono-license)
+include(zlib-lib)
+mono-bin

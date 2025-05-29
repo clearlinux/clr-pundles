@@ -1,0 +1,10 @@
+# [TITLE]: pretend
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pretend-license)
+include(pretend-python)
+include(pretend-python3)
+pretend

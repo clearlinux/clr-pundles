@@ -1,0 +1,8 @@
+# [TITLE]: linuxcnc-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linuxcnc-man)
+linuxcnc-doc

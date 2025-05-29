@@ -8,4 +8,4 @@ include(sudo)
 include(libglib)
 
 include(e2fsprogs-extras)
-micro-config-drive-aliyun
+include(micro-config-drive-aliyun)

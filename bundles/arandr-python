@@ -1,0 +1,8 @@
+# [TITLE]: arandr-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(arandr-python3)
+arandr-python

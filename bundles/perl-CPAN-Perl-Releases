@@ -4,6 +4,5 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(perl-CPAN-Perl-Releases-license)
 include(perl-CPAN-Perl-Releases-perl)
 perl-CPAN-Perl-Releases

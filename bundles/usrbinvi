@@ -1,0 +1,9 @@
+# [TITLE]: usrbinvi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(usrbinvi-bin)
+include(usrbinvi-license)
+usrbinvi

@@ -1,0 +1,9 @@
+# [TITLE]: ell
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ell-lib)
+include(ell-license)
+ell

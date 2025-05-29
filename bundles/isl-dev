@@ -1,0 +1,10 @@
+# [TITLE]: isl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isl)
+include(isl-lib)
+include(pkg-config-bin)
+isl-dev

@@ -1,0 +1,9 @@
+# [TITLE]: qtlocation
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtlocation-lib)
+include(qtlocation-license)
+qtlocation

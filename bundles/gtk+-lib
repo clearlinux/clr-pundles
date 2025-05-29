@@ -1,0 +1,21 @@
+# [TITLE]: gtk+-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(cups-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-data)
+include(gtk+-license)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(pango-lib)
+gtk+-lib

@@ -1,0 +1,13 @@
+# [TITLE]: htslib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-dev)
+include(htslib)
+include(htslib-bin)
+include(htslib-lib)
+include(pkg-config-bin)
+include(zlib-dev)
+htslib-dev

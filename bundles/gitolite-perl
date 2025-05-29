@@ -1,0 +1,8 @@
+# [TITLE]: gitolite-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gitolite)
+gitolite-perl

@@ -1,0 +1,18 @@
+# [TITLE]: createrepo_c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(createrepo_c)
+include(createrepo_c-bin)
+include(createrepo_c-data)
+include(createrepo_c-lib)
+include(curl-dev)
+include(glib-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+include(rpm-dev)
+include(sqlite-autoconf-dev)
+include(zlib-dev)
+createrepo_c-dev

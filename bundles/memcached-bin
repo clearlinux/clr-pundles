@@ -1,0 +1,11 @@
+# [TITLE]: memcached-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libevent-lib)
+include(memcached-license)
+include(memcached-services)
+memcached-bin

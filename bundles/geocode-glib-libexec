@@ -1,0 +1,13 @@
+# [TITLE]: geocode-glib-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geocode-glib-lib)
+include(geocode-glib-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libsoup-lib)
+geocode-glib-libexec

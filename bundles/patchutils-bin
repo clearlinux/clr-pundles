@@ -1,0 +1,12 @@
+# [TITLE]: patchutils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(patchutils-license)
+include(perl-bin)
+include(python3-core)
+patchutils-bin

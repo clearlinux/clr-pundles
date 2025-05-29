@@ -1,0 +1,10 @@
+# [TITLE]: libXvMC-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXvMC-license)
+include(libc6)
+libXvMC-lib

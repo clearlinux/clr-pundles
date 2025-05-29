@@ -1,0 +1,12 @@
+# [TITLE]: at
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-bin)
+include(at-license)
+include(at-man)
+include(at-services)
+include(at-setuid)
+at

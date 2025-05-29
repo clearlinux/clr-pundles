@@ -1,0 +1,10 @@
+# [TITLE]: poco-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(poco)
+include(poco-bin)
+include(poco-lib)
+poco-dev

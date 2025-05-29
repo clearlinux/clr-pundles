@@ -1,0 +1,8 @@
+# [TITLE]: ansible-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ansible-python3)
+ansible-python

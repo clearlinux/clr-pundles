@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtnetworkauth-dev
+include(qtnetworkauth-dev)
 include(qt-core)
 include(libstdcpp)
 include(libX11client)

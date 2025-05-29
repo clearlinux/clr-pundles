@@ -1,0 +1,11 @@
+# [TITLE]: Botan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Botan-bin)
+include(Botan-lib)
+include(Botan-python)
+include(Botan-python3)
+Botan

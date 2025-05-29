@@ -1,0 +1,10 @@
+# [TITLE]: libcanberra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcanberra-bin)
+include(libcanberra-data)
+include(libcanberra-lib)
+libcanberra

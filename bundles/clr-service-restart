@@ -1,0 +1,12 @@
+# [TITLE]: clr-service-restart
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-service-restart-bin)
+include(clr-service-restart-data)
+include(clr-service-restart-license)
+include(clr-service-restart-man)
+include(clr-service-restart-services)
+clr-service-restart

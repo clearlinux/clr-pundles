@@ -1,0 +1,12 @@
+# [TITLE]: patchelf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(patchelf-data)
+include(patchelf-license)
+patchelf-bin

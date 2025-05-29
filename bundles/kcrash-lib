@@ -1,0 +1,15 @@
+# [TITLE]: kcrash-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kcrash-data)
+include(kcrash-license)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+kcrash-lib

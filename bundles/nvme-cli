@@ -1,0 +1,12 @@
+# [TITLE]: nvme-cli
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nvme-cli-bin)
+include(nvme-cli-config)
+include(nvme-cli-data)
+include(nvme-cli-license)
+include(nvme-cli-services)
+nvme-cli

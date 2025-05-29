@@ -1,0 +1,10 @@
+# [TITLE]: ioport
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ioport-bin)
+include(ioport-license)
+include(ioport-man)
+ioport

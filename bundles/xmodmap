@@ -1,0 +1,10 @@
+# [TITLE]: xmodmap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xmodmap-bin)
+include(xmodmap-license)
+include(xmodmap-man)
+xmodmap

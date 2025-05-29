@@ -1,0 +1,10 @@
+# [TITLE]: pcp-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pcp-lib)
+include(python3-core)
+pcp-python3

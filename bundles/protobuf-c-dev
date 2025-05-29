@@ -1,0 +1,11 @@
+# [TITLE]: protobuf-c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(protobuf-c)
+include(protobuf-c-bin)
+include(protobuf-c-lib)
+protobuf-c-dev

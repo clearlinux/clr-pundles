@@ -1,0 +1,8 @@
+# [TITLE]: gnome-software-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-software-man)
+gnome-software-doc

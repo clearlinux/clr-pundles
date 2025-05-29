@@ -1,0 +1,9 @@
+# [TITLE]: cloc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cloc-license)
+include(coreutils-bin)
+cloc-bin

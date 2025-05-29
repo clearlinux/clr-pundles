@@ -1,0 +1,10 @@
+# [TITLE]: optipng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(optipng-bin)
+include(optipng-license)
+include(optipng-man)
+optipng

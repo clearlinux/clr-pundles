@@ -1,0 +1,11 @@
+# [TITLE]: libuser-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libuser-license)
+include(libxcrypt-lib)
+libuser-lib

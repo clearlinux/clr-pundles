@@ -1,0 +1,8 @@
+# [TITLE]: goocanvas-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(goocanvas-python3)
+goocanvas-python

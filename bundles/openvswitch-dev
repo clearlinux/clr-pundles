@@ -1,0 +1,11 @@
+# [TITLE]: openvswitch-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openvswitch)
+include(openvswitch-bin)
+include(openvswitch-data)
+include(pkg-config-bin)
+openvswitch-dev

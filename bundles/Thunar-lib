@@ -1,0 +1,23 @@
+# [TITLE]: Thunar-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Thunar-data)
+include(Thunar-license)
+include(at-spi2-core-lib)
+include(exo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libexif-lib)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(pango-lib)
+include(pcre2-lib)
+include(xfce4-panel-lib)
+include(xfconf-lib)
+Thunar-lib

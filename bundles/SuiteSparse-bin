@@ -1,0 +1,12 @@
+# [TITLE]: SuiteSparse-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SuiteSparse-lib)
+include(SuiteSparse-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+SuiteSparse-bin

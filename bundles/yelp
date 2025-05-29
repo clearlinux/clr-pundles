@@ -1,0 +1,14 @@
+# [TITLE]: yelp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-getting-started-docs)
+include(yelp-bin)
+include(yelp-data)
+include(yelp-lib)
+include(yelp-license)
+include(yelp-locales)
+include(yelp-xsl)
+yelp

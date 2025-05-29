@@ -1,0 +1,8 @@
+# [TITLE]: newt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(newt-python3)
+newt-python

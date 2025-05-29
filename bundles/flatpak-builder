@@ -1,0 +1,14 @@
+# [TITLE]: flatpak-builder
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flatpak-builder-bin)
+include(flatpak-builder-libexec)
+include(flatpak-builder-license)
+include(git)
+include(ostree)
+include(patch)
+include(tar)
+flatpak-builder

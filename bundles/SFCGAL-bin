@@ -1,0 +1,9 @@
+# [TITLE]: SFCGAL-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SFCGAL-license)
+include(filesystem)
+SFCGAL-bin

@@ -1,0 +1,34 @@
+# [TITLE]: evolution-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(cmark-lib)
+include(enchant-lib)
+include(evolution-data)
+include(evolution-data-server-lib)
+include(evolution-libexec)
+include(evolution-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-autoar-lib)
+include(gnome-desktop-lib)
+include(gspell-lib)
+include(gtk3-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libical-lib)
+include(libnotify-lib)
+include(libsecret-lib)
+include(libsoup-lib)
+include(libxml2-lib)
+include(nspr)
+include(nss-lib)
+include(openldap-lib)
+include(pango-lib)
+include(sqlite-autoconf-lib)
+include(webkitgtk-lib)
+evolution-lib

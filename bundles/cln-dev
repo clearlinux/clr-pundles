@@ -1,0 +1,11 @@
+# [TITLE]: cln-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cln)
+include(cln-bin)
+include(cln-lib)
+include(pkg-config-bin)
+cln-dev

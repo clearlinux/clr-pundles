@@ -1,0 +1,9 @@
+# [TITLE]: SPIRV-Headers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Headers-data)
+include(SPIRV-Headers-license)
+SPIRV-Headers

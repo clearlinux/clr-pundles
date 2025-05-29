@@ -1,0 +1,11 @@
+# [TITLE]: jack2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jack2)
+include(jack2-bin)
+include(jack2-lib)
+include(pkg-config-bin)
+jack2-dev

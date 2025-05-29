@@ -1,0 +1,12 @@
+# [TITLE]: pcsc-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(pcsc-lite-lib)
+include(pcsc-tools-data)
+include(pcsc-tools-license)
+pcsc-tools-bin

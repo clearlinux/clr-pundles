@@ -1,0 +1,8 @@
+# [TITLE]: tracker-miners-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+tracker-miners-services

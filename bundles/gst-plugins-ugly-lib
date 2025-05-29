@@ -1,0 +1,12 @@
+# [TITLE]: gst-plugins-ugly-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gst-plugins-ugly-license)
+include(gstreamer-lib)
+include(libc6)
+gst-plugins-ugly-lib

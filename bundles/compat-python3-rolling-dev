@@ -1,0 +1,10 @@
+# [TITLE]: compat-python3-rolling-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-python3-rolling-core)
+include(compat-python3-rolling-lib)
+include(pkg-config-bin)
+compat-python3-rolling-dev

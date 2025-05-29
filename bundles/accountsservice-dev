@@ -1,0 +1,13 @@
+# [TITLE]: accountsservice-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(accountsservice)
+include(accountsservice-data)
+include(accountsservice-lib)
+include(glib-dev)
+include(pkg-config-bin)
+include(polkit-dev)
+accountsservice-dev

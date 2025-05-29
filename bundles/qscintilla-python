@@ -1,0 +1,8 @@
+# [TITLE]: qscintilla-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qscintilla-python3)
+qscintilla-python

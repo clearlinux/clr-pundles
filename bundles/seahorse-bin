@@ -1,0 +1,21 @@
+# [TITLE]: seahorse-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gcr-soname1-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gpgme-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libhandy-lib)
+include(libpwquality-lib)
+include(libsecret-lib)
+include(openldap-lib)
+include(seahorse-data)
+include(seahorse-libexec)
+include(seahorse-license)
+seahorse-bin

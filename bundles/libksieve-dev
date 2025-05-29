@@ -1,0 +1,10 @@
+# [TITLE]: libksieve-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libksieve)
+include(libksieve-data)
+include(libksieve-lib)
+libksieve-dev

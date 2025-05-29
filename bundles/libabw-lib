@@ -1,0 +1,14 @@
+# [TITLE]: libabw-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(libabw-license)
+include(libc6)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+include(zlib-lib)
+libabw-lib

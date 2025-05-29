@@ -1,0 +1,12 @@
+# [TITLE]: Remmina-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Remmina)
+include(Remmina-bin)
+include(Remmina-data)
+include(Remmina-lib)
+include(pkg-config-bin)
+Remmina-dev

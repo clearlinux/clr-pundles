@@ -1,0 +1,11 @@
+# [TITLE]: dconf-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dconf-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+dconf-libexec

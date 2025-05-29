@@ -1,0 +1,29 @@
+# [TITLE]: plasma-discover-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(knotifications-lib)
+include(kstatusnotifieritem-lib)
+include(kwindowsystem-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(plasma-discover-data)
+include(plasma-discover-lib)
+include(plasma-discover-license)
+include(qcoro6-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+plasma-discover-bin

@@ -1,0 +1,11 @@
+# [TITLE]: openjpeg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openjpeg)
+include(openjpeg-bin)
+include(openjpeg-lib)
+include(pkg-config-bin)
+openjpeg-dev

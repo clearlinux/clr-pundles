@@ -1,0 +1,13 @@
+# [TITLE]: gnome-desktop-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(gnome-desktop)
+include(gnome-desktop-lib)
+include(gtk3-lib)
+include(libc6)
+gnome-desktop-tests

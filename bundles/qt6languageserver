@@ -1,0 +1,9 @@
+# [TITLE]: qt6languageserver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6languageserver-lib)
+include(qt6languageserver-license)
+qt6languageserver

@@ -1,0 +1,18 @@
+# [TITLE]: rest-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk4-lib)
+include(gtksourceview-lib)
+include(json-glib-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(libsoup-lib)
+include(rest-data)
+include(rest-lib)
+include(rest-license)
+rest-bin

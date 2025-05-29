@@ -1,0 +1,10 @@
+# [TITLE]: mozjs102-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mozjs102-bin)
+include(mozjs102-lib)
+include(pkg-config-bin)
+mozjs102-dev

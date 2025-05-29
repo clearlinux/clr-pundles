@@ -1,0 +1,8 @@
+# [TITLE]: gnome-terminal-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-terminal-man)
+gnome-terminal-doc

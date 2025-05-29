@@ -1,0 +1,11 @@
+# [TITLE]: xmlstarlet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(libxslt-lib)
+include(xmlstarlet-license)
+xmlstarlet-bin

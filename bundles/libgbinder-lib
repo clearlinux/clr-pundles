@@ -1,0 +1,11 @@
+# [TITLE]: libgbinder-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgbinder-license)
+include(libglibutil-lib)
+libgbinder-lib

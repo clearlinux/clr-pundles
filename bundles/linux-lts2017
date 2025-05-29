@@ -1,0 +1,10 @@
+# [TITLE]: linux-lts2017
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(init-rdahead-extras)
+include(linux-lts2017-license)
+include(systemd-bin)
+linux-lts2017

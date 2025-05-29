@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qt3d-dev
+include(qt3d-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

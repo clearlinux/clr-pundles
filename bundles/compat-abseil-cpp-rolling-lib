@@ -1,0 +1,12 @@
+# [TITLE]: compat-abseil-cpp-rolling-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-abseil-cpp-rolling-license)
+include(googletest-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+compat-abseil-cpp-rolling-lib

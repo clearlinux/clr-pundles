@@ -1,0 +1,15 @@
+# [TITLE]: mstflint-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(mstflint-data)
+include(mstflint-license)
+include(openssl-lib)
+include(zlib-lib)
+mstflint-bin

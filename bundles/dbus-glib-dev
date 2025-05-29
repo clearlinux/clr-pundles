@@ -1,0 +1,14 @@
+# [TITLE]: dbus-glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-dev)
+include(dbus-glib)
+include(dbus-glib-bin)
+include(dbus-glib-data)
+include(dbus-glib-lib)
+include(glib-dev)
+include(pkg-config-bin)
+dbus-glib-dev

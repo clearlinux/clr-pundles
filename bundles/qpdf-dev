@@ -1,0 +1,15 @@
+# [TITLE]: qpdf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-dev)
+include(libjpeg-turbo-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+include(qpdf)
+include(qpdf-bin)
+include(qpdf-lib)
+include(zlib-dev)
+qpdf-dev

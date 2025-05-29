@@ -1,0 +1,15 @@
+# [TITLE]: gnome-session-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glib-lib)
+include(gnome-session-data)
+include(gnome-session-libexec)
+include(gnome-session-license)
+include(gnome-session-services)
+include(libc6)
+include(libgcc1)
+gnome-session-bin

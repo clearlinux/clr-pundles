@@ -1,0 +1,11 @@
+# [TITLE]: libexttextcat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libexttextcat-bin)
+include(libexttextcat-data)
+include(libexttextcat-lib)
+include(libexttextcat-license)
+libexttextcat

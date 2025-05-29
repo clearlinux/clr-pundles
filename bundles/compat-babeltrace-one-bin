@@ -1,0 +1,14 @@
+# [TITLE]: compat-babeltrace-one-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-babeltrace-one-lib)
+include(compat-babeltrace-one-license)
+include(elfutils-lib)
+include(glib-lib)
+include(libc6)
+include(popt-lib)
+include(util-linux-lib)
+compat-babeltrace-one-bin

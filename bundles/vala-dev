@@ -1,0 +1,15 @@
+# [TITLE]: vala-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(graphviz-dev)
+include(pkg-config-bin)
+include(vala)
+include(vala-bin)
+include(vala-data)
+include(vala-dev)
+include(vala-lib)
+vala-dev

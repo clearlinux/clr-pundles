@@ -1,0 +1,8 @@
+# [TITLE]: libb64-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libb64-dev)
+libb64-staticdev

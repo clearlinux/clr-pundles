@@ -9,7 +9,7 @@ include(libglib)
 include(NetworkManager-extras)
 
 include(linux-firmware-wifi)
-NetworkManager-bin
-NetworkManager-config
-NetworkManager-data
+include(NetworkManager-bin)
+include(NetworkManager-config)
+include(NetworkManager-data)
 include(wpa_supplicant)

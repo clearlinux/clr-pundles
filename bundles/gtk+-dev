@@ -1,0 +1,17 @@
+# [TITLE]: gtk+-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-dev)
+include(cairo-dev)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(gtk+)
+include(gtk+-bin)
+include(gtk+-data)
+include(gtk+-dev)
+include(gtk+-lib)
+include(pango-dev)
+gtk+-dev

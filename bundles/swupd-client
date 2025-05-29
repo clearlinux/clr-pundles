@@ -1,0 +1,13 @@
+# [TITLE]: swupd-client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(swupd-client-autostart)
+include(swupd-client-bin)
+include(swupd-client-data)
+include(swupd-client-license)
+include(swupd-client-man)
+include(swupd-client-services)
+swupd-client

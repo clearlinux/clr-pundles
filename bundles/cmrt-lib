@@ -1,0 +1,12 @@
+# [TITLE]: cmrt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmrt-license)
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libstdc++)
+cmrt-lib

@@ -1,0 +1,10 @@
+# [TITLE]: dialog-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dialog-license)
+include(libc6)
+include(ncurses-lib)
+dialog-lib

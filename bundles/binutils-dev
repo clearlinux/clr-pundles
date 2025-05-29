@@ -1,0 +1,10 @@
+# [TITLE]: binutils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binutils)
+include(binutils-bin)
+include(binutils-lib)
+binutils-dev

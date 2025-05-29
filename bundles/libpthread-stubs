@@ -1,0 +1,8 @@
+# [TITLE]: libpthread-stubs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpthread-stubs-license)
+libpthread-stubs

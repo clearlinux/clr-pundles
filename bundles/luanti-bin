@@ -1,0 +1,29 @@
+# [TITLE]: luanti-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(SDL2-lib)
+include(curl-lib)
+include(freetype-lib)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libspatialindex-lib)
+include(libstdc++)
+include(libvorbis-lib)
+include(luanti-data)
+include(luanti-license)
+include(ncurses-lib)
+include(openal-soft-lib)
+include(openssl-lib)
+include(postgresql-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+include(zstd-lib)
+luanti-bin

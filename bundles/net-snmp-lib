@@ -1,0 +1,15 @@
+# [TITLE]: net-snmp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libnl-lib)
+include(net-snmp-data)
+include(net-snmp-license)
+include(openssl-lib)
+include(pciutils-lib)
+include(pcre-lib)
+include(perl-perl)
+net-snmp-lib

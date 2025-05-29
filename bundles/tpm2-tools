@@ -1,0 +1,11 @@
+# [TITLE]: tpm2-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tpm2-tools-bin)
+include(tpm2-tools-data)
+include(tpm2-tools-license)
+include(tpm2-tools-man)
+tpm2-tools

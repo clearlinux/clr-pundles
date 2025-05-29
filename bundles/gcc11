@@ -1,0 +1,15 @@
+# [TITLE]: gcc11
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mpc-lib)
+include(mpfr-lib)
+include(zlib-lib)
+gcc11

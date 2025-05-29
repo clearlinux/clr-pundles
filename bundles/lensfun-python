@@ -1,0 +1,8 @@
+# [TITLE]: lensfun-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lensfun-python3)
+lensfun-python

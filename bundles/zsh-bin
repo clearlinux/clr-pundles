@@ -1,0 +1,11 @@
+# [TITLE]: zsh-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(zsh-data)
+include(zsh-license)
+zsh-bin

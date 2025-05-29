@@ -1,0 +1,10 @@
+# [TITLE]: xcb-util-xrm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(xcb-util-xrm-license)
+xcb-util-xrm-lib

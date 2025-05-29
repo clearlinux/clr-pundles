@@ -1,0 +1,17 @@
+# [TITLE]: xrdp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(compat-fuse-soname2-lib)
+include(libX11-lib)
+include(libc6)
+include(opus-lib)
+include(pixman-lib)
+include(xrdp-data)
+include(xrdp-lib)
+include(xrdp-license)
+include(xrdp-services)
+xrdp-bin

@@ -1,0 +1,13 @@
+# [TITLE]: bats
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bats-bin)
+include(bats-libexec)
+include(bats-license)
+include(bats-man)
+include(coreutils-bin)
+include(procps-ng)
+bats

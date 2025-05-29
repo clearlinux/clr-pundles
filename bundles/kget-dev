@@ -1,0 +1,11 @@
+# [TITLE]: kget-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kget)
+include(kget-bin)
+include(kget-data)
+include(kget-lib)
+kget-dev

@@ -1,0 +1,10 @@
+# [TITLE]: compat-tiff-soname5-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-tiff-soname5-license)
+include(gcc-libstdc++32)
+include(glibc-libc32)
+compat-tiff-soname5-lib32

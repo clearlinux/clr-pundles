@@ -1,0 +1,8 @@
+# [TITLE]: openvpn-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openvpn-man)
+openvpn-doc

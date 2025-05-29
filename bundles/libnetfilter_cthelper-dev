@@ -1,0 +1,9 @@
+# [TITLE]: libnetfilter_cthelper-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnetfilter_cthelper)
+include(libnetfilter_cthelper-lib)
+libnetfilter_cthelper-dev

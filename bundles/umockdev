@@ -1,0 +1,11 @@
+# [TITLE]: umockdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(umockdev-bin)
+include(umockdev-data)
+include(umockdev-lib)
+include(umockdev-license)
+umockdev

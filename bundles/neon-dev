@@ -1,0 +1,11 @@
+# [TITLE]: neon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(neon)
+include(neon-bin)
+include(neon-lib)
+include(pkg-config-bin)
+neon-dev

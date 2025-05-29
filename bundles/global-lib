@@ -1,0 +1,10 @@
+# [TITLE]: global-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(global-data)
+include(global-license)
+include(libc6)
+global-lib

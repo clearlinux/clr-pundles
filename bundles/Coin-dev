@@ -1,0 +1,11 @@
+# [TITLE]: Coin-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Coin)
+include(Coin-bin)
+include(Coin-data)
+include(Coin-lib)
+Coin-dev

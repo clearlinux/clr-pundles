@@ -1,0 +1,11 @@
+# [TITLE]: nss-pam-ldapd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nss-pam-ldapd-bin)
+include(nss-pam-ldapd-data)
+include(nss-pam-ldapd-lib)
+include(nss-pam-ldapd-license)
+nss-pam-ldapd

@@ -1,0 +1,10 @@
+# [TITLE]: libwps
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwps-bin)
+include(libwps-lib)
+include(libwps-license)
+libwps

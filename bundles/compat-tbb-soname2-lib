@@ -1,0 +1,11 @@
+# [TITLE]: compat-tbb-soname2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-tbb-soname2-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+compat-tbb-soname2-lib

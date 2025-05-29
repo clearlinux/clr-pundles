@@ -1,0 +1,9 @@
+# [TITLE]: latencytop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(latencytop-bin)
+include(latencytop-data)
+latencytop

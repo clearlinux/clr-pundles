@@ -1,0 +1,21 @@
+# [TITLE]: QGIS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PDAL-lib)
+include(PyQt6)
+include(QGIS-bin)
+include(QGIS-data)
+include(QGIS-lib)
+include(QGIS-license)
+include(gdal-lib)
+include(grass-dev)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(sip)
+QGIS

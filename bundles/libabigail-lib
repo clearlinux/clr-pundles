@@ -1,0 +1,15 @@
+# [TITLE]: libabigail-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(elfutils-lib)
+include(libabigail-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(xxHash-lib)
+include(xz-lib)
+libabigail-lib

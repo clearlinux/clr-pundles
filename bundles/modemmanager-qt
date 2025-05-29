@@ -1,0 +1,10 @@
+# [TITLE]: modemmanager-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(modemmanager-qt-data)
+include(modemmanager-qt-lib)
+include(modemmanager-qt-license)
+modemmanager-qt

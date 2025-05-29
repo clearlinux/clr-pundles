@@ -1,0 +1,10 @@
+# [TITLE]: libdex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdex-data)
+include(libdex-lib)
+include(libdex-license)
+libdex

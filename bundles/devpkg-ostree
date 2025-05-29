@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-ostree-dev
+include(ostree-dev)
 include(curl)
 include(libglib)
 include(xz)

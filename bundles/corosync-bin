@@ -1,0 +1,13 @@
+# [TITLE]: corosync-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(corosync-lib)
+include(corosync-license)
+include(filesystem)
+include(kronosnet-lib)
+include(libc6)
+include(libqb-lib)
+corosync-bin

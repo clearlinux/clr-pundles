@@ -1,0 +1,12 @@
+# [TITLE]: OpenColorIO-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenColorIO)
+include(OpenColorIO-bin)
+include(OpenColorIO-data)
+include(OpenColorIO-lib)
+include(pkg-config-bin)
+OpenColorIO-dev

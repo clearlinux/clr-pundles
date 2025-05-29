@@ -1,0 +1,13 @@
+# [TITLE]: man-db-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdbm-lib)
+include(libc6)
+include(libseccomp-lib)
+include(man-db-data)
+include(man-db-libexec)
+include(man-db-license)
+man-db-lib

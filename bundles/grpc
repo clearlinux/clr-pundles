@@ -1,0 +1,11 @@
+# [TITLE]: grpc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grpc-bin)
+include(grpc-data)
+include(grpc-lib)
+include(grpc-license)
+grpc

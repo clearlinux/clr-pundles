@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtwebchannel-dev
+include(qtwebchannel-dev)
 include(qt-core)
 include(libstdcpp)
 include(libX11client)

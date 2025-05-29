@@ -1,0 +1,13 @@
+# [TITLE]: the_silver_searcher-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pcre-lib)
+include(the_silver_searcher-data)
+include(the_silver_searcher-license)
+include(xz-lib)
+include(zlib-lib)
+the_silver_searcher-bin

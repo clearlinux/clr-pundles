@@ -1,0 +1,20 @@
+# [TITLE]: gtkmm4-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(cairomm-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(glibmm-lib)
+include(graphene-lib)
+include(gtk4-lib)
+include(gtkmm4-license)
+include(libc6)
+include(libgcc1)
+include(libsigc++-lib)
+include(libstdc++)
+include(pangomm-lib)
+gtkmm4-lib

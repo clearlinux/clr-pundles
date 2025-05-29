@@ -1,0 +1,10 @@
+# [TITLE]: etr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(etr-bin)
+include(etr-data)
+include(etr-license)
+etr

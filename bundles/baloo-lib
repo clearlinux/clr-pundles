@@ -1,0 +1,21 @@
+# [TITLE]: baloo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baloo-data)
+include(baloo-license)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(kfilemetadata-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(libc6)
+include(libstdc++)
+include(lmdb-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(solid-lib)
+baloo-lib

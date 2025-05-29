@@ -1,0 +1,10 @@
+# [TITLE]: rabbitmq-server-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rabbitmq-server-config)
+include(rabbitmq-server-license)
+include(rabbitmq-server-services)
+rabbitmq-server-bin

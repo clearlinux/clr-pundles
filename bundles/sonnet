@@ -1,0 +1,11 @@
+# [TITLE]: sonnet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sonnet-bin)
+include(sonnet-data)
+include(sonnet-lib)
+include(sonnet-license)
+sonnet

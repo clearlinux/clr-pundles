@@ -1,0 +1,13 @@
+# [TITLE]: rtmpdump-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(gnutls-lib)
+include(libc6)
+include(nettle-lib)
+include(rtmpdump-license)
+include(zlib-lib)
+rtmpdump-lib

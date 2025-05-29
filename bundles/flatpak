@@ -14,7 +14,7 @@ include(libarchive)
 include(libpsl-lib)
 include(lz4)
 include(audio-pipewire)
-flatpak-builder
+include(flatpak-builder)
 include(git)
 include(libstdcpp)
 include(librsvg)

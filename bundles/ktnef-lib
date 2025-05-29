@@ -1,0 +1,16 @@
+# [TITLE]: ktnef-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcalendarcore-lib)
+include(kcalutils-lib)
+include(kcontacts-lib)
+include(ki18n-lib)
+include(ktnef-data)
+include(ktnef-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+ktnef-lib

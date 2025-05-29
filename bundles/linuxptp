@@ -1,0 +1,10 @@
+# [TITLE]: linuxptp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linuxptp-bin)
+include(linuxptp-license)
+include(linuxptp-man)
+linuxptp

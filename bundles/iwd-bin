@@ -1,0 +1,15 @@
+# [TITLE]: iwd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iwd-config)
+include(iwd-data)
+include(iwd-libexec)
+include(iwd-license)
+include(iwd-services)
+include(libc6)
+include(libgcc1)
+include(readline-lib)
+iwd-bin

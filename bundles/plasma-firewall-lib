@@ -1,0 +1,19 @@
+# [TITLE]: plasma-firewall-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-firewall-data)
+include(plasma-firewall-dev)
+include(plasma-firewall-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+plasma-firewall-lib

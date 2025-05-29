@@ -1,0 +1,11 @@
+# [TITLE]: ppp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(ppp)
+include(ppp-bin)
+include(ppp-lib)
+ppp-dev

@@ -1,0 +1,8 @@
+# [TITLE]: mkosi-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mkosi-python3)
+mkosi-python

@@ -1,0 +1,18 @@
+# [TITLE]: openbox-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(imlib2-dev)
+include(libXft-dev)
+include(librsvg-dev)
+include(libxml2-dev)
+include(openbox)
+include(openbox-bin)
+include(openbox-data)
+include(openbox-dev)
+include(openbox-lib)
+include(pango-dev)
+openbox-dev

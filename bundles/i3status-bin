@@ -1,0 +1,15 @@
+# [TITLE]: i3status-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(confuse-lib)
+include(i3status-data)
+include(i3status-license)
+include(libc6)
+include(libnl-lib)
+include(pulseaudio-lib)
+include(yajl-lib)
+i3status-bin

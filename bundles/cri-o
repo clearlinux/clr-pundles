@@ -1,0 +1,14 @@
+# [TITLE]: cri-o
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(conmon)
+include(cri-o-bin)
+include(cri-o-config)
+include(cri-o-data)
+include(cri-o-license)
+include(cri-o-man)
+include(cri-o-services)
+cri-o

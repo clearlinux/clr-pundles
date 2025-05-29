@@ -1,0 +1,11 @@
+# [TITLE]: geocode-glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geocode-glib)
+include(geocode-glib-data)
+include(geocode-glib-lib)
+include(glib-dev)
+geocode-glib-dev

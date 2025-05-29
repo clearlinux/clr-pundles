@@ -1,0 +1,10 @@
+# [TITLE]: rdfind
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rdfind-bin)
+include(rdfind-license)
+include(rdfind-man)
+rdfind

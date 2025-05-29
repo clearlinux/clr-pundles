@@ -1,0 +1,11 @@
+# [TITLE]: xkill-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXmu-lib)
+include(libc6)
+include(xkill-license)
+xkill-bin

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-texlive-dev
+include(texlive-dev)
 include(libX11client)
 include(lib-imageformat)
 include(libstdcpp)

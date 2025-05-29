@@ -1,0 +1,10 @@
+# [TITLE]: wayland-protocols-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(wayland-protocols-data)
+include(wayland-protocols-dev)
+wayland-protocols-dev32

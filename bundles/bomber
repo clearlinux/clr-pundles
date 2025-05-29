@@ -1,0 +1,11 @@
+# [TITLE]: bomber
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bomber-bin)
+include(bomber-data)
+include(bomber-license)
+include(bomber-locales)
+bomber

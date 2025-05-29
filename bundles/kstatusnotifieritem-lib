@@ -1,0 +1,13 @@
+# [TITLE]: kstatusnotifieritem-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kstatusnotifieritem-data)
+include(kstatusnotifieritem-license)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kstatusnotifieritem-lib

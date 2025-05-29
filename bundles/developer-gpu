@@ -13,9 +13,9 @@ include(devpkg-llvm)
 include(devpkg-SPIRV-Tools)
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
-glslang-bin
+include(glslang-bin)
 include(devpkg-waffle)
-glslang-dev
+include(glslang-dev)
 include(devpkg-SPIRV-Cross)
 
 #intel-graphics-compiler-dev

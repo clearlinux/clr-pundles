@@ -1,0 +1,10 @@
+# [TITLE]: ki18n-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ki18n)
+include(ki18n-data)
+include(ki18n-lib)
+ki18n-dev

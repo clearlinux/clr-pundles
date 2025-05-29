@@ -1,0 +1,14 @@
+# [TITLE]: librepo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+include(glib-dev)
+include(librepo)
+include(librepo-lib)
+include(libxml2-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+librepo-dev

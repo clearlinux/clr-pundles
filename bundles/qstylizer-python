@@ -1,0 +1,8 @@
+# [TITLE]: qstylizer-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qstylizer-python3)
+qstylizer-python

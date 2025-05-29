@@ -1,0 +1,29 @@
+# [TITLE]: buildreq-qt6
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(extra-cmake-modules)
+include(qt63d-dev)
+include(qt6base-dev)
+include(qt6base-staticdev)
+include(qt6charts-dev)
+include(qt6connectivity-dev)
+include(qt6declarative-dev)
+include(qt6doc)
+include(qt6grpc-dev)
+include(qt6httpserver-dev)
+include(qt6imageformats-dev)
+include(qt6multimedia-dev)
+include(qt6positioning-dev)
+include(qt6quick3d-dev)
+include(qt6quick3dphysics-dev)
+include(qt6remoteobjects-dev)
+include(qt6sensors-dev)
+include(qt6serialport-dev)
+include(qt6shadertools-dev)
+include(qt6svg-dev)
+include(qt6tools)
+include(qt6tools-dev)
+buildreq-qt6

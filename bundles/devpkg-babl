@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-babl-dev
+include(babl-dev)
 include(lib-imageformat)

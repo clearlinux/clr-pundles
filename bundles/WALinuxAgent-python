@@ -1,0 +1,8 @@
+# [TITLE]: WALinuxAgent-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(WALinuxAgent-python3)
+WALinuxAgent-python

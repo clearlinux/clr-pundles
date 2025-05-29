@@ -1,0 +1,12 @@
+# [TITLE]: rrdtool-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(rrdtool)
+include(rrdtool-bin)
+include(rrdtool-data)
+include(rrdtool-lib)
+rrdtool-dev

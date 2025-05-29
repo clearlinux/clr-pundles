@@ -1,0 +1,23 @@
+# [TITLE]: pidgin-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(coreutils-bin)
+include(dbus-lib)
+include(filesystem)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk+-lib)
+include(libX11-lib)
+include(libc6)
+include(pango-lib)
+include(pidgin-data)
+include(pidgin-lib)
+include(pidgin-license)
+pidgin-bin

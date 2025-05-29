@@ -1,0 +1,12 @@
+# [TITLE]: qtwebengine-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtwebengine-lib)
+include(qtwebengine-license)
+qtwebengine-libexec

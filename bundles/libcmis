@@ -1,0 +1,10 @@
+# [TITLE]: libcmis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcmis-bin)
+include(libcmis-lib)
+include(libcmis-license)
+libcmis

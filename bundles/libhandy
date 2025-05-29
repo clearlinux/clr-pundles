@@ -1,0 +1,12 @@
+# [TITLE]: libhandy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libhandy-bin)
+include(libhandy-data)
+include(libhandy-lib)
+include(libhandy-license)
+include(libhandy-locales)
+libhandy

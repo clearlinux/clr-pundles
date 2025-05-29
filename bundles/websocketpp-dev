@@ -1,0 +1,8 @@
+# [TITLE]: websocketpp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(websocketpp)
+websocketpp-dev

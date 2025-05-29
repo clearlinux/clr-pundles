@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-gnu-efi-dev
-gnu-efi-staticdev
+include(gnu-efi-dev)
+include(gnu-efi-staticdev)

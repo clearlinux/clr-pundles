@@ -1,0 +1,9 @@
+# [TITLE]: cri-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cri-tools-bin)
+include(cri-tools-license)
+cri-tools

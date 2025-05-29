@@ -1,0 +1,11 @@
+# [TITLE]: kdbusaddons-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdbusaddons)
+include(kdbusaddons-bin)
+include(kdbusaddons-data)
+include(kdbusaddons-lib)
+kdbusaddons-dev

@@ -1,0 +1,11 @@
+# [TITLE]: help2man
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(help2man-bin)
+include(help2man-info)
+include(help2man-license)
+include(help2man-man)
+help2man

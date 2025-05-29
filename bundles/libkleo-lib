@@ -1,0 +1,23 @@
+# [TITLE]: libkleo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-extras)
+include(gpgme-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kitemmodels-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgcc1)
+include(libkleo-data)
+include(libkleo-license)
+include(libstdc++)
+include(qt6base-lib)
+libkleo-lib

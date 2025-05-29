@@ -1,0 +1,17 @@
+# [TITLE]: gcc9
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gcc9-doc)
+include(gcc9-libubsan)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mpc-lib)
+include(mpfr-lib)
+include(zlib-lib)
+gcc9

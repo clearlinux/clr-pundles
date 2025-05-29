@@ -1,0 +1,11 @@
+# [TITLE]: highway-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(googletest-dev)
+include(highway)
+include(highway-lib)
+include(pkg-config-bin)
+highway-dev

@@ -1,0 +1,10 @@
+# [TITLE]: libdisplay-info
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdisplay-info-bin)
+include(libdisplay-info-lib)
+include(libdisplay-info-license)
+libdisplay-info

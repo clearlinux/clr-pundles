@@ -1,0 +1,23 @@
+# [TITLE]: stellarium-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QXlsx-lib)
+include(exiv2-lib)
+include(indi-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(nlopt-lib)
+include(qt6base-lib)
+include(qt6charts-lib)
+include(qt6declarative-lib)
+include(qt6multimedia-lib)
+include(qt6positioning-lib)
+include(qt6serialport-lib)
+include(stellarium-data)
+include(stellarium-license)
+include(zlib-lib)
+stellarium-bin

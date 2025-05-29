@@ -1,0 +1,19 @@
+# [TITLE]: dracut
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cpio-bin)
+include(dracut-bin)
+include(dracut-data)
+include(dracut-lib)
+include(dracut-license)
+include(dracut-man)
+include(filesystem)
+include(findutils-bin)
+include(glibc-bin)
+include(kmod-lib)
+include(libc6)
+include(libgcc1)
+dracut

@@ -1,0 +1,35 @@
+# [TITLE]: kdeplasma-addons-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-lib)
+include(kauth-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(kdeclarative-lib)
+include(kdeplasma-addons-data)
+include(kdeplasma-addons-license)
+include(kglobalaccel-lib)
+include(kholidays-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(knotifications-lib)
+include(kpackage-lib)
+include(krunner-lib)
+include(kservice-lib)
+include(kunitconversion-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libplasma-lib)
+include(libstdc++)
+include(plasma5support-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(sonnet-lib)
+kdeplasma-addons-lib

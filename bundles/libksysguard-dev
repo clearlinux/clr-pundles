@@ -1,0 +1,10 @@
+# [TITLE]: libksysguard-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libksysguard)
+include(libksysguard-data)
+include(libksysguard-lib)
+libksysguard-dev

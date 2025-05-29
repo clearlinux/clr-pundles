@@ -1,0 +1,41 @@
+# [TITLE]: spectacle-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kglobalaccel-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kirigami-lib)
+include(kjobwidgets-lib)
+include(knotifications-lib)
+include(kpipewire-lib)
+include(kservice-lib)
+include(kstatusnotifieritem-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(layer-shell-qt-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(opencv-lib)
+include(prison-lib)
+include(purpose-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6wayland-lib)
+include(spectacle-data)
+include(spectacle-license)
+include(spectacle-services)
+include(wayland-lib)
+include(xcb-util-cursor-lib)
+spectacle-bin

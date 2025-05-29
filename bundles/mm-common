@@ -1,0 +1,11 @@
+# [TITLE]: mm-common
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mm-common-bin)
+include(mm-common-data)
+include(mm-common-license)
+include(mm-common-man)
+mm-common

@@ -1,0 +1,28 @@
+# [TITLE]: qt6webengine-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(expat-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(harfbuzz-lib)
+include(icu4c-lib)
+include(libX11-lib)
+include(libc6)
+include(libevent-lib)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(minizip-ng-lib)
+include(nspr)
+include(nss-lib)
+include(qt6base-lib)
+include(qt6webengine-lib)
+include(qt6webengine-license)
+include(zlib-lib)
+qt6webengine-libexec

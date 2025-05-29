@@ -1,0 +1,13 @@
+# [TITLE]: plasma-activities-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(plasma-activities-data)
+include(plasma-activities-lib)
+include(plasma-activities-license)
+include(qt6base-lib)
+plasma-activities-bin

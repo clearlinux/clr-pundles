@@ -1,0 +1,11 @@
+# [TITLE]: libopusenc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libopusenc)
+include(libopusenc-lib)
+include(opus-dev)
+include(pkg-config-bin)
+libopusenc-dev

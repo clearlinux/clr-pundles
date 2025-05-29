@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gdm-dev
+include(gdm-dev)
 include(libglib)
 include(libX11client)
 include(gnome-base-libs)

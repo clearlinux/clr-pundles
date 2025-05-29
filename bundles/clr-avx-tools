@@ -1,0 +1,10 @@
+# [TITLE]: clr-avx-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-avx-tools-bin)
+include(clr-avx-tools-data)
+include(clr-avx-tools-license)
+clr-avx-tools

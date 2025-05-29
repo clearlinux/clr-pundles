@@ -1,0 +1,11 @@
+# [TITLE]: scour
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(scour-bin)
+include(scour-license)
+include(scour-python)
+include(scour-python3)
+scour

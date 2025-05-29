@@ -1,0 +1,9 @@
+# [TITLE]: libbpf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbpf-lib)
+include(libbpf-license)
+libbpf

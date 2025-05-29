@@ -1,0 +1,8 @@
+# [TITLE]: v4l-utils-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+v4l-utils-extras

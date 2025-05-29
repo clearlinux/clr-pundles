@@ -1,0 +1,8 @@
+# [TITLE]: earlyoom-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+earlyoom-services

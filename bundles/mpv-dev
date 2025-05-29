@@ -1,0 +1,42 @@
+# [TITLE]: mpv-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-dev)
+include(Vulkan-Loader-dev)
+include(alsa-lib-dev)
+include(jack2-dev)
+include(lcms2-dev)
+include(libX11-dev)
+include(libXScrnSaver-dev)
+include(libXpresent-dev)
+include(libXv-dev)
+include(libarchive-dev)
+include(libass-dev)
+include(libdrm-dev)
+include(libglvnd-dev)
+include(libjpeg-turbo-dev)
+include(libplacebo-dev)
+include(libva-dev)
+include(libvdpau-dev)
+include(libxkbcommon-dev)
+include(mesa-dev)
+include(mpv)
+include(mpv-bin)
+include(mpv-data)
+include(mpv-lib)
+include(not-ffmpeg-dev)
+include(nv-codec-headers-dev)
+include(pipewire-dev)
+include(pkg-config-bin)
+include(pulseaudio-dev)
+include(sndio-dev)
+include(uchardet-dev)
+include(vapoursynth-dev)
+include(wayland-dev)
+include(wayland-protocols-dev)
+include(zimg-dev)
+include(zlib-dev)
+mpv-dev

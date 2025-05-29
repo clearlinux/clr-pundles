@@ -1,0 +1,10 @@
+# [TITLE]: sundials
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sundials-data)
+include(sundials-lib)
+include(sundials-license)
+sundials

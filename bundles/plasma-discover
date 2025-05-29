@@ -1,0 +1,28 @@
+# [TITLE]: plasma-discover
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kidletime-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(knotifications-lib)
+include(kservice-lib)
+include(kstatusnotifieritem-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(plasma-discover-bin)
+include(plasma-discover-data)
+include(plasma-discover-lib)
+include(plasma-discover-license)
+include(plasma-discover-locales)
+include(qt6base-lib)
+plasma-discover

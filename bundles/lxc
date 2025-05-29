@@ -1,0 +1,13 @@
+# [TITLE]: lxc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lxc-bin)
+include(lxc-data)
+include(lxc-lib)
+include(lxc-libexec)
+include(lxc-license)
+include(lxc-services)
+lxc

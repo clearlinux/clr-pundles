@@ -1,0 +1,10 @@
+# [TITLE]: xcb-util-xrm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(xcb-util-xrm)
+include(xcb-util-xrm-lib)
+xcb-util-xrm-dev

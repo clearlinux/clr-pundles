@@ -1,0 +1,11 @@
+# [TITLE]: xdotool-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(xdotool)
+include(xdotool-bin)
+include(xdotool-lib)
+xdotool-dev

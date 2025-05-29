@@ -1,0 +1,18 @@
+# [TITLE]: minuet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(minuet-data)
+include(minuet-lib)
+include(minuet-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+minuet-bin

@@ -1,0 +1,18 @@
+# [TITLE]: sane-backends-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libusb-lib)
+include(libxml2-lib)
+include(sane-backends-config)
+include(sane-backends-data)
+include(sane-backends-lib)
+include(sane-backends-license)
+include(systemd-extras-libsystemd)
+sane-backends-bin

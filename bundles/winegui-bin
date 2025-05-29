@@ -1,0 +1,19 @@
+# [TITLE]: winegui-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-atkmm-soname16-lib)
+include(compat-glibmm-soname24-lib)
+include(compat-libsigc++-soname20-lib)
+include(compat-pangomm-soname14-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(gtkmm3-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(winegui-data)
+include(winegui-license)
+winegui-bin

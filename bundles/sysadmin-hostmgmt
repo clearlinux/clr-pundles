@@ -10,7 +10,7 @@ include(ipmitool)
 include(pxe-server)
 include(openssh-client)
 include(python3-basic)
-clear-config-management
-freeipmi
+include(clear-config-management)
+include(freeipmi)
 # for ntpdate for time management
-ntp-bin
+include(ntp-bin)

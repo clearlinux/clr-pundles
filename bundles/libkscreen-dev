@@ -1,0 +1,13 @@
+# [TITLE]: libkscreen-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkscreen)
+include(libkscreen-bin)
+include(libkscreen-data)
+include(libkscreen-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+libkscreen-dev

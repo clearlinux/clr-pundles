@@ -1,0 +1,10 @@
+# [TITLE]: libp11-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libp11-license)
+include(openssl-lib)
+libp11-lib

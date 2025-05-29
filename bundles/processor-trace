@@ -1,0 +1,9 @@
+# [TITLE]: processor-trace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(processor-trace-lib)
+include(processor-trace-license)
+processor-trace

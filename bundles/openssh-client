@@ -5,9 +5,9 @@
 # [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(lib-openssl)
-openssh-bin
-openssh-config
-openssh-data
-openssh-doc
-openssh-man
+include(openssh-bin)
+include(openssh-config)
+include(openssh-data)
+include(openssh-doc)
+include(openssh-man)
 include(systemd)

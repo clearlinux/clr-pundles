@@ -1,0 +1,11 @@
+# [TITLE]: garcon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(garcon-data)
+include(garcon-lib)
+include(garcon-license)
+include(garcon-locales)
+garcon

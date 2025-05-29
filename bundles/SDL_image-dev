@@ -1,0 +1,10 @@
+# [TITLE]: SDL_image-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-dev)
+include(SDL_image)
+include(SDL_image-lib)
+SDL_image-dev

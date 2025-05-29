@@ -1,0 +1,13 @@
+# [TITLE]: qtquickcontrols2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qtquickcontrols2-license)
+qtquickcontrols2-lib

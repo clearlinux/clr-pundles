@@ -1,0 +1,12 @@
+# [TITLE]: kmouth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmouth-bin)
+include(kmouth-data)
+include(kmouth-license)
+include(kmouth-locales)
+include(kmouth-man)
+kmouth

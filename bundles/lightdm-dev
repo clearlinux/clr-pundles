@@ -1,0 +1,15 @@
+# [TITLE]: lightdm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libX11-dev)
+include(libxklavier-dev)
+include(lightdm)
+include(lightdm-bin)
+include(lightdm-data)
+include(lightdm-lib)
+include(pkg-config-bin)
+lightdm-dev

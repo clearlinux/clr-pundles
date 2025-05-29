@@ -1,0 +1,16 @@
+# [TITLE]: kwrited-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(knotifications-lib)
+include(kpty-lib)
+include(kwrited-data)
+include(kwrited-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kwrited-bin

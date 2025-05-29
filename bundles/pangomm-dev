@@ -1,0 +1,13 @@
+# [TITLE]: pangomm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairomm-dev)
+include(glibmm-dev)
+include(pango-dev)
+include(pangomm)
+include(pangomm-lib)
+include(pkg-config-bin)
+pangomm-dev

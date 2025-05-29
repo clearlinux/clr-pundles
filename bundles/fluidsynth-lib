@@ -1,0 +1,19 @@
+# [TITLE]: fluidsynth-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(dbus-lib)
+include(fluidsynth-license)
+include(gcc-libs-math)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libsndfile-lib)
+include(libstdc++)
+include(pipewire-lib)
+include(pulseaudio-lib)
+include(readline-lib)
+fluidsynth-lib

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libgsystem-dev
+include(libgsystem-dev)
 include(libglib)

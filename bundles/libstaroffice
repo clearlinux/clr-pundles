@@ -1,0 +1,10 @@
+# [TITLE]: libstaroffice
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libstaroffice-bin)
+include(libstaroffice-lib)
+include(libstaroffice-license)
+libstaroffice

@@ -1,0 +1,13 @@
+# [TITLE]: libjcat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libjcat-data)
+include(libjcat-lib)
+include(libjcat-license)
+libjcat-bin

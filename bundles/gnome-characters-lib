@@ -1,0 +1,11 @@
+# [TITLE]: gnome-characters-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-characters-data)
+include(gnome-characters-license)
+include(libc6)
+gnome-characters-lib

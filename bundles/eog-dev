@@ -1,0 +1,14 @@
+# [TITLE]: eog-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(eog)
+include(eog-bin)
+include(eog-data)
+include(eog-lib)
+include(gtk3-dev)
+include(libhandy-dev)
+include(pkg-config-bin)
+eog-dev

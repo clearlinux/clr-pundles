@@ -1,0 +1,12 @@
+# [TITLE]: cppunit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cppunit-lib)
+include(cppunit-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+cppunit-bin

@@ -1,0 +1,23 @@
+# [TITLE]: boinc-client-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boinc-client-config)
+include(boinc-client-data)
+include(boinc-client-license)
+include(boinc-client-services)
+include(curl-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libc6)
+include(libgcc1)
+include(libnotify-lib)
+include(libstdc++)
+include(openssl-lib)
+include(wxWidgets-lib)
+include(zlib-lib)
+boinc-client-bin

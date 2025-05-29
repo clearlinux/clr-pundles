@@ -8,5 +8,5 @@ include(sudo)
 include(libglib)
 
 include(e2fsprogs-extras)
-micro-config-drive-aws
-amazon-ssm-agent
+include(micro-config-drive-aws)
+include(amazon-ssm-agent)

@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-ell-dev
+include(ell-dev)

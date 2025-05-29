@@ -1,0 +1,12 @@
+# [TITLE]: xapian-core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xapian-core-bin)
+include(xapian-core-data)
+include(xapian-core-lib)
+include(xapian-core-license)
+include(xapian-core-man)
+xapian-core

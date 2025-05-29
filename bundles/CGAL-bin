@@ -1,0 +1,9 @@
+# [TITLE]: CGAL-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CGAL-license)
+include(filesystem)
+CGAL-bin

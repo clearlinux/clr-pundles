@@ -1,0 +1,10 @@
+# [TITLE]: mstflint-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mstflint)
+include(mstflint-bin)
+include(mstflint-data)
+mstflint-dev

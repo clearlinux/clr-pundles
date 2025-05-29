@@ -1,0 +1,14 @@
+# [TITLE]: libcryptui-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-glib-dev)
+include(glib-dev)
+include(gtk3-dev)
+include(libcryptui)
+include(libcryptui-bin)
+include(libcryptui-data)
+include(libcryptui-lib)
+libcryptui-dev

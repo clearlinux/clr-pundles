@@ -1,0 +1,36 @@
+# [TITLE]: plasma-workspace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baloo-lib)
+include(filesystem)
+include(fontconfig-lib)
+include(kauth-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kpackage-lib)
+include(kservice-lib)
+include(kwindowsystem-lib)
+include(layer-shell-qt-lib)
+include(libX11-lib)
+include(libc6)
+include(libplasma-lib)
+include(libstdc++)
+include(plasma-workspace-bin)
+include(plasma-workspace-data)
+include(plasma-workspace-lib)
+include(plasma-workspace-license)
+include(plasma-workspace-locales)
+include(plasma-workspace-services)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(wayland-lib)
+include(zlib-lib)
+plasma-workspace

@@ -1,0 +1,11 @@
+# [TITLE]: portaudio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(portaudio)
+include(portaudio-dev)
+include(portaudio-lib)
+portaudio-dev

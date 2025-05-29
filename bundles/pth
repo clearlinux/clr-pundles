@@ -1,0 +1,11 @@
+# [TITLE]: pth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pth-bin)
+include(pth-lib)
+include(pth-license)
+include(pth-man)
+pth

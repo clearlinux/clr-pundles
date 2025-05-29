@@ -9,4 +9,4 @@ include(luanti)
 include(lib-opengl)
 
 # The actual game data
-minetest_game
+include(minetest_game)

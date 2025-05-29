@@ -10,12 +10,12 @@ include(openldap)
 include(python3-basic)
 include(samba)
 
-authconfig
+include(authconfig)
 include(pypi-kerberos)
 include(krb5)
-nss-pam-ldapd
+include(nss-pam-ldapd)
 include(pypi-requests_kerberos)
-sssd
+include(sssd)
 include(libnl)
 include(pypi-six)
 include(pypi-requests)

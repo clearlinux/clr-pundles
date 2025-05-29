@@ -1,0 +1,8 @@
+# [TITLE]: wpa_supplicant-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+wpa_supplicant-services

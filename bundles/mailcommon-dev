@@ -1,0 +1,10 @@
+# [TITLE]: mailcommon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mailcommon)
+include(mailcommon-data)
+include(mailcommon-lib)
+mailcommon-dev

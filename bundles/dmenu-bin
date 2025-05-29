@@ -1,0 +1,13 @@
+# [TITLE]: dmenu-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dmenu-license)
+include(filesystem)
+include(fontconfig-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libc6)
+dmenu-bin

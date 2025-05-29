@@ -1,0 +1,10 @@
+# [TITLE]: libksba-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgpg-error-lib)
+include(libksba-license)
+libksba-lib

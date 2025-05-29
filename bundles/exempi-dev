@@ -1,0 +1,11 @@
+# [TITLE]: exempi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exempi)
+include(exempi-bin)
+include(exempi-lib)
+include(pkg-config-bin)
+exempi-dev

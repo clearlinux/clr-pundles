@@ -1,0 +1,10 @@
+# [TITLE]: kcodecs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs)
+include(kcodecs-data)
+include(kcodecs-lib)
+kcodecs-dev

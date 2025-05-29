@@ -1,0 +1,8 @@
+# [TITLE]: linux-aws-extra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linux-aws-license)
+linux-aws-extra

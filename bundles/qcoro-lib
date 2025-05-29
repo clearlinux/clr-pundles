@@ -1,0 +1,15 @@
+# [TITLE]: qcoro-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qcoro-license)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qtwebsockets-lib)
+qcoro-lib

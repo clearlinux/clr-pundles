@@ -10,21 +10,21 @@ include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(gdk-pixbuf)
-accountsservice
-adwaita-icon-theme
+include(accountsservice)
+include(adwaita-icon-theme)
 include(at-spi2-core)
-cantarell-fonts
-clear-font
+include(cantarell-fonts)
+include(clear-font)
 include(gdk-pixbuf)
-hicolor-icon-theme
+include(hicolor-icon-theme)
 include(fonts-basic)
 include(polkit)
 include(wayland-server)
-liberation-fonts
-lightdm-gtk-greeter
-powerline-fonts
-terminus-font
-xcursor-themes
+include(liberation-fonts)
+include(lightdm-gtk-greeter)
+include(powerline-fonts)
+include(terminus-font)
+include(xcursor-themes)
 # end of custom additions
 
 # main package

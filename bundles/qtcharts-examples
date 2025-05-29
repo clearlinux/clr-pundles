@@ -1,0 +1,8 @@
+# [TITLE]: qtcharts-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtcharts-dev)
+qtcharts-examples

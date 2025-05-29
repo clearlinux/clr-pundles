@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libslirp-dev
+include(libslirp-dev)
 include(libglib)

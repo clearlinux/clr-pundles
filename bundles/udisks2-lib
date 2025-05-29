@@ -1,0 +1,22 @@
+# [TITLE]: udisks2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(glib-lib)
+include(libatasmart-lib)
+include(libblockdev-lib)
+include(libc6)
+include(libconfig-lib)
+include(libgcc1)
+include(libgudev-lib)
+include(libstoragemgmt-lib)
+include(polkit-lib)
+include(systemd-extras-libsystemd)
+include(udisks2-data)
+include(udisks2-libexec)
+include(udisks2-license)
+include(util-linux-lib)
+udisks2-lib

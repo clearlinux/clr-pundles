@@ -1,0 +1,11 @@
+# [TITLE]: bpftool-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bpftool-license)
+include(elfutils-lib)
+include(libc6)
+include(zlib-lib)
+bpftool-bin

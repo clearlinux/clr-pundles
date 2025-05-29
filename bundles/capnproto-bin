@@ -1,0 +1,12 @@
+# [TITLE]: capnproto-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(capnproto-dev)
+include(capnproto-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+capnproto-bin

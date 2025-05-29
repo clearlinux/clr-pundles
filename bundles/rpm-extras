@@ -1,0 +1,9 @@
+# [TITLE]: rpm-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(rpm-lib)
+rpm-extras

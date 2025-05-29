@@ -1,0 +1,9 @@
+# [TITLE]: libjuice-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libjuice)
+include(libjuice-lib)
+libjuice-dev

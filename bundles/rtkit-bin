@@ -1,0 +1,12 @@
+# [TITLE]: rtkit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libc6)
+include(rtkit-data)
+include(rtkit-libexec)
+include(rtkit-services)
+rtkit-bin

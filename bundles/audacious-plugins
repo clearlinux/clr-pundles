@@ -1,0 +1,11 @@
+# [TITLE]: audacious-plugins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audacious-plugins-data)
+include(audacious-plugins-lib)
+include(audacious-plugins-license)
+include(audacious-plugins-locales)
+audacious-plugins

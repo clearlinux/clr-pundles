@@ -1,0 +1,9 @@
+# [TITLE]: kdsoap-ws-discovery-client
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdsoap-ws-discovery-client-lib)
+include(kdsoap-ws-discovery-client-license)
+kdsoap-ws-discovery-client

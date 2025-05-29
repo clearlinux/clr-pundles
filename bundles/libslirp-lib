@@ -1,0 +1,10 @@
+# [TITLE]: libslirp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libslirp-license)
+libslirp-lib

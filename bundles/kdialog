@@ -1,0 +1,11 @@
+# [TITLE]: kdialog
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdialog-bin)
+include(kdialog-data)
+include(kdialog-license)
+include(kdialog-locales)
+kdialog

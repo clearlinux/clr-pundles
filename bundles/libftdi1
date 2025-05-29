@@ -1,0 +1,10 @@
+# [TITLE]: libftdi1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libftdi1-bin)
+include(libftdi1-lib)
+include(libftdi1-license)
+libftdi1

@@ -1,0 +1,9 @@
+# [TITLE]: wolfssl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wolfssl-lib)
+include(wolfssl-license)
+wolfssl

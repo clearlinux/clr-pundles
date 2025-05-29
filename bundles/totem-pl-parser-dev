@@ -1,0 +1,14 @@
+# [TITLE]: totem-pl-parser-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libarchive-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+include(totem-pl-parser)
+include(totem-pl-parser-data)
+include(totem-pl-parser-lib)
+totem-pl-parser-dev

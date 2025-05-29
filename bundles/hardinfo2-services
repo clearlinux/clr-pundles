@@ -1,0 +1,8 @@
+# [TITLE]: hardinfo2-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+hardinfo2-services

@@ -1,0 +1,13 @@
+# [TITLE]: OpenCSG-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenCSG-license)
+include(glew-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+OpenCSG-lib

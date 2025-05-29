@@ -1,0 +1,15 @@
+# [TITLE]: avahi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-config)
+include(avahi-data)
+include(avahi-lib)
+include(avahi-license)
+include(avahi-services)
+include(gdbm-lib)
+include(libc6)
+include(libdaemon-lib)
+avahi-bin

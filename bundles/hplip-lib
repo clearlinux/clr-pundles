@@ -1,0 +1,15 @@
+# [TITLE]: hplip-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(cups-lib)
+include(dbus-lib)
+include(hplip-data)
+include(hplip-license)
+include(libc6)
+include(libusb-lib)
+include(net-snmp-lib)
+hplip-lib

@@ -1,0 +1,24 @@
+# [TITLE]: wlroots-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-dev)
+include(lcms2-dev)
+include(libX11-dev)
+include(libdisplay-info-dev)
+include(libdrm-dev)
+include(libglvnd-dev)
+include(libinput-dev)
+include(libliftoff-dev)
+include(libxkbcommon-dev)
+include(mesa-dev)
+include(pixman-dev)
+include(pkg-config-bin)
+include(seatd-dev)
+include(systemd-dev)
+include(wayland-dev)
+include(wlroots)
+include(wlroots-lib)
+wlroots-dev

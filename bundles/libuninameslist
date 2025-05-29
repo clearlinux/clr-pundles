@@ -1,0 +1,9 @@
+# [TITLE]: libuninameslist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libuninameslist-lib)
+include(libuninameslist-license)
+libuninameslist

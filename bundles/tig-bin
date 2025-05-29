@@ -1,0 +1,11 @@
+# [TITLE]: tig-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(readline-lib)
+include(tig-license)
+tig-bin

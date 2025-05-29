@@ -1,0 +1,13 @@
+# [TITLE]: scene-alembic-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(hdf5-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(scene-alembic-license)
+scene-alembic-lib

@@ -7,10 +7,10 @@
 include(os-testsuite)
 include(os-testsuite-graphics)
 include(coreutils)
-iputils
-iw
+include(iputils)
+include(iw)
 include(libcap-bin)
 include(net-tools)
-psmisc
-usbutils
+include(psmisc)
+include(usbutils)
 include(libnl)

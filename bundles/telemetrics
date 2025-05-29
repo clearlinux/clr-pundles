@@ -8,7 +8,7 @@ include(findutils)
 include(lib-openssl)
 
 include(clr-debug-info)
-swupd-probe
-swupd-probe-autostart
+include(swupd-probe)
+include(swupd-probe-autostart)
 # telemetrics-client
 include(curl)

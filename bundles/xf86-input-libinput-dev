@@ -1,0 +1,11 @@
+# [TITLE]: xf86-input-libinput-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xf86-input-libinput)
+include(xf86-input-libinput-data)
+include(xf86-input-libinput-lib)
+xf86-input-libinput-dev

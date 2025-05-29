@@ -1,0 +1,10 @@
+# [TITLE]: kirigami2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kirigami2)
+include(kirigami2-data)
+include(kirigami2-lib)
+kirigami2-dev

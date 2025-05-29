@@ -1,0 +1,23 @@
+# [TITLE]: libcanberra-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libc6)
+include(libcanberra-data)
+include(libtool-lib)
+include(libvorbis-lib)
+include(pango-lib)
+include(pulseaudio-lib)
+libcanberra-lib

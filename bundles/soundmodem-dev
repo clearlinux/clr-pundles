@@ -1,0 +1,9 @@
+# [TITLE]: soundmodem-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(soundmodem)
+include(soundmodem-bin)
+soundmodem-dev

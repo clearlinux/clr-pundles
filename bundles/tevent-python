@@ -1,0 +1,8 @@
+# [TITLE]: tevent-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tevent-python3)
+tevent-python

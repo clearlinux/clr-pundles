@@ -1,0 +1,8 @@
+# [TITLE]: libqalculate-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqalculate-man)
+libqalculate-doc

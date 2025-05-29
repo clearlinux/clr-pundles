@@ -1,0 +1,15 @@
+# [TITLE]: kbookmarks-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbookmarks-data)
+include(kbookmarks-license)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kbookmarks-lib

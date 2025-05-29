@@ -1,0 +1,10 @@
+# [TITLE]: kcoreaddons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-data)
+include(kcoreaddons-lib)
+include(kcoreaddons-license)
+kcoreaddons

@@ -1,0 +1,11 @@
+# [TITLE]: lv2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lv2)
+include(lv2-bin)
+include(lv2-lib)
+include(pkg-config-bin)
+lv2-dev

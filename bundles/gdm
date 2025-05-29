@@ -1,0 +1,16 @@
+# [TITLE]: gdm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdm-bin)
+include(gdm-config)
+include(gdm-data)
+include(gdm-lib)
+include(gdm-libexec)
+include(gdm-license)
+include(gdm-locales)
+include(gdm-services)
+include(xkeyboard-config)
+gdm

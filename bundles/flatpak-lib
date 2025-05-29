@@ -1,0 +1,22 @@
+# [TITLE]: flatpak-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(dconf-lib)
+include(flatpak-data)
+include(flatpak-libexec)
+include(flatpak-license)
+include(glib-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libxml2-lib)
+include(ostree-lib)
+include(systemd-extras-libsystemd)
+include(zstd-lib)
+flatpak-lib

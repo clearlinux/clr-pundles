@@ -1,0 +1,12 @@
+# [TITLE]: redland
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(redland-bin)
+include(redland-data)
+include(redland-lib)
+include(redland-license)
+include(redland-man)
+redland

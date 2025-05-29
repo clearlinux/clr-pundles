@@ -1,0 +1,16 @@
+# [TITLE]: pspp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gsl-soname27-lib)
+include(compat-libxml2-soname2-lib)
+include(gsl-lib)
+include(libc6)
+include(postgresql-lib)
+include(pspp-data)
+include(pspp-license)
+include(readline-lib)
+include(zlib-lib)
+pspp-lib

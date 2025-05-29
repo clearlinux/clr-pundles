@@ -1,0 +1,10 @@
+# [TITLE]: kcompletion
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcompletion-data)
+include(kcompletion-lib)
+include(kcompletion-license)
+kcompletion

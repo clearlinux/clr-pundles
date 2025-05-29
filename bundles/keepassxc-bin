@@ -1,0 +1,25 @@
+# [TITLE]: keepassxc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Botan-lib)
+include(argon2-lib)
+include(keepassxc-data)
+include(keepassxc-license)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+include(minizip-ng-lib)
+include(pcsc-lite-lib)
+include(qrencode-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtsvg-lib)
+include(qtx11extras-lib)
+include(readline-lib)
+include(zlib-lib)
+keepassxc-bin

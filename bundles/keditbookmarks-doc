@@ -1,0 +1,8 @@
+# [TITLE]: keditbookmarks-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(keditbookmarks-man)
+keditbookmarks-doc

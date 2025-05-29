@@ -1,0 +1,14 @@
+# [TITLE]: postfix-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(db)
+include(libc6)
+include(libnsl-lib)
+include(openssl-lib)
+include(postfix-data)
+include(postfix-libexec)
+include(postfix-license)
+postfix-lib

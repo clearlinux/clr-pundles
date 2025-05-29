@@ -1,0 +1,13 @@
+# [TITLE]: TLP-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(TLP-config)
+include(TLP-data)
+include(TLP-license)
+include(TLP-services)
+include(filesystem)
+include(perl-bin)
+TLP-bin

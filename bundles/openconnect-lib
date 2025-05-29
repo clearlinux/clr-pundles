@@ -1,0 +1,23 @@
+# [TITLE]: openconnect-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(gmp-lib)
+include(gnutls-lib)
+include(krb5-lib)
+include(libc6)
+include(libproxy-lib)
+include(libtasn1-lib)
+include(lz4-lib)
+include(nettle-lib)
+include(openconnect-data)
+include(openconnect-libexec)
+include(openconnect-license)
+include(p11-kit-lib)
+include(stoken-lib)
+include(tpm2-tss-lib)
+include(zlib-lib)
+openconnect-lib

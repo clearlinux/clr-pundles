@@ -1,0 +1,12 @@
+# [TITLE]: libgnomekbd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgnomekbd-bin)
+include(libgnomekbd-data)
+include(libgnomekbd-lib)
+include(libgnomekbd-license)
+include(libgnomekbd-locales)
+libgnomekbd

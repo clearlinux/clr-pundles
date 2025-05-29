@@ -1,0 +1,15 @@
+# [TITLE]: gnome-session
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dconf)
+include(gnome-session-bin)
+include(gnome-session-data)
+include(gnome-session-libexec)
+include(gnome-session-license)
+include(gnome-session-locales)
+include(gnome-session-man)
+include(gnome-session-services)
+gnome-session

@@ -1,0 +1,10 @@
+# [TITLE]: quagga-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(quagga)
+include(quagga-bin)
+include(quagga-lib)
+quagga-dev

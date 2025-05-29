@@ -1,0 +1,14 @@
+# [TITLE]: PDAL-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PDAL)
+include(PDAL-bin)
+include(PDAL-data)
+include(PDAL-lib)
+include(gdal-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+PDAL-dev

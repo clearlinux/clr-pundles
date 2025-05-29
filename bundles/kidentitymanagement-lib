@@ -1,0 +1,23 @@
+# [TITLE]: kidentitymanagement-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kidentitymanagement-data)
+include(kidentitymanagement-license)
+include(kio-lib)
+include(kpimtextedit-lib)
+include(ktextaddons-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kidentitymanagement-lib

@@ -1,0 +1,14 @@
+# [TITLE]: zathura-pdf-poppler-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(girara-lib)
+include(glib-lib)
+include(libc6)
+include(poppler-lib)
+include(zathura-pdf-poppler-data)
+include(zathura-pdf-poppler-license)
+zathura-pdf-poppler-lib

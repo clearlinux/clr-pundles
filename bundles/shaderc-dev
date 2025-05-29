@@ -1,0 +1,11 @@
+# [TITLE]: shaderc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(shaderc)
+include(shaderc-bin)
+include(shaderc-lib)
+shaderc-dev

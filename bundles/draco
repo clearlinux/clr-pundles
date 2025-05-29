@@ -1,0 +1,11 @@
+# [TITLE]: draco
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(draco-bin)
+include(draco-data)
+include(draco-lib)
+include(draco-license)
+draco

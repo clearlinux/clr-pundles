@@ -1,0 +1,11 @@
+# [TITLE]: modsecurity-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(modsecurity)
+include(modsecurity-bin)
+include(modsecurity-lib)
+include(pkg-config-bin)
+modsecurity-dev

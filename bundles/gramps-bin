@@ -1,0 +1,9 @@
+# [TITLE]: gramps-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gramps-data)
+include(gramps-license)
+gramps-bin

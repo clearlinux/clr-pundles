@@ -1,0 +1,10 @@
+# [TITLE]: SDL3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL3-data)
+include(SDL3-lib)
+include(SDL3-license)
+SDL3

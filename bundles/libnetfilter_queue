@@ -1,0 +1,9 @@
+# [TITLE]: libnetfilter_queue
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnetfilter_queue-lib)
+include(libnetfilter_queue-license)
+libnetfilter_queue

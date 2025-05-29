@@ -14,14 +14,14 @@ include(dnf)
 
 # common requirements
 include(cpio)
-diffstat
+include(diffstat)
 include(make)
 include(plzip)
 pypi-six
 include(zstd)
 include(gpgme)
 # autospec requirements
-abireport
+include(abireport)
 include(binutils)
 include(pypi-chardet)
 include(pypi-clr_artifact)
@@ -30,7 +30,7 @@ include(pypi-jinja2)
 include(pypi-pycurl)
 include(pypi-toml)
 include(pypi-urllib3)
-python-zstandard
+include(python-zstandard)
 include(python3-xz-lzma)
 # koji command line utility
 koji

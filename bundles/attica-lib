@@ -1,0 +1,12 @@
+# [TITLE]: attica-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attica-data)
+include(attica-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+attica-lib

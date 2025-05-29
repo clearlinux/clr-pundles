@@ -1,0 +1,15 @@
+# [TITLE]: gvfs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcr-lib)
+include(glib-lib)
+include(gvfs-data)
+include(gvfs-libexec)
+include(gvfs-license)
+include(libc6)
+include(libgcc1)
+include(libsecret-lib)
+gvfs-lib

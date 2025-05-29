@@ -1,0 +1,10 @@
+# [TITLE]: telepathy-glib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(telepathy-glib-data)
+include(telepathy-glib-lib)
+include(telepathy-glib-license)
+telepathy-glib

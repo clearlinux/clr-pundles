@@ -1,0 +1,22 @@
+# [TITLE]: nextcloud-desktop-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(libc6)
+include(libgcc1)
+include(libp11-lib)
+include(libstdc++)
+include(nextcloud-desktop-data)
+include(nextcloud-desktop-license)
+include(openssl-lib)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(qt6svg-lib)
+include(qt6websockets-lib)
+include(qtkeychain-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+nextcloud-desktop-lib

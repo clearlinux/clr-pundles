@@ -1,0 +1,9 @@
+# [TITLE]: yaml-cpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yaml-cpp-lib)
+include(yaml-cpp-license)
+yaml-cpp

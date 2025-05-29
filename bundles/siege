@@ -1,0 +1,11 @@
+# [TITLE]: siege
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(siege-bin)
+include(siege-data)
+include(siege-license)
+include(siege-man)
+siege

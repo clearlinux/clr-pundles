@@ -1,0 +1,10 @@
+# [TITLE]: file-roller-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(file-roller-license)
+include(glib-lib)
+include(libc6)
+file-roller-libexec

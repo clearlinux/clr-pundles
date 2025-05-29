@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libmbim-dev
+include(libmbim-dev)
 include(libglib)

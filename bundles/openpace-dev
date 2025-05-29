@@ -1,0 +1,11 @@
+# [TITLE]: openpace-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openpace)
+include(openpace-bin)
+include(openpace-lib)
+include(openssl-dev)
+openpace-dev

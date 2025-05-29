@@ -1,0 +1,10 @@
+# [TITLE]: rttr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rttr-data)
+include(rttr-lib)
+include(rttr-license)
+rttr

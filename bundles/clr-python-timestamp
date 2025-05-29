@@ -1,0 +1,11 @@
+# [TITLE]: clr-python-timestamp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-avx-tools)
+include(clr-python-timestamp-bin)
+include(clr-python-timestamp-license)
+include(python3)
+clr-python-timestamp

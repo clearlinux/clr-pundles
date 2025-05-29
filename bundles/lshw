@@ -1,0 +1,12 @@
+# [TITLE]: lshw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lshw-bin)
+include(lshw-data)
+include(lshw-license)
+include(lshw-locales)
+include(lshw-man)
+lshw

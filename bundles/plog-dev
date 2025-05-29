@@ -1,0 +1,8 @@
+# [TITLE]: plog-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plog)
+plog-dev

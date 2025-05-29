@@ -1,0 +1,14 @@
+# [TITLE]: rebootmgr-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libc6)
+include(libeconf-lib)
+include(rebootmgr-config)
+include(rebootmgr-data)
+include(rebootmgr-license)
+include(rebootmgr-services)
+rebootmgr-bin

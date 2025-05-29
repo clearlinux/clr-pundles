@@ -1,0 +1,13 @@
+# [TITLE]: LibreCAD-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(muparser-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+LibreCAD-data

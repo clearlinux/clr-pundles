@@ -1,0 +1,9 @@
+# [TITLE]: icon-naming-utils-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icon-naming-utils-license)
+include(perl-bin)
+icon-naming-utils-libexec

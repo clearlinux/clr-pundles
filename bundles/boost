@@ -1,0 +1,14 @@
+# [TITLE]: boost
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+boost

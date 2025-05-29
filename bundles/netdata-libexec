@@ -1,0 +1,29 @@
+# [TITLE]: netdata-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(cups-lib)
+include(curl-lib)
+include(filesystem)
+include(freeipmi-lib)
+include(gcc-libs-math)
+include(json-c-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libmnl-lib)
+include(libnetfilter_acct-lib)
+include(libstdc++)
+include(libuv-lib)
+include(lz4-lib)
+include(netdata-license)
+include(openssl-lib)
+include(systemd-extras-libsystemd)
+include(util-linux-lib)
+include(yaml-lib)
+include(zlib-lib)
+include(zstd-lib)
+netdata-libexec

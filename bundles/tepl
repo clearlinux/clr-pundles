@@ -1,0 +1,11 @@
+# [TITLE]: tepl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tepl-data)
+include(tepl-lib)
+include(tepl-license)
+include(tepl-locales)
+tepl

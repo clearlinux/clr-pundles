@@ -1,0 +1,13 @@
+# [TITLE]: tpm2-abrmd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tpm2-abrmd-bin)
+include(tpm2-abrmd-data)
+include(tpm2-abrmd-lib)
+include(tpm2-abrmd-license)
+include(tpm2-abrmd-man)
+include(tpm2-abrmd-services)
+tpm2-abrmd

@@ -1,0 +1,14 @@
+# [TITLE]: tpm2-tss-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-dev)
+include(json-c-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+include(tpm2-tss-dev)
+include(tpm2-tss-lib32)
+include(util-linux-dev)
+tpm2-tss-dev32

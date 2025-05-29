@@ -1,0 +1,12 @@
+# [TITLE]: kfilemetadata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kfilemetadata-bin)
+include(kfilemetadata-data)
+include(kfilemetadata-lib)
+include(kfilemetadata-license)
+include(kfilemetadata-locales)
+kfilemetadata

@@ -1,0 +1,9 @@
+# [TITLE]: fuse-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fuse-license)
+include(glibc-libc32)
+fuse-lib32

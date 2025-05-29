@@ -1,0 +1,10 @@
+# [TITLE]: nlohmann_json-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nlohmann_json)
+include(nlohmann_json-data)
+include(pkg-config-bin)
+nlohmann_json-dev

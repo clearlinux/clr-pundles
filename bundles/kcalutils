@@ -1,0 +1,11 @@
+# [TITLE]: kcalutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcalutils-data)
+include(kcalutils-lib)
+include(kcalutils-license)
+include(kcalutils-locales)
+kcalutils

@@ -1,0 +1,12 @@
+# [TITLE]: columbiad-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(columbiad-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+columbiad-bin

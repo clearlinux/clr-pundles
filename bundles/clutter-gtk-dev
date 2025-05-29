@@ -1,0 +1,13 @@
+# [TITLE]: clutter-gtk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clutter-dev)
+include(clutter-gtk)
+include(clutter-gtk-data)
+include(clutter-gtk-lib)
+include(gtk3-dev)
+include(pkg-config-bin)
+clutter-gtk-dev

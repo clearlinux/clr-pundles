@@ -1,0 +1,15 @@
+# [TITLE]: xnec2c-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(pango-lib)
+include(xnec2c-data)
+include(xnec2c-license)
+xnec2c-bin

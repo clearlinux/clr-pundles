@@ -1,0 +1,15 @@
+# [TITLE]: iio-sensor-proxy-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(iio-sensor-proxy-config)
+include(iio-sensor-proxy-data)
+include(iio-sensor-proxy-libexec)
+include(iio-sensor-proxy-license)
+include(iio-sensor-proxy-services)
+include(libc6)
+include(libgcc1)
+iio-sensor-proxy-bin

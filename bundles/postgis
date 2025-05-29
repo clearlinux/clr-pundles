@@ -1,0 +1,12 @@
+# [TITLE]: postgis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(postgis-bin)
+include(postgis-data)
+include(postgis-lib)
+include(postgis-license)
+include(postgis-man)
+postgis

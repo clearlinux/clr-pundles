@@ -1,0 +1,16 @@
+# [TITLE]: xfwm4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libxfce4util-lib)
+include(xfwm4-bin)
+include(xfwm4-data)
+include(xfwm4-license)
+include(xfwm4-locales)
+xfwm4

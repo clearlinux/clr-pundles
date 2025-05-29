@@ -1,0 +1,14 @@
+# [TITLE]: grilo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(grilo-data)
+include(grilo-license)
+include(libc6)
+include(libgcc1)
+include(libsoup-lib)
+include(totem-pl-parser-lib)
+grilo-lib

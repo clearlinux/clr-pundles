@@ -1,0 +1,8 @@
+# [TITLE]: colm-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colm-dev)
+colm-staticdev

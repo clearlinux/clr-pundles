@@ -1,0 +1,13 @@
+# [TITLE]: nut-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nut)
+include(nut-bin)
+include(nut-data)
+include(nut-lib)
+include(openssl-dev)
+include(pkg-config-bin)
+nut-dev

@@ -1,0 +1,19 @@
+# [TITLE]: grpc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(c-ares-lib)
+include(grpc-data)
+include(grpc-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(protobuf-lib)
+include(re2-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+grpc-lib

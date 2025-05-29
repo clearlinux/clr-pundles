@@ -1,0 +1,15 @@
+# [TITLE]: tesseract-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(leptonica-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(tesseract-data)
+include(tesseract-license)
+tesseract-lib

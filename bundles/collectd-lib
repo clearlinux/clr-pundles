@@ -1,0 +1,30 @@
+# [TITLE]: collectd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(collectd-data)
+include(collectd-license)
+include(curl-lib)
+include(glib-lib)
+include(jansson-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libgcrypt-lib)
+include(libmicrohttpd-lib)
+include(libmnl-lib)
+include(libnotify-lib)
+include(libpcap-lib)
+include(librdkafka-lib)
+include(lua-lib)
+include(openldap-lib)
+include(openssl-lib)
+include(perl-perl)
+include(protobuf-c-lib)
+include(python3-lib)
+include(rrdtool-lib)
+include(systemd-lib)
+include(yajl-lib)
+collectd-lib

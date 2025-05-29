@@ -1,0 +1,8 @@
+# [TITLE]: Remmina-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+Remmina-data

@@ -1,0 +1,15 @@
+# [TITLE]: poco-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mariadb-extras-clientlib)
+include(openssl-lib)
+include(poco-license)
+include(postgresql-lib)
+include(unixODBC-lib)
+poco-lib

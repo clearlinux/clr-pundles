@@ -1,0 +1,12 @@
+# [TITLE]: quazip-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qtbase-dev)
+include(quazip)
+include(quazip-lib)
+include(zlib-dev)
+quazip-dev

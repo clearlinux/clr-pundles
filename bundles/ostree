@@ -1,0 +1,19 @@
+# [TITLE]: ostree
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(ostree-bin)
+include(ostree-config)
+include(ostree-data)
+include(ostree-lib)
+include(ostree-libexec)
+include(ostree-license)
+include(ostree-man)
+include(ostree-services)
+include(systemd-extras-libsystemd)
+ostree

@@ -1,0 +1,10 @@
+# [TITLE]: ocamlbuild
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ocamlbuild-bin)
+include(ocamlbuild-license)
+include(ocamlbuild-man)
+ocamlbuild

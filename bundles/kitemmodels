@@ -1,0 +1,10 @@
+# [TITLE]: kitemmodels
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kitemmodels-data)
+include(kitemmodels-lib)
+include(kitemmodels-license)
+kitemmodels

@@ -1,0 +1,12 @@
+# [TITLE]: kmag
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmag-bin)
+include(kmag-data)
+include(kmag-license)
+include(kmag-locales)
+include(kmag-man)
+kmag

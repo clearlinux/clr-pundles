@@ -1,0 +1,12 @@
+# [TITLE]: signond-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(signond-data)
+include(signond-license)
+signond-lib

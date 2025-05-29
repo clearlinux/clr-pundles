@@ -1,0 +1,26 @@
+# [TITLE]: wine-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(glibc-libc32)
+include(libX11-lib)
+include(libX11-lib32)
+include(libc6)
+include(libgcc1)
+include(libgphoto2-lib)
+include(libxkbcommon-lib)
+include(libxkbcommon-lib32)
+include(ocl-icd-lib)
+include(pulseaudio-lib)
+include(pulseaudio-lib32)
+include(sane-backends-lib)
+include(systemd-lib)
+include(systemd-lib32)
+include(wayland-lib)
+include(wayland-lib32)
+include(wine-data)
+include(wine-license)
+wine-lib

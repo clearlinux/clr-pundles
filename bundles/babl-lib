@@ -1,0 +1,11 @@
+# [TITLE]: babl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babl-data)
+include(babl-license)
+include(lcms2-lib)
+include(libc6)
+babl-lib

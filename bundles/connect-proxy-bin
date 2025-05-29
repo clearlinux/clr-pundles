@@ -1,0 +1,9 @@
+# [TITLE]: connect-proxy-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(connect-proxy-license)
+include(libc6)
+connect-proxy-bin

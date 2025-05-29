@@ -1,0 +1,9 @@
+# [TITLE]: libcacard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcacard-lib)
+include(libcacard-license)
+libcacard

@@ -1,0 +1,8 @@
+# [TITLE]: gnome-remote-desktop-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+gnome-remote-desktop-services

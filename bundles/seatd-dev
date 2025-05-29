@@ -1,0 +1,11 @@
+# [TITLE]: seatd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(seatd)
+include(seatd-bin)
+include(seatd-lib)
+include(systemd-dev)
+seatd-dev

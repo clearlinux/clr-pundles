@@ -1,0 +1,11 @@
+# [TITLE]: libuser-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libuser-lib)
+include(python3-core)
+libuser-python3

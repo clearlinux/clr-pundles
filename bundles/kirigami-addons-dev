@@ -1,0 +1,10 @@
+# [TITLE]: kirigami-addons-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kirigami-addons)
+include(kirigami-addons-data)
+include(kirigami-addons-lib)
+kirigami-addons-dev

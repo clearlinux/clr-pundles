@@ -1,0 +1,10 @@
+# [TITLE]: lsof-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtirpc-lib)
+include(lsof-license)
+lsof-bin

@@ -1,0 +1,10 @@
+# [TITLE]: kapidox-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(kapidox-license)
+include(python3-core)
+kapidox-bin

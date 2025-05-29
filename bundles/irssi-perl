@@ -1,0 +1,11 @@
+# [TITLE]: irssi-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(irssi)
+include(libc6)
+include(perl-perl)
+irssi-perl

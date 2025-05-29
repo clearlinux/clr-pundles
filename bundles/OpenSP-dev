@@ -1,0 +1,11 @@
+# [TITLE]: OpenSP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenSP)
+include(OpenSP-bin)
+include(OpenSP-data)
+include(OpenSP-lib)
+OpenSP-dev

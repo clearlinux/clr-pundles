@@ -1,0 +1,11 @@
+# [TITLE]: redumper-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(redumper-license)
+redumper-bin

@@ -1,0 +1,10 @@
+# [TITLE]: containerd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(containerd-license)
+include(containerd-services)
+include(libc6)
+containerd-bin

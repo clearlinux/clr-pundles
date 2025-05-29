@@ -1,0 +1,12 @@
+# [TITLE]: libadwaita
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libadwaita-bin)
+include(libadwaita-data)
+include(libadwaita-lib)
+include(libadwaita-license)
+include(libadwaita-locales)
+libadwaita

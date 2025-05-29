@@ -1,0 +1,13 @@
+# [TITLE]: mozjs102
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mozjs102-bin)
+include(mozjs102-lib)
+include(pypi-psutil)
+include(pypi-pyasn1)
+include(pypi-pyopenssl)
+include(pypi-wheel)
+mozjs102

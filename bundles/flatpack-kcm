@@ -1,0 +1,11 @@
+# [TITLE]: flatpack-kcm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flatpack-kcm-data)
+include(flatpack-kcm-lib)
+include(flatpack-kcm-license)
+include(flatpack-kcm-locales)
+flatpack-kcm

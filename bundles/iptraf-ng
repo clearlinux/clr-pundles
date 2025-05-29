@@ -1,0 +1,10 @@
+# [TITLE]: iptraf-ng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iptraf-ng-bin)
+include(iptraf-ng-license)
+include(iptraf-ng-man)
+iptraf-ng

@@ -1,0 +1,10 @@
+# [TITLE]: libvirt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvirt-python-license)
+include(libvirt-python-python)
+include(libvirt-python-python3)
+libvirt-python

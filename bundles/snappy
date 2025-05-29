@@ -1,0 +1,9 @@
+# [TITLE]: snappy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(snappy-lib)
+include(snappy-license)
+snappy

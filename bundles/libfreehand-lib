@@ -1,0 +1,14 @@
+# [TITLE]: libfreehand-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lcms2-lib)
+include(libc6)
+include(libfreehand-license)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+include(zlib-lib)
+libfreehand-lib

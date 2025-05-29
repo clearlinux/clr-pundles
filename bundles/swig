@@ -1,0 +1,10 @@
+# [TITLE]: swig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(swig-bin)
+include(swig-data)
+include(swig-license)
+swig

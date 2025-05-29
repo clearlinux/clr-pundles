@@ -1,0 +1,9 @@
+# [TITLE]: qt6sensors
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6sensors-lib)
+include(qt6sensors-license)
+qt6sensors

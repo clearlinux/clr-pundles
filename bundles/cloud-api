@@ -7,9 +7,9 @@
 include(python3-basic)
 include(libstdcpp)
 
-awscli
-amazon-efs-utils
-boto3
+include(awscli)
+include(amazon-efs-utils)
+include(boto3)
 include(botocore)
 # testing use only:
 # hypothesis

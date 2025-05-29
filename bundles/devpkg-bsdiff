@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-bsdiff-dev
+include(bsdiff-dev)
 include(xz)

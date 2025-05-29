@@ -1,0 +1,8 @@
+# [TITLE]: python-zstandard-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-zstandard-python3)
+python-zstandard-python

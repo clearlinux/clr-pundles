@@ -1,0 +1,9 @@
+# [TITLE]: clr-installer-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+include(systemd-bin)
+clr-installer-services

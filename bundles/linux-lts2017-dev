@@ -1,0 +1,17 @@
+# [TITLE]: linux-lts2017-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(elfutils-lib)
+include(filesystem)
+include(gawk-bin)
+include(libc6)
+include(linux-lts2017)
+include(linux-lts2017-extra)
+include(linux-lts2017-license)
+include(openssl-lib)
+include(perl-bin)
+linux-lts2017-dev

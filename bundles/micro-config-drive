@@ -1,0 +1,13 @@
+# [TITLE]: micro-config-drive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-bin)
+include(micro-config-drive-autostart)
+include(micro-config-drive-bin)
+include(micro-config-drive-license)
+include(micro-config-drive-man)
+include(micro-config-drive-services)
+micro-config-drive

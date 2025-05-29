@@ -1,0 +1,16 @@
+# [TITLE]: libnma-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-lib)
+include(cairo-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(gtk4-lib)
+include(libc6)
+include(libgcc1)
+include(libnma-data)
+include(libnma-license)
+libnma-lib

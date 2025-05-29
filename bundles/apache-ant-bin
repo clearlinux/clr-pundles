@@ -1,0 +1,9 @@
+# [TITLE]: apache-ant-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apache-ant-data)
+include(apache-ant-license)
+apache-ant-bin

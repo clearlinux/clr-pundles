@@ -1,0 +1,13 @@
+# [TITLE]: libskk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libgee-dev)
+include(libskk)
+include(libskk-bin)
+include(libskk-data)
+include(libskk-lib)
+libskk-dev

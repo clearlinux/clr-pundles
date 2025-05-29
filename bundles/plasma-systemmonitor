@@ -1,0 +1,12 @@
+# [TITLE]: plasma-systemmonitor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-systemmonitor-bin)
+include(plasma-systemmonitor-data)
+include(plasma-systemmonitor-lib)
+include(plasma-systemmonitor-license)
+include(plasma-systemmonitor-locales)
+plasma-systemmonitor

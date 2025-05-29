@@ -1,0 +1,9 @@
+# [TITLE]: wlroots
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wlroots-lib)
+include(wlroots-license)
+wlroots

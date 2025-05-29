@@ -1,0 +1,9 @@
+# [TITLE]: gdk-pixbuf-xlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-xlib-lib)
+include(gdk-pixbuf-xlib-license)
+gdk-pixbuf-xlib

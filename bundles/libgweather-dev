@@ -1,0 +1,16 @@
+# [TITLE]: libgweather-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geocode-glib-dev)
+include(glib-dev)
+include(json-glib-dev)
+include(libgweather)
+include(libgweather-data)
+include(libgweather-lib)
+include(libsoup-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+libgweather-dev

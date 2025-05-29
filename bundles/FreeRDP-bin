@@ -1,0 +1,17 @@
+# [TITLE]: FreeRDP-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP-data)
+include(FreeRDP-lib)
+include(FreeRDP-license)
+include(SDL2-lib)
+include(SDL2_ttf-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+FreeRDP-bin

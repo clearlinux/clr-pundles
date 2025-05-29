@@ -1,0 +1,12 @@
+# [TITLE]: gperftools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gperftools-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libunwind-lib)
+gperftools-lib

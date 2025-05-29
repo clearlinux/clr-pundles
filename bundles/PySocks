@@ -1,0 +1,10 @@
+# [TITLE]: PySocks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PySocks-license)
+include(PySocks-python)
+include(PySocks-python3)
+PySocks

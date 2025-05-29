@@ -1,0 +1,9 @@
+# [TITLE]: stack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(stack-bin)
+include(stack-license)
+stack

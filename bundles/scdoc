@@ -1,0 +1,10 @@
+# [TITLE]: scdoc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(scdoc-bin)
+include(scdoc-license)
+include(scdoc-man)
+scdoc

@@ -1,0 +1,15 @@
+# [TITLE]: totem-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk3-dev)
+include(pkg-config-bin)
+include(totem)
+include(totem-bin)
+include(totem-data)
+include(totem-lib)
+include(totem-pl-parser-dev)
+totem-dev

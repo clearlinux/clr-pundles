@@ -1,0 +1,13 @@
+# [TITLE]: libabw-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libabw-lib)
+include(libabw-license)
+include(libc6)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+libabw-bin

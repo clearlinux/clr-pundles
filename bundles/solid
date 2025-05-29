@@ -1,0 +1,11 @@
+# [TITLE]: solid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(solid-bin)
+include(solid-data)
+include(solid-lib)
+include(solid-license)
+solid

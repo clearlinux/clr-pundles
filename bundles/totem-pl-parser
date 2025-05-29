@@ -1,0 +1,12 @@
+# [TITLE]: totem-pl-parser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(totem-pl-parser-data)
+include(totem-pl-parser-lib)
+include(totem-pl-parser-libexec)
+include(totem-pl-parser-license)
+include(totem-pl-parser-locales)
+totem-pl-parser

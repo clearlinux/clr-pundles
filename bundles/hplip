@@ -1,0 +1,26 @@
+# [TITLE]: hplip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyQt5)
+include(coreutils-bin)
+include(cups-lib)
+include(dbus-lib)
+include(dbus-python)
+include(filesystem)
+include(hplip-bin)
+include(hplip-config)
+include(hplip-data)
+include(hplip-lib)
+include(hplip-license)
+include(hplip-python)
+include(hplip-python3)
+include(hplip-services)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(zlib-lib)
+hplip

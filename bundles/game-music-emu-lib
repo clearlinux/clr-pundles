@@ -1,0 +1,11 @@
+# [TITLE]: game-music-emu-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(game-music-emu-license)
+include(libc6)
+include(libstdc++)
+include(zlib-lib)
+game-music-emu-lib

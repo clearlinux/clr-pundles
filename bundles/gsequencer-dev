@@ -1,0 +1,26 @@
+# [TITLE]: gsequencer-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-dev)
+include(cairo-dev)
+include(fontconfig-dev)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(gsequencer)
+include(gsequencer-bin)
+include(gsequencer-data)
+include(gsequencer-dev)
+include(gsequencer-lib)
+include(gstreamer-dev)
+include(gtk4-dev)
+include(jack2-dev)
+include(libinstpatch-dev)
+include(libsndfile-dev)
+include(libsoup-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+include(util-linux-dev)
+gsequencer-dev

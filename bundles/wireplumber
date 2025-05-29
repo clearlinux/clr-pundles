@@ -1,0 +1,14 @@
+# [TITLE]: wireplumber
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pipewire)
+include(wireplumber-bin)
+include(wireplumber-data)
+include(wireplumber-lib)
+include(wireplumber-license)
+include(wireplumber-locales)
+include(wireplumber-services)
+wireplumber

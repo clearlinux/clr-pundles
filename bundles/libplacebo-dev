@@ -1,0 +1,14 @@
+# [TITLE]: libplacebo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-dev)
+include(lcms2-dev)
+include(libplacebo)
+include(libplacebo-lib)
+include(libunwind-dev)
+include(pkg-config-bin)
+include(shaderc-dev)
+libplacebo-dev

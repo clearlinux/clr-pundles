@@ -1,0 +1,10 @@
+# [TITLE]: liburing-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liburing)
+include(liburing-lib)
+include(pkg-config-bin)
+liburing-dev

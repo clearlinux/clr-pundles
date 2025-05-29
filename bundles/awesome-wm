@@ -1,0 +1,39 @@
+# [TITLE]: awesome-wm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(awesome-wm-bin)
+include(awesome-wm-data)
+include(awesome-wm-license)
+include(cairo-lib)
+include(dbus-lib)
+include(expat-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(graphite-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libdrm-lib)
+include(libffi-lib)
+include(libgcrypt-lib)
+include(libgpg-error-lib)
+include(libpng-lib)
+include(libxdg-basedir)
+include(libxkbcommon-lib)
+include(lualgi)
+include(mesa-lib)
+include(pcre-lib)
+include(pixman-lib)
+include(startup-notification-lib)
+include(systemd-lib)
+include(util-linux-lib)
+include(wayland-lib)
+include(xcb-util-cursor-lib)
+include(xcb-util-xrm)
+include(xz-lib)
+include(zlib-lib)
+awesome-wm

@@ -1,0 +1,12 @@
+# [TITLE]: tokyocabinet-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-dev)
+include(tokyocabinet)
+include(tokyocabinet-bin)
+include(tokyocabinet-data)
+include(tokyocabinet-lib)
+tokyocabinet-dev

@@ -1,0 +1,10 @@
+# [TITLE]: libdaemon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdaemon)
+include(libdaemon-lib)
+include(pkg-config-bin)
+libdaemon-dev

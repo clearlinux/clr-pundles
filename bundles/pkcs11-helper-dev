@@ -1,0 +1,12 @@
+# [TITLE]: pkcs11-helper-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-dev)
+include(openssl-dev)
+include(pkcs11-helper)
+include(pkcs11-helper-lib)
+include(pkg-config-bin)
+pkcs11-helper-dev

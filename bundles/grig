@@ -1,0 +1,12 @@
+# [TITLE]: grig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grig-bin)
+include(grig-data)
+include(grig-license)
+include(grig-locales)
+include(grig-man)
+grig

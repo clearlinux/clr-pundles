@@ -1,0 +1,19 @@
+# [TITLE]: nmap-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libpcap-lib)
+include(libssh2-lib)
+include(libstdc++)
+include(nmap-data)
+include(nmap-license)
+include(nmap-python3)
+include(openssl-lib)
+include(pcre2-lib)
+include(python3-core)
+include(zlib-lib)
+nmap-bin

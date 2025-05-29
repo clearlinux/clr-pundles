@@ -1,0 +1,11 @@
+# [TITLE]: fltk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fltk-bin)
+include(fltk-lib)
+include(fltk-license)
+include(fltk-man)
+fltk

@@ -1,0 +1,9 @@
+# [TITLE]: glog
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glog-lib)
+include(glog-license)
+glog

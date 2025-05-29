@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-ntfs-3g-dev
+include(ntfs-3g-dev)

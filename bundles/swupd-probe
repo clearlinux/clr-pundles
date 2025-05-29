@@ -1,0 +1,12 @@
+# [TITLE]: swupd-probe
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(swupd-probe-autostart)
+include(swupd-probe-bin)
+include(swupd-probe-license)
+include(swupd-probe-man)
+include(swupd-probe-services)
+swupd-probe

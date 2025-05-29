@@ -1,0 +1,8 @@
+# [TITLE]: cmus-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmus-man)
+cmus-doc

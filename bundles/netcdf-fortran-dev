@@ -1,0 +1,12 @@
+# [TITLE]: netcdf-fortran-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(netcdf-dev)
+include(netcdf-fortran)
+include(netcdf-fortran-bin)
+include(netcdf-fortran-lib)
+include(pkg-config-bin)
+netcdf-fortran-dev

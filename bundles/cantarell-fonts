@@ -1,0 +1,9 @@
+# [TITLE]: cantarell-fonts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cantarell-fonts-data)
+include(cantarell-fonts-license)
+cantarell-fonts

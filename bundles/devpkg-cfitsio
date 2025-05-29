@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-cfitsio-dev
+include(cfitsio-dev)
 include(curl)

@@ -1,0 +1,11 @@
+# [TITLE]: libfido2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfido2-bin)
+include(libfido2-config)
+include(libfido2-lib)
+include(libfido2-license)
+libfido2

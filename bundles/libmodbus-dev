@@ -1,0 +1,9 @@
+# [TITLE]: libmodbus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmodbus)
+include(libmodbus-lib)
+libmodbus-dev

@@ -1,0 +1,11 @@
+# [TITLE]: libliftoff-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdrm-dev)
+include(libliftoff)
+include(libliftoff-lib)
+include(pkg-config-bin)
+libliftoff-dev

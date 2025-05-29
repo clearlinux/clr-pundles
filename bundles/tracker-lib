@@ -1,0 +1,18 @@
+# [TITLE]: tracker-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(icu4c-lib)
+include(json-glib-lib)
+include(libc6)
+include(libsoup-lib)
+include(sqlite-autoconf-lib)
+include(tracker-data)
+include(tracker-libexec)
+include(tracker-license)
+tracker-lib

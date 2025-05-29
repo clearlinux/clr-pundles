@@ -10,14 +10,14 @@ include(libstdcpp)
 include(perl-basic)
 include(libglib)
 
-dapl
-libvma
-mstflint
-opa-fm
-opa-psm2
-opensm
-perftest
-rdma-core
+include(dapl)
+include(libvma)
+include(mstflint)
+include(opa-fm)
+include(opa-psm2)
+include(opensm)
+include(perftest)
+include(rdma-core)
 include(libnl)
 include(libxml2)
 include(numactl)

@@ -1,0 +1,13 @@
+# [TITLE]: gcr-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcr-lib)
+include(gcr-license)
+include(glib-lib)
+include(libc6)
+include(libsecret-lib)
+include(systemd-extras-libsystemd)
+gcr-libexec

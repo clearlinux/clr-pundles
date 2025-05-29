@@ -1,0 +1,12 @@
+# [TITLE]: re2c-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(re2c-data)
+include(re2c-license)
+re2c-bin

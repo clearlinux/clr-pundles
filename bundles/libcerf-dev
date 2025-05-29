@@ -1,0 +1,9 @@
+# [TITLE]: libcerf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcerf)
+include(libcerf-lib)
+libcerf-dev

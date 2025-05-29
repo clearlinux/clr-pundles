@@ -1,0 +1,10 @@
+# [TITLE]: blktrace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(blktrace-bin)
+include(blktrace-license)
+include(blktrace-man)
+blktrace

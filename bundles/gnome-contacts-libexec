@@ -1,0 +1,15 @@
+# [TITLE]: gnome-contacts-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-lib)
+include(folks-lib)
+include(glib-lib)
+include(gnome-contacts-license)
+include(gnome-online-accounts-lib)
+include(gtk4-lib)
+include(libc6)
+include(libgee-lib)
+gnome-contacts-libexec

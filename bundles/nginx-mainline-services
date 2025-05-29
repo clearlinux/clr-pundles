@@ -1,0 +1,8 @@
+# [TITLE]: nginx-mainline-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+nginx-mainline-services

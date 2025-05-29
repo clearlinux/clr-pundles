@@ -1,0 +1,22 @@
+# [TITLE]: dovecot-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(coreutils-bin)
+include(dovecot-config)
+include(dovecot-data)
+include(dovecot-lib)
+include(dovecot-libexec)
+include(dovecot-license)
+include(dovecot-services)
+include(libc6)
+include(libcap-lib)
+include(libxcrypt-lib)
+include(lz4-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+include(zstd-lib)
+dovecot-bin

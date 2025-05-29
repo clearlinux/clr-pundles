@@ -1,0 +1,11 @@
+# [TITLE]: plasma-pa
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-pa-data)
+include(plasma-pa-lib)
+include(plasma-pa-license)
+include(plasma-pa-locales)
+plasma-pa

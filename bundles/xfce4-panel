@@ -1,0 +1,18 @@
+# [TITLE]: xfce4-panel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(xfce4-panel-bin)
+include(xfce4-panel-data)
+include(xfce4-panel-lib)
+include(xfce4-panel-license)
+include(xfce4-panel-locales)
+include(xfconf-lib)
+xfce4-panel

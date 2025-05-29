@@ -1,0 +1,14 @@
+# [TITLE]: liblangtag-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(liblangtag)
+include(liblangtag-data)
+include(liblangtag-dev)
+include(liblangtag-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+liblangtag-dev

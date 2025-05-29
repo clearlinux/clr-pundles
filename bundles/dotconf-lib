@@ -1,0 +1,9 @@
+# [TITLE]: dotconf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dotconf-license)
+include(libc6)
+dotconf-lib

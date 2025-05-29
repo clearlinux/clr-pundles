@@ -1,0 +1,16 @@
+# [TITLE]: libe-book-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(libe-book-license)
+include(libgcc1)
+include(liblangtag-lib)
+include(librevenge-lib)
+include(libstdc++)
+include(zlib-lib)
+libe-book-lib

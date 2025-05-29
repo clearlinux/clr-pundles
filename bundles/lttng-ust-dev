@@ -1,0 +1,12 @@
+# [TITLE]: lttng-ust-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lttng-ust)
+include(lttng-ust-bin)
+include(lttng-ust-lib)
+include(pkg-config-bin)
+include(userspace-rcu-dev)
+lttng-ust-dev

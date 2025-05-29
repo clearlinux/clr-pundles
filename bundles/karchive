@@ -1,0 +1,10 @@
+# [TITLE]: karchive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-data)
+include(karchive-lib)
+include(karchive-license)
+karchive

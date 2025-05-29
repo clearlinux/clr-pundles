@@ -1,0 +1,9 @@
+# [TITLE]: libkeduvocdocument-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkeduvocdocument)
+include(libkeduvocdocument-lib)
+libkeduvocdocument-dev

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-evolution-data-server-dev
+include(evolution-data-server-dev)
 include(libX11client)
 include(libglib)
 include(libstdcpp)

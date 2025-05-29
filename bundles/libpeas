@@ -1,0 +1,12 @@
+# [TITLE]: libpeas
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpeas-bin)
+include(libpeas-data)
+include(libpeas-lib)
+include(libpeas-license)
+include(libpeas-locales)
+libpeas

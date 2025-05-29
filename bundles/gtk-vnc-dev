@@ -1,0 +1,22 @@
+# [TITLE]: gtk-vnc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-dev)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(gnutls-dev)
+include(gtk-vnc)
+include(gtk-vnc-bin)
+include(gtk-vnc-data)
+include(gtk-vnc-dev)
+include(gtk-vnc-lib)
+include(gtk3-dev)
+include(libX11-dev)
+include(libgcrypt-dev)
+include(pkg-config-bin)
+include(pulseaudio-dev)
+include(zlib-dev)
+gtk-vnc-dev

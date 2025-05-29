@@ -1,0 +1,9 @@
+# [TITLE]: poppler-data-clr-rename
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(poppler-data-clr-rename-data)
+include(poppler-data-clr-rename-license)
+poppler-data-clr-rename

@@ -1,0 +1,10 @@
+# [TITLE]: innoextract
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(innoextract-bin)
+include(innoextract-license)
+include(innoextract-man)
+innoextract

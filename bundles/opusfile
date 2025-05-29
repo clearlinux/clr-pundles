@@ -1,0 +1,9 @@
+# [TITLE]: opusfile
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opusfile-lib)
+include(opusfile-license)
+opusfile

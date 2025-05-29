@@ -1,0 +1,38 @@
+# [TITLE]: kdeconnect-kde-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdeconnect-kde-data)
+include(kdeconnect-kde-license)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(knotifications-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libfakekey-lib)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(modemmanager-qt-lib)
+include(openssl-lib)
+include(pulseaudio-qt-lib)
+include(qt6base-lib)
+include(qt6connectivity-lib)
+include(qt6declarative-lib)
+include(qt6multimedia-lib)
+include(qt6wayland-lib)
+include(solid-lib)
+include(wayland-lib)
+kdeconnect-kde-lib

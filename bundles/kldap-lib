@@ -1,0 +1,20 @@
+# [TITLE]: kldap-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kldap-data)
+include(kldap-license)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(openldap-lib)
+include(qt6base-lib)
+include(qtkeychain-lib)
+kldap-lib

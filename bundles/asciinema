@@ -1,0 +1,12 @@
+# [TITLE]: asciinema
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asciinema-bin)
+include(asciinema-license)
+include(asciinema-man)
+include(asciinema-python)
+include(asciinema-python3)
+asciinema

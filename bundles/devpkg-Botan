@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-Botan-dev
+include(Botan-dev)
 include(libstdcpp)

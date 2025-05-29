@@ -1,0 +1,13 @@
+# [TITLE]: libuser-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(glib-lib)
+include(libc6)
+include(libuser-lib)
+include(libuser-license)
+include(popt-lib)
+libuser-bin

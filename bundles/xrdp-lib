@@ -1,0 +1,12 @@
+# [TITLE]: xrdp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libjpeg-turbo-lib)
+include(openssl-lib)
+include(xrdp-data)
+include(xrdp-license)
+xrdp-lib

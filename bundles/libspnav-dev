@@ -1,0 +1,10 @@
+# [TITLE]: libspnav-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libspnav)
+include(libspnav-lib)
+include(pkg-config-bin)
+libspnav-dev

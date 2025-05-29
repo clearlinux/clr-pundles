@@ -44,21 +44,21 @@ include(pypi-h5py)
 include(hdf5-dev)
 include(hdf5-dev)
 #Keras
-leveldb-dev
+include(leveldb-dev)
 include(devpkg-libjpeg-turbo)
 include(devpkg-lmdb)
 include(pypi-matplotlib)
 include(pypi-mido)
-mkl-dnn-dev
-mpi4py
-nose-parameterized
+include(mkl-dnn-dev)
+include(mpi4py)
+include(nose-parameterized)
 pypi-numpy
-ocl-icd
+include(ocl-icd)
 include(devpkg-ocl-icd)
 include(openblas)
 include(devpkg-opencv)
 opencv-python
-openjdk-dev
+include(openjdk-dev)
 include(java-basic)
 pandas
 include(pypi-pillow)
@@ -67,7 +67,7 @@ include(devpkg-protobuf-c)
 include(devpkg-protobuf)
 include(pypi-protobuf)
 include(pypi-pydot)
-pydotplus
+include(pydotplus)
 include(pypi-pydot_ng)
 include(pypi-pyparsing)
 include(pypi-future)
@@ -80,7 +80,7 @@ pypi-six
 include(pypi-smart_open)
 include(devpkg-snappy)
 include(Sphinx)
-swig
+include(swig)
 include(devpkg-tbb)
 
 include(pypi-tqdm)

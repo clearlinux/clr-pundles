@@ -1,0 +1,14 @@
+# [TITLE]: groff-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-bin)
+include(filesystem)
+include(groff-data)
+include(groff-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+groff-bin

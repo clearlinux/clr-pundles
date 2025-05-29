@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libstatgrab-dev
+include(libstatgrab-dev)
 include(perl-basic)

@@ -1,0 +1,11 @@
+# [TITLE]: knights
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(knights-bin)
+include(knights-data)
+include(knights-license)
+include(knights-locales)
+knights

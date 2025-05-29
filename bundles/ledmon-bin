@@ -1,0 +1,12 @@
+# [TITLE]: ledmon-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ledmon-license)
+include(libc6)
+include(pciutils-lib)
+include(sg3_utils-lib)
+include(systemd-lib)
+ledmon-bin

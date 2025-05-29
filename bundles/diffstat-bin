@@ -1,0 +1,8 @@
+# [TITLE]: diffstat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+diffstat-bin

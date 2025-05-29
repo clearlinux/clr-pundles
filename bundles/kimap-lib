@@ -1,0 +1,18 @@
+# [TITLE]: kimap-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kimap-data)
+include(kimap-license)
+include(kio-lib)
+include(kmime-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+kimap-lib

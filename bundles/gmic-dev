@@ -1,0 +1,11 @@
+# [TITLE]: gmic-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmic)
+include(gmic-bin)
+include(gmic-data)
+include(gmic-lib)
+gmic-dev

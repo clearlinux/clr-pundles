@@ -1,0 +1,14 @@
+# [TITLE]: openbox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openbox-bin)
+include(openbox-data)
+include(openbox-lib)
+include(openbox-libexec)
+include(openbox-license)
+include(openbox-locales)
+include(openbox-man)
+openbox

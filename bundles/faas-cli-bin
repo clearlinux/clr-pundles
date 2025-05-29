@@ -1,0 +1,9 @@
+# [TITLE]: faas-cli-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(faas-cli-license)
+include(libc6)
+faas-cli-bin

@@ -1,0 +1,16 @@
+# [TITLE]: libgweather-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(geocode-glib-lib)
+include(glib-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgweather-data)
+include(libgweather-license)
+include(libsoup-lib)
+libgweather-lib

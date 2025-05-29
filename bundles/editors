@@ -8,8 +8,8 @@
 also-add(emacs)
 also-add(joe)
 also-add(vim)
-ctags
-ed
-nano
+include(ctags)
+include(ed)
+include(nano)
 include(libxml2)
 include(yaml)

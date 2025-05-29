@@ -1,0 +1,10 @@
+# [TITLE]: talloc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(talloc-lib)
+include(talloc-python)
+include(talloc-python3)
+talloc

@@ -1,0 +1,16 @@
+# [TITLE]: kglobalacceld
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kglobalacceld-data)
+include(kglobalacceld-lib)
+include(kglobalacceld-license)
+include(kglobalacceld-services)
+include(libc6)
+include(qt6base-lib)
+kglobalacceld

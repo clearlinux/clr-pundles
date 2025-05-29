@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-openjpeg-dev
+include(openjpeg-dev)
 include(lib-imageformat)

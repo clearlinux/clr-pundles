@@ -1,0 +1,23 @@
+# [TITLE]: knavalbattle-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kdnssd-lib)
+include(ki18n-lib)
+include(knavalbattle-data)
+include(knavalbattle-license)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkdegames-lib)
+include(libstdc++)
+include(qt6base-lib)
+knavalbattle-bin

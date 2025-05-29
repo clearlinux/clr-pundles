@@ -1,0 +1,10 @@
+# [TITLE]: ardopcf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ardopcf-bin)
+include(ardopcf-data)
+include(ardopcf-license)
+ardopcf

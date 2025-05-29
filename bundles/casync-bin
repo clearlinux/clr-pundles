@@ -1,0 +1,19 @@
+# [TITLE]: casync-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(casync-config)
+include(casync-data)
+include(casync-license)
+include(compat-fuse-soname2-lib)
+include(libc6)
+include(libgcc1)
+include(openssl-lib)
+include(systemd-lib)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+casync-bin

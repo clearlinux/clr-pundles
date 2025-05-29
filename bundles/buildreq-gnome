@@ -1,0 +1,32 @@
+# [TITLE]: buildreq-gnome
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-dev)
+include(desktop-file-utils)
+include(gettext)
+include(glib-dev)
+include(glibc-bin)
+include(gobject-introspection)
+include(gobject-introspection-dev)
+include(gsettings-desktop-schemas)
+include(gsettings-desktop-schemas-dev)
+include(gtk-doc)
+include(gtk3-dev)
+include(gtk4-dev)
+include(itstool)
+include(libabigail)
+include(libsoup-dev)
+include(libxml2-dev)
+include(libxslt-bin)
+include(meson)
+include(ninja)
+include(perl-XML-Parser-perl)
+include(pypi-argcomplete)
+include(python3)
+include(systemd-dev)
+include(vala)
+include(vala-dev)
+buildreq-gnome

@@ -1,0 +1,8 @@
+# [TITLE]: qemu-guest-additions-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+qemu-guest-additions-services

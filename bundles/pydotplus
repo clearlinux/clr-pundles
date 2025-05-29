@@ -1,0 +1,11 @@
+# [TITLE]: pydotplus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pydotplus-license)
+include(pydotplus-python)
+include(pydotplus-python3)
+include(pypi-pyparsing-python3)
+pydotplus

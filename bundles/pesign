@@ -1,0 +1,11 @@
+# [TITLE]: pesign
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pesign-bin)
+include(pesign-libexec)
+include(pesign-license)
+include(pesign-man)
+pesign

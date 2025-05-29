@@ -1,0 +1,8 @@
+# [TITLE]: efl-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+efl-services

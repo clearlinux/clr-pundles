@@ -1,0 +1,9 @@
+# [TITLE]: libspatialindex-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libspatialindex)
+include(libspatialindex-lib)
+libspatialindex-dev

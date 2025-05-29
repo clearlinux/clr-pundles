@@ -1,0 +1,8 @@
+# [TITLE]: wcslib-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wcslib-man)
+wcslib-doc

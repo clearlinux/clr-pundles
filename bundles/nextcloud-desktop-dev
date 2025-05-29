@@ -1,0 +1,15 @@
+# [TITLE]: nextcloud-desktop-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(nextcloud-desktop)
+include(nextcloud-desktop-bin)
+include(nextcloud-desktop-data)
+include(nextcloud-desktop-lib)
+include(qt6base-lib)
+nextcloud-desktop-dev

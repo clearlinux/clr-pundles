@@ -1,0 +1,12 @@
+# [TITLE]: dwarves
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dwarves-bin)
+include(dwarves-data)
+include(dwarves-lib)
+include(dwarves-license)
+include(dwarves-man)
+dwarves

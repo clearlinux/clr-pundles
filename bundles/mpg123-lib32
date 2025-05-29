@@ -1,0 +1,11 @@
+# [TITLE]: mpg123-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-lib32)
+include(glibc-libc32)
+include(mpg123-license)
+include(pulseaudio-lib32)
+mpg123-lib32

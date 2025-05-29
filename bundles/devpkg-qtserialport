@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtserialport-dev
+include(qtserialport-dev)
 include(qt-core)
 include(libstdcpp)
 include(libX11client)

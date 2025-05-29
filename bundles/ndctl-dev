@@ -1,0 +1,12 @@
+# [TITLE]: ndctl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ndctl)
+include(ndctl-bin)
+include(ndctl-data)
+include(ndctl-lib)
+include(pkg-config-bin)
+ndctl-dev

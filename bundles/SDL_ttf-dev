@@ -1,0 +1,10 @@
+# [TITLE]: SDL_ttf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-dev)
+include(SDL_ttf)
+include(SDL_ttf-lib)
+SDL_ttf-dev

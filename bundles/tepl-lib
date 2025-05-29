@@ -1,0 +1,17 @@
+# [TITLE]: tepl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(amtk-lib)
+include(cairo-lib)
+include(compat-icu4c-rolling-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(gtksourceview4-lib)
+include(libc6)
+include(pango-lib)
+include(tepl-data)
+include(tepl-license)
+tepl-lib

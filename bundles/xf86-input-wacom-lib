@@ -1,0 +1,9 @@
+# [TITLE]: xf86-input-wacom-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(xf86-input-wacom-data)
+xf86-input-wacom-lib

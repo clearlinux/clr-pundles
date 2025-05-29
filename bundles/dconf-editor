@@ -1,0 +1,12 @@
+# [TITLE]: dconf-editor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dconf-editor-bin)
+include(dconf-editor-data)
+include(dconf-editor-license)
+include(dconf-editor-locales)
+include(dconf-editor-man)
+dconf-editor

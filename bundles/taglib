@@ -1,0 +1,10 @@
+# [TITLE]: taglib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(taglib-bin)
+include(taglib-lib)
+include(taglib-license)
+taglib

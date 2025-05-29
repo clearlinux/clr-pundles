@@ -1,0 +1,16 @@
+# [TITLE]: krunner-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kitemmodels-lib)
+include(krunner-data)
+include(krunner-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+krunner-lib

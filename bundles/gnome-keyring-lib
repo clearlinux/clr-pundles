@@ -1,0 +1,14 @@
+# [TITLE]: gnome-keyring-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(glib-lib)
+include(gnome-keyring-data)
+include(gnome-keyring-license)
+include(libc6)
+include(libgcc1)
+include(libgcrypt-lib)
+gnome-keyring-lib

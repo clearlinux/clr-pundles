@@ -1,0 +1,9 @@
+# [TITLE]: qt6quickeffectmaker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6quickeffectmaker-lib)
+include(qt6quickeffectmaker-license)
+qt6quickeffectmaker

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libspectre-dev
+include(libspectre-dev)
 include(libX11client)
 include(harfbuzz-lib)
 include(icu4c-lib)

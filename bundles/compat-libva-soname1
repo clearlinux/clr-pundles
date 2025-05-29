@@ -1,0 +1,9 @@
+# [TITLE]: compat-libva-soname1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libva-soname1-lib)
+include(compat-libva-soname1-license)
+compat-libva-soname1

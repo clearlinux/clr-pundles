@@ -1,0 +1,8 @@
+# [TITLE]: xdg-desktop-portal-kde-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+xdg-desktop-portal-kde-services

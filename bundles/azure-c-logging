@@ -1,0 +1,8 @@
+# [TITLE]: azure-c-logging
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(azure-c-logging-license)
+azure-c-logging

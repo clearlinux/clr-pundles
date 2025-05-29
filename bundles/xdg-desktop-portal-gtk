@@ -1,0 +1,13 @@
+# [TITLE]: xdg-desktop-portal-gtk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xdg-desktop-portal)
+include(xdg-desktop-portal-gtk-data)
+include(xdg-desktop-portal-gtk-libexec)
+include(xdg-desktop-portal-gtk-license)
+include(xdg-desktop-portal-gtk-locales)
+include(xdg-desktop-portal-gtk-services)
+xdg-desktop-portal-gtk

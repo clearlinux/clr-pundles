@@ -1,0 +1,18 @@
+# [TITLE]: audacious-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audacious-data)
+include(audacious-license)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pango-lib)
+include(qt6base-lib)
+audacious-lib

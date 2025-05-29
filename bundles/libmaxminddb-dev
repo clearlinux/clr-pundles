@@ -1,0 +1,11 @@
+# [TITLE]: libmaxminddb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmaxminddb)
+include(libmaxminddb-bin)
+include(libmaxminddb-lib)
+include(pkg-config-bin)
+libmaxminddb-dev

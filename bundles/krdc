@@ -1,0 +1,12 @@
+# [TITLE]: krdc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(krdc-bin)
+include(krdc-data)
+include(krdc-lib)
+include(krdc-license)
+include(krdc-locales)
+krdc

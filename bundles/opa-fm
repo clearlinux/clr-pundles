@@ -1,0 +1,19 @@
+# [TITLE]: opa-fm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(filesystem)
+include(gcc-libs-math)
+include(libc6)
+include(opa-fm-bin)
+include(opa-fm-data)
+include(opa-fm-license)
+include(opa-fm-man)
+include(opa-fm-services)
+include(openssl-lib)
+include(rdma-core-lib)
+include(zlib-lib)
+opa-fm

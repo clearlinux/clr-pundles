@@ -1,0 +1,9 @@
+# [TITLE]: libusb-compat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libusb-compat-lib)
+include(libusb-compat-license)
+libusb-compat

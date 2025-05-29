@@ -1,0 +1,12 @@
+# [TITLE]: v4l-utils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libjpeg-turbo-lib)
+include(systemd-lib)
+include(v4l-utils-data)
+include(v4l-utils-license)
+v4l-utils-lib

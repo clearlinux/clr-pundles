@@ -1,0 +1,22 @@
+# [TITLE]: kmousetool-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kmousetool-data)
+include(kmousetool-license)
+include(kstatusnotifieritem-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+kmousetool-bin

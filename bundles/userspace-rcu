@@ -1,0 +1,9 @@
+# [TITLE]: userspace-rcu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(userspace-rcu-lib)
+include(userspace-rcu-license)
+userspace-rcu

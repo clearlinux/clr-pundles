@@ -1,0 +1,18 @@
+# [TITLE]: kwallet-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-lib)
+include(kconfig-lib)
+include(ki18n-lib)
+include(knotifications-lib)
+include(kwallet-data)
+include(kwallet-license)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(libstdc++)
+include(qt6base-lib)
+kwallet-lib

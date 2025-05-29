@@ -1,0 +1,12 @@
+# [TITLE]: dialog-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dialog-lib)
+include(dialog-license)
+include(filesystem)
+include(libc6)
+include(ncurses-lib)
+dialog-bin

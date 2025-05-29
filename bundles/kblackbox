@@ -1,0 +1,11 @@
+# [TITLE]: kblackbox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kblackbox-bin)
+include(kblackbox-data)
+include(kblackbox-license)
+include(kblackbox-locales)
+kblackbox

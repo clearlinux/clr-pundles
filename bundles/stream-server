@@ -9,6 +9,6 @@ include(gstreamer)
 
 include(gstreamer)
 include(gst-plugins-base)
-gst-plugins-good
+include(gst-plugins-good)
 include(gst-plugins-bad)
 include(libtheora)

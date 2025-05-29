@@ -1,0 +1,12 @@
+# [TITLE]: fish
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fish-bin)
+include(fish-data)
+include(fish-license)
+include(fish-locales)
+include(fish-man)
+fish

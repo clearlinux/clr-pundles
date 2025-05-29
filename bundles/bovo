@@ -1,0 +1,11 @@
+# [TITLE]: bovo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bovo-bin)
+include(bovo-data)
+include(bovo-license)
+include(bovo-locales)
+bovo

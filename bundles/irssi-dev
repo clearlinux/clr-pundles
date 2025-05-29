@@ -1,0 +1,13 @@
+# [TITLE]: irssi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(irssi)
+include(irssi-bin)
+include(irssi-data)
+include(irssi-lib)
+include(pkg-config-bin)
+irssi-dev

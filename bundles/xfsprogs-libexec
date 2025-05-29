@@ -1,0 +1,10 @@
+# [TITLE]: xfsprogs-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(xfsprogs-config)
+include(xfsprogs-license)
+xfsprogs-libexec

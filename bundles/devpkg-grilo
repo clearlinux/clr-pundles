@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-grilo-dev
+include(grilo-dev)
 include(libglib)
 include(libX11client)
 include(libpsl-lib)

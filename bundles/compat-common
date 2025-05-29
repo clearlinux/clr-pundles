@@ -6,7 +6,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(compat-fuse-soname2)
-compat-readline-soname5
+include(compat-readline-soname5)
 include(libbsd-lib)
-libudev0-shim
+include(libudev0-shim)
 include(ncurses-lib)

@@ -1,0 +1,14 @@
+# [TITLE]: openjade-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenSP-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openjade-data)
+include(openjade-lib)
+include(openjade-license)
+openjade-bin

@@ -1,0 +1,9 @@
+# [TITLE]: libclc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libclc)
+include(pkg-config-bin)
+libclc-dev

@@ -1,0 +1,12 @@
+# [TITLE]: dracut-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dracut)
+include(dracut-bin)
+include(dracut-data)
+include(dracut-lib)
+include(pkg-config-bin)
+dracut-dev

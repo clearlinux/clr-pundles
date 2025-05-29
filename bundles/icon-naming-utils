@@ -1,0 +1,10 @@
+# [TITLE]: icon-naming-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icon-naming-utils-data)
+include(icon-naming-utils-libexec)
+include(icon-naming-utils-license)
+icon-naming-utils

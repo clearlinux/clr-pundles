@@ -1,0 +1,8 @@
+# [TITLE]: man-db-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+man-db-services

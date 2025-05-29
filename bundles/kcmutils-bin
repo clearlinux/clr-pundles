@@ -1,0 +1,17 @@
+# [TITLE]: kcmutils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-data)
+include(kcmutils-lib)
+include(kcmutils-license)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kcmutils-bin

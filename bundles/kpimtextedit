@@ -1,0 +1,11 @@
+# [TITLE]: kpimtextedit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kpimtextedit-data)
+include(kpimtextedit-lib)
+include(kpimtextedit-license)
+include(kpimtextedit-locales)
+kpimtextedit

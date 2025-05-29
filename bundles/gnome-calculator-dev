@@ -1,0 +1,16 @@
+# [TITLE]: gnome-calculator-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnome-calculator)
+include(gnome-calculator-bin)
+include(gnome-calculator-data)
+include(gnome-calculator-dev)
+include(gnome-calculator-lib)
+include(gtk4-dev)
+include(libgee-dev)
+include(pkg-config-bin)
+gnome-calculator-dev

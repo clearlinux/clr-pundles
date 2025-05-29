@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-grilo-plugins-dev
+include(grilo-plugins-dev)
 include(libglib)
 include(gstreamer)
 include(libpsl-lib)

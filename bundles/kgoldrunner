@@ -1,0 +1,11 @@
+# [TITLE]: kgoldrunner
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kgoldrunner-bin)
+include(kgoldrunner-data)
+include(kgoldrunner-license)
+include(kgoldrunner-locales)
+kgoldrunner

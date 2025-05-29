@@ -1,0 +1,13 @@
+# [TITLE]: ibus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(ibus)
+include(ibus-bin)
+include(ibus-data)
+include(ibus-lib)
+include(pkg-config-bin)
+ibus-dev

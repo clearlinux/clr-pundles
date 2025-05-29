@@ -1,0 +1,14 @@
+# [TITLE]: tpm2-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(efivar-lib)
+include(libc6)
+include(openssl-lib)
+include(tpm2-tools-data)
+include(tpm2-tools-license)
+include(tpm2-tss-lib)
+tpm2-tools-bin

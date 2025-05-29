@@ -1,0 +1,9 @@
+# [TITLE]: box2d
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(box2d-lib)
+include(box2d-license)
+box2d

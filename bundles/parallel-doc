@@ -1,0 +1,8 @@
+# [TITLE]: parallel-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(parallel-man)
+parallel-doc

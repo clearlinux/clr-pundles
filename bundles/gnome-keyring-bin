@@ -1,0 +1,17 @@
+# [TITLE]: gnome-keyring-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gcr-soname1-lib)
+include(glib-lib)
+include(gnome-keyring-data)
+include(gnome-keyring-license)
+include(gnome-keyring-services)
+include(libc6)
+include(libcap-ng-lib)
+include(libgcc1)
+include(libgcrypt-lib)
+include(systemd-extras-libsystemd)
+gnome-keyring-bin

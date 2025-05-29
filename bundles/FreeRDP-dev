@@ -1,0 +1,17 @@
+# [TITLE]: FreeRDP-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP)
+include(FreeRDP-bin)
+include(FreeRDP-data)
+include(FreeRDP-dev)
+include(FreeRDP-lib)
+include(libxkbcommon-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+include(wayland-dev)
+include(zlib-dev)
+FreeRDP-dev

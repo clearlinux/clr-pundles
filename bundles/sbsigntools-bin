@@ -1,0 +1,11 @@
+# [TITLE]: sbsigntools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(sbsigntools-license)
+include(util-linux-lib)
+sbsigntools-bin

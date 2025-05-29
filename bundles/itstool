@@ -1,0 +1,12 @@
+# [TITLE]: itstool
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(itstool-bin)
+include(itstool-data)
+include(itstool-license)
+include(itstool-man)
+include(libxml2-python)
+itstool

@@ -1,0 +1,11 @@
+# [TITLE]: wcslib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(wcslib)
+include(wcslib-bin)
+include(wcslib-lib)
+wcslib-dev

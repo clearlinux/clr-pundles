@@ -1,0 +1,23 @@
+# [TITLE]: xfce4-screenshooter-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(exo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(pango-lib)
+include(wayland-lib)
+include(xfce4-panel-lib)
+include(xfce4-screenshooter-data)
+include(xfce4-screenshooter-libexec)
+include(xfce4-screenshooter-license)
+include(xfconf-lib)
+xfce4-screenshooter-lib

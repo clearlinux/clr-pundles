@@ -1,0 +1,17 @@
+# [TITLE]: multipath-tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(json-c-lib)
+include(libaio-lib)
+include(libc6)
+include(libgcc1)
+include(multipath-tools-license)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+include(userspace-rcu-lib)
+include(util-linux-lib)
+multipath-tools-lib

@@ -1,0 +1,16 @@
+# [TITLE]: bemenu-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bemenu-license)
+include(cairo-lib)
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libxkbcommon-lib)
+include(ncurses-lib)
+include(pango-lib)
+include(wayland-lib)
+bemenu-lib

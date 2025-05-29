@@ -1,0 +1,12 @@
+# [TITLE]: QAT_engine-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QAT_engine-license)
+include(intel-ipsec-mb-lib)
+include(ipp-crypto-lib)
+include(libc6)
+include(qatlib-lib)
+QAT_engine-lib

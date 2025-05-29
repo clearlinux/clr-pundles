@@ -1,0 +1,19 @@
+# [TITLE]: zathura-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(file-lib)
+include(girara-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libc6)
+include(libseccomp-lib)
+include(pango-lib)
+include(sqlite-autoconf-lib)
+include(zathura-data)
+include(zathura-license)
+zathura-bin

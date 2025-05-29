@@ -1,0 +1,10 @@
+# [TITLE]: gnome-autoar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-autoar-data)
+include(gnome-autoar-lib)
+include(gnome-autoar-license)
+gnome-autoar

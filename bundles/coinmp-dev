@@ -1,0 +1,13 @@
+# [TITLE]: coinmp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coinmp)
+include(coinmp-bin)
+include(coinmp-data)
+include(coinmp-dev)
+include(coinmp-lib)
+include(pkg-config-bin)
+coinmp-dev

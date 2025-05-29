@@ -1,0 +1,9 @@
+# [TITLE]: google-cloud-cpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(google-cloud-cpp-lib)
+include(google-cloud-cpp-license)
+google-cloud-cpp

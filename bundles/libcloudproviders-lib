@@ -1,0 +1,12 @@
+# [TITLE]: libcloudproviders-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libcloudproviders-data)
+include(libcloudproviders-license)
+include(libgcc1)
+libcloudproviders-lib

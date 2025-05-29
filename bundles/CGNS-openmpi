@@ -1,0 +1,13 @@
+# [TITLE]: CGNS-openmpi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CGNS-lib)
+include(filesystem)
+include(hdf5-lib)
+include(libc6)
+include(libgcc1)
+include(openmpi-lib)
+CGNS-openmpi

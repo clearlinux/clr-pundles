@@ -1,0 +1,8 @@
+# [TITLE]: PyQt5-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyQt5-python3)
+PyQt5-python

@@ -1,0 +1,20 @@
+# [TITLE]: slurm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(freeipmi-lib)
+include(hdf5-lib)
+include(hwloc-lib)
+include(json-c-lib)
+include(libc6)
+include(lua-lib)
+include(mariadb-extras-clientlib)
+include(munge-lib)
+include(numactl-lib)
+include(rrdtool-lib)
+include(slurm-data)
+include(slurm-license)
+slurm-lib

@@ -1,0 +1,10 @@
+# [TITLE]: apache-arrow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apache-arrow-data)
+include(apache-arrow-lib)
+include(apache-arrow-license)
+apache-arrow

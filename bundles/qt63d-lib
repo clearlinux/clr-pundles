@@ -1,0 +1,14 @@
+# [TITLE]: qt63d-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(assimp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt63d-license)
+include(qt6base-lib)
+include(qt6shadertools-lib)
+qt63d-lib

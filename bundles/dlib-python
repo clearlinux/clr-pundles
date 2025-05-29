@@ -1,0 +1,8 @@
+# [TITLE]: dlib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dlib-python3)
+dlib-python

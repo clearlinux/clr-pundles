@@ -1,0 +1,14 @@
+# [TITLE]: xfce4-session
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(xfce4-session-bin)
+include(xfce4-session-data)
+include(xfce4-session-license)
+include(xfce4-session-locales)
+include(xfce4-session-man)
+xfce4-session

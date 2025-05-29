@@ -1,0 +1,24 @@
+# [TITLE]: libblockdev-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(cryptsetup-lib)
+include(e2fsprogs-lib)
+include(glib-lib)
+include(keyutils-lib)
+include(kmod-lib)
+include(libblockdev-data)
+include(libblockdev-license)
+include(libbytesize-lib)
+include(libc6)
+include(libgcc1)
+include(libnvme-lib)
+include(ndctl-lib)
+include(nss-lib)
+include(systemd-lib)
+include(util-linux-lib)
+include(volume_key-lib)
+libblockdev-lib

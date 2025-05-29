@@ -1,0 +1,9 @@
+# [TITLE]: gnome-weather-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-weather-data)
+include(gnome-weather-license)
+gnome-weather-bin

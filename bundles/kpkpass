@@ -1,0 +1,10 @@
+# [TITLE]: kpkpass
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kpkpass-data)
+include(kpkpass-lib)
+include(kpkpass-license)
+kpkpass

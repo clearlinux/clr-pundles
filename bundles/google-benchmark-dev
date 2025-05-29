@@ -1,0 +1,11 @@
+# [TITLE]: google-benchmark-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(google-benchmark)
+include(google-benchmark-dev)
+include(google-benchmark-lib)
+include(pkg-config-bin)
+google-benchmark-dev

@@ -1,0 +1,10 @@
+# [TITLE]: wslu-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(wslu-data)
+include(wslu-license)
+wslu-bin

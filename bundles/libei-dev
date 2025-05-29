@@ -1,0 +1,12 @@
+# [TITLE]: libei-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libei)
+include(libei-bin)
+include(libei-lib)
+include(pkg-config-bin)
+include(systemd-dev)
+libei-dev

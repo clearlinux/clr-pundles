@@ -1,0 +1,11 @@
+# [TITLE]: libvirt-glib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvirt-glib-data)
+include(libvirt-glib-lib)
+include(libvirt-glib-license)
+include(libvirt-glib-locales)
+libvirt-glib

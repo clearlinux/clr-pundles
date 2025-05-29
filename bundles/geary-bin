@@ -1,0 +1,12 @@
+# [TITLE]: geary-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geary-data)
+include(geary-lib)
+include(geary-license)
+include(glib-lib)
+include(libc6)
+geary-bin

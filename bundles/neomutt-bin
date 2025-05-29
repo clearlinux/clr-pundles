@@ -1,0 +1,18 @@
+# [TITLE]: neomutt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(gnutls-lib)
+include(krb5-lib)
+include(libc6)
+include(libidn2-lib)
+include(lmdb-lib)
+include(ncurses-lib)
+include(neomutt-data)
+include(neomutt-libexec)
+include(neomutt-license)
+include(notmuch-lib)
+neomutt-bin

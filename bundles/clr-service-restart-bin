@@ -1,0 +1,12 @@
+# [TITLE]: clr-service-restart-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-service-restart-data)
+include(clr-service-restart-license)
+include(clr-service-restart-services)
+include(filesystem)
+include(libc6)
+clr-service-restart-bin

@@ -1,0 +1,8 @@
+# [TITLE]: sound-theme-freedesktop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sound-theme-freedesktop-data)
+sound-theme-freedesktop

@@ -1,0 +1,10 @@
+# [TITLE]: alsa-tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-tools-data)
+include(alsa-tools-license)
+include(libc6)
+alsa-tools-lib

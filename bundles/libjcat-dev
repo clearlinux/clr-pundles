@@ -1,0 +1,15 @@
+# [TITLE]: libjcat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnutls-dev)
+include(json-glib-dev)
+include(libjcat)
+include(libjcat-bin)
+include(libjcat-data)
+include(libjcat-lib)
+include(pkg-config-bin)
+libjcat-dev

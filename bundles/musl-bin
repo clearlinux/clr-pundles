@@ -1,0 +1,9 @@
+# [TITLE]: musl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(musl-license)
+musl-bin

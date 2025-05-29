@@ -1,0 +1,12 @@
+# [TITLE]: grantlee-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grantlee-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+grantlee-lib

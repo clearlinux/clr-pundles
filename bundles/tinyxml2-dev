@@ -1,0 +1,10 @@
+# [TITLE]: tinyxml2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(tinyxml2)
+include(tinyxml2-lib)
+tinyxml2-dev

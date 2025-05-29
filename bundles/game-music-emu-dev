@@ -1,0 +1,11 @@
+# [TITLE]: game-music-emu-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(game-music-emu)
+include(game-music-emu-bin)
+include(game-music-emu-lib)
+include(pkg-config-bin)
+game-music-emu-dev

@@ -1,0 +1,9 @@
+# [TITLE]: pspp-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pspp-info)
+include(pspp-man)
+pspp-doc

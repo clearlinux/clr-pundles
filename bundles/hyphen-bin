@@ -1,0 +1,10 @@
+# [TITLE]: hyphen-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hyphen-data)
+include(hyphen-license)
+include(perl-bin)
+hyphen-bin

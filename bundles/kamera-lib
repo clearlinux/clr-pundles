@@ -1,0 +1,20 @@
+# [TITLE]: kamera-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kamera-data)
+include(kamera-license)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgphoto2-lib)
+include(libstdc++)
+include(qt6base-lib)
+kamera-lib

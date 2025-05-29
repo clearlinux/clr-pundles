@@ -1,0 +1,14 @@
+# [TITLE]: libgsf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libgsf)
+include(libgsf-bin)
+include(libgsf-data)
+include(libgsf-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+libgsf-dev

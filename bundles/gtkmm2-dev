@@ -1,0 +1,15 @@
+# [TITLE]: gtkmm2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-atkmm-soname16-dev)
+include(compat-glibmm-soname24-dev)
+include(compat-pangomm-soname14-dev)
+include(gtk+-dev)
+include(gtkmm2)
+include(gtkmm2-data)
+include(gtkmm2-dev)
+include(gtkmm2-lib)
+gtkmm2-dev

@@ -1,0 +1,8 @@
+# [TITLE]: qalculate-gtk-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qalculate-gtk-man)
+qalculate-gtk-doc

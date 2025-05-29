@@ -1,0 +1,23 @@
+# [TITLE]: elisa-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elisa-data)
+include(elisa-license)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kfilemetadata-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6multimedia-lib)
+elisa-lib

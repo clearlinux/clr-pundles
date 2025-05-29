@@ -1,0 +1,9 @@
+# [TITLE]: clear-config-management
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clear-config-management-data)
+include(clear-config-management-license)
+clear-config-management

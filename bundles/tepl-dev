@@ -1,0 +1,17 @@
+# [TITLE]: tepl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(amtk-dev)
+include(glib-dev)
+include(gsettings-desktop-schemas-dev)
+include(gtk3-dev)
+include(gtksourceview4-dev)
+include(icu4c-dev)
+include(pkg-config-bin)
+include(tepl)
+include(tepl-data)
+include(tepl-lib)
+tepl-dev

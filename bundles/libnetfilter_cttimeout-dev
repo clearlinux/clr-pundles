@@ -1,0 +1,9 @@
+# [TITLE]: libnetfilter_cttimeout-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnetfilter_cttimeout)
+include(libnetfilter_cttimeout-lib)
+libnetfilter_cttimeout-dev

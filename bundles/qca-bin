@@ -1,0 +1,13 @@
+# [TITLE]: qca-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qca-lib)
+include(qca-license)
+include(qt6base-lib)
+qca-bin

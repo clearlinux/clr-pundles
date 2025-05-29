@@ -1,0 +1,27 @@
+# [TITLE]: xfce4-screensaver-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(dbus-glib-lib)
+include(dbus-lib)
+include(garcon-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libc6)
+include(libwnck3-lib)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(libxklavier-lib)
+include(python3-core)
+include(systemd-extras-libsystemd)
+include(xfce4-screensaver-data)
+include(xfce4-screensaver-libexec)
+include(xfce4-screensaver-license)
+include(xfconf-lib)
+xfce4-screensaver-bin

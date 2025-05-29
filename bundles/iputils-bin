@@ -1,0 +1,11 @@
+# [TITLE]: iputils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iputils-license)
+include(iputils-setuid)
+include(libc6)
+include(libcap-lib)
+iputils-bin

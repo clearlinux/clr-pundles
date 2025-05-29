@@ -1,0 +1,9 @@
+# [TITLE]: xorg-fonts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xorg-fonts-data)
+include(xorg-fonts-license)
+xorg-fonts

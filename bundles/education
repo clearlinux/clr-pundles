@@ -17,4 +17,4 @@ include(education-secondary)
 include(education-tertiary)
 
 include(gimp)
-gnome-tweaks
+include(gnome-tweaks)

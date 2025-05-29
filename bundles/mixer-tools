@@ -1,0 +1,11 @@
+# [TITLE]: mixer-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mixer-tools-bin)
+include(mixer-tools-data)
+include(mixer-tools-license)
+include(mixer-tools-man)
+mixer-tools

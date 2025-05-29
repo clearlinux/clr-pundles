@@ -1,0 +1,12 @@
+# [TITLE]: libyami-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libva-dev)
+include(libyami)
+include(libyami-lib)
+include(pkg-config-bin)
+libyami-dev

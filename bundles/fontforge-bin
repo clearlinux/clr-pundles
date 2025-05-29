@@ -1,0 +1,16 @@
+# [TITLE]: fontforge-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fontforge-data)
+include(fontforge-lib)
+include(fontforge-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(pango-lib)
+include(python3-lib)
+fontforge-bin

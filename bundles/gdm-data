@@ -1,0 +1,8 @@
+# [TITLE]: gdm-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+gdm-data

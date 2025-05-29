@@ -1,0 +1,13 @@
+# [TITLE]: libqmi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libqmi)
+include(libqmi-bin)
+include(libqmi-data)
+include(libqmi-lib)
+include(pkg-config-bin)
+libqmi-dev

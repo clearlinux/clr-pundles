@@ -1,0 +1,9 @@
+# [TITLE]: gnome-user-docs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-user-docs-doc)
+include(gnome-user-docs-license)
+gnome-user-docs

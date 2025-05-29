@@ -1,0 +1,14 @@
+# [TITLE]: libopenmpt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libopenmpt-license)
+include(libstdc++)
+include(libvorbis-lib)
+include(mpg123-lib)
+include(zlib-lib)
+libopenmpt-lib

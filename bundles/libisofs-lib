@@ -1,0 +1,11 @@
+# [TITLE]: libisofs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(libc6)
+include(libisofs-license)
+include(zlib-lib)
+libisofs-lib

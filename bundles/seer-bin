@@ -1,0 +1,13 @@
+# [TITLE]: seer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6charts-lib)
+include(seer-license)
+seer-bin

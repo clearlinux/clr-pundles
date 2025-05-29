@@ -1,0 +1,13 @@
+# [TITLE]: gtk-xfce-engine-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(gtk-xfce-engine-data)
+include(gtk-xfce-engine-license)
+include(libc6)
+gtk-xfce-engine-lib

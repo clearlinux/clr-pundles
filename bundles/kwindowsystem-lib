@@ -1,0 +1,16 @@
+# [TITLE]: kwindowsystem-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwindowsystem-data)
+include(kwindowsystem-license)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+kwindowsystem-lib

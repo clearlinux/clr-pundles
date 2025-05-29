@@ -1,0 +1,10 @@
+# [TITLE]: numatop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(numatop-bin)
+include(numatop-license)
+include(numatop-man)
+numatop

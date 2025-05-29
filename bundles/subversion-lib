@@ -1,0 +1,20 @@
+# [TITLE]: subversion-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apr-lib)
+include(apr-util-lib)
+include(cyrus-sasl-lib)
+include(expat-lib)
+include(file-lib)
+include(glib-lib)
+include(libc6)
+include(libsecret-lib)
+include(lz4-lib)
+include(serf-lib)
+include(sqlite-autoconf-lib)
+include(subversion-license)
+include(zlib-lib)
+subversion-lib

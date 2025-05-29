@@ -1,0 +1,13 @@
+# [TITLE]: arp-scan-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(arp-scan-data)
+include(arp-scan-license)
+include(coreutils-bin)
+include(libc6)
+include(libcap-lib)
+include(libpcap-lib)
+arp-scan-bin

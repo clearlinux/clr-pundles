@@ -1,0 +1,10 @@
+# [TITLE]: AVB-AudioModules
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(AVB-AudioModules-data)
+include(AVB-AudioModules-lib)
+include(AVB-AudioModules-license)
+AVB-AudioModules

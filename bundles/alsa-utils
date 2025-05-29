@@ -13,7 +13,7 @@ include(gmp-lib)
 include(pulseaudio)
 include(lib-imageformat)
 include(dav1d-lib)
-alsa-firmware
+include(alsa-firmware)
 include(libstdcpp)
 include(lib-opengl)
 # end of custom additions

@@ -1,0 +1,10 @@
+# [TITLE]: kdesu-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdesu)
+include(kdesu-data)
+include(kdesu-lib)
+kdesu-dev

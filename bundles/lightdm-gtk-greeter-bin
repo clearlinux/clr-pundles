@@ -1,0 +1,16 @@
+# [TITLE]: lightdm-gtk-greeter-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(lightdm-gtk-greeter-data)
+include(lightdm-gtk-greeter-license)
+include(lightdm-lib)
+lightdm-gtk-greeter-bin

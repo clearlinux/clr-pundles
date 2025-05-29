@@ -1,0 +1,14 @@
+# [TITLE]: gphoto2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gphoto2-license)
+include(libc6)
+include(libexif-lib)
+include(libgcc1)
+include(libgphoto2-lib)
+include(popt-lib)
+include(readline-lib)
+gphoto2-bin

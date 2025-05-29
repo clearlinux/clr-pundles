@@ -1,0 +1,12 @@
+# [TITLE]: bind-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bind-utils-bin)
+include(bind-utils-lib)
+include(bind-utils-license)
+include(bind-utils-man)
+include(pypi-ply-python3)
+bind-utils

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-capnproto-dev
+include(capnproto-dev)
 include(libstdcpp)

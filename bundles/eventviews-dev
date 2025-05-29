@@ -1,0 +1,10 @@
+# [TITLE]: eventviews-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(eventviews)
+include(eventviews-data)
+include(eventviews-lib)
+eventviews-dev

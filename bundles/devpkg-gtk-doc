@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-gtk-doc-dev
+include(gtk-doc-dev)
 include(python3-basic)
 include(pypi-six)

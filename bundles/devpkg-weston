@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-weston-dev
+include(weston-dev)
 include(libX11client)
 include(libglib)
 include(gstreamer)

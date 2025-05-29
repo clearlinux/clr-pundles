@@ -1,0 +1,11 @@
+# [TITLE]: qttools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qttools-bin)
+include(qttools-data)
+include(qttools-lib)
+include(qttools-license)
+qttools

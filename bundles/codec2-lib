@@ -1,0 +1,9 @@
+# [TITLE]: codec2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(codec2-license)
+include(libc6)
+codec2-lib

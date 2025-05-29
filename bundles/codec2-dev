@@ -1,0 +1,10 @@
+# [TITLE]: codec2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(codec2)
+include(codec2-lib)
+include(pkg-config-bin)
+codec2-dev

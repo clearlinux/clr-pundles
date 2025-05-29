@@ -1,0 +1,8 @@
+# [TITLE]: dmap2gcode
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dmap2gcode-bin)
+dmap2gcode

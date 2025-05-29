@@ -1,0 +1,15 @@
+# [TITLE]: libwacom-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libevdev-dev)
+include(libgudev-dev)
+include(libwacom)
+include(libwacom-bin)
+include(libwacom-data)
+include(libwacom-lib)
+include(pkg-config-bin)
+libwacom-dev

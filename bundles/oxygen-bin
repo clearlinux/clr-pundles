@@ -1,0 +1,20 @@
+# [TITLE]: oxygen-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(oxygen-data)
+include(oxygen-license)
+include(qt6base-lib)
+oxygen-bin

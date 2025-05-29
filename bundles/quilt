@@ -1,0 +1,12 @@
+# [TITLE]: quilt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(quilt-bin)
+include(quilt-data)
+include(quilt-license)
+include(quilt-locales)
+include(quilt-man)
+quilt

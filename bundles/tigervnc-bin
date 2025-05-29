@@ -1,0 +1,30 @@
+# [TITLE]: tigervnc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(fltk-lib)
+include(gmp-lib)
+include(gnutls-lib)
+include(libX11-lib)
+include(libXfont2-lib)
+include(libXtst-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(libunwind-lib)
+include(libxcvt-lib)
+include(mesa-lib)
+include(nettle-lib)
+include(pixman-lib)
+include(systemd-extras-libsystemd)
+include(tigervnc-data)
+include(tigervnc-libexec)
+include(tigervnc-license)
+include(tigervnc-services)
+include(zlib-lib)
+tigervnc-bin

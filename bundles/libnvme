@@ -1,0 +1,11 @@
+# [TITLE]: libnvme
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnvme-lib)
+include(libnvme-license)
+include(libnvme-python)
+include(libnvme-python3)
+libnvme

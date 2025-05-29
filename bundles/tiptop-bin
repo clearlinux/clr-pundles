@@ -1,0 +1,11 @@
+# [TITLE]: tiptop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libxml2-lib)
+include(ncurses-lib)
+include(tiptop-license)
+tiptop-bin

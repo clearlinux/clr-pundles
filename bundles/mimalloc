@@ -1,0 +1,9 @@
+# [TITLE]: mimalloc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mimalloc-lib)
+include(mimalloc-license)
+mimalloc

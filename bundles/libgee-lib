@@ -1,0 +1,11 @@
+# [TITLE]: libgee-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgee-data)
+include(libgee-license)
+libgee-lib

@@ -1,0 +1,8 @@
+# [TITLE]: azure-c-logging-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(azure-c-logging)
+azure-c-logging-dev

@@ -1,0 +1,9 @@
+# [TITLE]: howdy-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(howdy-data)
+include(howdy-license)
+howdy-bin

@@ -1,0 +1,9 @@
+# [TITLE]: clear-font
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clear-font-data)
+include(clear-font-license)
+clear-font

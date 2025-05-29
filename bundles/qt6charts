@@ -1,0 +1,9 @@
+# [TITLE]: qt6charts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6charts-lib)
+include(qt6charts-license)
+qt6charts

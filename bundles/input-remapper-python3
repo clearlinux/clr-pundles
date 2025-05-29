@@ -1,0 +1,13 @@
+# [TITLE]: input-remapper-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pygobject-python3)
+include(pypi-evdev-python3)
+include(pypi-pydantic-python3)
+include(pypi-pydbus-python3)
+include(pypi-setuptools-python3)
+include(python3-core)
+input-remapper-python3

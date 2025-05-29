@@ -1,0 +1,11 @@
+# [TITLE]: grilo-plugins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grilo-plugins-data)
+include(grilo-plugins-lib)
+include(grilo-plugins-license)
+include(grilo-plugins-locales)
+grilo-plugins

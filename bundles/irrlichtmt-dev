@@ -1,0 +1,9 @@
+# [TITLE]: irrlichtmt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(irrlichtmt)
+include(irrlichtmt-lib)
+irrlichtmt-dev

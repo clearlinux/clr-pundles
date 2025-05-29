@@ -1,0 +1,13 @@
+# [TITLE]: pdns-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mariadb-extras-clientlib)
+include(pdns-license)
+include(postgresql-lib)
+pdns-lib

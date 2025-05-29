@@ -1,0 +1,13 @@
+# [TITLE]: kguiaddons-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kguiaddons)
+include(kguiaddons-bin)
+include(kguiaddons-data)
+include(kguiaddons-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+kguiaddons-dev

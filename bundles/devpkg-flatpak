@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-flatpak-dev
+include(flatpak-dev)
 include(libX11client)
 include(curl)
 include(libglib)

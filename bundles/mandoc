@@ -1,0 +1,9 @@
+# [TITLE]: mandoc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mandoc-bin)
+include(mandoc-license)
+mandoc

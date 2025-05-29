@@ -1,0 +1,8 @@
+# [TITLE]: ntfs-3g-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ntfs-3g-man)
+ntfs-3g-doc

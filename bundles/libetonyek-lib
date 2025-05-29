@@ -1,0 +1,15 @@
+# [TITLE]: libetonyek-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(libetonyek-license)
+include(libgcc1)
+include(liblangtag-lib)
+include(librevenge-lib)
+include(libstdc++)
+include(zlib-lib)
+libetonyek-lib

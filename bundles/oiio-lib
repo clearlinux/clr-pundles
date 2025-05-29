@@ -1,0 +1,24 @@
+# [TITLE]: oiio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(LibRaw-lib)
+include(OpenColorIO-lib)
+include(bzip2-lib)
+include(freetype-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(oiio-data)
+include(oiio-license)
+include(openexr-lib)
+include(pugixml-lib)
+include(tbb-lib)
+include(tiff-lib)
+include(zlib-lib)
+oiio-lib

@@ -1,0 +1,11 @@
+# [TITLE]: qpl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qpl)
+include(qpl-data)
+include(qpl-lib)
+qpl-dev

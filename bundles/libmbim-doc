@@ -1,0 +1,8 @@
+# [TITLE]: libmbim-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmbim-man)
+libmbim-doc

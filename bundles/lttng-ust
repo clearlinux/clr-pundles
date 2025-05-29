@@ -1,0 +1,11 @@
+# [TITLE]: lttng-ust
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lttng-ust-bin)
+include(lttng-ust-lib)
+include(lttng-ust-license)
+include(lttng-ust-man)
+lttng-ust

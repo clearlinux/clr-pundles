@@ -1,0 +1,8 @@
+# [TITLE]: nodejs-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nodejs-man)
+nodejs-doc

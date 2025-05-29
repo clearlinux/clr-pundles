@@ -1,0 +1,9 @@
+# [TITLE]: clucene-core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clucene-core-lib)
+include(clucene-core-license)
+clucene-core

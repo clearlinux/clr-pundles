@@ -1,0 +1,9 @@
+# [TITLE]: neofetch-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(neofetch-license)
+neofetch-bin

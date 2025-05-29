@@ -1,0 +1,24 @@
+# [TITLE]: kdeconnect-kde-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kdeconnect-kde-data)
+include(kdeconnect-kde-lib)
+include(kdeconnect-kde-license)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kpeople-lib)
+include(kstatusnotifieritem-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kdeconnect-kde-bin

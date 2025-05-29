@@ -1,0 +1,11 @@
+# [TITLE]: dlt-daemon-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dlt-daemon-data)
+include(dlt-daemon-license)
+include(libc6)
+include(libgcc1)
+dlt-daemon-lib

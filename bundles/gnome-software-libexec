@@ -1,0 +1,13 @@
+# [TITLE]: gnome-software-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-software-lib)
+include(gnome-software-license)
+include(gtk4-lib)
+include(libc6)
+include(libgcc1)
+gnome-software-libexec

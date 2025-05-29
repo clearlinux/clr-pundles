@@ -1,0 +1,14 @@
+# [TITLE]: libbytesize
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbytesize-bin)
+include(libbytesize-lib)
+include(libbytesize-license)
+include(libbytesize-locales)
+include(libbytesize-man)
+include(libbytesize-python)
+include(libbytesize-python3)
+libbytesize

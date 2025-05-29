@@ -1,0 +1,10 @@
+# [TITLE]: libcxx-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcxx-license)
+include(libgcc1)
+libcxx-lib

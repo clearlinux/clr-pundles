@@ -1,0 +1,23 @@
+# [TITLE]: meta-os-core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-bin)
+include(ca-certs-static)
+include(coreutils-bin)
+include(dist-pam-configs)
+include(e2fsprogs-bin)
+include(filesystem)
+include(gawk-bin)
+include(glibc-lib-avx2)
+include(glibc-utils)
+include(grep-bin)
+include(hostname-bin)
+include(nettle-lib)
+include(sed-bin)
+include(shadow)
+include(tzdata-minimal)
+include(util-linux-bin)
+meta-os-core

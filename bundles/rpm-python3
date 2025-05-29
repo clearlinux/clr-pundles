@@ -1,0 +1,10 @@
+# [TITLE]: rpm-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(python3-core)
+include(rpm-lib)
+rpm-python3

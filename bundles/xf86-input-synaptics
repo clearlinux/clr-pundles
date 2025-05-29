@@ -1,0 +1,12 @@
+# [TITLE]: xf86-input-synaptics
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-input-synaptics-bin)
+include(xf86-input-synaptics-data)
+include(xf86-input-synaptics-lib)
+include(xf86-input-synaptics-license)
+include(xf86-input-synaptics-man)
+xf86-input-synaptics

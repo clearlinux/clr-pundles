@@ -1,0 +1,11 @@
+# [TITLE]: cronie-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cronie-license)
+include(cronie-services)
+include(cronie-setuid)
+include(libc6)
+cronie-bin

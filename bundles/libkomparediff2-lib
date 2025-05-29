@@ -1,0 +1,18 @@
+# [TITLE]: libkomparediff2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkomparediff2-data)
+include(libkomparediff2-license)
+include(libstdc++)
+include(qt6base-lib)
+libkomparediff2-lib

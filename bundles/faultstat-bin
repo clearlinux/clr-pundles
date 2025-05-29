@@ -1,0 +1,11 @@
+# [TITLE]: faultstat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(faultstat-data)
+include(faultstat-license)
+include(libc6)
+include(ncurses-lib)
+faultstat-bin

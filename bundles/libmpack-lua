@@ -1,0 +1,9 @@
+# [TITLE]: libmpack-lua
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmpack-lua-lib)
+include(libmpack-lua-license)
+libmpack-lua

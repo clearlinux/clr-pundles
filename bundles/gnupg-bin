@@ -1,0 +1,21 @@
+# [TITLE]: gnupg-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(filesystem)
+include(gnupg-data)
+include(gnupg-libexec)
+include(gnupg-license)
+include(gnutls-lib)
+include(libassuan-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(libgpg-error-lib)
+include(libksba-lib)
+include(npth-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+gnupg-bin

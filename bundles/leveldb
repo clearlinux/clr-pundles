@@ -1,0 +1,9 @@
+# [TITLE]: leveldb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(leveldb-lib)
+include(leveldb-license)
+leveldb

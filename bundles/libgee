@@ -1,0 +1,10 @@
+# [TITLE]: libgee
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgee-data)
+include(libgee-lib)
+include(libgee-license)
+libgee

@@ -1,0 +1,12 @@
+# [TITLE]: wmctrl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libX11-lib)
+include(libXmu-lib)
+include(libc6)
+include(wmctrl-license)
+wmctrl-bin

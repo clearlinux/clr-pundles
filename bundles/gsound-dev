@@ -1,0 +1,13 @@
+# [TITLE]: gsound-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gsound)
+include(gsound-bin)
+include(gsound-data)
+include(gsound-lib)
+include(libcanberra-dev)
+gsound-dev

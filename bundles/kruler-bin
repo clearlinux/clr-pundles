@@ -1,0 +1,22 @@
+# [TITLE]: kruler-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(knotifications-lib)
+include(kruler-data)
+include(kruler-license)
+include(kstatusnotifieritem-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kruler-bin

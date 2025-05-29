@@ -1,0 +1,19 @@
+# [TITLE]: x11vnc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibVNCServer-lib)
+include(cairo-lib)
+include(filesystem)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libXtst-lib)
+include(libc6)
+include(libdrm-lib)
+include(libxcrypt-lib)
+include(openssl-lib)
+include(x11vnc-data)
+include(x11vnc-license)
+x11vnc-bin

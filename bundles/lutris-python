@@ -1,0 +1,8 @@
+# [TITLE]: lutris-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lutris-python3)
+lutris-python

@@ -1,0 +1,9 @@
+# [TITLE]: libspectre
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libspectre-lib)
+include(libspectre-license)
+libspectre

@@ -1,0 +1,12 @@
+# [TITLE]: ltp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gawk-bin)
+include(libc6)
+include(ltp-license)
+include(perl-bin)
+ltp-bin

@@ -1,0 +1,17 @@
+# [TITLE]: evolution-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data)
+include(evolution-data-server-lib)
+include(evolution-lib)
+include(evolution-libexec)
+include(evolution-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libical-lib)
+include(webkitgtk-lib)
+evolution-bin

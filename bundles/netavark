@@ -1,0 +1,11 @@
+# [TITLE]: netavark
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(netavark-libexec)
+include(netavark-license)
+include(netavark-man)
+include(netavark-services)
+netavark

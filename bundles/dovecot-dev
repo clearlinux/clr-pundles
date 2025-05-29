@@ -1,0 +1,11 @@
+# [TITLE]: dovecot-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dovecot)
+include(dovecot-bin)
+include(dovecot-data)
+include(dovecot-lib)
+dovecot-dev

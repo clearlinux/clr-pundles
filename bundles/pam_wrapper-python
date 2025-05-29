@@ -1,0 +1,8 @@
+# [TITLE]: pam_wrapper-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pam_wrapper-python3)
+pam_wrapper-python

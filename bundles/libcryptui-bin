@@ -1,0 +1,19 @@
+# [TITLE]: libcryptui-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(dbus-glib-lib)
+include(dbus-lib)
+include(glib-lib)
+include(gpgme-lib)
+include(gtk3-lib)
+include(libc6)
+include(libcryptui-data)
+include(libcryptui-lib)
+include(libcryptui-license)
+include(libgnome-keyring-lib)
+include(libnotify-lib)
+libcryptui-bin

@@ -1,0 +1,12 @@
+# [TITLE]: routino-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(routino-data)
+include(routino-lib)
+include(zlib-lib)
+routino-bin

@@ -1,0 +1,27 @@
+# [TITLE]: gnome-panel-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(evolution-data-server-lib)
+include(gdk-pixbuf-lib)
+include(gdm-lib)
+include(geocode-glib-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gnome-menus-lib)
+include(gnome-panel-data)
+include(gnome-panel-license)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libgweather-lib)
+include(libical-lib)
+include(libwnck3-lib)
+include(pango-lib)
+include(polkit-lib)
+include(systemd-extras-libsystemd)
+gnome-panel-lib

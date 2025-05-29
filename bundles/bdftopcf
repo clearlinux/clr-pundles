@@ -1,0 +1,10 @@
+# [TITLE]: bdftopcf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bdftopcf-bin)
+include(bdftopcf-license)
+include(bdftopcf-man)
+bdftopcf

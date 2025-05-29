@@ -1,0 +1,22 @@
+# [TITLE]: kde-gtk-config-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(kde-gtk-config-data)
+include(kde-gtk-config-license)
+include(kdecoration-lib)
+include(kguiaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6svg-lib)
+kde-gtk-config-lib

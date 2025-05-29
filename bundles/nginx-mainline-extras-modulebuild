@@ -1,0 +1,8 @@
+# [TITLE]: nginx-mainline-extras-modulebuild
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+nginx-mainline-extras-modulebuild

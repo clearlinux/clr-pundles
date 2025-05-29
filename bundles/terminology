@@ -1,0 +1,12 @@
+# [TITLE]: terminology
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(terminology-bin)
+include(terminology-data)
+include(terminology-license)
+include(terminology-locales)
+include(terminology-man)
+terminology

@@ -1,0 +1,10 @@
+# [TITLE]: kcrash-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcrash)
+include(kcrash-data)
+include(kcrash-lib)
+kcrash-dev

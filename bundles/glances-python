@@ -1,0 +1,8 @@
+# [TITLE]: glances-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glances-python3)
+glances-python

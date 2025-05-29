@@ -1,0 +1,10 @@
+# [TITLE]: po4a-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(po4a-license)
+po4a-bin

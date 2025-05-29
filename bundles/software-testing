@@ -10,11 +10,11 @@ include(python3-basic)
 include(Sphinx)
 include(python-testing)
 
-bats
+include(bats)
 include(check)
-cmocka
+include(cmocka)
 include(devpkg-cmocka)
-glog
+include(glog)
 include(googletest)
 include(perl-TAP-Harness-Archive)
 include(pypi-pytest_cov)

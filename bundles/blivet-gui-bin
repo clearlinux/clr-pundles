@@ -1,0 +1,10 @@
+# [TITLE]: blivet-gui-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(blivet-gui-data)
+include(blivet-gui-license)
+include(python3-core)
+blivet-gui-bin

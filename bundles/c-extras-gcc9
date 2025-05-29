@@ -7,5 +7,5 @@
 
 include(c-basic)
 
-gcc9
-gcc9-dev
+include(gcc9)
+include(gcc9-dev)

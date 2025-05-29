@@ -1,0 +1,10 @@
+# [TITLE]: ipset-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipset-license)
+include(libc6)
+include(libmnl-lib)
+ipset-lib

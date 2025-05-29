@@ -1,0 +1,15 @@
+# [TITLE]: sonnet-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell-lib)
+include(hunspell-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(sonnet-data)
+include(sonnet-license)
+sonnet-lib

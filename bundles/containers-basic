@@ -14,14 +14,14 @@ include(btrfs-progs)
 
 include(LVM2-bin)
 include(LVM2-config)
-bridge-utils
-buildx
-cni-plugins
-containerd
-cri-o
-cri-tools
-docker
+include(bridge-utils)
+include(buildx)
+include(cni-plugins)
+include(containerd)
+include(cri-o)
+include(cri-tools)
+include(docker)
 include(gnupg)
-tini
+include(tini)
 include(icu4c-lib)
 include(gobject-introspection)

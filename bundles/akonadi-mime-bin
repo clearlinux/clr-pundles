@@ -1,0 +1,17 @@
+# [TITLE]: akonadi-mime-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(akonadi-mime-data)
+include(akonadi-mime-lib)
+include(akonadi-mime-license)
+include(kcoreaddons-lib)
+include(kmime-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+akonadi-mime-bin

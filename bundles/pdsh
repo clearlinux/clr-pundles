@@ -1,0 +1,11 @@
+# [TITLE]: pdsh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pdsh-bin)
+include(pdsh-lib)
+include(pdsh-license)
+include(pdsh-man)
+pdsh

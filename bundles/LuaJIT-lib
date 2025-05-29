@@ -1,0 +1,11 @@
+# [TITLE]: LuaJIT-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-data)
+include(LuaJIT-license)
+include(libc6)
+include(libgcc1)
+LuaJIT-lib

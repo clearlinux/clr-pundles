@@ -1,0 +1,11 @@
+# [TITLE]: ppp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ppp-bin)
+include(ppp-lib)
+include(ppp-license)
+include(ppp-man)
+ppp

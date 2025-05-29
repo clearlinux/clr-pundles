@@ -1,0 +1,12 @@
+# [TITLE]: akregator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akregator-bin)
+include(akregator-data)
+include(akregator-lib)
+include(akregator-license)
+include(akregator-locales)
+akregator

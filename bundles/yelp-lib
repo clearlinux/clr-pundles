@@ -1,0 +1,17 @@
+# [TITLE]: yelp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libxslt-lib)
+include(sqlite-autoconf-lib)
+include(webkitgtk-lib)
+include(yelp-data)
+include(yelp-license)
+yelp-lib

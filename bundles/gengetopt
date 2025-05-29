@@ -1,0 +1,12 @@
+# [TITLE]: gengetopt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gengetopt-bin)
+include(gengetopt-data)
+include(gengetopt-info)
+include(gengetopt-license)
+include(gengetopt-man)
+gengetopt

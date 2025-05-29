@@ -1,0 +1,8 @@
+# [TITLE]: netaddr-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+netaddr-python3

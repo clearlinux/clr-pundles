@@ -1,0 +1,10 @@
+# [TITLE]: borgbackup-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(borgbackup-data)
+include(borgbackup-license)
+include(python3-core)
+borgbackup-bin

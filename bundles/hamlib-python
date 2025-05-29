@@ -1,0 +1,8 @@
+# [TITLE]: hamlib-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hamlib-python3)
+hamlib-python

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-tpm2-tss-dev
+include(tpm2-tss-dev)
 include(curl)

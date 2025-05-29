@@ -1,0 +1,12 @@
+# [TITLE]: qt6speech-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6multimedia-dev)
+include(qt6speech)
+include(qt6speech-lib)
+qt6speech-dev

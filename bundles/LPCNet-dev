@@ -1,0 +1,10 @@
+# [TITLE]: LPCNet-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LPCNet)
+include(LPCNet-bin)
+include(LPCNet-lib)
+LPCNet-dev

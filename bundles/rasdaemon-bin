@@ -1,0 +1,12 @@
+# [TITLE]: rasdaemon-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtraceevent-lib)
+include(perl-bin)
+include(rasdaemon-license)
+include(sqlite-autoconf-lib)
+rasdaemon-bin

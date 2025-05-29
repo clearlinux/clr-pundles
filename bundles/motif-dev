@@ -1,0 +1,11 @@
+# [TITLE]: motif-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(motif)
+include(motif-bin)
+include(motif-data)
+include(motif-lib)
+motif-dev

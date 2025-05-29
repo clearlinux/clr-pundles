@@ -1,0 +1,12 @@
+# [TITLE]: efivar-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efivar)
+include(efivar-bin)
+include(efivar-dev)
+include(efivar-lib)
+include(pkg-config-bin)
+efivar-dev

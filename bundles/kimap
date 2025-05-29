@@ -1,0 +1,11 @@
+# [TITLE]: kimap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kimap-data)
+include(kimap-lib)
+include(kimap-license)
+include(kimap-locales)
+kimap

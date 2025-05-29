@@ -1,0 +1,23 @@
+# [TITLE]: stress-ng-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Judy-lib)
+include(gmp-lib)
+include(intel-ipsec-mb-lib)
+include(kmod-lib)
+include(libbsd-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(libxcrypt-lib)
+include(mesa-lib)
+include(mpfr-lib)
+include(stress-ng-data)
+include(stress-ng-license)
+include(zlib-lib)
+stress-ng-bin

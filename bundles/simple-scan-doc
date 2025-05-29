@@ -1,0 +1,8 @@
+# [TITLE]: simple-scan-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(simple-scan-man)
+simple-scan-doc

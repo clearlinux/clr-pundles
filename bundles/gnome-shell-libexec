@@ -1,0 +1,17 @@
+# [TITLE]: gnome-shell-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-lib)
+include(gdk-pixbuf-lib)
+include(gjs-lib)
+include(glib-lib)
+include(gnome-shell-license)
+include(graphene-lib)
+include(gtk4-lib)
+include(libc6)
+include(libgcc1)
+include(libical-lib)
+gnome-shell-libexec

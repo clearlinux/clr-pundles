@@ -1,0 +1,11 @@
+# [TITLE]: qca-qt5
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qca-qt5-bin)
+include(qca-qt5-lib)
+include(qca-qt5-license)
+include(qca-qt5-man)
+qca-qt5

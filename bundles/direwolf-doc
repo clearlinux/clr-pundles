@@ -1,0 +1,8 @@
+# [TITLE]: direwolf-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(direwolf-man)
+direwolf-doc

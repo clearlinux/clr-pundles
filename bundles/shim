@@ -1,0 +1,8 @@
+# [TITLE]: shim
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(shim-license)
+shim

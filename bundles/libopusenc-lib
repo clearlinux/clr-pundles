@@ -1,0 +1,10 @@
+# [TITLE]: libopusenc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libopusenc-license)
+include(opus-lib)
+libopusenc-lib

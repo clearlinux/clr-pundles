@@ -1,0 +1,8 @@
+# [TITLE]: openvpn-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+openvpn-services

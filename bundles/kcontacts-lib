@@ -1,0 +1,17 @@
+# [TITLE]: kcontacts-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs-lib)
+include(kconfig-lib)
+include(kcontacts-data)
+include(kcontacts-license)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kcontacts-lib

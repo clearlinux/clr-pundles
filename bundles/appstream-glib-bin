@@ -1,0 +1,16 @@
+# [TITLE]: appstream-glib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-glib-data)
+include(appstream-glib-lib)
+include(appstream-glib-license)
+include(curl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+appstream-glib-bin

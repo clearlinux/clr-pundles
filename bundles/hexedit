@@ -1,0 +1,10 @@
+# [TITLE]: hexedit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hexedit-bin)
+include(hexedit-license)
+include(hexedit-man)
+hexedit

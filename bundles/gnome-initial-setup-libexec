@@ -1,0 +1,31 @@
+# [TITLE]: gnome-initial-setup-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-lib)
+include(accountsservice-lib)
+include(fontconfig-lib)
+include(gdk-pixbuf-lib)
+include(gdm-lib)
+include(geoclue-lib)
+include(geocode-glib-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gnome-initial-setup-license)
+include(gtk4-lib)
+include(harfbuzz-lib)
+include(ibus-lib)
+include(krb5-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(libgweather-lib)
+include(libnma-lib)
+include(libpwquality-lib)
+include(libsecret-lib)
+include(pango-lib)
+include(polkit-lib)
+include(webkitgtk60-lib)
+gnome-initial-setup-libexec

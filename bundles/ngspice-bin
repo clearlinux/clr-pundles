@@ -1,0 +1,21 @@
+# [TITLE]: ngspice-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fftw-lib)
+include(fontconfig-lib)
+include(gcc-libs-math)
+include(libX11-lib)
+include(libXaw-lib)
+include(libXft-lib)
+include(libXt-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ncurses-lib)
+include(ngspice-data)
+include(ngspice-license)
+include(readline-lib)
+ngspice-bin

@@ -1,0 +1,13 @@
+# [TITLE]: qtdeclarative-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libglvnd-lib)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-license)
+qtdeclarative-lib

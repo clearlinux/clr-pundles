@@ -1,0 +1,26 @@
+# [TITLE]: metacity-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-lib)
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libXpresent-lib)
+include(libXres-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libgtop-lib)
+include(metacity-data)
+include(metacity-lib)
+include(metacity-license)
+include(pango-lib)
+include(startup-notification-lib)
+metacity-bin

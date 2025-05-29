@@ -1,0 +1,21 @@
+# [TITLE]: mimetreeparser-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-extras)
+include(gpgme-lib)
+include(kcalendarcore-lib)
+include(ki18n-lib)
+include(kmbox-lib)
+include(kmime-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libkleo-lib)
+include(libstdc++)
+include(mimetreeparser-data)
+include(mimetreeparser-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+mimetreeparser-lib

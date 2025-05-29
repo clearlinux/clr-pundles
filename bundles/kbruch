@@ -1,0 +1,12 @@
+# [TITLE]: kbruch
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbruch-bin)
+include(kbruch-data)
+include(kbruch-license)
+include(kbruch-locales)
+include(kbruch-man)
+kbruch

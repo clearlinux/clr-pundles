@@ -1,0 +1,8 @@
+# [TITLE]: vapoursynth-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vapoursynth-python3)
+vapoursynth-python

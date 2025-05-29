@@ -1,0 +1,13 @@
+# [TITLE]: exo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exo-bin)
+include(exo-data)
+include(exo-lib)
+include(exo-license)
+include(exo-locales)
+include(exo-man)
+exo

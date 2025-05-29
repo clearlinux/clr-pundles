@@ -1,0 +1,12 @@
+# [TITLE]: PyQt5
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyQt5-bin)
+include(PyQt5-lib)
+include(PyQt5-license)
+include(PyQt5-python)
+include(PyQt5-python3)
+PyQt5

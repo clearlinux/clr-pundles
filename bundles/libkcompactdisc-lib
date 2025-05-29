@@ -1,0 +1,15 @@
+# [TITLE]: libkcompactdisc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(ki18n-lib)
+include(libc6)
+include(libkcompactdisc-license)
+include(libstdc++)
+include(phonon-lib)
+include(qt6base-lib)
+include(solid-lib)
+libkcompactdisc-lib

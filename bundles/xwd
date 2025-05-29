@@ -1,0 +1,10 @@
+# [TITLE]: xwd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xwd-bin)
+include(xwd-license)
+include(xwd-man)
+xwd

@@ -1,0 +1,10 @@
+# [TITLE]: seatd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(seatd-license)
+include(systemd-extras-libsystemd)
+seatd-lib

@@ -1,0 +1,8 @@
+# [TITLE]: rt-tests-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rt-tests-python3)
+rt-tests-python

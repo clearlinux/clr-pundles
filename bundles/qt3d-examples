@@ -1,0 +1,8 @@
+# [TITLE]: qt3d-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt3d-dev)
+qt3d-examples

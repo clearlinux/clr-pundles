@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-xrdp-dev
+include(xrdp-dev)
 include(lib-imageformat)
 include(libX11client)
 include(xrdp)

@@ -1,0 +1,8 @@
+# [TITLE]: micro-config-drive-aliyun
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(micro-config-drive)
+micro-config-drive-aliyun

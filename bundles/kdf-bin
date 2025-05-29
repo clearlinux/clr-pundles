@@ -1,0 +1,23 @@
+# [TITLE]: kdf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdf-data)
+include(kdf-lib)
+include(kdf-license)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kstatusnotifieritem-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdf-bin

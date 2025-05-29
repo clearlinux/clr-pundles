@@ -1,0 +1,12 @@
+# [TITLE]: python-zeep
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-requests_file-python3)
+include(pypi-requests_toolbelt-python3)
+include(python-zeep-license)
+include(python-zeep-python)
+include(python-zeep-python3)
+python-zeep

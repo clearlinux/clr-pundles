@@ -1,0 +1,11 @@
+# [TITLE]: QGIS-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QGIS)
+include(QGIS-bin)
+include(QGIS-data)
+include(QGIS-lib)
+QGIS-dev

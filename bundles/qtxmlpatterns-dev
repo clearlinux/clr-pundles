@@ -1,0 +1,11 @@
+# [TITLE]: qtxmlpatterns-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtxmlpatterns)
+include(qtxmlpatterns-bin)
+include(qtxmlpatterns-lib)
+qtxmlpatterns-dev

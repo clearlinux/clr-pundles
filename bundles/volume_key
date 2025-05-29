@@ -1,0 +1,14 @@
+# [TITLE]: volume_key
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(volume_key-bin)
+include(volume_key-lib)
+include(volume_key-license)
+include(volume_key-locales)
+include(volume_key-man)
+include(volume_key-python)
+include(volume_key-python3)
+volume_key

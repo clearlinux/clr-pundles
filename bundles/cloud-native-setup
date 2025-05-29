@@ -1,0 +1,9 @@
+# [TITLE]: cloud-native-setup
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cloud-native-setup-data)
+include(cloud-native-setup-license)
+cloud-native-setup

@@ -1,0 +1,17 @@
+# [TITLE]: ibus-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glib-lib)
+include(ibus-data)
+include(ibus-lib)
+include(ibus-libexec)
+include(ibus-license)
+include(ibus-services)
+include(libc6)
+include(libxkbcommon-lib)
+include(wayland-lib)
+ibus-bin

@@ -1,0 +1,9 @@
+# [TITLE]: freeglut
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freeglut-lib)
+include(freeglut-license)
+freeglut

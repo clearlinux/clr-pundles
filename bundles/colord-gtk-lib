@@ -1,0 +1,14 @@
+# [TITLE]: colord-gtk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(colord-gtk-data)
+include(colord-gtk-license)
+include(colord-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(gtk4-lib)
+colord-gtk-lib

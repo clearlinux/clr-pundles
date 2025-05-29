@@ -1,0 +1,14 @@
+# [TITLE]: nodejs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+include(coreutils-bin)
+include(filesystem)
+include(libuv)
+include(nodejs-bin)
+include(nodejs-license)
+include(nodejs-man)
+nodejs

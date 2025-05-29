@@ -1,0 +1,24 @@
+# [TITLE]: Remmina-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Remmina-data)
+include(Remmina-license)
+include(cairo-lib)
+include(curl-lib)
+include(filesystem)
+include(glib-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libappindicator-lib)
+include(libc6)
+include(libgcc1)
+include(libgcrypt-lib)
+include(libsodium-lib)
+include(libssh-lib)
+include(openssl-lib)
+include(pango-lib)
+include(vte-lib)
+Remmina-bin

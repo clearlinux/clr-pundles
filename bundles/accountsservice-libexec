@@ -1,0 +1,12 @@
+# [TITLE]: accountsservice-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(accountsservice-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(polkit-lib)
+accountsservice-libexec

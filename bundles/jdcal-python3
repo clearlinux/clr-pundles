@@ -1,0 +1,8 @@
+# [TITLE]: jdcal-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+jdcal-python3

@@ -1,0 +1,14 @@
+# [TITLE]: hamlib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hamlib-bin)
+include(hamlib-lib)
+include(hamlib-license)
+include(hamlib-man)
+include(hamlib-perl)
+include(hamlib-python)
+include(hamlib-python3)
+hamlib

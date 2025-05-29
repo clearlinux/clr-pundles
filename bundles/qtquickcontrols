@@ -1,0 +1,9 @@
+# [TITLE]: qtquickcontrols
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtquickcontrols-lib)
+include(qtquickcontrols-license)
+qtquickcontrols

@@ -1,0 +1,16 @@
+# [TITLE]: geoclue-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager-lib)
+include(geoclue-lib)
+include(geoclue-license)
+include(glib-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libnotify-lib)
+include(libsoup-lib)
+geoclue-libexec

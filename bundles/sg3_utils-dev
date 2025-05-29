@@ -1,0 +1,10 @@
+# [TITLE]: sg3_utils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sg3_utils)
+include(sg3_utils-bin)
+include(sg3_utils-lib)
+sg3_utils-dev

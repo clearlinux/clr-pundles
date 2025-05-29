@@ -1,0 +1,12 @@
+# [TITLE]: xdg-user-dirs-gtk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(xdg-user-dirs-gtk-data)
+include(xdg-user-dirs-gtk-license)
+xdg-user-dirs-gtk-bin

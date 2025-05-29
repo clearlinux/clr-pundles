@@ -1,0 +1,10 @@
+# [TITLE]: time
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(time-bin)
+include(time-info)
+include(time-license)
+time

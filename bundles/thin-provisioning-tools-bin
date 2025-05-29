@@ -1,0 +1,10 @@
+# [TITLE]: thin-provisioning-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(thin-provisioning-tools-license)
+thin-provisioning-tools-bin

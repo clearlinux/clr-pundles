@@ -1,0 +1,11 @@
+# [TITLE]: mm-common-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mm-common)
+include(mm-common-bin)
+include(mm-common-data)
+include(pkg-config-bin)
+mm-common-dev

@@ -1,0 +1,10 @@
+# [TITLE]: libwpg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwpg-bin)
+include(libwpg-lib)
+include(libwpg-license)
+libwpg

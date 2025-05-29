@@ -1,0 +1,8 @@
+# [TITLE]: qtremoteobjects-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtremoteobjects-dev)
+qtremoteobjects-examples

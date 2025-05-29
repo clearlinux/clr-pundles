@@ -1,0 +1,13 @@
+# [TITLE]: kshisen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmahjongg)
+include(kshisen-bin)
+include(kshisen-data)
+include(kshisen-license)
+include(kshisen-locales)
+include(libkmahjongg)
+kshisen

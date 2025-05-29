@@ -1,0 +1,23 @@
+# [TITLE]: slurm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(hdf5-lib)
+include(hwloc-lib)
+include(libc6)
+include(lz4-lib)
+include(numactl-lib)
+include(readline-lib)
+include(slurm-config)
+include(slurm-data)
+include(slurm-lib)
+include(slurm-license)
+include(slurm-services)
+include(zlib-lib)
+slurm-bin

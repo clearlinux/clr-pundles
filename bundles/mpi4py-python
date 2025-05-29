@@ -1,0 +1,8 @@
+# [TITLE]: mpi4py-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpi4py-python3)
+mpi4py-python

@@ -1,0 +1,13 @@
+# [TITLE]: OpenIPMI-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenIPMI-lib)
+include(OpenIPMI-license)
+include(gdbm-lib)
+include(libc6)
+include(popt-lib)
+include(readline-lib)
+OpenIPMI-bin

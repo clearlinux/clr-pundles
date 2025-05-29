@@ -1,0 +1,10 @@
+# [TITLE]: raptor2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(raptor2-lib)
+include(raptor2-license)
+raptor2-bin

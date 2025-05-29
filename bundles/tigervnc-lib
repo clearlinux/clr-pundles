@@ -1,0 +1,20 @@
+# [TITLE]: tigervnc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(gmp-lib)
+include(gnutls-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(nettle-lib)
+include(pixman-lib)
+include(tigervnc-data)
+include(tigervnc-libexec)
+include(tigervnc-license)
+include(zlib-lib)
+tigervnc-lib

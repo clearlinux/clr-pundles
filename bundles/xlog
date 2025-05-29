@@ -1,0 +1,12 @@
+# [TITLE]: xlog
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xlog-bin)
+include(xlog-data)
+include(xlog-license)
+include(xlog-locales)
+include(xlog-man)
+xlog

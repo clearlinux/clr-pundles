@@ -1,0 +1,10 @@
+# [TITLE]: exfatprogs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exfatprogs-bin)
+include(exfatprogs-license)
+include(exfatprogs-man)
+exfatprogs

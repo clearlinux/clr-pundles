@@ -15,8 +15,8 @@ also-add(openmpi)
 also-add(modules)
 include(munge)
 include(pmix)
-pdsh
-slurm
+include(pdsh)
+include(slurm)
 
 include(lz4)
 include(numactl)

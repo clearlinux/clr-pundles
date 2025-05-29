@@ -1,0 +1,10 @@
+# [TITLE]: arandr-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(arandr-data)
+include(arandr-license)
+include(python3-core)
+arandr-bin

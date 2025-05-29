@@ -1,0 +1,16 @@
+# [TITLE]: alsa-plugins-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(alsa-plugins-data)
+include(alsa-plugins-license)
+include(libavtp-lib)
+include(libc6)
+include(libsamplerate-lib)
+include(not-ffmpeg-lib)
+include(pulseaudio-lib)
+include(speexdsp-lib)
+alsa-plugins-lib

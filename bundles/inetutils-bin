@@ -1,0 +1,10 @@
+# [TITLE]: inetutils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inetutils-license)
+include(libc6)
+include(ncurses-lib)
+inetutils-bin

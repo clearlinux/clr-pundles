@@ -1,0 +1,10 @@
+# [TITLE]: gbinder-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gbinder-python-license)
+include(gbinder-python-python)
+include(gbinder-python-python3)
+gbinder-python

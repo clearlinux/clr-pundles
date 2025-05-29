@@ -1,0 +1,13 @@
+# [TITLE]: libplist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libplist-bin)
+include(libplist-lib)
+include(libplist-license)
+include(libplist-man)
+include(libplist-python)
+include(libplist-python3)
+libplist

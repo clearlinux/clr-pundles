@@ -1,0 +1,13 @@
+# [TITLE]: libskk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgee-lib)
+include(libskk-data)
+include(libskk-lib)
+include(libskk-license)
+libskk-bin

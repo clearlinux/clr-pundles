@@ -1,0 +1,20 @@
+# [TITLE]: obs-studio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(not-ffmpeg-lib)
+include(obs-studio-data)
+include(obs-studio-lib)
+include(obs-studio-license)
+include(python3-lib)
+include(qt6base-lib)
+include(qt6svg-lib)
+obs-studio-bin

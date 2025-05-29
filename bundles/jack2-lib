@@ -1,0 +1,13 @@
+# [TITLE]: jack2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(jack2-license)
+include(libc6)
+include(libgcc1)
+include(libsamplerate-lib)
+include(libstdc++)
+jack2-lib

@@ -1,0 +1,11 @@
+# [TITLE]: compat-gtksourceview-soname3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gtksourceview-soname3-data)
+include(compat-gtksourceview-soname3-lib)
+include(compat-gtksourceview-soname3-license)
+include(compat-gtksourceview-soname3-locales)
+compat-gtksourceview-soname3

@@ -1,0 +1,16 @@
+# [TITLE]: lxc-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(filesystem)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libseccomp-lib)
+include(lxc-lib)
+include(lxc-license)
+include(openssl-lib)
+lxc-libexec

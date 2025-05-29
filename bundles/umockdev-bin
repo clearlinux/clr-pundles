@@ -1,0 +1,14 @@
+# [TITLE]: umockdev-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glib-lib)
+include(libc6)
+include(libpcap-lib)
+include(umockdev-data)
+include(umockdev-lib)
+include(umockdev-license)
+umockdev-bin

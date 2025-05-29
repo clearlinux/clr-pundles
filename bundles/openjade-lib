@@ -1,0 +1,11 @@
+# [TITLE]: openjade-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(openjade-data)
+include(openjade-license)
+openjade-lib

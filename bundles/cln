@@ -1,0 +1,12 @@
+# [TITLE]: cln
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cln-bin)
+include(cln-info)
+include(cln-lib)
+include(cln-license)
+include(cln-man)
+cln

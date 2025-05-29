@@ -1,0 +1,13 @@
+# [TITLE]: kpackage
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kpackage-bin)
+include(kpackage-data)
+include(kpackage-lib)
+include(kpackage-license)
+include(kpackage-locales)
+include(kpackage-man)
+kpackage

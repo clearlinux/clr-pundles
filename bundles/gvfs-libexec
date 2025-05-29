@@ -1,0 +1,30 @@
+# [TITLE]: gvfs-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(fuse-lib)
+include(glib-lib)
+include(gnome-online-accounts-lib)
+include(gvfs-config)
+include(gvfs-lib)
+include(gvfs-license)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libgcrypt-lib)
+include(libgdata-lib)
+include(libgphoto2-lib)
+include(libgudev-lib)
+include(libmsgraph-lib)
+include(libmtp-lib)
+include(libsecret-lib)
+include(libsoup-lib)
+include(libusb-lib)
+include(polkit-lib)
+include(samba-lib)
+include(systemd-extras-libsystemd)
+include(udisks2-lib)
+gvfs-libexec

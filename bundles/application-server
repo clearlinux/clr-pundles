@@ -11,5 +11,5 @@ include(mod_wsgi)
 include(nginx)
 include(uwsgi)
 
-httpd-dev
-httpd-extras
+include(httpd-dev)
+include(httpd-extras)

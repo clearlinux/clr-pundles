@@ -1,0 +1,11 @@
+# [TITLE]: bcftools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bcftools-bin)
+include(bcftools-libexec)
+include(bcftools-license)
+include(bcftools-man)
+bcftools

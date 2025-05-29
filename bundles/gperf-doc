@@ -1,0 +1,9 @@
+# [TITLE]: gperf-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gperf-info)
+include(gperf-man)
+gperf-doc

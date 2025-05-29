@@ -1,0 +1,12 @@
+# [TITLE]: dmlc-core-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dmlc-core-license)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+dmlc-core-lib

@@ -1,0 +1,8 @@
+# [TITLE]: autossh-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autossh-man)
+autossh-doc

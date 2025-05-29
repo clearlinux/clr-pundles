@@ -1,0 +1,10 @@
+# [TITLE]: catch2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(catch2-data)
+include(catch2-lib)
+include(catch2-license)
+catch2

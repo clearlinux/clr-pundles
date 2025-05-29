@@ -1,0 +1,11 @@
+# [TITLE]: qt6tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6tools-data)
+include(qt6tools-lib)
+include(qt6tools-libexec)
+include(qt6tools-license)
+qt6tools

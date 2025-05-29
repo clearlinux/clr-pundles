@@ -1,0 +1,9 @@
+# [TITLE]: dmlc-core
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dmlc-core-lib)
+include(dmlc-core-license)
+dmlc-core

@@ -1,0 +1,11 @@
+# [TITLE]: libspelling
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libspelling-data)
+include(libspelling-lib)
+include(libspelling-license)
+include(libspelling-locales)
+libspelling

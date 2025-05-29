@@ -1,0 +1,9 @@
+# [TITLE]: qt6quick3dphysics
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6quick3dphysics-lib)
+include(qt6quick3dphysics-license)
+qt6quick3dphysics

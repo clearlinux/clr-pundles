@@ -1,0 +1,14 @@
+# [TITLE]: plasma-activities-stats-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-activities-lib)
+include(plasma-activities-stats-data)
+include(plasma-activities-stats-license)
+include(qt6base-lib)
+plasma-activities-stats-lib

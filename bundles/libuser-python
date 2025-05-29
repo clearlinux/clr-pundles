@@ -1,0 +1,8 @@
+# [TITLE]: libuser-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libuser-python3)
+libuser-python

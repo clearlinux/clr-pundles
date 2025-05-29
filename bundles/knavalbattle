@@ -1,0 +1,11 @@
+# [TITLE]: knavalbattle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(knavalbattle-bin)
+include(knavalbattle-data)
+include(knavalbattle-license)
+include(knavalbattle-locales)
+knavalbattle

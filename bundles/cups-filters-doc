@@ -1,0 +1,8 @@
+# [TITLE]: cups-filters-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-filters-man)
+cups-filters-doc

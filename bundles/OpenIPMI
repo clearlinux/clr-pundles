@@ -1,0 +1,13 @@
+# [TITLE]: OpenIPMI
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenIPMI-bin)
+include(OpenIPMI-lib)
+include(OpenIPMI-license)
+include(OpenIPMI-man)
+include(OpenIPMI-python)
+include(OpenIPMI-python3)
+OpenIPMI

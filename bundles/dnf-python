@@ -1,0 +1,8 @@
+# [TITLE]: dnf-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dnf-python3)
+dnf-python

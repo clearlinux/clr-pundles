@@ -7,7 +7,7 @@
 
 include(libstdcpp)
 include(c-basic)
-mingw-gcc
-mingw-binutils
-mingw-crt
-mingw-crt-dev
+include(mingw-gcc)
+include(mingw-binutils)
+include(mingw-crt)
+include(mingw-crt-dev)

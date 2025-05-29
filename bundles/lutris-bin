@@ -1,0 +1,10 @@
+# [TITLE]: lutris-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(lutris-data)
+include(lutris-license)
+lutris-bin

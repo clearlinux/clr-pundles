@@ -10,11 +10,11 @@ include(desktop-kde-libs)
 include(libX11client)
 include(qt-basic)
 
-blinken
-gcompris-qt
-kanagram
-khangman
-klettres
-ktuberling
+include(blinken)
+include(gcompris-qt)
+include(kanagram)
+include(khangman)
+include(klettres)
+include(ktuberling)
 include(kde-frameworks5)
 include(qt6-basic)

@@ -1,0 +1,14 @@
+# [TITLE]: awscli
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(awscli-bin)
+include(awscli-license)
+include(awscli-python)
+include(awscli-python3)
+include(botocore-python3)
+include(pypi-jmespath-python3)
+include(pypi-s3transfer-python3)
+awscli

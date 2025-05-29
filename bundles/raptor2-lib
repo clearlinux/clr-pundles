@@ -1,0 +1,14 @@
+# [TITLE]: raptor2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(icu4c-lib)
+include(libc6)
+include(libxml2-lib)
+include(libxslt-lib)
+include(raptor2-license)
+include(yajl-lib)
+raptor2-lib

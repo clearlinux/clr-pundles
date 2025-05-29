@@ -1,0 +1,14 @@
+# [TITLE]: libpanel-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk4-dev)
+include(libadwaita-dev)
+include(libpanel)
+include(libpanel-data)
+include(libpanel-lib)
+include(pkg-config-bin)
+libpanel-dev

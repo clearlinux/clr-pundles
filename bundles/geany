@@ -14,7 +14,7 @@ include(vte-lib)
 include(aspell)
 include(libpsl-lib)
 include(icu4c-lib)
-geany-plugins
+include(geany-plugins)
 # end of custom additions
 
 # main package

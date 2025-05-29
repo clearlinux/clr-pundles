@@ -1,0 +1,12 @@
+# [TITLE]: qt3d-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(assimp-lib)
+include(libc6)
+include(libstdc++)
+include(qt3d-license)
+include(qtbase-extras)
+qt3d-bin

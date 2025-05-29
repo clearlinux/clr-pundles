@@ -1,0 +1,8 @@
+# [TITLE]: ipaddr-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+ipaddr-python3

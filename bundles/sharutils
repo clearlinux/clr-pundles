@@ -1,0 +1,12 @@
+# [TITLE]: sharutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sharutils-bin)
+include(sharutils-info)
+include(sharutils-license)
+include(sharutils-locales)
+include(sharutils-man)
+sharutils

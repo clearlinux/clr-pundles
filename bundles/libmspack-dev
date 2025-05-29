@@ -1,0 +1,10 @@
+# [TITLE]: libmspack-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmspack)
+include(libmspack-lib)
+include(pkg-config-bin)
+libmspack-dev

@@ -1,0 +1,11 @@
+# [TITLE]: ksirk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksirk-bin)
+include(ksirk-data)
+include(ksirk-license)
+include(ksirk-locales)
+ksirk

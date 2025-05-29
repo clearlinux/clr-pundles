@@ -1,0 +1,10 @@
+# [TITLE]: iasimage
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iasimage-bin)
+include(iasimage-license)
+include(pypi-cryptography-python3)
+iasimage

@@ -1,0 +1,12 @@
+# [TITLE]: pciutils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(pciutils-data)
+include(pciutils-license)
+include(systemd-lib)
+include(zlib-lib)
+pciutils-lib

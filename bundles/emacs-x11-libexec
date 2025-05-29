@@ -1,0 +1,8 @@
+# [TITLE]: emacs-x11-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(emacs-x11-license)
+emacs-x11-libexec

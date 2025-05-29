@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-liboauth-dev
+include(liboauth-dev)
 include(curl)

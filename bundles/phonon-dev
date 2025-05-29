@@ -1,0 +1,12 @@
+# [TITLE]: phonon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(phonon)
+include(phonon-bin)
+include(phonon-data)
+include(phonon-lib)
+include(pkg-config-bin)
+phonon-dev

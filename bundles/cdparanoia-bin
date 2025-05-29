@@ -1,0 +1,10 @@
+# [TITLE]: cdparanoia-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cdparanoia-lib)
+include(cdparanoia-license)
+include(libc6)
+cdparanoia-bin

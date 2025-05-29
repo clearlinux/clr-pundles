@@ -1,0 +1,11 @@
+# [TITLE]: tdb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(tdb)
+include(tdb-bin)
+include(tdb-lib)
+tdb-dev

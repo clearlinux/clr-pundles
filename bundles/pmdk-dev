@@ -1,0 +1,14 @@
+# [TITLE]: pmdk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ndctl-dev)
+include(pkg-config-bin)
+include(pmdk)
+include(pmdk-bin)
+include(pmdk-data)
+include(pmdk-dev)
+include(pmdk-lib)
+pmdk-dev

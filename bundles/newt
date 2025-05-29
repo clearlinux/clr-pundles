@@ -1,0 +1,14 @@
+# [TITLE]: newt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(newt-bin)
+include(newt-lib)
+include(newt-license)
+include(newt-locales)
+include(newt-man)
+include(newt-python)
+include(newt-python3)
+newt

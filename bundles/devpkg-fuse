@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-fuse-dev
+include(fuse-dev)
 include(fuse)

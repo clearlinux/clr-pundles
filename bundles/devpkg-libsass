@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libsass-dev
+include(libsass-dev)
 include(libstdcpp)

@@ -1,0 +1,14 @@
+# [TITLE]: vte
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vte-bin)
+include(vte-data)
+include(vte-lib)
+include(vte-libexec)
+include(vte-license)
+include(vte-locales)
+include(vte-services)
+vte

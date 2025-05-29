@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-telemetrics-client-dev
+include(telemetrics-client-dev)
 include(curl)

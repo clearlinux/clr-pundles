@@ -1,0 +1,11 @@
+# [TITLE]: tecla-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(tecla)
+include(tecla-bin)
+include(tecla-data)
+tecla-dev

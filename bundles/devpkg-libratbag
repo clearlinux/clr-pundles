@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libratbag-dev
+include(libratbag-dev)
 include(libglib)
 include(libratbag)

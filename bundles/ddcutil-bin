@@ -1,0 +1,16 @@
+# [TITLE]: ddcutil-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ddcutil-config)
+include(ddcutil-data)
+include(ddcutil-license)
+include(glib-lib)
+include(jansson-lib)
+include(libX11-lib)
+include(libc6)
+include(libdrm-lib)
+include(systemd-lib)
+ddcutil-bin

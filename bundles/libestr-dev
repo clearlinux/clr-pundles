@@ -1,0 +1,9 @@
+# [TITLE]: libestr-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libestr)
+include(libestr-lib)
+libestr-dev

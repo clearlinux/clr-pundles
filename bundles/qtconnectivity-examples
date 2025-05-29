@@ -1,0 +1,8 @@
+# [TITLE]: qtconnectivity-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtconnectivity-dev)
+qtconnectivity-examples

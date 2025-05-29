@@ -1,0 +1,12 @@
+# [TITLE]: xfburn
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfburn-bin)
+include(xfburn-data)
+include(xfburn-license)
+include(xfburn-locales)
+include(xfburn-man)
+xfburn

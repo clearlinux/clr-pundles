@@ -1,0 +1,17 @@
+# [TITLE]: libgdata-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsoup-soname-24-lib)
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gsettings-desktop-schemas)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgdata)
+include(libgdata-lib)
+include(uhttpmock-lib)
+libgdata-tests

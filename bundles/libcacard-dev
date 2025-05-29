@@ -1,0 +1,11 @@
+# [TITLE]: libcacard-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libcacard)
+include(libcacard-lib)
+include(nss-dev)
+libcacard-dev

@@ -1,0 +1,10 @@
+# [TITLE]: OpenCASCADE-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenCASCADE)
+include(OpenCASCADE-data)
+include(OpenCASCADE-lib)
+OpenCASCADE-dev

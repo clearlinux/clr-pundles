@@ -1,0 +1,20 @@
+# [TITLE]: xterm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(fontconfig-lib)
+include(freetype-lib)
+include(libX11-lib)
+include(libXaw-lib)
+include(libXft-lib)
+include(libXmu-lib)
+include(libXpm-lib)
+include(libXt-lib)
+include(libc6)
+include(ncurses-lib)
+include(xterm-data)
+include(xterm-license)
+xterm-bin

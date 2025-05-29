@@ -1,0 +1,15 @@
+# [TITLE]: libcdr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(lcms2-lib)
+include(libc6)
+include(libcdr-license)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+include(zlib-lib)
+libcdr-lib

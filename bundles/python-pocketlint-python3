@@ -1,0 +1,11 @@
+# [TITLE]: python-pocketlint-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-packaging-python3)
+include(pypi-polib-python3)
+include(pypi-pylint-python3)
+include(python3-core)
+python-pocketlint-python3

@@ -1,0 +1,14 @@
+# [TITLE]: grilo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(grilo)
+include(grilo-bin)
+include(grilo-data)
+include(grilo-dev)
+include(grilo-lib)
+include(libxml2-dev)
+grilo-dev

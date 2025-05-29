@@ -1,0 +1,8 @@
+# [TITLE]: qtserialbus-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtserialbus-dev)
+qtserialbus-examples

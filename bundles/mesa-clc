@@ -1,0 +1,9 @@
+# [TITLE]: mesa-clc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mesa-clc-bin)
+include(mesa-clc-license)
+mesa-clc

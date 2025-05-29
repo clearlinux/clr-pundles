@@ -8,4 +8,4 @@
 include(devpkg-base)
 include(devpkg-libdrm)
 
-libliftoff-dev
+include(libliftoff-dev)

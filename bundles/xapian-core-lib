@@ -1,0 +1,14 @@
+# [TITLE]: xapian-core-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(util-linux-lib)
+include(xapian-core-data)
+include(xapian-core-license)
+include(zlib-lib)
+xapian-core-lib

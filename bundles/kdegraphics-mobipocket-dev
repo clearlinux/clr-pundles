@@ -1,0 +1,9 @@
+# [TITLE]: kdegraphics-mobipocket-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdegraphics-mobipocket)
+include(kdegraphics-mobipocket-lib)
+kdegraphics-mobipocket-dev

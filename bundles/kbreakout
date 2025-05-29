@@ -1,0 +1,11 @@
+# [TITLE]: kbreakout
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbreakout-bin)
+include(kbreakout-data)
+include(kbreakout-license)
+include(kbreakout-locales)
+kbreakout

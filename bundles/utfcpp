@@ -1,0 +1,9 @@
+# [TITLE]: utfcpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(utfcpp-data)
+include(utfcpp-license)
+utfcpp

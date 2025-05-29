@@ -1,0 +1,13 @@
+# [TITLE]: folks-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-lib)
+include(folks-data)
+include(folks-license)
+include(glib-lib)
+include(libc6)
+include(libgee-lib)
+folks-lib

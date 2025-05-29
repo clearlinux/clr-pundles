@@ -1,0 +1,20 @@
+# [TITLE]: ostree-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(glib-lib)
+include(gpgme-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libgpg-error-lib)
+include(ostree-data)
+include(ostree-libexec)
+include(ostree-license)
+include(systemd-extras-libsystemd)
+include(xz-lib)
+include(zlib-lib)
+ostree-lib

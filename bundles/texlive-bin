@@ -1,0 +1,26 @@
+# [TITLE]: texlive-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-icu4c-rolling-lib)
+include(filesystem)
+include(fontconfig-lib)
+include(freetype-lib)
+include(graphite-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libgd-lib)
+include(libpng-lib)
+include(libstdc++)
+include(mpfr-lib)
+include(pixman-lib)
+include(texlive-data)
+include(texlive-lib)
+include(texlive-license)
+include(zlib-lib)
+texlive-bin

@@ -1,0 +1,11 @@
+# [TITLE]: clr-desktop-defaults-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-desktop-defaults-data)
+include(clr-desktop-defaults-libexec)
+include(clr-desktop-defaults-license)
+include(filesystem)
+clr-desktop-defaults-bin

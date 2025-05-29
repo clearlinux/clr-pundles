@@ -1,0 +1,12 @@
+# [TITLE]: nano
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nano-bin)
+include(nano-data)
+include(nano-info)
+include(nano-license)
+include(nano-man)
+nano

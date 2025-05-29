@@ -1,0 +1,8 @@
+# [TITLE]: ibus-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ibus-python3)
+ibus-python

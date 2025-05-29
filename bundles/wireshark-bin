@@ -1,0 +1,25 @@
+# [TITLE]: wireshark-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libgcrypt-lib)
+include(libmaxminddb-lib)
+include(libnl-lib)
+include(libpcap-lib)
+include(libstdc++)
+include(pcre2-lib)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+include(speexdsp-lib)
+include(wireshark-data)
+include(wireshark-lib)
+include(wireshark-license)
+include(zlib-lib)
+wireshark-bin

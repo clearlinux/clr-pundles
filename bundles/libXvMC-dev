@@ -1,0 +1,13 @@
+# [TITLE]: libXvMC-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXv-dev)
+include(libXvMC)
+include(libXvMC-lib)
+include(pkg-config-bin)
+include(xorgproto-dev)
+libXvMC-dev

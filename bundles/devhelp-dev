@@ -1,0 +1,15 @@
+# [TITLE]: devhelp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(devhelp)
+include(devhelp-bin)
+include(devhelp-data)
+include(devhelp-lib)
+include(glib-dev)
+include(gsettings-desktop-schemas-dev)
+include(gtk3-dev)
+include(webkitgtk-dev)
+devhelp-dev

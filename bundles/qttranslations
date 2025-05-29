@@ -1,0 +1,9 @@
+# [TITLE]: qttranslations
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qttranslations-data)
+include(qttranslations-license)
+qttranslations

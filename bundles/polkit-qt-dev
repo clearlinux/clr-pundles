@@ -1,0 +1,12 @@
+# [TITLE]: polkit-qt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(polkit-qt)
+include(polkit-qt-dev)
+include(polkit-qt-lib)
+include(qtbase-dev)
+polkit-qt-dev

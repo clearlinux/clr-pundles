@@ -1,0 +1,9 @@
+# [TITLE]: libsignal-protocol-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsignal-protocol-c-lib)
+include(libsignal-protocol-c-license)
+libsignal-protocol-c

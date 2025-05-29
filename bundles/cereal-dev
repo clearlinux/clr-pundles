@@ -1,0 +1,8 @@
+# [TITLE]: cereal-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cereal)
+cereal-dev

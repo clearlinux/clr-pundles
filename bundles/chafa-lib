@@ -1,0 +1,10 @@
+# [TITLE]: chafa-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chafa-license)
+include(glib-lib)
+include(libc6)
+chafa-lib

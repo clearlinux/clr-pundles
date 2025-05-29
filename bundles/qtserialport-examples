@@ -1,0 +1,8 @@
+# [TITLE]: qtserialport-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtserialport-dev)
+qtserialport-examples

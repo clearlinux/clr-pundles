@@ -1,0 +1,12 @@
+# [TITLE]: rtmpdump-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-dev)
+include(nettle-dev)
+include(rtmpdump)
+include(rtmpdump-bin)
+include(rtmpdump-lib)
+rtmpdump-dev

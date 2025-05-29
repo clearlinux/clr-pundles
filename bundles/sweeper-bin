@@ -1,0 +1,22 @@
+# [TITLE]: sweeper-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbookmarks-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-activities-stats-lib)
+include(qt6base-lib)
+include(sweeper-data)
+include(sweeper-license)
+sweeper-bin

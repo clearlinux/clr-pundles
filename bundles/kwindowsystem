@@ -1,0 +1,10 @@
+# [TITLE]: kwindowsystem
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwindowsystem-data)
+include(kwindowsystem-lib)
+include(kwindowsystem-license)
+kwindowsystem

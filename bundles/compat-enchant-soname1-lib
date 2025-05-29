@@ -1,0 +1,16 @@
+# [TITLE]: compat-enchant-soname1-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell-lib)
+include(compat-enchant-soname1-license)
+include(dbus-glib-lib)
+include(dbus-lib)
+include(glib-lib)
+include(hunspell-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+compat-enchant-soname1-lib

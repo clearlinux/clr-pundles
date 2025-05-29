@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-vte-dev
+include(vte-dev)
 include(libX11client)
 include(libglib)
 include(libstdcpp)

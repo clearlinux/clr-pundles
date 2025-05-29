@@ -1,0 +1,8 @@
+# [TITLE]: cups-filters-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-filters-data)
+cups-filters-bin

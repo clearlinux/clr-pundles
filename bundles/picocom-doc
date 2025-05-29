@@ -1,0 +1,8 @@
+# [TITLE]: picocom-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(picocom-man)
+picocom-doc

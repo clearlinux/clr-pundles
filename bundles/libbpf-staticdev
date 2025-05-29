@@ -1,0 +1,8 @@
+# [TITLE]: libbpf-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbpf-dev)
+libbpf-staticdev

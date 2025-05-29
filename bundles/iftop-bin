@@ -1,0 +1,11 @@
+# [TITLE]: iftop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iftop-license)
+include(libc6)
+include(libpcap-lib)
+include(ncurses-lib)
+iftop-bin

@@ -1,0 +1,16 @@
+# [TITLE]: kguiaddons-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kguiaddons-data)
+include(kguiaddons-license)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+kguiaddons-lib

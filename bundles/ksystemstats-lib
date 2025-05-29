@@ -1,0 +1,21 @@
+# [TITLE]: ksystemstats-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(ksystemstats-data)
+include(ksystemstats-license)
+include(libc6)
+include(libksysguard-lib)
+include(libnl-lib)
+include(libstdc++)
+include(lm-sensors-lib)
+include(networkmanager-qt-lib)
+include(qt6base-lib)
+include(solid-lib)
+include(systemd-lib)
+ksystemstats-lib

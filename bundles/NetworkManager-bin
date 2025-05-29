@@ -1,0 +1,24 @@
+# [TITLE]: NetworkManager-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-config)
+include(NetworkManager-data)
+include(NetworkManager-lib)
+include(NetworkManager-libexec)
+include(NetworkManager-license)
+include(NetworkManager-services)
+include(curl-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libndp-lib)
+include(libpsl-lib)
+include(nspr)
+include(nss-lib)
+include(readline-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+NetworkManager-bin

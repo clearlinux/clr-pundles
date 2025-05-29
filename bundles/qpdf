@@ -1,0 +1,11 @@
+# [TITLE]: qpdf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qpdf-bin)
+include(qpdf-lib)
+include(qpdf-license)
+include(qpdf-man)
+qpdf

@@ -1,0 +1,10 @@
+# [TITLE]: shapelib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(shapelib-bin)
+include(shapelib-lib)
+include(shapelib-license)
+shapelib

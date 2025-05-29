@@ -1,0 +1,31 @@
+# [TITLE]: plasma-desktop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(libxkbfile-lib)
+include(plasma-desktop-data)
+include(plasma-desktop-license)
+include(plasma-desktop-services)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(solid-lib)
+plasma-desktop-bin

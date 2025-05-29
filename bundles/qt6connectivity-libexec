@@ -1,0 +1,12 @@
+# [TITLE]: qt6connectivity-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6connectivity-license)
+qt6connectivity-libexec

@@ -1,0 +1,12 @@
+# [TITLE]: kbd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(filesystem)
+include(kbd-data)
+include(kbd-license)
+include(libc6)
+kbd-bin

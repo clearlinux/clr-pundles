@@ -1,0 +1,10 @@
+# [TITLE]: kwrited
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwrited-bin)
+include(kwrited-data)
+include(kwrited-license)
+kwrited

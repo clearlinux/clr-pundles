@@ -1,0 +1,8 @@
+# [TITLE]: cgit-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cgit-man)
+cgit-doc

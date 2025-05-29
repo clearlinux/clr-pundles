@@ -1,0 +1,17 @@
+# [TITLE]: ksystemstats-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ksystemstats-data)
+include(ksystemstats-license)
+include(ksystemstats-services)
+include(libc6)
+include(libksysguard-lib)
+include(libstdc++)
+include(lm-sensors-lib)
+include(qt6base-lib)
+ksystemstats-bin

@@ -1,0 +1,8 @@
+# [TITLE]: libbacktrace
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbacktrace-license)
+libbacktrace

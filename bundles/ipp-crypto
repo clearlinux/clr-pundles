@@ -1,0 +1,9 @@
+# [TITLE]: ipp-crypto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipp-crypto-lib)
+include(ipp-crypto-license)
+ipp-crypto

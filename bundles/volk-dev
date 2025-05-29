@@ -1,0 +1,11 @@
+# [TITLE]: volk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(volk)
+include(volk-bin)
+include(volk-lib)
+volk-dev

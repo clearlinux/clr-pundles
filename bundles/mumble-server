@@ -11,6 +11,6 @@ include(libstdcpp)
 include(lib-openssl)
 
 # Server components are provided by the extras subpackage
-mumble-extras
+include(mumble-extras)
 include(libevent-lib)
 include(protobuf-lib)

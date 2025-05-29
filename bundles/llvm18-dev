@@ -1,0 +1,10 @@
+# [TITLE]: llvm18-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(llvm18)
+include(llvm18-bin)
+include(llvm18-lib)
+llvm18-dev

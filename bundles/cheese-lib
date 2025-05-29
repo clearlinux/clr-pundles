@@ -1,0 +1,22 @@
+# [TITLE]: cheese-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(cheese-data)
+include(cheese-license)
+include(clutter-gst-lib)
+include(clutter-gtk-lib)
+include(clutter-lib)
+include(cogl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libcanberra-lib)
+cheese-lib

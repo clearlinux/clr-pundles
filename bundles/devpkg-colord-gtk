@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-colord-gtk-dev
+include(colord-gtk-dev)
 include(libX11client)
 include(libglib)
 include(lib-opengl)

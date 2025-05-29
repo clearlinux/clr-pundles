@@ -1,0 +1,30 @@
+# [TITLE]: systemsettings-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kitemmodels-lib)
+include(kitemviews-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-activities-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(systemsettings-data)
+include(systemsettings-license)
+systemsettings-bin

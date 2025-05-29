@@ -1,0 +1,10 @@
+# [TITLE]: libnetfilter_queue-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnetfilter_queue)
+include(libnetfilter_queue-lib)
+include(libnfnetlink-dev)
+libnetfilter_queue-dev

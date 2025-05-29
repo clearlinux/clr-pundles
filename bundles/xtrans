@@ -1,0 +1,8 @@
+# [TITLE]: xtrans
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xtrans-license)
+xtrans

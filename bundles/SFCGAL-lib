@@ -1,0 +1,15 @@
+# [TITLE]: SFCGAL-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SFCGAL-license)
+include(boost-extras)
+include(gmp-gmpxx)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mpfr-lib)
+SFCGAL-lib

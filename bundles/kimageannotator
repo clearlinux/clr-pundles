@@ -1,0 +1,10 @@
+# [TITLE]: kimageannotator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kimageannotator-data)
+include(kimageannotator-lib)
+include(kimageannotator-license)
+kimageannotator

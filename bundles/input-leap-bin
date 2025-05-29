@@ -1,0 +1,18 @@
+# [TITLE]: input-leap-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(input-leap-data)
+include(input-leap-license)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+input-leap-bin

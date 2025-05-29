@@ -6,5 +6,5 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 
-zabbix-extras-client
+include(zabbix-extras-client)
 include(pcre-lib)

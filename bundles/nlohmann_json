@@ -1,0 +1,9 @@
+# [TITLE]: nlohmann_json
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nlohmann_json-data)
+include(nlohmann_json-license)
+nlohmann_json

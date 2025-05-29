@@ -1,0 +1,11 @@
+# [TITLE]: liblogging
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liblogging-bin)
+include(liblogging-lib)
+include(liblogging-license)
+include(liblogging-man)
+liblogging

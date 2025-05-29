@@ -1,0 +1,8 @@
+# [TITLE]: colordiff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colordiff-license)
+colordiff

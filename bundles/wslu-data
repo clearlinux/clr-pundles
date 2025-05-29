@@ -1,0 +1,8 @@
+# [TITLE]: wslu-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+wslu-data

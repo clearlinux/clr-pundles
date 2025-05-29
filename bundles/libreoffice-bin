@@ -1,0 +1,10 @@
+# [TITLE]: libreoffice-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libreoffice-data)
+include(libreoffice-license)
+libreoffice-bin

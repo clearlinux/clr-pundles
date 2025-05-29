@@ -1,0 +1,12 @@
+# [TITLE]: gengetopt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gengetopt-data)
+include(gengetopt-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+gengetopt-bin

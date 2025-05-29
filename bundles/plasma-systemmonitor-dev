@@ -1,0 +1,21 @@
+# [TITLE]: plasma-systemmonitor-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kitemmodels-lib)
+include(knewstuff-lib)
+include(libc6)
+include(libksysguard-lib)
+include(libstdc++)
+include(plasma-systemmonitor)
+include(plasma-systemmonitor-bin)
+include(plasma-systemmonitor-data)
+include(plasma-systemmonitor-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+plasma-systemmonitor-dev

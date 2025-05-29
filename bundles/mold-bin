@@ -1,0 +1,13 @@
+# [TITLE]: mold-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mold-libexec)
+include(mold-license)
+include(zlib-lib)
+mold-bin

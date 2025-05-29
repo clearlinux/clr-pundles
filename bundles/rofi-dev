@@ -1,0 +1,14 @@
+# [TITLE]: rofi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(glib-dev)
+include(pango-dev)
+include(pkg-config-bin)
+include(rofi)
+include(rofi-bin)
+include(rofi-data)
+rofi-dev

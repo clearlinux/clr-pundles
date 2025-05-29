@@ -1,0 +1,10 @@
+# [TITLE]: llvm19-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(llvm19)
+include(llvm19-bin)
+include(llvm19-lib)
+llvm19-dev

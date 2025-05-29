@@ -1,0 +1,8 @@
+# [TITLE]: mercurial-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mercurial-python3)
+mercurial-python

@@ -1,0 +1,12 @@
+# [TITLE]: liblangtag-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(libc6)
+include(liblangtag-data)
+include(liblangtag-license)
+liblangtag-lib

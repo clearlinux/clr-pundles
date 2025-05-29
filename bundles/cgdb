@@ -1,0 +1,11 @@
+# [TITLE]: cgdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cgdb-bin)
+include(cgdb-data)
+include(cgdb-info)
+include(cgdb-license)
+cgdb

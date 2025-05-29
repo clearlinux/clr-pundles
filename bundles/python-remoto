@@ -1,0 +1,10 @@
+# [TITLE]: python-remoto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-remoto-license)
+include(python-remoto-python)
+include(python-remoto-python3)
+python-remoto

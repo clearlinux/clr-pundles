@@ -1,0 +1,10 @@
+# [TITLE]: ocl-icd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ocl-icd-bin)
+include(ocl-icd-lib)
+include(ocl-icd-license)
+ocl-icd

@@ -1,0 +1,9 @@
+# [TITLE]: s2tc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(s2tc-license)
+s2tc-lib

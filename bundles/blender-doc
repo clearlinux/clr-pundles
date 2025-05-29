@@ -1,0 +1,8 @@
+# [TITLE]: blender-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(blender-man)
+blender-doc

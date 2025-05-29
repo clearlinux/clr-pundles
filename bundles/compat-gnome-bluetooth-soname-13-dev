@@ -1,0 +1,12 @@
+# [TITLE]: compat-gnome-bluetooth-soname-13-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gnome-bluetooth-soname-13)
+include(compat-gnome-bluetooth-soname-13-data)
+include(compat-gnome-bluetooth-soname-13-lib)
+include(glib-dev)
+include(gtk3-dev)
+compat-gnome-bluetooth-soname-13-dev

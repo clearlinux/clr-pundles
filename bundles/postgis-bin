@@ -1,0 +1,17 @@
+# [TITLE]: postgis-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(gdal-lib)
+include(geos-lib)
+include(libc6)
+include(perl-bin)
+include(postgis-data)
+include(postgis-license)
+include(postgresql-lib)
+include(proj-lib)
+postgis-bin

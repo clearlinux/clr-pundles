@@ -1,0 +1,11 @@
+# [TITLE]: tar-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(libc6)
+include(tar-libexec)
+include(tar-license)
+tar-bin

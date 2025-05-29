@@ -1,0 +1,34 @@
+# [TITLE]: efl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-dev)
+include(dbus-dev)
+include(efl)
+include(efl-bin)
+include(efl-data)
+include(efl-dev)
+include(efl-lib)
+include(fontconfig-dev)
+include(freetype-dev)
+include(fribidi-dev)
+include(glib-dev)
+include(harfbuzz-dev)
+include(libX11-dev)
+include(libinput-dev)
+include(libjpeg-turbo-dev)
+include(libpng-dev)
+include(libsndfile-dev)
+include(libunwind-dev)
+include(libxkbcommon-dev)
+include(lz4-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+include(pulseaudio-dev)
+include(systemd-dev)
+include(util-linux-dev)
+include(wayland-dev)
+include(zlib-dev)
+efl-dev

@@ -1,0 +1,13 @@
+# [TITLE]: kpkpass-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kpkpass-data)
+include(kpkpass-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kpkpass-lib

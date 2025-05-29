@@ -1,0 +1,18 @@
+# [TITLE]: compat-gcr-soname1-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-gcr-soname1-data)
+include(compat-gcr-soname1-libexec)
+include(compat-gcr-soname1-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(p11-kit-lib)
+include(pango-lib)
+compat-gcr-soname1-lib

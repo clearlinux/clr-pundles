@@ -1,0 +1,9 @@
+# [TITLE]: lsscsi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(lsscsi-license)
+lsscsi-bin

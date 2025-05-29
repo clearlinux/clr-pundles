@@ -1,0 +1,10 @@
+# [TITLE]: kstatusnotifieritem-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kstatusnotifieritem)
+include(kstatusnotifieritem-data)
+include(kstatusnotifieritem-lib)
+kstatusnotifieritem-dev

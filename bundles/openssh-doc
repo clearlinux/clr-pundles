@@ -1,0 +1,8 @@
+# [TITLE]: openssh-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openssh-man)
+openssh-doc

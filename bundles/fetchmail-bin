@@ -1,0 +1,10 @@
+# [TITLE]: fetchmail-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fetchmail-license)
+include(libc6)
+include(openssl-lib)
+fetchmail-bin

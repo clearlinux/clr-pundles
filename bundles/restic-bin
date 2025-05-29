@@ -1,0 +1,10 @@
+# [TITLE]: restic-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(restic-data)
+include(restic-license)
+restic-bin

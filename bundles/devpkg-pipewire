@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-pipewire-dev
+include(pipewire-dev)
 include(libX11client)
 include(gnome-base-libs)
 include(libglib)

@@ -1,0 +1,12 @@
+# [TITLE]: geoclue-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geoclue)
+include(geoclue-data)
+include(geoclue-lib)
+include(glib-dev)
+include(pkg-config-bin)
+geoclue-dev

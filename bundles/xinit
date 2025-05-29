@@ -1,0 +1,11 @@
+# [TITLE]: xinit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xinit-bin)
+include(xinit-data)
+include(xinit-license)
+include(xinit-man)
+xinit

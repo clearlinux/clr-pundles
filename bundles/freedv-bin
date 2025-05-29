@@ -1,0 +1,21 @@
+# [TITLE]: freedv-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LPCNet-lib)
+include(codec2-lib)
+include(freedv-data)
+include(freedv-license)
+include(hamlib-lib)
+include(libc6)
+include(libgcc1)
+include(libsamplerate-lib)
+include(libsndfile-lib)
+include(libstdc++)
+include(pulseaudio-lib)
+include(socket.io-client-cpp-lib)
+include(speexdsp-lib)
+include(wxWidgets-lib)
+freedv-bin

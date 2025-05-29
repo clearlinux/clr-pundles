@@ -1,0 +1,8 @@
+# [TITLE]: FreeCAD-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeCAD-python3)
+FreeCAD-python

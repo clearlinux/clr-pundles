@@ -1,0 +1,11 @@
+# [TITLE]: iwd-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iwd-config)
+include(iwd-license)
+include(libc6)
+include(libgcc1)
+iwd-libexec

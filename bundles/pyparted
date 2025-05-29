@@ -1,0 +1,10 @@
+# [TITLE]: pyparted
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pyparted-license)
+include(pyparted-python)
+include(pyparted-python3)
+pyparted

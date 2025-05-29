@@ -1,0 +1,11 @@
+# [TITLE]: rage-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efl-lib)
+include(libc6)
+include(rage-data)
+include(rage-license)
+rage-bin

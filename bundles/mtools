@@ -1,0 +1,11 @@
+# [TITLE]: mtools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mtools-bin)
+include(mtools-info)
+include(mtools-license)
+include(mtools-man)
+mtools

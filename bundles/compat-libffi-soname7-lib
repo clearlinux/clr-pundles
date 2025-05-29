@@ -1,0 +1,9 @@
+# [TITLE]: compat-libffi-soname7-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libffi-soname7-license)
+include(libc6)
+compat-libffi-soname7-lib

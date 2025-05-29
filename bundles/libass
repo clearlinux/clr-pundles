@@ -1,0 +1,9 @@
+# [TITLE]: libass
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libass-lib)
+include(libass-license)
+libass

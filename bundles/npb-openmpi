@@ -1,0 +1,11 @@
+# [TITLE]: npb-openmpi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgfortran)
+include(libc6)
+include(libgcc1)
+include(openmpi-lib)
+npb-openmpi

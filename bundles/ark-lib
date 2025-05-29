@@ -1,0 +1,30 @@
+# [TITLE]: ark-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ark-data)
+include(ark-license)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kfilemetadata-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kparts-lib)
+include(kpty-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libzip-lib)
+include(qt6base-lib)
+include(zlib-lib)
+ark-lib

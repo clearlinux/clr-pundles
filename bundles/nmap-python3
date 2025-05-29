@@ -1,0 +1,9 @@
+# [TITLE]: nmap-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pygobject-python3)
+include(python3-core)
+nmap-python3

@@ -1,0 +1,9 @@
+# [TITLE]: libdatachannel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdatachannel-lib)
+include(libdatachannel-license)
+libdatachannel

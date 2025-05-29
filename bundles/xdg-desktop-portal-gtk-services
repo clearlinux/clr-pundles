@@ -1,0 +1,8 @@
+# [TITLE]: xdg-desktop-portal-gtk-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+xdg-desktop-portal-gtk-services

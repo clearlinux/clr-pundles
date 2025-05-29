@@ -1,0 +1,10 @@
+# [TITLE]: vid.stab-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(vid.stab)
+include(vid.stab-lib)
+vid.stab-dev

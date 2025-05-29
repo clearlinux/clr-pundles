@@ -1,0 +1,38 @@
+# [TITLE]: weston-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP-lib)
+include(cairo-lib)
+include(fontconfig-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libdisplay-info-lib)
+include(libdrm-lib)
+include(libevdev-lib)
+include(libglvnd-lib)
+include(libinput-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libva-lib)
+include(libwebp-lib)
+include(libxkbcommon-lib)
+include(mesa-lib)
+include(pango-lib)
+include(pipewire-lib)
+include(pixman-lib)
+include(seatd-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+include(wayland-lib)
+include(weston-data)
+include(weston-libexec)
+include(weston-license)
+weston-lib

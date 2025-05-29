@@ -1,0 +1,9 @@
+# [TITLE]: unified-memory-framework-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(unified-memory-framework)
+include(unified-memory-framework-lib)
+unified-memory-framework-dev

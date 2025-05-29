@@ -1,0 +1,10 @@
+# [TITLE]: qtdeclarative
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtdeclarative-bin)
+include(qtdeclarative-lib)
+include(qtdeclarative-license)
+qtdeclarative

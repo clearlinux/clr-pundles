@@ -1,0 +1,8 @@
+# [TITLE]: man-db-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(man-db-man)
+man-db-doc

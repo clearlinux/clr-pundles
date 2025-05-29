@@ -1,0 +1,19 @@
+# [TITLE]: gnome-terminal-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-terminal-data)
+include(gnome-terminal-libexec)
+include(gnome-terminal-license)
+include(gnome-terminal-services)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(util-linux-lib)
+include(vte-lib)
+gnome-terminal-bin

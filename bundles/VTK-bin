@@ -1,0 +1,13 @@
+# [TITLE]: VTK-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(VTK-data)
+include(VTK-lib)
+include(VTK-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+VTK-bin

@@ -1,0 +1,11 @@
+# [TITLE]: libepubgen-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libepubgen)
+include(libepubgen-lib)
+include(librevenge-dev)
+include(pkg-config-bin)
+libepubgen-dev

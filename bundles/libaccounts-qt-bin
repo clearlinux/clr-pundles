@@ -1,0 +1,13 @@
+# [TITLE]: libaccounts-qt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libaccounts-qt-lib)
+include(libaccounts-qt-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+libaccounts-qt-bin

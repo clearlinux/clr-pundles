@@ -1,0 +1,9 @@
+# [TITLE]: compat-protobuf-soname29
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-protobuf-soname29-lib)
+include(compat-protobuf-soname29-license)
+compat-protobuf-soname29

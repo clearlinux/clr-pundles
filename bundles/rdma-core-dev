@@ -1,0 +1,14 @@
+# [TITLE]: rdma-core-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnl-dev)
+include(pkg-config-bin)
+include(rdma-core)
+include(rdma-core-bin)
+include(rdma-core-data)
+include(rdma-core-dev)
+include(rdma-core-lib)
+rdma-core-dev

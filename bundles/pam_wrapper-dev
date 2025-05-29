@@ -1,0 +1,9 @@
+# [TITLE]: pam_wrapper-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pam_wrapper)
+include(pam_wrapper-lib)
+pam_wrapper-dev

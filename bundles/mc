@@ -1,0 +1,13 @@
+# [TITLE]: mc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mc-bin)
+include(mc-data)
+include(mc-libexec)
+include(mc-license)
+include(mc-locales)
+include(mc-man)
+mc

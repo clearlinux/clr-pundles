@@ -1,0 +1,13 @@
+# [TITLE]: appstream
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-bin)
+include(appstream-data)
+include(appstream-lib)
+include(appstream-license)
+include(appstream-locales)
+include(appstream-man)
+appstream

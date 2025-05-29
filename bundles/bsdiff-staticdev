@@ -1,0 +1,8 @@
+# [TITLE]: bsdiff-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bsdiff-dev)
+bsdiff-staticdev

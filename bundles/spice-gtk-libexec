@@ -1,0 +1,13 @@
+# [TITLE]: spice-gtk-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(glib-lib)
+include(libc6)
+include(libcap-ng-lib)
+include(polkit-lib)
+include(spice-gtk-license)
+spice-gtk-libexec

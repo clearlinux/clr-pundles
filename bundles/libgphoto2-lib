@@ -1,0 +1,17 @@
+# [TITLE]: libgphoto2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(libc6)
+include(libexif-lib)
+include(libgd-lib)
+include(libgphoto2-data)
+include(libgphoto2-license)
+include(libjpeg-turbo-lib)
+include(libtool-lib)
+include(libusb-lib)
+include(libxml2-lib)
+libgphoto2-lib

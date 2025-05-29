@@ -1,0 +1,14 @@
+# [TITLE]: mosquitto-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cJSON-lib)
+include(libc6)
+include(mosquitto)
+include(mosquitto-bin)
+include(mosquitto-data)
+include(mosquitto-lib)
+include(pkg-config-bin)
+mosquitto-dev

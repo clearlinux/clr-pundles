@@ -1,0 +1,16 @@
+# [TITLE]: kirigami2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(kirigami2-data)
+include(kirigami2-license)
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qtquickcontrols2-lib)
+kirigami2-lib

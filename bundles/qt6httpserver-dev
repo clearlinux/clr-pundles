@@ -1,0 +1,11 @@
+# [TITLE]: qt6httpserver-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6httpserver)
+include(qt6httpserver-lib)
+qt6httpserver-dev

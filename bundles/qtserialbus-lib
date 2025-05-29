@@ -1,0 +1,12 @@
+# [TITLE]: qtserialbus-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtserialbus-license)
+include(qtserialport-lib)
+qtserialbus-lib

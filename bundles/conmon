@@ -1,0 +1,9 @@
+# [TITLE]: conmon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(conmon-libexec)
+include(conmon-license)
+conmon

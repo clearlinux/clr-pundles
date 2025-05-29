@@ -1,0 +1,13 @@
+# [TITLE]: ksystemstats
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksystemstats-bin)
+include(ksystemstats-data)
+include(ksystemstats-lib)
+include(ksystemstats-license)
+include(ksystemstats-locales)
+include(ksystemstats-services)
+ksystemstats

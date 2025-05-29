@@ -1,0 +1,13 @@
+# [TITLE]: qt6quicktimeline-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6declarative-dev)
+include(qt6quicktimeline)
+include(qt6quicktimeline-dev)
+include(qt6quicktimeline-lib)
+qt6quicktimeline-dev

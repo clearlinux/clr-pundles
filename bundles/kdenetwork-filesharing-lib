@@ -1,0 +1,18 @@
+# [TITLE]: kdenetwork-filesharing-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kcoreaddons-lib)
+include(kdenetwork-filesharing-data)
+include(kdenetwork-filesharing-license)
+include(ki18n-lib)
+include(kio-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kdenetwork-filesharing-lib

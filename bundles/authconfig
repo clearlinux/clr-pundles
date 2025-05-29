@@ -1,0 +1,14 @@
+# [TITLE]: authconfig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(authconfig-bin)
+include(authconfig-data)
+include(authconfig-license)
+include(authconfig-locales)
+include(authconfig-man)
+include(authconfig-python)
+include(authconfig-python3)
+authconfig

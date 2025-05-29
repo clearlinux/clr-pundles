@@ -1,0 +1,10 @@
+# [TITLE]: wmctrl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wmctrl-bin)
+include(wmctrl-license)
+include(wmctrl-man)
+wmctrl

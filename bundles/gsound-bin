@@ -1,0 +1,12 @@
+# [TITLE]: gsound-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gsound-data)
+include(gsound-lib)
+include(gsound-license)
+include(libc6)
+gsound-bin

@@ -1,0 +1,11 @@
+# [TITLE]: libqxp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqxp)
+include(libqxp-bin)
+include(libqxp-lib)
+include(librevenge-dev)
+libqxp-dev

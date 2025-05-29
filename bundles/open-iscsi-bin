@@ -1,0 +1,18 @@
+# [TITLE]: open-iscsi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(kmod-lib)
+include(libc6)
+include(libgcc1)
+include(open-iscsi-lib)
+include(open-iscsi-license)
+include(open-iscsi-services)
+include(open-isns-lib)
+include(openssl-lib)
+include(systemd-extras-libsystemd)
+include(util-linux-lib)
+open-iscsi-bin

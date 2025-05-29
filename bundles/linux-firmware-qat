@@ -6,4 +6,4 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 # Intel QAT firmware files as CPIO (initrd)
-linux-firmware-qat-cpio
+include(linux-firmware-qat-cpio)

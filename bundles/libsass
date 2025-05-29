@@ -1,0 +1,9 @@
+# [TITLE]: libsass
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsass-lib)
+include(libsass-license)
+libsass

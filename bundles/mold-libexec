@@ -1,0 +1,8 @@
+# [TITLE]: mold-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mold-license)
+mold-libexec

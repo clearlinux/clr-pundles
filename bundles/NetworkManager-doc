@@ -1,0 +1,8 @@
+# [TITLE]: NetworkManager-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-man)
+NetworkManager-doc

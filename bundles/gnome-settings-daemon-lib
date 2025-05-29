@@ -1,0 +1,14 @@
+# [TITLE]: gnome-settings-daemon-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-settings-daemon-data)
+include(gnome-settings-daemon-libexec)
+include(gnome-settings-daemon-license)
+include(libc6)
+include(libgcc1)
+include(wayland-lib)
+gnome-settings-daemon-lib

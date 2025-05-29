@@ -1,0 +1,15 @@
+# [TITLE]: NetworkManager-vpnc-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-lib)
+include(NetworkManager-vpnc-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libnma-lib)
+include(libsecret-lib)
+NetworkManager-vpnc-libexec

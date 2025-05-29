@@ -1,0 +1,10 @@
+# [TITLE]: powerstat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(powerstat-data)
+include(powerstat-license)
+powerstat-bin

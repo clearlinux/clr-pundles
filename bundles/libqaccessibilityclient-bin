@@ -1,0 +1,13 @@
+# [TITLE]: libqaccessibilityclient-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libqaccessibilityclient-data)
+include(libqaccessibilityclient-lib)
+include(libqaccessibilityclient-license)
+include(libstdc++)
+include(qt6base-lib)
+libqaccessibilityclient-bin

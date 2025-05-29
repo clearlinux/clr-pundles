@@ -12,7 +12,7 @@ include(nfs-utils)
 include(LVM2-bin)
 include(LVM2-config)
 include(LVM2-extras)
-glusterfs
+include(glusterfs)
 include(parted)
 include(systemd)
 include(curl)

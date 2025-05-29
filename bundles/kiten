@@ -1,0 +1,12 @@
+# [TITLE]: kiten
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kiten-bin)
+include(kiten-data)
+include(kiten-lib)
+include(kiten-license)
+include(kiten-locales)
+kiten

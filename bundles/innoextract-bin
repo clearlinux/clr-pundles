@@ -1,0 +1,12 @@
+# [TITLE]: innoextract-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost)
+include(innoextract-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+innoextract-bin

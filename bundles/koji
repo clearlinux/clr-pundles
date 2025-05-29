@@ -16,6 +16,6 @@ include(gpgme)
 include(dnf)
 
 koji
-koji-extras
+include(koji-extras)
 include(pypi-six)
 include(pypi-requests)

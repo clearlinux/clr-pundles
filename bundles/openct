@@ -1,0 +1,10 @@
+# [TITLE]: openct
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openct-bin)
+include(openct-lib)
+include(openct-man)
+openct

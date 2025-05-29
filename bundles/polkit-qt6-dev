@@ -1,0 +1,12 @@
+# [TITLE]: polkit-qt6-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(polkit-qt6)
+include(polkit-qt6-dev)
+include(polkit-qt6-lib)
+include(qt6base-dev)
+polkit-qt6-dev

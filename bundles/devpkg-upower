@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-upower-dev
+include(upower-dev)
 include(libglib)
 include(python3-basic)

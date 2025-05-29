@@ -1,0 +1,8 @@
+# [TITLE]: nginx-rtmp-module-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+nginx-rtmp-module-lib

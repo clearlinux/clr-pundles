@@ -1,0 +1,10 @@
+# [TITLE]: rlwrap-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rlwrap)
+include(rlwrap-bin)
+include(rlwrap-data)
+rlwrap-dev

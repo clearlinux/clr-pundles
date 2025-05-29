@@ -1,0 +1,10 @@
+# [TITLE]: kdiagram-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdiagram)
+include(kdiagram-data)
+include(kdiagram-lib)
+kdiagram-dev

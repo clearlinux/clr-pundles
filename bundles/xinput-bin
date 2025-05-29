@@ -1,0 +1,10 @@
+# [TITLE]: xinput-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(xinput-license)
+xinput-bin

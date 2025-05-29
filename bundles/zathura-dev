@@ -1,0 +1,13 @@
+# [TITLE]: zathura-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(girara-dev)
+include(pkg-config-bin)
+include(zathura)
+include(zathura-bin)
+include(zathura-data)
+zathura-dev

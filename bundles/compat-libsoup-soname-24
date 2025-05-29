@@ -1,0 +1,12 @@
+# [TITLE]: compat-libsoup-soname-24
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsoup-soname-24-data)
+include(compat-libsoup-soname-24-lib)
+include(compat-libsoup-soname-24-license)
+include(compat-libsoup-soname-24-locales)
+include(glib-networking)
+compat-libsoup-soname-24

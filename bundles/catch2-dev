@@ -1,0 +1,11 @@
+# [TITLE]: catch2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(catch2)
+include(catch2-data)
+include(catch2-lib)
+include(pkg-config-bin)
+catch2-dev

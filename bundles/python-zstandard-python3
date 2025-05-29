@@ -1,0 +1,31 @@
+# [TITLE]: python-zstandard-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mypy-python3)
+include(pypi-atomicwrites-python3)
+include(pypi-attrs-python3)
+include(pypi-bashlex-python3)
+include(pypi-bracex-python3)
+include(pypi-certifi-python3)
+include(pypi-cibuildwheel-python3)
+include(pypi-colorama-python3)
+include(pypi-exceptiongroup-python3)
+include(pypi-execnet-python3)
+include(pypi-filelock-python3)
+include(pypi-hypothesis-python3)
+include(pypi-iniconfig-python3)
+include(pypi-mypy_extensions-python3)
+include(pypi-packaging-python3)
+include(pypi-platformdirs-python3)
+include(pypi-pluggy-python3)
+include(pypi-pycparser-python3)
+include(pypi-sortedcontainers-python3)
+include(pypi-tomli-python3)
+include(pypi-typing_extensions-python3)
+include(pypi-wheel-python3)
+include(python3-core)
+python-zstandard-python3

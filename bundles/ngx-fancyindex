@@ -1,0 +1,9 @@
+# [TITLE]: ngx-fancyindex
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ngx-fancyindex-lib)
+include(ngx-fancyindex-license)
+ngx-fancyindex

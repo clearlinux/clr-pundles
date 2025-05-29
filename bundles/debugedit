@@ -1,0 +1,10 @@
+# [TITLE]: debugedit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(debugedit-bin)
+include(debugedit-license)
+include(debugedit-man)
+debugedit

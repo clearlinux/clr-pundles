@@ -1,0 +1,11 @@
+# [TITLE]: kmahjongg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmahjongg-bin)
+include(kmahjongg-data)
+include(kmahjongg-license)
+include(kmahjongg-locales)
+kmahjongg

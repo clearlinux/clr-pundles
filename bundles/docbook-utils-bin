@@ -1,0 +1,11 @@
+# [TITLE]: docbook-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(docbook-utils-data)
+include(docbook-utils-license)
+include(filesystem)
+include(perl-bin)
+docbook-utils-bin

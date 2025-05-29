@@ -1,0 +1,8 @@
+# [TITLE]: phoronix-test-suite-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(phoronix-test-suite-man)
+phoronix-test-suite-doc

@@ -1,0 +1,8 @@
+# [TITLE]: gnome-keyring-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+gnome-keyring-services

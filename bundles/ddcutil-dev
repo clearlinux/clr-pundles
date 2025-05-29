@@ -1,0 +1,12 @@
+# [TITLE]: ddcutil-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ddcutil)
+include(ddcutil-bin)
+include(ddcutil-data)
+include(ddcutil-lib)
+include(pkg-config-bin)
+ddcutil-dev

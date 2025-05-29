@@ -1,0 +1,10 @@
+# [TITLE]: xerces-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xerces-c-bin)
+include(xerces-c-lib)
+include(xerces-c-license)
+xerces-c

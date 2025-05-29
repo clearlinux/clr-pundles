@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtxmlpatterns-dev
+include(qtxmlpatterns-dev)
 include(qt-core)
 include(libstdcpp)
 include(libX11client)

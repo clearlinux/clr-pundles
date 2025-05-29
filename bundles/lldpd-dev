@@ -1,0 +1,12 @@
+# [TITLE]: lldpd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lldpd)
+include(lldpd-bin)
+include(lldpd-data)
+include(lldpd-lib)
+include(pkg-config-bin)
+lldpd-dev

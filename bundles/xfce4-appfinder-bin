@@ -1,0 +1,18 @@
+# [TITLE]: xfce4-appfinder-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(garcon-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(xfce4-appfinder-data)
+include(xfce4-appfinder-license)
+include(xfconf-lib)
+xfce4-appfinder-bin

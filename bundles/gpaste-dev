@@ -1,0 +1,18 @@
+# [TITLE]: gpaste-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(gpaste)
+include(gpaste-bin)
+include(gpaste-data)
+include(gpaste-dev)
+include(gpaste-lib)
+include(gtk3-dev)
+include(gtk4-dev)
+include(libadwaita-dev)
+include(pkg-config-bin)
+gpaste-dev

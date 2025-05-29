@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-exiv2-dev
+include(exiv2-dev)
 include(libstdcpp)

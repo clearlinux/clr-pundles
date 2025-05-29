@@ -1,0 +1,12 @@
+# [TITLE]: blktrace-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(blktrace-license)
+include(coreutils-bin)
+include(filesystem)
+include(libaio-lib)
+include(libc6)
+blktrace-bin

@@ -1,0 +1,22 @@
+# [TITLE]: udisks2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libatasmart)
+include(libblockdev)
+include(libbytesize)
+include(libiscsi)
+include(libstoragemgmt)
+include(udisks2-bin)
+include(udisks2-config)
+include(udisks2-data)
+include(udisks2-lib)
+include(udisks2-libexec)
+include(udisks2-license)
+include(udisks2-locales)
+include(udisks2-man)
+include(udisks2-services)
+include(volume_key)
+udisks2

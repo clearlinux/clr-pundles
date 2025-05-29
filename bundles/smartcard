@@ -9,12 +9,12 @@ include(libglib)
 include(lib-openssl)
 include(perl-basic)
 
-OpenSC
+include(OpenSC)
 include(ccid)
-openct
-openpace
-pam_u2f
+include(openct)
+include(openpace)
+include(pam_u2f)
 include(pcsc-lite)
-pcsc-tools
+include(pcsc-tools)
 include(perl-Chipcard-PCSC)
 include(pypi-yubikey_manager)

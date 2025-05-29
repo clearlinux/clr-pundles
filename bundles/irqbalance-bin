@@ -1,0 +1,16 @@
+# [TITLE]: irqbalance-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(irqbalance-config)
+include(irqbalance-license)
+include(irqbalance-services)
+include(libc6)
+include(libcap-ng-lib)
+include(libnl-lib)
+include(ncurses-lib)
+include(numactl-lib)
+irqbalance-bin

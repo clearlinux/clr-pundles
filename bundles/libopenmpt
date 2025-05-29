@@ -1,0 +1,11 @@
+# [TITLE]: libopenmpt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libopenmpt-bin)
+include(libopenmpt-lib)
+include(libopenmpt-license)
+include(libopenmpt-man)
+libopenmpt

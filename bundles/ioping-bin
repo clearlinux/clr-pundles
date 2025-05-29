@@ -1,0 +1,9 @@
+# [TITLE]: ioping-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ioping-license)
+include(libc6)
+ioping-bin

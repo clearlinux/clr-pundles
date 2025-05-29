@@ -1,0 +1,11 @@
+# [TITLE]: knewstuff-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(knewstuff)
+include(knewstuff-bin)
+include(knewstuff-data)
+include(knewstuff-lib)
+knewstuff-dev

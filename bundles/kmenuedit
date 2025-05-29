@@ -1,0 +1,11 @@
+# [TITLE]: kmenuedit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmenuedit-bin)
+include(kmenuedit-data)
+include(kmenuedit-license)
+include(kmenuedit-locales)
+kmenuedit

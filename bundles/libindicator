@@ -1,0 +1,11 @@
+# [TITLE]: libindicator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libindicator-data)
+include(libindicator-lib)
+include(libindicator-libexec)
+include(libindicator-license)
+libindicator

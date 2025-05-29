@@ -1,0 +1,11 @@
+# [TITLE]: unixODBC
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(unixODBC-bin)
+include(unixODBC-lib)
+include(unixODBC-license)
+include(unixODBC-man)
+unixODBC

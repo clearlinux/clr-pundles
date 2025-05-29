@@ -1,0 +1,16 @@
+# [TITLE]: eid-mw-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(eid-mw-data)
+include(eid-mw-libexec)
+include(eid-mw-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(pcsc-lite-lib)
+eid-mw-lib

@@ -1,0 +1,14 @@
+# [TITLE]: gnome-settings-daemon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-settings-daemon-config)
+include(gnome-settings-daemon-data)
+include(gnome-settings-daemon-lib)
+include(gnome-settings-daemon-libexec)
+include(gnome-settings-daemon-license)
+include(gnome-settings-daemon-locales)
+include(gnome-settings-daemon-services)
+gnome-settings-daemon

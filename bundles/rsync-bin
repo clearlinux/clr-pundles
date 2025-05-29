@@ -1,0 +1,15 @@
+# [TITLE]: rsync-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(coreutils-bin)
+include(libc6)
+include(openssl-lib)
+include(popt-lib)
+include(rsync-license)
+include(rsync-services)
+include(zstd-lib)
+rsync-bin

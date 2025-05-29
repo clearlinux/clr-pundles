@@ -1,0 +1,8 @@
+# [TITLE]: valijson-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(valijson)
+valijson-dev

@@ -1,0 +1,10 @@
+# [TITLE]: fortune-mod-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fortune-mod-data)
+include(libc6)
+include(recode-lib)
+fortune-mod-bin

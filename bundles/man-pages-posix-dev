@@ -1,0 +1,8 @@
+# [TITLE]: man-pages-posix-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(man-pages-posix)
+man-pages-posix-dev

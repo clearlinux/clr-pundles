@@ -1,0 +1,9 @@
+# [TITLE]: grantlee-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grantlee)
+include(grantlee-lib)
+grantlee-dev

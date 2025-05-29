@@ -1,0 +1,11 @@
+# [TITLE]: libstatgrab-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstatgrab-lib)
+include(libstatgrab-license)
+include(perl-bin)
+libstatgrab-bin

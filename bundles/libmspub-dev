@@ -1,0 +1,13 @@
+# [TITLE]: libmspub-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-dev)
+include(libmspub)
+include(libmspub-bin)
+include(libmspub-lib)
+include(librevenge-dev)
+include(zlib-dev)
+libmspub-dev

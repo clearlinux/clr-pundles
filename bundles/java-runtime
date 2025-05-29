@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Programming Languages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
-openjdk
+include(openjdk)
 include(libstdcpp)
 include(harfbuzz-lib)
 include(lib-imageformat)

@@ -1,0 +1,10 @@
+# [TITLE]: uchardet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(uchardet-lib)
+include(uchardet-license)
+uchardet-bin

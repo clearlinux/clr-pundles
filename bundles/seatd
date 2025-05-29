@@ -1,0 +1,11 @@
+# [TITLE]: seatd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(seatd-bin)
+include(seatd-lib)
+include(seatd-license)
+include(seatd-man)
+seatd

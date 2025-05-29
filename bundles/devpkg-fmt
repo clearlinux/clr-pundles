@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-fmt-dev
+include(fmt-dev)
 include(libstdcpp)

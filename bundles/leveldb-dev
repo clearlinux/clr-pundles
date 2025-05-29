@@ -1,0 +1,9 @@
+# [TITLE]: leveldb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(leveldb)
+include(leveldb-lib)
+leveldb-dev

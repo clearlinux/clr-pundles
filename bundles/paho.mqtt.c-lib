@@ -1,0 +1,10 @@
+# [TITLE]: paho.mqtt.c-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(paho.mqtt.c-license)
+paho.mqtt.c-lib

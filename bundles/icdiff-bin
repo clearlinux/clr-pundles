@@ -1,0 +1,10 @@
+# [TITLE]: icdiff-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(icdiff-license)
+include(python3-core)
+icdiff-bin

@@ -1,0 +1,11 @@
+# [TITLE]: libvterm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvterm)
+include(libvterm-bin)
+include(libvterm-lib)
+include(pkg-config-bin)
+libvterm-dev

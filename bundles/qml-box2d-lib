@@ -1,0 +1,14 @@
+# [TITLE]: qml-box2d-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qml-box2d-license)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+qml-box2d-lib

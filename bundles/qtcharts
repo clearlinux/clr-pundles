@@ -1,0 +1,9 @@
+# [TITLE]: qtcharts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtcharts-lib)
+include(qtcharts-license)
+qtcharts

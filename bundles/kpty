@@ -1,0 +1,11 @@
+# [TITLE]: kpty
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kpty-data)
+include(kpty-lib)
+include(kpty-license)
+include(kpty-locales)
+kpty

@@ -1,0 +1,11 @@
+# [TITLE]: i3blocks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(i3blocks-bin)
+include(i3blocks-data)
+include(i3blocks-license)
+include(i3blocks-man)
+i3blocks

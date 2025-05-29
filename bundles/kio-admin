@@ -1,0 +1,17 @@
+# [TITLE]: kio-admin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kio-admin-data)
+include(kio-admin-lib)
+include(kio-admin-license)
+include(kio-admin-locales)
+include(kio-lib)
+include(libc6)
+include(libstdc++)
+include(polkit-qt6-lib)
+include(qt6base-lib)
+kio-admin

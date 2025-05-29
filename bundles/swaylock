@@ -1,0 +1,11 @@
+# [TITLE]: swaylock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(swaylock-bin)
+include(swaylock-data)
+include(swaylock-license)
+include(swaylock-man)
+swaylock

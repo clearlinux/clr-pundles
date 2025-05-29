@@ -1,0 +1,11 @@
+# [TITLE]: Botan-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Botan)
+include(Botan-bin)
+include(Botan-lib)
+include(pkg-config-bin)
+Botan-dev

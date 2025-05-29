@@ -1,0 +1,20 @@
+# [TITLE]: pulseaudio-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib32)
+include(dbus-lib32)
+include(gdbm-lib32)
+include(glib-lib32)
+include(glibc-libc32)
+include(libX11-lib32)
+include(libXtst-lib32)
+include(libsndfile-lib32)
+include(libtool-lib32)
+include(orc-lib32)
+include(pulseaudio-data)
+include(pulseaudio-license)
+include(systemd-lib32)
+pulseaudio-lib32

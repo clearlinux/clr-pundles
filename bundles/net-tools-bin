@@ -1,0 +1,9 @@
+# [TITLE]: net-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(net-tools-license)
+net-tools-bin

@@ -1,0 +1,13 @@
+# [TITLE]: evolution-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-lib)
+include(evolution-lib)
+include(evolution-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+evolution-libexec

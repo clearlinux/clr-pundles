@@ -1,0 +1,17 @@
+# [TITLE]: gnupg-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gnupg-license)
+include(libassuan-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(libgpg-error-lib)
+include(libksba-lib)
+include(libusb-lib)
+include(npth-lib)
+include(sqlite-autoconf-lib)
+gnupg-libexec

@@ -1,0 +1,10 @@
+# [TITLE]: p7zip-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(p7zip-libexec)
+include(p7zip-license)
+p7zip-bin

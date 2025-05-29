@@ -1,0 +1,13 @@
+# [TITLE]: xfce4-whiskermenu-plugin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfce4-whiskermenu-plugin-bin)
+include(xfce4-whiskermenu-plugin-data)
+include(xfce4-whiskermenu-plugin-lib)
+include(xfce4-whiskermenu-plugin-license)
+include(xfce4-whiskermenu-plugin-locales)
+include(xfce4-whiskermenu-plugin-man)
+xfce4-whiskermenu-plugin

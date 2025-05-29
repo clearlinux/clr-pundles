@@ -1,0 +1,12 @@
+# [TITLE]: qscintilla
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qscintilla-data)
+include(qscintilla-lib)
+include(qscintilla-license)
+include(qscintilla-python)
+include(qscintilla-python3)
+qscintilla

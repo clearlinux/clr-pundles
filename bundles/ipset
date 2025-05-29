@@ -1,0 +1,12 @@
+# [TITLE]: ipset
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipset-bin)
+include(ipset-lib)
+include(ipset-license)
+include(ipset-man)
+include(ipset-services)
+ipset

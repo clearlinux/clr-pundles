@@ -1,0 +1,20 @@
+# [TITLE]: Thunar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Thunar-bin)
+include(Thunar-data)
+include(Thunar-lib)
+include(Thunar-license)
+include(Thunar-locales)
+include(Thunar-man)
+include(Thunar-services)
+include(exo-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(gvfs)
+include(libc6)
+include(libxfce4util-lib)
+Thunar

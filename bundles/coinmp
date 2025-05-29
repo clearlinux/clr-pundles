@@ -1,0 +1,11 @@
+# [TITLE]: coinmp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coinmp-bin)
+include(coinmp-data)
+include(coinmp-lib)
+include(coinmp-license)
+coinmp

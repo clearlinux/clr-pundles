@@ -1,0 +1,12 @@
+# [TITLE]: open-lldp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(open-lldp-bin)
+include(open-lldp-lib)
+include(open-lldp-license)
+include(open-lldp-man)
+include(open-lldp-services)
+open-lldp

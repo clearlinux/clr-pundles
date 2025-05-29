@@ -1,0 +1,13 @@
+# [TITLE]: htslib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(curl-lib)
+include(htslib-license)
+include(libc6)
+include(openssl-lib)
+include(zlib-lib)
+htslib-lib

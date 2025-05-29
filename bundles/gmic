@@ -1,0 +1,12 @@
+# [TITLE]: gmic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmic-bin)
+include(gmic-data)
+include(gmic-lib)
+include(gmic-license)
+include(gmic-man)
+gmic

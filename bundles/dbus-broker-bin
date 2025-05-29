@@ -1,0 +1,13 @@
+# [TITLE]: dbus-broker-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-broker-license)
+include(dbus-broker-services)
+include(expat-lib)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+dbus-broker-bin

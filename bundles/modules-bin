@@ -1,0 +1,13 @@
+# [TITLE]: modules-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(modules-data)
+include(modules-libexec)
+include(modules-license)
+include(python3-core)
+modules-bin

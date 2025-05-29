@@ -1,0 +1,11 @@
+# [TITLE]: kmines
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmines-bin)
+include(kmines-data)
+include(kmines-license)
+include(kmines-locales)
+kmines

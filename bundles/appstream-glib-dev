@@ -1,0 +1,16 @@
+# [TITLE]: appstream-glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-glib)
+include(appstream-glib-bin)
+include(appstream-glib-data)
+include(appstream-glib-lib)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(libarchive-dev)
+include(pkg-config-bin)
+include(util-linux-dev)
+appstream-glib-dev

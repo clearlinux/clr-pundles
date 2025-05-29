@@ -1,0 +1,21 @@
+# [TITLE]: libvirt-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(filesystem)
+include(fuse-lib)
+include(glib-lib)
+include(libc6)
+include(libcap-ng-lib)
+include(libgcc1)
+include(libtirpc-lib)
+include(libvirt-config)
+include(libvirt-lib)
+include(libvirt-license)
+include(libxml2-lib)
+include(parted-lib)
+include(util-linux-lib)
+libvirt-libexec

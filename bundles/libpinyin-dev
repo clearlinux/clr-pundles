@@ -1,0 +1,12 @@
+# [TITLE]: libpinyin-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libpinyin)
+include(libpinyin-bin)
+include(libpinyin-lib)
+include(pkg-config-bin)
+libpinyin-dev

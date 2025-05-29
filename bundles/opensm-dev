@@ -1,0 +1,10 @@
+# [TITLE]: opensm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opensm)
+include(opensm-bin)
+include(opensm-lib)
+opensm-dev

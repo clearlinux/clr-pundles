@@ -1,0 +1,9 @@
+# [TITLE]: lzlib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lzlib)
+include(lzlib-lib)
+lzlib-dev

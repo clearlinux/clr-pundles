@@ -1,0 +1,21 @@
+# [TITLE]: dpdk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dpdk-data)
+include(dpdk-license)
+include(elfutils-lib)
+include(gcc-libs-math)
+include(isa-l-lib)
+include(jansson-lib)
+include(libarchive-lib)
+include(libbsd-lib)
+include(libc6)
+include(libpcap-lib)
+include(numactl-lib)
+include(openssl-lib)
+include(rdma-core-lib)
+include(zlib-lib)
+dpdk-lib

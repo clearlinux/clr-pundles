@@ -1,0 +1,19 @@
+# [TITLE]: llvm18
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(llvm18-bin)
+include(llvm18-dev)
+include(llvm18-lib)
+include(llvm18-license)
+include(ncurses-lib)
+include(zlib-lib)
+include(zstd-lib)
+llvm18

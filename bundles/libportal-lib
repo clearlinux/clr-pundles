@@ -1,0 +1,14 @@
+# [TITLE]: libportal-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(gtk4-lib)
+include(libc6)
+include(libgcc1)
+include(libportal-data)
+include(libportal-license)
+libportal-lib

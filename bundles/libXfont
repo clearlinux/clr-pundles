@@ -1,0 +1,9 @@
+# [TITLE]: libXfont
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libXfont-lib)
+include(libXfont-license)
+libXfont

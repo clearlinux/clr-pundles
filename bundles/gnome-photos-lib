@@ -1,0 +1,18 @@
+# [TITLE]: gnome-photos-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babl-lib)
+include(gdk-pixbuf-lib)
+include(gegl-lib)
+include(glib-lib)
+include(gnome-photos-data)
+include(gnome-photos-libexec)
+include(gnome-photos-license)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+gnome-photos-lib

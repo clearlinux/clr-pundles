@@ -1,0 +1,11 @@
+# [TITLE]: xmlto-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(xmlto-data)
+include(xmlto-license)
+xmlto-bin

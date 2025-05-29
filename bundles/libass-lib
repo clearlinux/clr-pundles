@@ -1,0 +1,14 @@
+# [TITLE]: libass-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-lib)
+include(freetype-lib)
+include(fribidi-lib)
+include(harfbuzz-lib)
+include(libass-license)
+include(libc6)
+include(libunibreak-lib)
+libass-lib

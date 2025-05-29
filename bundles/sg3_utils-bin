@@ -1,0 +1,12 @@
+# [TITLE]: sg3_utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(sg3_utils-lib)
+include(sg3_utils-license)
+sg3_utils-bin

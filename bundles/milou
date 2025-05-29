@@ -1,0 +1,11 @@
+# [TITLE]: milou
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(milou-data)
+include(milou-lib)
+include(milou-license)
+include(milou-locales)
+milou

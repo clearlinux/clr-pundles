@@ -1,0 +1,19 @@
+# [TITLE]: weston-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fontconfig-lib)
+include(glib-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libwebp-lib)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(pixman-lib)
+include(wayland-lib)
+include(weston-license)
+weston-libexec

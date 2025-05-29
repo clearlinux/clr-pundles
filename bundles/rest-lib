@@ -1,0 +1,15 @@
+# [TITLE]: rest-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libsoup-lib)
+include(rest-data)
+include(rest-license)
+rest-lib

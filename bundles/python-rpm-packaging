@@ -1,0 +1,10 @@
+# [TITLE]: python-rpm-packaging
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(python-rpm-packaging-license)
+include(python3-core)
+python-rpm-packaging

@@ -1,0 +1,11 @@
+# [TITLE]: mm-common-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(mm-common-data)
+include(mm-common-license)
+mm-common-bin

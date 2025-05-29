@@ -1,0 +1,15 @@
+# [TITLE]: tar
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tar-bin)
+include(tar-info)
+include(tar-libexec)
+include(tar-license)
+include(tar-locales)
+include(tar-man)
+include(xz-bin)
+include(zstd-bin)
+tar

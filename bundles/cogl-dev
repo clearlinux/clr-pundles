@@ -1,0 +1,18 @@
+# [TITLE]: cogl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(cogl)
+include(cogl-data)
+include(cogl-dev)
+include(cogl-lib)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(libX11-dev)
+include(libglvnd-dev)
+include(pango-dev)
+include(wayland-dev)
+cogl-dev

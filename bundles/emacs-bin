@@ -1,0 +1,24 @@
+# [TITLE]: emacs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(dbus-lib)
+include(emacs-data)
+include(emacs-libexec)
+include(emacs-license)
+include(gcc-jit)
+include(gmp-lib)
+include(gnutls-lib)
+include(gpm-lib)
+include(lcms2-lib)
+include(libc6)
+include(libxml2-lib)
+include(ncurses-lib)
+include(sqlite-autoconf-lib)
+include(systemd-extras-libsystemd)
+include(tree-sitter-lib)
+include(zlib-lib)
+emacs-bin

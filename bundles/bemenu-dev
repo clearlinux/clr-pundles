@@ -1,0 +1,11 @@
+# [TITLE]: bemenu-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bemenu)
+include(bemenu-bin)
+include(bemenu-lib)
+include(pkg-config-bin)
+bemenu-dev

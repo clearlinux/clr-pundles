@@ -1,0 +1,10 @@
+# [TITLE]: lcov-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(lcov-data)
+include(lcov-license)
+lcov-bin

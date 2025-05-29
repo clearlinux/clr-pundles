@@ -1,0 +1,24 @@
+# [TITLE]: fontforge-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontforge-data)
+include(fontforge-license)
+include(freetype-lib)
+include(giflib-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libspiro-lib)
+include(libstdc++)
+include(libxml2-lib)
+include(python3-lib)
+include(readline-lib)
+include(tiff-lib)
+include(woff2-lib)
+include(zlib-lib)
+fontforge-lib

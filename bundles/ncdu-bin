@@ -1,0 +1,10 @@
+# [TITLE]: ncdu-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncdu-license)
+include(ncurses-lib)
+ncdu-bin

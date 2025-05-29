@@ -1,0 +1,11 @@
+# [TITLE]: ipe-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipe)
+include(ipe-bin)
+include(ipe-data)
+include(ipe-lib)
+ipe-dev

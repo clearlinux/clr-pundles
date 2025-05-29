@@ -1,0 +1,11 @@
+# [TITLE]: ksnakeduel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksnakeduel-bin)
+include(ksnakeduel-data)
+include(ksnakeduel-license)
+include(ksnakeduel-locales)
+ksnakeduel

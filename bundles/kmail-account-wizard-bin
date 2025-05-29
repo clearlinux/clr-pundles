@@ -1,0 +1,25 @@
+# [TITLE]: kmail-account-wizard-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kidentitymanagement-lib)
+include(kmail-account-wizard-data)
+include(kmail-account-wizard-license)
+include(kmailtransport-lib)
+include(kmime-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kmail-account-wizard-bin

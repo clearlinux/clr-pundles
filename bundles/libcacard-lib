@@ -1,0 +1,13 @@
+# [TITLE]: libcacard-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libcacard-license)
+include(nspr)
+include(nss-lib)
+include(pcsc-lite-lib)
+libcacard-lib

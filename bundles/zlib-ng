@@ -1,0 +1,9 @@
+# [TITLE]: zlib-ng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zlib-ng-lib)
+include(zlib-ng-license)
+zlib-ng

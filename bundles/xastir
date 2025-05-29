@@ -1,0 +1,11 @@
+# [TITLE]: xastir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xastir-bin)
+include(xastir-data)
+include(xastir-license)
+include(xastir-man)
+xastir

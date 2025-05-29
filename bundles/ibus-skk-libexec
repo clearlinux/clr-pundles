@@ -1,0 +1,14 @@
+# [TITLE]: ibus-skk-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(ibus-lib)
+include(ibus-skk-license)
+include(libc6)
+include(libgee-lib)
+include(libskk-lib)
+ibus-skk-libexec

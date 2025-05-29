@@ -1,0 +1,20 @@
+# [TITLE]: evolution-data-server-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server)
+include(evolution-data-server-data)
+include(evolution-data-server-dev)
+include(evolution-data-server-lib)
+include(glib-dev)
+include(gtk3-dev)
+include(gtk4-dev)
+include(json-glib-dev)
+include(libical-dev)
+include(libsecret-dev)
+include(libsoup-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+evolution-data-server-dev

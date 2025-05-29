@@ -1,0 +1,13 @@
+# [TITLE]: libftdi1-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(confuse-lib)
+include(filesystem)
+include(libc6)
+include(libftdi1-lib)
+include(libftdi1-license)
+include(libusb-lib)
+libftdi1-bin

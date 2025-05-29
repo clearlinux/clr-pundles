@@ -1,0 +1,10 @@
+# [TITLE]: gtk-frdp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk-frdp-data)
+include(gtk-frdp-lib)
+include(gtk-frdp-license)
+gtk-frdp

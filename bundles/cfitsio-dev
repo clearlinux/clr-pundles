@@ -1,0 +1,11 @@
+# [TITLE]: cfitsio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cfitsio)
+include(cfitsio-bin)
+include(cfitsio-lib)
+include(pkg-config-bin)
+cfitsio-dev

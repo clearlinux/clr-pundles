@@ -1,0 +1,15 @@
+# [TITLE]: avahi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-bin)
+include(avahi-config)
+include(avahi-data)
+include(avahi-lib)
+include(avahi-license)
+include(avahi-locales)
+include(avahi-man)
+include(avahi-services)
+avahi

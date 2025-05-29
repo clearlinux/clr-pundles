@@ -1,0 +1,26 @@
+# [TITLE]: kitinerary-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcalendarcore-lib)
+include(kcodecs-lib)
+include(kcontacts-lib)
+include(ki18n-lib)
+include(kitinerary-data)
+include(kitinerary-license)
+include(kmime-lib)
+include(kpkpass-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(openssl-lib)
+include(poppler-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(zlib-lib)
+include(zxing-lib)
+kitinerary-lib

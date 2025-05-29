@@ -1,0 +1,14 @@
+# [TITLE]: tpm2-tss-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib32)
+include(glibc-libc32)
+include(json-c-lib32)
+include(libusb-lib32)
+include(openssl-lib32)
+include(tpm2-tss-license)
+include(util-linux-lib32)
+tpm2-tss-lib32

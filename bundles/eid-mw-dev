@@ -1,0 +1,12 @@
+# [TITLE]: eid-mw-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(eid-mw)
+include(eid-mw-bin)
+include(eid-mw-data)
+include(eid-mw-lib)
+include(pkg-config-bin)
+eid-mw-dev

@@ -1,0 +1,13 @@
+# [TITLE]: gi-docgen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gi-docgen-bin)
+include(gi-docgen-license)
+include(gi-docgen-man)
+include(gi-docgen-python)
+include(gi-docgen-python3)
+include(graphviz-extras)
+gi-docgen

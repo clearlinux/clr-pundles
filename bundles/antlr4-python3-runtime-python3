@@ -1,0 +1,8 @@
+# [TITLE]: antlr4-python3-runtime-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+antlr4-python3-runtime-python3

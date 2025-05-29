@@ -1,0 +1,8 @@
+# [TITLE]: libkscreen-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+libkscreen-services

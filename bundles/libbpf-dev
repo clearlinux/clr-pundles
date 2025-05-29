@@ -1,0 +1,12 @@
+# [TITLE]: libbpf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-dev)
+include(libbpf)
+include(libbpf-lib)
+include(pkg-config-bin)
+include(zlib-dev)
+libbpf-dev

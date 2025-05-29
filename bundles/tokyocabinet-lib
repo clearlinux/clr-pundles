@@ -1,0 +1,13 @@
+# [TITLE]: tokyocabinet-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(tokyocabinet-data)
+include(tokyocabinet-libexec)
+include(tokyocabinet-license)
+include(zlib-lib)
+tokyocabinet-lib

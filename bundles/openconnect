@@ -1,0 +1,14 @@
+# [TITLE]: openconnect
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openconnect-bin)
+include(openconnect-data)
+include(openconnect-lib)
+include(openconnect-libexec)
+include(openconnect-license)
+include(openconnect-locales)
+include(openconnect-man)
+openconnect

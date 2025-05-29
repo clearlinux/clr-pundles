@@ -1,0 +1,16 @@
+# [TITLE]: gnome-calculator-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-calculator-data)
+include(gnome-calculator-libexec)
+include(gnome-calculator-license)
+include(gtk4-lib)
+include(libc6)
+include(libgee-lib)
+include(mpc-lib)
+include(mpfr-lib)
+gnome-calculator-lib

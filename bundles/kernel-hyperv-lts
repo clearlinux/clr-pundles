@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Miguel Bernal Marin <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
-console-autostart
+include(console-autostart)
 include(init-rdahead)
-linux-hyperv-lts
+include(linux-hyperv-lts)
 include(systemd)

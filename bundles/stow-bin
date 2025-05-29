@@ -1,0 +1,9 @@
+# [TITLE]: stow-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+include(stow-license)
+stow-bin

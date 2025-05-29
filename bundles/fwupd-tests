@@ -1,0 +1,19 @@
+# [TITLE]: fwupd-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(curl-lib)
+include(filesystem)
+include(fwupd)
+include(fwupd-lib)
+include(glib-lib)
+include(gnutls-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(python3-core)
+include(xmlb-lib)
+fwupd-tests

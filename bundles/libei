@@ -1,0 +1,10 @@
+# [TITLE]: libei
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libei-bin)
+include(libei-lib)
+include(libei-license)
+libei

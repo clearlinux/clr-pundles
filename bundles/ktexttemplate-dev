@@ -1,0 +1,10 @@
+# [TITLE]: ktexttemplate-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktexttemplate)
+include(ktexttemplate-data)
+include(ktexttemplate-lib)
+ktexttemplate-dev

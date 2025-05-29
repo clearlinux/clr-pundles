@@ -1,0 +1,14 @@
+# [TITLE]: git-gui
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(git)
+include(git-gui-bin)
+include(git-gui-data)
+include(git-gui-libexec)
+include(git-gui-license)
+include(git-gui-man)
+include(tk)
+git-gui

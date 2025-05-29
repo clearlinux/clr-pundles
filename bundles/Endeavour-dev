@@ -1,0 +1,10 @@
+# [TITLE]: Endeavour-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Endeavour)
+include(Endeavour-bin)
+include(Endeavour-data)
+Endeavour-dev

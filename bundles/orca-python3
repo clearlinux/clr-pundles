@@ -1,0 +1,13 @@
+# [TITLE]: orca-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mypy-python3)
+include(pandas-python3)
+include(pypi-tables-python3)
+include(pypi-toolz-python3)
+include(pypi-types_psutil-python3)
+include(python3-core)
+orca-python3

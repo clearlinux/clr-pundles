@@ -1,0 +1,13 @@
+# [TITLE]: nrpe
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nrpe-bin)
+include(nrpe-config)
+include(nrpe-data)
+include(nrpe-libexec)
+include(nrpe-license)
+include(nrpe-services)
+nrpe

@@ -1,0 +1,8 @@
+# [TITLE]: glusterfs-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glusterfs-man)
+glusterfs-doc

@@ -1,0 +1,9 @@
+# [TITLE]: qt6doc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6doc)
+include(qt6doc-lib)
+qt6doc-dev

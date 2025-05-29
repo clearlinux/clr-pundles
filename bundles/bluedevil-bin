@@ -1,0 +1,20 @@
+# [TITLE]: bluedevil-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluedevil-data)
+include(bluedevil-license)
+include(bluez-qt-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+bluedevil-bin

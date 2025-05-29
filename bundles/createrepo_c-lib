@@ -1,0 +1,22 @@
+# [TITLE]: createrepo_c-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(createrepo_c-data)
+include(createrepo_c-license)
+include(curl-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libmodulemd-lib)
+include(libxml2-lib)
+include(openssl-lib)
+include(rpm-lib)
+include(sqlite-autoconf-lib)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+createrepo_c-lib

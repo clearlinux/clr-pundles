@@ -1,0 +1,9 @@
+# [TITLE]: muparser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(muparser-lib)
+include(muparser-license)
+muparser

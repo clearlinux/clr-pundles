@@ -1,0 +1,13 @@
+# [TITLE]: compat-gtksourceview-soname3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gtksourceview-soname3)
+include(compat-gtksourceview-soname3-data)
+include(compat-gtksourceview-soname3-lib)
+include(glib-dev)
+include(gtk3-dev)
+include(libxml2-dev)
+compat-gtksourceview-soname3-dev

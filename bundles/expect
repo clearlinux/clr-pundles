@@ -1,0 +1,11 @@
+# [TITLE]: expect
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expect-bin)
+include(expect-lib)
+include(expect-man)
+include(tcl)
+expect

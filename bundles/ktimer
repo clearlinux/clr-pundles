@@ -1,0 +1,11 @@
+# [TITLE]: ktimer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktimer-bin)
+include(ktimer-data)
+include(ktimer-license)
+include(ktimer-locales)
+ktimer

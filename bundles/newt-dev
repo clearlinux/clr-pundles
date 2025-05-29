@@ -1,0 +1,12 @@
+# [TITLE]: newt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(newt)
+include(newt-bin)
+include(newt-lib)
+include(pkg-config-bin)
+include(slang-dev)
+newt-dev

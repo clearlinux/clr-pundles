@@ -1,0 +1,27 @@
+# [TITLE]: keditbookmarks-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbookmarks-lib)
+include(kcodecs-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(keditbookmarks-data)
+include(keditbookmarks-lib)
+include(keditbookmarks-license)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kparts-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+keditbookmarks-bin

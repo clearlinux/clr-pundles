@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-opencl-headers-dev
+include(opencl-headers-dev)

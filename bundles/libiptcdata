@@ -1,0 +1,11 @@
+# [TITLE]: libiptcdata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libiptcdata-bin)
+include(libiptcdata-lib)
+include(libiptcdata-license)
+include(libiptcdata-locales)
+libiptcdata

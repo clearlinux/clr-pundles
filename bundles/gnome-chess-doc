@@ -1,0 +1,8 @@
+# [TITLE]: gnome-chess-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-chess-man)
+gnome-chess-doc

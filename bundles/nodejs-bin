@@ -1,0 +1,16 @@
+# [TITLE]: nodejs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libuv-lib)
+include(nghttp2-lib)
+include(nodejs-license)
+include(openssl-lib)
+include(zlib-lib)
+nodejs-bin

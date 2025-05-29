@@ -1,0 +1,22 @@
+# [TITLE]: plasma-workspace-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kwindowsystem-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-workspace)
+include(plasma-workspace-bin)
+include(plasma-workspace-data)
+include(plasma-workspace-lib)
+include(qt6base-lib)
+include(xcb-util-cursor-lib)
+plasma-workspace-dev

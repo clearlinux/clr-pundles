@@ -1,0 +1,9 @@
+# [TITLE]: freeipmi-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freeipmi-info)
+include(freeipmi-man)
+freeipmi-doc

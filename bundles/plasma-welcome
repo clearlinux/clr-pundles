@@ -1,0 +1,12 @@
+# [TITLE]: plasma-welcome
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-welcome-bin)
+include(plasma-welcome-data)
+include(plasma-welcome-lib)
+include(plasma-welcome-license)
+include(plasma-welcome-locales)
+plasma-welcome

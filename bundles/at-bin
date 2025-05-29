@@ -1,0 +1,13 @@
+# [TITLE]: at-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(at-license)
+include(at-services)
+include(at-setuid)
+include(filesystem)
+include(libc6)
+at-bin

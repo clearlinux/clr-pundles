@@ -1,0 +1,9 @@
+# [TITLE]: glibmm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibmm-lib)
+include(glibmm-license)
+glibmm

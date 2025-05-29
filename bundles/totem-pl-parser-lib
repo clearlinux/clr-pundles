@@ -1,0 +1,16 @@
+# [TITLE]: totem-pl-parser-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libxml2-lib)
+include(totem-pl-parser-data)
+include(totem-pl-parser-libexec)
+include(totem-pl-parser-license)
+include(uchardet-lib)
+totem-pl-parser-lib

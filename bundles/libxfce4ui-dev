@@ -1,0 +1,16 @@
+# [TITLE]: libxfce4ui-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk3-dev)
+include(libxfce4ui)
+include(libxfce4ui-bin)
+include(libxfce4ui-data)
+include(libxfce4ui-dev)
+include(libxfce4ui-lib)
+include(libxfce4util-dev)
+include(pkg-config-bin)
+include(xfconf-dev)
+libxfce4ui-dev

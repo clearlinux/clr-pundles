@@ -1,0 +1,12 @@
+# [TITLE]: NetworkManager-l2tp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-l2tp-data)
+include(NetworkManager-l2tp-lib)
+include(NetworkManager-l2tp-libexec)
+include(NetworkManager-l2tp-license)
+include(NetworkManager-l2tp-locales)
+NetworkManager-l2tp

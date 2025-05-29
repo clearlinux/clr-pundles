@@ -1,0 +1,13 @@
+# [TITLE]: gnome-desktop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bubblewrap)
+include(gnome-desktop-data)
+include(gnome-desktop-lib)
+include(gnome-desktop-libexec)
+include(gnome-desktop-license)
+include(gnome-desktop-locales)
+gnome-desktop

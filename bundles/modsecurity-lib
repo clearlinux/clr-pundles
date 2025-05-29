@@ -1,0 +1,14 @@
+# [TITLE]: modsecurity-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(lua-lib)
+include(modsecurity-license)
+include(pcre-lib)
+modsecurity-lib

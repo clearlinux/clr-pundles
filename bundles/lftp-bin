@@ -1,0 +1,14 @@
+# [TITLE]: lftp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(lftp-data)
+include(lftp-lib)
+include(lftp-license)
+include(libc6)
+include(libstdc++)
+include(readline-lib)
+lftp-bin

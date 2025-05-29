@@ -1,0 +1,11 @@
+# [TITLE]: libtorrent-rasterbar-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtorrent-rasterbar)
+include(libtorrent-rasterbar-data)
+include(libtorrent-rasterbar-lib)
+include(pkg-config-bin)
+libtorrent-rasterbar-dev

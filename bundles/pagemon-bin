@@ -1,0 +1,11 @@
+# [TITLE]: pagemon-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(pagemon-data)
+include(pagemon-license)
+pagemon-bin

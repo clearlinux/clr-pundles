@@ -1,0 +1,12 @@
+# [TITLE]: libmtp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmtp)
+include(libmtp-bin)
+include(libmtp-lib)
+include(libusb-dev)
+include(pkg-config-bin)
+libmtp-dev

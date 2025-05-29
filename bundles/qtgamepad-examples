@@ -1,0 +1,8 @@
+# [TITLE]: qtgamepad-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtgamepad-dev)
+qtgamepad-examples

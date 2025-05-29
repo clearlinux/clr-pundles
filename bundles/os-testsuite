@@ -14,6 +14,6 @@ include(openssh-server)
 include(parallel)
 include(sudo)
 
-bats
-expect
+include(bats)
+include(expect)
 include(glibc-bin)

@@ -14,4 +14,4 @@ include(php-basic)
 # end of custom additions
 
 # main package
-unit
+include(unit)

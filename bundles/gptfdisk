@@ -1,0 +1,10 @@
+# [TITLE]: gptfdisk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gptfdisk-bin)
+include(gptfdisk-license)
+include(gptfdisk-man)
+gptfdisk

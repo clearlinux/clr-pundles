@@ -1,0 +1,12 @@
+# [TITLE]: elixir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(elixir-bin)
+include(elixir-license)
+include(elixir-man)
+include(filesystem)
+elixir

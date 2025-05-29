@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-oiio-dev
+include(oiio-dev)
 include(lib-imageformat)
 include(libstdcpp)
 include(opencv-python)

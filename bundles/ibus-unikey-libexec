@@ -1,0 +1,15 @@
+# [TITLE]: ibus-unikey-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk+-lib)
+include(ibus-lib)
+include(ibus-unikey-license)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+ibus-unikey-libexec

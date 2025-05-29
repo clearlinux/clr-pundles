@@ -1,0 +1,8 @@
+# [TITLE]: directx-headers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(directx-headers-license)
+directx-headers

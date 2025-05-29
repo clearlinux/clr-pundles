@@ -8,7 +8,7 @@
 include(devpkg-base)
 include(devpkg-qtbase)
 
-attica-dev
+include(attica-dev)
 include(qt-core)
 include(libstdcpp)
 include(lib-openssl)

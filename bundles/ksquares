@@ -1,0 +1,11 @@
+# [TITLE]: ksquares
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksquares-bin)
+include(ksquares-data)
+include(ksquares-license)
+include(ksquares-locales)
+ksquares

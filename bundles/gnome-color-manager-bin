@@ -1,0 +1,18 @@
+# [TITLE]: gnome-color-manager-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(colord-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-color-manager-data)
+include(gnome-color-manager-license)
+include(gtk3-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+include(pango-lib)
+gnome-color-manager-bin

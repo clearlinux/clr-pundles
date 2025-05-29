@@ -1,0 +1,14 @@
+# [TITLE]: gtk-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk-doc-bin)
+include(gtk-doc-data)
+include(gtk-doc-license)
+include(libxslt)
+include(pypi-pygments-python3)
+include(pypi-six-python3)
+include(source-highlight)
+gtk-doc

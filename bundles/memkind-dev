@@ -1,0 +1,10 @@
+# [TITLE]: memkind-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(memkind)
+include(memkind-bin)
+include(memkind-lib)
+memkind-dev

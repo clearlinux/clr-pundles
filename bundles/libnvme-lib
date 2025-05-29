@@ -1,0 +1,14 @@
+# [TITLE]: libnvme-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-lib)
+include(keyutils-lib)
+include(libc6)
+include(libgcc1)
+include(libnvme-license)
+include(liburing-lib)
+include(openssl-lib)
+libnvme-lib

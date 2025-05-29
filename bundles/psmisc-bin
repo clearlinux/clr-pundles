@@ -1,0 +1,10 @@
+# [TITLE]: psmisc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(psmisc-license)
+psmisc-bin

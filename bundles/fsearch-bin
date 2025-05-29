@@ -1,0 +1,18 @@
+# [TITLE]: fsearch-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fsearch-data)
+include(fsearch-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(pango-lib)
+include(pcre2-lib)
+fsearch-bin

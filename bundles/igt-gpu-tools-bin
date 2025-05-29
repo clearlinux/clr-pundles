@@ -1,0 +1,22 @@
+# [TITLE]: igt-gpu-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(coreutils-bin)
+include(filesystem)
+include(glib-lib)
+include(igt-gpu-tools-data)
+include(igt-gpu-tools-lib)
+include(igt-gpu-tools-libexec)
+include(igt-gpu-tools-license)
+include(json-c-lib)
+include(libc6)
+include(libdrm-lib)
+include(libpciaccess-lib)
+include(perl-bin)
+include(systemd-lib)
+include(zlib-lib)
+igt-gpu-tools-bin

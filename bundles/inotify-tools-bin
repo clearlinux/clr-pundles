@@ -1,0 +1,12 @@
+# [TITLE]: inotify-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inotify-tools-lib)
+include(inotify-tools-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+inotify-tools-bin

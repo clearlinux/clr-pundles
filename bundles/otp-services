@@ -1,0 +1,8 @@
+# [TITLE]: otp-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+otp-services

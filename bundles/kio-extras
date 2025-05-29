@@ -1,0 +1,13 @@
+# [TITLE]: kio-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kio-extras-data)
+include(kio-extras-lib)
+include(kio-extras-license)
+include(kio-extras-locales)
+include(libc6)
+include(libproxy-lib)
+kio-extras

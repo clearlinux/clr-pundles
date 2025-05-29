@@ -1,0 +1,9 @@
+# [TITLE]: kqtquickcharts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kqtquickcharts-lib)
+include(kqtquickcharts-license)
+kqtquickcharts

@@ -1,0 +1,10 @@
+# [TITLE]: nose-parameterized
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nose-parameterized-license)
+include(nose-parameterized-python)
+include(nose-parameterized-python3)
+nose-parameterized

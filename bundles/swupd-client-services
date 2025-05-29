@@ -1,0 +1,8 @@
+# [TITLE]: swupd-client-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+swupd-client-services

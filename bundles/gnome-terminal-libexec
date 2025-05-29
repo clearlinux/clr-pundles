@@ -1,0 +1,19 @@
+# [TITLE]: gnome-terminal-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(gnome-terminal-license)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libhandy-lib)
+include(libstdc++)
+include(pango-lib)
+include(util-linux-lib)
+include(vte-lib)
+gnome-terminal-libexec

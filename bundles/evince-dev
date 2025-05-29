@@ -1,0 +1,14 @@
+# [TITLE]: evince-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evince)
+include(evince-bin)
+include(evince-data)
+include(evince-lib)
+include(glib-dev)
+include(gtk3-dev)
+include(pkg-config-bin)
+evince-dev

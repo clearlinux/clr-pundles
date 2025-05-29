@@ -5,4 +5,4 @@
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-paho.mqtt.c-lib
+include(paho.mqtt.c-lib)

@@ -1,0 +1,8 @@
+# [TITLE]: libqmi-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqmi-man)
+libqmi-doc

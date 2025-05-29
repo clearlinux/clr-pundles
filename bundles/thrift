@@ -1,0 +1,12 @@
+# [TITLE]: thrift
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(thrift-bin)
+include(thrift-lib)
+include(thrift-license)
+include(thrift-python)
+include(thrift-python3)
+thrift

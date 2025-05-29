@@ -1,0 +1,12 @@
+# [TITLE]: kdnssd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdnssd-data)
+include(kdnssd-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdnssd-lib

@@ -1,0 +1,16 @@
+# [TITLE]: NetworkManager-openvpn-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-lib)
+include(NetworkManager-openvpn-data)
+include(NetworkManager-openvpn-libexec)
+include(NetworkManager-openvpn-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libnma-lib)
+NetworkManager-openvpn-lib

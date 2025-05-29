@@ -1,0 +1,10 @@
+# [TITLE]: nagios-plugins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nagios-plugins-libexec)
+include(nagios-plugins-license)
+include(nagios-plugins-locales)
+nagios-plugins

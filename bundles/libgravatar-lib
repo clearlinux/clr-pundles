@@ -1,0 +1,16 @@
+# [TITLE]: libgravatar-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(ki18n-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgravatar-data)
+include(libgravatar-license)
+include(libstdc++)
+include(qt6base-lib)
+libgravatar-lib

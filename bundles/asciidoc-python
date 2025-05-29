@@ -1,0 +1,8 @@
+# [TITLE]: asciidoc-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asciidoc-python3)
+asciidoc-python

@@ -1,0 +1,14 @@
+# [TITLE]: upower-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pkg-config-bin)
+include(polkit-dev)
+include(upower)
+include(upower-bin)
+include(upower-data)
+include(upower-lib)
+upower-dev

@@ -1,0 +1,9 @@
+# [TITLE]: redsocks-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+include(redsocks-license)
+redsocks-libexec

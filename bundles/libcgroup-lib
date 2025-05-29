@@ -1,0 +1,10 @@
+# [TITLE]: libcgroup-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libc6)
+include(systemd-extras-libsystemd)
+libcgroup-lib

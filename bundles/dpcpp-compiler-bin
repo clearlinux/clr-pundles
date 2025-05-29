@@ -1,0 +1,9 @@
+# [TITLE]: dpcpp-compiler-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dpcpp-compiler-data)
+include(dpcpp-compiler-license)
+dpcpp-compiler-bin

@@ -1,0 +1,12 @@
+# [TITLE]: pciutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pciutils-bin)
+include(pciutils-data)
+include(pciutils-lib)
+include(pciutils-license)
+include(pciutils-man)
+pciutils

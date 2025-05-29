@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qt6tools-dev
+include(qt6tools-dev)
 include(libstdcpp)
 include(gdk-pixbuf)
 include(libX11client)

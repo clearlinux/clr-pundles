@@ -1,0 +1,10 @@
+# [TITLE]: libgphoto2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libgphoto2-data)
+include(libgphoto2-license)
+libgphoto2-bin

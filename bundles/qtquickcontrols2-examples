@@ -1,0 +1,8 @@
+# [TITLE]: qtquickcontrols2-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtquickcontrols2-dev)
+qtquickcontrols2-examples

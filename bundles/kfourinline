@@ -1,0 +1,11 @@
+# [TITLE]: kfourinline
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kfourinline-bin)
+include(kfourinline-data)
+include(kfourinline-license)
+include(kfourinline-locales)
+kfourinline

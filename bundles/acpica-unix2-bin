@@ -1,0 +1,8 @@
+# [TITLE]: acpica-unix2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+acpica-unix2-bin

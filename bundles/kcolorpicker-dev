@@ -1,0 +1,9 @@
+# [TITLE]: kcolorpicker-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcolorpicker)
+include(kcolorpicker-lib)
+kcolorpicker-dev

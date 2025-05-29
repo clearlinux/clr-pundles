@@ -1,0 +1,11 @@
+# [TITLE]: libmypaint
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmypaint-data)
+include(libmypaint-lib)
+include(libmypaint-license)
+include(libmypaint-locales)
+libmypaint

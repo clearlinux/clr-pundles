@@ -1,0 +1,12 @@
+# [TITLE]: oxygen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oxygen-bin)
+include(oxygen-data)
+include(oxygen-lib)
+include(oxygen-license)
+include(oxygen-locales)
+oxygen

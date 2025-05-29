@@ -1,0 +1,8 @@
+# [TITLE]: tracker-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+tracker-services

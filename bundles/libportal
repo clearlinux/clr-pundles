@@ -1,0 +1,11 @@
+# [TITLE]: libportal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libportal-data)
+include(libportal-lib)
+include(libportal-license)
+include(xdg-desktop-portal)
+libportal

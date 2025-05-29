@@ -1,0 +1,9 @@
+# [TITLE]: evtest-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evtest-license)
+include(libc6)
+evtest-bin

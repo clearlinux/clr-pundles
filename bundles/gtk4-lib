@@ -1,0 +1,31 @@
+# [TITLE]: gtk4-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-lib)
+include(cairo-lib)
+include(cups-lib)
+include(fontconfig-lib)
+include(fribidi-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(graphene-lib)
+include(gst-plugins-bad-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk4-data)
+include(gtk4-license)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(tiff-lib)
+include(wayland-lib)
+gtk4-lib

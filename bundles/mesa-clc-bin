@@ -1,0 +1,13 @@
+# [TITLE]: mesa-clc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(llvm-lib)
+include(mesa-clc-license)
+mesa-clc-bin

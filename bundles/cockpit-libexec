@@ -1,0 +1,21 @@
+# [TITLE]: cockpit-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cockpit-config)
+include(cockpit-license)
+include(coreutils-bin)
+include(filesystem)
+include(glib-lib)
+include(gnutls-lib)
+include(json-glib-lib)
+include(krb5-lib)
+include(libc6)
+include(libgcc1)
+include(libxcrypt-lib)
+include(python3-core)
+include(systemd-extras-libsystemd)
+cockpit-libexec

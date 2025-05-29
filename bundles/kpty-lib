@@ -1,0 +1,14 @@
+# [TITLE]: kpty-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kpty-data)
+include(kpty-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kpty-lib

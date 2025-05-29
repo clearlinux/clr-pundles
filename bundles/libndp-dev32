@@ -1,0 +1,11 @@
+# [TITLE]: libndp-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libndp-bin)
+include(libndp-dev)
+include(libndp-lib32)
+include(pkg-config-bin)
+libndp-dev32

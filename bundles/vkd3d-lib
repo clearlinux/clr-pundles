@@ -1,0 +1,10 @@
+# [TITLE]: vkd3d-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-lib)
+include(libc6)
+include(vkd3d-license)
+vkd3d-lib

@@ -4,9 +4,9 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-clr-boot-manager
-gptfdisk-bin
-shim
+include(clr-boot-manager)
+include(gptfdisk-bin)
+include(shim)
 include(syslinux)
 include(libstdcpp)
 include(popt-lib)

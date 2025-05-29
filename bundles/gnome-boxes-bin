@@ -1,0 +1,27 @@
+# [TITLE]: gnome-boxes-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-boxes-data)
+include(gnome-boxes-lib)
+include(gnome-boxes-libexec)
+include(gnome-boxes-license)
+include(gtk3-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgudev-lib)
+include(libhandy-lib)
+include(libosinfo-lib)
+include(libportal-lib)
+include(libsoup-lib)
+include(libusb-lib)
+include(libvirt-glib-lib)
+include(spice-gtk-lib)
+include(webkitgtk-lib)
+gnome-boxes-bin

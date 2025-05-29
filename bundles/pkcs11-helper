@@ -1,0 +1,10 @@
+# [TITLE]: pkcs11-helper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkcs11-helper-lib)
+include(pkcs11-helper-license)
+include(pkcs11-helper-man)
+pkcs11-helper

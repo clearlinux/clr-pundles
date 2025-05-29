@@ -1,0 +1,8 @@
+# [TITLE]: valijson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(valijson-license)
+valijson

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-avahi-dev
+include(avahi-dev)
 include(libglib)
 include(libX11client)
 include(lib-opengl)

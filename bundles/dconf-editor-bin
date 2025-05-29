@@ -1,0 +1,14 @@
+# [TITLE]: dconf-editor-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dconf-editor-data)
+include(dconf-editor-license)
+include(dconf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libhandy-lib)
+dconf-editor-bin

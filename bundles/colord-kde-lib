@@ -1,0 +1,19 @@
+# [TITLE]: colord-kde-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-kde-data)
+include(colord-kde-license)
+include(kcmutils-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+colord-kde-lib

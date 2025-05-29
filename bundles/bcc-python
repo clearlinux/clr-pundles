@@ -1,0 +1,8 @@
+# [TITLE]: bcc-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bcc-python3)
+bcc-python

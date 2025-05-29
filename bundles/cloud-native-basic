@@ -13,13 +13,13 @@ include(perl-basic)
 
 include(LVM2-bin)
 include(LVM2-config)
-cloud-native-setup
-cni-plugins
-containerd
-cri-o
-cri-tools
-ebtables
-helm
-kubernetes
-runc
+include(cloud-native-setup)
+include(cni-plugins)
+include(containerd)
+include(cri-o)
+include(cri-tools)
+include(ebtables)
+include(helm)
+include(kubernetes)
+include(runc)
 include(socat)

@@ -1,0 +1,11 @@
+# [TITLE]: ldb-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ldb-lib)
+include(libc6)
+include(python3-lib)
+include(talloc-lib)
+ldb-extras

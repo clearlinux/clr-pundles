@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-xapian-core-dev
+include(xapian-core-dev)
 include(libstdcpp)

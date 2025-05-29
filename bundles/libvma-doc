@@ -1,0 +1,8 @@
+# [TITLE]: libvma-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvma-man)
+libvma-doc

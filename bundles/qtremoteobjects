@@ -1,0 +1,9 @@
+# [TITLE]: qtremoteobjects
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtremoteobjects-lib)
+include(qtremoteobjects-license)
+qtremoteobjects

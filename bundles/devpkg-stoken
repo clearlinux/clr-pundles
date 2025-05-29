@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-stoken-dev
+include(stoken-dev)
 include(libX11client)
 include(libglib)

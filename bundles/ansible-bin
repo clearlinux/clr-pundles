@@ -1,0 +1,9 @@
+# [TITLE]: ansible-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ansible-license)
+include(python3-core)
+ansible-bin

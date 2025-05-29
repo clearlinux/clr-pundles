@@ -1,0 +1,11 @@
+# [TITLE]: mcelog-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mcelog-data)
+include(mcelog-license)
+include(mcelog-services)
+mcelog-bin

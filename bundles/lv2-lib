@@ -1,0 +1,14 @@
+# [TITLE]: lv2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(libc6)
+include(libsamplerate-lib)
+include(libsndfile-lib)
+include(lv2-license)
+lv2-lib

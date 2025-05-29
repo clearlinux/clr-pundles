@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-compat-babeltrace-one-dev
+include(compat-babeltrace-one-dev)
 include(libglib)
 include(popt-lib)

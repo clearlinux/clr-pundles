@@ -1,0 +1,16 @@
+# [TITLE]: inkscape-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-glibmm-soname24-lib)
+include(glib-lib)
+include(gtkmm3-lib)
+include(inkscape-data)
+include(inkscape-lib)
+include(inkscape-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+inkscape-bin

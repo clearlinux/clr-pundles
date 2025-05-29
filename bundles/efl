@@ -1,0 +1,25 @@
+# [TITLE]: efl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibRaw-lib)
+include(cairo-lib)
+include(efl-bin)
+include(efl-data)
+include(efl-lib)
+include(efl-license)
+include(efl-locales)
+include(efl-services)
+include(filesystem)
+include(glib-lib)
+include(gstreamer-lib)
+include(libc6)
+include(libgcc1)
+include(librsvg-lib)
+include(libspectre-lib)
+include(libstdc++)
+include(poppler-lib)
+include(zlib-lib)
+efl

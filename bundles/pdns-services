@@ -1,0 +1,8 @@
+# [TITLE]: pdns-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+pdns-services

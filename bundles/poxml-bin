@@ -1,0 +1,12 @@
+# [TITLE]: poxml-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gettext-lib)
+include(libc6)
+include(libstdc++)
+include(poxml-license)
+include(qt6base-lib)
+poxml-bin

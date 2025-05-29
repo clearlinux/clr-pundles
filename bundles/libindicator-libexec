@@ -1,0 +1,12 @@
+# [TITLE]: libindicator-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libindicator-lib)
+include(libindicator-license)
+libindicator-libexec

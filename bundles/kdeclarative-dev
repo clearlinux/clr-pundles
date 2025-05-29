@@ -1,0 +1,9 @@
+# [TITLE]: kdeclarative-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdeclarative)
+include(kdeclarative-lib)
+kdeclarative-dev

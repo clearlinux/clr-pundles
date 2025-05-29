@@ -1,0 +1,14 @@
+# [TITLE]: ipp-usb-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(ipp-usb-config)
+include(ipp-usb-data)
+include(ipp-usb-license)
+include(ipp-usb-services)
+include(libc6)
+include(libusb-lib)
+ipp-usb-bin

@@ -1,0 +1,13 @@
+# [TITLE]: os-autoinst
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(os-autoinst-bin)
+include(os-autoinst-data)
+include(os-autoinst-libexec)
+include(os-autoinst-license)
+include(os-autoinst-perl)
+include(os-autoinst-services)
+os-autoinst

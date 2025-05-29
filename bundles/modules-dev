@@ -1,0 +1,11 @@
+# [TITLE]: modules-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(modules)
+include(modules-bin)
+include(modules-data)
+modules-dev

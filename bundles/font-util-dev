@@ -1,0 +1,11 @@
+# [TITLE]: font-util-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(font-util)
+include(font-util-bin)
+include(font-util-data)
+include(pkg-config-bin)
+font-util-dev

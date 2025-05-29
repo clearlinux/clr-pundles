@@ -1,0 +1,9 @@
+# [TITLE]: polkit-qt6
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(polkit-qt6-lib)
+include(polkit-qt6-license)
+polkit-qt6

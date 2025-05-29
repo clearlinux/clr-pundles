@@ -1,0 +1,9 @@
+# [TITLE]: libmikmod-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libmikmod-license)
+libmikmod-bin

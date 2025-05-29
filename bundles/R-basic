@@ -9,7 +9,7 @@ include(libX11client)
 #
 # R base packages
 #
-clr-R-helpers
+include(clr-R-helpers)
 include(R)
 include(devpkg-R)
 include(tcl-basic)
@@ -20,7 +20,7 @@ include(glibc-lib-avx2)
 include(gcc-libs-math)
 
 # runtime deps (plotting, help navigation, etc)
-clear-font
+include(clear-font)
 include(less)
 #
 # Not listed because these are part of the R core above

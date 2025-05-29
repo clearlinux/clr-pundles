@@ -1,0 +1,18 @@
+# [TITLE]: svxlink-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(compat-libsigc++-soname20-lib)
+include(gsm-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(opus-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(speex-lib)
+include(svxlink-data)
+svxlink-lib

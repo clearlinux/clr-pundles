@@ -1,0 +1,9 @@
+# [TITLE]: makedepend-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(makedepend-license)
+makedepend-bin

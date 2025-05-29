@@ -1,0 +1,10 @@
+# [TITLE]: gsm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsm)
+include(gsm-bin)
+include(gsm-lib)
+gsm-dev

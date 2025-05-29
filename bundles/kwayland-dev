@@ -1,0 +1,12 @@
+# [TITLE]: kwayland-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwayland)
+include(kwayland-data)
+include(kwayland-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+kwayland-dev

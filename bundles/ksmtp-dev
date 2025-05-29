@@ -1,0 +1,10 @@
+# [TITLE]: ksmtp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ksmtp)
+include(ksmtp-data)
+include(ksmtp-lib)
+ksmtp-dev

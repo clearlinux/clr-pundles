@@ -1,0 +1,8 @@
+# [TITLE]: bcachefs-tools-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+bcachefs-tools-services

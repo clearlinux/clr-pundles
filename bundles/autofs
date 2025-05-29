@@ -1,0 +1,11 @@
+# [TITLE]: autofs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autofs-bin)
+include(autofs-lib)
+include(autofs-license)
+include(autofs-man)
+autofs

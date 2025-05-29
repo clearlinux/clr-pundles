@@ -1,0 +1,9 @@
+# [TITLE]: qt6serialbus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6serialbus-lib)
+include(qt6serialbus-license)
+qt6serialbus

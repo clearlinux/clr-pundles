@@ -1,0 +1,10 @@
+# [TITLE]: gmime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmime-data)
+include(gmime-lib)
+include(gmime-license)
+gmime

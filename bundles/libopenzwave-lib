@@ -1,0 +1,13 @@
+# [TITLE]: libopenzwave-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libopenzwave-data)
+include(libopenzwave-license)
+include(libstdc++)
+include(systemd-lib)
+libopenzwave-lib

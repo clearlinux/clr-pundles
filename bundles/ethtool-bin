@@ -1,0 +1,11 @@
+# [TITLE]: ethtool-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ethtool-data)
+include(ethtool-license)
+include(libc6)
+include(libmnl-lib)
+ethtool-bin

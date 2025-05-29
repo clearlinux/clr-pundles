@@ -1,0 +1,11 @@
+# [TITLE]: libgsystem-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgsystem-license)
+libgsystem-lib

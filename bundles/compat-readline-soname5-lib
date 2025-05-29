@@ -1,0 +1,9 @@
+# [TITLE]: compat-readline-soname5-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-readline-soname5-license)
+include(libc6)
+compat-readline-soname5-lib

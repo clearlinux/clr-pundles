@@ -1,0 +1,13 @@
+# [TITLE]: mozjs91-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(readline-lib)
+include(zlib-lib)
+mozjs91-bin

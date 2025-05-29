@@ -1,0 +1,17 @@
+# [TITLE]: kcron-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kcmutils-lib)
+include(kcoreaddons-lib)
+include(kcron-data)
+include(kcron-license)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kcron-lib

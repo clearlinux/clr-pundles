@@ -1,0 +1,18 @@
+# [TITLE]: gnome-remote-desktop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP-lib)
+include(glib-lib)
+include(gnome-remote-desktop-config)
+include(gnome-remote-desktop-data)
+include(gnome-remote-desktop-libexec)
+include(gnome-remote-desktop-license)
+include(gnome-remote-desktop-services)
+include(libc6)
+include(libgcc1)
+include(libsecret-lib)
+include(tpm2-tss-lib)
+gnome-remote-desktop-bin

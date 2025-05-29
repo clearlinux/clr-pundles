@@ -1,0 +1,16 @@
+# [TITLE]: sssd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sssd-bin)
+include(sssd-config)
+include(sssd-data)
+include(sssd-lib)
+include(sssd-libexec)
+include(sssd-license)
+include(sssd-locales)
+include(sssd-python)
+include(sssd-python3)
+sssd

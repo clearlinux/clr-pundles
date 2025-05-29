@@ -1,0 +1,10 @@
+# [TITLE]: knotifications-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(knotifications)
+include(knotifications-data)
+include(knotifications-lib)
+knotifications-dev

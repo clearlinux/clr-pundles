@@ -1,0 +1,12 @@
+# [TITLE]: qt6tools-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6tools-lib)
+include(qt6tools-license)
+qt6tools-libexec

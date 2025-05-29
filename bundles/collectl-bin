@@ -1,0 +1,11 @@
+# [TITLE]: collectl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(collectl-data)
+include(collectl-license)
+include(collectl-services)
+include(perl-bin)
+collectl-bin

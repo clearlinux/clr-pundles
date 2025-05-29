@@ -1,0 +1,8 @@
+# [TITLE]: ppft-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ppft-python3)
+ppft-python

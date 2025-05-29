@@ -1,0 +1,13 @@
+# [TITLE]: pcre-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcre)
+include(pcre-bin)
+include(pcre-dev)
+include(pcre-extras)
+include(pcre-extras-unicode)
+include(pcre-lib)
+pcre-dev

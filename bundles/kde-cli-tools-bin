@@ -1,0 +1,23 @@
+# [TITLE]: kde-cli-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kde-cli-tools-data)
+include(kde-cli-tools-license)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kparts-lib)
+include(kservice-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6svg-lib)
+kde-cli-tools-bin

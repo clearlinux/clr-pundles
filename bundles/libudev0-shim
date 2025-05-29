@@ -1,0 +1,8 @@
+# [TITLE]: libudev0-shim
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libudev0-shim-lib)
+libudev0-shim

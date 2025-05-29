@@ -1,0 +1,12 @@
+# [TITLE]: plasma-activities-stats-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(plasma-activities-stats)
+include(plasma-activities-stats-data)
+include(plasma-activities-stats-lib)
+include(qt6base-dev)
+plasma-activities-stats-dev

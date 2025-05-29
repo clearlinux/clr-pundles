@@ -1,0 +1,10 @@
+# [TITLE]: mbedtls
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mbedtls-bin)
+include(mbedtls-lib)
+include(mbedtls-license)
+mbedtls

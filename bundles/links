@@ -1,0 +1,10 @@
+# [TITLE]: links
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(links-bin)
+include(links-license)
+include(links-man)
+links

@@ -1,0 +1,11 @@
+# [TITLE]: wsjtx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wsjtx-bin)
+include(wsjtx-data)
+include(wsjtx-license)
+include(wsjtx-man)
+wsjtx

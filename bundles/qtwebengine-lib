@@ -1,0 +1,39 @@
+# [TITLE]: qtwebengine-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(compat-ffmpeg-4.4-lib)
+include(compat-libvpx-soname8-lib)
+include(compat-re2-soname10-lib)
+include(dbus-lib)
+include(expat-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(harfbuzz-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libc6)
+include(libevent-lib)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(minizip-ng-lib)
+include(nspr)
+include(nss-lib)
+include(opus-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qtlocation-lib)
+include(qtwebchannel-lib)
+include(qtwebengine-data)
+include(qtwebengine-libexec)
+include(qtwebengine-license)
+include(snappy-lib)
+include(zlib-lib)
+qtwebengine-lib

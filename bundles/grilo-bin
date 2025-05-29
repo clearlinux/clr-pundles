@@ -1,0 +1,15 @@
+# [TITLE]: grilo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(grilo-data)
+include(grilo-lib)
+include(grilo-license)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(liboauth-lib)
+grilo-bin

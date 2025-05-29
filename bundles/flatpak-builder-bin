@@ -1,0 +1,19 @@
+# [TITLE]: flatpak-builder-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsoup-soname-24-lib)
+include(compat-libxml2-soname2-lib)
+include(curl-lib)
+include(elfutils-lib)
+include(flatpak-builder-libexec)
+include(flatpak-builder-license)
+include(glib-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(ostree-lib)
+include(yaml-lib)
+flatpak-builder-bin

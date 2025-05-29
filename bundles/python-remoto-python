@@ -1,0 +1,8 @@
+# [TITLE]: python-remoto-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-remoto-python3)
+python-remoto-python

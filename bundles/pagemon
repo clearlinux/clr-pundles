@@ -1,0 +1,11 @@
+# [TITLE]: pagemon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pagemon-bin)
+include(pagemon-data)
+include(pagemon-license)
+include(pagemon-man)
+pagemon

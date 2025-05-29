@@ -1,0 +1,10 @@
+# [TITLE]: qemu-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qemu)
+include(qemu-bin)
+include(qemu-data)
+qemu-dev

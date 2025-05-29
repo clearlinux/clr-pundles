@@ -1,0 +1,23 @@
+# [TITLE]: gnome-shell-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(filesystem)
+include(gjs-lib)
+include(glib-lib)
+include(gnome-autoar-lib)
+include(gnome-shell-data)
+include(gnome-shell-lib)
+include(gnome-shell-libexec)
+include(gnome-shell-license)
+include(gnome-shell-services)
+include(gobject-introspection-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(mutter-lib)
+include(python3-core)
+gnome-shell-bin

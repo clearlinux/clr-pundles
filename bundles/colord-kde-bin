@@ -1,0 +1,16 @@
+# [TITLE]: colord-kde-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-kde-data)
+include(colord-kde-license)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kwidgetsaddons-lib)
+include(lcms2-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+colord-kde-bin

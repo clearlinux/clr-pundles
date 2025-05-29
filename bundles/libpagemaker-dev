@@ -1,0 +1,11 @@
+# [TITLE]: libpagemaker-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpagemaker)
+include(libpagemaker-bin)
+include(libpagemaker-lib)
+include(librevenge-dev)
+libpagemaker-dev

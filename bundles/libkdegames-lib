@@ -1,0 +1,28 @@
+# [TITLE]: libkdegames-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kdnssd-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(knewstuff-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkdegames-data)
+include(libkdegames-license)
+include(libsndfile-lib)
+include(libstdc++)
+include(openal-soft-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6svg-lib)
+libkdegames-lib

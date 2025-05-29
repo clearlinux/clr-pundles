@@ -1,0 +1,10 @@
+# [TITLE]: CUnit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CUnit-data)
+include(CUnit-lib)
+include(CUnit-license)
+CUnit

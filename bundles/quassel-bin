@@ -1,0 +1,16 @@
+# [TITLE]: quassel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(quassel-config)
+include(quassel-data)
+include(quassel-lib)
+include(quassel-license)
+quassel-bin

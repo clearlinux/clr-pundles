@@ -1,0 +1,9 @@
+# [TITLE]: libspiro-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libspiro)
+include(libspiro-lib)
+libspiro-dev

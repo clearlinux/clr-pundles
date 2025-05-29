@@ -1,0 +1,8 @@
+# [TITLE]: python-zeep-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-zeep-python3)
+python-zeep-python

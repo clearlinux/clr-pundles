@@ -1,0 +1,12 @@
+# [TITLE]: openvpn
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openvpn-bin)
+include(openvpn-config)
+include(openvpn-lib)
+include(openvpn-man)
+include(openvpn-services)
+openvpn

@@ -1,0 +1,12 @@
+# [TITLE]: thrift-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pkg-config-bin)
+include(thrift)
+include(thrift-bin)
+include(thrift-lib)
+thrift-dev

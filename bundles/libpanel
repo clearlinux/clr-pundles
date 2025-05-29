@@ -1,0 +1,11 @@
+# [TITLE]: libpanel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpanel-data)
+include(libpanel-lib)
+include(libpanel-license)
+include(libpanel-locales)
+libpanel

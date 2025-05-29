@@ -1,0 +1,14 @@
+# [TITLE]: lcov
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lcov-bin)
+include(lcov-data)
+include(lcov-license)
+include(lcov-man)
+include(perl-GD)
+include(perl-JSON)
+include(perl-PerlIO-gzip)
+lcov

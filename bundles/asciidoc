@@ -1,0 +1,14 @@
+# [TITLE]: asciidoc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asciidoc-bin)
+include(asciidoc-license)
+include(asciidoc-python)
+include(asciidoc-python3)
+include(docbook-xml)
+include(libxml2-bin)
+include(libxslt)
+asciidoc

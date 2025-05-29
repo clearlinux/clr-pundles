@@ -1,0 +1,13 @@
+# [TITLE]: appstream-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream)
+include(appstream-bin)
+include(appstream-data)
+include(appstream-lib)
+include(glib-dev)
+include(pkg-config-bin)
+appstream-dev

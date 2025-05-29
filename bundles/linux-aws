@@ -1,0 +1,10 @@
+# [TITLE]: linux-aws
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(init-rdahead)
+include(linux-aws-license)
+include(systemd-bin)
+linux-aws

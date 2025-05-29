@@ -1,0 +1,14 @@
+# [TITLE]: rpm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libarchive-lib)
+include(libc6)
+include(popt-lib)
+include(readline-lib)
+include(rpm-lib)
+include(rpm-license)
+rpm-bin

@@ -1,0 +1,9 @@
+# [TITLE]: accel-config-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(accel-config-license)
+include(libc6)
+accel-config-lib

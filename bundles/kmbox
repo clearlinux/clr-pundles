@@ -1,0 +1,10 @@
+# [TITLE]: kmbox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmbox-data)
+include(kmbox-lib)
+include(kmbox-license)
+kmbox

@@ -1,0 +1,11 @@
+# [TITLE]: nrpe-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nrpe-config)
+include(nrpe-license)
+include(openssl-lib)
+nrpe-libexec

@@ -1,0 +1,13 @@
+# [TITLE]: qatlib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openssl-dev)
+include(pkg-config-bin)
+include(qatlib)
+include(qatlib-bin)
+include(qatlib-dev)
+include(qatlib-lib)
+qatlib-dev

@@ -1,0 +1,17 @@
+# [TITLE]: libspelling-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(enchant-lib)
+include(glib-lib)
+include(gtk4-lib)
+include(gtksourceview-lib)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libspelling-data)
+include(libspelling-license)
+include(pango-lib)
+libspelling-lib

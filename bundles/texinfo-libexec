@@ -1,0 +1,9 @@
+# [TITLE]: texinfo-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(texinfo-license)
+texinfo-libexec

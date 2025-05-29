@@ -1,0 +1,8 @@
+# [TITLE]: libpwquality-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpwquality-python3)
+libpwquality-python

@@ -1,0 +1,10 @@
+# [TITLE]: adwaita-icon-theme-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(adwaita-icon-theme)
+include(adwaita-icon-theme-data)
+include(pkg-config-bin)
+adwaita-icon-theme-dev

@@ -1,0 +1,12 @@
+# [TITLE]: tbtools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(systemd-lib)
+include(tbtools-data)
+include(tbtools-license)
+tbtools-bin

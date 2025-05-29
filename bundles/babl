@@ -1,0 +1,11 @@
+# [TITLE]: babl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babl-bin)
+include(babl-data)
+include(babl-lib)
+include(babl-license)
+babl

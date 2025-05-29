@@ -1,0 +1,25 @@
+# [TITLE]: akonadi-search-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(akonadi-mime-lib)
+include(akonadi-search-data)
+include(akonadi-search-lib)
+include(akonadi-search-license)
+include(kcalendarcore-lib)
+include(kcodecs-lib)
+include(kconfig-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kmime-lib)
+include(ktextaddons-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(xapian-core-lib)
+akonadi-search-bin

@@ -1,0 +1,13 @@
+# [TITLE]: dhcp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dhcp-bin)
+include(dhcp-config)
+include(dhcp-libexec)
+include(dhcp-license)
+include(dhcp-man)
+include(dhcp-services)
+dhcp

@@ -1,0 +1,13 @@
+# [TITLE]: htop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(htop-data)
+include(htop-license)
+include(libc6)
+include(libcap-lib)
+include(libnl-lib)
+include(ncurses-lib)
+htop-bin

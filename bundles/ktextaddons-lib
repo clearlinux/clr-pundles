@@ -1,0 +1,23 @@
+# [TITLE]: ktextaddons-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(ktextaddons-data)
+include(ktextaddons-license)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6speech-lib)
+include(qtkeychain-lib)
+include(sonnet-lib)
+include(syntax-highlighting-lib)
+ktextaddons-lib

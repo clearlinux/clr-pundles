@@ -1,0 +1,13 @@
+# [TITLE]: man-db-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpipeline-lib)
+include(man-db-config)
+include(man-db-lib)
+include(man-db-license)
+include(zlib-lib)
+man-db-libexec

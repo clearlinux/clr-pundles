@@ -1,0 +1,11 @@
+# [TITLE]: pigeonhole-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dovecot-lib)
+include(libc6)
+include(pigeonhole-lib)
+include(pigeonhole-license)
+pigeonhole-libexec

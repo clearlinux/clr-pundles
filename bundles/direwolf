@@ -1,0 +1,12 @@
+# [TITLE]: direwolf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(direwolf-bin)
+include(direwolf-config)
+include(direwolf-data)
+include(direwolf-license)
+include(direwolf-man)
+direwolf

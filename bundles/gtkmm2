@@ -1,0 +1,10 @@
+# [TITLE]: gtkmm2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtkmm2-data)
+include(gtkmm2-lib)
+include(gtkmm2-license)
+gtkmm2

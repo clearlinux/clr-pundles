@@ -1,0 +1,12 @@
+# [TITLE]: dunst
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dunst-bin)
+include(dunst-data)
+include(dunst-license)
+include(dunst-man)
+include(dunst-services)
+dunst

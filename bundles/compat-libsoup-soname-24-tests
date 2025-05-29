@@ -1,0 +1,13 @@
+# [TITLE]: compat-libsoup-soname-24-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsoup-soname-24)
+include(compat-libsoup-soname-24-lib)
+include(curl)
+include(glib-lib)
+include(libc6)
+include(zlib-lib)
+compat-libsoup-soname-24-tests

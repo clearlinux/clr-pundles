@@ -1,0 +1,9 @@
+# [TITLE]: compat-readline-soname5-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-readline-soname5)
+include(compat-readline-soname5-lib)
+compat-readline-soname5-dev

@@ -1,0 +1,11 @@
+# [TITLE]: qtscript-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtscript)
+include(qtscript-extras)
+include(qtscript-lib)
+qtscript-dev

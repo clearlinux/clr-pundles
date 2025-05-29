@@ -1,0 +1,11 @@
+# [TITLE]: libaom-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libaom)
+include(libaom-bin)
+include(libaom-lib)
+include(pkg-config-bin)
+libaom-dev

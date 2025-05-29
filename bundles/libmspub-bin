@@ -1,0 +1,13 @@
+# [TITLE]: libmspub-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libmspub-lib)
+include(libmspub-license)
+include(librevenge-lib)
+include(libstdc++)
+libmspub-bin

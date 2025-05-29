@@ -1,0 +1,13 @@
+# [TITLE]: kconfig-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-data)
+include(kconfig-lib)
+include(kconfig-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kconfig-bin

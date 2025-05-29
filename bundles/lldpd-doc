@@ -1,0 +1,8 @@
+# [TITLE]: lldpd-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lldpd-man)
+lldpd-doc

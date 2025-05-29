@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-assimp-dev
+include(assimp-dev)
 include(libstdcpp)

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-metacity-dev
+include(metacity-dev)
 include(libX11client)
 include(libglib)
 include(gnome-base-libs)

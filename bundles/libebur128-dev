@@ -1,0 +1,10 @@
+# [TITLE]: libebur128-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libebur128)
+include(libebur128-lib)
+include(pkg-config-bin)
+libebur128-dev

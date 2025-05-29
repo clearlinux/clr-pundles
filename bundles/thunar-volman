@@ -1,0 +1,11 @@
+# [TITLE]: thunar-volman
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(thunar-volman-bin)
+include(thunar-volman-data)
+include(thunar-volman-license)
+include(thunar-volman-locales)
+thunar-volman

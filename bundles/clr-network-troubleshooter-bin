@@ -1,0 +1,9 @@
+# [TITLE]: clr-network-troubleshooter-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-network-troubleshooter-license)
+include(coreutils-bin)
+clr-network-troubleshooter-bin

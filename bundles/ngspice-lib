@@ -1,0 +1,14 @@
+# [TITLE]: ngspice-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fftw-lib)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ngspice-data)
+include(ngspice-license)
+ngspice-lib

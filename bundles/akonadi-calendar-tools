@@ -1,0 +1,11 @@
+# [TITLE]: akonadi-calendar-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-calendar-tools-bin)
+include(akonadi-calendar-tools-data)
+include(akonadi-calendar-tools-license)
+include(akonadi-calendar-tools-locales)
+akonadi-calendar-tools

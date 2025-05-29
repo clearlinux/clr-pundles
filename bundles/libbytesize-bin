@@ -1,0 +1,9 @@
+# [TITLE]: libbytesize-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbytesize-license)
+include(python3-core)
+libbytesize-bin

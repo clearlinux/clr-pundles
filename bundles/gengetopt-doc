@@ -1,0 +1,9 @@
+# [TITLE]: gengetopt-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gengetopt-info)
+include(gengetopt-man)
+gengetopt-doc

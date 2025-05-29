@@ -1,0 +1,15 @@
+# [TITLE]: netplan-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(netplan)
+include(netplan-bin)
+include(netplan-data)
+include(netplan-lib)
+include(pkg-config-bin)
+include(util-linux-dev)
+include(yaml-dev)
+netplan-dev

@@ -1,0 +1,17 @@
+# [TITLE]: gutenprint
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-lib)
+include(gutenprint-bin)
+include(gutenprint-data)
+include(gutenprint-lib)
+include(gutenprint-license)
+include(gutenprint-locales)
+include(gutenprint-man)
+include(libc6)
+include(libusb-lib)
+include(zlib-lib)
+gutenprint

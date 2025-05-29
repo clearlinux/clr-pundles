@@ -1,0 +1,10 @@
+# [TITLE]: assimp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(assimp-bin)
+include(assimp-lib)
+include(assimp-license)
+assimp

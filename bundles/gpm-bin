@@ -1,0 +1,12 @@
+# [TITLE]: gpm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpm-data)
+include(gpm-lib)
+include(gpm-license)
+include(gpm-services)
+include(libc6)
+gpm-bin

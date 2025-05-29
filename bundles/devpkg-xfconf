@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-xfconf-dev
+include(xfconf-dev)
 include(libglib)

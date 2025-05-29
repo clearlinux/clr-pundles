@@ -1,0 +1,11 @@
+# [TITLE]: compat-python3-rolling-xz-lzma
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-python3-rolling-core)
+include(compat-python3-rolling-lib)
+include(libc6)
+include(xz-lib)
+compat-python3-rolling-xz-lzma

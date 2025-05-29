@@ -1,0 +1,11 @@
+# [TITLE]: usbredir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(usbredir-bin)
+include(usbredir-lib)
+include(usbredir-license)
+include(usbredir-man)
+usbredir

@@ -1,0 +1,21 @@
+# [TITLE]: docker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2)
+include(btrfs-progs)
+include(containerd)
+include(docker-cli)
+include(e2fsprogs)
+include(e2fsprogs-extras)
+include(git)
+include(gzip)
+include(iptables)
+include(libc6)
+include(runc)
+include(systemd-extras-libsystemd)
+include(xfsprogs)
+include(xz)
+docker

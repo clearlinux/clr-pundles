@@ -1,0 +1,10 @@
+# [TITLE]: utf8proc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(utf8proc)
+include(utf8proc-lib)
+utf8proc-dev

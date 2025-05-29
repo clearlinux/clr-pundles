@@ -1,0 +1,14 @@
+# [TITLE]: gnome-terminal
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-terminal-bin)
+include(gnome-terminal-data)
+include(gnome-terminal-libexec)
+include(gnome-terminal-license)
+include(gnome-terminal-locales)
+include(gnome-terminal-man)
+include(gnome-terminal-services)
+gnome-terminal

@@ -1,0 +1,10 @@
+# [TITLE]: xrdb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xrdb-bin)
+include(xrdb-license)
+include(xrdb-man)
+xrdb

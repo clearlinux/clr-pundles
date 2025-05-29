@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-mobile-broadband-provider-info-dev
+include(mobile-broadband-provider-info-dev)

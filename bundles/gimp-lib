@@ -1,0 +1,24 @@
+# [TITLE]: gimp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(babl-lib)
+include(cairo-lib)
+include(fontconfig-lib)
+include(gdk-pixbuf-lib)
+include(gegl-lib)
+include(gexiv2-lib)
+include(gimp-data)
+include(gimp-libexec)
+include(gimp-license)
+include(glib-lib)
+include(gobject-introspection-lib)
+include(gtk3-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgudev-lib)
+include(pango-lib)
+gimp-lib

@@ -1,0 +1,22 @@
+# [TITLE]: gnuplot-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(gnuplot-data)
+include(gnuplot-libexec)
+include(gnuplot-license)
+include(libc6)
+include(libcerf-lib)
+include(libgcc1)
+include(libgd-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(lua-lib)
+include(pango-lib)
+include(qt5compat-lib)
+include(qt6base-lib)
+gnuplot-bin

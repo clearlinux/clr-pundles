@@ -1,0 +1,9 @@
+# [TITLE]: Judy-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Judy-license)
+include(libc6)
+Judy-lib

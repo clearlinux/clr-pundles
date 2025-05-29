@@ -1,0 +1,8 @@
+# [TITLE]: icdiff-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+icdiff-python3

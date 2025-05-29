@@ -1,0 +1,10 @@
+# [TITLE]: xdg-desktop-portal-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xdg-desktop-portal)
+include(xdg-desktop-portal-data)
+xdg-desktop-portal-dev

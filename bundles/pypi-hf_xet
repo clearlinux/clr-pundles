@@ -1,0 +1,10 @@
+# [TITLE]: pypi-hf_xet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hf_xet-license)
+include(pypi-hf_xet-python)
+include(pypi-hf_xet-python3)
+pypi-hf_xet

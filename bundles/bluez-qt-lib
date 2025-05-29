@@ -1,0 +1,13 @@
+# [TITLE]: bluez-qt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-qt-data)
+include(bluez-qt-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+bluez-qt-lib

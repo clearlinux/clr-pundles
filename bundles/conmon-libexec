@@ -1,0 +1,12 @@
+# [TITLE]: conmon-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(conmon-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+conmon-libexec

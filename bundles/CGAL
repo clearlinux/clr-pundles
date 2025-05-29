@@ -1,0 +1,10 @@
+# [TITLE]: CGAL
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CGAL-bin)
+include(CGAL-license)
+include(CGAL-man)
+CGAL

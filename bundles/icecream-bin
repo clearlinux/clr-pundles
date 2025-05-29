@@ -1,0 +1,20 @@
+# [TITLE]: icecream-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(icecream-data)
+include(icecream-libexec)
+include(icecream-license)
+include(icecream-services)
+include(libarchive-lib)
+include(libc6)
+include(libcap-ng-lib)
+include(libgcc1)
+include(libstdc++)
+include(lzo-lib)
+include(zstd-lib)
+icecream-bin

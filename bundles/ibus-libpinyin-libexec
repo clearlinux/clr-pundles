@@ -1,0 +1,17 @@
+# [TITLE]: ibus-libpinyin-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glib-lib)
+include(ibus-lib)
+include(ibus-libpinyin-license)
+include(libc6)
+include(libgcc1)
+include(libnotify-lib)
+include(libpinyin-lib)
+include(libstdc++)
+include(sqlite-autoconf-lib)
+ibus-libpinyin-libexec

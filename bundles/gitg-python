@@ -1,0 +1,8 @@
+# [TITLE]: gitg-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gitg-python3)
+gitg-python

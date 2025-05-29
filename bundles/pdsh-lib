@@ -1,0 +1,11 @@
+# [TITLE]: pdsh-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(munge-lib)
+include(pdsh-license)
+include(slurm-lib)
+pdsh-lib

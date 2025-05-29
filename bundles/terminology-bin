@@ -1,0 +1,11 @@
+# [TITLE]: terminology-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efl-lib)
+include(libc6)
+include(terminology-data)
+include(terminology-license)
+terminology-bin

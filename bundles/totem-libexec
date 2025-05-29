@@ -1,0 +1,18 @@
+# [TITLE]: totem-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(pango-lib)
+include(totem-license)
+include(totem-pl-parser-lib)
+totem-libexec

@@ -1,0 +1,14 @@
+# [TITLE]: qttools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qttools-data)
+include(qttools-lib)
+include(qttools-license)
+qttools-bin

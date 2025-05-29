@@ -1,0 +1,9 @@
+# [TITLE]: libdmx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdmx-lib)
+include(libdmx-license)
+libdmx

@@ -1,0 +1,9 @@
+# [TITLE]: qml-box2d
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qml-box2d-lib)
+include(qml-box2d-license)
+qml-box2d

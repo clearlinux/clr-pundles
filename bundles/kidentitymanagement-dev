@@ -1,0 +1,10 @@
+# [TITLE]: kidentitymanagement-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kidentitymanagement)
+include(kidentitymanagement-data)
+include(kidentitymanagement-lib)
+kidentitymanagement-dev

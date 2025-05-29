@@ -1,0 +1,19 @@
+# [TITLE]: clamav-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(clamav-data)
+include(clamav-license)
+include(curl-lib)
+include(json-c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(zlib-lib)
+clamav-lib

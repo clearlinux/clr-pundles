@@ -1,0 +1,10 @@
+# [TITLE]: kglobalaccel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kglobalaccel-data)
+include(kglobalaccel-lib)
+include(kglobalaccel-license)
+kglobalaccel

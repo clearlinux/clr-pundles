@@ -1,0 +1,10 @@
+# [TITLE]: evince-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evince-license)
+include(glib-lib)
+include(libc6)
+evince-libexec

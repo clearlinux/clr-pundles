@@ -1,0 +1,10 @@
+# [TITLE]: libkdepim-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkdepim)
+include(libkdepim-data)
+include(libkdepim-lib)
+libkdepim-dev

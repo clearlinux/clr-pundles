@@ -1,0 +1,15 @@
+# [TITLE]: qtwebengine-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libevent-lib)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtwebengine-data)
+include(qtwebengine-libexec)
+include(qtwebengine-license)
+qtwebengine-bin

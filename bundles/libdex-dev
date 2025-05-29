@@ -1,0 +1,13 @@
+# [TITLE]: libdex-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libdex)
+include(libdex-data)
+include(libdex-lib)
+include(liburing-dev)
+include(pkg-config-bin)
+libdex-dev

@@ -1,0 +1,14 @@
+# [TITLE]: gdm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdm)
+include(gdm-bin)
+include(gdm-data)
+include(gdm-lib)
+include(glib-dev)
+include(pkg-config-bin)
+include(systemd-dev)
+gdm-dev

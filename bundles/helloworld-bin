@@ -1,0 +1,9 @@
+# [TITLE]: helloworld-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(helloworld-license)
+include(libc6)
+helloworld-bin

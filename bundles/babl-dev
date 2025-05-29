@@ -1,0 +1,13 @@
+# [TITLE]: babl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babl)
+include(babl-bin)
+include(babl-data)
+include(babl-lib)
+include(lcms2-dev)
+include(pkg-config-bin)
+babl-dev

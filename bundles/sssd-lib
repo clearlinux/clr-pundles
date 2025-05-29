@@ -1,0 +1,28 @@
+# [TITLE]: sssd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cyrus-sasl-lib)
+include(dbus-lib)
+include(ding-libs-lib)
+include(e2fsprogs-lib)
+include(jansson-lib)
+include(keyutils-lib)
+include(krb5-lib)
+include(ldb-lib)
+include(libc6)
+include(libunistring-lib)
+include(nfs-utils-lib)
+include(openldap-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(samba-lib)
+include(sssd-data)
+include(sssd-libexec)
+include(sssd-license)
+include(talloc-lib)
+include(tevent-lib)
+sssd-lib

@@ -1,0 +1,11 @@
+# [TITLE]: whois
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(whois-bin)
+include(whois-license)
+include(whois-locales)
+include(whois-man)
+whois

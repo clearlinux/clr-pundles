@@ -1,0 +1,13 @@
+# [TITLE]: kirigami-gallery-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kirigami-gallery-data)
+include(kirigami-gallery-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kirigami-gallery-bin

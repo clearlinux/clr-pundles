@@ -1,0 +1,8 @@
+# [TITLE]: ocaml-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ocaml-man)
+ocaml-doc

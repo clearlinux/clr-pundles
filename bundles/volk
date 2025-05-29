@@ -1,0 +1,12 @@
+# [TITLE]: volk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(volk-bin)
+include(volk-lib)
+include(volk-license)
+include(volk-python)
+include(volk-python3)
+volk

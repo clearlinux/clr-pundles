@@ -1,0 +1,10 @@
+# [TITLE]: menu-cache
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(menu-cache-lib)
+include(menu-cache-libexec)
+include(menu-cache-license)
+menu-cache

@@ -1,0 +1,10 @@
+# [TITLE]: whois-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libidn2-lib)
+include(whois-license)
+whois-bin

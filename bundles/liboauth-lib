@@ -1,0 +1,11 @@
+# [TITLE]: liboauth-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(libc6)
+include(liboauth-license)
+include(openssl-lib)
+liboauth-lib

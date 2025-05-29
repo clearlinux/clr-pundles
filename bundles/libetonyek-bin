@@ -1,0 +1,13 @@
+# [TITLE]: libetonyek-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libetonyek-lib)
+include(libetonyek-license)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+libetonyek-bin

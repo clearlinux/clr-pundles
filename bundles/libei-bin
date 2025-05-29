@@ -1,0 +1,12 @@
+# [TITLE]: libei-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libei-lib)
+include(libei-license)
+include(libevdev-lib)
+include(libgcc1)
+libei-bin

@@ -1,0 +1,12 @@
+# [TITLE]: xcursorgen-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libpng-lib)
+include(xcursorgen-license)
+xcursorgen-bin

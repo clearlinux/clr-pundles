@@ -1,0 +1,17 @@
+# [TITLE]: libfm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(libc6)
+include(libfm-data)
+include(libfm-license)
+include(menu-cache-lib)
+include(pango-lib)
+libfm-lib

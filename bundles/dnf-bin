@@ -1,0 +1,10 @@
+# [TITLE]: dnf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dnf-config)
+include(dnf-license)
+include(python3-core)
+dnf-bin

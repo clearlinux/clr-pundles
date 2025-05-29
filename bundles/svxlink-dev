@@ -1,0 +1,11 @@
+# [TITLE]: svxlink-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(svxlink)
+include(svxlink-bin)
+include(svxlink-data)
+include(svxlink-lib)
+svxlink-dev

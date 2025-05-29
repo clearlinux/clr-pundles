@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-rabbitmq-c-dev
+include(rabbitmq-c-dev)
 include(popt-lib)

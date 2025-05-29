@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libcanberra-dev
+include(libcanberra-dev)
 include(libX11client)
 include(libglib)
 include(libstdcpp)

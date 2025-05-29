@@ -1,0 +1,12 @@
+# [TITLE]: swupd-overdue
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(swupd-overdue-autostart)
+include(swupd-overdue-bin)
+include(swupd-overdue-license)
+include(swupd-overdue-man)
+include(swupd-overdue-services)
+swupd-overdue

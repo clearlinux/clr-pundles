@@ -1,0 +1,15 @@
+# [TITLE]: libfm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk+-dev)
+include(libfm)
+include(libfm-bin)
+include(libfm-data)
+include(libfm-dev)
+include(libfm-lib)
+include(pkg-config-bin)
+libfm-dev

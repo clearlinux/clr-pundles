@@ -1,0 +1,11 @@
+# [TITLE]: ixion-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ixion)
+include(ixion-bin)
+include(ixion-lib)
+include(pkg-config-bin)
+ixion-dev

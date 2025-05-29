@@ -1,0 +1,15 @@
+# [TITLE]: kauth-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-data)
+include(kauth-license)
+include(kcoreaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(polkit-qt6-lib)
+include(qt6base-lib)
+kauth-lib

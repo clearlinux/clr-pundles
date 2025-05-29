@@ -1,0 +1,13 @@
+# [TITLE]: igt-gpu-tools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(igt-gpu-tools)
+include(igt-gpu-tools-bin)
+include(igt-gpu-tools-data)
+include(igt-gpu-tools-lib)
+include(libdrm-dev)
+include(pkg-config-bin)
+igt-gpu-tools-dev

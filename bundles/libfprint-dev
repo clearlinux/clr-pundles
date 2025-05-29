@@ -1,0 +1,12 @@
+# [TITLE]: libfprint-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libfprint)
+include(libfprint-data)
+include(libfprint-lib)
+include(pkg-config-bin)
+libfprint-dev

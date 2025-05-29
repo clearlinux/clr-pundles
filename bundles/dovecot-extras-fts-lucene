@@ -1,0 +1,11 @@
+# [TITLE]: dovecot-extras-fts-lucene
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clucene-core-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+dovecot-extras-fts-lucene

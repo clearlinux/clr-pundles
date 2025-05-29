@@ -1,0 +1,8 @@
+# [TITLE]: rpm-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rpm-python3)
+rpm-python

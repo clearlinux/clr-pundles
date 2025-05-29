@@ -1,0 +1,21 @@
+# [TITLE]: imlib2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(cairo-lib)
+include(freetype-lib)
+include(giflib-lib)
+include(glib-lib)
+include(imlib2-data)
+include(imlib2-license)
+include(libX11-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(librsvg-lib)
+include(libwebp-lib)
+include(zlib-lib)
+imlib2-lib

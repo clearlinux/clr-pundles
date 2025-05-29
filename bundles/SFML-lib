@@ -1,0 +1,20 @@
+# [TITLE]: SFML-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SFML-data)
+include(SFML-license)
+include(flac-lib)
+include(freetype-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libogg-lib)
+include(libstdc++)
+include(libvorbis-lib)
+include(openal-soft-lib)
+include(systemd-lib)
+SFML-lib

@@ -1,0 +1,15 @@
+# [TITLE]: kiten-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(ki18n-lib)
+include(kiten-data)
+include(kiten-license)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kiten-lib

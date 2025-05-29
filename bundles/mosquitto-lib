@@ -1,0 +1,12 @@
+# [TITLE]: mosquitto-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(mosquitto-data)
+include(mosquitto-license)
+include(openssl-lib)
+mosquitto-lib

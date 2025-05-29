@@ -1,0 +1,9 @@
+# [TITLE]: libudev0-shim-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(systemd-lib32)
+libudev0-shim-lib32

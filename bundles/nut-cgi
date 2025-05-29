@@ -6,7 +6,7 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(nut)
-nut-extras-cgi
+include(nut-extras-cgi)
 include(libX11client)
 include(libXpm-lib)
 include(harfbuzz-lib)

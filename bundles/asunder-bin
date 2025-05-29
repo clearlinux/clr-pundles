@@ -1,0 +1,14 @@
+# [TITLE]: asunder-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asunder-data)
+include(asunder-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(libc6)
+include(libcddb-lib)
+asunder-bin

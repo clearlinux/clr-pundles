@@ -1,0 +1,17 @@
+# [TITLE]: conky-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(conky-data)
+include(conky-license)
+include(imlib2-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(lua-lib)
+include(ncurses-lib)
+conky-bin

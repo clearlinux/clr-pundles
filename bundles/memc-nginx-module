@@ -1,0 +1,8 @@
+# [TITLE]: memc-nginx-module
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(memc-nginx-module-lib)
+memc-nginx-module

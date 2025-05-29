@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-speex-dev
+include(speex-dev)

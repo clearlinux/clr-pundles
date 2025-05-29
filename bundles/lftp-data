@@ -1,0 +1,9 @@
+# [TITLE]: lftp-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(perl-bin)
+lftp-data

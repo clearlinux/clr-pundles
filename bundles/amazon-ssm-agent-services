@@ -1,0 +1,8 @@
+# [TITLE]: amazon-ssm-agent-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+amazon-ssm-agent-services

@@ -1,0 +1,9 @@
+# [TITLE]: qt6httpserver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6httpserver-lib)
+include(qt6httpserver-license)
+qt6httpserver

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-ModemManager-dev
+include(ModemManager-dev)
 include(libglib)

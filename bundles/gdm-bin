@@ -1,0 +1,21 @@
+# [TITLE]: gdm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(accountsservice-lib)
+include(gdm-config)
+include(gdm-data)
+include(gdm-libexec)
+include(gdm-license)
+include(gdm-services)
+include(glib-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libgudev-lib)
+include(systemd-extras-libsystemd)
+include(xkeyboard-config)
+gdm-bin

@@ -1,0 +1,9 @@
+# [TITLE]: bottom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bottom-bin)
+include(bottom-license)
+bottom

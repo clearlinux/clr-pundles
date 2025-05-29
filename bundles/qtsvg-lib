@@ -1,0 +1,13 @@
+# [TITLE]: qtsvg-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtsvg-license)
+include(zlib-lib)
+qtsvg-lib

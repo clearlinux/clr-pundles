@@ -1,0 +1,12 @@
+# [TITLE]: kmail-account-wizard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-extras)
+include(kmail-account-wizard-bin)
+include(kmail-account-wizard-data)
+include(kmail-account-wizard-license)
+include(kmail-account-wizard-locales)
+kmail-account-wizard

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-gnome-menus-dev
+include(gnome-menus-dev)
 include(libglib)

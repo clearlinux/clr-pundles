@@ -1,0 +1,29 @@
+# [TITLE]: gegl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibRaw-lib)
+include(SDL2-lib)
+include(babl-lib)
+include(cairo-lib)
+include(gcc-libs-math)
+include(gdk-pixbuf-lib)
+include(gegl-data)
+include(gegl-license)
+include(glib-lib)
+include(json-glib-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(librsvg-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(not-ffmpeg-lib)
+include(openexr-lib)
+include(pango-lib)
+include(poppler-lib)
+gegl-lib

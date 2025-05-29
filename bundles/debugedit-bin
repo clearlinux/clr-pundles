@@ -1,0 +1,11 @@
+# [TITLE]: debugedit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(debugedit-license)
+include(elfutils-lib)
+include(filesystem)
+include(libc6)
+debugedit-bin

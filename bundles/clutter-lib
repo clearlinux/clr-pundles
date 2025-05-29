@@ -1,0 +1,23 @@
+# [TITLE]: clutter-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(clutter-data)
+include(clutter-license)
+include(cogl-lib)
+include(fontconfig-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libinput-lib)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(systemd-lib)
+include(wayland-lib)
+clutter-lib

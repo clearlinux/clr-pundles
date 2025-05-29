@@ -1,0 +1,15 @@
+# [TITLE]: netplan-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(netplan-data)
+include(netplan-libexec)
+include(netplan-license)
+include(util-linux-lib)
+include(yaml-lib)
+netplan-lib

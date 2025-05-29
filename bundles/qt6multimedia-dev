@@ -1,0 +1,12 @@
+# [TITLE]: qt6multimedia-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6multimedia)
+include(qt6multimedia-dev)
+include(qt6multimedia-lib)
+qt6multimedia-dev

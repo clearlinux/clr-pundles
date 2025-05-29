@@ -1,0 +1,10 @@
+# [TITLE]: intel-cmt-cat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intel-cmt-cat)
+include(intel-cmt-cat-bin)
+include(intel-cmt-cat-lib)
+intel-cmt-cat-dev

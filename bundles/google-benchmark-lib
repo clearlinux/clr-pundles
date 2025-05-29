@@ -1,0 +1,11 @@
+# [TITLE]: google-benchmark-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(google-benchmark-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+google-benchmark-lib

@@ -1,0 +1,8 @@
+# [TITLE]: kded-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+kded-services

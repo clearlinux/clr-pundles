@@ -1,0 +1,10 @@
+# [TITLE]: kpeople-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kpeople)
+include(kpeople-data)
+include(kpeople-lib)
+kpeople-dev

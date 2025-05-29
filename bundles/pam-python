@@ -1,0 +1,9 @@
+# [TITLE]: pam-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pam-python-lib)
+include(pam-python-license)
+pam-python

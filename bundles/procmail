@@ -1,0 +1,10 @@
+# [TITLE]: procmail
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(procmail-bin)
+include(procmail-license)
+include(procmail-man)
+procmail

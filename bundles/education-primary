@@ -10,17 +10,17 @@ include(desktop-kde-libs)
 include(libX11client)
 include(qt-basic)
 
-gcompris-qt
-kanagram
-kbruch
+include(gcompris-qt)
+include(kanagram)
+include(kbruch)
 include(kgeography)
-khangman
-klettres
+include(khangman)
+include(klettres)
 include(kmplot)
-ktuberling
-kturtle
-kwordquiz
-parley
+include(ktuberling)
+include(kturtle)
+include(kwordquiz)
+include(parley)
 include(kde-frameworks5)
 include(LibRaw-lib)
 include(protobuf-lib)

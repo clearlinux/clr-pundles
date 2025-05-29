@@ -1,0 +1,9 @@
+# [TITLE]: libexif-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libexif-license)
+libexif-lib

@@ -1,0 +1,14 @@
+# [TITLE]: libmspub-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(libc6)
+include(libgcc1)
+include(libmspub-license)
+include(librevenge-lib)
+include(libstdc++)
+include(zlib-lib)
+libmspub-lib

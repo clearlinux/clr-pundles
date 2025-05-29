@@ -1,0 +1,8 @@
+# [TITLE]: xapian-core-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xapian-core-man)
+xapian-core-doc

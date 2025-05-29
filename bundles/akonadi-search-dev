@@ -1,0 +1,11 @@
+# [TITLE]: akonadi-search-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-search)
+include(akonadi-search-bin)
+include(akonadi-search-data)
+include(akonadi-search-lib)
+akonadi-search-dev

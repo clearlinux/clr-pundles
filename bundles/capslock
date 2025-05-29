@@ -1,0 +1,9 @@
+# [TITLE]: capslock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(capslock-bin)
+include(capslock-license)
+capslock

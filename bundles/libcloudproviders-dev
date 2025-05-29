@@ -1,0 +1,11 @@
+# [TITLE]: libcloudproviders-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcloudproviders)
+include(libcloudproviders-data)
+include(libcloudproviders-lib)
+include(pkg-config-bin)
+libcloudproviders-dev

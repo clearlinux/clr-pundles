@@ -1,0 +1,13 @@
+# [TITLE]: sos
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sos-bin)
+include(sos-data)
+include(sos-license)
+include(sos-man)
+include(sos-python)
+include(sos-python3)
+sos

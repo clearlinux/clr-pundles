@@ -1,0 +1,11 @@
+# [TITLE]: optipng-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpng-lib)
+include(optipng-license)
+include(zlib-lib)
+optipng-bin

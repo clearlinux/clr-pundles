@@ -1,0 +1,14 @@
+# [TITLE]: quazip-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(quazip-license)
+include(zlib-lib)
+quazip-lib

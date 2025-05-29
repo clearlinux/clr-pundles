@@ -6,7 +6,7 @@
 # [MAINTAINER]: Kevron Rees <kevron.m.rees@intel.com>
 include(qt-basic)
 
-pyotherside
+include(pyotherside)
 include(openblas)
 include(pypi-numpy)
 include(pypi-six)

@@ -1,0 +1,8 @@
+# [TITLE]: falcosecurity-libs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(falcosecurity-libs)
+falcosecurity-libs-dev

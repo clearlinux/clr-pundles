@@ -1,0 +1,10 @@
+# [TITLE]: linux-preempt-rt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(init-rdahead-extras)
+include(linux-preempt-rt-license)
+include(systemd-bin)
+linux-preempt-rt

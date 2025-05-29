@@ -1,0 +1,18 @@
+# [TITLE]: kdegraphics-thumbnailers-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcoreaddons-lib)
+include(kdegraphics-mobipocket-lib)
+include(kdegraphics-thumbnailers-data)
+include(kdegraphics-thumbnailers-license)
+include(kio-lib)
+include(libc6)
+include(libkdcraw-lib)
+include(libkexiv2-lib)
+include(libstdc++)
+include(qt6base-lib)
+kdegraphics-thumbnailers-lib

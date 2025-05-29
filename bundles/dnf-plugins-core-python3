@@ -1,0 +1,10 @@
+# [TITLE]: dnf-plugins-core-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-python_dateutil-python3)
+include(pypi-six-python3)
+include(python3-core)
+dnf-plugins-core-python3

@@ -1,0 +1,11 @@
+# [TITLE]: geany-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geany-data)
+include(geany-lib)
+include(geany-license)
+include(libc6)
+geany-bin

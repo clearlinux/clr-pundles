@@ -1,0 +1,8 @@
+# [TITLE]: flatpak-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+flatpak-services

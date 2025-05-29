@@ -1,0 +1,12 @@
+# [TITLE]: gnuchess-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gnuchess-data)
+include(gnuchess-license)
+include(libc6)
+include(readline-lib)
+gnuchess-bin

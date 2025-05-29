@@ -1,0 +1,16 @@
+# [TITLE]: compat-libsoup-soname-24-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsoup-soname-24)
+include(compat-libsoup-soname-24-data)
+include(compat-libsoup-soname-24-dev)
+include(compat-libsoup-soname-24-lib)
+include(glib-dev)
+include(libpsl-dev)
+include(libxml2-dev)
+include(sqlite-autoconf-dev)
+include(zlib-dev)
+compat-libsoup-soname-24-dev

@@ -1,0 +1,10 @@
+# [TITLE]: bmon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bmon-bin)
+include(bmon-license)
+include(bmon-man)
+bmon

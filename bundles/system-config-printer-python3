@@ -1,0 +1,9 @@
+# [TITLE]: system-config-printer-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pycups-python3)
+include(python3-core)
+system-config-printer-python3

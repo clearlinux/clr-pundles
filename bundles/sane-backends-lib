@@ -1,0 +1,18 @@
+# [TITLE]: sane-backends-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(libusb-lib)
+include(libxml2-lib)
+include(net-snmp-lib)
+include(sane-backends-data)
+include(sane-backends-license)
+include(tiff-lib)
+include(v4l-utils-lib)
+sane-backends-lib

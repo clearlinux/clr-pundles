@@ -1,0 +1,8 @@
+# [TITLE]: qtwebsockets-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtwebsockets-dev)
+qtwebsockets-examples

@@ -1,0 +1,27 @@
+# [TITLE]: sssd-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(c-ares-lib)
+include(coreutils-bin)
+include(dbus-lib)
+include(ding-libs-lib)
+include(jansson-lib)
+include(krb5-lib)
+include(ldb-lib)
+include(libc6)
+include(openssl-lib)
+include(p11-kit-lib)
+include(popt-lib)
+include(samba-lib)
+include(sssd-config)
+include(sssd-lib)
+include(sssd-license)
+include(talloc-lib)
+include(tdb-lib)
+include(tevent-lib)
+include(util-linux-lib)
+sssd-libexec

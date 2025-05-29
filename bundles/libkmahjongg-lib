@@ -1,0 +1,18 @@
+# [TITLE]: libkmahjongg-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libkmahjongg-data)
+include(libkmahjongg-license)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6svg-lib)
+libkmahjongg-lib

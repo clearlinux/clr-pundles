@@ -1,0 +1,15 @@
+# [TITLE]: memtier_benchmark-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libevent-lib)
+include(libgcc1)
+include(libstdc++)
+include(memtier_benchmark-data)
+include(memtier_benchmark-license)
+include(openssl-lib)
+include(zlib-lib)
+memtier_benchmark-bin

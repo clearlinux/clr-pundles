@@ -1,0 +1,11 @@
+# [TITLE]: cogl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cogl-data)
+include(cogl-lib)
+include(cogl-license)
+include(cogl-locales)
+cogl

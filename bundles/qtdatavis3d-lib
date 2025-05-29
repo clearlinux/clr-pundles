@@ -1,0 +1,13 @@
+# [TITLE]: qtdatavis3d-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdatavis3d-license)
+include(qtdeclarative-lib)
+qtdatavis3d-lib

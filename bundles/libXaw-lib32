@@ -1,0 +1,13 @@
+# [TITLE]: libXaw-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libX11-lib32)
+include(libXaw-license)
+include(libXmu-lib32)
+include(libXpm-lib32)
+include(libXt-lib32)
+libXaw-lib32

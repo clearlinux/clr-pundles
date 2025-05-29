@@ -1,0 +1,9 @@
+# [TITLE]: ntp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ntp-bin)
+include(ntp-license)
+ntp

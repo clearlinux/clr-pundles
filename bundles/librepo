@@ -1,0 +1,11 @@
+# [TITLE]: librepo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librepo-lib)
+include(librepo-license)
+include(librepo-python)
+include(librepo-python3)
+librepo

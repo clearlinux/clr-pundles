@@ -1,0 +1,10 @@
+# [TITLE]: isa-l-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isa-l-lib)
+include(isa-l-license)
+include(libc6)
+isa-l-bin

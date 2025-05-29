@@ -1,0 +1,14 @@
+# [TITLE]: fllog-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fllog-data)
+include(fllog-license)
+include(fltk-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+fllog-bin

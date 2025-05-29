@@ -1,0 +1,10 @@
+# [TITLE]: growpart-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(growpart-license)
+include(growpart-services)
+growpart-bin

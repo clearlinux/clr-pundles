@@ -1,0 +1,9 @@
+# [TITLE]: tree-sitter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tree-sitter-lib)
+include(tree-sitter-license)
+tree-sitter

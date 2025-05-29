@@ -1,0 +1,12 @@
+# [TITLE]: yq-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-argcomplete-python3)
+include(pypi-tomlkit-python3)
+include(pypi-xmltodict-python3)
+include(python3-core)
+yq-python3

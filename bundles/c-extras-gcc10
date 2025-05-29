@@ -7,5 +7,5 @@
 
 include(c-basic)
 
-compat-gcc-10
-compat-gcc-10-dev
+include(compat-gcc-10)
+include(compat-gcc-10-dev)

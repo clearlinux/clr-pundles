@@ -1,0 +1,22 @@
+# [TITLE]: kio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-bin)
+include(kio-data)
+include(kio-lib)
+include(kio-license)
+include(kio-locales)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kio

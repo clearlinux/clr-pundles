@@ -1,0 +1,11 @@
+# [TITLE]: gflags-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gflags-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+gflags-lib

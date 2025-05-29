@@ -1,0 +1,11 @@
+# [TITLE]: libmaxminddb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmaxminddb-bin)
+include(libmaxminddb-lib)
+include(libmaxminddb-license)
+include(libmaxminddb-man)
+libmaxminddb

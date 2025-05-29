@@ -1,0 +1,16 @@
+# [TITLE]: ddcutil-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ddcutil-data)
+include(ddcutil-license)
+include(glib-lib)
+include(jansson-lib)
+include(libX11-lib)
+include(libc6)
+include(libdrm-lib)
+include(libusb-lib)
+include(systemd-lib)
+ddcutil-lib

@@ -1,0 +1,14 @@
+# [TITLE]: mc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libssh2-lib)
+include(mc-data)
+include(mc-libexec)
+include(mc-license)
+include(slang-lib)
+mc-bin

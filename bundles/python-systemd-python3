@@ -1,0 +1,11 @@
+# [TITLE]: python-systemd-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(python3-core)
+include(systemd-extras-libsystemd)
+python-systemd-python3

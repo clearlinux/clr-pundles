@@ -1,0 +1,19 @@
+# [TITLE]: aria2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aria2-license)
+include(c-ares-lib)
+include(compat-libxml2-soname2-lib)
+include(gmp-lib)
+include(gnutls-lib)
+include(libc6)
+include(libgcc1)
+include(libssh2-lib)
+include(libstdc++)
+include(nettle-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+aria2-bin

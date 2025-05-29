@@ -1,0 +1,14 @@
+# [TITLE]: garcon-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(garcon-data)
+include(garcon-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+garcon-lib

@@ -1,0 +1,11 @@
+# [TITLE]: raptor2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(raptor2-bin)
+include(raptor2-lib)
+include(raptor2-license)
+include(raptor2-man)
+raptor2

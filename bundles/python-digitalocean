@@ -1,0 +1,10 @@
+# [TITLE]: python-digitalocean
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-digitalocean-license)
+include(python-digitalocean-python)
+include(python-digitalocean-python3)
+python-digitalocean

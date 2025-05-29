@@ -1,0 +1,8 @@
+# [TITLE]: xastir-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xastir-man)
+xastir-doc

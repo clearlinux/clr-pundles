@@ -1,0 +1,9 @@
+# [TITLE]: QAT_engine
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QAT_engine-lib)
+include(QAT_engine-license)
+QAT_engine

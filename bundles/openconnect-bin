@@ -1,0 +1,15 @@
+# [TITLE]: openconnect-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(gnutls-lib)
+include(libc6)
+include(libproxy-lib)
+include(openconnect-data)
+include(openconnect-lib)
+include(openconnect-libexec)
+include(openconnect-license)
+openconnect-bin

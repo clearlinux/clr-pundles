@@ -1,0 +1,9 @@
+# [TITLE]: ioport-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ioport-license)
+include(libc6)
+ioport-bin

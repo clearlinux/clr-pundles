@@ -16,14 +16,14 @@ include(gmp-lib)
 include(openldap)
 include(pulseaudio)
 include(libstdcpp)
-gstreamer-vaapi
-gst-plugins-ugly
+include(gstreamer-vaapi)
+include(gst-plugins-ugly)
 include(gst-plugins-bad)
-gst-plugins-good
+include(gst-plugins-good)
 include(gst-plugins-base)
-libva-intel-driver
-intel-media-driver
-intel-gmmlib
+include(libva-intel-driver)
+include(intel-media-driver)
+include(intel-gmmlib)
 include(libva)
 # include(libX11client)
 include(lib-imageformat)

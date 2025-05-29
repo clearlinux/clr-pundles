@@ -1,0 +1,11 @@
+# [TITLE]: pv
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pv-bin)
+include(pv-license)
+include(pv-locales)
+include(pv-man)
+pv

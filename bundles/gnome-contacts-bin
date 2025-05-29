@@ -1,0 +1,24 @@
+# [TITLE]: gnome-contacts-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-lib)
+include(folks-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-contacts-data)
+include(gnome-contacts-libexec)
+include(gnome-contacts-license)
+include(gnome-online-accounts-lib)
+include(gstreamer-lib)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(libgee-lib)
+include(libportal-lib)
+include(pango-lib)
+include(qrencode-lib)
+gnome-contacts-bin

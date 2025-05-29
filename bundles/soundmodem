@@ -1,0 +1,11 @@
+# [TITLE]: soundmodem
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(soundmodem-bin)
+include(soundmodem-license)
+include(soundmodem-locales)
+include(soundmodem-man)
+soundmodem

@@ -1,0 +1,11 @@
+# [TITLE]: capstone-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(capstone)
+include(capstone-bin)
+include(capstone-lib)
+include(pkg-config-bin)
+capstone-dev

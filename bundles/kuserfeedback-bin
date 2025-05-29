@@ -1,0 +1,16 @@
+# [TITLE]: kuserfeedback-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kuserfeedback-data)
+include(kuserfeedback-lib)
+include(kuserfeedback-license)
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtcharts-lib)
+include(qtsvg-lib)
+kuserfeedback-bin

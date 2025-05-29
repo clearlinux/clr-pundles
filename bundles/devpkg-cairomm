@@ -9,4 +9,4 @@ include(devpkg-base)
 include(devpkg-cairo)
 include(devpkg-libsigcplusplus)
 
-cairomm-dev
+include(cairomm-dev)

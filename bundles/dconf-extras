@@ -1,0 +1,10 @@
+# [TITLE]: dconf-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgcc32)
+include(glib-lib32)
+include(glibc-libc32)
+dconf-extras

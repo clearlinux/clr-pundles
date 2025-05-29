@@ -11,14 +11,14 @@ include(wayland-server)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(gnome-base-libs)
-swaybg
-swayidle
-swaylock
-xdg-utils
+include(swaybg)
+include(swayidle)
+include(swaylock)
+include(xdg-utils)
 also-add(vifm)
 also-add(mpv)
 include(xdg-desktop-portal)
-xdg-desktop-portal-wlr
+include(xdg-desktop-portal-wlr)
 # end of custom additions
 
 # main package

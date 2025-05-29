@@ -1,0 +1,13 @@
+# [TITLE]: libblockdev-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libblockdev)
+include(libblockdev-bin)
+include(libblockdev-data)
+include(libblockdev-lib)
+include(pkg-config-bin)
+libblockdev-dev

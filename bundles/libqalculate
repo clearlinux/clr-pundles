@@ -1,0 +1,13 @@
+# [TITLE]: libqalculate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqalculate-bin)
+include(libqalculate-data)
+include(libqalculate-lib)
+include(libqalculate-license)
+include(libqalculate-locales)
+include(libqalculate-man)
+libqalculate

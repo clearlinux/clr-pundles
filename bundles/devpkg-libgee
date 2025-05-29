@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libgee-dev
+include(libgee-dev)
 include(libglib)

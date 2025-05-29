@@ -1,0 +1,15 @@
+# [TITLE]: virglrenderer-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libdrm-dev)
+include(libepoxy-dev)
+include(mesa-dev)
+include(pkg-config-bin)
+include(virglrenderer)
+include(virglrenderer-bin)
+include(virglrenderer-lib)
+virglrenderer-dev

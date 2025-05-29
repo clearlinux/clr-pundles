@@ -1,0 +1,8 @@
+# [TITLE]: appstream-glib-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-glib)
+appstream-glib-tests

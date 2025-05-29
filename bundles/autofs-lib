@@ -1,0 +1,14 @@
+# [TITLE]: autofs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autofs-dev)
+include(autofs-license)
+include(libc6)
+include(libgcc1)
+include(libnsl-lib)
+include(libxml2-lib)
+include(openldap-lib)
+autofs-lib

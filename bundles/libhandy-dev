@@ -1,0 +1,13 @@
+# [TITLE]: libhandy-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk3-dev)
+include(libhandy)
+include(libhandy-bin)
+include(libhandy-data)
+include(libhandy-lib)
+include(pkg-config-bin)
+libhandy-dev

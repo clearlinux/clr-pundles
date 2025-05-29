@@ -1,0 +1,11 @@
+# [TITLE]: gnome-console
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-console-bin)
+include(gnome-console-data)
+include(gnome-console-license)
+include(gnome-console-locales)
+gnome-console

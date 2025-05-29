@@ -1,0 +1,12 @@
+# [TITLE]: ModemManager-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager-data)
+include(ModemManager-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+ModemManager-lib

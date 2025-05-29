@@ -1,0 +1,8 @@
+# [TITLE]: mingw-binutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binutils-info)
+mingw-binutils

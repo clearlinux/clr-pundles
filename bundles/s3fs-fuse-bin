@@ -1,0 +1,15 @@
+# [TITLE]: s3fs-fuse-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-fuse-soname2-lib)
+include(compat-libxml2-soname2-lib)
+include(curl-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(s3fs-fuse-license)
+s3fs-fuse-bin

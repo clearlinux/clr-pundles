@@ -1,0 +1,8 @@
+# [TITLE]: libreswan-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libreswan-man)
+libreswan-doc

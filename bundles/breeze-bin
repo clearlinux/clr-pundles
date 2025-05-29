@@ -1,0 +1,16 @@
+# [TITLE]: breeze-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(breeze-data)
+include(breeze-license)
+include(kcmutils-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6svg-lib)
+breeze-bin

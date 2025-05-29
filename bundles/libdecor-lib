@@ -1,0 +1,15 @@
+# [TITLE]: libdecor-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(dbus-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libdecor-license)
+include(pango-lib)
+include(wayland-lib)
+libdecor-lib

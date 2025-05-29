@@ -1,0 +1,8 @@
+# [TITLE]: libopenmpt-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libopenmpt-man)
+libopenmpt-doc

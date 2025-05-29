@@ -1,0 +1,19 @@
+# [TITLE]: NetworkManager-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager-lib)
+include(NetworkManager-data)
+include(NetworkManager-libexec)
+include(NetworkManager-license)
+include(bluez-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(nspr)
+include(nss-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+NetworkManager-lib

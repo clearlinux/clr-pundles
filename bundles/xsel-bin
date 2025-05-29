@@ -1,0 +1,10 @@
+# [TITLE]: xsel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(xsel-license)
+xsel-bin

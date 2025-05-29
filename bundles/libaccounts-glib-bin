@@ -1,0 +1,13 @@
+# [TITLE]: libaccounts-glib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libaccounts-glib-data)
+include(libaccounts-glib-lib)
+include(libaccounts-glib-license)
+include(libc6)
+include(sqlite-autoconf-lib)
+libaccounts-glib-bin

@@ -1,0 +1,8 @@
+# [TITLE]: librepo-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librepo-python3)
+librepo-python

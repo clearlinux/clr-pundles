@@ -1,0 +1,15 @@
+# [TITLE]: accountsservice-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(accountsservice-data)
+include(accountsservice-libexec)
+include(accountsservice-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libxcrypt-lib)
+include(systemd-extras-libsystemd)
+accountsservice-lib

@@ -1,0 +1,10 @@
+# [TITLE]: xf86-input-wacom-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-input-wacom-bin)
+include(xf86-input-wacom-data)
+include(xf86-input-wacom-lib)
+xf86-input-wacom-dev

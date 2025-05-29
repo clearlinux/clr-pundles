@@ -1,0 +1,12 @@
+# [TITLE]: kcalendarcore-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcalendarcore)
+include(kcalendarcore-data)
+include(kcalendarcore-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+kcalendarcore-dev

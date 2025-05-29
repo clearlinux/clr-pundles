@@ -1,0 +1,10 @@
+# [TITLE]: xhost
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xhost-bin)
+include(xhost-license)
+include(xhost-man)
+xhost

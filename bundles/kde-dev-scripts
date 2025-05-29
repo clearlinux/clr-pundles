@@ -1,0 +1,11 @@
+# [TITLE]: kde-dev-scripts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kde-dev-scripts-bin)
+include(kde-dev-scripts-data)
+include(kde-dev-scripts-license)
+include(kde-dev-scripts-man)
+kde-dev-scripts

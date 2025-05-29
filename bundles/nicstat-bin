@@ -1,0 +1,9 @@
+# [TITLE]: nicstat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nicstat-license)
+nicstat-bin

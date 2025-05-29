@@ -1,0 +1,15 @@
+# [TITLE]: dbus-glib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-glib-data)
+include(dbus-glib-lib)
+include(dbus-glib-libexec)
+include(dbus-glib-license)
+include(dbus-lib)
+include(expat-lib)
+include(glib-lib)
+include(libc6)
+dbus-glib-bin

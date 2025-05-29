@@ -1,0 +1,14 @@
+# [TITLE]: metacity-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk3-dev)
+include(metacity)
+include(metacity-bin)
+include(metacity-data)
+include(metacity-lib)
+include(pkg-config-bin)
+metacity-dev

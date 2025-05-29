@@ -1,0 +1,12 @@
+# [TITLE]: npb-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gcc-libgfortran)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+npb-bin

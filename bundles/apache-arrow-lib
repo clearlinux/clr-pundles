@@ -1,0 +1,29 @@
+# [TITLE]: apache-arrow-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apache-arrow-data)
+include(apache-arrow-license)
+include(boost)
+include(brotli-lib)
+include(bzip2-lib)
+include(compat-abseil-cpp-rolling-lib)
+include(compat-grpc-soname66-lib)
+include(google-cloud-cpp-lib)
+include(googletest-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(llvm18-lib)
+include(lz4-lib)
+include(openssl-lib)
+include(protobuf-lib)
+include(re2-lib)
+include(snappy-lib)
+include(thrift-lib)
+include(utf8proc-lib)
+include(zlib-lib)
+include(zstd-lib)
+apache-arrow-lib

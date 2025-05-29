@@ -1,0 +1,18 @@
+# [TITLE]: openjdk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(freetype-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(openjdk-license)
+include(zlib-lib)
+openjdk-lib

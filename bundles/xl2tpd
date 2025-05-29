@@ -1,0 +1,11 @@
+# [TITLE]: xl2tpd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xl2tpd-bin)
+include(xl2tpd-license)
+include(xl2tpd-man)
+include(xl2tpd-services)
+xl2tpd

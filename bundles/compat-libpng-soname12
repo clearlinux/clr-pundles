@@ -1,0 +1,9 @@
+# [TITLE]: compat-libpng-soname12
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libpng-soname12-lib)
+include(compat-libpng-soname12-license)
+compat-libpng-soname12

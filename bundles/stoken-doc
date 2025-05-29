@@ -1,0 +1,8 @@
+# [TITLE]: stoken-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(stoken-man)
+stoken-doc

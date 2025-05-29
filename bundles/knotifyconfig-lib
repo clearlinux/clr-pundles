@@ -1,0 +1,16 @@
+# [TITLE]: knotifyconfig-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifyconfig-data)
+include(knotifyconfig-license)
+include(libc6)
+include(libcanberra-lib)
+include(libstdc++)
+include(qt6base-lib)
+knotifyconfig-lib

@@ -1,0 +1,11 @@
+# [TITLE]: kontactinterface
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kontactinterface-data)
+include(kontactinterface-lib)
+include(kontactinterface-license)
+include(kontactinterface-locales)
+kontactinterface

@@ -1,0 +1,15 @@
+# [TITLE]: tgt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(perl-bin)
+include(systemd-extras-libsystemd)
+include(tgt-data)
+include(tgt-license)
+include(tgt-services)
+tgt-bin

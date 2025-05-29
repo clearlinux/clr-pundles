@@ -1,0 +1,8 @@
+# [TITLE]: dosfstools-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dosfstools-man)
+dosfstools-doc

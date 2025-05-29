@@ -1,0 +1,13 @@
+# [TITLE]: gnome-online-accounts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-online-accounts-data)
+include(gnome-online-accounts-lib)
+include(gnome-online-accounts-libexec)
+include(gnome-online-accounts-license)
+include(gnome-online-accounts-locales)
+include(gnome-online-accounts-man)
+gnome-online-accounts

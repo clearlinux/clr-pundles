@@ -1,0 +1,9 @@
+# [TITLE]: man-pages-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(man-pages)
+include(man-pages-bin)
+man-pages-dev

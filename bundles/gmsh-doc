@@ -1,0 +1,8 @@
+# [TITLE]: gmsh-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmsh-man)
+gmsh-doc

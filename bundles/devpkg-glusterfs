@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-glusterfs-dev
+include(glusterfs-dev)
 include(curl)
 include(python3-basic)
 include(libnl)

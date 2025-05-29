@@ -1,0 +1,11 @@
+# [TITLE]: xsane
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xsane-bin)
+include(xsane-data)
+include(xsane-locales)
+include(xsane-man)
+xsane

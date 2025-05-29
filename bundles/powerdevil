@@ -1,0 +1,20 @@
+# [TITLE]: powerdevil
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(powerdevil-data)
+include(powerdevil-lib)
+include(powerdevil-license)
+include(powerdevil-locales)
+include(powerdevil-services)
+include(qt6base-lib)
+powerdevil

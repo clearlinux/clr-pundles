@@ -1,0 +1,12 @@
+# [TITLE]: xf86-input-synaptics-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(xf86-input-synaptics-data)
+include(xf86-input-synaptics-license)
+xf86-input-synaptics-bin

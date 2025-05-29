@@ -1,0 +1,29 @@
+# [TITLE]: fwupd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager-lib)
+include(curl-lib)
+include(fwupd-data)
+include(fwupd-libexec)
+include(fwupd-license)
+include(glib-lib)
+include(gnutls-lib)
+include(json-glib-lib)
+include(libarchive-lib)
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libjcat-lib)
+include(libmbim-lib)
+include(libqmi-lib)
+include(libusb-lib)
+include(polkit-lib)
+include(protobuf-c-lib)
+include(sqlite-autoconf-lib)
+include(util-linux-lib)
+include(xmlb-lib)
+include(zlib-lib)
+fwupd-lib

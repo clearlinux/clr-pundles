@@ -1,0 +1,10 @@
+# [TITLE]: efivar-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efivar-lib)
+include(efivar-license)
+include(libc6)
+efivar-bin

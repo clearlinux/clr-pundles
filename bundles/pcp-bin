@@ -1,0 +1,23 @@
+# [TITLE]: pcp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libuv-lib)
+include(pcp-config)
+include(pcp-data)
+include(pcp-lib)
+include(pcp-libexec)
+include(pcp-license)
+include(pcp-services)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtsvg-lib)
+include(readline-lib)
+pcp-bin

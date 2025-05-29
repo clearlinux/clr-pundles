@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libqrtr-glib-dev
+include(libqrtr-glib-dev)
 include(libglib)

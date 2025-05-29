@@ -1,0 +1,12 @@
+# [TITLE]: srt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(srt-license)
+srt-lib

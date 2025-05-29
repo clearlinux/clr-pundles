@@ -1,0 +1,10 @@
+# [TITLE]: mkfontscale
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mkfontscale-bin)
+include(mkfontscale-license)
+include(mkfontscale-man)
+mkfontscale

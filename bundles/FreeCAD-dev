@@ -1,0 +1,12 @@
+# [TITLE]: FreeCAD-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeCAD)
+include(FreeCAD-bin)
+include(FreeCAD-data)
+include(FreeCAD-lib)
+include(pkg-config-bin)
+FreeCAD-dev

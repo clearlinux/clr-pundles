@@ -1,0 +1,10 @@
+# [TITLE]: qstylizer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qstylizer-license)
+include(qstylizer-python)
+include(qstylizer-python3)
+qstylizer

@@ -1,0 +1,12 @@
+# [TITLE]: qt63d-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt63d)
+include(qt63d-dev)
+include(qt63d-lib)
+include(qt6base-dev)
+qt63d-dev

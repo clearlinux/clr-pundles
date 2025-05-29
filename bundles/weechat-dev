@@ -1,0 +1,12 @@
+# [TITLE]: weechat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(weechat)
+include(weechat-bin)
+include(weechat-data)
+include(weechat-lib)
+weechat-dev

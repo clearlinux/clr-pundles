@@ -1,0 +1,11 @@
+# [TITLE]: syncthing-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(syncthing-config)
+include(syncthing-data)
+include(syncthing-license)
+include(syncthing-services)
+syncthing-bin

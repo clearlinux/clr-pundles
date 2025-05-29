@@ -1,0 +1,22 @@
+# [TITLE]: zabbix-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenIPMI-lib)
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(libevent-lib)
+include(libssh2-lib)
+include(mariadb-extras-clientlib)
+include(net-snmp-lib)
+include(openssl-lib)
+include(pcre-lib)
+include(unixODBC-lib)
+include(zabbix-config)
+include(zabbix-data)
+include(zabbix-license)
+include(zabbix-services)
+include(zlib-lib)
+zabbix-bin

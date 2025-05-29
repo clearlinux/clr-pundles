@@ -1,0 +1,16 @@
+# [TITLE]: i3lock-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cairo-lib)
+include(i3lock-data)
+include(i3lock-license)
+include(libX11-lib)
+include(libc6)
+include(libev-lib)
+include(libxkbcommon-lib)
+include(xcb-util-xrm-lib)
+i3lock-bin

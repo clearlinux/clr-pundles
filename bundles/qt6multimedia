@@ -1,0 +1,9 @@
+# [TITLE]: qt6multimedia
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6multimedia-lib)
+include(qt6multimedia-license)
+qt6multimedia

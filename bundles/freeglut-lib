@@ -1,0 +1,11 @@
+# [TITLE]: freeglut-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freeglut-license)
+include(libX11-lib)
+include(libc6)
+include(libglvnd-lib)
+freeglut-lib

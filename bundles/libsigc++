@@ -1,0 +1,9 @@
+# [TITLE]: libsigc++
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsigc++-lib)
+include(libsigc++-license)
+libsigc++

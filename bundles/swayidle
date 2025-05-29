@@ -1,0 +1,11 @@
+# [TITLE]: swayidle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(swayidle-bin)
+include(swayidle-data)
+include(swayidle-license)
+include(swayidle-man)
+swayidle

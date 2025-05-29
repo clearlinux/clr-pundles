@@ -1,0 +1,8 @@
+# [TITLE]: init-rdahead-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(init-rdahead-license)
+init-rdahead-bin

@@ -1,0 +1,12 @@
+# [TITLE]: dfc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dfc-bin)
+include(dfc-data)
+include(dfc-license)
+include(dfc-locales)
+include(dfc-man)
+dfc

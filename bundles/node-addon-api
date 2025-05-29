@@ -1,0 +1,8 @@
+# [TITLE]: node-addon-api
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(node-addon-api-license)
+node-addon-api

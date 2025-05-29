@@ -1,0 +1,10 @@
+# [TITLE]: kitinerary-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kitinerary)
+include(kitinerary-data)
+include(kitinerary-lib)
+kitinerary-dev

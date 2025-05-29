@@ -1,0 +1,30 @@
+# [TITLE]: samba-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(e2fsprogs-lib)
+include(filesystem)
+include(gnutls-lib)
+include(jansson-lib)
+include(krb5-lib)
+include(ldb-lib)
+include(libarchive-lib)
+include(libc6)
+include(ncurses-lib)
+include(openldap-lib)
+include(popt-lib)
+include(python3-core)
+include(readline-lib)
+include(samba-config)
+include(samba-data)
+include(samba-lib)
+include(samba-libexec)
+include(samba-license)
+include(samba-services)
+include(talloc-lib)
+include(tdb-lib)
+include(tevent-lib)
+samba-bin

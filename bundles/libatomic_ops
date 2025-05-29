@@ -1,0 +1,9 @@
+# [TITLE]: libatomic_ops
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libatomic_ops-lib)
+include(libatomic_ops-license)
+libatomic_ops

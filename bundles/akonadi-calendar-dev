@@ -1,0 +1,11 @@
+# [TITLE]: akonadi-calendar-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-calendar)
+include(akonadi-calendar-bin)
+include(akonadi-calendar-data)
+include(akonadi-calendar-lib)
+akonadi-calendar-dev

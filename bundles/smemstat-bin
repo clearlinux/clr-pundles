@@ -1,0 +1,11 @@
+# [TITLE]: smemstat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(smemstat-data)
+include(smemstat-license)
+smemstat-bin

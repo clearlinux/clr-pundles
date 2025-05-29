@@ -1,0 +1,13 @@
+# [TITLE]: qtcharts-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtcharts-license)
+include(qtdeclarative-lib)
+qtcharts-lib

@@ -1,0 +1,17 @@
+# [TITLE]: net-snmp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libpcap-lib)
+include(ncurses-lib)
+include(net-snmp-data)
+include(net-snmp-lib)
+include(net-snmp-license)
+include(net-snmp-services)
+include(openssl-lib)
+include(perl-bin)
+net-snmp-bin

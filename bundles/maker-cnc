@@ -10,13 +10,13 @@ include(maker-basic)
 
 # main CNC tools
 
-dmap2gcode
-F-Engrave
+include(dmap2gcode)
+include(F-Engrave)
 
 # dependencies
 
 include(gtk3)
-potrace
+include(potrace)
 include(pycairo)
 include(pygobject)
 include(pypi-pyopengl)

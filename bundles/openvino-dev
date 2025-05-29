@@ -1,0 +1,10 @@
+# [TITLE]: openvino-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openvino)
+include(openvino-lib)
+include(pkg-config-bin)
+openvino-dev

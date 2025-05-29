@@ -1,0 +1,12 @@
+# [TITLE]: dwarves-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dwarves-data)
+include(dwarves-license)
+include(elfutils-lib)
+include(libc6)
+include(zlib-lib)
+dwarves-lib

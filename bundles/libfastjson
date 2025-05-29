@@ -1,0 +1,9 @@
+# [TITLE]: libfastjson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfastjson-lib)
+include(libfastjson-license)
+libfastjson

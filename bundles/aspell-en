@@ -1,0 +1,8 @@
+# [TITLE]: aspell-en
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aspell-en-license)
+aspell-en

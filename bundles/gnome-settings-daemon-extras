@@ -1,0 +1,16 @@
+# [TITLE]: gnome-settings-daemon-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(gnome-settings-daemon-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libwacom-lib)
+include(pango-lib)
+gnome-settings-daemon-extras

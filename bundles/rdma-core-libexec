@@ -1,0 +1,10 @@
+# [TITLE]: rdma-core-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(rdma-core-config)
+include(rdma-core-license)
+rdma-core-libexec

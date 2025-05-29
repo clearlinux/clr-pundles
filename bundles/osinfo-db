@@ -1,0 +1,9 @@
+# [TITLE]: osinfo-db
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(osinfo-db-data)
+include(osinfo-db-license)
+osinfo-db

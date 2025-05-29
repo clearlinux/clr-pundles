@@ -1,0 +1,12 @@
+# [TITLE]: iproute2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iproute2-data)
+include(iproute2-license)
+include(iptables-lib)
+include(libc6)
+include(libmnl-lib)
+iproute2-bin

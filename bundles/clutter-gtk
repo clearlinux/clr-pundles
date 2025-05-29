@@ -1,0 +1,11 @@
+# [TITLE]: clutter-gtk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clutter-gtk-data)
+include(clutter-gtk-lib)
+include(clutter-gtk-license)
+include(clutter-gtk-locales)
+clutter-gtk

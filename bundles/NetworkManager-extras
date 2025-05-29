@@ -13,17 +13,17 @@ include(wpa_supplicant)
 include(python3-basic)
 # for usbmodeswitcher
 include(tcl-basic)
-libreswan
+include(libreswan)
 linux-firmware-wifi
-ModemManager
-network-manager-applet
-NetworkManager-l2tp
-NetworkManager-openconnect
-NetworkManager-openvpn
-NetworkManager-vpnc
-usb-modeswitch
-usb-modeswitch-data
-xl2tpd
+include(ModemManager)
+include(network-manager-applet)
+include(NetworkManager-l2tp)
+include(NetworkManager-openconnect)
+include(NetworkManager-openvpn)
+include(NetworkManager-vpnc)
+include(usb-modeswitch)
+include(usb-modeswitch-data)
+include(xl2tpd)
 include(libevent-lib)
 include(lz4)
 include(webkitgtk)

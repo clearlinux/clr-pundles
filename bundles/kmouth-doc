@@ -1,0 +1,8 @@
+# [TITLE]: kmouth-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmouth-man)
+kmouth-doc

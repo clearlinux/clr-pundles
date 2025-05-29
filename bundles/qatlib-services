@@ -1,0 +1,8 @@
+# [TITLE]: qatlib-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+qatlib-services

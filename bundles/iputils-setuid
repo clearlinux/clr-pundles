@@ -1,0 +1,10 @@
+# [TITLE]: iputils-setuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcap-lib)
+include(libidn2-lib)
+iputils-setuid

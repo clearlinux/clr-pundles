@@ -1,0 +1,10 @@
+# [TITLE]: cpdb-libs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cpdb-libs-license)
+include(glib-lib)
+include(libc6)
+cpdb-libs-lib

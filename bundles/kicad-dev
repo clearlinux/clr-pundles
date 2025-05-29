@@ -1,0 +1,11 @@
+# [TITLE]: kicad-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kicad)
+include(kicad-bin)
+include(kicad-data)
+include(kicad-lib)
+kicad-dev

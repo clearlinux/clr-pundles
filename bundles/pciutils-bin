@@ -1,0 +1,13 @@
+# [TITLE]: pciutils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(kmod-lib)
+include(libc6)
+include(pciutils-data)
+include(pciutils-lib)
+include(pciutils-license)
+pciutils-bin

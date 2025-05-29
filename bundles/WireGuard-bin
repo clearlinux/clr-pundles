@@ -1,0 +1,12 @@
+# [TITLE]: WireGuard-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(WireGuard-data)
+include(WireGuard-license)
+include(WireGuard-services)
+include(filesystem)
+include(libc6)
+WireGuard-bin

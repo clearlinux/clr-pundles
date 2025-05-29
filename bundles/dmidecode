@@ -1,0 +1,10 @@
+# [TITLE]: dmidecode
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dmidecode-bin)
+include(dmidecode-license)
+include(dmidecode-man)
+dmidecode

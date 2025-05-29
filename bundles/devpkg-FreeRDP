@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-FreeRDP-dev
+include(FreeRDP-dev)
 include(libX11client)
 include(libstdcpp)
 include(FreeRDP)

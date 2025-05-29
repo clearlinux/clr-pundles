@@ -1,0 +1,15 @@
+# [TITLE]: exiv2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-dev)
+include(exiv2)
+include(exiv2-bin)
+include(exiv2-lib)
+include(expat-dev)
+include(inih-dev)
+include(pkg-config-bin)
+include(zlib-dev)
+exiv2-dev

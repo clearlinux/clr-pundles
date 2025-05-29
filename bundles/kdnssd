@@ -1,0 +1,10 @@
+# [TITLE]: kdnssd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdnssd-data)
+include(kdnssd-lib)
+include(kdnssd-license)
+kdnssd

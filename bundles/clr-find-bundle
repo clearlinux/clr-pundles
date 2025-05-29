@@ -1,0 +1,9 @@
+# [TITLE]: clr-find-bundle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-find-bundle-bin)
+include(clr-find-bundle-license)
+clr-find-bundle

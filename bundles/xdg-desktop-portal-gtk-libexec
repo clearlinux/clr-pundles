@@ -1,0 +1,16 @@
+# [TITLE]: xdg-desktop-portal-gtk-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fontconfig-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(xdg-desktop-portal-gtk-license)
+xdg-desktop-portal-gtk-libexec

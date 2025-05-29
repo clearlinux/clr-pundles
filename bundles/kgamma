@@ -1,0 +1,11 @@
+# [TITLE]: kgamma
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kgamma-data)
+include(kgamma-lib)
+include(kgamma-license)
+include(kgamma-locales)
+kgamma

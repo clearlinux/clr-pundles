@@ -1,0 +1,20 @@
+# [TITLE]: kwordquiz-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(knewstuff-lib)
+include(kwordquiz-data)
+include(kwordquiz-license)
+include(libc6)
+include(libkeduvocdocument-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kwordquiz-bin

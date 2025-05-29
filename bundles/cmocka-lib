@@ -1,0 +1,9 @@
+# [TITLE]: cmocka-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmocka-license)
+include(libc6)
+cmocka-lib

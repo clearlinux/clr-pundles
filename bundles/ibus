@@ -1,0 +1,19 @@
+# [TITLE]: ibus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(UCD)
+include(glibc-locale)
+include(ibus-bin)
+include(ibus-data)
+include(ibus-lib)
+include(ibus-libexec)
+include(ibus-license)
+include(ibus-locales)
+include(ibus-man)
+include(ibus-python)
+include(ibus-python3)
+include(ibus-services)
+ibus

@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-ocl-icd-dev
+include(ocl-icd-dev)

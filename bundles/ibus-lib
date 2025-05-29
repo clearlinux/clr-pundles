@@ -1,0 +1,17 @@
+# [TITLE]: ibus-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(graphene-lib)
+include(gtk+-lib)
+include(gtk3-lib)
+include(gtk4-lib)
+include(ibus-data)
+include(ibus-libexec)
+include(ibus-license)
+include(libc6)
+include(pango-lib)
+ibus-lib

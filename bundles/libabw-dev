@@ -1,0 +1,13 @@
+# [TITLE]: libabw-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libabw)
+include(libabw-bin)
+include(libabw-lib)
+include(librevenge-dev)
+include(libxml2-dev)
+include(zlib-dev)
+libabw-dev

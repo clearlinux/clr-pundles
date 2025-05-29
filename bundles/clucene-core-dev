@@ -1,0 +1,9 @@
+# [TITLE]: clucene-core-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clucene-core)
+include(clucene-core-lib)
+clucene-core-dev

@@ -1,0 +1,11 @@
+# [TITLE]: kuserfeedback
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kuserfeedback-bin)
+include(kuserfeedback-data)
+include(kuserfeedback-lib)
+include(kuserfeedback-license)
+kuserfeedback

@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libcacard-dev
+include(libcacard-dev)
 include(libglib)
 include(lib-openssl)

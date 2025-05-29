@@ -1,0 +1,12 @@
+# [TITLE]: efitools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efitools-data)
+include(efitools-license)
+include(filesystem)
+include(libc6)
+include(openssl-lib)
+efitools-bin

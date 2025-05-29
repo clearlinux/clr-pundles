@@ -1,0 +1,10 @@
+# [TITLE]: qqc2-desktop-style
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qqc2-desktop-style-data)
+include(qqc2-desktop-style-lib)
+include(qqc2-desktop-style-license)
+qqc2-desktop-style

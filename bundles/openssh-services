@@ -1,0 +1,8 @@
+# [TITLE]: openssh-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+openssh-services

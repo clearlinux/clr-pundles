@@ -1,0 +1,8 @@
+# [TITLE]: liborcus-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liborcus-python3)
+liborcus-python

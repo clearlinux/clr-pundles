@@ -1,0 +1,12 @@
+# [TITLE]: exiv2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exiv2-lib)
+include(exiv2-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+exiv2-bin

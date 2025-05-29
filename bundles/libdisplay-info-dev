@@ -1,0 +1,11 @@
+# [TITLE]: libdisplay-info-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdisplay-info)
+include(libdisplay-info-bin)
+include(libdisplay-info-lib)
+include(pkg-config-bin)
+libdisplay-info-dev

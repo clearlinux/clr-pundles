@@ -1,0 +1,11 @@
+# [TITLE]: gpm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpm-data)
+include(gpm-license)
+include(libc6)
+include(ncurses-lib)
+gpm-lib

@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-tevent-dev
+include(tevent-dev)

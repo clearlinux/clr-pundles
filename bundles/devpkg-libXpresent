@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libXpresent-dev
+include(libXpresent-dev)
 include(libX11client)

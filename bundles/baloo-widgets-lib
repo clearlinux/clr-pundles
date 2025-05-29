@@ -1,0 +1,20 @@
+# [TITLE]: baloo-widgets-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baloo-lib)
+include(baloo-widgets-data)
+include(baloo-widgets-license)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kfilemetadata-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+baloo-widgets-lib

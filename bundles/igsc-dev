@@ -1,0 +1,10 @@
+# [TITLE]: igsc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(igsc)
+include(igsc-bin)
+include(igsc-lib)
+igsc-dev

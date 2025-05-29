@@ -1,0 +1,17 @@
+# [TITLE]: FreeCAD-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeCAD-data)
+include(FreeCAD-lib)
+include(FreeCAD-license)
+include(fmt-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(python3-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+FreeCAD-bin

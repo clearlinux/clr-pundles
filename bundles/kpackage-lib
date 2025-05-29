@@ -1,0 +1,15 @@
+# [TITLE]: kpackage-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kpackage-data)
+include(kpackage-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kpackage-lib

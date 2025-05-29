@@ -1,0 +1,8 @@
+# [TITLE]: isync-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isync-man)
+isync-doc

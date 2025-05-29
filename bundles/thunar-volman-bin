@@ -1,0 +1,17 @@
+# [TITLE]: thunar-volman-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgudev-lib)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(pango-lib)
+include(thunar-volman-data)
+include(thunar-volman-license)
+include(xfconf-lib)
+thunar-volman-bin

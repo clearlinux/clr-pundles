@@ -8,6 +8,6 @@ include(libglib)
 include(lib-openssl)
 include(curl)
 
-tpm2-abrmd
-tpm2-tools
-tpm2-tss
+include(tpm2-abrmd)
+include(tpm2-tools)
+include(tpm2-tss)

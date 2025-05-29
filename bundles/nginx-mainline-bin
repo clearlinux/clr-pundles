@@ -1,0 +1,16 @@
+# [TITLE]: nginx-mainline-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libxcrypt-lib)
+include(nginx-mainline-config)
+include(nginx-mainline-data)
+include(nginx-mainline-license)
+include(nginx-mainline-services)
+include(openssl-lib)
+include(pcre-lib)
+include(zlib-lib)
+nginx-mainline-bin

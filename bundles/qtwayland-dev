@@ -1,0 +1,14 @@
+# [TITLE]: qtwayland-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-dev)
+include(qtbase-extras)
+include(qtdeclarative-dev)
+include(qtwayland)
+include(qtwayland-lib)
+qtwayland-dev

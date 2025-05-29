@@ -1,0 +1,17 @@
+# [TITLE]: baloo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baloo-data)
+include(baloo-lib)
+include(baloo-license)
+include(baloo-services)
+include(kcoreaddons-lib)
+include(kfilemetadata-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+baloo-bin

@@ -1,0 +1,18 @@
+# [TITLE]: pcmanfm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(libX11-lib)
+include(libc6)
+include(libfm-lib)
+include(pango-lib)
+include(pcmanfm-data)
+include(pcmanfm-license)
+pcmanfm-bin

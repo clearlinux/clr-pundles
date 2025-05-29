@@ -1,0 +1,11 @@
+# [TITLE]: gsound-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gsound-data)
+include(gsound-license)
+include(libcanberra-lib)
+gsound-lib

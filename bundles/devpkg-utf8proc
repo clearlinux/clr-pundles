@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-utf8proc-dev
+include(utf8proc-dev)

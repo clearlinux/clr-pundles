@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libyami-dev
+include(libyami-dev)
 include(libX11client)
 include(libstdcpp)
 include(lib-opengl)

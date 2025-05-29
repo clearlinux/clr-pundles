@@ -1,0 +1,13 @@
+# [TITLE]: kmbox-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmbox-data)
+include(kmbox-license)
+include(kmime-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kmbox-lib

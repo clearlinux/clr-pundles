@@ -1,0 +1,12 @@
+# [TITLE]: liborcus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liborcus-bin)
+include(liborcus-lib)
+include(liborcus-license)
+include(liborcus-python)
+include(liborcus-python3)
+liborcus

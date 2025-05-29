@@ -1,0 +1,8 @@
+# [TITLE]: tallow-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tallow-man)
+tallow-doc

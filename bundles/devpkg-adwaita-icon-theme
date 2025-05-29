@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-adwaita-icon-theme-dev
+include(adwaita-icon-theme-dev)

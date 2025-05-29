@@ -1,0 +1,11 @@
+# [TITLE]: compat-babeltrace-one
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-babeltrace-one-bin)
+include(compat-babeltrace-one-lib)
+include(compat-babeltrace-one-license)
+include(compat-babeltrace-one-man)
+compat-babeltrace-one

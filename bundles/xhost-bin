@@ -1,0 +1,11 @@
+# [TITLE]: xhost-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXmu-lib)
+include(libc6)
+include(xhost-license)
+xhost-bin

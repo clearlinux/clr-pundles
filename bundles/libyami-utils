@@ -1,0 +1,10 @@
+# [TITLE]: libyami-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libyami-utils-bin)
+include(libyami-utils-license)
+include(libyami-utils-man)
+libyami-utils

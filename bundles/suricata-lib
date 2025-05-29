@@ -1,0 +1,11 @@
+# [TITLE]: suricata-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(suricata-data)
+include(suricata-license)
+include(zlib-lib)
+suricata-lib

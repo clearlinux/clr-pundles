@@ -1,0 +1,19 @@
+# [TITLE]: kdebugsettings-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kdebugsettings-data)
+include(kdebugsettings-lib)
+include(kdebugsettings-license)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdebugsettings-bin

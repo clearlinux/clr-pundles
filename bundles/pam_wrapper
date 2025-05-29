@@ -1,0 +1,12 @@
+# [TITLE]: pam_wrapper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pam_wrapper-lib)
+include(pam_wrapper-license)
+include(pam_wrapper-man)
+include(pam_wrapper-python)
+include(pam_wrapper-python3)
+pam_wrapper

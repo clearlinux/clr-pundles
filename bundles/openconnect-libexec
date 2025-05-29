@@ -1,0 +1,9 @@
+# [TITLE]: openconnect-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(openconnect-license)
+openconnect-libexec

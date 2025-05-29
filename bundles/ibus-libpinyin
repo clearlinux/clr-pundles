@@ -1,0 +1,11 @@
+# [TITLE]: ibus-libpinyin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ibus-libpinyin-data)
+include(ibus-libpinyin-libexec)
+include(ibus-libpinyin-license)
+include(ibus-libpinyin-locales)
+ibus-libpinyin

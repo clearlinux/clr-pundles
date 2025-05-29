@@ -1,0 +1,12 @@
+# [TITLE]: ndpi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ndpi)
+include(ndpi-bin)
+include(ndpi-data)
+include(ndpi-lib)
+include(pkg-config-bin)
+ndpi-dev

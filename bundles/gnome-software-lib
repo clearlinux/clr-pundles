@@ -1,0 +1,23 @@
+# [TITLE]: gnome-software-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-lib)
+include(flatpak-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-software-data)
+include(gnome-software-libexec)
+include(gnome-software-license)
+include(gtk4-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgudev-lib)
+include(libsoup-lib)
+include(ostree-lib)
+include(polkit-lib)
+include(xmlb-lib)
+gnome-software-lib

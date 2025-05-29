@@ -1,0 +1,10 @@
+# [TITLE]: bemenu-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bemenu-lib)
+include(bemenu-license)
+include(libc6)
+bemenu-bin

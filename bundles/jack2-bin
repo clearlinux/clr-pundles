@@ -1,0 +1,12 @@
+# [TITLE]: jack2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jack2-lib)
+include(jack2-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+jack2-bin

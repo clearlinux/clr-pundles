@@ -8,4 +8,4 @@ include(libstdcpp)
 include(os-cloudguest-vmware)
 include(libX11client)
 
-open-vm-tools-extras
+include(open-vm-tools-extras)

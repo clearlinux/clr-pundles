@@ -1,0 +1,9 @@
+# [TITLE]: libpipeline-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpipeline-license)
+libpipeline-lib

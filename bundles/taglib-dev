@@ -1,0 +1,12 @@
+# [TITLE]: taglib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(taglib)
+include(taglib-bin)
+include(taglib-dev)
+include(taglib-lib)
+taglib-dev

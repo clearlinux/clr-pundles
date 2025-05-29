@@ -1,0 +1,10 @@
+# [TITLE]: ffmpegthumbs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ffmpegthumbs-data)
+include(ffmpegthumbs-lib)
+include(ffmpegthumbs-license)
+ffmpegthumbs

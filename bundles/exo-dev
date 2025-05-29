@@ -1,0 +1,14 @@
+# [TITLE]: exo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exo)
+include(exo-bin)
+include(exo-data)
+include(exo-lib)
+include(gtk3-dev)
+include(libxfce4util-dev)
+include(pkg-config-bin)
+exo-dev

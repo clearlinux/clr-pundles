@@ -1,0 +1,32 @@
+# [TITLE]: drkonqi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(drkonqi-bin)
+include(drkonqi-data)
+include(drkonqi-lib)
+include(drkonqi-license)
+include(drkonqi-locales)
+include(drkonqi-services)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(kidletime-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kstatusnotifieritem-lib)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(polkit-qt6-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(syntax-highlighting-lib)
+include(systemd-extras-libsystemd)
+drkonqi

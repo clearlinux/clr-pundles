@@ -1,0 +1,11 @@
+# [TITLE]: psmisc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(psmisc-bin)
+include(psmisc-license)
+include(psmisc-locales)
+include(psmisc-man)
+psmisc

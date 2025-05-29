@@ -1,0 +1,18 @@
+# [TITLE]: rhythmbox-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gstreamer-dev)
+include(gtk3-dev)
+include(libsoup-dev)
+include(libxml2-dev)
+include(pkg-config-bin)
+include(rhythmbox)
+include(rhythmbox-bin)
+include(rhythmbox-data)
+include(rhythmbox-lib)
+include(totem-pl-parser-dev)
+rhythmbox-dev

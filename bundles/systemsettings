@@ -1,0 +1,12 @@
+# [TITLE]: systemsettings
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemsettings-bin)
+include(systemsettings-data)
+include(systemsettings-lib)
+include(systemsettings-license)
+include(systemsettings-locales)
+systemsettings

@@ -1,0 +1,8 @@
+# [TITLE]: mpi4py-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpi4py)
+mpi4py-dev

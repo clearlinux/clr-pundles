@@ -1,0 +1,8 @@
+# [TITLE]: libbacktrace-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbacktrace)
+libbacktrace-dev

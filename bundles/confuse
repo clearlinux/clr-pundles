@@ -1,0 +1,10 @@
+# [TITLE]: confuse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(confuse-lib)
+include(confuse-license)
+include(confuse-locales)
+confuse

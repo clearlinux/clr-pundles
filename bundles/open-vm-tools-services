@@ -1,0 +1,9 @@
+# [TITLE]: open-vm-tools-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmod-bin)
+include(systemd)
+open-vm-tools-services

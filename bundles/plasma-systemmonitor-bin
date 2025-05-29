@@ -1,0 +1,22 @@
+# [TITLE]: plasma-systemmonitor-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kservice-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-systemmonitor-data)
+include(plasma-systemmonitor-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+plasma-systemmonitor-bin

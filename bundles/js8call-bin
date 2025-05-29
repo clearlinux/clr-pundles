@@ -1,0 +1,20 @@
+# [TITLE]: js8call-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fftw-lib)
+include(gcc-libgfortran)
+include(gcc-libs-math)
+include(hamlib-lib)
+include(js8call-data)
+include(js8call-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtmultimedia-lib)
+include(qtserialport-lib)
+js8call-bin

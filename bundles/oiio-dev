@@ -1,0 +1,12 @@
+# [TITLE]: oiio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oiio)
+include(oiio-bin)
+include(oiio-data)
+include(oiio-lib)
+include(pkg-config-bin)
+oiio-dev

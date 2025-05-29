@@ -1,0 +1,12 @@
+# [TITLE]: pigeonhole
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pigeonhole-bin)
+include(pigeonhole-lib)
+include(pigeonhole-libexec)
+include(pigeonhole-license)
+include(pigeonhole-man)
+pigeonhole

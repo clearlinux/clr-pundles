@@ -1,0 +1,9 @@
+# [TITLE]: fann
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fann-lib)
+include(fann-license)
+fann

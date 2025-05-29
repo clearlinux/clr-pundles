@@ -1,0 +1,12 @@
+# [TITLE]: cockpit-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cockpit-data)
+include(cockpit-libexec)
+include(cockpit-license)
+include(libc6)
+cockpit-lib

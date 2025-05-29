@@ -1,0 +1,12 @@
+# [TITLE]: akonadiconsole
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadiconsole-bin)
+include(akonadiconsole-data)
+include(akonadiconsole-lib)
+include(akonadiconsole-license)
+include(akonadiconsole-locales)
+akonadiconsole

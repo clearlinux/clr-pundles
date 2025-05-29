@@ -1,0 +1,12 @@
+# [TITLE]: xdpyinfo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXtst-lib)
+include(libXxf86dga-lib)
+include(libc6)
+include(xdpyinfo-license)
+xdpyinfo-bin

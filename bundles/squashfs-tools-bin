@@ -1,0 +1,15 @@
+# [TITLE]: squashfs-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(lz4-lib)
+include(lzo-lib)
+include(squashfs-tools-license)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+squashfs-tools-bin

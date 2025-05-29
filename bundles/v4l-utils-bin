@@ -1,0 +1,16 @@
+# [TITLE]: v4l-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(systemd-lib)
+include(v4l-utils-config)
+include(v4l-utils-data)
+include(v4l-utils-lib)
+include(v4l-utils-license)
+v4l-utils-bin

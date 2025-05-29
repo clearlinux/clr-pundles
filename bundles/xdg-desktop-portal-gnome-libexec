@@ -1,0 +1,20 @@
+# [TITLE]: xdg-desktop-portal-gnome-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fontconfig-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(graphene-lib)
+include(gtk4-lib)
+include(libX11-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(wayland-lib)
+include(xdg-desktop-portal-gnome-license)
+xdg-desktop-portal-gnome-libexec

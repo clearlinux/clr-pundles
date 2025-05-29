@@ -1,0 +1,12 @@
+# [TITLE]: gnome-desktop-testing-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-desktop-testing-license)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+gnome-desktop-testing-bin

@@ -1,0 +1,9 @@
+# [TITLE]: cabextract-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cabextract-license)
+include(libc6)
+cabextract-bin

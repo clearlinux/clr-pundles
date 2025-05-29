@@ -1,0 +1,9 @@
+# [TITLE]: libva-intel-driver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libva-intel-driver-lib)
+include(libva-intel-driver-license)
+libva-intel-driver

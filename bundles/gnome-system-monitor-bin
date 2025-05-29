@@ -1,0 +1,26 @@
+# [TITLE]: gnome-system-monitor-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(glibmm-lib)
+include(gnome-system-monitor-data)
+include(gnome-system-monitor-libexec)
+include(gnome-system-monitor-license)
+include(graphene-lib)
+include(gtk4-lib)
+include(gtkmm4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(libgtop-lib)
+include(librsvg-lib)
+include(libsigc++-lib)
+include(libstdc++)
+include(pango-lib)
+include(systemd-extras-libsystemd)
+gnome-system-monitor-bin

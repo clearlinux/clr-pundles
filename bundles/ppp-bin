@@ -1,0 +1,11 @@
+# [TITLE]: ppp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libxcrypt-lib)
+include(openssl-lib)
+include(ppp-license)
+ppp-bin

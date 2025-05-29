@@ -1,0 +1,15 @@
+# [TITLE]: links-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-lib)
+include(bzip2-lib)
+include(gpm-lib)
+include(libc6)
+include(links-license)
+include(openssl-lib)
+include(zlib-lib)
+include(zstd-lib)
+links-bin

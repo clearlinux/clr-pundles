@@ -1,0 +1,12 @@
+# [TITLE]: pigeonhole-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dovecot-lib)
+include(libc6)
+include(pigeonhole-lib)
+include(pigeonhole-libexec)
+include(pigeonhole-license)
+pigeonhole-bin

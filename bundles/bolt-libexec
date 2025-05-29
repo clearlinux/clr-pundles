@@ -1,0 +1,14 @@
+# [TITLE]: bolt-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bolt-config)
+include(bolt-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(polkit-lib)
+include(systemd-lib)
+bolt-libexec

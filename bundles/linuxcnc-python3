@@ -1,0 +1,19 @@
+# [TITLE]: linuxcnc-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost-extras)
+include(coreutils-bin)
+include(filesystem)
+include(libX11-lib)
+include(libXmu-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libgcc1)
+include(libstdc++)
+include(linuxcnc-lib)
+include(python3-core)
+include(tk-extras)
+linuxcnc-python3

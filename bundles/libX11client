@@ -15,8 +15,8 @@ include(fontconfig-lib)
 include(freetype-lib)
 include(glib-data)
 include(glib-lib)
-gtk+-data
-gtk+-lib
+include(gtk+-data)
+include(gtk+-lib)
 harfbuzz-lib
 include(libinput-data)
 include(libinput-lib)
@@ -34,7 +34,7 @@ include(llvm-lib)
 include(pango-lib)
 include(pixman-lib)
 include(Vulkan-Loader)
-pciutils-lib
+include(pciutils-lib)
 
 # almost all GUI stuff pulls in GTK
 also-add(gtk3libs)

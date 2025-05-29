@@ -1,0 +1,16 @@
+# [TITLE]: gnome-shell
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-shell-bin)
+include(gnome-shell-data)
+include(gnome-shell-lib)
+include(gnome-shell-libexec)
+include(gnome-shell-license)
+include(gnome-shell-locales)
+include(gnome-shell-man)
+include(gnome-shell-services)
+include(libgweather)
+gnome-shell

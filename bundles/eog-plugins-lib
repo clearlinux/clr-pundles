@@ -1,0 +1,21 @@
+# [TITLE]: eog-plugins-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(clutter-gtk-lib)
+include(clutter-lib)
+include(eog-lib)
+include(eog-plugins-data)
+include(eog-plugins-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libchamplain-lib)
+include(libexif-lib)
+include(libgdata-lib)
+include(libpeas-lib)
+eog-plugins-lib

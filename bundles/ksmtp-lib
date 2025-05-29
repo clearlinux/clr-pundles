@@ -1,0 +1,16 @@
+# [TITLE]: ksmtp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(ksmtp-data)
+include(ksmtp-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+ksmtp-lib

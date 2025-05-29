@@ -1,0 +1,15 @@
+# [TITLE]: qemu-guest-additions-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(liburing-lib)
+include(numactl-lib)
+include(qemu-guest-additions-license)
+include(qemu-guest-additions-services)
+include(systemd-lib)
+qemu-guest-additions-bin

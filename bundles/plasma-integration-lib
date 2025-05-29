@@ -1,0 +1,30 @@
+# [TITLE]: plasma-integration-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kservice-lib)
+include(kstatusnotifieritem-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-integration-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+plasma-integration-lib

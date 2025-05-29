@@ -1,0 +1,12 @@
+# [TITLE]: rlwrap-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(readline-lib)
+include(rlwrap-data)
+include(rlwrap-license)
+rlwrap-bin

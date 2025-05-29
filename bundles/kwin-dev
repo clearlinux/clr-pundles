@@ -1,0 +1,11 @@
+# [TITLE]: kwin-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwin)
+include(kwin-bin)
+include(kwin-data)
+include(kwin-lib)
+kwin-dev

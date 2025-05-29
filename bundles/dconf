@@ -1,0 +1,14 @@
+# [TITLE]: dconf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dconf-bin)
+include(dconf-data)
+include(dconf-lib)
+include(dconf-libexec)
+include(dconf-license)
+include(dconf-man)
+include(dconf-services)
+dconf

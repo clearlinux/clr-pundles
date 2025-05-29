@@ -1,0 +1,11 @@
+# [TITLE]: xnec2c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xnec2c-bin)
+include(xnec2c-data)
+include(xnec2c-license)
+include(xnec2c-man)
+xnec2c

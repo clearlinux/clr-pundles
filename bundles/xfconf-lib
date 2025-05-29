@@ -1,0 +1,11 @@
+# [TITLE]: xfconf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(xfconf-data)
+include(xfconf-license)
+xfconf-lib

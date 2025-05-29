@@ -1,0 +1,10 @@
+# [TITLE]: musl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(musl)
+include(musl-bin)
+include(musl-lib)
+musl-dev

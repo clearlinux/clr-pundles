@@ -1,0 +1,24 @@
+# [TITLE]: i3-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(coreutils-bin)
+include(filesystem)
+include(glib-lib)
+include(i3-data)
+include(i3-license)
+include(libX11-lib)
+include(libc6)
+include(libev-lib)
+include(libgcc1)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(pcre2-lib)
+include(startup-notification-lib)
+include(xcb-util-cursor-lib)
+include(xcb-util-xrm-lib)
+include(yajl-lib)
+i3-bin

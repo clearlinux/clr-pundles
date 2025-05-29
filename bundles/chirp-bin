@@ -1,0 +1,9 @@
+# [TITLE]: chirp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(chirp-license)
+include(python3-core)
+chirp-bin

@@ -15,11 +15,11 @@ include(curl)
 include(qt-basic)
 include(qt-core)
 include(iperf)
-udisks2
-dmidecode
-lsscsi
+include(udisks2)
+include(dmidecode)
+include(lsscsi)
 include(lm-sensors)
-xdg-utils
+include(xdg-utils)
 also-add(firmware-update)
 # end of custom additions
 

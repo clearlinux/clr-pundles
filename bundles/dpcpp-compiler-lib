@@ -1,0 +1,15 @@
+# [TITLE]: dpcpp-compiler-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dpcpp-compiler-data)
+include(dpcpp-compiler-license)
+include(level-zero-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ncurses-lib)
+include(zlib-lib)
+dpcpp-compiler-lib

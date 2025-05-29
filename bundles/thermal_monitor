@@ -1,0 +1,9 @@
+# [TITLE]: thermal_monitor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(thermal_monitor-bin)
+include(thermal_monitor-license)
+thermal_monitor

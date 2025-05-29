@@ -1,0 +1,8 @@
+# [TITLE]: cnf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gawk-bin)
+cnf

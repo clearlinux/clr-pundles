@@ -1,0 +1,9 @@
+# [TITLE]: lttng-ust-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(lttng-ust-license)
+lttng-ust-bin

@@ -1,0 +1,13 @@
+# [TITLE]: xmlb-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(xmlb)
+include(xmlb-lib)
+include(zstd-lib)
+xmlb-tests

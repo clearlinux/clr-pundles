@@ -1,0 +1,18 @@
+# [TITLE]: akonadiconsole-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadiconsole-data)
+include(akonadiconsole-lib)
+include(akonadiconsole-license)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+akonadiconsole-bin

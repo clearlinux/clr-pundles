@@ -1,0 +1,8 @@
+# [TITLE]: libvirt-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvirt-man)
+libvirt-doc

@@ -1,0 +1,11 @@
+# [TITLE]: libmicrohttpd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnutls-dev)
+include(libmicrohttpd)
+include(libmicrohttpd-lib)
+include(pkg-config-bin)
+libmicrohttpd-dev

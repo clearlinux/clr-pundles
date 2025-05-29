@@ -1,0 +1,8 @@
+# [TITLE]: libuv-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libuv-dev)
+libuv-staticdev

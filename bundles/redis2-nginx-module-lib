@@ -1,0 +1,8 @@
+# [TITLE]: redis2-nginx-module-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+redis2-nginx-module-lib

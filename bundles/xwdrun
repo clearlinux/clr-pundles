@@ -1,0 +1,9 @@
+# [TITLE]: xwdrun
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xwdrun-bin)
+include(xwdrun-license)
+xwdrun

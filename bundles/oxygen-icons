@@ -1,0 +1,9 @@
+# [TITLE]: oxygen-icons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oxygen-icons-data)
+include(oxygen-icons-license)
+oxygen-icons

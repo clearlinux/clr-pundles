@@ -1,0 +1,11 @@
+# [TITLE]: libndp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libndp-bin)
+include(libndp-lib)
+include(libndp-license)
+include(libndp-man)
+libndp

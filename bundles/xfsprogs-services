@@ -1,0 +1,8 @@
+# [TITLE]: xfsprogs-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+xfsprogs-services

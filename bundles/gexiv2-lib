@@ -1,0 +1,14 @@
+# [TITLE]: gexiv2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exiv2-lib)
+include(gexiv2-data)
+include(gexiv2-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+gexiv2-lib

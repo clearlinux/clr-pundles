@@ -1,0 +1,9 @@
+# [TITLE]: perl-Package-Stash-XS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Package-Stash-XS-license)
+include(perl-Package-Stash-XS-perl)
+perl-Package-Stash-XS

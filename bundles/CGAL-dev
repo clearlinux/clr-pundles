@@ -1,0 +1,9 @@
+# [TITLE]: CGAL-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CGAL)
+include(CGAL-bin)
+CGAL-dev

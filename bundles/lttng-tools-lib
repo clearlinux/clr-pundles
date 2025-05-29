@@ -1,0 +1,11 @@
+# [TITLE]: lttng-tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(lttng-tools-data)
+include(lttng-tools-license)
+lttng-tools-lib

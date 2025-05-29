@@ -1,0 +1,10 @@
+# [TITLE]: alsa-plugins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-plugins-data)
+include(alsa-plugins-lib)
+include(alsa-plugins-license)
+alsa-plugins

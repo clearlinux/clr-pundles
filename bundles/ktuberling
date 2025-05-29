@@ -1,0 +1,11 @@
+# [TITLE]: ktuberling
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktuberling-bin)
+include(ktuberling-data)
+include(ktuberling-license)
+include(ktuberling-locales)
+ktuberling

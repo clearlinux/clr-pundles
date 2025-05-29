@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-pkcs11-helper-dev
+include(pkcs11-helper-dev)
 include(lib-openssl)

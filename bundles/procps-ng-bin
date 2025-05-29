@@ -1,0 +1,12 @@
+# [TITLE]: procps-ng-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(procps-ng-lib)
+include(procps-ng-license)
+include(systemd-extras-libsystemd)
+procps-ng-bin

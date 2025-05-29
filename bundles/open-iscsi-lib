@@ -1,0 +1,10 @@
+# [TITLE]: open-iscsi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmod-lib)
+include(libc6)
+include(open-iscsi-license)
+open-iscsi-lib

@@ -1,0 +1,18 @@
+# [TITLE]: kded-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kded-data)
+include(kded-license)
+include(kded-services)
+include(kservice-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kded-bin

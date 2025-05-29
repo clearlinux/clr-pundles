@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-SPIRV-Headers-dev
+include(SPIRV-Headers-dev)

@@ -1,0 +1,9 @@
+# [TITLE]: metrics-discovery
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(metrics-discovery-lib)
+include(metrics-discovery-license)
+metrics-discovery

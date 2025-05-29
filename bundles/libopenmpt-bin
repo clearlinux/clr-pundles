@@ -1,0 +1,16 @@
+# [TITLE]: libopenmpt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flac-lib)
+include(libc6)
+include(libgcc1)
+include(libopenmpt-lib)
+include(libopenmpt-license)
+include(libsndfile-lib)
+include(libstdc++)
+include(portaudio-lib)
+include(pulseaudio-lib)
+libopenmpt-bin

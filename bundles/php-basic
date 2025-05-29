@@ -10,7 +10,7 @@ include(python3-basic)
 include(postgresql-lib)
 include(libglib)
 
-php
+include(php)
 include(harfbuzz-lib)
 include(curl)
 include(icu4c-lib)

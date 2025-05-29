@@ -1,0 +1,14 @@
+# [TITLE]: dnsmasq
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dnsmasq-bin)
+include(dnsmasq-config)
+include(dnsmasq-data)
+include(dnsmasq-license)
+include(dnsmasq-locales)
+include(dnsmasq-man)
+include(dnsmasq-services)
+dnsmasq

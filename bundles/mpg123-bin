@@ -1,0 +1,10 @@
+# [TITLE]: mpg123-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mpg123-lib)
+include(mpg123-license)
+mpg123-bin

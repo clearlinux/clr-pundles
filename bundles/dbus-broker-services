@@ -1,0 +1,9 @@
+# [TITLE]: dbus-broker-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-broker-bin)
+include(systemd)
+dbus-broker-services

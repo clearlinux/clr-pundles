@@ -1,0 +1,11 @@
+# [TITLE]: tevent-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(python3-core)
+include(talloc-lib)
+include(tevent-lib)
+tevent-python3

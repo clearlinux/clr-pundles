@@ -1,0 +1,14 @@
+# [TITLE]: gegl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babl-lib)
+include(gegl-data)
+include(gegl-lib)
+include(gegl-license)
+include(glib-lib)
+include(libc6)
+include(libspiro-lib)
+gegl-bin

@@ -1,0 +1,10 @@
+# [TITLE]: axel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(axel-license)
+include(libc6)
+include(openssl-lib)
+axel-bin

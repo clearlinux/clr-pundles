@@ -1,0 +1,11 @@
+# [TITLE]: flare-engine
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flare-engine-bin)
+include(flare-engine-data)
+include(flare-engine-license)
+include(flare-engine-man)
+flare-engine

@@ -1,0 +1,11 @@
+# [TITLE]: icecream-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icecream-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+icecream-libexec

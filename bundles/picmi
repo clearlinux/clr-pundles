@@ -1,0 +1,11 @@
+# [TITLE]: picmi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(picmi-bin)
+include(picmi-data)
+include(picmi-license)
+include(picmi-locales)
+picmi

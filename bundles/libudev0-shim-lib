@@ -1,0 +1,9 @@
+# [TITLE]: libudev0-shim-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(systemd-lib)
+libudev0-shim-lib

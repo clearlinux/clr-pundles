@@ -1,0 +1,14 @@
+# [TITLE]: eog-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(eog-data)
+include(eog-lib)
+include(eog-license)
+include(glib-lib)
+include(gobject-introspection-lib)
+include(gtk3-lib)
+include(libc6)
+eog-bin

@@ -1,0 +1,11 @@
+# [TITLE]: libkdegames
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkdegames-data)
+include(libkdegames-lib)
+include(libkdegames-license)
+include(libkdegames-locales)
+libkdegames

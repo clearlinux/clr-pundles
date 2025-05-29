@@ -1,0 +1,16 @@
+# [TITLE]: zenity-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(pango-lib)
+include(webkitgtk60-lib)
+include(zenity-data)
+include(zenity-license)
+zenity-bin

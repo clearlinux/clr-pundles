@@ -1,0 +1,13 @@
+# [TITLE]: nethogs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libpcap-lib)
+include(libstdc++)
+include(ncurses-lib)
+include(nethogs-license)
+nethogs-bin

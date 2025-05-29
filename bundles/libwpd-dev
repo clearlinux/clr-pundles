@@ -1,0 +1,11 @@
+# [TITLE]: libwpd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librevenge-dev)
+include(libwpd)
+include(libwpd-bin)
+include(libwpd-lib)
+libwpd-dev

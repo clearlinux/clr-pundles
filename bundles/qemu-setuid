@@ -1,0 +1,12 @@
+# [TITLE]: qemu-setuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libcap-ng-lib)
+include(libgcc1)
+include(numactl-lib)
+qemu-setuid

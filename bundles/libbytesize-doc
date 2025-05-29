@@ -1,0 +1,8 @@
+# [TITLE]: libbytesize-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbytesize-man)
+libbytesize-doc

@@ -1,0 +1,14 @@
+# [TITLE]: flmsg-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flmsg-data)
+include(flmsg-license)
+include(fltk-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+flmsg-bin

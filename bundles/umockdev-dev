@@ -1,0 +1,13 @@
+# [TITLE]: umockdev-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pkg-config-bin)
+include(umockdev)
+include(umockdev-bin)
+include(umockdev-data)
+include(umockdev-lib)
+umockdev-dev

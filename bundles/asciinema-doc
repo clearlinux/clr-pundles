@@ -1,0 +1,8 @@
+# [TITLE]: asciinema-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asciinema-man)
+asciinema-doc

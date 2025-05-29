@@ -1,0 +1,15 @@
+# [TITLE]: spice-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libcacard-dev)
+include(openssl-dev)
+include(pixman-dev)
+include(pkg-config-bin)
+include(spice)
+include(spice-lib)
+include(spice-protocol-dev)
+spice-dev

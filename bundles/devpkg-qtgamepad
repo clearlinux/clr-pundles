@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtgamepad-dev
+include(qtgamepad-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

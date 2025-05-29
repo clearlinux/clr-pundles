@@ -1,0 +1,9 @@
+# [TITLE]: qt6quicktimeline
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6quicktimeline-lib)
+include(qt6quicktimeline-license)
+qt6quicktimeline

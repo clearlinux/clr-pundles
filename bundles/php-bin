@@ -1,0 +1,34 @@
+# [TITLE]: php-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(argon2-lib)
+include(bzip2-lib)
+include(curl-lib)
+include(filesystem)
+include(gmp-lib)
+include(icu4c-lib)
+include(libc6)
+include(libffi-lib)
+include(libgcc1)
+include(libgd-lib)
+include(libsodium-lib)
+include(libstdc++)
+include(libxml2-lib)
+include(libxslt-lib)
+include(libzip-lib)
+include(onig-lib)
+include(openldap-lib)
+include(openssl-lib)
+include(pcre2-lib)
+include(php-data)
+include(php-license)
+include(php-services)
+include(postgresql-lib)
+include(readline-lib)
+include(sqlite-autoconf-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+php-bin

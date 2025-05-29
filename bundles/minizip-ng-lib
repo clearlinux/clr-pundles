@@ -1,0 +1,14 @@
+# [TITLE]: minizip-ng-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(minizip-ng-license)
+include(openssl-lib)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+minizip-ng-lib

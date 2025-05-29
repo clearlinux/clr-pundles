@@ -1,0 +1,9 @@
+# [TITLE]: helloworld
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(helloworld-bin)
+include(helloworld-license)
+helloworld

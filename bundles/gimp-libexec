@@ -1,0 +1,19 @@
+# [TITLE]: gimp-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babl-lib)
+include(cairo-lib)
+include(fontconfig-lib)
+include(gdk-pixbuf-lib)
+include(gegl-lib)
+include(gexiv2-lib)
+include(gimp-lib)
+include(gimp-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(pango-lib)
+gimp-libexec

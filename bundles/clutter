@@ -1,0 +1,11 @@
+# [TITLE]: clutter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clutter-data)
+include(clutter-lib)
+include(clutter-license)
+include(clutter-locales)
+clutter

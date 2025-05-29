@@ -1,0 +1,12 @@
+# [TITLE]: efitools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efitools-bin)
+include(efitools-data)
+include(efitools-license)
+include(efitools-man)
+include(gnu-efi)
+efitools

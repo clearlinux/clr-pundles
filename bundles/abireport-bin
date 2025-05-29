@@ -1,0 +1,9 @@
+# [TITLE]: abireport-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abireport-license)
+include(libc6)
+abireport-bin

@@ -1,0 +1,21 @@
+# [TITLE]: mailimporter-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(akonadi-mime-lib)
+include(karchive-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kmime-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mailimporter-data)
+include(mailimporter-license)
+include(pimcommon-lib)
+include(qt6base-lib)
+mailimporter-lib

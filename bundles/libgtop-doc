@@ -1,0 +1,8 @@
+# [TITLE]: libgtop-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgtop-info)
+libgtop-doc

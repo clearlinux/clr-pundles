@@ -1,0 +1,9 @@
+# [TITLE]: qtwayland
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtwayland-lib)
+include(qtwayland-license)
+qtwayland

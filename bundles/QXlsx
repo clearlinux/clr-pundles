@@ -1,0 +1,9 @@
+# [TITLE]: QXlsx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QXlsx-lib)
+include(QXlsx-license)
+QXlsx

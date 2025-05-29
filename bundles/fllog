@@ -1,0 +1,10 @@
+# [TITLE]: fllog
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fllog-bin)
+include(fllog-data)
+include(fllog-license)
+fllog

@@ -1,0 +1,13 @@
+# [TITLE]: valkey-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jemalloc-lib)
+include(libc6)
+include(systemd-extras-libsystemd)
+include(valkey-data)
+include(valkey-license)
+include(valkey-services)
+valkey-bin

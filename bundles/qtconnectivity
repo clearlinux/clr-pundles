@@ -1,0 +1,10 @@
+# [TITLE]: qtconnectivity
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtconnectivity-bin)
+include(qtconnectivity-lib)
+include(qtconnectivity-license)
+qtconnectivity

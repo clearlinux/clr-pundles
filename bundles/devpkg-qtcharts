@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtcharts-dev
+include(qtcharts-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

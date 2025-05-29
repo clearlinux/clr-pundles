@@ -1,0 +1,8 @@
+# [TITLE]: PyMySQL-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyMySQL-python3)
+PyMySQL-python

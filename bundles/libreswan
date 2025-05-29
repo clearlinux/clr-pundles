@@ -1,0 +1,13 @@
+# [TITLE]: libreswan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libreswan-bin)
+include(libreswan-config)
+include(libreswan-libexec)
+include(libreswan-license)
+include(libreswan-man)
+include(libreswan-services)
+libreswan

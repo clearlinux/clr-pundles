@@ -1,0 +1,10 @@
+# [TITLE]: autoconf213
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autoconf213-bin)
+include(autoconf213-data)
+include(autoconf213-license)
+autoconf213

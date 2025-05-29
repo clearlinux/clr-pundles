@@ -1,0 +1,14 @@
+# [TITLE]: wpa_supplicant-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libc6)
+include(libnl-lib)
+include(openssl-lib)
+include(wpa_supplicant-data)
+include(wpa_supplicant-license)
+include(wpa_supplicant-services)
+wpa_supplicant-bin

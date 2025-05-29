@@ -7,12 +7,12 @@
 include(python3-basic)
 include(libglib)
 include(perl-basic)
-createrepo_c
+include(createrepo_c)
 also-add(dnf)
-mock
+include(mock)
 include(pypi-gitpython)
-rpm
-rpm-extras
+include(rpm)
+include(rpm-extras)
 include(curl)
 include(libxml2)
 include(libarchive)

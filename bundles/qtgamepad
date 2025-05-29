@@ -1,0 +1,9 @@
+# [TITLE]: qtgamepad
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtgamepad-lib)
+include(qtgamepad-license)
+qtgamepad

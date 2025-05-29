@@ -1,0 +1,23 @@
+# [TITLE]: kcachegrind-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(karchive-lib)
+include(kcachegrind-data)
+include(kcachegrind-license)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(perl-bin)
+include(qt6base-lib)
+kcachegrind-bin

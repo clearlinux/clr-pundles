@@ -1,0 +1,11 @@
+# [TITLE]: kyotocabinet-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kyotocabinet)
+include(kyotocabinet-bin)
+include(kyotocabinet-lib)
+include(pkg-config-bin)
+kyotocabinet-dev

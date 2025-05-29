@@ -1,0 +1,13 @@
+# [TITLE]: not-ffmpeg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(not-ffmpeg)
+include(not-ffmpeg-bin)
+include(not-ffmpeg-data)
+include(not-ffmpeg-dev)
+include(not-ffmpeg-lib)
+include(pkg-config-bin)
+not-ffmpeg-dev

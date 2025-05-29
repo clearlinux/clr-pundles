@@ -1,0 +1,21 @@
+# [TITLE]: plasma-browser-integration-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kservice-lib)
+include(kstatusnotifieritem-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-activities-lib)
+include(plasma-browser-integration-data)
+include(plasma-browser-integration-license)
+include(qt6base-lib)
+plasma-browser-integration-lib

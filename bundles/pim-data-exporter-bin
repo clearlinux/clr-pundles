@@ -1,0 +1,31 @@
+# [TITLE]: pim-data-exporter-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(karchive-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(kstatusnotifieritem-lib)
+include(ktextaddons-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mailcommon-lib)
+include(pim-data-exporter-data)
+include(pim-data-exporter-lib)
+include(pim-data-exporter-license)
+include(pimcommon-lib)
+include(qt6base-lib)
+pim-data-exporter-bin

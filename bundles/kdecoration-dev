@@ -1,0 +1,9 @@
+# [TITLE]: kdecoration-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdecoration)
+include(kdecoration-lib)
+kdecoration-dev

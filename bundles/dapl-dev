@@ -1,0 +1,10 @@
+# [TITLE]: dapl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dapl)
+include(dapl-bin)
+include(dapl-lib)
+dapl-dev

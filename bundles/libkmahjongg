@@ -1,0 +1,11 @@
+# [TITLE]: libkmahjongg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkmahjongg-data)
+include(libkmahjongg-lib)
+include(libkmahjongg-license)
+include(libkmahjongg-locales)
+libkmahjongg

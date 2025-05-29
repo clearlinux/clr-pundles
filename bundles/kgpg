@@ -1,0 +1,11 @@
+# [TITLE]: kgpg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kgpg-bin)
+include(kgpg-data)
+include(kgpg-license)
+include(kgpg-locales)
+kgpg

@@ -1,0 +1,8 @@
+# [TITLE]: byobu-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(byobu-man)
+byobu-doc

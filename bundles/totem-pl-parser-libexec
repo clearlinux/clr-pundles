@@ -1,0 +1,8 @@
+# [TITLE]: totem-pl-parser-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(totem-pl-parser-license)
+totem-pl-parser-libexec

@@ -1,0 +1,9 @@
+# [TITLE]: paho.mqtt.c-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(paho.mqtt.c-license)
+paho.mqtt.c-bin

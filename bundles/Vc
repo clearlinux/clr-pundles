@@ -1,0 +1,8 @@
+# [TITLE]: Vc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vc-license)
+Vc

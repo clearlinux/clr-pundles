@@ -1,0 +1,11 @@
+# [TITLE]: hplip-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hplip)
+include(hplip-bin)
+include(hplip-data)
+include(hplip-lib)
+hplip-dev

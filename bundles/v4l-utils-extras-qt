@@ -1,0 +1,15 @@
+# [TITLE]: v4l-utils-extras-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(v4l-utils-lib)
+v4l-utils-extras-qt

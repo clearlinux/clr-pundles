@@ -1,0 +1,10 @@
+# [TITLE]: dockerpty
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dockerpty-license)
+include(dockerpty-python)
+include(dockerpty-python3)
+dockerpty

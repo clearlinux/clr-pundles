@@ -1,0 +1,27 @@
+# [TITLE]: eog-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(eog-data)
+include(eog-license)
+include(exempi-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gobject-introspection-lib)
+include(gtk3-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libc6)
+include(libexif-lib)
+include(libgcc1)
+include(libhandy-lib)
+include(libjpeg-turbo-lib)
+include(libpeas-lib)
+include(libportal-lib)
+include(librsvg-lib)
+include(zlib-lib)
+eog-lib

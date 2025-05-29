@@ -1,0 +1,10 @@
+# [TITLE]: poxml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(poxml-bin)
+include(poxml-license)
+include(poxml-man)
+poxml

@@ -1,0 +1,23 @@
+# [TITLE]: kdialog-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(kdialog-data)
+include(kdialog-license)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdialog-bin

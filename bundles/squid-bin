@@ -1,0 +1,22 @@
+# [TITLE]: squid-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(e2fsprogs-lib)
+include(gnutls-lib)
+include(krb5-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcc1)
+include(libstdc++)
+include(libtool-lib)
+include(nettle-lib)
+include(squid-config)
+include(squid-data)
+include(squid-libexec)
+include(squid-license)
+include(squid-services)
+include(systemd-extras-libsystemd)
+squid-bin

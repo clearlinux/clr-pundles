@@ -1,0 +1,8 @@
+# [TITLE]: memcached-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+memcached-extras

@@ -1,0 +1,10 @@
+# [TITLE]: librist
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librist-bin)
+include(librist-lib)
+include(librist-license)
+librist

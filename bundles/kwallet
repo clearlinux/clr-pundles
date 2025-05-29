@@ -1,0 +1,13 @@
+# [TITLE]: kwallet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwallet-bin)
+include(kwallet-data)
+include(kwallet-lib)
+include(kwallet-license)
+include(kwallet-locales)
+include(kwallet-man)
+kwallet

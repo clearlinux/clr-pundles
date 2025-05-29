@@ -1,0 +1,11 @@
+# [TITLE]: koji-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(koji-data)
+include(koji-license)
+include(koji-services)
+include(python3-core)
+koji-bin

@@ -1,0 +1,10 @@
+# [TITLE]: sddm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sddm-data)
+include(sddm-libexec)
+include(sddm-license)
+sddm-lib

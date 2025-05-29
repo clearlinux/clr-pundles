@@ -1,0 +1,14 @@
+# [TITLE]: mono-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mono)
+include(mono-bin)
+include(mono-data)
+include(mono-lib)
+include(pkg-config-bin)
+include(zlib-lib)
+mono-dev

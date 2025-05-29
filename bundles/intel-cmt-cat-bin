@@ -1,0 +1,11 @@
+# [TITLE]: intel-cmt-cat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(intel-cmt-cat-lib)
+include(intel-cmt-cat-license)
+include(libc6)
+intel-cmt-cat-bin

@@ -1,0 +1,9 @@
+# [TITLE]: libopusenc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libopusenc-lib)
+include(libopusenc-license)
+libopusenc

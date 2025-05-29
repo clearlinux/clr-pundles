@@ -1,0 +1,14 @@
+# [TITLE]: gnome-panel-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnome-panel)
+include(gnome-panel-bin)
+include(gnome-panel-data)
+include(gnome-panel-lib)
+include(gtk3-dev)
+include(pkg-config-bin)
+gnome-panel-dev

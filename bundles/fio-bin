@@ -1,0 +1,15 @@
+# [TITLE]: fio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(fio-data)
+include(fio-license)
+include(libaio-lib)
+include(libc6)
+include(numactl-lib)
+include(zlib-lib)
+fio-bin

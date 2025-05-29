@@ -1,0 +1,12 @@
+# [TITLE]: glog-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gflags-lib)
+include(glog-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+glog-lib

@@ -1,0 +1,11 @@
+# [TITLE]: libgweather
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgweather-data)
+include(libgweather-lib)
+include(libgweather-license)
+include(libgweather-locales)
+libgweather

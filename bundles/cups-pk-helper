@@ -1,0 +1,11 @@
+# [TITLE]: cups-pk-helper
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-pk-helper-data)
+include(cups-pk-helper-libexec)
+include(cups-pk-helper-license)
+include(cups-pk-helper-locales)
+cups-pk-helper

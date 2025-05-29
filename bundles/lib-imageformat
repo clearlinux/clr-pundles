@@ -18,7 +18,7 @@ include(LibRaw-lib)
 # main packages
 
 include(librsvg-lib)
-exiv2-lib
+include(exiv2-lib)
 include(libpng-lib)
 include(libjpeg-turbo-lib)
 include(libwebp-lib)

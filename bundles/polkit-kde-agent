@@ -1,0 +1,21 @@
+# [TITLE]: polkit-kde-agent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(polkit-kde-agent-data)
+include(polkit-kde-agent-license)
+include(polkit-kde-agent-locales)
+include(polkit-kde-agent-services)
+include(polkit-qt6-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+polkit-kde-agent

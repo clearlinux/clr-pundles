@@ -1,0 +1,12 @@
+# [TITLE]: libdazzle-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk3-dev)
+include(libdazzle)
+include(libdazzle-bin)
+include(libdazzle-data)
+include(libdazzle-lib)
+libdazzle-dev

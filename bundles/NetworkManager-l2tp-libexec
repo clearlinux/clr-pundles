@@ -1,0 +1,18 @@
+# [TITLE]: NetworkManager-l2tp-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-l2tp-license)
+include(NetworkManager-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libnma-lib)
+include(libsecret-lib)
+include(nspr)
+include(nss-lib)
+include(openssl-lib)
+NetworkManager-l2tp-libexec

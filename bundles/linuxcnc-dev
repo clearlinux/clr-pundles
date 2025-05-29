@@ -1,0 +1,11 @@
+# [TITLE]: linuxcnc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linuxcnc)
+include(linuxcnc-bin)
+include(linuxcnc-data)
+include(linuxcnc-lib)
+linuxcnc-dev

@@ -1,0 +1,29 @@
+# [TITLE]: gtk4-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Loader-lib)
+include(cairo-lib)
+include(fontconfig-lib)
+include(fribidi-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(graphene-lib)
+include(gtk4-data)
+include(gtk4-lib)
+include(gtk4-license)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(librsvg-lib)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(tiff-lib)
+include(wayland-lib)
+gtk4-bin

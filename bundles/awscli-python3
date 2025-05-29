@@ -1,0 +1,14 @@
+# [TITLE]: awscli-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(botocore-python3)
+include(pypi-colorama-python3)
+include(pypi-docutils-python3)
+include(pypi-rsa-python3)
+include(pypi-s3transfer-python3)
+include(python3-core)
+awscli-python3

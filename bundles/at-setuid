@@ -1,0 +1,9 @@
+# [TITLE]: at-setuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flex-lib)
+include(libc6)
+at-setuid

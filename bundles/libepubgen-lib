@@ -1,0 +1,12 @@
+# [TITLE]: libepubgen-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libepubgen-license)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+libepubgen-lib

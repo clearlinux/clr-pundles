@@ -1,0 +1,19 @@
+# [TITLE]: totem-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(totem-data)
+include(totem-lib)
+include(totem-libexec)
+include(totem-license)
+include(totem-pl-parser-lib)
+totem-bin

@@ -1,0 +1,13 @@
+# [TITLE]: libcmis-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(curl-lib)
+include(libc6)
+include(libcmis-license)
+include(libgcc1)
+include(libstdc++)
+libcmis-lib

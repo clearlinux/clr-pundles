@@ -1,0 +1,9 @@
+# [TITLE]: SDL_mixer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL_mixer-lib)
+include(SDL_mixer-license)
+SDL_mixer

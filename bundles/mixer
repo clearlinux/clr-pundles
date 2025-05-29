@@ -6,7 +6,7 @@
 # [MAINTAINER]: Rodrigo Chiossi <rodrigo.chiossi@intel.com>
 
 # Repo management
-createrepo_c
+include(createrepo_c)
 
 # Git history support
 include(git)
@@ -22,10 +22,10 @@ include(bzip2)
 # Build
 include(dnf)
 include(cpio)
-rpm
-bsdiff
+include(rpm)
+include(bsdiff)
 
 # Image Creation
 include(clr-installer)
 
-mixer-tools
+include(mixer-tools)

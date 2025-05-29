@@ -1,0 +1,8 @@
+# [TITLE]: powerdevil-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+powerdevil-services

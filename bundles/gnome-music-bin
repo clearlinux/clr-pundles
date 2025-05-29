@@ -1,0 +1,10 @@
+# [TITLE]: gnome-music-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(gnome-music-data)
+include(gnome-music-license)
+gnome-music-bin

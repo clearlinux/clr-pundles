@@ -1,0 +1,12 @@
+# [TITLE]: gdl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdl)
+include(gdl-data)
+include(gdl-lib)
+include(gtk3-dev)
+include(libxml2-dev)
+gdl-dev

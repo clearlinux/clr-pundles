@@ -1,0 +1,8 @@
+# [TITLE]: serf-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(serf-dev)
+serf-staticdev

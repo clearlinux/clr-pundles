@@ -1,0 +1,8 @@
+# [TITLE]: lightdm-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lightdm-man)
+lightdm-doc

@@ -1,0 +1,10 @@
+# [TITLE]: mold-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mold-libexec)
+include(mold-license)
+mold-lib

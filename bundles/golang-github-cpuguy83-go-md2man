@@ -1,0 +1,10 @@
+# [TITLE]: golang-github-cpuguy83-go-md2man
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(golang-github-cpuguy83-go-md2man-bin)
+include(golang-github-cpuguy83-go-md2man-license)
+include(golang-github-cpuguy83-go-md2man-man)
+golang-github-cpuguy83-go-md2man

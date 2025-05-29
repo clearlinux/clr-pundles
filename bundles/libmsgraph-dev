@@ -1,0 +1,15 @@
+# [TITLE]: libmsgraph-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnome-online-accounts-dev)
+include(json-glib-dev)
+include(libmsgraph)
+include(libmsgraph-data)
+include(libmsgraph-lib)
+include(libsoup-dev)
+include(pkg-config-bin)
+libmsgraph-dev

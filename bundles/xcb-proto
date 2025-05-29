@@ -1,0 +1,11 @@
+# [TITLE]: xcb-proto
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xcb-proto-data)
+include(xcb-proto-license)
+include(xcb-proto-python)
+include(xcb-proto-python3)
+xcb-proto

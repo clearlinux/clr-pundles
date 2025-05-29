@@ -1,0 +1,14 @@
+# [TITLE]: libspelling-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk4-dev)
+include(gtksourceview-dev)
+include(libspelling)
+include(libspelling-data)
+include(libspelling-lib)
+include(pkg-config-bin)
+libspelling-dev

@@ -1,0 +1,11 @@
+# [TITLE]: sundials-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(libc6)
+include(sundials-data)
+include(sundials-license)
+sundials-lib

@@ -1,0 +1,9 @@
+# [TITLE]: capstone-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(capstone-license)
+include(libc6)
+capstone-lib

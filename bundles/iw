@@ -1,0 +1,10 @@
+# [TITLE]: iw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iw-bin)
+include(iw-license)
+include(iw-man)
+iw

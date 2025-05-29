@@ -1,0 +1,22 @@
+# [TITLE]: gnome-desktop-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(gnome-desktop)
+include(gnome-desktop-data)
+include(gnome-desktop-dev)
+include(gnome-desktop-lib)
+include(gsettings-desktop-schemas-dev)
+include(gtk3-dev)
+include(gtk4-dev)
+include(iso-codes-dev)
+include(libseccomp-dev)
+include(libxkbcommon-dev)
+include(pkg-config-bin)
+include(systemd-dev)
+include(xkeyboard-config-dev)
+gnome-desktop-dev

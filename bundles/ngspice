@@ -1,0 +1,13 @@
+# [TITLE]: ngspice
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ngspice-bin)
+include(ngspice-data)
+include(ngspice-lib)
+include(ngspice-license)
+include(ngspice-man)
+ngspice

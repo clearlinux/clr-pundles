@@ -1,0 +1,9 @@
+# [TITLE]: metee-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(metee)
+include(metee-lib)
+metee-dev

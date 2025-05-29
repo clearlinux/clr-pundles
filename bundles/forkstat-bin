@@ -1,0 +1,10 @@
+# [TITLE]: forkstat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(forkstat-data)
+include(forkstat-license)
+include(libc6)
+forkstat-bin

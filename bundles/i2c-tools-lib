@@ -1,0 +1,9 @@
+# [TITLE]: i2c-tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(i2c-tools-license)
+include(libc6)
+i2c-tools-lib

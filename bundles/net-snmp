@@ -1,0 +1,14 @@
+# [TITLE]: net-snmp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(net-snmp-bin)
+include(net-snmp-data)
+include(net-snmp-lib)
+include(net-snmp-license)
+include(net-snmp-man)
+include(net-snmp-perl)
+include(net-snmp-services)
+net-snmp

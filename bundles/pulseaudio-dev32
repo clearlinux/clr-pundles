@@ -1,0 +1,13 @@
+# [TITLE]: pulseaudio-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pkg-config-bin)
+include(pulseaudio-bin)
+include(pulseaudio-data)
+include(pulseaudio-dev)
+include(pulseaudio-lib32)
+pulseaudio-dev32

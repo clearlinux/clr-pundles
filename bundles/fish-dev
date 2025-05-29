@@ -1,0 +1,11 @@
+# [TITLE]: fish-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fish)
+include(fish-bin)
+include(fish-data)
+include(pkg-config-bin)
+fish-dev

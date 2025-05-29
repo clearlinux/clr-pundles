@@ -1,0 +1,17 @@
+# [TITLE]: qdmr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+include(qdmr-data)
+include(qdmr-license)
+include(qtbase-extras)
+include(qtlocation-lib)
+include(qtserialport-lib)
+include(yaml-cpp-lib)
+qdmr-lib

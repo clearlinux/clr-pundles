@@ -1,0 +1,11 @@
+# [TITLE]: passwdqc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(passwdqc)
+include(passwdqc-bin)
+include(passwdqc-lib)
+include(pkg-config-bin)
+passwdqc-dev

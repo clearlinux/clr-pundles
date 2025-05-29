@@ -1,0 +1,10 @@
+# [TITLE]: pynvim-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-greenlet-python3)
+include(pypi-msgpack-python3)
+include(python3-core)
+pynvim-python3

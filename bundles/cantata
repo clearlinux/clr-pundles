@@ -1,0 +1,19 @@
+# [TITLE]: cantata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cantata-bin)
+include(cantata-data)
+include(cantata-license)
+include(compat-taglib-soname1-lib)
+include(libc6)
+include(libebur128-lib)
+include(libgcc1)
+include(libstdc++)
+include(media-player-info)
+include(mpg123-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+cantata

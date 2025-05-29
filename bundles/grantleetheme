@@ -1,0 +1,11 @@
+# [TITLE]: grantleetheme
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grantleetheme-data)
+include(grantleetheme-lib)
+include(grantleetheme-license)
+include(grantleetheme-locales)
+grantleetheme

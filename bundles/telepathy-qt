@@ -1,0 +1,9 @@
+# [TITLE]: telepathy-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(telepathy-qt-lib)
+include(telepathy-qt-license)
+telepathy-qt

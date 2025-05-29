@@ -1,0 +1,10 @@
+# [TITLE]: compat-atkmm-soname16
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-atkmm-soname16-data)
+include(compat-atkmm-soname16-lib)
+include(compat-atkmm-soname16-license)
+compat-atkmm-soname16

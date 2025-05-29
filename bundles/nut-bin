@@ -1,0 +1,19 @@
+# [TITLE]: nut-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(nut-config)
+include(nut-data)
+include(nut-lib)
+include(nut-libexec)
+include(nut-license)
+include(nut-services)
+include(openssl-lib)
+include(systemd-extras-libsystemd)
+nut-bin

@@ -1,0 +1,19 @@
+# [TITLE]: libwnck3-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libXres-lib)
+include(libc6)
+include(libwnck3-data)
+include(libwnck3-license)
+include(pango-lib)
+include(startup-notification-lib)
+libwnck3-lib

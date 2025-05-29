@@ -1,0 +1,11 @@
+# [TITLE]: libqb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqb-bin)
+include(libqb-lib)
+include(libqb-license)
+include(libqb-man)
+libqb

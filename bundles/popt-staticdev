@@ -1,0 +1,8 @@
+# [TITLE]: popt-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(popt-dev)
+popt-staticdev

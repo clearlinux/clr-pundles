@@ -1,0 +1,9 @@
+# [TITLE]: mypaint-brushes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mypaint-brushes-data)
+include(mypaint-brushes-license)
+mypaint-brushes

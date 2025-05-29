@@ -1,0 +1,13 @@
+# [TITLE]: xerces-c-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(xerces-c-license)
+xerces-c-lib

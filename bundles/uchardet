@@ -1,0 +1,11 @@
+# [TITLE]: uchardet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(uchardet-bin)
+include(uchardet-lib)
+include(uchardet-license)
+include(uchardet-man)
+uchardet

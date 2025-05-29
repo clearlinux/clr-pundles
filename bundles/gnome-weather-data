@@ -1,0 +1,8 @@
+# [TITLE]: gnome-weather-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gjs-bin)
+gnome-weather-data

@@ -1,0 +1,10 @@
+# [TITLE]: libmicrohttpd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmicrohttpd-info)
+include(libmicrohttpd-lib)
+include(libmicrohttpd-license)
+libmicrohttpd

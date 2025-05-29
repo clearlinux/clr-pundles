@@ -1,0 +1,9 @@
+# [TITLE]: vectorscan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vectorscan-lib)
+include(vectorscan-license)
+vectorscan

@@ -6,6 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)
-nmap-extras
+include(nmap-extras)
 include(libnl)
 include(libpcap-lib)

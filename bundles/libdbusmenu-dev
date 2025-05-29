@@ -1,0 +1,14 @@
+# [TITLE]: libdbusmenu-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-dev)
+include(gtk3-dev)
+include(json-glib-dev)
+include(libdbusmenu)
+include(libdbusmenu-data)
+include(libdbusmenu-dev)
+include(libdbusmenu-lib)
+libdbusmenu-dev

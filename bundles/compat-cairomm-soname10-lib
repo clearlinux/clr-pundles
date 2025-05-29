@@ -1,0 +1,14 @@
+# [TITLE]: compat-cairomm-soname10-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-cairomm-soname10-data)
+include(compat-cairomm-soname10-license)
+include(compat-libsigc++-soname20-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+compat-cairomm-soname10-lib

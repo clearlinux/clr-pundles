@@ -1,0 +1,13 @@
+# [TITLE]: libxfce4util-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libxfce4util)
+include(libxfce4util-bin)
+include(libxfce4util-data)
+include(libxfce4util-lib)
+include(pkg-config-bin)
+libxfce4util-dev

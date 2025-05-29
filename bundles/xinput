@@ -1,0 +1,10 @@
+# [TITLE]: xinput
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xinput-bin)
+include(xinput-license)
+include(xinput-man)
+xinput

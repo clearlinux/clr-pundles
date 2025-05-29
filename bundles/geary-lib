@@ -1,0 +1,36 @@
+# [TITLE]: geary-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(compat-gcr-soname1-lib)
+include(compat-libxml2-soname2-lib)
+include(enchant-lib)
+include(folks-lib)
+include(gdk-pixbuf-lib)
+include(geary-data)
+include(geary-license)
+include(glib-lib)
+include(gmime-lib)
+include(gnome-online-accounts-lib)
+include(gsound-lib)
+include(gspell-lib)
+include(gtk3-lib)
+include(icu4c-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgee-lib)
+include(libhandy-lib)
+include(libpeas-lib)
+include(libsecret-lib)
+include(libsoup-lib)
+include(libstemmer_c-lib)
+include(libunwind-lib)
+include(pango-lib)
+include(sqlite-autoconf-lib)
+include(webkitgtk-lib)
+include(ytnef-lib)
+geary-lib

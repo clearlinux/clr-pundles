@@ -1,0 +1,40 @@
+# [TITLE]: okular-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freetype-lib)
+include(karchive-lib)
+include(kbookmarks-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(kparts-lib)
+include(kpty-lib)
+include(ktextwidgets-lib)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libkexiv2-lib)
+include(libspectre-lib)
+include(libstdc++)
+include(okular-data)
+include(okular-license)
+include(phonon-lib)
+include(poppler-lib)
+include(purpose-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6speech-lib)
+include(qt6svg-lib)
+include(threadweaver-lib)
+include(tiff-lib)
+include(zlib-lib)
+okular-lib

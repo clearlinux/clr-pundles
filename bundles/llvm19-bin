@@ -1,0 +1,8 @@
+# [TITLE]: llvm19-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(llvm19-license)
+llvm19-bin

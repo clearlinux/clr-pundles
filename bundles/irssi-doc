@@ -1,0 +1,8 @@
+# [TITLE]: irssi-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(irssi-man)
+irssi-doc

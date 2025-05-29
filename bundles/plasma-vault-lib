@@ -1,0 +1,24 @@
+# [TITLE]: plasma-vault-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgcc1)
+include(libksysguard-lib)
+include(libplasma-lib)
+include(libstdc++)
+include(networkmanager-qt-lib)
+include(plasma-activities-lib)
+include(plasma-vault-data)
+include(plasma-vault-license)
+include(qt6base-lib)
+plasma-vault-lib

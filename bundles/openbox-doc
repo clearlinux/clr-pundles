@@ -1,0 +1,8 @@
+# [TITLE]: openbox-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openbox-man)
+openbox-doc

@@ -1,0 +1,8 @@
+# [TITLE]: vim-fugitive
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vim-fugitive-data)
+vim-fugitive

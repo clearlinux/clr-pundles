@@ -1,0 +1,13 @@
+# [TITLE]: pipewire-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(libc6)
+include(libgcc1)
+include(pipewire-lib)
+pipewire-extras

@@ -1,0 +1,11 @@
+# [TITLE]: intel-hybrid-driver-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmrt-lib)
+include(intel-hybrid-driver-license)
+include(libc6)
+include(libdrm-lib)
+intel-hybrid-driver-lib

@@ -1,0 +1,14 @@
+# [TITLE]: coturn-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coturn-data)
+include(coturn-license)
+include(coturn-services)
+include(libc6)
+include(libevent-lib)
+include(openssl-lib)
+include(postgresql-lib)
+coturn-bin

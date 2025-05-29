@@ -1,0 +1,11 @@
+# [TITLE]: gperf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gperf-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+gperf-bin

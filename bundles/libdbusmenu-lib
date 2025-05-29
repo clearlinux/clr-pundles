@@ -1,0 +1,19 @@
+# [TITLE]: libdbusmenu-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(json-glib-lib)
+include(libc6)
+include(libdbusmenu-data)
+include(libdbusmenu-libexec)
+include(libdbusmenu-license)
+include(pango-lib)
+libdbusmenu-lib

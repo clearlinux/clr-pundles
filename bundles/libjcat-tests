@@ -1,0 +1,15 @@
+# [TITLE]: libjcat-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnutls-lib)
+include(gpgme-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgpg-error-lib)
+include(libjcat)
+libjcat-tests

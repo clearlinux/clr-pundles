@@ -1,0 +1,10 @@
+# [TITLE]: libqrtr-glib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libqrtr-glib-data)
+include(libqrtr-glib-lib)
+include(libqrtr-glib-license)
+libqrtr-glib

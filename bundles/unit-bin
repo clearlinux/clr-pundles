@@ -1,0 +1,13 @@
+# [TITLE]: unit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(openssl-lib)
+include(pcre2-lib)
+include(unit-license)
+include(unit-services)
+unit-bin

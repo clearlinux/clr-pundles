@@ -1,0 +1,8 @@
+# [TITLE]: nmap-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nmap-python3)
+nmap-python

@@ -1,0 +1,9 @@
+# [TITLE]: mimalloc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mimalloc-license)
+mimalloc-lib

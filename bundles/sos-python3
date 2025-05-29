@@ -1,0 +1,26 @@
+# [TITLE]: sos-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pydotplus-python3)
+include(pypi-coverage-python3)
+include(pypi-fasteners-python3)
+include(pypi-jinja2-python3)
+include(pypi-nbformat-python3)
+include(pypi-networkx-python3)
+include(pypi-pexpect-python3)
+include(pypi-psutil-python3)
+include(pypi-ptyprocess-python3)
+include(pypi-pycodestyle-python3)
+include(pypi-pydot-python3)
+include(pypi-pygments-python3)
+include(pypi-pyzmq-python3)
+include(pypi-setuptools-python3)
+include(pypi-six-python3)
+include(pypi-sphinx-python3)
+include(pypi-tqdm-python3)
+include(python3-core)
+sos-python3

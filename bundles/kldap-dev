@@ -1,0 +1,10 @@
+# [TITLE]: kldap-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kldap)
+include(kldap-data)
+include(kldap-lib)
+kldap-dev

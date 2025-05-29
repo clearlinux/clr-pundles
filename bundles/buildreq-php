@@ -1,0 +1,10 @@
+# [TITLE]: buildreq-php
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(php)
+include(php-dev)
+include(re2c)
+buildreq-php

@@ -1,0 +1,11 @@
+# [TITLE]: libatasmart-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libatasmart)
+include(libatasmart-bin)
+include(libatasmart-data)
+include(libatasmart-lib)
+libatasmart-dev

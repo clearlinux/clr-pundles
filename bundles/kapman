@@ -1,0 +1,11 @@
+# [TITLE]: kapman
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kapman-bin)
+include(kapman-data)
+include(kapman-license)
+include(kapman-locales)
+kapman

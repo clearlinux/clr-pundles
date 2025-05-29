@@ -1,0 +1,11 @@
+# [TITLE]: okular-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(okular)
+include(okular-bin)
+include(okular-data)
+include(okular-lib)
+okular-dev

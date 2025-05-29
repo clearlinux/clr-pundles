@@ -1,0 +1,11 @@
+# [TITLE]: lftp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lftp)
+include(lftp-bin)
+include(lftp-data)
+include(lftp-lib)
+lftp-dev

@@ -1,0 +1,11 @@
+# [TITLE]: bsdiff-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bsdiff)
+include(bsdiff-bin)
+include(bsdiff-lib)
+include(pkg-config-bin)
+bsdiff-dev

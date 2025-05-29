@@ -1,0 +1,10 @@
+# [TITLE]: SuiteSparse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SuiteSparse-bin)
+include(SuiteSparse-lib)
+include(SuiteSparse-license)
+SuiteSparse

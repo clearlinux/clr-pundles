@@ -1,0 +1,10 @@
+# [TITLE]: plasma-integration
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-integration-lib)
+include(plasma-integration-license)
+include(plasma-integration-locales)
+plasma-integration

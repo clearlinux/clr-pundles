@@ -1,0 +1,14 @@
+# [TITLE]: slang-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpng-lib)
+include(onig-lib)
+include(pcre-lib)
+include(slang-data)
+include(slang-license)
+include(zlib-lib)
+slang-lib

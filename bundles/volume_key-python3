@@ -1,0 +1,12 @@
+# [TITLE]: volume_key-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(nss-lib)
+include(python3-core)
+include(volume_key-lib)
+volume_key-python3

@@ -1,0 +1,20 @@
+# [TITLE]: ghostscript-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-lib)
+include(filesystem)
+include(fontconfig-lib)
+include(ghostscript-data)
+include(ghostscript-lib)
+include(ghostscript-license)
+include(libX11-lib)
+include(libXt-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(openjpeg-lib)
+include(tiff-lib)
+ghostscript-bin

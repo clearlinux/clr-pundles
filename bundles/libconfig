@@ -1,0 +1,10 @@
+# [TITLE]: libconfig
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libconfig-info)
+include(libconfig-lib)
+include(libconfig-license)
+libconfig

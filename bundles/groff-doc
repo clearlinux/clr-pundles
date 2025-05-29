@@ -1,0 +1,9 @@
+# [TITLE]: groff-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(groff-info)
+include(groff-man)
+groff-doc

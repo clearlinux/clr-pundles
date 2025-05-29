@@ -9,7 +9,7 @@ include(libsndfile)
 include(libvorbis)
 include(pulseaudio)
 include(qt-basic)
-speex
+include(speex)
 include(sbc)
 include(openal-soft)
 # Middleware/utility
@@ -24,17 +24,17 @@ include(openblas)
 include(orc)
 include(pango)
 include(qtbase)
-qtdeclarative
-qtwayland
-qtx11extras
+include(qtdeclarative)
+include(qtwayland)
+include(qtx11extras)
 include(SDL2)
 # Video
 include(Vulkan-Loader)
 include(libtheora)
-libvdpau
+include(libvdpau)
 include(libvpx)
 include(libwebp)
-rtmpdump
+include(rtmpdump)
 include(v4l-utils)
 include(libpsl-lib)
 include(libunwind-lib)

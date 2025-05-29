@@ -1,0 +1,9 @@
+# [TITLE]: QR-Code-generator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QR-Code-generator-lib)
+include(QR-Code-generator-license)
+QR-Code-generator

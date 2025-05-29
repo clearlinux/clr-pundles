@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtconnectivity-dev
+include(qtconnectivity-dev)
 include(qt-core)
 include(libstdcpp)
 include(libX11client)

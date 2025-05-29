@@ -14,7 +14,7 @@ include(Sphinx)
 include(glibc-bin)
 
 #
-linecache2
+include(linecache2)
 include(pypi-py)
 include(pypi-pytest)
 include(pypi-pytest_asyncio)

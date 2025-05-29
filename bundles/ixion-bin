@@ -1,0 +1,13 @@
+# [TITLE]: ixion-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost)
+include(ixion-lib)
+include(ixion-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+ixion-bin

@@ -1,0 +1,13 @@
+# [TITLE]: libskk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libskk-bin)
+include(libskk-data)
+include(libskk-lib)
+include(libskk-license)
+include(libskk-locales)
+include(libskk-man)
+libskk

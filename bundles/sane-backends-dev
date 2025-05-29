@@ -1,0 +1,12 @@
+# [TITLE]: sane-backends-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(sane-backends)
+include(sane-backends-bin)
+include(sane-backends-data)
+include(sane-backends-lib)
+sane-backends-dev

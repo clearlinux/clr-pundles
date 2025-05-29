@@ -1,0 +1,8 @@
+# [TITLE]: QAT-ZSTD-Plugin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QAT-ZSTD-Plugin-license)
+QAT-ZSTD-Plugin

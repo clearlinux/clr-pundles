@@ -1,0 +1,16 @@
+# [TITLE]: knack-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(pypi-argcomplete-python3)
+include(pypi-flake8-python3)
+include(pypi-jmespath-python3)
+include(pypi-packaging-python3)
+include(pypi-pygments-python3)
+include(pypi-pylint-python3)
+include(pypi-tabulate-python3)
+include(python3-core)
+knack-python3

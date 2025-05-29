@@ -1,0 +1,12 @@
+# [TITLE]: hamlib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hamlib-lib)
+include(hamlib-license)
+include(libc6)
+include(libusb-lib)
+include(readline-lib)
+hamlib-bin

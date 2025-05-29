@@ -1,0 +1,12 @@
+# [TITLE]: buildreq-meson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmake)
+include(libabigail)
+include(meson)
+include(ninja)
+include(python3)
+buildreq-meson

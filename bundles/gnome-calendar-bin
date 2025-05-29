@@ -1,0 +1,20 @@
+# [TITLE]: gnome-calendar-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-lib)
+include(geoclue-lib)
+include(glib-lib)
+include(gnome-calendar-data)
+include(gnome-calendar-license)
+include(graphene-lib)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(libgweather-lib)
+include(libical-lib)
+include(libsoup-lib)
+gnome-calendar-bin

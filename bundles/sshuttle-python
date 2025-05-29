@@ -1,0 +1,8 @@
+# [TITLE]: sshuttle-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sshuttle-python3)
+sshuttle-python

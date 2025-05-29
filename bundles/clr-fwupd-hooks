@@ -1,0 +1,8 @@
+# [TITLE]: clr-fwupd-hooks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+clr-fwupd-hooks

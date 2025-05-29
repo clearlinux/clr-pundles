@@ -1,0 +1,11 @@
+# [TITLE]: vkd3d-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(vkd3d-bin)
+include(vkd3d-dev)
+include(vkd3d-lib32)
+vkd3d-dev32

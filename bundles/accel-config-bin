@@ -1,0 +1,11 @@
+# [TITLE]: accel-config-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(accel-config-lib)
+include(accel-config-license)
+include(json-c-lib)
+include(libc6)
+accel-config-bin

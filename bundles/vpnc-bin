@@ -1,0 +1,14 @@
+# [TITLE]: vpnc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(gnutls-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(libgpg-error-lib)
+include(vpnc-license)
+vpnc-bin

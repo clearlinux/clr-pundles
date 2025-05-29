@@ -1,0 +1,15 @@
+# [TITLE]: fwupd-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fwupd-config)
+include(fwupd-lib)
+include(fwupd-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+include(xmlb-lib)
+fwupd-libexec

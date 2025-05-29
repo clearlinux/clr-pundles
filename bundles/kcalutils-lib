@@ -1,0 +1,21 @@
+# [TITLE]: kcalutils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcalendarcore-lib)
+include(kcalutils-data)
+include(kcalutils-license)
+include(kcodecs-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kidentitymanagement-lib)
+include(ktexttemplate-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+kcalutils-lib

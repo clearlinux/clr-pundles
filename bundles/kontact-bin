@@ -1,0 +1,20 @@
+# [TITLE]: kontact-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kontact-data)
+include(kontact-lib)
+include(kontact-license)
+include(kontactinterface-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kontact-bin

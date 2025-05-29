@@ -1,0 +1,12 @@
+# [TITLE]: gst-python-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gst-python-license)
+include(gstreamer-lib)
+include(libc6)
+include(python3-lib)
+gst-python-lib

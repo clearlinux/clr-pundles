@@ -1,0 +1,11 @@
+# [TITLE]: qca
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qca-bin)
+include(qca-lib)
+include(qca-license)
+include(qca-man)
+qca

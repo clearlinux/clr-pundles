@@ -1,0 +1,10 @@
+# [TITLE]: efibootmgr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efibootmgr-bin)
+include(efibootmgr-license)
+include(efibootmgr-man)
+efibootmgr

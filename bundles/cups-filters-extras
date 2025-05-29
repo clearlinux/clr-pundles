@@ -1,0 +1,12 @@
+# [TITLE]: cups-filters-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-filters-lib)
+include(cups-lib)
+include(glib-lib)
+include(libc6)
+include(openldap-lib)
+cups-filters-extras

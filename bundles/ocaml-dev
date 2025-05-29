@@ -1,0 +1,10 @@
+# [TITLE]: ocaml-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ocaml)
+include(ocaml-bin)
+include(ocaml-lib)
+ocaml-dev

@@ -1,0 +1,12 @@
+# [TITLE]: kdsoap-ws-discovery-client-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdsoap-lib)
+include(kdsoap-ws-discovery-client-license)
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+kdsoap-ws-discovery-client-lib

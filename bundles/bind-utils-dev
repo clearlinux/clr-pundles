@@ -1,0 +1,10 @@
+# [TITLE]: bind-utils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bind-utils)
+include(bind-utils-bin)
+include(bind-utils-lib)
+bind-utils-dev

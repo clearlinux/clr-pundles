@@ -1,0 +1,8 @@
+# [TITLE]: qtscxml-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtscxml-dev)
+qtscxml-examples

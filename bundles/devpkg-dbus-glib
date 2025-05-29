@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-dbus-glib-dev
+include(dbus-glib-dev)
 include(libglib)

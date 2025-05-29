@@ -1,0 +1,12 @@
+# [TITLE]: lksctp-tools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lksctp-tools)
+include(lksctp-tools-bin)
+include(lksctp-tools-data)
+include(lksctp-tools-lib)
+include(pkg-config-bin)
+lksctp-tools-dev

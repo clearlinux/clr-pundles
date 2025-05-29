@@ -1,0 +1,11 @@
+# [TITLE]: open-lldp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(open-lldp)
+include(open-lldp-bin)
+include(open-lldp-lib)
+include(pkg-config-bin)
+open-lldp-dev

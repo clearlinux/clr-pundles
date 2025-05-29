@@ -1,0 +1,13 @@
+# [TITLE]: shaderc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Tools-lib)
+include(glslang-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(shaderc-license)
+shaderc-bin

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-mediasdk-dev
+include(mediasdk-dev)
 include(libstdcpp)
 include(libX11client)
 include(lib-opengl)

@@ -1,0 +1,13 @@
+# [TITLE]: ndctl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmod-lib)
+include(libc6)
+include(ndctl-data)
+include(ndctl-license)
+include(systemd-lib)
+include(util-linux-lib)
+ndctl-lib

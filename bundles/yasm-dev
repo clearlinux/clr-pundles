@@ -1,0 +1,9 @@
+# [TITLE]: yasm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yasm)
+include(yasm-bin)
+yasm-dev

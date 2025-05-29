@@ -1,0 +1,12 @@
+# [TITLE]: lshw-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(lshw-data)
+include(lshw-license)
+lshw-bin

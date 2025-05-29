@@ -1,0 +1,31 @@
+# [TITLE]: geeqie-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibRaw-lib)
+include(cairo-lib)
+include(clutter-gtk-lib)
+include(clutter-lib)
+include(exiv2-lib)
+include(gdk-pixbuf-lib)
+include(geeqie-data)
+include(geeqie-license)
+include(glib-lib)
+include(gspell-lib)
+include(gtk3-lib)
+include(lcms2-lib)
+include(libarchive-lib)
+include(libc6)
+include(libchamplain-lib)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(libunwind-lib)
+include(libwebp-lib)
+include(openjpeg-lib)
+include(pango-lib)
+include(poppler-lib)
+include(tiff-lib)
+geeqie-bin

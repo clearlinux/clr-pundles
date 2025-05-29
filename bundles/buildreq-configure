@@ -1,0 +1,11 @@
+# [TITLE]: buildreq-configure
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autoconf)
+include(automake)
+include(file)
+include(libabigail)
+buildreq-configure

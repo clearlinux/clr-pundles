@@ -1,0 +1,11 @@
+# [TITLE]: gtksourceview4
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtksourceview4-data)
+include(gtksourceview4-lib)
+include(gtksourceview4-license)
+include(gtksourceview4-locales)
+gtksourceview4

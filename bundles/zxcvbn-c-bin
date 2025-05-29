@@ -1,0 +1,12 @@
+# [TITLE]: zxcvbn-c-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(zxcvbn-c-data)
+include(zxcvbn-c-license)
+zxcvbn-c-bin

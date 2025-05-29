@@ -1,0 +1,9 @@
+# [TITLE]: scowl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(scowl-data)
+include(scowl-license)
+scowl

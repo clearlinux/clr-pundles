@@ -1,0 +1,8 @@
+# [TITLE]: fontforge-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontforge-man)
+fontforge-doc

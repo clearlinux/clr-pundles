@@ -1,0 +1,15 @@
+# [TITLE]: micro-config-drive-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(json-glib-lib)
+include(libc6)
+include(micro-config-drive-license)
+include(micro-config-drive-services)
+include(parted-lib)
+include(util-linux-lib)
+include(yaml-lib)
+micro-config-drive-bin

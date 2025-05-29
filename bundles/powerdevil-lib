@@ -1,0 +1,34 @@
+# [TITLE]: powerdevil-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kidletime-lib)
+include(kirigami-lib)
+include(knotifications-lib)
+include(krunner-lib)
+include(kservice-lib)
+include(kxmlgui-lib)
+include(libX11-lib)
+include(libc6)
+include(libkscreen-lib)
+include(libstdc++)
+include(plasma-activities-lib)
+include(plasma-workspace-lib)
+include(powerdevil-data)
+include(powerdevil-license)
+include(qcoro6-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6wayland-lib)
+include(solid-lib)
+include(systemd-lib)
+include(wayland-lib)
+powerdevil-lib

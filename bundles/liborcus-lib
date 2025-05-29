@@ -1,0 +1,13 @@
+# [TITLE]: liborcus-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost)
+include(libc6)
+include(libgcc1)
+include(liborcus-license)
+include(libstdc++)
+include(zlib-lib)
+liborcus-lib

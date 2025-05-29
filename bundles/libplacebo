@@ -1,0 +1,9 @@
+# [TITLE]: libplacebo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libplacebo-lib)
+include(libplacebo-license)
+libplacebo

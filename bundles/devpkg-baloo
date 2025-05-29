@@ -8,7 +8,7 @@
 include(devpkg-base)
 include(devpkg-qtbase)
 
-baloo-dev
+include(baloo-dev)
 include(desktop-kde-libs)
 include(qt-core)
 include(libstdcpp)

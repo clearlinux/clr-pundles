@@ -1,0 +1,19 @@
+# [TITLE]: kiconthemes-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(breeze-icons-lib)
+include(karchive-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(ki18n-lib)
+include(kiconthemes-data)
+include(kiconthemes-license)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kiconthemes-lib

@@ -1,0 +1,11 @@
+# [TITLE]: gtk-doc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk-doc)
+include(gtk-doc-bin)
+include(gtk-doc-data)
+include(pkg-config-bin)
+gtk-doc-dev

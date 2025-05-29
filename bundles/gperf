@@ -1,0 +1,11 @@
+# [TITLE]: gperf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gperf-bin)
+include(gperf-info)
+include(gperf-license)
+include(gperf-man)
+gperf

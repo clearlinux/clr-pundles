@@ -1,0 +1,12 @@
+# [TITLE]: dtc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dtc-lib)
+include(dtc-license)
+include(filesystem)
+include(libc6)
+include(yaml-lib)
+dtc-bin

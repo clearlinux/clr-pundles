@@ -1,0 +1,20 @@
+# [TITLE]: luanti-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(curl-lib)
+include(gmp-lib)
+include(libc6)
+include(libgcc1)
+include(libspatialindex-lib)
+include(libstdc++)
+include(ncurses-lib)
+include(openssl-lib)
+include(postgresql-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+include(zstd-lib)
+luanti-extras

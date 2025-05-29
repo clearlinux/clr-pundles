@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-paho.mqtt.c-dev
+include(paho.mqtt.c-dev)

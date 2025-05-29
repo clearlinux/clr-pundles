@@ -1,0 +1,12 @@
+# [TITLE]: sane-airscan
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sane-airscan-bin)
+include(sane-airscan-data)
+include(sane-airscan-lib)
+include(sane-airscan-license)
+include(sane-airscan-man)
+sane-airscan

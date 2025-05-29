@@ -1,0 +1,13 @@
+# [TITLE]: goocanvas
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(goocanvas-data)
+include(goocanvas-lib)
+include(goocanvas-license)
+include(goocanvas-locales)
+include(goocanvas-python)
+include(goocanvas-python3)
+goocanvas

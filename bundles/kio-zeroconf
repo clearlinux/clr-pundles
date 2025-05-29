@@ -1,0 +1,11 @@
+# [TITLE]: kio-zeroconf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kio-zeroconf-data)
+include(kio-zeroconf-lib)
+include(kio-zeroconf-license)
+include(kio-zeroconf-locales)
+kio-zeroconf

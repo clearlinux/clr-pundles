@@ -1,0 +1,10 @@
+# [TITLE]: plasma5support-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma5support)
+include(plasma5support-data)
+include(plasma5support-lib)
+plasma5support-dev

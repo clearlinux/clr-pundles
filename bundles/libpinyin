@@ -1,0 +1,11 @@
+# [TITLE]: libpinyin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpinyin-bin)
+include(libpinyin-lib)
+include(libpinyin-license)
+include(libpinyin-man)
+libpinyin

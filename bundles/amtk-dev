@@ -1,0 +1,12 @@
+# [TITLE]: amtk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(amtk)
+include(amtk-data)
+include(amtk-lib)
+include(glib-dev)
+include(gtk3-dev)
+amtk-dev

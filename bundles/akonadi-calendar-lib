@@ -1,0 +1,34 @@
+# [TITLE]: akonadi-calendar-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-calendar-data)
+include(akonadi-calendar-license)
+include(akonadi-contacts-lib)
+include(akonadi-lib)
+include(akonadi-mime-lib)
+include(gpgme-extras)
+include(gpgme-lib)
+include(kcalendarcore-lib)
+include(kcalutils-lib)
+include(kcodecs-lib)
+include(kconfig-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kidentitymanagement-lib)
+include(kio-lib)
+include(kitemmodels-lib)
+include(kmailtransport-lib)
+include(kmime-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libkleo-lib)
+include(libstdc++)
+include(messagelib-lib)
+include(qt6base-lib)
+akonadi-calendar-lib

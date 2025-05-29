@@ -1,0 +1,13 @@
+# [TITLE]: desktop-file-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(desktop-file-utils-config)
+include(desktop-file-utils-data)
+include(desktop-file-utils-license)
+include(desktop-file-utils-services)
+include(glib-lib)
+include(libc6)
+desktop-file-utils-bin

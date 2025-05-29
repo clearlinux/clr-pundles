@@ -1,0 +1,10 @@
+# [TITLE]: qtgamepad-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtgamepad)
+include(qtgamepad-lib)
+qtgamepad-dev

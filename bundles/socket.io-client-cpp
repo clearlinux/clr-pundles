@@ -1,0 +1,9 @@
+# [TITLE]: socket.io-client-cpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(socket.io-client-cpp-lib)
+include(socket.io-client-cpp-license)
+socket.io-client-cpp

@@ -1,0 +1,18 @@
+# [TITLE]: llvm19
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(llvm19-bin)
+include(llvm19-dev)
+include(llvm19-lib)
+include(llvm19-license)
+include(zlib-lib)
+include(zstd-lib)
+llvm19

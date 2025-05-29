@@ -1,0 +1,14 @@
+# [TITLE]: ansible-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ansible-core)
+include(ansible-core-python3)
+include(coreutils-bin)
+include(filesystem)
+include(pypi-paramiko-python3)
+include(pypi-scp-python3)
+include(python3-core)
+ansible-python3

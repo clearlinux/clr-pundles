@@ -1,0 +1,12 @@
+# [TITLE]: xdotool-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libxkbcommon-lib)
+include(xdotool-license)
+xdotool-lib

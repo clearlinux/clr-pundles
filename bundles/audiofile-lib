@@ -1,0 +1,12 @@
+# [TITLE]: audiofile-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audiofile-license)
+include(flac-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+audiofile-lib

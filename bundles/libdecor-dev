@@ -1,0 +1,11 @@
+# [TITLE]: libdecor-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdecor)
+include(libdecor-lib)
+include(pkg-config-bin)
+include(wayland-dev)
+libdecor-dev

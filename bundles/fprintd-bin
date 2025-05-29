@@ -1,0 +1,14 @@
+# [TITLE]: fprintd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fprintd-data)
+include(fprintd-libexec)
+include(fprintd-license)
+include(fprintd-services)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+fprintd-bin

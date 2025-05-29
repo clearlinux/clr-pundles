@@ -1,0 +1,15 @@
+# [TITLE]: milou-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(krunner-lib)
+include(libc6)
+include(libstdc++)
+include(milou-data)
+include(milou-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+milou-lib

@@ -1,0 +1,12 @@
+# [TITLE]: ssw-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk3-dev)
+include(pkg-config-bin)
+include(ssw)
+include(ssw-lib)
+ssw-dev

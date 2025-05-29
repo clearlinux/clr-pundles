@@ -1,0 +1,15 @@
+# [TITLE]: lldpd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbsd-lib)
+include(libc6)
+include(libxml2-lib)
+include(lldpd-config)
+include(lldpd-data)
+include(lldpd-lib)
+include(lldpd-license)
+include(lldpd-services)
+lldpd-bin

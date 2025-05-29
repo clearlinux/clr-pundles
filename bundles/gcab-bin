@@ -1,0 +1,13 @@
+# [TITLE]: gcab-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcab-data)
+include(gcab-lib)
+include(gcab-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+gcab-bin

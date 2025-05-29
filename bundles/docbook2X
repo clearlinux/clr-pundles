@@ -1,0 +1,12 @@
+# [TITLE]: docbook2X
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(docbook2X-bin)
+include(docbook2X-data)
+include(docbook2X-info)
+include(docbook2X-license)
+include(docbook2X-man)
+docbook2X

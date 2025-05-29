@@ -1,0 +1,11 @@
+# [TITLE]: libdmx-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libdmx)
+include(libdmx-lib)
+include(xorgproto-dev)
+libdmx-dev

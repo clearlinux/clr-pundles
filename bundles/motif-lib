@@ -1,0 +1,17 @@
+# [TITLE]: motif-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-lib)
+include(freetype-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libXt-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(motif-data)
+include(motif-license)
+motif-lib

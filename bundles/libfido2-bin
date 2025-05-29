@@ -1,0 +1,14 @@
+# [TITLE]: libfido2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcbor-lib)
+include(libfido2-config)
+include(libfido2-lib)
+include(libfido2-license)
+include(openssl-lib)
+include(zlib-lib)
+libfido2-bin

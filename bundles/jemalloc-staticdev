@@ -1,0 +1,8 @@
+# [TITLE]: jemalloc-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jemalloc-dev)
+jemalloc-staticdev

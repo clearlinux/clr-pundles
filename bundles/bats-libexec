@@ -1,0 +1,9 @@
+# [TITLE]: bats-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bats-license)
+include(coreutils-bin)
+bats-libexec

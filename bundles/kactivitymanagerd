@@ -1,0 +1,20 @@
+# [TITLE]: kactivitymanagerd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kactivitymanagerd-data)
+include(kactivitymanagerd-lib)
+include(kactivitymanagerd-license)
+include(kactivitymanagerd-locales)
+include(kactivitymanagerd-services)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kactivitymanagerd

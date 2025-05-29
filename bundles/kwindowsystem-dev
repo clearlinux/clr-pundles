@@ -1,0 +1,12 @@
+# [TITLE]: kwindowsystem-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwindowsystem)
+include(kwindowsystem-data)
+include(kwindowsystem-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+kwindowsystem-dev

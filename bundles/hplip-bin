@@ -1,0 +1,11 @@
+# [TITLE]: hplip-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hplip-config)
+include(hplip-data)
+include(hplip-license)
+include(hplip-services)
+hplip-bin

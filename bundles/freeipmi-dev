@@ -1,0 +1,11 @@
+# [TITLE]: freeipmi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freeipmi)
+include(freeipmi-bin)
+include(freeipmi-lib)
+include(pkg-config-bin)
+freeipmi-dev

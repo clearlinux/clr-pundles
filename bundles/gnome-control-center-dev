@@ -1,0 +1,11 @@
+# [TITLE]: gnome-control-center-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-control-center)
+include(gnome-control-center-bin)
+include(gnome-control-center-data)
+include(pkg-config-bin)
+gnome-control-center-dev

@@ -1,0 +1,12 @@
+# [TITLE]: librist-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cJSON-dev)
+include(librist)
+include(librist-bin)
+include(librist-lib)
+include(pkg-config-bin)
+librist-dev

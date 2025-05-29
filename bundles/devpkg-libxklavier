@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-libxklavier-dev
+include(libxklavier-dev)
 include(libX11client)
 include(libglib)

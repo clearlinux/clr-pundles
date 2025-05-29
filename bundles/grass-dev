@@ -1,0 +1,25 @@
+# [TITLE]: grass-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fftw-lib)
+include(fontconfig-lib)
+include(gcc-libs-math)
+include(gdal-lib)
+include(glu-lib)
+include(grass)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libpng-lib)
+include(libstdc++)
+include(pkg-config-bin)
+include(proj-lib)
+include(tiff-lib)
+include(zlib-lib)
+include(zstd-lib)
+grass-dev

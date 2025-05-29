@@ -1,0 +1,9 @@
+# [TITLE]: vim-go
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vim-go-data)
+include(vim-go-license)
+vim-go

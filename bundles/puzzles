@@ -1,0 +1,10 @@
+# [TITLE]: puzzles
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(puzzles-data)
+include(puzzles-libexec)
+include(puzzles-license)
+puzzles

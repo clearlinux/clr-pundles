@@ -1,0 +1,12 @@
+# [TITLE]: dejagnu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dejagnu-bin)
+include(dejagnu-data)
+include(dejagnu-info)
+include(dejagnu-license)
+include(dejagnu-man)
+dejagnu

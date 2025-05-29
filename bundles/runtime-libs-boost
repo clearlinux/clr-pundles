@@ -6,5 +6,5 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libstdcpp)
 
-boost
+include(boost)
 include(libstdc++)

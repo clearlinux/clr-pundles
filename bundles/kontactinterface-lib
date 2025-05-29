@@ -1,0 +1,17 @@
+# [TITLE]: kontactinterface-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kio-lib)
+include(kontactinterface-data)
+include(kontactinterface-license)
+include(kparts-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kontactinterface-lib

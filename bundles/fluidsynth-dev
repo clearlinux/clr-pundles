@@ -1,0 +1,19 @@
+# [TITLE]: fluidsynth-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-dev)
+include(dbus-dev)
+include(fluidsynth)
+include(fluidsynth-bin)
+include(fluidsynth-lib)
+include(glib-dev)
+include(libsndfile-dev)
+include(pipewire-dev)
+include(pkg-config-bin)
+include(pulseaudio-dev)
+include(readline-dev)
+include(systemd-dev)
+fluidsynth-dev

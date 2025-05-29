@@ -1,0 +1,10 @@
+# [TITLE]: kidletime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kidletime-data)
+include(kidletime-lib)
+include(kidletime-license)
+kidletime

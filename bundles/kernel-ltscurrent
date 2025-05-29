@@ -4,18 +4,18 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-console-autostart
+include(console-autostart)
 include(bootloader)
 include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
 include(os-core-plus)
-init-rdahead-extras
-irqbalance
-mcelog
-vbox-integration
+include(init-rdahead-extras)
+include(irqbalance)
+include(mcelog)
+include(vbox-integration)
 
 # kernel package
-linux-ltscurrent
+include(linux-ltscurrent)
 include(libnl)
 include(numactl)

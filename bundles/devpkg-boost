@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-boost-dev
+include(boost-dev)
 include(icu4c-lib)

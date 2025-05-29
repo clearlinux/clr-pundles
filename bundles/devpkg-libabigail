@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libabigail-dev
+include(libabigail-dev)
 include(libstdcpp)

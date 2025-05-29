@@ -1,0 +1,12 @@
+# [TITLE]: qt6grpc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6grpc)
+include(qt6grpc-dev)
+include(qt6grpc-lib)
+qt6grpc-dev

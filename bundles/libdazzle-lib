@@ -1,0 +1,16 @@
+# [TITLE]: libdazzle-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libdazzle-data)
+include(libdazzle-license)
+include(libgcc1)
+include(pango-lib)
+libdazzle-lib

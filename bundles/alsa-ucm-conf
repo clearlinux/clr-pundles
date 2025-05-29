@@ -1,0 +1,9 @@
+# [TITLE]: alsa-ucm-conf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-ucm-conf-data)
+include(alsa-ucm-conf-license)
+alsa-ucm-conf

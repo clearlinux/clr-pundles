@@ -1,0 +1,9 @@
+# [TITLE]: qtscxml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtscxml-lib)
+include(qtscxml-license)
+qtscxml

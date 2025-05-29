@@ -1,0 +1,10 @@
+# [TITLE]: libappindicator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libappindicator-data)
+include(libappindicator-lib)
+include(libappindicator-license)
+libappindicator

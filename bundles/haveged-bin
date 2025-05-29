@@ -1,0 +1,11 @@
+# [TITLE]: haveged-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(haveged-lib)
+include(haveged-license)
+include(haveged-services)
+include(libc6)
+haveged-bin

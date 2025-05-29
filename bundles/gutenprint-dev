@@ -1,0 +1,14 @@
+# [TITLE]: gutenprint-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk+-dev)
+include(gutenprint)
+include(gutenprint-bin)
+include(gutenprint-data)
+include(gutenprint-dev)
+include(gutenprint-lib)
+include(pkg-config-bin)
+gutenprint-dev

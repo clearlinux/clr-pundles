@@ -13,10 +13,10 @@ include(sudo)
 
 # normal packags
 include(pypi-docker)
-nagios-plugins
-nrpe
-sos
-udisks2
+include(nagios-plugins)
+include(nrpe)
+include(sos)
+include(udisks2)
 include(pypi-pynacl)
 include(libxml2)
 include(pypi-requests)

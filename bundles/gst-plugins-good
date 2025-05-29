@@ -1,0 +1,11 @@
+# [TITLE]: gst-plugins-good
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gst-plugins-good-data)
+include(gst-plugins-good-lib)
+include(gst-plugins-good-license)
+include(gst-plugins-good-locales)
+gst-plugins-good

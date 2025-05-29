@@ -1,0 +1,8 @@
+# [TITLE]: pcsc-lite-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcsc-lite-dev)
+pcsc-lite-staticdev

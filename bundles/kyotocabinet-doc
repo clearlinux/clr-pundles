@@ -1,0 +1,8 @@
+# [TITLE]: kyotocabinet-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kyotocabinet-man)
+kyotocabinet-doc

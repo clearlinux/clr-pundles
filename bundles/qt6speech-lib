@@ -1,0 +1,12 @@
+# [TITLE]: qt6speech-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6multimedia-lib)
+include(qt6speech-license)
+qt6speech-lib

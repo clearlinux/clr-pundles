@@ -1,0 +1,11 @@
+# [TITLE]: hamlib-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hamlib)
+include(hamlib-lib)
+include(libc6)
+include(perl-bin)
+hamlib-perl

@@ -1,0 +1,8 @@
+# [TITLE]: dmap2gcode-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+dmap2gcode-bin

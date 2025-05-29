@@ -1,0 +1,11 @@
+# [TITLE]: klickety
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(klickety-bin)
+include(klickety-data)
+include(klickety-license)
+include(klickety-locales)
+klickety

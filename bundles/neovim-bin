@@ -1,0 +1,18 @@
+# [TITLE]: neovim-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(libc6)
+include(libgcc1)
+include(libuv-lib)
+include(lpeg)
+include(luv-lib)
+include(neovim-data)
+include(neovim-license)
+include(tree-sitter-lib)
+include(unibilium-lib)
+include(utf8proc-lib)
+neovim-bin

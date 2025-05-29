@@ -1,0 +1,9 @@
+# [TITLE]: libnetfilter_acct
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnetfilter_acct-lib)
+include(libnetfilter_acct-license)
+libnetfilter_acct

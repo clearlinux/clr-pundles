@@ -1,0 +1,8 @@
+# [TITLE]: collectd-perl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(collectd)
+collectd-perl

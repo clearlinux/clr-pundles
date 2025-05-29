@@ -5,4 +5,4 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 
-kubernetes-migration-1.18
+include(kubernetes-migration-1.18)

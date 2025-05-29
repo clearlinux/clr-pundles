@@ -1,0 +1,11 @@
+# [TITLE]: kdav
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdav-data)
+include(kdav-lib)
+include(kdav-license)
+include(kdav-locales)
+kdav

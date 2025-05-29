@@ -1,0 +1,9 @@
+# [TITLE]: source-highlight-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(source-highlight-info)
+include(source-highlight-man)
+source-highlight-doc

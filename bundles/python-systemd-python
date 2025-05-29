@@ -1,0 +1,8 @@
+# [TITLE]: python-systemd-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-systemd-python3)
+python-systemd-python

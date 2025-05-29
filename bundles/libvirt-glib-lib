@@ -1,0 +1,13 @@
+# [TITLE]: libvirt-glib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(libc6)
+include(libvirt-glib-data)
+include(libvirt-glib-license)
+include(libvirt-lib)
+libvirt-glib-lib

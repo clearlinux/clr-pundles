@@ -1,0 +1,14 @@
+# [TITLE]: libosinfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-hardware-files)
+include(libosinfo-bin)
+include(libosinfo-data)
+include(libosinfo-lib)
+include(libosinfo-license)
+include(libosinfo-locales)
+include(libosinfo-man)
+libosinfo

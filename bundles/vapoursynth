@@ -1,0 +1,12 @@
+# [TITLE]: vapoursynth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vapoursynth-bin)
+include(vapoursynth-lib)
+include(vapoursynth-license)
+include(vapoursynth-python)
+include(vapoursynth-python3)
+vapoursynth

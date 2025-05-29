@@ -1,0 +1,8 @@
+# [TITLE]: rebootmgr-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+rebootmgr-services

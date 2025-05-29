@@ -1,0 +1,9 @@
+# [TITLE]: xfce4-screenshooter-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(xfce4-screenshooter-license)
+xfce4-screenshooter-libexec

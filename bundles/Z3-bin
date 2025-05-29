@@ -1,0 +1,11 @@
+# [TITLE]: Z3-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Z3-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+Z3-bin

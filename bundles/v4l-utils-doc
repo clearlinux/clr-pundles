@@ -1,0 +1,8 @@
+# [TITLE]: v4l-utils-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(v4l-utils-man)
+v4l-utils-doc

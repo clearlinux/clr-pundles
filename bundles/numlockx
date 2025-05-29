@@ -1,0 +1,9 @@
+# [TITLE]: numlockx
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(numlockx-bin)
+include(numlockx-license)
+numlockx

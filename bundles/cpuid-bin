@@ -1,0 +1,10 @@
+# [TITLE]: cpuid-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cpuid-license)
+include(libc6)
+include(perl-bin)
+cpuid-bin

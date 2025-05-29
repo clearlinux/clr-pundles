@@ -1,0 +1,21 @@
+# [TITLE]: evolution-ews-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(evolution-data-server-lib)
+include(evolution-ews-data)
+include(evolution-ews-license)
+include(evolution-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(libical-lib)
+include(libmspack-lib)
+include(libsoup-lib)
+include(pango-lib)
+evolution-ews-lib

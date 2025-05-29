@@ -1,0 +1,12 @@
+# [TITLE]: v4l-utils-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-libc32)
+include(libjpeg-turbo-lib32)
+include(systemd-lib32)
+include(v4l-utils-data)
+include(v4l-utils-license)
+v4l-utils-lib32

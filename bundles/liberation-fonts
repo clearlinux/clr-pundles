@@ -1,0 +1,9 @@
+# [TITLE]: liberation-fonts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liberation-fonts-data)
+include(liberation-fonts-license)
+liberation-fonts

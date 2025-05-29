@@ -1,0 +1,15 @@
+# [TITLE]: garcon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(garcon)
+include(garcon-data)
+include(garcon-dev)
+include(garcon-lib)
+include(glib-dev)
+include(gtk3-dev)
+include(libxfce4ui-dev)
+include(pkg-config-bin)
+garcon-dev

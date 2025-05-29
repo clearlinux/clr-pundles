@@ -1,0 +1,17 @@
+# [TITLE]: kio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kio)
+include(kio-bin)
+include(kio-data)
+include(kio-lib)
+include(kservice-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kio-dev

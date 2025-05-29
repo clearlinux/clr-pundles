@@ -1,0 +1,8 @@
+# [TITLE]: at-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-man)
+at-doc

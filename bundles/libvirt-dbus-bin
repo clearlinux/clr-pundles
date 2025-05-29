@@ -1,0 +1,15 @@
+# [TITLE]: libvirt-dbus-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libvirt-dbus-data)
+include(libvirt-dbus-license)
+include(libvirt-dbus-services)
+include(libvirt-glib-lib)
+include(libvirt-lib)
+libvirt-dbus-bin

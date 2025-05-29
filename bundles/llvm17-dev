@@ -1,0 +1,10 @@
+# [TITLE]: llvm17-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(llvm17)
+include(llvm17-bin)
+include(llvm17-lib)
+llvm17-dev

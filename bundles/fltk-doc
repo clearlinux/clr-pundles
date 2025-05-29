@@ -1,0 +1,8 @@
+# [TITLE]: fltk-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fltk-man)
+fltk-doc

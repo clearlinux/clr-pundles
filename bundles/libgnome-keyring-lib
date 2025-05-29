@@ -1,0 +1,13 @@
+# [TITLE]: libgnome-keyring-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(glib-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(libgnome-keyring-data)
+include(libgnome-keyring-license)
+libgnome-keyring-lib

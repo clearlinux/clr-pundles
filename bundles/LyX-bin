@@ -1,0 +1,20 @@
+# [TITLE]: LyX-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LyX-data)
+include(LyX-license)
+include(aspell-lib)
+include(file-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtsvg-lib)
+include(qtx11extras-lib)
+include(zlib-lib)
+LyX-bin

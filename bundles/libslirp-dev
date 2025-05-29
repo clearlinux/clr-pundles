@@ -1,0 +1,11 @@
+# [TITLE]: libslirp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libslirp)
+include(libslirp-lib)
+include(pkg-config-bin)
+libslirp-dev

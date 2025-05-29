@@ -1,0 +1,12 @@
+# [TITLE]: python-slip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-decorator-python3)
+include(pypi-six-python3)
+include(python-slip-license)
+include(python-slip-python)
+include(python-slip-python3)
+python-slip

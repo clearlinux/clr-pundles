@@ -1,0 +1,9 @@
+# [TITLE]: adwaita-fonts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(adwaita-fonts-data)
+include(adwaita-fonts-license)
+adwaita-fonts

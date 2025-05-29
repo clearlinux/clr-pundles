@@ -1,0 +1,8 @@
+# [TITLE]: dos2unix-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dos2unix-man)
+dos2unix-doc

@@ -1,0 +1,11 @@
+# [TITLE]: nfs-utils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nfs-utils-libexec)
+include(nfs-utils-license)
+include(openldap-lib)
+nfs-utils-lib

@@ -1,0 +1,8 @@
+# [TITLE]: falcosecurity-libs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(falcosecurity-libs-license)
+falcosecurity-libs

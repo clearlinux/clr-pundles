@@ -1,0 +1,11 @@
+# [TITLE]: qtmqtt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtmqtt-license)
+qtmqtt-lib

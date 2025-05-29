@@ -1,0 +1,13 @@
+# [TITLE]: libosinfo-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libosinfo)
+include(libosinfo-bin)
+include(libosinfo-data)
+include(libosinfo-lib)
+include(pkg-config-bin)
+libosinfo-dev

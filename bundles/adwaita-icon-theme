@@ -1,0 +1,9 @@
+# [TITLE]: adwaita-icon-theme
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(adwaita-icon-theme-data)
+include(adwaita-icon-theme-license)
+adwaita-icon-theme

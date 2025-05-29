@@ -1,0 +1,8 @@
+# [TITLE]: lib4sbom-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lib4sbom-python3)
+lib4sbom-python

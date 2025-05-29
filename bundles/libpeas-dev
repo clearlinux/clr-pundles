@@ -1,0 +1,16 @@
+# [TITLE]: libpeas-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gobject-introspection-dev)
+include(gtk3-dev)
+include(libpeas)
+include(libpeas-bin)
+include(libpeas-data)
+include(libpeas-dev)
+include(libpeas-lib)
+include(pkg-config-bin)
+libpeas-dev

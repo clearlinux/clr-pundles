@@ -1,0 +1,20 @@
+# [TITLE]: lightdm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(audit-lib)
+include(filesystem)
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libgcrypt-lib)
+include(lightdm-config)
+include(lightdm-data)
+include(lightdm-libexec)
+include(lightdm-license)
+include(lightdm-services)
+lightdm-bin

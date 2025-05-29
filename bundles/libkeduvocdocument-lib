@@ -1,0 +1,15 @@
+# [TITLE]: libkeduvocdocument-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(libc6)
+include(libkeduvocdocument-license)
+include(libstdc++)
+include(qt6base-lib)
+libkeduvocdocument-lib

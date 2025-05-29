@@ -1,0 +1,10 @@
+# [TITLE]: leptonica-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(leptonica-lib)
+include(leptonica-license)
+include(libc6)
+leptonica-bin

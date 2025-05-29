@@ -1,0 +1,13 @@
+# [TITLE]: glibmm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(glibmm-license)
+include(libc6)
+include(libgcc1)
+include(libsigc++-lib)
+include(libstdc++)
+glibmm-lib

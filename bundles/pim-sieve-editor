@@ -1,0 +1,12 @@
+# [TITLE]: pim-sieve-editor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pim-sieve-editor-bin)
+include(pim-sieve-editor-data)
+include(pim-sieve-editor-lib)
+include(pim-sieve-editor-license)
+include(pim-sieve-editor-locales)
+pim-sieve-editor

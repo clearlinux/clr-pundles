@@ -1,0 +1,16 @@
+# [TITLE]: ffmpegthumbs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ffmpegthumbs-data)
+include(ffmpegthumbs-license)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kio-lib)
+include(libc6)
+include(libstdc++)
+include(not-ffmpeg-lib)
+include(qt6base-lib)
+ffmpegthumbs-lib

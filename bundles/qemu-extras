@@ -1,0 +1,21 @@
+# [TITLE]: qemu-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(curl-lib)
+include(glib-lib)
+include(glusterfs-lib)
+include(gnutls-lib)
+include(libaio-lib)
+include(libc6)
+include(libgcc1)
+include(libiscsi-lib)
+include(libssh-lib)
+include(liburing-lib)
+include(numactl-lib)
+include(zlib-lib)
+include(zstd-lib)
+qemu-extras

@@ -1,0 +1,25 @@
+# [TITLE]: kget-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-extras)
+include(gpgme-lib)
+include(kcmutils-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kget-data)
+include(kget-license)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+kget-lib

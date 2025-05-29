@@ -1,0 +1,21 @@
+# [TITLE]: kxmlgui-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kglobalaccel-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kitemviews-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-data)
+include(kxmlgui-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kxmlgui-lib

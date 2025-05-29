@@ -1,0 +1,24 @@
+# [TITLE]: weston-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fontconfig-lib)
+include(glib-lib)
+include(libc6)
+include(libdrm-lib)
+include(libglvnd-lib)
+include(libwebp-lib)
+include(libxkbcommon-lib)
+include(mesa-lib)
+include(pango-lib)
+include(pixman-lib)
+include(systemd-lib)
+include(wayland-lib)
+include(weston-data)
+include(weston-lib)
+include(weston-libexec)
+include(weston-license)
+weston-bin

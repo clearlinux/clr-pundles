@@ -1,0 +1,8 @@
+# [TITLE]: nginx_cookie_flag_module
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nginx_cookie_flag_module-lib)
+nginx_cookie_flag_module

@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-kdiagram-dev
+include(kdiagram-dev)
 include(harfbuzz-lib)
 include(qt-core)
 include(qt-basic)

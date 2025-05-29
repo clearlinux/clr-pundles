@@ -7,6 +7,6 @@
 include(lib-openssl)
 include(openssh-client)
 include(iptables)
-openssh-extras-server
-tallow
+include(openssh-extras-server)
+include(tallow)
 include(pcre-lib)

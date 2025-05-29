@@ -1,0 +1,21 @@
+# [TITLE]: alsa-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(alsa-tools-data)
+include(alsa-tools-lib)
+include(alsa-tools-license)
+include(cairo-lib)
+include(coreutils-bin)
+include(filesystem)
+include(fltk-lib)
+include(glib-lib)
+include(gtk+-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+alsa-tools-bin

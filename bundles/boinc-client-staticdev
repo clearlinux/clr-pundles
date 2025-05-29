@@ -1,0 +1,8 @@
+# [TITLE]: boinc-client-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boinc-client-dev)
+boinc-client-staticdev

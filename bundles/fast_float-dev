@@ -1,0 +1,9 @@
+# [TITLE]: fast_float-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fast_float)
+include(fast_float-data)
+fast_float-dev

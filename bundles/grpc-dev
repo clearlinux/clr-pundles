@@ -1,0 +1,18 @@
+# [TITLE]: grpc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-dev)
+include(c-ares-dev)
+include(grpc)
+include(grpc-bin)
+include(grpc-data)
+include(grpc-dev)
+include(grpc-lib)
+include(openssl-dev)
+include(pkg-config-bin)
+include(re2-dev)
+include(zlib-dev)
+grpc-dev

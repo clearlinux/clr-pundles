@@ -1,0 +1,11 @@
+# [TITLE]: kjs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kjs)
+include(kjs-bin)
+include(kjs-data)
+include(kjs-lib)
+kjs-dev

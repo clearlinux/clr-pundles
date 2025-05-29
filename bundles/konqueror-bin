@@ -1,0 +1,34 @@
+# [TITLE]: konqueror-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kbookmarks-lib)
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(konqueror-data)
+include(konqueror-lib)
+include(konqueror-license)
+include(kparts-lib)
+include(kservice-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-activities-lib)
+include(qt6base-lib)
+include(sonnet-lib)
+konqueror-bin

@@ -1,0 +1,17 @@
+# [TITLE]: NetworkManager-openconnect-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-lib)
+include(NetworkManager-openconnect-data)
+include(NetworkManager-openconnect-libexec)
+include(NetworkManager-openconnect-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libnma-lib)
+include(openconnect-lib)
+NetworkManager-openconnect-lib

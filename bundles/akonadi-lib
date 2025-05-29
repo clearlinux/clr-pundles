@@ -1,0 +1,25 @@
+# [TITLE]: akonadi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-data)
+include(akonadi-license)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kitemmodels-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(qt6base-lib)
+include(xz-lib)
+akonadi-lib

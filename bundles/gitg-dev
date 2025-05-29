@@ -1,0 +1,19 @@
+# [TITLE]: gitg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gitg)
+include(gitg-bin)
+include(gitg-data)
+include(gitg-dev)
+include(gitg-lib)
+include(glib-dev)
+include(gpgme-dev)
+include(gtk3-dev)
+include(libdazzle-dev)
+include(libgee-dev)
+include(libgit2-glib-dev)
+include(pkg-config-bin)
+gitg-dev

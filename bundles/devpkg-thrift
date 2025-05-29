@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-thrift-dev
+include(thrift-dev)
 include(libglib)
 include(libstdcpp)
 include(pypi-six)

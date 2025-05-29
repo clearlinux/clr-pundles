@@ -1,0 +1,14 @@
+# [TITLE]: qtgamepad-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qtgamepad-license)
+include(systemd-lib)
+qtgamepad-lib

@@ -1,0 +1,10 @@
+# [TITLE]: zxing-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(zxing)
+include(zxing-lib)
+zxing-dev

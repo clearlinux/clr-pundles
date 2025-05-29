@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-gperftools-dev
+include(gperftools-dev)
 include(libstdcpp)
 include(libunwind-lib)

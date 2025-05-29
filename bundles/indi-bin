@@ -1,0 +1,20 @@
+# [TITLE]: indi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cfitsio-lib)
+include(curl-lib)
+include(indi-config)
+include(indi-data)
+include(indi-lib)
+include(indi-license)
+include(libc6)
+include(libev-lib)
+include(libgcc1)
+include(libnova-lib)
+include(libstdc++)
+include(libusb-lib)
+include(zlib-lib)
+indi-bin

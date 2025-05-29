@@ -7,10 +7,10 @@
 include(mail-utils)
 include(perl-basic)
 include(python3-basic)
-asciinema
+include(asciinema)
 also-add(irssi)
 include(pypi-khal)
-taskwarrior
+include(taskwarrior)
 also-add(weechat)
 include(harfbuzz-lib)
 include(lib-imageformat)

@@ -1,0 +1,14 @@
+# [TITLE]: libdex-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(glib-lib)
+include(libc6)
+include(libdex-data)
+include(libdex-license)
+include(libgcc1)
+include(liburing-lib)
+libdex-lib

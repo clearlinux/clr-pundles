@@ -1,0 +1,36 @@
+# [TITLE]: konqueror-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kbookmarks-lib)
+include(kcmutils-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdesu-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(kjobwidgets-lib)
+include(konqueror-data)
+include(konqueror-dev)
+include(konqueror-license)
+include(kparts-lib)
+include(kservice-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6webengine-lib)
+include(solid-lib)
+include(zlib-lib)
+konqueror-lib

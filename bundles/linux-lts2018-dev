@@ -1,0 +1,18 @@
+# [TITLE]: linux-lts2018-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(elfutils-lib)
+include(filesystem)
+include(gawk-bin)
+include(libc6)
+include(linux-lts2018)
+include(linux-lts2018-extra)
+include(linux-lts2018-license)
+include(openssl-lib)
+include(perl-bin)
+include(python3-core)
+linux-lts2018-dev

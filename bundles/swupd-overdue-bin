@@ -1,0 +1,11 @@
+# [TITLE]: swupd-overdue-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(swupd-overdue-license)
+include(swupd-overdue-services)
+include(systemd-extras-libsystemd)
+swupd-overdue-bin

@@ -1,0 +1,13 @@
+# [TITLE]: global-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(global-data)
+include(global-license)
+include(libc6)
+include(libtool-lib)
+include(ncurses-lib)
+global-bin

@@ -1,0 +1,16 @@
+# [TITLE]: gnome-software
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-bundle-icons)
+include(clr-bundle-screenshots)
+include(gnome-software-bin)
+include(gnome-software-data)
+include(gnome-software-lib)
+include(gnome-software-libexec)
+include(gnome-software-license)
+include(gnome-software-locales)
+include(gnome-software-man)
+gnome-software

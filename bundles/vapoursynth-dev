@@ -1,0 +1,14 @@
+# [TITLE]: vapoursynth-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(python3-dev)
+include(vapoursynth)
+include(vapoursynth-bin)
+include(vapoursynth-dev)
+include(vapoursynth-lib)
+include(zimg-dev)
+vapoursynth-dev

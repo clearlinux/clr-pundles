@@ -1,0 +1,8 @@
+# [TITLE]: dnf-plugins-core-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dnf-plugins-core-python3)
+dnf-plugins-core-python

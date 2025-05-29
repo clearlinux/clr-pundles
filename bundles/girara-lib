@@ -1,0 +1,13 @@
+# [TITLE]: girara-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(girara-license)
+include(glib-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libc6)
+include(pango-lib)
+girara-lib

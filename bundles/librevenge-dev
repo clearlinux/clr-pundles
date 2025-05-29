@@ -1,0 +1,11 @@
+# [TITLE]: librevenge-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librevenge)
+include(librevenge-dev)
+include(librevenge-lib)
+include(pkg-config-bin)
+librevenge-dev

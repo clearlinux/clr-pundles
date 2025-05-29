@@ -1,0 +1,20 @@
+# [TITLE]: gtk-vnc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(cyrus-sasl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnutls-lib)
+include(gtk-vnc-data)
+include(gtk-vnc-license)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(pulseaudio-lib)
+include(zlib-lib)
+gtk-vnc-lib

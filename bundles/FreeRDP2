@@ -1,0 +1,10 @@
+# [TITLE]: FreeRDP2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP2-lib)
+include(FreeRDP2-license)
+include(FreeRDP2-man)
+FreeRDP2

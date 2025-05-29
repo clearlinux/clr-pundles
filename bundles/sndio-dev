@@ -1,0 +1,10 @@
+# [TITLE]: sndio-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sndio)
+include(sndio-bin)
+include(sndio-lib)
+sndio-dev

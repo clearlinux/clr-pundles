@@ -1,0 +1,10 @@
+# [TITLE]: nghttp3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nghttp3)
+include(nghttp3-lib)
+include(pkg-config-bin)
+nghttp3-dev

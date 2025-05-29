@@ -1,0 +1,11 @@
+# [TITLE]: libcgroup-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcgroup)
+include(libcgroup-bin)
+include(libcgroup-lib)
+include(pkg-config-bin)
+libcgroup-dev

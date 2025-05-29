@@ -1,0 +1,33 @@
+# [TITLE]: juk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(juk-data)
+include(juk-license)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kstatusnotifieritem-lib)
+include(ktextwidgets-lib)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(phonon-lib)
+include(qt6base-lib)
+include(qt6svg-lib)
+include(taglib-lib)
+juk-bin

@@ -1,0 +1,11 @@
+# [TITLE]: SPIRV-Cross
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SPIRV-Cross-bin)
+include(SPIRV-Cross-data)
+include(SPIRV-Cross-lib)
+include(SPIRV-Cross-license)
+SPIRV-Cross

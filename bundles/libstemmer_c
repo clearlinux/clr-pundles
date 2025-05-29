@@ -1,0 +1,9 @@
+# [TITLE]: libstemmer_c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libstemmer_c-lib)
+include(libstemmer_c-license)
+libstemmer_c

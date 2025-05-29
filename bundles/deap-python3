@@ -1,0 +1,11 @@
+# [TITLE]: deap-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(pypi-numpy-python3)
+include(python3-core)
+deap-python3

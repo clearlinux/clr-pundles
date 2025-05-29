@@ -1,0 +1,8 @@
+# [TITLE]: neovim-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+neovim-data

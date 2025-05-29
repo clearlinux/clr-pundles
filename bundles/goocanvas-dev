@@ -1,0 +1,13 @@
+# [TITLE]: goocanvas-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(goocanvas)
+include(goocanvas-data)
+include(goocanvas-lib)
+include(gtk3-dev)
+include(pkg-config-bin)
+goocanvas-dev

@@ -1,0 +1,9 @@
+# [TITLE]: quazip
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(quazip-lib)
+include(quazip-license)
+quazip

@@ -1,0 +1,15 @@
+# [TITLE]: colord-gtk-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colord-dev)
+include(colord-gtk)
+include(colord-gtk-bin)
+include(colord-gtk-data)
+include(colord-gtk-lib)
+include(gtk3-dev)
+include(gtk4-dev)
+include(pkg-config-bin)
+colord-gtk-dev

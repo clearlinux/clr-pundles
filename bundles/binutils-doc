@@ -1,0 +1,9 @@
+# [TITLE]: binutils-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binutils-info)
+include(binutils-man)
+binutils-doc

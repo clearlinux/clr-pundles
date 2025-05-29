@@ -1,0 +1,25 @@
+# [TITLE]: gnome-disk-utility-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-disk-utility-data)
+include(gnome-disk-utility-libexec)
+include(gnome-disk-utility-license)
+include(gtk3-lib)
+include(libc6)
+include(libcanberra-lib)
+include(libgcc1)
+include(libhandy-lib)
+include(libpwquality-lib)
+include(libsecret-lib)
+include(pango-lib)
+include(systemd-extras-libsystemd)
+include(udisks2-lib)
+include(xz-lib)
+gnome-disk-utility-bin

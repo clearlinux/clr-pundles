@@ -1,0 +1,16 @@
+# [TITLE]: mtr-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(jansson-lib)
+include(libc6)
+include(mtr-data)
+include(mtr-license)
+include(mtr-setuid)
+include(ncurses-lib)
+mtr-bin

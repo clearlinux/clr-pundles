@@ -1,0 +1,11 @@
+# [TITLE]: uwsgi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(uwsgi-config)
+include(uwsgi-license)
+include(uwsgi-services)
+uwsgi-bin

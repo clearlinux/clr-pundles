@@ -1,0 +1,11 @@
+# [TITLE]: zxcvbn-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zxcvbn-c-bin)
+include(zxcvbn-c-data)
+include(zxcvbn-c-lib)
+include(zxcvbn-c-license)
+zxcvbn-c

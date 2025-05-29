@@ -1,0 +1,18 @@
+# [TITLE]: gnome-session-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-desktop-lib)
+include(gnome-session-license)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libgcc1)
+include(libglvnd-lib)
+include(systemd-extras-libsystemd)
+gnome-session-libexec

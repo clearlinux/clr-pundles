@@ -1,0 +1,12 @@
+# [TITLE]: gtk-frdp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk-frdp)
+include(gtk-frdp-data)
+include(gtk-frdp-lib)
+include(pkg-config-bin)
+gtk-frdp-dev

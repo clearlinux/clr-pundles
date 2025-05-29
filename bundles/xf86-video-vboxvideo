@@ -1,0 +1,10 @@
+# [TITLE]: xf86-video-vboxvideo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-video-vboxvideo-lib)
+include(xf86-video-vboxvideo-license)
+include(xf86-video-vboxvideo-man)
+xf86-video-vboxvideo

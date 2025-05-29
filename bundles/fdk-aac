@@ -1,0 +1,9 @@
+# [TITLE]: fdk-aac
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fdk-aac-lib)
+include(fdk-aac-license)
+fdk-aac

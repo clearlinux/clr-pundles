@@ -1,0 +1,29 @@
+# [TITLE]: FreeRDP-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP-data)
+include(FreeRDP-license)
+include(alsa-lib-lib)
+include(cups-lib)
+include(fuse-lib)
+include(icu4c-lib)
+include(json-c-lib)
+include(krb5-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+include(libxkbcommon-lib)
+include(libxkbfile-lib)
+include(not-ffmpeg-lib)
+include(openssl-lib)
+include(opus-lib)
+include(pulseaudio-lib)
+include(wayland-lib)
+include(zlib-lib)
+FreeRDP-lib

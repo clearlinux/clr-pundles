@@ -1,0 +1,8 @@
+# [TITLE]: libcryptui-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcryptui-man)
+libcryptui-doc

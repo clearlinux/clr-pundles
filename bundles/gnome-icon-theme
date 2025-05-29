@@ -1,0 +1,9 @@
+# [TITLE]: gnome-icon-theme
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-icon-theme-data)
+include(gnome-icon-theme-license)
+gnome-icon-theme

@@ -1,0 +1,15 @@
+# [TITLE]: gnome-online-accounts-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnome-online-accounts)
+include(gnome-online-accounts-data)
+include(gnome-online-accounts-dev)
+include(gnome-online-accounts-lib)
+include(gtk4-dev)
+include(libadwaita-dev)
+include(pkg-config-bin)
+gnome-online-accounts-dev

@@ -1,0 +1,12 @@
+# [TITLE]: rt-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rt-tests-bin)
+include(rt-tests-license)
+include(rt-tests-man)
+include(rt-tests-python)
+include(rt-tests-python3)
+rt-tests

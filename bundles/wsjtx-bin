@@ -1,0 +1,22 @@
+# [TITLE]: wsjtx-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost)
+include(boost-extras)
+include(fftw-lib)
+include(gcc-libgfortran)
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtmultimedia-lib)
+include(qtserialport-lib)
+include(wsjtx-data)
+include(wsjtx-license)
+wsjtx-bin

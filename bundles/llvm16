@@ -1,0 +1,19 @@
+# [TITLE]: llvm16
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libxml2-lib)
+include(llvm16-bin)
+include(llvm16-dev)
+include(llvm16-lib)
+include(llvm16-license)
+include(ncurses-lib)
+include(zlib-lib)
+include(zstd-lib)
+llvm16

@@ -1,0 +1,12 @@
+# [TITLE]: gvfs-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2)
+include(coreutils-bin)
+include(gvfs)
+include(python3-core)
+include(udisks2)
+gvfs-tests

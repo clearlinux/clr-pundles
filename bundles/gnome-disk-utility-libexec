@@ -1,0 +1,12 @@
+# [TITLE]: gnome-disk-utility-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-disk-utility-license)
+include(libc6)
+include(libnotify-lib)
+include(udisks2-lib)
+gnome-disk-utility-libexec

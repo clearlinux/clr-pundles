@@ -1,0 +1,11 @@
+# [TITLE]: taskwarrior
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(taskwarrior-bin)
+include(taskwarrior-data)
+include(taskwarrior-license)
+include(taskwarrior-man)
+taskwarrior

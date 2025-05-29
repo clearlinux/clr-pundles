@@ -1,0 +1,8 @@
+# [TITLE]: cri-o-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+cri-o-services

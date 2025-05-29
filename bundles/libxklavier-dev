@@ -1,0 +1,13 @@
+# [TITLE]: libxklavier-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libxklavier)
+include(libxklavier-data)
+include(libxklavier-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+libxklavier-dev

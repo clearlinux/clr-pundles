@@ -1,0 +1,20 @@
+# [TITLE]: kglobalacceld-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kglobalaccel-lib)
+include(kglobalacceld-data)
+include(kglobalacceld-license)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(kservice-lib)
+include(kwindowsystem-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kglobalacceld-lib

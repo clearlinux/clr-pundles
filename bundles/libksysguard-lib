@@ -1,0 +1,22 @@
+# [TITLE]: libksysguard-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kpackage-lib)
+include(kservice-lib)
+include(libc6)
+include(libksysguard-data)
+include(libksysguard-license)
+include(libstdc++)
+include(lm-sensors-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(solid-lib)
+include(zlib-lib)
+libksysguard-lib

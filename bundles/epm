@@ -1,0 +1,10 @@
+# [TITLE]: epm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(epm-bin)
+include(epm-license)
+include(epm-man)
+epm

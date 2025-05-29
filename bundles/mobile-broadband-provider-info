@@ -1,0 +1,8 @@
+# [TITLE]: mobile-broadband-provider-info
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mobile-broadband-provider-info-data)
+mobile-broadband-provider-info

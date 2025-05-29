@@ -1,0 +1,17 @@
+# [TITLE]: clutter-gtk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(clutter-gtk-data)
+include(clutter-gtk-license)
+include(clutter-lib)
+include(cogl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(wayland-lib)
+clutter-gtk-lib

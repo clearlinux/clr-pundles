@@ -1,0 +1,10 @@
+# [TITLE]: libusb-compat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libusb-compat)
+include(libusb-compat-lib)
+include(libusb-dev)
+libusb-compat-dev

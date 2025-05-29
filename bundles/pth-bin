@@ -1,0 +1,9 @@
+# [TITLE]: pth-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(pth-license)
+pth-bin

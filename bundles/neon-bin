@@ -1,0 +1,9 @@
+# [TITLE]: neon-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(neon-license)
+neon-bin

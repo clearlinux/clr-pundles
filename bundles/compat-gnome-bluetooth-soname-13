@@ -1,0 +1,11 @@
+# [TITLE]: compat-gnome-bluetooth-soname-13
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gnome-bluetooth-soname-13-data)
+include(compat-gnome-bluetooth-soname-13-lib)
+include(compat-gnome-bluetooth-soname-13-license)
+include(compat-gnome-bluetooth-soname-13-locales)
+compat-gnome-bluetooth-soname-13

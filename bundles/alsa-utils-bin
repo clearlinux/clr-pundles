@@ -1,0 +1,18 @@
+# [TITLE]: alsa-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(alsa-utils-config)
+include(alsa-utils-data)
+include(alsa-utils-license)
+include(alsa-utils-services)
+include(fftw-lib)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libsamplerate-lib)
+include(ncurses-lib)
+alsa-utils-bin

@@ -1,0 +1,8 @@
+# [TITLE]: go
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-staticdev)
+go

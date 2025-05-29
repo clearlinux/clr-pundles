@@ -1,0 +1,13 @@
+# [TITLE]: libdbusmenu-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(glib-lib)
+include(json-glib-lib)
+include(libc6)
+include(libdbusmenu-lib)
+include(libdbusmenu-license)
+libdbusmenu-libexec

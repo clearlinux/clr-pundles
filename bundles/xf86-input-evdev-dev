@@ -1,0 +1,11 @@
+# [TITLE]: xf86-input-evdev-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xf86-input-evdev)
+include(xf86-input-evdev-data)
+include(xf86-input-evdev-lib)
+xf86-input-evdev-dev

@@ -1,0 +1,36 @@
+# [TITLE]: kio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(karchive-lib)
+include(kauth-lib)
+include(kbookmarks-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kdoctools-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-data)
+include(kio-dev)
+include(kio-license)
+include(kitemviews-lib)
+include(kjobwidgets-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(libxml2-lib)
+include(libxslt-lib)
+include(qt6base-lib)
+include(solid-lib)
+include(util-linux-lib)
+kio-lib

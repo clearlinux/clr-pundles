@@ -1,0 +1,11 @@
+# [TITLE]: kdesdk-kio
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdesdk-kio-data)
+include(kdesdk-kio-lib)
+include(kdesdk-kio-license)
+include(kdesdk-kio-locales)
+kdesdk-kio

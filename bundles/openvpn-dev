@@ -1,0 +1,10 @@
+# [TITLE]: openvpn-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openvpn)
+include(openvpn-bin)
+include(openvpn-lib)
+openvpn-dev

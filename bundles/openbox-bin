@@ -1,0 +1,17 @@
+# [TITLE]: openbox-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glib-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libc6)
+include(openbox-data)
+include(openbox-lib)
+include(openbox-libexec)
+include(openbox-license)
+include(startup-notification-lib)
+openbox-bin

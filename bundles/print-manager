@@ -1,0 +1,13 @@
+# [TITLE]: print-manager
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups)
+include(print-manager-bin)
+include(print-manager-data)
+include(print-manager-lib)
+include(print-manager-license)
+include(print-manager-locales)
+print-manager

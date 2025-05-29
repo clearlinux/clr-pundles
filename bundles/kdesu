@@ -1,0 +1,17 @@
+# [TITLE]: kdesu
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kdesu-data)
+include(kdesu-lib)
+include(kdesu-license)
+include(kdesu-locales)
+include(ki18n-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdesu

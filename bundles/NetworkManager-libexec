@@ -1,0 +1,17 @@
+# [TITLE]: NetworkManager-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-config)
+include(NetworkManager-lib)
+include(NetworkManager-license)
+include(curl-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(nspr)
+include(nss-lib)
+include(systemd-extras-libsystemd)
+NetworkManager-libexec

@@ -1,0 +1,8 @@
+# [TITLE]: dmidecode-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dmidecode-man)
+dmidecode-doc

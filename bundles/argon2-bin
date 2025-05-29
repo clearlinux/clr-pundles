@@ -1,0 +1,9 @@
+# [TITLE]: argon2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(argon2-license)
+include(libc6)
+argon2-bin

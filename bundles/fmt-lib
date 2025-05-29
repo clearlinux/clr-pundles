@@ -1,0 +1,11 @@
+# [TITLE]: fmt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fmt-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+fmt-lib

@@ -1,0 +1,11 @@
+# [TITLE]: quilt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bash-bin)
+include(perl-bin)
+include(quilt-data)
+include(quilt-license)
+quilt-bin

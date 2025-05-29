@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libdmx-dev
+include(libdmx-dev)
 include(libX11client)

@@ -6,5 +6,5 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(c-basic)
 include(linux-ltscurrent-dev)
-clr-ignore-mod-sig
+include(clr-ignore-mod-sig)
 include(dkms)

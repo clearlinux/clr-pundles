@@ -1,0 +1,10 @@
+# [TITLE]: ktnef-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktnef)
+include(ktnef-data)
+include(ktnef-lib)
+ktnef-dev

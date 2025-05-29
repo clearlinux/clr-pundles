@@ -1,0 +1,19 @@
+# [TITLE]: connections-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(connections-data)
+include(connections-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk-frdp-lib)
+include(gtk-vnc-lib)
+include(gtk3-lib)
+include(libc6)
+include(libhandy-lib)
+include(libsecret-lib)
+connections-bin

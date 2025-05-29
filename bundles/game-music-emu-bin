@@ -1,0 +1,12 @@
+# [TITLE]: game-music-emu-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL2-lib)
+include(game-music-emu-lib)
+include(game-music-emu-license)
+include(libc6)
+include(libstdc++)
+game-music-emu-bin

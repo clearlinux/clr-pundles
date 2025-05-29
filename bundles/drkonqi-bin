@@ -1,0 +1,20 @@
+# [TITLE]: drkonqi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(drkonqi-data)
+include(drkonqi-license)
+include(drkonqi-services)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kservice-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(systemd-extras-libsystemd)
+drkonqi-bin

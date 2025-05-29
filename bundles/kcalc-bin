@@ -1,0 +1,25 @@
+# [TITLE]: kcalc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-lib)
+include(kcalc-data)
+include(kcalc-license)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(knotifications-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(mpc-lib)
+include(mpfr-lib)
+include(qt6base-lib)
+kcalc-bin

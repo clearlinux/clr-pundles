@@ -1,0 +1,11 @@
+# [TITLE]: libinstpatch-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libinstpatch)
+include(libinstpatch-lib)
+include(libsndfile-dev)
+libinstpatch-dev

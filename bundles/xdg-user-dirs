@@ -1,0 +1,12 @@
+# [TITLE]: xdg-user-dirs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xdg-user-dirs-bin)
+include(xdg-user-dirs-data)
+include(xdg-user-dirs-license)
+include(xdg-user-dirs-locales)
+include(xdg-user-dirs-man)
+xdg-user-dirs

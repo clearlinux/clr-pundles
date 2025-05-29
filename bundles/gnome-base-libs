@@ -10,11 +10,11 @@ include(libX11client)
 include(desktop-gnomelibs)
 include(qt-basic)
 
-gnome-desktop-lib
-gnome-online-accounts-lib
+include(gnome-desktop-lib)
+include(gnome-online-accounts-lib)
 include(gobject-introspection-lib)
-libcanberra-lib
-libpeas-lib
-dbus-glib-lib
-gjs-lib
-libadwaita-lib
+include(libcanberra-lib)
+include(libpeas-lib)
+include(dbus-glib-lib)
+include(gjs-lib)
+include(libadwaita-lib)

@@ -1,0 +1,11 @@
+# [TITLE]: ndpi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ndpi-bin)
+include(ndpi-data)
+include(ndpi-lib)
+include(ndpi-license)
+ndpi

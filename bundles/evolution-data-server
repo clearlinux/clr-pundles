@@ -1,0 +1,13 @@
+# [TITLE]: evolution-data-server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-data-server-data)
+include(evolution-data-server-lib)
+include(evolution-data-server-libexec)
+include(evolution-data-server-license)
+include(evolution-data-server-locales)
+include(evolution-data-server-services)
+evolution-data-server

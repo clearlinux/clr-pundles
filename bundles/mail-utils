@@ -5,8 +5,8 @@
 # [TAGS]: Productivity
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(mutt)
-imapfilter
-fetchmail
+include(imapfilter)
+include(fetchmail)
 include(msmtp)
 include(notmuch)
-procmail
+include(procmail)

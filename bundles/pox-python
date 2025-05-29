@@ -1,0 +1,8 @@
+# [TITLE]: pox-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pox-python3)
+pox-python

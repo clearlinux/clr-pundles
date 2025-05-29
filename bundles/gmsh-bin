@@ -1,0 +1,11 @@
+# [TITLE]: gmsh-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmsh-data)
+include(gmsh-lib)
+include(gmsh-license)
+include(libc6)
+gmsh-bin

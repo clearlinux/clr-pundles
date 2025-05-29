@@ -1,0 +1,11 @@
+# [TITLE]: libversion-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libversion)
+include(libversion-bin)
+include(libversion-lib)
+include(pkg-config-bin)
+libversion-dev

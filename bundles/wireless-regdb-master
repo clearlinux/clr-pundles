@@ -1,0 +1,9 @@
+# [TITLE]: wireless-regdb-master
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wireless-regdb-master-license)
+include(wireless-regdb-master-man)
+wireless-regdb-master

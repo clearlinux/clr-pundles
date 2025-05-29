@@ -1,0 +1,8 @@
+# [TITLE]: netplan-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(netplan-python3)
+netplan-python

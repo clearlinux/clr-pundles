@@ -1,0 +1,12 @@
+# [TITLE]: vim-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(gawk-bin)
+include(perl-bin)
+include(python3-core)
+vim-data

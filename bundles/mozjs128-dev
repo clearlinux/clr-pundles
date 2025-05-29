@@ -1,0 +1,10 @@
+# [TITLE]: mozjs128-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mozjs128-bin)
+include(mozjs128-lib)
+include(pkg-config-bin)
+mozjs128-dev

@@ -1,0 +1,11 @@
+# [TITLE]: kdbusaddons-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdbusaddons-data)
+include(kdbusaddons-license)
+include(libc6)
+include(qt6base-lib)
+kdbusaddons-bin

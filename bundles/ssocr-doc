@@ -1,0 +1,8 @@
+# [TITLE]: ssocr-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ssocr-man)
+ssocr-doc

@@ -1,0 +1,15 @@
+# [TITLE]: openvpn-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcap-ng-lib)
+include(lz4-lib)
+include(lzo-lib)
+include(openssl-lib)
+include(openvpn-config)
+include(openvpn-services)
+include(systemd-extras-libsystemd)
+openvpn-bin

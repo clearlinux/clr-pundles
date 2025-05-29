@@ -1,0 +1,11 @@
+# [TITLE]: level-zero-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(level-zero)
+include(level-zero-dev)
+include(level-zero-lib)
+include(pkg-config-bin)
+level-zero-dev

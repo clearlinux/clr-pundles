@@ -1,0 +1,12 @@
+# [TITLE]: glusterfs-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(glusterfs-lib)
+include(glusterfs-license)
+include(libc6)
+include(python3-core)
+glusterfs-libexec

@@ -1,0 +1,11 @@
+# [TITLE]: pystring-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pystring-license)
+pystring-lib

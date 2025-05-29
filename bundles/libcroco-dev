@@ -1,0 +1,13 @@
+# [TITLE]: libcroco-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libcroco)
+include(libcroco-bin)
+include(libcroco-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+libcroco-dev

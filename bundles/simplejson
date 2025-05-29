@@ -1,0 +1,10 @@
+# [TITLE]: simplejson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(simplejson-license)
+include(simplejson-python)
+include(simplejson-python3)
+simplejson

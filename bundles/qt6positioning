@@ -1,0 +1,9 @@
+# [TITLE]: qt6positioning
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6positioning-lib)
+include(qt6positioning-license)
+qt6positioning

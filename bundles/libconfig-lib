@@ -1,0 +1,11 @@
+# [TITLE]: libconfig-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libconfig-license)
+include(libgcc1)
+include(libstdc++)
+libconfig-lib

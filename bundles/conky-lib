@@ -1,0 +1,13 @@
+# [TITLE]: conky-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(conky-data)
+include(conky-license)
+include(libc6)
+include(libstdc++)
+include(lua-lib)
+conky-lib

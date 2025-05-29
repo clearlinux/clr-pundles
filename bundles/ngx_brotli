@@ -1,0 +1,8 @@
+# [TITLE]: ngx_brotli
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ngx_brotli-lib)
+ngx_brotli

@@ -1,0 +1,9 @@
+# [TITLE]: python-memcached
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-memcached-python)
+include(python-memcached-python3)
+python-memcached

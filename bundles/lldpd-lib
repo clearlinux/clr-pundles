@@ -1,0 +1,11 @@
+# [TITLE]: lldpd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbsd-lib)
+include(libc6)
+include(lldpd-data)
+include(lldpd-license)
+lldpd-lib

@@ -1,0 +1,14 @@
+# [TITLE]: libuser
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libuser-bin)
+include(libuser-lib)
+include(libuser-license)
+include(libuser-locales)
+include(libuser-man)
+include(libuser-python)
+include(libuser-python3)
+libuser

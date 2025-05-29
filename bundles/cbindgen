@@ -1,0 +1,9 @@
+# [TITLE]: cbindgen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cbindgen-bin)
+include(cbindgen-license)
+cbindgen

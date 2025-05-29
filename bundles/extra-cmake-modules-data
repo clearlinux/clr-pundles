@@ -1,0 +1,9 @@
+# [TITLE]: extra-cmake-modules-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(python3-core)
+extra-cmake-modules-data

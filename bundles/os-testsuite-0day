@@ -13,10 +13,10 @@ include(btrfs-progs)
 
 include(acpica-unix2)
 include(btrfs-progs)
-docbook-xml
-f2fs-tools
-fakeroot
-i2c-tools
+include(docbook-xml)
+include(f2fs-tools)
+include(fakeroot)
+include(i2c-tools)
 include(intltool)
 include(graphite)
 include(devpkg-hwloc)

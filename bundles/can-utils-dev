@@ -1,0 +1,10 @@
+# [TITLE]: can-utils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(can-utils)
+include(can-utils-bin)
+include(libc6)
+can-utils-dev

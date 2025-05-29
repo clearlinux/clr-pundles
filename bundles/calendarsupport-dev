@@ -1,0 +1,10 @@
+# [TITLE]: calendarsupport-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(calendarsupport)
+include(calendarsupport-data)
+include(calendarsupport-lib)
+calendarsupport-dev

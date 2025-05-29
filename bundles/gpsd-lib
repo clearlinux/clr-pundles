@@ -1,0 +1,15 @@
+# [TITLE]: gpsd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bluez-lib)
+include(dbus-lib)
+include(gpsd-data)
+include(gpsd-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+gpsd-lib

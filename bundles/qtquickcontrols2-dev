@@ -1,0 +1,11 @@
+# [TITLE]: qtquickcontrols2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtdeclarative-dev)
+include(qtquickcontrols2)
+include(qtquickcontrols2-lib)
+qtquickcontrols2-dev

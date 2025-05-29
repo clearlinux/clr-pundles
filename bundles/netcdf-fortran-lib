@@ -1,0 +1,12 @@
+# [TITLE]: netcdf-fortran-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgfortran)
+include(libc6)
+include(libgcc1)
+include(netcdf-fortran-license)
+include(netcdf-lib)
+netcdf-fortran-lib

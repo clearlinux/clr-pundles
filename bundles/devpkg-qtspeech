@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtspeech-dev
+include(qtspeech-dev)
 include(qt-core)
 include(libstdcpp)
 include(libX11client)

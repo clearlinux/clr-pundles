@@ -1,0 +1,9 @@
+# [TITLE]: intel-ipsec-mb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intel-ipsec-mb-lib)
+include(intel-ipsec-mb-license)
+intel-ipsec-mb

@@ -7,10 +7,10 @@
 # Run time requirement as vim is compiled to use libpython
 include(python3-basic)
 include(perl-basic)
-ctags
+include(ctags)
 vim
-vim-fugitive
-vim-gnupg
+include(vim-fugitive)
+include(vim-gnupg)
 #vim-go
 include(ncurses-lib)
 include(libxml2)

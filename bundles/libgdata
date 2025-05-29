@@ -1,0 +1,11 @@
+# [TITLE]: libgdata
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgdata-data)
+include(libgdata-lib)
+include(libgdata-license)
+include(libgdata-locales)
+libgdata

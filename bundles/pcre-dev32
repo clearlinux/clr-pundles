@@ -1,0 +1,10 @@
+# [TITLE]: pcre-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcre-bin)
+include(pcre-dev)
+include(pcre-lib32)
+pcre-dev32

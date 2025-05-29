@@ -14,4 +14,4 @@ include(openssl-doc)
 
 # main package
 openssl
-QAT_engine-lib
+include(QAT_engine-lib)

@@ -1,0 +1,9 @@
+# [TITLE]: intel-cmt-cat-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intel-cmt-cat-license)
+include(libc6)
+intel-cmt-cat-lib

@@ -1,0 +1,11 @@
+# [TITLE]: kdesdk-thumbnailers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdesdk-thumbnailers-data)
+include(kdesdk-thumbnailers-lib)
+include(kdesdk-thumbnailers-license)
+include(kdesdk-thumbnailers-locales)
+kdesdk-thumbnailers

@@ -1,0 +1,13 @@
+# [TITLE]: gpsbabel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpsbabel-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+include(qtbase-extras)
+gpsbabel-bin

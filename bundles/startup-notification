@@ -1,0 +1,9 @@
+# [TITLE]: startup-notification
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(startup-notification-lib)
+include(startup-notification-license)
+startup-notification

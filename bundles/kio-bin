@@ -1,0 +1,16 @@
+# [TITLE]: kio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-data)
+include(kio-lib)
+include(kio-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kio-bin

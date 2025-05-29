@@ -1,0 +1,12 @@
+# [TITLE]: draco-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(draco-data)
+include(draco-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+draco-lib

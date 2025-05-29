@@ -1,0 +1,14 @@
+# [TITLE]: gcr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcr-data)
+include(gcr-libexec)
+include(gcr-license)
+include(glib-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(p11-kit-lib)
+gcr-lib

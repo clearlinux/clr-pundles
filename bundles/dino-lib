@@ -1,0 +1,22 @@
+# [TITLE]: dino-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-icu4c-rolling-lib)
+include(compat-libsoup-soname-24-lib)
+include(dino-data)
+include(dino-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gpgme-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(libgee-lib)
+include(libsignal-protocol-c-lib)
+include(pango-lib)
+include(qrencode-lib)
+include(sqlite-autoconf-lib)
+dino-lib

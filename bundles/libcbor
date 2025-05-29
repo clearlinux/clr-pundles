@@ -1,0 +1,9 @@
+# [TITLE]: libcbor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcbor-lib)
+include(libcbor-license)
+libcbor

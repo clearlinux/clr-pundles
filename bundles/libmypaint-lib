@@ -1,0 +1,12 @@
+# [TITLE]: libmypaint-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(json-c-lib)
+include(libc6)
+include(libmypaint-data)
+include(libmypaint-license)
+libmypaint-lib

@@ -1,0 +1,10 @@
+# [TITLE]: hdparm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hdparm-bin)
+include(hdparm-license)
+include(hdparm-man)
+hdparm

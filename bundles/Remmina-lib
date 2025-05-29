@@ -1,0 +1,21 @@
+# [TITLE]: Remmina-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP2-lib)
+include(LibVNCServer-lib)
+include(Remmina-data)
+include(Remmina-license)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libsecret-lib)
+include(python3-lib)
+include(spice-gtk-lib)
+include(webkitgtk-lib)
+Remmina-lib

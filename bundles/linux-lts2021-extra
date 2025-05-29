@@ -1,0 +1,8 @@
+# [TITLE]: linux-lts2021-extra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linux-lts2021-license)
+linux-lts2021-extra

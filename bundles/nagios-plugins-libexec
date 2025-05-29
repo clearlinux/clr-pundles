@@ -1,0 +1,14 @@
+# [TITLE]: nagios-plugins-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(mariadb-extras-clientlib)
+include(nagios-plugins-license)
+include(openldap-lib)
+include(openssl-lib)
+include(perl-bin)
+nagios-plugins-libexec

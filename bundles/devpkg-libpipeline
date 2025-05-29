@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libpipeline-dev
+include(libpipeline-dev)

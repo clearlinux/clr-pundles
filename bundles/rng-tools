@@ -1,0 +1,12 @@
+# [TITLE]: rng-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rng-tools-bin)
+include(rng-tools-data)
+include(rng-tools-license)
+include(rng-tools-man)
+include(rng-tools-services)
+rng-tools

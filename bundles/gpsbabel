@@ -1,0 +1,9 @@
+# [TITLE]: gpsbabel
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpsbabel-bin)
+include(gpsbabel-license)
+gpsbabel

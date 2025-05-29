@@ -1,0 +1,14 @@
+# [TITLE]: MangoHud-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MangoHud-data)
+include(MangoHud-license)
+include(libc6)
+include(libgcc1)
+include(libxkbcommon-lib)
+include(spdlog-lib)
+include(wayland-lib)
+MangoHud-lib

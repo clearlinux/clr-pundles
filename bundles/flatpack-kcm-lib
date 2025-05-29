@@ -1,0 +1,19 @@
+# [TITLE]: flatpack-kcm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flatpack-kcm-data)
+include(flatpack-kcm-license)
+include(flatpak-lib)
+include(glib-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+flatpack-kcm-lib

@@ -1,0 +1,11 @@
+# [TITLE]: amtk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(amtk-data)
+include(amtk-lib)
+include(amtk-license)
+include(amtk-locales)
+amtk

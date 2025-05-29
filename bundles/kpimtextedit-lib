@@ -1,0 +1,23 @@
+# [TITLE]: kpimtextedit-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kpimtextedit-data)
+include(kpimtextedit-license)
+include(ktextaddons-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(sonnet-lib)
+include(syntax-highlighting-lib)
+kpimtextedit-lib

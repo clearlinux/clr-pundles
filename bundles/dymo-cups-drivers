@@ -1,0 +1,13 @@
+# [TITLE]: dymo-cups-drivers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-lib)
+include(dymo-cups-drivers-data)
+include(dymo-cups-drivers-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+dymo-cups-drivers

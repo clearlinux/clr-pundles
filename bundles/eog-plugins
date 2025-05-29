@@ -1,0 +1,11 @@
+# [TITLE]: eog-plugins
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(eog-plugins-data)
+include(eog-plugins-lib)
+include(eog-plugins-license)
+include(eog-plugins-locales)
+eog-plugins

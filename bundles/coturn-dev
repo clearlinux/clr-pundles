@@ -1,0 +1,10 @@
+# [TITLE]: coturn-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coturn)
+include(coturn-bin)
+include(coturn-data)
+coturn-dev

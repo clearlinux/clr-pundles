@@ -1,0 +1,9 @@
+# [TITLE]: perl-Package-DeprecationManager
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Package-DeprecationManager-license)
+include(perl-Package-DeprecationManager-perl)
+perl-Package-DeprecationManager

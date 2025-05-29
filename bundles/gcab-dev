@@ -1,0 +1,13 @@
+# [TITLE]: gcab-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcab)
+include(gcab-bin)
+include(gcab-data)
+include(gcab-lib)
+include(glib-dev)
+include(pkg-config-bin)
+gcab-dev

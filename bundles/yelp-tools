@@ -1,0 +1,10 @@
+# [TITLE]: yelp-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yelp-tools-bin)
+include(yelp-tools-data)
+include(yelp-tools-license)
+yelp-tools

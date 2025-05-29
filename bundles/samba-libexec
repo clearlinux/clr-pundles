@@ -1,0 +1,22 @@
+# [TITLE]: samba-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-lib)
+include(filesystem)
+include(gnutls-lib)
+include(jansson-lib)
+include(krb5-lib)
+include(libc6)
+include(libtirpc-lib)
+include(openldap-lib)
+include(popt-lib)
+include(samba-config)
+include(samba-lib)
+include(samba-license)
+include(talloc-lib)
+include(tdb-lib)
+include(tevent-lib)
+samba-libexec

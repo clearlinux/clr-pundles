@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-dav1d-dev
+include(dav1d-dev)
 include(dav1d)

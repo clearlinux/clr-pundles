@@ -1,0 +1,12 @@
+# [TITLE]: opusfile-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libogg-lib)
+include(openssl-lib)
+include(opus-lib)
+include(opusfile-license)
+opusfile-lib

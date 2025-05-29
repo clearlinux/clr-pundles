@@ -1,0 +1,10 @@
+# [TITLE]: linux-ltscurrent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(init-rdahead-extras)
+include(linux-ltscurrent-license)
+include(systemd-bin)
+linux-ltscurrent

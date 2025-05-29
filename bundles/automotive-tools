@@ -5,4 +5,4 @@
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-can-utils
+include(can-utils)

@@ -1,0 +1,10 @@
+# [TITLE]: kparts-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kparts)
+include(kparts-data)
+include(kparts-lib)
+kparts-dev

@@ -1,0 +1,10 @@
+# [TITLE]: ytnef
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ytnef-bin)
+include(ytnef-lib)
+include(ytnef-license)
+ytnef

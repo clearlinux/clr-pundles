@@ -1,0 +1,16 @@
+# [TITLE]: qt6tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(llvm-lib)
+include(qt6base-lib)
+include(qt6tools-data)
+include(qt6tools-libexec)
+include(qt6tools-license)
+include(zstd-lib)
+qt6tools-lib

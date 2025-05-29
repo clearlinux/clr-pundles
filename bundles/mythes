@@ -1,0 +1,10 @@
+# [TITLE]: mythes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mythes-bin)
+include(mythes-lib)
+include(mythes-license)
+mythes

@@ -1,0 +1,14 @@
+# [TITLE]: opusfile-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libogg-dev)
+include(openssl-dev)
+include(opus-dev)
+include(opusfile)
+include(opusfile-dev)
+include(opusfile-lib)
+include(pkg-config-bin)
+opusfile-dev

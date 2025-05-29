@@ -1,0 +1,8 @@
+# [TITLE]: openjpeg-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openjpeg-dev)
+openjpeg-staticdev

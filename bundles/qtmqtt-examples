@@ -1,0 +1,8 @@
+# [TITLE]: qtmqtt-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtmqtt-dev)
+qtmqtt-examples

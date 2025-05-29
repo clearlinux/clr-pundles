@@ -1,0 +1,22 @@
+# [TITLE]: pcp-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(coreutils-bin)
+include(elfutils-lib)
+include(filesystem)
+include(libbpf-lib)
+include(libc6)
+include(libuv-lib)
+include(ncurses-lib)
+include(openssl-lib)
+include(pcp-config)
+include(pcp-lib)
+include(pcp-license)
+include(perl-bin)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+pcp-libexec

@@ -7,5 +7,5 @@
 
 include(c-basic)
 
-gcc11
-gcc11-dev
+include(gcc11)
+include(gcc11-dev)

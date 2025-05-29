@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-not-ffmpeg-dev
+include(not-ffmpeg-dev)
 include(libX11client)
 include(libglib)
 include(libstdcpp)

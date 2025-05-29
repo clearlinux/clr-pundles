@@ -1,0 +1,11 @@
+# [TITLE]: evolution-ews
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution-ews-data)
+include(evolution-ews-lib)
+include(evolution-ews-license)
+include(evolution-ews-locales)
+evolution-ews

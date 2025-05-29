@@ -1,0 +1,11 @@
+# [TITLE]: libplasma
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libplasma-data)
+include(libplasma-lib)
+include(libplasma-license)
+include(libplasma-locales)
+libplasma

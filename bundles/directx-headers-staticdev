@@ -1,0 +1,8 @@
+# [TITLE]: directx-headers-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(directx-headers-dev)
+directx-headers-staticdev

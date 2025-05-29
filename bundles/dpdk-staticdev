@@ -1,0 +1,8 @@
+# [TITLE]: dpdk-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dpdk-dev)
+dpdk-staticdev

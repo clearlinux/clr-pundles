@@ -1,0 +1,10 @@
+# [TITLE]: rust-bindgen-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(rust-bindgen-license)
+rust-bindgen-bin

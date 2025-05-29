@@ -1,0 +1,13 @@
+# [TITLE]: cairomm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(cairomm)
+include(cairomm-dev)
+include(cairomm-lib)
+include(libsigc++-dev)
+include(pkg-config-bin)
+cairomm-dev

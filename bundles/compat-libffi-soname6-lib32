@@ -1,0 +1,9 @@
+# [TITLE]: compat-libffi-soname6-lib32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libffi-soname6-license)
+include(glibc-libc32)
+compat-libffi-soname6-lib32

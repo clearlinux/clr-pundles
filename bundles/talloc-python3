@@ -1,0 +1,11 @@
+# [TITLE]: talloc-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(python3-core)
+include(python3-lib)
+include(talloc-lib)
+talloc-python3

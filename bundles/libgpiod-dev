@@ -1,0 +1,11 @@
+# [TITLE]: libgpiod-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgpiod)
+include(libgpiod-bin)
+include(libgpiod-lib)
+include(pkg-config-bin)
+libgpiod-dev

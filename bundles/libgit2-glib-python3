@@ -1,0 +1,8 @@
+# [TITLE]: libgit2-glib-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+libgit2-glib-python3

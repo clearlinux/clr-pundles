@@ -1,0 +1,12 @@
+# [TITLE]: bmon-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bmon-license)
+include(confuse-lib)
+include(libc6)
+include(libnl-lib)
+include(ncurses-lib)
+bmon-bin

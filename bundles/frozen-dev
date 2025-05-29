@@ -1,0 +1,9 @@
+# [TITLE]: frozen-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(frozen)
+include(frozen-data)
+frozen-dev

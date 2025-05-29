@@ -1,0 +1,10 @@
+# [TITLE]: frameworkintegration-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(frameworkintegration)
+include(frameworkintegration-data)
+include(frameworkintegration-lib)
+frameworkintegration-dev

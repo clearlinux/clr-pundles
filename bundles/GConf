@@ -1,0 +1,14 @@
+# [TITLE]: GConf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(GConf-bin)
+include(GConf-data)
+include(GConf-lib)
+include(GConf-libexec)
+include(GConf-license)
+include(GConf-locales)
+include(GConf-man)
+GConf

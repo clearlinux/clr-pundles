@@ -1,0 +1,8 @@
+# [TITLE]: stunnel-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(stunnel-man)
+stunnel-doc

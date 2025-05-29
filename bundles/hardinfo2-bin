@@ -1,0 +1,18 @@
+# [TITLE]: hardinfo2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(filesystem)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(hardinfo2-data)
+include(hardinfo2-services)
+include(libX11-lib)
+include(libc6)
+include(libsoup-lib)
+include(pango-lib)
+hardinfo2-bin

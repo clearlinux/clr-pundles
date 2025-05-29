@@ -1,0 +1,13 @@
+# [TITLE]: gdb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdb)
+include(gdb-bin)
+include(gdb-data)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+gdb-dev

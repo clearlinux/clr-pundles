@@ -1,0 +1,14 @@
+# [TITLE]: znc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyrus-sasl-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(znc-data)
+include(znc-license)
+znc-lib

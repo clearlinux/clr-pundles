@@ -1,0 +1,12 @@
+# [TITLE]: memkind
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(memkind-bin)
+include(memkind-filemap)
+include(memkind-lib)
+include(memkind-license)
+include(memkind-man)
+memkind

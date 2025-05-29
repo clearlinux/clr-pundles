@@ -1,0 +1,12 @@
+# [TITLE]: boinc-client-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boinc-client)
+include(boinc-client-bin)
+include(boinc-client-data)
+include(boinc-client-lib)
+include(ocl-icd-dev)
+boinc-client-dev

@@ -1,0 +1,11 @@
+# [TITLE]: editorconfig-core-c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(editorconfig-core-c)
+include(editorconfig-core-c-bin)
+include(editorconfig-core-c-lib)
+include(pkg-config-bin)
+editorconfig-core-c-dev

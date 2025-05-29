@@ -1,0 +1,9 @@
+# [TITLE]: btrfs-progs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(btrfs-progs-license)
+include(libc6)
+btrfs-progs-lib

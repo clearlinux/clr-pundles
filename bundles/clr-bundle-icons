@@ -1,0 +1,8 @@
+# [TITLE]: clr-bundle-icons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-bundle-icons-data)
+clr-bundle-icons

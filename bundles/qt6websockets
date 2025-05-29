@@ -1,0 +1,9 @@
+# [TITLE]: qt6websockets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6websockets-lib)
+include(qt6websockets-license)
+qt6websockets

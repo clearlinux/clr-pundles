@@ -1,0 +1,41 @@
+# [TITLE]: blender-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(OpenColorIO-lib)
+include(SDL2-lib)
+include(Vulkan-Loader-lib)
+include(blender-data)
+include(blender-license)
+include(boost-extras)
+include(embree-lib)
+include(fftw-lib)
+include(freetype-lib)
+include(gcc-libs-math)
+include(gmp-lib)
+include(libX11-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libwebp-lib)
+include(libxkbcommon-lib)
+include(lzo-lib)
+include(oiio-lib)
+include(openal-soft-lib)
+include(openexr-lib)
+include(potrace-lib)
+include(pugixml-lib)
+include(pulseaudio-lib)
+include(python3-lib)
+include(scene-alembic-lib)
+include(shaderc-lib)
+include(tbb-lib)
+include(zlib-lib)
+include(zstd-lib)
+blender-bin

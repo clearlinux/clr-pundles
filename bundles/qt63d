@@ -1,0 +1,9 @@
+# [TITLE]: qt63d
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt63d-lib)
+include(qt63d-license)
+qt63d

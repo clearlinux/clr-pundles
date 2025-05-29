@@ -1,0 +1,13 @@
+# [TITLE]: keepalived-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(file-lib)
+include(keepalived-license)
+include(keepalived-services)
+include(libc6)
+include(libnl-lib)
+include(openssl-lib)
+keepalived-bin

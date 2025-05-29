@@ -1,0 +1,17 @@
+# [TITLE]: linuxcnc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost-extras)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libtirpc-lib)
+include(linuxcnc-data)
+include(linuxcnc-license)
+include(python3-lib)
+include(tk-extras)
+linuxcnc-lib

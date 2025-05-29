@@ -1,0 +1,15 @@
+# [TITLE]: purpose
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(libc6)
+include(libstdc++)
+include(purpose-data)
+include(purpose-lib)
+include(purpose-license)
+include(purpose-locales)
+include(qt6base-lib)
+purpose

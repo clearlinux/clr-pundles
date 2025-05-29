@@ -1,0 +1,8 @@
+# [TITLE]: evince-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evince-man)
+evince-doc

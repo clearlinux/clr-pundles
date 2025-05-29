@@ -1,0 +1,21 @@
+# [TITLE]: gnome-software-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-software-data)
+include(gnome-software-lib)
+include(gnome-software-libexec)
+include(gnome-software-license)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+include(libsoup-lib)
+include(pango-lib)
+include(xmlb-lib)
+gnome-software-bin

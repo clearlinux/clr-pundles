@@ -6,6 +6,6 @@
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(network-basic)
 
-alsa-plugins
+include(alsa-plugins)
 include(alsa-utils)
-linuxptp
+include(linuxptp)

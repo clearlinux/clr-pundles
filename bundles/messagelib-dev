@@ -1,0 +1,10 @@
+# [TITLE]: messagelib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(messagelib)
+include(messagelib-data)
+include(messagelib-lib)
+messagelib-dev

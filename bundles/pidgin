@@ -11,12 +11,12 @@ include(gstreamer)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(gnome-base-libs)
-appstream
+include(appstream)
 include(FreeRDP)
 include(Remmina)
 include(gstreamer)
 include(gst-plugins-base)
-gst-plugins-good
+include(gst-plugins-good)
 # end of custom additions
 
 # main package

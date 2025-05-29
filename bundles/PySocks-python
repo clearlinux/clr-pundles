@@ -1,0 +1,8 @@
+# [TITLE]: PySocks-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PySocks-python3)
+PySocks-python

@@ -1,0 +1,9 @@
+# [TITLE]: plasma-workspace-wallpapers
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-workspace-wallpapers-data)
+include(plasma-workspace-wallpapers-license)
+plasma-workspace-wallpapers

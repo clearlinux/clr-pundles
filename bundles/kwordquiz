@@ -1,0 +1,11 @@
+# [TITLE]: kwordquiz
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kwordquiz-bin)
+include(kwordquiz-data)
+include(kwordquiz-license)
+include(kwordquiz-locales)
+kwordquiz

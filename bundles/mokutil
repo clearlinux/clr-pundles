@@ -1,0 +1,11 @@
+# [TITLE]: mokutil
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mokutil-bin)
+include(mokutil-data)
+include(mokutil-license)
+include(mokutil-man)
+mokutil

@@ -1,0 +1,10 @@
+# [TITLE]: libwpd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libwpd-bin)
+include(libwpd-lib)
+include(libwpd-license)
+libwpd

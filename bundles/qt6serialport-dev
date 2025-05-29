@@ -1,0 +1,11 @@
+# [TITLE]: qt6serialport-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6serialport)
+include(qt6serialport-lib)
+qt6serialport-dev

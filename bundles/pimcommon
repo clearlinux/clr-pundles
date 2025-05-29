@@ -1,0 +1,11 @@
+# [TITLE]: pimcommon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pimcommon-data)
+include(pimcommon-lib)
+include(pimcommon-license)
+include(pimcommon-locales)
+pimcommon

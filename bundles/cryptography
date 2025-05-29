@@ -12,8 +12,8 @@ include(ca-certs)
 include(gnupg)
 include(gnutls)
 include(nss-bin)
-pinentry
-rng-tools
-rng-tools-autostart
+include(pinentry)
+include(rng-tools)
+include(rng-tools-autostart)
 include(curl)
 include(lib-openssl)

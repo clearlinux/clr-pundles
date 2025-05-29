@@ -1,0 +1,13 @@
+# [TITLE]: mokutil-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efivar-lib)
+include(libc6)
+include(libxcrypt-lib)
+include(mokutil-data)
+include(mokutil-license)
+include(openssl-lib)
+mokutil-bin

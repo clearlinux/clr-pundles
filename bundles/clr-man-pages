@@ -1,0 +1,9 @@
+# [TITLE]: clr-man-pages
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-man-pages-license)
+include(clr-man-pages-man)
+clr-man-pages

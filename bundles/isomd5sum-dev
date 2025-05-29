@@ -1,0 +1,10 @@
+# [TITLE]: isomd5sum-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isomd5sum)
+include(isomd5sum-bin)
+include(pkg-config-bin)
+isomd5sum-dev

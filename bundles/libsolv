@@ -1,0 +1,12 @@
+# [TITLE]: libsolv
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libsolv-bin)
+include(libsolv-data)
+include(libsolv-lib)
+include(libsolv-license)
+include(libsolv-man)
+libsolv

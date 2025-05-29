@@ -1,0 +1,16 @@
+# [TITLE]: Solaar-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyYAML-python3)
+include(dbus-python)
+include(dbus-python-python3)
+include(pygobject-python3)
+include(pypi-evdev-python3)
+include(pypi-psutil-python3)
+include(pypi-python_xlib-python3)
+include(python3-core)
+include(pyudev-python3)
+Solaar-python3

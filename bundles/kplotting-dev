@@ -1,0 +1,9 @@
+# [TITLE]: kplotting-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kplotting)
+include(kplotting-lib)
+kplotting-dev

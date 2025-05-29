@@ -1,0 +1,10 @@
+# [TITLE]: qt6grpc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6grpc-lib)
+include(qt6grpc-libexec)
+include(qt6grpc-license)
+qt6grpc

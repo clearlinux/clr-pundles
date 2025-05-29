@@ -1,0 +1,9 @@
+# [TITLE]: util-macros-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(util-macros-data)
+include(util-macros-dev)
+util-macros-dev32

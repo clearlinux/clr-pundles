@@ -1,0 +1,10 @@
+# [TITLE]: bottom-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bottom-license)
+include(libc6)
+include(libgcc1)
+bottom-bin

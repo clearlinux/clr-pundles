@@ -1,0 +1,15 @@
+# [TITLE]: libdnf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libdnf)
+include(libdnf-lib)
+include(librepo-dev)
+include(libsolv-dev)
+include(pkg-config-bin)
+include(rpm-dev)
+include(sqlite-autoconf-dev)
+libdnf-dev

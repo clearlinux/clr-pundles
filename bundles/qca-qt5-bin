@@ -1,0 +1,13 @@
+# [TITLE]: qca-qt5-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qca-qt5-lib)
+include(qca-qt5-license)
+include(qtbase-extras)
+qca-qt5-bin

@@ -1,0 +1,8 @@
+# [TITLE]: grilo-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grilo-man)
+grilo-doc

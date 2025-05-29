@@ -1,0 +1,10 @@
+# [TITLE]: kdeplasma-addons-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdeplasma-addons)
+include(kdeplasma-addons-data)
+include(kdeplasma-addons-lib)
+kdeplasma-addons-dev

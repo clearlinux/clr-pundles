@@ -1,0 +1,15 @@
+# [TITLE]: kcompletion-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs-lib)
+include(kcompletion-data)
+include(kcompletion-license)
+include(kconfig-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kcompletion-lib

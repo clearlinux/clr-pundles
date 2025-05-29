@@ -1,0 +1,12 @@
+# [TITLE]: suricata-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(suricata)
+include(suricata-bin)
+include(suricata-data)
+include(suricata-lib)
+suricata-dev

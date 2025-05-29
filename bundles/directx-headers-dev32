@@ -1,0 +1,9 @@
+# [TITLE]: directx-headers-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(directx-headers-dev)
+include(pkg-config-bin)
+directx-headers-dev32

@@ -1,0 +1,13 @@
+# [TITLE]: libvma-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libnl-lib)
+include(libstdc++)
+include(libvma-license)
+include(rdma-core-lib)
+libvma-lib

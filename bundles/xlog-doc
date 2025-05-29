@@ -1,0 +1,8 @@
+# [TITLE]: xlog-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xlog-man)
+xlog-doc

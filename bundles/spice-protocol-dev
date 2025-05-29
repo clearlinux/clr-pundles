@@ -1,0 +1,8 @@
+# [TITLE]: spice-protocol-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(spice-protocol)
+spice-protocol-dev

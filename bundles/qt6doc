@@ -1,0 +1,9 @@
+# [TITLE]: qt6doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6doc-lib)
+include(qt6doc-license)
+qt6doc

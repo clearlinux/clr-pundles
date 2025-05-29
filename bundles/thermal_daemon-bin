@@ -1,0 +1,18 @@
+# [TITLE]: thermal_daemon-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(libc6)
+include(libevdev-lib)
+include(libgcc1)
+include(libstdc++)
+include(thermal_daemon-config)
+include(thermal_daemon-data)
+include(thermal_daemon-license)
+include(thermal_daemon-services)
+include(upower-lib)
+thermal_daemon-bin

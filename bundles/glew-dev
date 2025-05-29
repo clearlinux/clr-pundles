@@ -1,0 +1,12 @@
+# [TITLE]: glew-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glew)
+include(glew-lib)
+include(glu-dev)
+include(libX11-dev)
+include(pkg-config-bin)
+glew-dev

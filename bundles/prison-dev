@@ -1,0 +1,10 @@
+# [TITLE]: prison-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(prison)
+include(prison-data)
+include(prison-lib)
+prison-dev

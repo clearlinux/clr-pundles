@@ -1,0 +1,25 @@
+# [TITLE]: yelp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(bzip2-lib)
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(libc6)
+include(libhandy-lib)
+include(libsoup-lib)
+include(libxslt-lib)
+include(pango-lib)
+include(sqlite-autoconf-lib)
+include(webkitgtk-lib)
+include(yelp-data)
+include(yelp-lib)
+include(yelp-license)
+yelp-bin

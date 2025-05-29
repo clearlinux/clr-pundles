@@ -1,0 +1,9 @@
+# [TITLE]: dhcp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dhcp)
+include(dhcp-bin)
+dhcp-dev

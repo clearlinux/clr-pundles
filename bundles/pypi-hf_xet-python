@@ -1,0 +1,8 @@
+# [TITLE]: pypi-hf_xet-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-hf_xet-python3)
+pypi-hf_xet-python

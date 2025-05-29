@@ -1,0 +1,9 @@
+# [TITLE]: po4a-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(po4a)
+include(po4a-bin)
+po4a-dev

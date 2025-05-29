@@ -1,0 +1,9 @@
+# [TITLE]: libxdg-basedir
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxdg-basedir-lib)
+include(libxdg-basedir-license)
+libxdg-basedir

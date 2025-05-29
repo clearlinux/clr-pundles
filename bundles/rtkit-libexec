@@ -1,0 +1,11 @@
+# [TITLE]: rtkit-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libc6)
+include(libcap-lib)
+include(systemd-extras-libsystemd)
+rtkit-libexec

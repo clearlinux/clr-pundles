@@ -1,0 +1,17 @@
+# [TITLE]: dnsmasq-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(dnsmasq-config)
+include(dnsmasq-data)
+include(dnsmasq-license)
+include(dnsmasq-services)
+include(gmp-lib)
+include(libc6)
+include(libidn2-lib)
+include(libnetfilter_conntrack-lib)
+include(nettle-lib)
+dnsmasq-bin

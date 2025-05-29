@@ -1,0 +1,8 @@
+# [TITLE]: python-slip-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+python-slip-python3

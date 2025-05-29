@@ -1,0 +1,13 @@
+# [TITLE]: nautilus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(nautilus)
+include(nautilus-bin)
+include(nautilus-data)
+include(nautilus-lib)
+include(pkg-config-bin)
+nautilus-dev

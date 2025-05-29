@@ -1,0 +1,10 @@
+# [TITLE]: poppler-data-clr-rename-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(poppler-data-clr-rename)
+include(poppler-data-clr-rename-data)
+poppler-data-clr-rename-dev

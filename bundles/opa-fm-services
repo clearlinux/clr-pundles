@@ -1,0 +1,9 @@
+# [TITLE]: opa-fm-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opa-fm)
+include(systemd)
+opa-fm-services

@@ -1,0 +1,14 @@
+# [TITLE]: compat-Botan-soname2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(compat-Botan-soname2-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(xz-lib)
+include(zlib-lib)
+compat-Botan-soname2-lib

@@ -15,7 +15,7 @@ include(lib-imageformat)
 include(libpsl-lib)
 include(icu4c-lib)
 # sadly this one is still super common
-webkitgtk60
+include(webkitgtk60)
 # end of custom additions
 
 # main package

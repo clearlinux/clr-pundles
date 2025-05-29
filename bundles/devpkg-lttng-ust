@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-lttng-ust-dev
+include(lttng-ust-dev)
 include(numactl)

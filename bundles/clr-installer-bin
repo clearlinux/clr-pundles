@@ -1,0 +1,11 @@
+# [TITLE]: clr-installer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-installer-data)
+include(clr-installer-license)
+include(clr-installer-services)
+include(libc6)
+clr-installer-bin

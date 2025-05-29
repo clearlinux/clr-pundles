@@ -1,0 +1,8 @@
+# [TITLE]: fish-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fish-man)
+fish-doc

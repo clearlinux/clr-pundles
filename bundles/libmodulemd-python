@@ -1,0 +1,8 @@
+# [TITLE]: libmodulemd-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmodulemd-python3)
+libmodulemd-python

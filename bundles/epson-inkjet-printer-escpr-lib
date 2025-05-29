@@ -1,0 +1,10 @@
+# [TITLE]: epson-inkjet-printer-escpr-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(epson-inkjet-printer-escpr-data)
+include(epson-inkjet-printer-escpr-license)
+include(libc6)
+epson-inkjet-printer-escpr-lib

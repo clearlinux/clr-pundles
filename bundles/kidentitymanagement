@@ -1,0 +1,11 @@
+# [TITLE]: kidentitymanagement
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kidentitymanagement-data)
+include(kidentitymanagement-lib)
+include(kidentitymanagement-license)
+include(kidentitymanagement-locales)
+kidentitymanagement

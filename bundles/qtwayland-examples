@@ -1,0 +1,16 @@
+# [TITLE]: qtwayland-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libglvnd-lib)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qtwayland-dev)
+include(qtwayland-lib)
+include(wayland-lib)
+qtwayland-examples

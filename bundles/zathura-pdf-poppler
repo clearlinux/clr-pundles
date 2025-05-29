@@ -1,0 +1,10 @@
+# [TITLE]: zathura-pdf-poppler
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zathura-pdf-poppler-data)
+include(zathura-pdf-poppler-lib)
+include(zathura-pdf-poppler-license)
+zathura-pdf-poppler

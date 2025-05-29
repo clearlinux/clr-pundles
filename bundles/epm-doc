@@ -1,0 +1,8 @@
+# [TITLE]: epm-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(epm-man)
+epm-doc

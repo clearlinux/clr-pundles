@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libexif-dev
+include(libexif-dev)

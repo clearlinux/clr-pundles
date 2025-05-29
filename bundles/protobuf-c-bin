@@ -1,0 +1,12 @@
+# [TITLE]: protobuf-c-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(protobuf-lib)
+protobuf-c-bin

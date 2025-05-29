@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libcloudproviders-dev
+include(libcloudproviders-dev)
 include(libglib)

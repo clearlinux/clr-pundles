@@ -1,0 +1,8 @@
+# [TITLE]: qtnetworkauth-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtnetworkauth-dev)
+qtnetworkauth-examples

@@ -1,0 +1,10 @@
+# [TITLE]: libliftoff-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdrm-lib)
+include(libliftoff-license)
+libliftoff-lib

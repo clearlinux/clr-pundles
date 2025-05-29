@@ -1,0 +1,11 @@
+# [TITLE]: gnome-boxes-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-boxes)
+include(gnome-boxes-bin)
+include(gnome-boxes-data)
+include(gnome-boxes-lib)
+gnome-boxes-dev

@@ -1,0 +1,13 @@
+# [TITLE]: fossil-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-fuse-soname2-lib)
+include(fossil-data)
+include(fossil-license)
+include(libc6)
+include(openssl-lib)
+include(zlib-lib)
+fossil-bin

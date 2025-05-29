@@ -1,0 +1,15 @@
+# [TITLE]: samtools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(coreutils-bin)
+include(curl-lib)
+include(libc6)
+include(ncurses-lib)
+include(openssl-lib)
+include(samtools-license)
+include(zlib-lib)
+samtools-bin

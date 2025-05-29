@@ -1,0 +1,12 @@
+# [TITLE]: libftdi1-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libftdi1-license)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+libftdi1-lib

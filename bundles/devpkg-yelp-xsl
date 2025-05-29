@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-yelp-xsl-dev
+include(yelp-xsl-dev)

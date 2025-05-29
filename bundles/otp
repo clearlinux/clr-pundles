@@ -1,0 +1,20 @@
+# [TITLE]: otp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ncurses-lib)
+include(otp-bin)
+include(otp-lib)
+include(otp-license)
+include(otp-services)
+include(systemd-extras-libsystemd)
+include(unixODBC-lib)
+include(zlib-lib)
+otp

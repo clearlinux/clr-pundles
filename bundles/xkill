@@ -1,0 +1,10 @@
+# [TITLE]: xkill
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xkill-bin)
+include(xkill-license)
+include(xkill-man)
+xkill

@@ -1,0 +1,23 @@
+# [TITLE]: scummvm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-lib)
+include(SDL_net-lib)
+include(alsa-lib-lib)
+include(curl-lib)
+include(flac-lib)
+include(freetype-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libogg-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libtheora-lib)
+include(libvorbis-lib)
+include(scummvm-data)
+include(scummvm-license)
+include(zlib-lib)
+scummvm-bin

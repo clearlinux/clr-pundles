@@ -1,0 +1,10 @@
+# [TITLE]: picocom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(picocom-bin)
+include(picocom-license)
+include(picocom-man)
+picocom

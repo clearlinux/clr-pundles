@@ -1,0 +1,42 @@
+# [TITLE]: kalarm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kalarm-data)
+include(kalarm-lib)
+include(kalarm-license)
+include(kauth-lib)
+include(kcalendarcore-lib)
+include(kcalutils-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kglobalaccel-lib)
+include(kguiaddons-lib)
+include(kholidays-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kidentitymanagement-lib)
+include(kio-lib)
+include(kitemmodels-lib)
+include(kmime-lib)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(kstatusnotifieritem-lib)
+include(ktextaddons-lib)
+include(ktextwidgets-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kalarm-bin

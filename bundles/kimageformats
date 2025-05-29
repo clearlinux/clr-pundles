@@ -1,0 +1,9 @@
+# [TITLE]: kimageformats
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kimageformats-lib)
+include(kimageformats-license)
+kimageformats

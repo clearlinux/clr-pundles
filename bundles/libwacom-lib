@@ -1,0 +1,13 @@
+# [TITLE]: libwacom-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libevdev-lib)
+include(libgudev-lib)
+include(libwacom-data)
+include(libwacom-license)
+libwacom-lib

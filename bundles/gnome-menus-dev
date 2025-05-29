@@ -1,0 +1,11 @@
+# [TITLE]: gnome-menus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnome-menus)
+include(gnome-menus-data)
+include(gnome-menus-lib)
+gnome-menus-dev

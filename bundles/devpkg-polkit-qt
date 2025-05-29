@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-polkit-qt-dev
+include(polkit-qt-dev)
 include(qt-core)
 include(qt-basic)
 include(libglib)

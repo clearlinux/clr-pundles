@@ -1,0 +1,11 @@
+# [TITLE]: kolourpaint-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kolourpaint)
+include(kolourpaint-bin)
+include(kolourpaint-data)
+include(kolourpaint-lib)
+kolourpaint-dev

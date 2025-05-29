@@ -1,0 +1,17 @@
+# [TITLE]: ktextwidgets-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcompletion-lib)
+include(kconfig-lib)
+include(ki18n-lib)
+include(ktextwidgets-license)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6speech-lib)
+include(sonnet-lib)
+ktextwidgets-lib

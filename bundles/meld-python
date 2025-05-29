@@ -1,0 +1,8 @@
+# [TITLE]: meld-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(meld-python3)
+meld-python

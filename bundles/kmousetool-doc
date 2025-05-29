@@ -1,0 +1,8 @@
+# [TITLE]: kmousetool-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmousetool-man)
+kmousetool-doc

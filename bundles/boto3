@@ -1,0 +1,13 @@
+# [TITLE]: boto3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boto3-license)
+include(boto3-python)
+include(boto3-python3)
+include(botocore)
+include(pypi-jmespath-python3)
+include(pypi-s3transfer-python3)
+boto3

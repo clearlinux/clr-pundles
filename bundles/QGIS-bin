@@ -1,0 +1,18 @@
+# [TITLE]: QGIS-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(QGIS-data)
+include(QGIS-lib)
+include(QGIS-license)
+include(gdal-lib)
+include(geos-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ocl-icd-lib)
+include(proj-lib)
+include(qt6base-lib)
+QGIS-bin

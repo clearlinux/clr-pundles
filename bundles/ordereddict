@@ -1,0 +1,10 @@
+# [TITLE]: ordereddict
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ordereddict-license)
+include(ordereddict-python)
+include(ordereddict-python3)
+ordereddict

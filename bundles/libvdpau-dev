@@ -1,0 +1,10 @@
+# [TITLE]: libvdpau-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvdpau)
+include(libvdpau-lib)
+include(pkg-config-bin)
+libvdpau-dev

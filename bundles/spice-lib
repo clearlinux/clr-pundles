@@ -1,0 +1,15 @@
+# [TITLE]: spice-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(lz4-lib)
+include(openssl-lib)
+include(pixman-lib)
+include(spice-license)
+include(zlib-lib)
+spice-lib

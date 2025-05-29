@@ -1,0 +1,9 @@
+# [TITLE]: compat-grpc-soname66
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-grpc-soname66-lib)
+include(compat-grpc-soname66-license)
+compat-grpc-soname66

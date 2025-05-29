@@ -1,0 +1,9 @@
+# [TITLE]: SDL_image
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL_image-lib)
+include(SDL_image-license)
+SDL_image

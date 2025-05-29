@@ -1,0 +1,11 @@
+# [TITLE]: VTK-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(VTK)
+include(VTK-bin)
+include(VTK-data)
+include(VTK-lib)
+VTK-dev

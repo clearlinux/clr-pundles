@@ -1,0 +1,10 @@
+# [TITLE]: glog-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glog)
+include(glog-lib)
+include(pkg-config-bin)
+glog-dev

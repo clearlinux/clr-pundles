@@ -1,0 +1,10 @@
+# [TITLE]: conntrack-tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(conntrack-tools-license)
+include(libc6)
+include(libnetfilter_conntrack-lib)
+conntrack-tools-lib

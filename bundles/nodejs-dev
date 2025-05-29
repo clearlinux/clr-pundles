@@ -1,0 +1,9 @@
+# [TITLE]: nodejs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nodejs)
+include(nodejs-bin)
+nodejs-dev

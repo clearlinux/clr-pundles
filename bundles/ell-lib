@@ -1,0 +1,10 @@
+# [TITLE]: ell-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ell-license)
+include(libc6)
+include(libgcc1)
+ell-lib

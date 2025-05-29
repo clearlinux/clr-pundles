@@ -1,0 +1,11 @@
+# [TITLE]: lskat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lskat-bin)
+include(lskat-data)
+include(lskat-license)
+include(lskat-locales)
+lskat

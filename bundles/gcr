@@ -1,0 +1,14 @@
+# [TITLE]: gcr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcr-bin)
+include(gcr-data)
+include(gcr-lib)
+include(gcr-libexec)
+include(gcr-license)
+include(gcr-locales)
+include(gcr-services)
+gcr

@@ -1,0 +1,12 @@
+# [TITLE]: libdazzle
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdazzle-bin)
+include(libdazzle-data)
+include(libdazzle-lib)
+include(libdazzle-license)
+include(libdazzle-locales)
+libdazzle

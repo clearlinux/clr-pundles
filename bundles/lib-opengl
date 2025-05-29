@@ -22,7 +22,7 @@ harfbuzz-lib
 include(libX11-lib)
 include(fontconfig-lib)
 include(freetype-lib)
-libclc
+include(libclc)
 # end of custom additions
 
 # main packages

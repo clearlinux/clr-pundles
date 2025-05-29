@@ -1,0 +1,14 @@
+# [TITLE]: gtksourceview4-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fribidi-dev)
+include(glib-dev)
+include(gtk3-dev)
+include(gtksourceview4)
+include(gtksourceview4-data)
+include(gtksourceview4-lib)
+include(libxml2-dev)
+gtksourceview4-dev

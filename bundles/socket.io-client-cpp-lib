@@ -1,0 +1,12 @@
+# [TITLE]: socket.io-client-cpp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(socket.io-client-cpp-license)
+socket.io-client-cpp-lib

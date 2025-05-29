@@ -1,0 +1,15 @@
+# [TITLE]: clr-boot-manager-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-boot-manager-data)
+include(clr-boot-manager-license)
+include(clr-boot-manager-services)
+include(efivar-lib)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(util-linux-lib)
+clr-boot-manager-bin

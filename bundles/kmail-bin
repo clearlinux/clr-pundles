@@ -1,0 +1,40 @@
+# [TITLE]: kmail-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(akonadi-mime-lib)
+include(kcalendarcore-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kidentitymanagement-lib)
+include(kio-lib)
+include(kitemmodels-lib)
+include(kmail-data)
+include(kmail-lib)
+include(kmail-license)
+include(kmailtransport-lib)
+include(kmime-lib)
+include(knotifications-lib)
+include(kontactinterface-lib)
+include(kservice-lib)
+include(ktnef-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mailcommon-lib)
+include(messagelib-lib)
+include(pimcommon-lib)
+include(qt6base-lib)
+include(qt6webengine-lib)
+kmail-bin

@@ -1,0 +1,14 @@
+# [TITLE]: php-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdbm-lib)
+include(libc6)
+include(libgcc1)
+include(lmdb-lib)
+include(php-data)
+include(php-license)
+include(sqlite-autoconf-lib)
+php-lib

@@ -1,0 +1,9 @@
+# [TITLE]: PyQt6-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyQt6-license)
+include(filesystem)
+PyQt6-bin

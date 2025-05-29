@@ -1,0 +1,14 @@
+# [TITLE]: fprintd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(fprintd-data)
+include(fprintd-libexec)
+include(fprintd-license)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+fprintd-lib

@@ -1,0 +1,11 @@
+# [TITLE]: CGNS-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CGNS-lib)
+include(CGNS-license)
+include(filesystem)
+include(libc6)
+CGNS-bin

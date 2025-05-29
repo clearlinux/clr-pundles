@@ -1,0 +1,13 @@
+# [TITLE]: gtk-layer-shell-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk-layer-shell)
+include(gtk-layer-shell-data)
+include(gtk-layer-shell-lib)
+include(gtk3-dev)
+include(pkg-config-bin)
+include(wayland-dev)
+gtk-layer-shell-dev

@@ -1,0 +1,12 @@
+# [TITLE]: libcomps-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-dev)
+include(libcomps)
+include(libcomps-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+libcomps-dev

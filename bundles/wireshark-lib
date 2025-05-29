@@ -1,0 +1,25 @@
+# [TITLE]: wireshark-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(brotli-lib)
+include(c-ares-lib)
+include(glib-lib)
+include(gnutls-lib)
+include(krb5-lib)
+include(libc6)
+include(libgcrypt-lib)
+include(libxml2-lib)
+include(lz4-lib)
+include(nghttp2-lib)
+include(opus-lib)
+include(pcre2-lib)
+include(sbc-lib)
+include(snappy-lib)
+include(wireshark-data)
+include(wireshark-license)
+include(zlib-lib)
+include(zstd-lib)
+wireshark-lib

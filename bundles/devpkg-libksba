@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libksba-dev
+include(libksba-dev)

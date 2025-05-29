@@ -1,0 +1,12 @@
+# [TITLE]: mkl-dnn-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mkl-dnn-license)
+mkl-dnn-lib

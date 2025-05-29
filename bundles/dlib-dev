@@ -1,0 +1,10 @@
+# [TITLE]: dlib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dlib)
+include(dlib-lib)
+include(pkg-config-bin)
+dlib-dev

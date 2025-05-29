@@ -1,0 +1,11 @@
+# [TITLE]: inetutils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inetutils-bin)
+include(inetutils-info)
+include(inetutils-license)
+include(inetutils-man)
+inetutils

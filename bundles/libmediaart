@@ -1,0 +1,10 @@
+# [TITLE]: libmediaart
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmediaart-data)
+include(libmediaart-lib)
+include(libmediaart-license)
+libmediaart

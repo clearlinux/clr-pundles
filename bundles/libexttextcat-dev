@@ -1,0 +1,12 @@
+# [TITLE]: libexttextcat-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libexttextcat)
+include(libexttextcat-bin)
+include(libexttextcat-data)
+include(libexttextcat-lib)
+include(pkg-config-bin)
+libexttextcat-dev

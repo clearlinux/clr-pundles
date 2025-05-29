@@ -1,0 +1,9 @@
+# [TITLE]: kinfocenter-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kinfocenter-data)
+include(kinfocenter-license)
+kinfocenter-bin

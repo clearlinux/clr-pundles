@@ -1,0 +1,15 @@
+# [TITLE]: kdoctools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kdoctools-data)
+include(kdoctools-license)
+include(libc6)
+include(libstdc++)
+include(libxml2-lib)
+include(libxslt-lib)
+include(qt6base-lib)
+kdoctools-bin

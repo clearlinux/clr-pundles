@@ -1,0 +1,9 @@
+# [TITLE]: threadweaver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(threadweaver-lib)
+include(threadweaver-license)
+threadweaver

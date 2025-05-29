@@ -1,0 +1,9 @@
+# [TITLE]: libdecor
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdecor-lib)
+include(libdecor-license)
+libdecor

@@ -1,0 +1,8 @@
+# [TITLE]: wavpack-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wavpack-man)
+wavpack-doc

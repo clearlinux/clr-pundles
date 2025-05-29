@@ -1,0 +1,9 @@
+# [TITLE]: nghttp3-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nghttp3-license)
+nghttp3-lib

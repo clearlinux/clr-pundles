@@ -1,0 +1,12 @@
+# [TITLE]: inkscape-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inkscape)
+include(inkscape-bin)
+include(inkscape-data)
+include(inkscape-lib)
+include(pkg-config-bin)
+inkscape-dev

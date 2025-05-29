@@ -1,0 +1,10 @@
+# [TITLE]: usb-modeswitch-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(usb-modeswitch-data-config)
+include(usb-modeswitch-data-data)
+include(usb-modeswitch-data-license)
+usb-modeswitch-data

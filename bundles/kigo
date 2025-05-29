@@ -1,0 +1,11 @@
+# [TITLE]: kigo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kigo-bin)
+include(kigo-data)
+include(kigo-license)
+include(kigo-locales)
+kigo

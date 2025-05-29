@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libxfce4ui-dev
+include(libxfce4ui-dev)
 include(libX11client)
 include(libglib)
 include(lib-opengl)

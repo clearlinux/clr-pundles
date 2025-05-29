@@ -1,0 +1,21 @@
+# [TITLE]: kpipewire-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kpipewire-data)
+include(kpipewire-license)
+include(libc6)
+include(libdrm-lib)
+include(libepoxy-lib)
+include(libstdc++)
+include(libva-lib)
+include(mesa-lib)
+include(not-ffmpeg-lib)
+include(pipewire-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kpipewire-lib

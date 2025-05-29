@@ -1,0 +1,11 @@
+# [TITLE]: procps-ng-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(procps-ng)
+include(procps-ng-bin)
+include(procps-ng-lib)
+procps-ng-dev

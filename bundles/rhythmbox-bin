@@ -1,0 +1,15 @@
+# [TITLE]: rhythmbox-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(rhythmbox-data)
+include(rhythmbox-lib)
+include(rhythmbox-libexec)
+include(rhythmbox-license)
+rhythmbox-bin

@@ -1,0 +1,11 @@
+# [TITLE]: gnome-menus
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-menus-data)
+include(gnome-menus-lib)
+include(gnome-menus-license)
+include(gnome-menus-locales)
+gnome-menus

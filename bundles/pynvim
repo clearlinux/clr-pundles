@@ -1,0 +1,12 @@
+# [TITLE]: pynvim
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pynvim-license)
+include(pynvim-python)
+include(pynvim-python3)
+include(pypi-greenlet-python3)
+include(pypi-msgpack-python3)
+pynvim

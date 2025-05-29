@@ -1,0 +1,15 @@
+# [TITLE]: kdesdk-kio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kdesdk-kio-data)
+include(kdesdk-kio-license)
+include(ki18n-lib)
+include(kio-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kdesdk-kio-lib

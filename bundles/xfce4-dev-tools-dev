@@ -1,0 +1,9 @@
+# [TITLE]: xfce4-dev-tools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xfce4-dev-tools)
+include(xfce4-dev-tools-bin)
+xfce4-dev-tools-dev

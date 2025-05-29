@@ -1,0 +1,11 @@
+# [TITLE]: pam_u2f
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pam_u2f-bin)
+include(pam_u2f-lib)
+include(pam_u2f-license)
+include(pam_u2f-man)
+pam_u2f

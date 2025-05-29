@@ -1,0 +1,10 @@
+# [TITLE]: libxklavier
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxklavier-data)
+include(libxklavier-lib)
+include(libxklavier-license)
+libxklavier

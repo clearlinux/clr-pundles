@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-ibus-table-dev
+include(ibus-table-dev)

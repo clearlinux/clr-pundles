@@ -1,0 +1,14 @@
+# [TITLE]: signond-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(signond)
+include(signond-bin)
+include(signond-data)
+include(signond-dev)
+include(signond-lib)
+signond-dev

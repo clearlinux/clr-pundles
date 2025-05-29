@@ -1,0 +1,11 @@
+# [TITLE]: phonon
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(phonon-bin)
+include(phonon-data)
+include(phonon-lib)
+include(phonon-license)
+phonon

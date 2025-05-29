@@ -1,0 +1,17 @@
+# [TITLE]: prison-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(prison-data)
+include(prison-license)
+include(qrencode-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6multimedia-lib)
+include(zxing-lib)
+prison-lib

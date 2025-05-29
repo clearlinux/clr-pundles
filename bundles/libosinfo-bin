@@ -1,0 +1,13 @@
+# [TITLE]: libosinfo-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libosinfo-data)
+include(libosinfo-lib)
+include(libosinfo-license)
+libosinfo-bin

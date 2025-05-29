@@ -1,0 +1,10 @@
+# [TITLE]: opa-fm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opa-fm-data)
+include(opa-fm-license)
+include(opa-fm-services)
+opa-fm-bin

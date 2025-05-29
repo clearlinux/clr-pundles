@@ -1,0 +1,8 @@
+# [TITLE]: lxc-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+lxc-data

@@ -1,0 +1,12 @@
+# [TITLE]: libabigail-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libabigail)
+include(libabigail-bin)
+include(libabigail-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+libabigail-dev

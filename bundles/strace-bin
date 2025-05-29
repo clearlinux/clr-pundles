@@ -1,0 +1,10 @@
+# [TITLE]: strace-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libunwind-lib)
+include(strace-license)
+strace-bin

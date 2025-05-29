@@ -1,0 +1,12 @@
+# [TITLE]: opencl-clang-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(llvm17-lib)
+include(opencl-clang-license)
+opencl-clang-lib

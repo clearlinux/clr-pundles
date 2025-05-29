@@ -1,0 +1,18 @@
+# [TITLE]: kde-dev-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kde-dev-utils-data)
+include(kde-dev-utils-license)
+include(ki18n-lib)
+include(kparts-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kde-dev-utils-bin

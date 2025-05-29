@@ -1,0 +1,17 @@
+# [TITLE]: sddm-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(sddm-config)
+include(sddm-license)
+include(systemd-extras-libsystemd)
+sddm-libexec

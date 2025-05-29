@@ -1,0 +1,16 @@
+# [TITLE]: libgnomekbd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk3-dev)
+include(libX11-dev)
+include(libgnomekbd)
+include(libgnomekbd-bin)
+include(libgnomekbd-data)
+include(libgnomekbd-dev)
+include(libgnomekbd-lib)
+include(libxklavier-dev)
+libgnomekbd-dev

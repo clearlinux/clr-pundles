@@ -1,0 +1,15 @@
+# [TITLE]: stoken-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gmp-dev)
+include(libxml2-dev)
+include(nettle-dev)
+include(pkg-config-bin)
+include(stoken)
+include(stoken-bin)
+include(stoken-data)
+include(stoken-lib)
+stoken-dev

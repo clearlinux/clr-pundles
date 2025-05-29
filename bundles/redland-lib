@@ -1,0 +1,17 @@
+# [TITLE]: redland-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtool-lib)
+include(mariadb-extras-clientlib)
+include(postgresql-lib)
+include(raptor2-lib)
+include(rasqal-lib)
+include(redland-data)
+include(redland-license)
+include(sqlite-autoconf-lib)
+include(unixODBC-lib)
+redland-lib

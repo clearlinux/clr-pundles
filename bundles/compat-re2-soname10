@@ -1,0 +1,9 @@
+# [TITLE]: compat-re2-soname10
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-re2-soname10-lib)
+include(compat-re2-soname10-license)
+compat-re2-soname10

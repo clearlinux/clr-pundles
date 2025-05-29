@@ -1,0 +1,10 @@
+# [TITLE]: dvisvgm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dvisvgm-bin)
+include(dvisvgm-license)
+include(dvisvgm-man)
+dvisvgm

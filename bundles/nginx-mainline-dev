@@ -1,0 +1,11 @@
+# [TITLE]: nginx-mainline-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nginx-mainline)
+include(nginx-mainline-bin)
+include(nginx-mainline-data)
+include(nginx-mainline-lib)
+nginx-mainline-dev

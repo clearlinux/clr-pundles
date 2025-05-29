@@ -1,0 +1,10 @@
+# [TITLE]: x86-simd-sort-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(x86-simd-sort)
+include(x86-simd-sort-lib)
+x86-simd-sort-dev

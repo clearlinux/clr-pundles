@@ -1,0 +1,11 @@
+# [TITLE]: efibootmgr-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(efibootmgr-license)
+include(efivar-lib)
+include(libc6)
+include(popt-lib)
+efibootmgr-bin

@@ -1,0 +1,9 @@
+# [TITLE]: qt6datavis3d
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6datavis3d-lib)
+include(qt6datavis3d-license)
+qt6datavis3d

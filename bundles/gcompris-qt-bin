@@ -1,0 +1,16 @@
+# [TITLE]: gcompris-qt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcompris-qt-data)
+include(gcompris-qt-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6multimedia-lib)
+include(qt6sensors-lib)
+gcompris-qt-bin

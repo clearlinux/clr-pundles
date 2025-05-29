@@ -1,0 +1,10 @@
+# [TITLE]: ipaddr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipaddr-license)
+include(ipaddr-python)
+include(ipaddr-python3)
+ipaddr

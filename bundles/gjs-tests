@@ -1,0 +1,11 @@
+# [TITLE]: gjs-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gjs)
+include(glib-lib)
+include(libc6)
+gjs-tests

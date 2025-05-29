@@ -1,0 +1,11 @@
+# [TITLE]: pigz-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(pigz-license)
+include(zlib-lib)
+pigz-bin

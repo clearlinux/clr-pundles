@@ -1,0 +1,21 @@
+# [TITLE]: cantata-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(cantata-data)
+include(cantata-license)
+include(compat-taglib-soname1-lib)
+include(libc6)
+include(libgcc1)
+include(libmtp-lib)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtmultimedia-lib)
+include(qtsvg-lib)
+include(systemd-lib)
+include(zlib-lib)
+cantata-bin

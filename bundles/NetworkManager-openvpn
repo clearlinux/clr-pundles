@@ -1,0 +1,12 @@
+# [TITLE]: NetworkManager-openvpn
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-openvpn-data)
+include(NetworkManager-openvpn-lib)
+include(NetworkManager-openvpn-libexec)
+include(NetworkManager-openvpn-license)
+include(NetworkManager-openvpn-locales)
+NetworkManager-openvpn

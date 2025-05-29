@@ -1,0 +1,16 @@
+# [TITLE]: upower-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libgudev-lib)
+include(polkit-lib)
+include(python3-core)
+include(upower-config)
+include(upower-lib)
+include(upower-license)
+upower-libexec

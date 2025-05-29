@@ -1,0 +1,14 @@
+# [TITLE]: qtscxml-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qtbase-dev)
+include(qtbase-extras)
+include(qtdeclarative-dev)
+include(qtscxml)
+include(qtscxml-lib)
+qtscxml-dev

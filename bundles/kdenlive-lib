@@ -1,0 +1,15 @@
+# [TITLE]: kdenlive-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(kdenlive-data)
+include(kdenlive-license)
+include(kio-lib)
+include(libc6)
+include(libstdc++)
+include(mlt-lib)
+include(qt6base-lib)
+kdenlive-lib

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-btrfs-progs-dev
+include(btrfs-progs-dev)
 include(btrfs-progs)

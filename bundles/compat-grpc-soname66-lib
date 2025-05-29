@@ -1,0 +1,18 @@
+# [TITLE]: compat-grpc-soname66-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(c-ares-lib)
+include(compat-abseil-cpp-rolling-lib)
+include(compat-grpc-soname66-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+include(protobuf-lib)
+include(re2-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+compat-grpc-soname66-lib

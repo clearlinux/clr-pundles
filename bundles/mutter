@@ -1,0 +1,20 @@
+# [TITLE]: mutter
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-session)
+include(gnome-settings-daemon)
+include(gsettings-desktop-schemas)
+include(hicolor-icon-theme)
+include(mutter-bin)
+include(mutter-config)
+include(mutter-data)
+include(mutter-lib)
+include(mutter-libexec)
+include(mutter-license)
+include(mutter-locales)
+include(mutter-man)
+include(xwayland)
+mutter

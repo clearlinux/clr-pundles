@@ -1,0 +1,22 @@
+# [TITLE]: kteatime-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(kteatime-data)
+include(kteatime-license)
+include(ktextwidgets-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kteatime-bin

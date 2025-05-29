@@ -1,0 +1,12 @@
+# [TITLE]: createrepo_c-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(createrepo_c-lib)
+include(glib-lib)
+include(libc6)
+include(python3-core)
+include(python3-lib)
+createrepo_c-python3

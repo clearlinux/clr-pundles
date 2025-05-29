@@ -1,0 +1,13 @@
+# [TITLE]: libvirt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvirt)
+include(libvirt-bin)
+include(libvirt-data)
+include(libvirt-dev)
+include(libvirt-lib)
+include(pkg-config-bin)
+libvirt-dev

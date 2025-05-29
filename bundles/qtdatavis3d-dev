@@ -1,0 +1,10 @@
+# [TITLE]: qtdatavis3d-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtdatavis3d)
+include(qtdatavis3d-lib)
+qtdatavis3d-dev

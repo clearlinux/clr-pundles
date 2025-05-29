@@ -1,0 +1,9 @@
+# [TITLE]: azure-macro-utils-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(azure-macro-utils-c-data)
+include(azure-macro-utils-c-license)
+azure-macro-utils-c

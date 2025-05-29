@@ -1,0 +1,11 @@
+# [TITLE]: qt6wayland-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6wayland)
+include(qt6wayland-lib)
+qt6wayland-dev

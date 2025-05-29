@@ -1,0 +1,14 @@
+# [TITLE]: kservice-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kservice-data)
+include(kservice-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kservice-lib

@@ -1,0 +1,11 @@
+# [TITLE]: vkd3d-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(vkd3d-lib)
+include(vkd3d-license)
+vkd3d-bin

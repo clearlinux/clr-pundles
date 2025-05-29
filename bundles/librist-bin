@@ -1,0 +1,11 @@
+# [TITLE]: librist-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libmicrohttpd-lib)
+include(librist-lib)
+include(librist-license)
+librist-bin

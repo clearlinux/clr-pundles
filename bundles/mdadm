@@ -1,0 +1,11 @@
+# [TITLE]: mdadm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mdadm-bin)
+include(mdadm-config)
+include(mdadm-license)
+include(mdadm-man)
+mdadm

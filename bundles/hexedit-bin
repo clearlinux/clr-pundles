@@ -1,0 +1,10 @@
+# [TITLE]: hexedit-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hexedit-license)
+include(libc6)
+include(ncurses-lib)
+hexedit-bin

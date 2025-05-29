@@ -1,0 +1,12 @@
+# [TITLE]: slirp4netns-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libseccomp-lib)
+include(libslirp-lib)
+include(slirp4netns-license)
+slirp4netns-bin

@@ -1,0 +1,17 @@
+# [TITLE]: kgamma-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kgamma-data)
+include(kgamma-license)
+include(ki18n-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kgamma-lib

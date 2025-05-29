@@ -1,0 +1,10 @@
+# [TITLE]: neomutt-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(neomutt-license)
+include(perl-bin)
+neomutt-libexec

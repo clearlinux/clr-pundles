@@ -1,0 +1,10 @@
+# [TITLE]: libvma-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libvma)
+include(libvma-bin)
+include(libvma-lib)
+libvma-dev

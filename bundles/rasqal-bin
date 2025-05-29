@@ -1,0 +1,12 @@
+# [TITLE]: rasqal-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(raptor2-lib)
+include(rasqal-lib)
+include(rasqal-license)
+rasqal-bin

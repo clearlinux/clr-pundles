@@ -1,0 +1,11 @@
+# [TITLE]: gtk-doc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gtk-doc-data)
+include(gtk-doc-license)
+include(python3-core)
+gtk-doc-bin

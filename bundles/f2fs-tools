@@ -1,0 +1,11 @@
+# [TITLE]: f2fs-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(f2fs-tools-bin)
+include(f2fs-tools-lib)
+include(f2fs-tools-license)
+include(f2fs-tools-man)
+f2fs-tools

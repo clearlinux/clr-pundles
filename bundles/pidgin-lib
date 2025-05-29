@@ -1,0 +1,26 @@
+# [TITLE]: pidgin-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(dbus-glib-lib)
+include(dbus-lib)
+include(evolution-data-server-lib)
+include(farstream-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnutls-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk+-lib)
+include(libc6)
+include(libidn-lib)
+include(libxml2-lib)
+include(nspr)
+include(nss-lib)
+include(pango-lib)
+include(pidgin-data)
+include(pidgin-license)
+pidgin-lib

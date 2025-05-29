@@ -1,0 +1,10 @@
+# [TITLE]: SDL
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-bin)
+include(SDL-lib)
+include(SDL-license)
+SDL

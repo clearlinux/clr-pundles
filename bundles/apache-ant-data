@@ -1,0 +1,10 @@
+# [TITLE]: apache-ant-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(perl-bin)
+include(python3-core)
+apache-ant-data

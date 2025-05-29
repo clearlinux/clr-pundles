@@ -1,0 +1,22 @@
+# [TITLE]: system-config-printer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-lib)
+include(glib-lib)
+include(libc6)
+include(libusb-lib)
+include(python3-core)
+include(system-config-printer-bin)
+include(system-config-printer-config)
+include(system-config-printer-data)
+include(system-config-printer-license)
+include(system-config-printer-locales)
+include(system-config-printer-man)
+include(system-config-printer-python)
+include(system-config-printer-python3)
+include(system-config-printer-services)
+include(systemd-lib)
+system-config-printer

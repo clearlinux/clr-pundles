@@ -1,0 +1,21 @@
+# [TITLE]: rpm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(bzip2-lib)
+include(elfutils-lib)
+include(file-lib)
+include(libc6)
+include(libcap-lib)
+include(libgcrypt-lib)
+include(lua-lib)
+include(popt-lib)
+include(rpm-license)
+include(sqlite-autoconf-lib)
+include(xz-lib)
+include(zlib-lib)
+include(zstd-lib)
+rpm-lib

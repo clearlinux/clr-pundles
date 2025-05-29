@@ -1,0 +1,25 @@
+# [TITLE]: kscreenlocker-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kidletime-lib)
+include(knotifications-lib)
+include(kpackage-lib)
+include(kscreenlocker-data)
+include(kscreenlocker-license)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(wayland-lib)
+kscreenlocker-lib

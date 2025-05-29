@@ -1,0 +1,8 @@
+# [TITLE]: lutris-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+lutris-data

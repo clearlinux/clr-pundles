@@ -1,0 +1,11 @@
+# [TITLE]: compat-glibmm-soname24
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-glibmm-soname24-data)
+include(compat-glibmm-soname24-lib)
+include(compat-glibmm-soname24-license)
+include(perl-bin)
+compat-glibmm-soname24

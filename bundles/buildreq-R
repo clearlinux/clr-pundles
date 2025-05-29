@@ -1,0 +1,18 @@
+# [TITLE]: buildreq-R
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(R)
+include(R-R6)
+include(R-crayon)
+include(R-dev)
+include(R-digest)
+include(R-knitr)
+include(R-magrittr)
+include(R-praise)
+include(R-stringr)
+include(R-testit)
+include(R-testthat)
+buildreq-R

@@ -1,0 +1,9 @@
+# [TITLE]: paho.mqtt.cpp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(paho.mqtt.cpp)
+include(paho.mqtt.cpp-lib)
+paho.mqtt.cpp-dev

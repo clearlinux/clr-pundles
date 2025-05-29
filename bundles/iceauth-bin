@@ -1,0 +1,10 @@
+# [TITLE]: iceauth-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iceauth-license)
+include(libX11-lib)
+include(libc6)
+iceauth-bin

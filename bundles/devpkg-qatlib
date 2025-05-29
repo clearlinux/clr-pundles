@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-qatlib-dev
+include(qatlib-dev)
 include(numactl)

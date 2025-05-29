@@ -1,0 +1,20 @@
+# [TITLE]: postgis-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SFCGAL-lib)
+include(compat-libxml2-soname2-lib)
+include(gdal-lib)
+include(geos-lib)
+include(json-c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pcre2-lib)
+include(postgis-data)
+include(postgis-license)
+include(proj-lib)
+include(protobuf-c-lib)
+postgis-lib

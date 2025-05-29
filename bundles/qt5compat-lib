@@ -1,0 +1,14 @@
+# [TITLE]: qt5compat-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(icu4c-lib)
+include(libc6)
+include(libstdc++)
+include(qt5compat-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6shadertools-lib)
+qt5compat-lib

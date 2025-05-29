@@ -1,0 +1,8 @@
+# [TITLE]: lldpd-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+lldpd-services

@@ -1,0 +1,17 @@
+# [TITLE]: plasma-welcome-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(kio-lib)
+include(kjobwidgets-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-welcome-data)
+include(plasma-welcome-license)
+include(qt6base-lib)
+plasma-welcome-lib

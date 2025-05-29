@@ -1,0 +1,11 @@
+# [TITLE]: cfitsio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cfitsio-license)
+include(curl-lib)
+include(libc6)
+include(zlib-lib)
+cfitsio-lib

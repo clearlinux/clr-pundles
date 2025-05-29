@@ -1,0 +1,11 @@
+# [TITLE]: SDL_ttf-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-lib)
+include(SDL_ttf-license)
+include(freetype-lib)
+include(libc6)
+SDL_ttf-lib

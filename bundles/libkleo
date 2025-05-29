@@ -1,0 +1,11 @@
+# [TITLE]: libkleo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkleo-data)
+include(libkleo-lib)
+include(libkleo-license)
+include(libkleo-locales)
+libkleo

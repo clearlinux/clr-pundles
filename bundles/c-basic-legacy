@@ -5,13 +5,13 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(autoconf)
-autoconf213
+include(autoconf213)
 include(autogen)
 include(automake)
 include(automake-dev)
 include(binutils)
-binutils-dev
-binutils-locales
+include(binutils-dev)
+include(binutils-locales)
 include(bison)
 include(check)
 include(check-dev)

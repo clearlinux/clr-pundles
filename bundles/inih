@@ -1,0 +1,9 @@
+# [TITLE]: inih
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inih-lib)
+include(inih-license)
+inih

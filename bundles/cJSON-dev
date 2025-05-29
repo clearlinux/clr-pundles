@@ -1,0 +1,10 @@
+# [TITLE]: cJSON-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cJSON)
+include(cJSON-lib)
+include(pkg-config-bin)
+cJSON-dev

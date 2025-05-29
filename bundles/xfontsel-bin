@@ -1,0 +1,13 @@
+# [TITLE]: xfontsel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXaw-lib)
+include(libXmu-lib)
+include(libXt-lib)
+include(libc6)
+include(xfontsel-data)
+xfontsel-bin

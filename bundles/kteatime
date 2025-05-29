@@ -1,0 +1,11 @@
+# [TITLE]: kteatime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kteatime-bin)
+include(kteatime-data)
+include(kteatime-license)
+include(kteatime-locales)
+kteatime

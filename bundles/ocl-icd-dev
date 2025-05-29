@@ -1,0 +1,12 @@
+# [TITLE]: ocl-icd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ocl-icd)
+include(ocl-icd-bin)
+include(ocl-icd-lib)
+include(opencl-headers-dev)
+include(pkg-config-bin)
+ocl-icd-dev

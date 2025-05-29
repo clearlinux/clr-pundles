@@ -1,0 +1,8 @@
+# [TITLE]: kde-gtk-config-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+kde-gtk-config-data

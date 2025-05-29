@@ -1,0 +1,12 @@
+# [TITLE]: folks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(folks-bin)
+include(folks-data)
+include(folks-lib)
+include(folks-license)
+include(folks-locales)
+folks

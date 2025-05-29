@@ -1,0 +1,16 @@
+# [TITLE]: lttng-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(libc6)
+include(libgcc1)
+include(lttng-tools-data)
+include(lttng-tools-lib)
+include(lttng-tools-license)
+include(lttng-ust-lib)
+include(popt-lib)
+include(userspace-rcu-lib)
+lttng-tools-bin

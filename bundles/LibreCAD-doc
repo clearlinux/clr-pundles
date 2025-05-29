@@ -1,0 +1,8 @@
+# [TITLE]: LibreCAD-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibreCAD-man)
+LibreCAD-doc

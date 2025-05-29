@@ -1,0 +1,18 @@
+# [TITLE]: kconfigwidgets-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-data)
+include(kconfigwidgets-license)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kconfigwidgets-lib

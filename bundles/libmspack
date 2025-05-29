@@ -1,0 +1,9 @@
+# [TITLE]: libmspack
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmspack-lib)
+include(libmspack-license)
+libmspack

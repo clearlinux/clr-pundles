@@ -1,0 +1,12 @@
+# [TITLE]: clucene-core-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clucene-core-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(zlib-lib)
+clucene-core-lib

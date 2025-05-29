@@ -1,0 +1,12 @@
+# [TITLE]: mkfontscale-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freetype-lib)
+include(libc6)
+include(libfontenc-lib)
+include(mkfontscale-license)
+include(zlib-lib)
+mkfontscale-bin

@@ -1,0 +1,11 @@
+# [TITLE]: libglibutil-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libglibutil)
+include(libglibutil-lib)
+include(pkg-config-bin)
+libglibutil-dev

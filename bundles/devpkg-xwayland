@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-xwayland-dev
+include(xwayland-dev)
 include(lib-opengl)
 include(libX11client)

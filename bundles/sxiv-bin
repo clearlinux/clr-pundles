@@ -1,0 +1,16 @@
+# [TITLE]: sxiv-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-lib)
+include(giflib-lib)
+include(imlib2-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libc6)
+include(libexif-lib)
+include(sxiv-data)
+include(sxiv-license)
+sxiv-bin

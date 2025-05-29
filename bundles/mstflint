@@ -1,0 +1,11 @@
+# [TITLE]: mstflint
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mstflint-bin)
+include(mstflint-data)
+include(mstflint-license)
+include(mstflint-man)
+mstflint

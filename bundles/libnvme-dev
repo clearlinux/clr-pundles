@@ -1,0 +1,14 @@
+# [TITLE]: libnvme-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-dev)
+include(keyutils-dev)
+include(libnvme)
+include(libnvme-lib)
+include(liburing-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+libnvme-dev

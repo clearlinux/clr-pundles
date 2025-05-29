@@ -1,0 +1,13 @@
+# [TITLE]: gnome-control-center
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glibc-locale)
+include(gnome-control-center-bin)
+include(gnome-control-center-data)
+include(gnome-control-center-libexec)
+include(gnome-control-center-license)
+include(gnome-control-center-locales)
+gnome-control-center

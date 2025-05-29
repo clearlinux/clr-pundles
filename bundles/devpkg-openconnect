@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-openconnect-dev
+include(openconnect-dev)
 include(gdk-pixbuf)
 include(libX11client)
 include(harfbuzz-lib)

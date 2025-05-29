@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-util-macros-dev
+include(util-macros-dev)

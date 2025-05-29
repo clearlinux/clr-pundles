@@ -1,0 +1,10 @@
+# [TITLE]: mpi4py
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mpi4py-license)
+include(mpi4py-python)
+include(mpi4py-python3)
+mpi4py

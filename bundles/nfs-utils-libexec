@@ -1,0 +1,11 @@
+# [TITLE]: nfs-utils-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nfs-utils-config)
+include(nfs-utils-license)
+include(util-linux-lib)
+nfs-utils-libexec

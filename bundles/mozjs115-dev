@@ -1,0 +1,10 @@
+# [TITLE]: mozjs115-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mozjs115-bin)
+include(mozjs115-lib)
+include(pkg-config-bin)
+mozjs115-dev

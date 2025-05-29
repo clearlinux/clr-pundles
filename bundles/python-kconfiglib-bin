@@ -1,0 +1,9 @@
+# [TITLE]: python-kconfiglib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-kconfiglib-license)
+include(python3-core)
+python-kconfiglib-bin

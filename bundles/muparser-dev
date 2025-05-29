@@ -1,0 +1,10 @@
+# [TITLE]: muparser-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(muparser)
+include(muparser-lib)
+include(pkg-config-bin)
+muparser-dev

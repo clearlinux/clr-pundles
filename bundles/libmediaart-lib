@@ -1,0 +1,12 @@
+# [TITLE]: libmediaart-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libc6)
+include(libmediaart-data)
+include(libmediaart-license)
+libmediaart-lib

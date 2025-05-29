@@ -1,0 +1,10 @@
+# [TITLE]: python-systemd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-systemd-license)
+include(python-systemd-python)
+include(python-systemd-python3)
+python-systemd

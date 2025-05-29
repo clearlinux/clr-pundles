@@ -1,0 +1,10 @@
+# [TITLE]: lv2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lv2-bin)
+include(lv2-lib)
+include(lv2-license)
+lv2

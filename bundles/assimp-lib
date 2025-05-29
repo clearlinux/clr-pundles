@@ -1,0 +1,13 @@
+# [TITLE]: assimp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(assimp-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(minizip-ng-lib)
+include(zlib-lib)
+assimp-lib

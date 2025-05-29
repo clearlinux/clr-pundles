@@ -1,0 +1,28 @@
+# [TITLE]: kscreenlocker
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(kpackage-lib)
+include(kscreenlocker-data)
+include(kscreenlocker-lib)
+include(kscreenlocker-license)
+include(kscreenlocker-locales)
+include(kwindowsystem-lib)
+include(layer-shell-qt-lib)
+include(libX11-lib)
+include(libc6)
+include(libkscreen-lib)
+include(libplasma-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(wayland-lib)
+kscreenlocker

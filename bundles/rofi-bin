@@ -1,0 +1,19 @@
+# [TITLE]: rofi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(coreutils-bin)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(rofi-data)
+include(rofi-license)
+include(startup-notification-lib)
+include(xcb-util-cursor-lib)
+rofi-bin

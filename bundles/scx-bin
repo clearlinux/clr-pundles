@@ -1,0 +1,16 @@
+# [TITLE]: scx-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-lib)
+include(libbpf-lib)
+include(libc6)
+include(libgcc1)
+include(libseccomp-lib)
+include(scx-data)
+include(scx-license)
+include(scx-services)
+include(zlib-lib)
+scx-bin

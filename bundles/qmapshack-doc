@@ -1,0 +1,8 @@
+# [TITLE]: qmapshack-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qmapshack-man)
+qmapshack-doc

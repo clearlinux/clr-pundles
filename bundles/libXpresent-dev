@@ -1,0 +1,11 @@
+# [TITLE]: libXpresent-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libXpresent)
+include(libXpresent-lib)
+include(xorgproto-dev)
+libXpresent-dev

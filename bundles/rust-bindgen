@@ -1,0 +1,9 @@
+# [TITLE]: rust-bindgen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rust-bindgen-bin)
+include(rust-bindgen-license)
+rust-bindgen

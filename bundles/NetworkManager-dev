@@ -1,0 +1,13 @@
+# [TITLE]: NetworkManager-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager)
+include(NetworkManager-bin)
+include(NetworkManager-data)
+include(NetworkManager-lib)
+include(glib-dev)
+include(pkg-config-bin)
+NetworkManager-dev

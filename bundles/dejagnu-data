@@ -1,0 +1,8 @@
+# [TITLE]: dejagnu-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+dejagnu-data

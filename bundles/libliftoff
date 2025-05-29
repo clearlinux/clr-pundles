@@ -1,0 +1,9 @@
+# [TITLE]: libliftoff
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libliftoff-lib)
+include(libliftoff-license)
+libliftoff

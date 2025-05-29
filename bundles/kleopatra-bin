@@ -1,0 +1,34 @@
+# [TITLE]: kleopatra-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-extras)
+include(gpgme-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kitemmodels-lib)
+include(kleopatra-data)
+include(kleopatra-license)
+include(kmime-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libassuan-lib)
+include(libc6)
+include(libgcc1)
+include(libgpg-error-lib)
+include(libkleo-lib)
+include(libstdc++)
+include(mimetreeparser-lib)
+include(qt6base-lib)
+kleopatra-bin

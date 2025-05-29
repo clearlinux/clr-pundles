@@ -1,0 +1,12 @@
+# [TITLE]: OpenSC-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenSC)
+include(OpenSC-bin)
+include(OpenSC-data)
+include(OpenSC-lib)
+include(pkg-config-bin)
+OpenSC-dev

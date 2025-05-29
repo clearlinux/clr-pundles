@@ -1,0 +1,14 @@
+# [TITLE]: gi-docgen-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(MarkupSafe-python3)
+include(pypi-jinja2-python3)
+include(pypi-markdown-python3)
+include(pypi-packaging-python3)
+include(pypi-pygments-python3)
+include(pypi-typogrify-python3)
+include(python3-core)
+gi-docgen-python3

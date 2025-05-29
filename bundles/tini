@@ -1,0 +1,9 @@
+# [TITLE]: tini
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tini-bin)
+include(tini-license)
+tini

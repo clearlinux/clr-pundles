@@ -1,0 +1,9 @@
+# [TITLE]: perl-Package-Generator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Package-Generator-license)
+include(perl-Package-Generator-perl)
+perl-Package-Generator

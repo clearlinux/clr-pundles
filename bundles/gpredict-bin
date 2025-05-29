@@ -1,0 +1,17 @@
+# [TITLE]: gpredict-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(curl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(goocanvas-lib)
+include(gpredict-data)
+include(gpredict-license)
+include(gtk3-lib)
+include(libc6)
+include(pango-lib)
+gpredict-bin

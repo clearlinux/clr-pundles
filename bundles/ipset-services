@@ -1,0 +1,8 @@
+# [TITLE]: ipset-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+ipset-services

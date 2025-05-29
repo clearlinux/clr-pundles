@@ -1,0 +1,26 @@
+# [TITLE]: sway-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(json-c-lib)
+include(libX11-lib)
+include(libc6)
+include(libdrm-lib)
+include(libevdev-lib)
+include(libinput-lib)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(pcre2-lib)
+include(pixman-lib)
+include(sway-data)
+include(sway-license)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+include(wayland-lib)
+include(wlroots-lib)
+sway-bin

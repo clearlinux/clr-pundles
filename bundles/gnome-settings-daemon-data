@@ -1,0 +1,8 @@
+# [TITLE]: gnome-settings-daemon-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+gnome-settings-daemon-data

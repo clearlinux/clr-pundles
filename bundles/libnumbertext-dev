@@ -1,0 +1,12 @@
+# [TITLE]: libnumbertext-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnumbertext)
+include(libnumbertext-bin)
+include(libnumbertext-data)
+include(libnumbertext-lib)
+include(pkg-config-bin)
+libnumbertext-dev

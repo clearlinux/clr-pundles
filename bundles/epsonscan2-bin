@@ -1,0 +1,16 @@
+# [TITLE]: epsonscan2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(epsonscan2-config)
+include(epsonscan2-data)
+include(epsonscan2-lib)
+include(epsonscan2-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+epsonscan2-bin

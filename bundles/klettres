@@ -1,0 +1,11 @@
+# [TITLE]: klettres
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(klettres-bin)
+include(klettres-data)
+include(klettres-license)
+include(klettres-locales)
+klettres

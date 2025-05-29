@@ -1,0 +1,11 @@
+# [TITLE]: latencytop-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(latencytop-data)
+include(libc6)
+include(ncurses-lib)
+latencytop-bin

@@ -1,0 +1,21 @@
+# [TITLE]: network-manager-applet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ModemManager-lib)
+include(NetworkManager-lib)
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libnma-lib)
+include(libsecret-lib)
+include(network-manager-applet-data)
+include(network-manager-applet-license)
+include(pango-lib)
+network-manager-applet-bin

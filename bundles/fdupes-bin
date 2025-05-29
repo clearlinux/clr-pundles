@@ -1,0 +1,11 @@
+# [TITLE]: fdupes-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(pcre2-lib)
+include(sqlite-autoconf-lib)
+fdupes-bin

@@ -1,0 +1,10 @@
+# [TITLE]: tigervnc-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(tigervnc-license)
+tigervnc-libexec

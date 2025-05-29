@@ -1,0 +1,13 @@
+# [TITLE]: libwpd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+include(libwpd-lib)
+include(libwpd-license)
+libwpd-bin

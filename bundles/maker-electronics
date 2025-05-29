@@ -13,4 +13,4 @@ include(qt-basic)
 
 # Design tools
 include(kicad)
-ngspice
+include(ngspice)

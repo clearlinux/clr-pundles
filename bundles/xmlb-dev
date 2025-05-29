@@ -1,0 +1,14 @@
+# [TITLE]: xmlb-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pkg-config-bin)
+include(xmlb)
+include(xmlb-bin)
+include(xmlb-data)
+include(xmlb-lib)
+include(zstd-dev)
+xmlb-dev

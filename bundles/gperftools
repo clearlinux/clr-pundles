@@ -1,0 +1,11 @@
+# [TITLE]: gperftools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gperftools-bin)
+include(gperftools-lib)
+include(gperftools-license)
+include(gperftools-man)
+gperftools

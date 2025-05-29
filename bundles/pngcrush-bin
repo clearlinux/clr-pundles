@@ -1,0 +1,11 @@
+# [TITLE]: pngcrush-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpng-lib)
+include(pngcrush-license)
+include(zlib-lib)
+pngcrush-bin

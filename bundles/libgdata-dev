@@ -1,0 +1,16 @@
+# [TITLE]: libgdata-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gcr-soname1-dev)
+include(compat-libsoup-soname-24-dev)
+include(glib-dev)
+include(gnome-online-accounts-dev)
+include(json-glib-dev)
+include(libgdata)
+include(libgdata-data)
+include(libgdata-lib)
+include(libxml2-dev)
+libgdata-dev

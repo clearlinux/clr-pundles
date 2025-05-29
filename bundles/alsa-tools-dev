@@ -1,0 +1,11 @@
+# [TITLE]: alsa-tools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-tools)
+include(alsa-tools-bin)
+include(alsa-tools-data)
+include(alsa-tools-lib)
+alsa-tools-dev

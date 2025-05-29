@@ -1,0 +1,13 @@
+# [TITLE]: xfconf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pkg-config-bin)
+include(xfconf)
+include(xfconf-bin)
+include(xfconf-data)
+include(xfconf-lib)
+xfconf-dev

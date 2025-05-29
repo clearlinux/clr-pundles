@@ -1,0 +1,9 @@
+# [TITLE]: mock-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-backoff-python3)
+include(python3-core)
+mock-python3

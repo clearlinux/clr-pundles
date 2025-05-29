@@ -1,0 +1,10 @@
+# [TITLE]: metis
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(metis-bin)
+include(metis-lib)
+include(metis-license)
+metis

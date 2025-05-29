@@ -1,0 +1,14 @@
+# [TITLE]: libqmi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(libmbim-lib)
+include(libqmi-data)
+include(libqmi-libexec)
+include(libqmi-license)
+libqmi-lib

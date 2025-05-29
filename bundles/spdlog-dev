@@ -1,0 +1,10 @@
+# [TITLE]: spdlog-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(spdlog)
+include(spdlog-lib)
+spdlog-dev

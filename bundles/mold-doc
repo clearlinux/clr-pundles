@@ -1,0 +1,8 @@
+# [TITLE]: mold-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mold-man)
+mold-doc

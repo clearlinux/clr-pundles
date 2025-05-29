@@ -1,0 +1,11 @@
+# [TITLE]: openssh-extras-server
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssh-autostart)
+include(openssh-services)
+include(openssl-lib)
+openssh-extras-server

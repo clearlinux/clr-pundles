@@ -1,0 +1,8 @@
+# [TITLE]: fontforge-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontforge-python3)
+fontforge-python

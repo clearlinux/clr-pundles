@@ -1,0 +1,11 @@
+# [TITLE]: qatlib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(numactl-lib)
+include(openssl-lib)
+include(qatlib-license)
+qatlib-lib

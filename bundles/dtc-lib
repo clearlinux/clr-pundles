@@ -1,0 +1,9 @@
+# [TITLE]: dtc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dtc-license)
+include(libc6)
+dtc-lib

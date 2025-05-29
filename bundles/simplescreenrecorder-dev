@@ -1,0 +1,16 @@
+# [TITLE]: simplescreenrecorder-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glu-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(simplescreenrecorder)
+include(simplescreenrecorder-bin)
+include(simplescreenrecorder-data)
+simplescreenrecorder-dev

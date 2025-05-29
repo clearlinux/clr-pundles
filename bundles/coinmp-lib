@@ -1,0 +1,14 @@
+# [TITLE]: coinmp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(coinmp-data)
+include(coinmp-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(zlib-lib)
+coinmp-lib

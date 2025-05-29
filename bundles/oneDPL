@@ -1,0 +1,8 @@
+# [TITLE]: oneDPL
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oneDPL-license)
+oneDPL

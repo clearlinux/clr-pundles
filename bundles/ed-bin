@@ -1,0 +1,10 @@
+# [TITLE]: ed-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ed-license)
+include(filesystem)
+include(libc6)
+ed-bin

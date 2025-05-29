@@ -1,0 +1,18 @@
+# [TITLE]: kalarm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kalarm-bin)
+include(kalarm-data)
+include(kalarm-lib)
+include(kalarm-license)
+include(kalarm-locales)
+include(kauth-lib)
+include(kconfig-lib)
+include(ki18n-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kalarm

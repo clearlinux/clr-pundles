@@ -1,0 +1,18 @@
+# [TITLE]: UxPlay-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(UxPlay-license)
+include(avahi-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libplist-lib)
+include(libstdc++)
+include(openssl-lib)
+UxPlay-bin

@@ -1,0 +1,21 @@
+# [TITLE]: kscreen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ki18n-lib)
+include(kscreen-bin)
+include(kscreen-data)
+include(kscreen-lib)
+include(kscreen-license)
+include(kscreen-locales)
+include(kscreen-services)
+include(kwindowsystem-lib)
+include(layer-shell-qt-lib)
+include(libc6)
+include(libkscreen-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kscreen

@@ -1,0 +1,10 @@
+# [TITLE]: libspectre-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ghostscript-lib)
+include(libc6)
+include(libspectre-license)
+libspectre-lib

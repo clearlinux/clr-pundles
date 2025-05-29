@@ -1,0 +1,16 @@
+# [TITLE]: gdm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(gdm-data)
+include(gdm-libexec)
+include(gdm-license)
+include(glib-lib)
+include(keyutils-lib)
+include(libc6)
+include(libgcc1)
+include(systemd-extras-libsystemd)
+gdm-lib

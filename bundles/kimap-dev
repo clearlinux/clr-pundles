@@ -1,0 +1,11 @@
+# [TITLE]: kimap-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kimap)
+include(kimap-data)
+include(kimap-lib)
+include(kimap-staticdev)
+kimap-dev

@@ -1,0 +1,15 @@
+# [TITLE]: volume_key-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cryptsetup-lib)
+include(glib-lib)
+include(gpgme-lib)
+include(libc6)
+include(nspr)
+include(nss-lib)
+include(util-linux-lib)
+include(volume_key-license)
+volume_key-lib

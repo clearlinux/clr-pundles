@@ -1,0 +1,19 @@
+# [TITLE]: pim-sieve-editor-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(libc6)
+include(libstdc++)
+include(pim-sieve-editor-data)
+include(pim-sieve-editor-lib)
+include(pim-sieve-editor-license)
+include(qt6base-lib)
+pim-sieve-editor-bin

@@ -1,0 +1,11 @@
+# [TITLE]: cyme-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cyme-data)
+include(cyme-license)
+include(libc6)
+include(libgcc1)
+cyme-bin

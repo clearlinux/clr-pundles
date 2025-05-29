@@ -1,0 +1,11 @@
+# [TITLE]: buildreq-qmake
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(extra-cmake-modules)
+include(qt6base-dev)
+include(qtbase-dev)
+include(qtbase-extras)
+buildreq-qmake

@@ -1,0 +1,13 @@
+# [TITLE]: intel-media-driver-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intel-gmmlib-lib)
+include(intel-media-driver-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libva-lib)
+intel-media-driver-lib

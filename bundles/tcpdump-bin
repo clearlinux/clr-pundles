@@ -1,0 +1,11 @@
+# [TITLE]: tcpdump-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcap-ng-lib)
+include(libpcap-lib)
+include(tcpdump-license)
+tcpdump-bin

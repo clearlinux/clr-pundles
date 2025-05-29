@@ -1,0 +1,13 @@
+# [TITLE]: stoken-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(gmp-lib)
+include(libc6)
+include(nettle-lib)
+include(stoken-data)
+include(stoken-license)
+stoken-lib

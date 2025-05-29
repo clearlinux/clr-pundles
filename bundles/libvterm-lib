@@ -1,0 +1,9 @@
+# [TITLE]: libvterm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libvterm-license)
+libvterm-lib

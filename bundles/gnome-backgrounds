@@ -1,0 +1,9 @@
+# [TITLE]: gnome-backgrounds
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-backgrounds-data)
+include(gnome-backgrounds-license)
+gnome-backgrounds

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-telepathy-glib-dev
+include(telepathy-glib-dev)
 include(libglib)

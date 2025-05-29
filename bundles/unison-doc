@@ -1,0 +1,8 @@
+# [TITLE]: unison-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(unison-man)
+unison-doc

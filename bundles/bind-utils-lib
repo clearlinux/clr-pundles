@@ -1,0 +1,16 @@
+# [TITLE]: bind-utils-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bind-utils-license)
+include(krb5-lib)
+include(libc6)
+include(libmaxminddb-lib)
+include(libuv-lib)
+include(nghttp2-lib)
+include(openssl-lib)
+include(userspace-rcu-lib)
+include(zlib-lib)
+bind-utils-lib

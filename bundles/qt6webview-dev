@@ -1,0 +1,12 @@
+# [TITLE]: qt6webview-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6declarative-dev)
+include(qt6webview)
+include(qt6webview-lib)
+qt6webview-dev

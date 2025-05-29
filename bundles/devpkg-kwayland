@@ -8,7 +8,7 @@
 include(devpkg-base)
 include(devpkg-qtbase)
 
-kwayland-dev
+include(kwayland-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

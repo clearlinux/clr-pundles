@@ -1,0 +1,11 @@
+# [TITLE]: libksane
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libksane-data)
+include(libksane-lib)
+include(libksane-license)
+include(libksane-locales)
+libksane

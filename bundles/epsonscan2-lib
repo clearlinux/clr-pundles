@@ -1,0 +1,16 @@
+# [TITLE]: epsonscan2-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(epsonscan2-data)
+include(epsonscan2-license)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(libusb-lib)
+include(tiff-lib)
+epsonscan2-lib

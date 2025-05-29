@@ -1,0 +1,33 @@
+# [TITLE]: evolution-data-server-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(evolution-data-server-data)
+include(evolution-data-server-libexec)
+include(evolution-data-server-license)
+include(glib-lib)
+include(gnome-online-accounts-lib)
+include(gtk3-lib)
+include(gtk4-lib)
+include(icu4c-lib)
+include(json-glib-lib)
+include(krb5-lib)
+include(libc6)
+include(libgcc1)
+include(libical-lib)
+include(libsecret-lib)
+include(libsoup-lib)
+include(libstdc++)
+include(libxml2-lib)
+include(nspr)
+include(nss-lib)
+include(openldap-lib)
+include(pango-lib)
+include(sqlite-autoconf-lib)
+include(util-linux-lib)
+include(webkitgtk-lib)
+include(zlib-lib)
+evolution-data-server-lib

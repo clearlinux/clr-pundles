@@ -1,0 +1,13 @@
+# [TITLE]: mozjs91
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mozjs91-bin)
+include(mozjs91-lib)
+include(pypi-psutil)
+include(pypi-pyasn1)
+include(pypi-pyopenssl)
+include(pypi-wheel)
+mozjs91

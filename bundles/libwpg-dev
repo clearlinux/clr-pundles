@@ -1,0 +1,13 @@
+# [TITLE]: libwpg-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librevenge-dev)
+include(libwpd-dev)
+include(libwpg)
+include(libwpg-bin)
+include(libwpg-lib)
+include(pkg-config-bin)
+libwpg-dev

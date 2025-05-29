@@ -1,0 +1,10 @@
+# [TITLE]: isomd5sum-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isomd5sum-license)
+include(libc6)
+include(popt-lib)
+isomd5sum-bin

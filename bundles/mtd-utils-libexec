@@ -1,0 +1,10 @@
+# [TITLE]: mtd-utils-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(mtd-utils-license)
+mtd-utils-libexec

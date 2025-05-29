@@ -1,0 +1,12 @@
+# [TITLE]: gitolite
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gitolite-bin)
+include(gitolite-data)
+include(gitolite-license)
+include(gitolite-perl)
+include(perl-Redis-perl)
+gitolite

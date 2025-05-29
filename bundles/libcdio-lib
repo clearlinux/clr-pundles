@@ -1,0 +1,11 @@
+# [TITLE]: libcdio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libcdio-license)
+include(libgcc1)
+include(libstdc++)
+libcdio-lib

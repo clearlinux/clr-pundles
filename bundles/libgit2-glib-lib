@@ -1,0 +1,12 @@
+# [TITLE]: libgit2-glib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgit2-glib-data)
+include(libgit2-glib-license)
+include(libgit2-lib)
+libgit2-glib-lib

@@ -1,0 +1,10 @@
+# [TITLE]: libtracefs
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libtracefs-bin)
+include(libtracefs-data)
+include(libtracefs-lib)
+libtracefs

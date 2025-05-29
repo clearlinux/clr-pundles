@@ -1,0 +1,9 @@
+# [TITLE]: libglibutil
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libglibutil-lib)
+include(libglibutil-license)
+libglibutil

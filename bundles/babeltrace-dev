@@ -1,0 +1,11 @@
+# [TITLE]: babeltrace-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babeltrace)
+include(babeltrace-bin)
+include(babeltrace-lib)
+include(pkg-config-bin)
+babeltrace-dev

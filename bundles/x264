@@ -1,0 +1,10 @@
+# [TITLE]: x264
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(x264-bin)
+include(x264-lib)
+include(x264-license)
+x264

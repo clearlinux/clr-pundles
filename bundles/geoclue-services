@@ -1,0 +1,8 @@
+# [TITLE]: geoclue-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+geoclue-services

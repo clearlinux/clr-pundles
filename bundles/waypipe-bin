@@ -1,0 +1,15 @@
+# [TITLE]: waypipe-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libva-lib)
+include(lz4-lib)
+include(mesa-lib)
+include(not-ffmpeg-lib)
+include(wayland-lib)
+include(waypipe-license)
+include(zstd-lib)
+waypipe-bin

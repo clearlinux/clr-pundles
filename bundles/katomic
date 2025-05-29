@@ -1,0 +1,11 @@
+# [TITLE]: katomic
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(katomic-bin)
+include(katomic-data)
+include(katomic-license)
+include(katomic-locales)
+katomic

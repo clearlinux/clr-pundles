@@ -1,0 +1,13 @@
+# [TITLE]: usbredir-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libusb-dev)
+include(pkg-config-bin)
+include(usbredir)
+include(usbredir-bin)
+include(usbredir-dev)
+include(usbredir-lib)
+usbredir-dev

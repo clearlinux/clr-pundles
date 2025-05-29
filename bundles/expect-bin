@@ -1,0 +1,11 @@
+# [TITLE]: expect-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expect-lib)
+include(filesystem)
+include(libc6)
+include(tcl-lib)
+expect-bin

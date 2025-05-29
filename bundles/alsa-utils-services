@@ -1,0 +1,8 @@
+# [TITLE]: alsa-utils-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+alsa-utils-services

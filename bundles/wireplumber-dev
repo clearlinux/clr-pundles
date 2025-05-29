@@ -1,0 +1,14 @@
+# [TITLE]: wireplumber-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(pipewire-dev)
+include(pkg-config-bin)
+include(wireplumber)
+include(wireplumber-bin)
+include(wireplumber-data)
+include(wireplumber-lib)
+wireplumber-dev

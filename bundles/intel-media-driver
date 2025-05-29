@@ -1,0 +1,9 @@
+# [TITLE]: intel-media-driver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intel-media-driver-lib)
+include(intel-media-driver-license)
+intel-media-driver

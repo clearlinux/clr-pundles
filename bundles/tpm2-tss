@@ -1,0 +1,11 @@
+# [TITLE]: tpm2-tss
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tpm2-tss-config)
+include(tpm2-tss-lib)
+include(tpm2-tss-license)
+include(tpm2-tss-man)
+tpm2-tss

@@ -1,0 +1,10 @@
+# [TITLE]: qt6scxml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6scxml-lib)
+include(qt6scxml-libexec)
+include(qt6scxml-license)
+qt6scxml

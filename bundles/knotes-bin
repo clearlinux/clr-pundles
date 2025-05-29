@@ -1,0 +1,38 @@
+# [TITLE]: knotes-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(akonadi-notes-lib)
+include(akonadi-search-lib)
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdnssd-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kmime-lib)
+include(knotes-data)
+include(knotes-lib)
+include(knotes-license)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(kontactinterface-lib)
+include(kstatusnotifieritem-lib)
+include(ktextaddons-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+knotes-bin

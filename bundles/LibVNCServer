@@ -1,0 +1,9 @@
+# [TITLE]: LibVNCServer
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LibVNCServer-lib)
+include(LibVNCServer-license)
+LibVNCServer

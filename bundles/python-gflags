@@ -1,0 +1,11 @@
+# [TITLE]: python-gflags
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-gflags-bin)
+include(python-gflags-license)
+include(python-gflags-python)
+include(python-gflags-python3)
+python-gflags

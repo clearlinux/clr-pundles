@@ -1,0 +1,16 @@
+# [TITLE]: pipewire
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jack2)
+include(pipewire-bin)
+include(pipewire-config)
+include(pipewire-data)
+include(pipewire-lib)
+include(pipewire-license)
+include(pipewire-locales)
+include(pipewire-services)
+include(pulseaudio)
+pipewire

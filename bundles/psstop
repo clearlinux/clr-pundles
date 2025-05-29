@@ -1,0 +1,10 @@
+# [TITLE]: psstop
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(psstop-bin)
+include(psstop-license)
+include(psstop-man)
+psstop

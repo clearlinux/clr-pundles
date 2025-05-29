@@ -1,0 +1,10 @@
+# [TITLE]: iso-codes-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iso-codes)
+include(iso-codes-data)
+include(pkg-config-bin)
+iso-codes-dev

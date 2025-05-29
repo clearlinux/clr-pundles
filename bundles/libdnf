@@ -1,0 +1,12 @@
+# [TITLE]: libdnf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libdnf-lib)
+include(libdnf-license)
+include(libdnf-locales)
+include(libdnf-python)
+include(libdnf-python3)
+libdnf

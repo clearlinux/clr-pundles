@@ -1,0 +1,11 @@
+# [TITLE]: cscope-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cscope-license)
+include(filesystem)
+include(libc6)
+include(ncurses-lib)
+cscope-bin

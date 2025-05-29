@@ -1,0 +1,12 @@
+# [TITLE]: stunnel-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(stunnel-license)
+include(stunnel-services)
+include(systemd-extras-libsystemd)
+stunnel-bin

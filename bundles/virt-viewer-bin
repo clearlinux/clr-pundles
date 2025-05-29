@@ -1,0 +1,19 @@
+# [TITLE]: virt-viewer-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libvirt-glib-lib)
+include(libvirt-lib)
+include(pango-lib)
+include(spice-gtk-lib)
+include(virt-viewer-data)
+include(virt-viewer-license)
+include(vte-lib)
+virt-viewer-bin

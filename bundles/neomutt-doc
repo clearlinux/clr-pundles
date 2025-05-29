@@ -1,0 +1,8 @@
+# [TITLE]: neomutt-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(neomutt-man)
+neomutt-doc

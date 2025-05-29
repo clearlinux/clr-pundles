@@ -1,0 +1,10 @@
+# [TITLE]: telepathy-qt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(telepathy-qt)
+include(telepathy-qt-lib)
+telepathy-qt-dev

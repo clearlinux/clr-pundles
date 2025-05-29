@@ -1,0 +1,10 @@
+# [TITLE]: flmsg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flmsg-bin)
+include(flmsg-data)
+include(flmsg-license)
+flmsg

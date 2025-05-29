@@ -1,0 +1,9 @@
+# [TITLE]: xorgproto-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xorgproto-dev)
+xorgproto-dev32

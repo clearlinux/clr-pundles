@@ -1,0 +1,11 @@
+# [TITLE]: pinentry
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pinentry-bin)
+include(pinentry-data)
+include(pinentry-info)
+include(pinentry-license)
+pinentry

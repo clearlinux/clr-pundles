@@ -1,0 +1,13 @@
+# [TITLE]: vala-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(graphviz-lib)
+include(libc6)
+include(libgcc1)
+include(vala-data)
+include(vala-license)
+vala-lib

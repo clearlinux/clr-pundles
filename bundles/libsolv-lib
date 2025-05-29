@@ -1,0 +1,14 @@
+# [TITLE]: libsolv-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(expat-lib)
+include(libc6)
+include(libsolv-data)
+include(libsolv-license)
+include(rpm-lib)
+include(zlib-lib)
+include(zstd-lib)
+libsolv-lib

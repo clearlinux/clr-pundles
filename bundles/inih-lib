@@ -1,0 +1,11 @@
+# [TITLE]: inih-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inih-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+inih-lib

@@ -1,0 +1,10 @@
+# [TITLE]: connect-proxy
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(connect-proxy-bin)
+include(connect-proxy-license)
+include(connect-proxy-man)
+connect-proxy

@@ -1,0 +1,22 @@
+# [TITLE]: kscreen-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kscreen-data)
+include(kscreen-license)
+include(libX11-lib)
+include(libc6)
+include(libkscreen-lib)
+include(libplasma-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6sensors-lib)
+kscreen-lib

@@ -1,0 +1,9 @@
+# [TITLE]: glances-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glances-license)
+include(python3-core)
+glances-bin

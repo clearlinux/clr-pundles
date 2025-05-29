@@ -1,0 +1,16 @@
+# [TITLE]: libstoragemgmt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libconfig-lib)
+include(libstoragemgmt-config)
+include(libstoragemgmt-lib)
+include(libstoragemgmt-libexec)
+include(libstoragemgmt-license)
+include(libstoragemgmt-services)
+include(sqlite-autoconf-lib)
+libstoragemgmt-bin

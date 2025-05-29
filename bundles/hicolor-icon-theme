@@ -1,0 +1,9 @@
+# [TITLE]: hicolor-icon-theme
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hicolor-icon-theme-data)
+include(hicolor-icon-theme-license)
+hicolor-icon-theme

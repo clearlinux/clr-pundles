@@ -1,0 +1,8 @@
+# [TITLE]: rrdtool-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rrdtool-python3)
+rrdtool-python

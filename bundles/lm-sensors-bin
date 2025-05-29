@@ -1,0 +1,14 @@
+# [TITLE]: lm-sensors-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(lm-sensors-lib)
+include(lm-sensors-license)
+include(lm-sensors-services)
+include(perl-bin)
+include(rrdtool-lib)
+lm-sensors-bin

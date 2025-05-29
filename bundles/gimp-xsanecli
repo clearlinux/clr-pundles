@@ -1,0 +1,10 @@
+# [TITLE]: gimp-xsanecli
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(python3)
+include(xsane)
+gimp-xsanecli

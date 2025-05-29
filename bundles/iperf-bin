@@ -1,0 +1,10 @@
+# [TITLE]: iperf-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iperf-lib)
+include(iperf-license)
+include(libc6)
+iperf-bin

@@ -1,0 +1,11 @@
+# [TITLE]: gtksourceview
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtksourceview-data)
+include(gtksourceview-lib)
+include(gtksourceview-license)
+include(gtksourceview-locales)
+gtksourceview

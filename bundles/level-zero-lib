@@ -1,0 +1,11 @@
+# [TITLE]: level-zero-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(level-zero-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+level-zero-lib

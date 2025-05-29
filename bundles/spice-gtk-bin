@@ -1,0 +1,15 @@
+# [TITLE]: spice-gtk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libc6)
+include(spice-gtk-data)
+include(spice-gtk-lib)
+include(spice-gtk-libexec)
+include(spice-gtk-license)
+spice-gtk-bin

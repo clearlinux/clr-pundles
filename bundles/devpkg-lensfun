@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-lensfun-dev
+include(lensfun-dev)
 include(libglib)
 include(libstdcpp)
 include(lib-imageformat)

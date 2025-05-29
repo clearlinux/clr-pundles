@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-directx-headers-dev
+include(directx-headers-dev)

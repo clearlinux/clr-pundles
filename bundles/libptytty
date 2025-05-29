@@ -1,0 +1,9 @@
+# [TITLE]: libptytty
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libptytty-lib)
+include(libptytty-license)
+libptytty

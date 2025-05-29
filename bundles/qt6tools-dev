@@ -1,0 +1,13 @@
+# [TITLE]: qt6tools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6tools)
+include(qt6tools-data)
+include(qt6tools-dev)
+include(qt6tools-lib)
+qt6tools-dev

@@ -1,0 +1,10 @@
+# [TITLE]: itstool-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(itstool-data)
+include(itstool-license)
+include(python3-core)
+itstool-bin

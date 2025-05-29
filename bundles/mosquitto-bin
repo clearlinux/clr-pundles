@@ -1,0 +1,14 @@
+# [TITLE]: mosquitto-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cJSON-lib)
+include(libc6)
+include(mosquitto-data)
+include(mosquitto-lib)
+include(mosquitto-license)
+include(openssl-lib)
+include(systemd-extras-libsystemd)
+mosquitto-bin

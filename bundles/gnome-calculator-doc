@@ -1,0 +1,8 @@
+# [TITLE]: gnome-calculator-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-calculator-man)
+gnome-calculator-doc

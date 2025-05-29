@@ -1,0 +1,9 @@
+# [TITLE]: gh-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gh-license)
+include(libc6)
+gh-bin

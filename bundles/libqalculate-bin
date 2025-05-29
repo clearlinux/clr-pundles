@@ -1,0 +1,14 @@
+# [TITLE]: libqalculate-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libqalculate-data)
+include(libqalculate-lib)
+include(libqalculate-license)
+include(libstdc++)
+include(readline-lib)
+libqalculate-bin

@@ -1,0 +1,10 @@
+# [TITLE]: nmap-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpcap-lib)
+include(openssl-lib)
+nmap-extras

@@ -1,0 +1,12 @@
+# [TITLE]: bcftools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bcftools-libexec)
+include(bcftools-license)
+include(coreutils-bin)
+include(htslib-lib)
+include(libc6)
+bcftools-bin

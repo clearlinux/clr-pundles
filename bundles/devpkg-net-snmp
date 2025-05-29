@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-net-snmp-dev
+include(net-snmp-dev)
 include(perl-basic)
 include(libnl)
 include(libpcap-lib)

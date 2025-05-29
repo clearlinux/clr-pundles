@@ -1,0 +1,10 @@
+# [TITLE]: kitemviews-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kitemviews)
+include(kitemviews-data)
+include(kitemviews-lib)
+kitemviews-dev

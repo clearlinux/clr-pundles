@@ -1,0 +1,30 @@
+# [TITLE]: plasma-discover-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(appstream-lib)
+include(attica-lib)
+include(flatpak-lib)
+include(glib-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(knewstuff-lib)
+include(kservice-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(ostree-lib)
+include(plasma-discover-data)
+include(plasma-discover-license)
+include(qcoro6-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+plasma-discover-lib

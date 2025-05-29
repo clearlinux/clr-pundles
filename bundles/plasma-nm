@@ -1,0 +1,11 @@
+# [TITLE]: plasma-nm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-nm-data)
+include(plasma-nm-lib)
+include(plasma-nm-license)
+include(plasma-nm-locales)
+plasma-nm

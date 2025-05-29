@@ -1,0 +1,15 @@
+# [TITLE]: ccache-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ccache-data)
+include(ccache-license)
+include(fmt-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(xxHash-lib)
+include(zstd-lib)
+ccache-bin

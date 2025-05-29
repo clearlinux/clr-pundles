@@ -1,0 +1,8 @@
+# [TITLE]: totem-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(totem-man)
+totem-doc

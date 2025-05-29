@@ -1,0 +1,13 @@
+# [TITLE]: kmail
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpgme-extras)
+include(kmail-bin)
+include(kmail-data)
+include(kmail-lib)
+include(kmail-license)
+include(kmail-locales)
+kmail

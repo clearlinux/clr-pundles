@@ -1,0 +1,9 @@
+# [TITLE]: Coin-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Coin-data)
+include(Coin-license)
+Coin-bin

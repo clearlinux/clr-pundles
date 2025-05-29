@@ -1,0 +1,13 @@
+# [TITLE]: openjpeg-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lcms2-lib)
+include(libc6)
+include(libpng-lib)
+include(openjpeg-lib)
+include(openjpeg-license)
+include(tiff-lib)
+openjpeg-bin

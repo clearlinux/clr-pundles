@@ -1,0 +1,10 @@
+# [TITLE]: libkdcraw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkdcraw-data)
+include(libkdcraw-lib)
+include(libkdcraw-license)
+libkdcraw

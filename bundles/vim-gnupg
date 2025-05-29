@@ -1,0 +1,8 @@
+# [TITLE]: vim-gnupg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vim-gnupg-data)
+vim-gnupg

@@ -1,0 +1,11 @@
+# [TITLE]: i2c-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(i2c-tools-lib)
+include(i2c-tools-license)
+include(libc6)
+include(perl-bin)
+i2c-tools-bin

@@ -1,0 +1,13 @@
+# [TITLE]: baloo-widgets-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baloo-widgets-data)
+include(baloo-widgets-license)
+include(kfilemetadata-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+baloo-widgets-bin

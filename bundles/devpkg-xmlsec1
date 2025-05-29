@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-xmlsec1-dev
+include(xmlsec1-dev)
 include(lib-openssl)

@@ -1,0 +1,8 @@
+# [TITLE]: qt6activeqt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6activeqt-license)
+qt6activeqt-lib

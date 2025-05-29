@@ -1,0 +1,9 @@
+# [TITLE]: git-gui-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(git-gui-license)
+git-gui-libexec

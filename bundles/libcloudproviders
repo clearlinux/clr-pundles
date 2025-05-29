@@ -1,0 +1,10 @@
+# [TITLE]: libcloudproviders
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcloudproviders-data)
+include(libcloudproviders-lib)
+include(libcloudproviders-license)
+libcloudproviders

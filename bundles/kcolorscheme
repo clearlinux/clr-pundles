@@ -1,0 +1,11 @@
+# [TITLE]: kcolorscheme
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcolorscheme-data)
+include(kcolorscheme-lib)
+include(kcolorscheme-license)
+include(kcolorscheme-locales)
+kcolorscheme

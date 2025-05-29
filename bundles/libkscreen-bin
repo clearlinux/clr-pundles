@@ -1,0 +1,14 @@
+# [TITLE]: libkscreen-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libkscreen-data)
+include(libkscreen-lib)
+include(libkscreen-license)
+include(libkscreen-services)
+include(libstdc++)
+include(qt6base-lib)
+libkscreen-bin

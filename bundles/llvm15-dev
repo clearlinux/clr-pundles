@@ -1,0 +1,13 @@
+# [TITLE]: llvm15-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(llvm15)
+include(llvm15-bin)
+include(llvm15-extras-libllvm)
+include(llvm15-lib)
+llvm15-dev

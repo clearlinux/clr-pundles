@@ -1,0 +1,10 @@
+# [TITLE]: libgpiod
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libgpiod-bin)
+include(libgpiod-lib)
+include(libgpiod-license)
+libgpiod

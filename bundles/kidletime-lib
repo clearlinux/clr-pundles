@@ -1,0 +1,16 @@
+# [TITLE]: kidletime-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kidletime-data)
+include(kidletime-license)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+kidletime-lib

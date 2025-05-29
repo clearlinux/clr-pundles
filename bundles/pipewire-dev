@@ -1,0 +1,13 @@
+# [TITLE]: pipewire-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pipewire)
+include(pipewire-bin)
+include(pipewire-data)
+include(pipewire-dev)
+include(pipewire-lib)
+include(pkg-config-bin)
+pipewire-dev

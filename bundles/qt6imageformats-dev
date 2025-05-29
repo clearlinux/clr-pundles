@@ -1,0 +1,9 @@
+# [TITLE]: qt6imageformats-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6imageformats)
+include(qt6imageformats-lib)
+qt6imageformats-dev

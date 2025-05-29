@@ -1,0 +1,22 @@
+# [TITLE]: qmapshack-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdal-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(proj-lib)
+include(qmapshack-data)
+include(qmapshack-license)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtdeclarative-lib)
+include(qttools-lib)
+include(qtwebengine-lib)
+include(quazip-lib)
+include(routino-lib)
+qmapshack-bin

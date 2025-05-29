@@ -1,0 +1,11 @@
+# [TITLE]: p7zip-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(p7zip-license)
+p7zip-libexec

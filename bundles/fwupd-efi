@@ -1,0 +1,9 @@
+# [TITLE]: fwupd-efi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fwupd-efi-libexec)
+include(fwupd-efi-license)
+fwupd-efi

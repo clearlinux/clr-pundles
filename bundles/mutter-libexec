@@ -1,0 +1,14 @@
+# [TITLE]: mutter-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk4-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(mutter-config)
+include(mutter-license)
+mutter-libexec

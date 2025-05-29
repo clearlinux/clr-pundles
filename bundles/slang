@@ -1,0 +1,12 @@
+# [TITLE]: slang
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(slang-bin)
+include(slang-data)
+include(slang-lib)
+include(slang-license)
+include(slang-man)
+slang

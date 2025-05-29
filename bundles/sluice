@@ -1,0 +1,11 @@
+# [TITLE]: sluice
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sluice-bin)
+include(sluice-data)
+include(sluice-license)
+include(sluice-man)
+sluice

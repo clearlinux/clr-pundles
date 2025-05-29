@@ -1,0 +1,18 @@
+# [TITLE]: dino-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-icu4c-rolling-lib)
+include(dino-data)
+include(dino-lib)
+include(dino-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgee-lib)
+include(pango-lib)
+dino-bin

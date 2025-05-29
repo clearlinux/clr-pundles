@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-metrics-discovery-dev
+include(metrics-discovery-dev)
 include(libstdcpp)

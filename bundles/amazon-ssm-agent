@@ -1,0 +1,12 @@
+# [TITLE]: amazon-ssm-agent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(amazon-ssm-agent-autostart)
+include(amazon-ssm-agent-bin)
+include(amazon-ssm-agent-data)
+include(amazon-ssm-agent-license)
+include(amazon-ssm-agent-services)
+amazon-ssm-agent

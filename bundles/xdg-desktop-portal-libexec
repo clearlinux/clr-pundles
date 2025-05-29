@@ -1,0 +1,16 @@
+# [TITLE]: xdg-desktop-portal-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fuse-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(json-glib-lib)
+include(libc6)
+include(libgcc1)
+include(pipewire-lib)
+include(systemd-extras-libsystemd)
+include(xdg-desktop-portal-license)
+xdg-desktop-portal-libexec

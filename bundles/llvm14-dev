@@ -1,0 +1,12 @@
+# [TITLE]: llvm14-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(llvm14)
+include(llvm14-bin)
+include(llvm14-lib)
+llvm14-dev

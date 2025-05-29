@@ -1,0 +1,11 @@
+# [TITLE]: dssi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dssi-bin)
+include(dssi-lib)
+include(dssi-license)
+include(dssi-man)
+dssi

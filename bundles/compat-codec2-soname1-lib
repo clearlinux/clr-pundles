@@ -1,0 +1,9 @@
+# [TITLE]: compat-codec2-soname1-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-codec2-soname1-license)
+include(libc6)
+compat-codec2-soname1-lib

@@ -1,0 +1,12 @@
+# [TITLE]: znc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(znc)
+include(znc-bin)
+include(znc-data)
+include(znc-lib)
+znc-dev

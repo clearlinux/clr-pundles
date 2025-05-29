@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-zxing-dev
+include(zxing-dev)
 include(libstdcpp)

@@ -1,0 +1,21 @@
+# [TITLE]: kimagemapeditor-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kimagemapeditor-data)
+include(kimagemapeditor-license)
+include(kio-lib)
+include(kparts-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6webengine-lib)
+kimagemapeditor-lib

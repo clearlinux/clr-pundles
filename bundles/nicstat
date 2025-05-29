@@ -1,0 +1,10 @@
+# [TITLE]: nicstat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nicstat-bin)
+include(nicstat-license)
+include(nicstat-man)
+nicstat

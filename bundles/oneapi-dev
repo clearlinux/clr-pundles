@@ -6,6 +6,6 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(llvm)
-dpcpp-compiler
-oneDPL-dev
+include(dpcpp-compiler)
+include(oneDPL-dev)
 include(devpkg-tbb)

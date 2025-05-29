@@ -1,0 +1,13 @@
+# [TITLE]: ipp-usb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipp-usb-bin)
+include(ipp-usb-config)
+include(ipp-usb-data)
+include(ipp-usb-license)
+include(ipp-usb-man)
+include(ipp-usb-services)
+ipp-usb

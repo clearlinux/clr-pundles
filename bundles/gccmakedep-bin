@@ -1,0 +1,9 @@
+# [TITLE]: gccmakedep-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(gccmakedep-license)
+gccmakedep-bin

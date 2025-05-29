@@ -1,0 +1,9 @@
+# [TITLE]: snappy-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(snappy)
+include(snappy-lib)
+snappy-dev

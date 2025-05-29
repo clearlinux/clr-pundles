@@ -1,0 +1,17 @@
+# [TITLE]: libgnomekbd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libgnomekbd-data)
+include(libgnomekbd-license)
+include(libxklavier-lib)
+include(pango-lib)
+libgnomekbd-lib

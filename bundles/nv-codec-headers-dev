@@ -1,0 +1,8 @@
+# [TITLE]: nv-codec-headers-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nv-codec-headers)
+nv-codec-headers-dev

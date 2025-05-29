@@ -1,0 +1,16 @@
+# [TITLE]: tracker-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(tracker-data)
+include(tracker-lib)
+include(tracker-libexec)
+include(tracker-license)
+include(tracker-services)
+tracker-bin

@@ -1,0 +1,11 @@
+# [TITLE]: kplotting-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kplotting-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kplotting-lib

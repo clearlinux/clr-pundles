@@ -1,0 +1,8 @@
+# [TITLE]: os-autoinst-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+os-autoinst-services

@@ -13,12 +13,12 @@ include(inkscape)
 
 
 # common maker libraries for low level hw access
-i2c-tools
+include(i2c-tools)
 include(minicom)
-libftdi1
-libgpiod
-libmodbus
+include(libftdi1)
+include(libgpiod)
+include(libmodbus)
 include(libusb)
-picocom
+include(picocom)
 include(pypi-pyusb)
-usbutils
+include(usbutils)

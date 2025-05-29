@@ -1,0 +1,8 @@
+# [TITLE]: thrift-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(thrift-python3)
+thrift-python

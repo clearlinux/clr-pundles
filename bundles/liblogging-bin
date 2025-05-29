@@ -1,0 +1,10 @@
+# [TITLE]: liblogging-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(liblogging-lib)
+include(liblogging-license)
+liblogging-bin

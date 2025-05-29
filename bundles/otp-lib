@@ -1,0 +1,10 @@
+# [TITLE]: otp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openssl-lib)
+include(otp-license)
+otp-lib

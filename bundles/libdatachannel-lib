@@ -1,0 +1,15 @@
+# [TITLE]: libdatachannel-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libdatachannel-license)
+include(libgcc1)
+include(libjuice-lib)
+include(libsrtp-lib)
+include(libstdc++)
+include(openssl-lib)
+include(usrsctp-lib)
+libdatachannel-lib

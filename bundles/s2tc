@@ -1,0 +1,10 @@
+# [TITLE]: s2tc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(s2tc-lib)
+include(s2tc-license)
+include(s2tc-man)
+s2tc

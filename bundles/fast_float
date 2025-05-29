@@ -1,0 +1,9 @@
+# [TITLE]: fast_float
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fast_float-data)
+include(fast_float-license)
+fast_float

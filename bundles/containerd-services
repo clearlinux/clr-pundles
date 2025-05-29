@@ -1,0 +1,8 @@
+# [TITLE]: containerd-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+containerd-services

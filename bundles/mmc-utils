@@ -1,0 +1,9 @@
+# [TITLE]: mmc-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mmc-utils-bin)
+include(mmc-utils-man)
+mmc-utils

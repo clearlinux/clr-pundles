@@ -1,0 +1,12 @@
+# [TITLE]: pbzip2-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pbzip2-license)
+pbzip2-bin

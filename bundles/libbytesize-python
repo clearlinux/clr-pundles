@@ -1,0 +1,8 @@
+# [TITLE]: libbytesize-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbytesize-python3)
+libbytesize-python

@@ -1,0 +1,10 @@
+# [TITLE]: LPCNet-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LPCNet-license)
+include(codec2-lib)
+include(libc6)
+LPCNet-lib

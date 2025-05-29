@@ -1,0 +1,19 @@
+# [TITLE]: khangman-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(khangman-data)
+include(khangman-license)
+include(ki18n-lib)
+include(knewstuff-lib)
+include(libc6)
+include(libkeduvocdocument-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+khangman-bin

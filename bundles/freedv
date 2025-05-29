@@ -1,0 +1,11 @@
+# [TITLE]: freedv
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freedv-bin)
+include(freedv-data)
+include(freedv-license)
+include(wxWidgets)
+freedv

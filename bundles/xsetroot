@@ -1,0 +1,10 @@
+# [TITLE]: xsetroot
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xsetroot-bin)
+include(xsetroot-license)
+include(xsetroot-man)
+xsetroot

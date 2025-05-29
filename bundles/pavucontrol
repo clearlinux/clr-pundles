@@ -1,0 +1,11 @@
+# [TITLE]: pavucontrol
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pavucontrol-bin)
+include(pavucontrol-data)
+include(pavucontrol-license)
+include(pavucontrol-locales)
+pavucontrol

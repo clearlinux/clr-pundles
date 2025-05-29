@@ -1,0 +1,17 @@
+# [TITLE]: man-db-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdbm-lib)
+include(libc6)
+include(libpipeline-lib)
+include(man-db-config)
+include(man-db-data)
+include(man-db-lib)
+include(man-db-libexec)
+include(man-db-license)
+include(man-db-services)
+include(zlib-lib)
+man-db-bin

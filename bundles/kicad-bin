@@ -1,0 +1,28 @@
+# [TITLE]: kicad-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenCASCADE-lib)
+include(abseil-cpp-lib)
+include(glib-lib)
+include(glu-lib)
+include(gtk3-lib)
+include(kicad-data)
+include(kicad-lib)
+include(kicad-license)
+include(libc6)
+include(libgcc1)
+include(libgit2-lib)
+include(libglvnd-lib)
+include(libsecret-lib)
+include(libstdc++)
+include(protobuf-lib)
+include(python3-lib)
+include(unixODBC-lib)
+include(wayland-lib)
+include(wxWidgets-lib)
+include(zlib-lib)
+include(zstd-lib)
+kicad-bin

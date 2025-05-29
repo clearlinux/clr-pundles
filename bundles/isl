@@ -1,0 +1,9 @@
+# [TITLE]: isl
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(isl-lib)
+include(isl-license)
+isl

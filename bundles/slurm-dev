@@ -1,0 +1,11 @@
+# [TITLE]: slurm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(slurm)
+include(slurm-bin)
+include(slurm-data)
+include(slurm-lib)
+slurm-dev

@@ -1,0 +1,15 @@
+# [TITLE]: swupd-client-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bsdiff-lib)
+include(curl-lib)
+include(libarchive-lib)
+include(libc6)
+include(openssl-lib)
+include(swupd-client-data)
+include(swupd-client-license)
+include(swupd-client-services)
+swupd-client-bin

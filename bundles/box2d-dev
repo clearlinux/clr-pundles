@@ -1,0 +1,9 @@
+# [TITLE]: box2d-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(box2d)
+include(box2d-lib)
+box2d-dev

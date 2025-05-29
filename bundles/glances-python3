@@ -1,0 +1,12 @@
+# [TITLE]: glances-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(defusedxml-python3)
+include(pypi-orjson-python3)
+include(pypi-packaging-python3)
+include(pypi-psutil-python3)
+include(python3-core)
+glances-python3

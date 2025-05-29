@@ -1,0 +1,17 @@
+# [TITLE]: weechat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(gnutls-lib)
+include(libc6)
+include(libgcc1)
+include(libgcrypt-lib)
+include(ncurses-lib)
+include(weechat-data)
+include(weechat-license)
+include(zlib-lib)
+include(zstd-lib)
+weechat-bin

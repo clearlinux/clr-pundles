@@ -1,0 +1,17 @@
+# [TITLE]: gjs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(gjs)
+include(gjs-bin)
+include(gjs-data)
+include(gjs-lib)
+include(glib-dev)
+include(gobject-introspection-dev)
+include(libffi-dev)
+include(mozjs128-dev)
+include(pkg-config-bin)
+gjs-dev

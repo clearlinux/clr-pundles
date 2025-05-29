@@ -1,0 +1,18 @@
+# [TITLE]: libxfce4ui-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libxfce4ui-data)
+include(libxfce4ui-license)
+include(libxfce4util-lib)
+include(startup-notification-lib)
+include(xfconf-lib)
+libxfce4ui-lib

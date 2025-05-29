@@ -1,0 +1,23 @@
+# [TITLE]: openbox-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(harfbuzz-lib)
+include(imlib2-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libc6)
+include(librsvg-lib)
+include(openbox-data)
+include(openbox-libexec)
+include(openbox-license)
+include(pango-lib)
+openbox-lib

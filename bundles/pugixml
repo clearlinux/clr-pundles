@@ -1,0 +1,9 @@
+# [TITLE]: pugixml
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pugixml-lib)
+include(pugixml-license)
+pugixml

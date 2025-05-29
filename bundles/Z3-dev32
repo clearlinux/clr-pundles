@@ -1,0 +1,11 @@
+# [TITLE]: Z3-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Z3-bin)
+include(Z3-dev)
+include(Z3-lib32)
+include(pkg-config-bin)
+Z3-dev32

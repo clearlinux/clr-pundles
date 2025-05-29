@@ -1,0 +1,14 @@
+# [TITLE]: createrepo_c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(createrepo_c-bin)
+include(createrepo_c-data)
+include(createrepo_c-lib)
+include(createrepo_c-license)
+include(createrepo_c-man)
+include(createrepo_c-python)
+include(createrepo_c-python3)
+createrepo_c

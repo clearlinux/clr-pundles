@@ -1,0 +1,15 @@
+# [TITLE]: flrig-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flrig-data)
+include(flrig-license)
+include(fltk-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(systemd-lib)
+flrig-bin

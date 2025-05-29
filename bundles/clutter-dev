@@ -1,0 +1,25 @@
+# [TITLE]: clutter-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-dev)
+include(cairo-dev)
+include(clutter)
+include(clutter-data)
+include(clutter-dev)
+include(clutter-lib)
+include(cogl-dev)
+include(gdk-pixbuf-dev)
+include(glib-dev)
+include(gtk3-dev)
+include(json-glib-dev)
+include(libX11-dev)
+include(libinput-dev)
+include(libxkbcommon-dev)
+include(pango-dev)
+include(pkg-config-bin)
+include(systemd-dev)
+include(wayland-dev)
+clutter-dev

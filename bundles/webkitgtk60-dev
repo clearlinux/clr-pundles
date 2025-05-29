@@ -1,0 +1,16 @@
+# [TITLE]: webkitgtk60-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk4-dev)
+include(libsoup-dev)
+include(pkg-config-bin)
+include(webkitgtk60)
+include(webkitgtk60-bin)
+include(webkitgtk60-data)
+include(webkitgtk60-dev)
+include(webkitgtk60-lib)
+webkitgtk60-dev

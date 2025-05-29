@@ -1,0 +1,16 @@
+# [TITLE]: swaylock-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libc6)
+include(libxkbcommon-lib)
+include(swaylock-data)
+include(swaylock-license)
+include(wayland-lib)
+swaylock-bin

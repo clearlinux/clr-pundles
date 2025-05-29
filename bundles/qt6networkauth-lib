@@ -1,0 +1,11 @@
+# [TITLE]: qt6networkauth-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6networkauth-license)
+qt6networkauth-lib

@@ -6,4 +6,4 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
 include(kernel-native)
-linux
+include(linux)

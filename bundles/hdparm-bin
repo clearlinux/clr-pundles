@@ -1,0 +1,9 @@
+# [TITLE]: hdparm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hdparm-license)
+include(libc6)
+hdparm-bin

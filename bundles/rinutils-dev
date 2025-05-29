@@ -1,0 +1,9 @@
+# [TITLE]: rinutils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(rinutils)
+rinutils-dev

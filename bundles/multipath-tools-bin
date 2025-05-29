@@ -1,0 +1,17 @@
+# [TITLE]: multipath-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(libc6)
+include(libgcc1)
+include(multipath-tools-config)
+include(multipath-tools-lib)
+include(multipath-tools-license)
+include(multipath-tools-services)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+include(userspace-rcu-lib)
+multipath-tools-bin

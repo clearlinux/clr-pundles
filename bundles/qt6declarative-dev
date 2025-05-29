@@ -1,0 +1,14 @@
+# [TITLE]: qt6declarative-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6base-staticdev)
+include(qt6declarative)
+include(qt6declarative-dev)
+include(qt6declarative-lib)
+include(qt6declarative-staticdev)
+qt6declarative-dev

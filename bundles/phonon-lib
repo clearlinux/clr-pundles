@@ -1,0 +1,15 @@
+# [TITLE]: phonon-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(phonon-data)
+include(phonon-license)
+include(pulseaudio-lib)
+include(qt5compat-lib)
+include(qt6base-lib)
+include(qt6tools-lib)
+phonon-lib

@@ -1,0 +1,14 @@
+# [TITLE]: avahi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-data)
+include(avahi-license)
+include(dbus-lib)
+include(gcc-libs-math)
+include(glib-lib)
+include(libc6)
+include(libevent-lib)
+avahi-lib

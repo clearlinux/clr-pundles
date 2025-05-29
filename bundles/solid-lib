@@ -1,0 +1,14 @@
+# [TITLE]: solid-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(solid-data)
+include(solid-license)
+include(systemd-lib)
+include(util-linux-lib)
+solid-lib

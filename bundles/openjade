@@ -1,0 +1,12 @@
+# [TITLE]: openjade
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openjade-bin)
+include(openjade-data)
+include(openjade-lib)
+include(openjade-license)
+include(openjade-man)
+openjade

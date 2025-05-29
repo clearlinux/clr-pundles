@@ -16,9 +16,9 @@ include(autogen)
 include(automake)
 include(automake-dev)
 include(binutils)
-binutils-dev
+include(binutils-dev)
 #binutils-extras
-binutils-locales
+include(binutils-locales)
 include(bison)
 include(check)
 include(cmake)

@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-xf86-input-synaptics-dev
+include(xf86-input-synaptics-dev)
 include(libX11client)

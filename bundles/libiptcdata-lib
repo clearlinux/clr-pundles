@@ -1,0 +1,9 @@
+# [TITLE]: libiptcdata-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libiptcdata-license)
+libiptcdata-lib

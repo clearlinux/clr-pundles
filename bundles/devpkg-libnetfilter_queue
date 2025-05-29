@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libnetfilter_queue-dev
+include(libnetfilter_queue-dev)

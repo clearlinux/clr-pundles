@@ -1,0 +1,8 @@
+# [TITLE]: PyQt6-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(PyQt6-python3)
+PyQt6-python

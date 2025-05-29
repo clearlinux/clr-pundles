@@ -1,0 +1,13 @@
+# [TITLE]: compat-pangomm-soname14-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-cairomm-soname10-dev)
+include(compat-glibmm-soname24-dev)
+include(compat-pangomm-soname14)
+include(compat-pangomm-soname14-lib)
+include(pango-dev)
+include(pkg-config-bin)
+compat-pangomm-soname14-dev

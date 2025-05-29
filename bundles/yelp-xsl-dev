@@ -1,0 +1,9 @@
+# [TITLE]: yelp-xsl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yelp-xsl)
+include(yelp-xsl-data)
+yelp-xsl-dev

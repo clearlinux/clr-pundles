@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-pcre-dev
+include(pcre-dev)
 include(pcre-lib)

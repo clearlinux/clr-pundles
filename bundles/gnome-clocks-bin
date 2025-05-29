@@ -1,0 +1,17 @@
+# [TITLE]: gnome-clocks-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geoclue-lib)
+include(geocode-glib-lib)
+include(glib-lib)
+include(gnome-clocks-data)
+include(gnome-clocks-license)
+include(gnome-desktop-lib)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgweather-lib)
+gnome-clocks-bin

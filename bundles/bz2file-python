@@ -1,0 +1,8 @@
+# [TITLE]: bz2file-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bz2file-python3)
+bz2file-python

@@ -1,0 +1,14 @@
+# [TITLE]: nrpe-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nrpe-config)
+include(nrpe-data)
+include(nrpe-libexec)
+include(nrpe-license)
+include(nrpe-services)
+include(openssl-lib)
+nrpe-bin

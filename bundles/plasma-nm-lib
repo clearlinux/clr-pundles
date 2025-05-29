@@ -1,0 +1,34 @@
+# [TITLE]: plasma-nm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(NetworkManager-lib)
+include(glib-lib)
+include(kcmutils-lib)
+include(kcolorscheme-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kwallet-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(modemmanager-qt-lib)
+include(networkmanager-qt-lib)
+include(openconnect-lib)
+include(plasma-nm-data)
+include(plasma-nm-license)
+include(qca-lib)
+include(qcoro6-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6webengine-lib)
+include(solid-lib)
+plasma-nm-lib

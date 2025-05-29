@@ -1,0 +1,9 @@
+# [TITLE]: msgpack-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(msgpack-c-lib)
+include(msgpack-c-license)
+msgpack-c

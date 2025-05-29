@@ -1,0 +1,11 @@
+# [TITLE]: digikam-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(digikam)
+include(digikam-bin)
+include(digikam-data)
+include(digikam-lib)
+digikam-dev

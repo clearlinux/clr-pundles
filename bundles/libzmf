@@ -1,0 +1,10 @@
+# [TITLE]: libzmf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libzmf-bin)
+include(libzmf-lib)
+include(libzmf-license)
+libzmf

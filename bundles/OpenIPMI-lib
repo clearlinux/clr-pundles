@@ -1,0 +1,11 @@
+# [TITLE]: OpenIPMI-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenIPMI-license)
+include(gdbm-lib)
+include(libc6)
+include(ncurses-lib)
+OpenIPMI-lib

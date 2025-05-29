@@ -1,0 +1,8 @@
+# [TITLE]: qtxmlpatterns-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtxmlpatterns-dev)
+qtxmlpatterns-examples

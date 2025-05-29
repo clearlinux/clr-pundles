@@ -1,0 +1,9 @@
+# [TITLE]: dosfstools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dosfstools-license)
+include(libc6)
+dosfstools-bin

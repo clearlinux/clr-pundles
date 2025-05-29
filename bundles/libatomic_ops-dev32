@@ -1,0 +1,10 @@
+# [TITLE]: libatomic_ops-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libatomic_ops-dev)
+include(libatomic_ops-lib32)
+include(pkg-config-bin)
+libatomic_ops-dev32

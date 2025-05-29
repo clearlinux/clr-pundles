@@ -1,0 +1,10 @@
+# [TITLE]: attica
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(attica-data)
+include(attica-lib)
+include(attica-license)
+attica

@@ -1,0 +1,13 @@
+# [TITLE]: portaudio-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(jack2-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(portaudio-license)
+portaudio-lib

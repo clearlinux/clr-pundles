@@ -1,0 +1,8 @@
+# [TITLE]: ragel-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ragel-man)
+ragel-doc

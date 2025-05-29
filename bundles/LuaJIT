@@ -1,0 +1,12 @@
+# [TITLE]: LuaJIT
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-bin)
+include(LuaJIT-data)
+include(LuaJIT-lib)
+include(LuaJIT-license)
+include(LuaJIT-man)
+LuaJIT

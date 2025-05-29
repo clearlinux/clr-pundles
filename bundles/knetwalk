@@ -1,0 +1,11 @@
+# [TITLE]: knetwalk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(knetwalk-bin)
+include(knetwalk-data)
+include(knetwalk-license)
+include(knetwalk-locales)
+knetwalk

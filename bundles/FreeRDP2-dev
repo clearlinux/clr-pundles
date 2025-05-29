@@ -1,0 +1,12 @@
+# [TITLE]: FreeRDP2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP2)
+include(FreeRDP2-dev)
+include(FreeRDP2-lib)
+include(openssl-dev)
+include(pkg-config-bin)
+FreeRDP2-dev

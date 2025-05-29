@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-corosync-dev
+include(corosync-dev)
 include(lz4)
 include(libnl)
 include(lib-openssl)

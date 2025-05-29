@@ -1,0 +1,9 @@
+# [TITLE]: fwupd-efi-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fwupd-efi)
+include(pkg-config-bin)
+fwupd-efi-dev

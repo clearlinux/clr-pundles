@@ -1,0 +1,9 @@
+# [TITLE]: compat-gcc-10-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gcc-10)
+include(libc6)
+compat-gcc-10-dev

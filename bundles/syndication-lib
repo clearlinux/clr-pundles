@@ -1,0 +1,14 @@
+# [TITLE]: syndication-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(syndication-data)
+include(syndication-license)
+syndication-lib

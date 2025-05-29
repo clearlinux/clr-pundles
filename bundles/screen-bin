@@ -1,0 +1,12 @@
+# [TITLE]: screen-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libc6)
+include(ncurses-lib)
+include(screen-data)
+include(screen-license)
+screen-bin

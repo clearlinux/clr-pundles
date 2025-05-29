@@ -1,0 +1,10 @@
+# [TITLE]: SFML
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SFML-data)
+include(SFML-lib)
+include(SFML-license)
+SFML

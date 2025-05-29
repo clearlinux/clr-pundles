@@ -1,0 +1,15 @@
+# [TITLE]: libpanel-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(graphene-lib)
+include(gtk4-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libpanel-data)
+include(libpanel-license)
+libpanel-lib

@@ -1,0 +1,10 @@
+# [TITLE]: hiredis-c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hiredis-c)
+include(hiredis-c-lib)
+include(pkg-config-bin)
+hiredis-c-dev

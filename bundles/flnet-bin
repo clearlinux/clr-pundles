@@ -1,0 +1,14 @@
+# [TITLE]: flnet-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(flnet-data)
+include(flnet-license)
+include(fltk-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+flnet-bin

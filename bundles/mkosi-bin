@@ -1,0 +1,9 @@
+# [TITLE]: mkosi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mkosi-license)
+include(python3-core)
+mkosi-bin

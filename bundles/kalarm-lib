@@ -1,0 +1,26 @@
+# [TITLE]: kalarm-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-contacts-lib)
+include(akonadi-lib)
+include(akonadi-mime-lib)
+include(kalarm-data)
+include(kalarm-license)
+include(kcalendarcore-lib)
+include(kcodecs-lib)
+include(kcontacts-lib)
+include(kcoreaddons-lib)
+include(kholidays-lib)
+include(ki18n-lib)
+include(kidentitymanagement-lib)
+include(kitemmodels-lib)
+include(kmailtransport-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(mpv-lib)
+include(qt6base-lib)
+kalarm-lib

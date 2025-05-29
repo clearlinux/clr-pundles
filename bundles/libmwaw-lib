@@ -1,0 +1,13 @@
+# [TITLE]: libmwaw-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libmwaw-license)
+include(librevenge-lib)
+include(libstdc++)
+include(zlib-lib)
+libmwaw-lib

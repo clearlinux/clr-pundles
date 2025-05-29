@@ -1,0 +1,10 @@
+# [TITLE]: libnova
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnova-bin)
+include(libnova-lib)
+include(libnova-license)
+libnova

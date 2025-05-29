@@ -1,0 +1,10 @@
+# [TITLE]: inotify-tools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(inotify-tools)
+include(inotify-tools-bin)
+include(inotify-tools-lib)
+inotify-tools-dev

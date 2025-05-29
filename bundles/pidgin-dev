@@ -1,0 +1,15 @@
+# [TITLE]: pidgin-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gtk+-dev)
+include(pidgin)
+include(pidgin-bin)
+include(pidgin-data)
+include(pidgin-dev)
+include(pidgin-lib)
+include(pkg-config-bin)
+pidgin-dev

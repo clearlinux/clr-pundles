@@ -1,0 +1,8 @@
+# [TITLE]: gnome-online-accounts-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-online-accounts-man)
+gnome-online-accounts-doc

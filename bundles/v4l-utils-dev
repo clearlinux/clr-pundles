@@ -1,0 +1,19 @@
+# [TITLE]: v4l-utils-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-dev)
+include(libstdc++)
+include(pkg-config-bin)
+include(systemd-dev)
+include(v4l-utils)
+include(v4l-utils-bin)
+include(v4l-utils-data)
+include(v4l-utils-dev)
+include(v4l-utils-lib)
+v4l-utils-dev

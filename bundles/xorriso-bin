@@ -1,0 +1,13 @@
+# [TITLE]: xorriso-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(bzip2-lib)
+include(filesystem)
+include(libc6)
+include(xorriso-license)
+include(zlib-lib)
+xorriso-bin

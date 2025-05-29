@@ -1,0 +1,13 @@
+# [TITLE]: compat-gcr-soname1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-gcr-soname1-bin)
+include(compat-gcr-soname1-data)
+include(compat-gcr-soname1-lib)
+include(compat-gcr-soname1-libexec)
+include(compat-gcr-soname1-license)
+include(compat-gcr-soname1-locales)
+compat-gcr-soname1

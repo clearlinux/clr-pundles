@@ -1,0 +1,9 @@
+# [TITLE]: cJSON-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cJSON-license)
+include(libc6)
+cJSON-lib

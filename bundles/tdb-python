@@ -1,0 +1,8 @@
+# [TITLE]: tdb-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tdb-python3)
+tdb-python

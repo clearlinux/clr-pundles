@@ -1,0 +1,32 @@
+# [TITLE]: yakuake-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kdbusaddons-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(knewstuff-lib)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(kparts-lib)
+include(kstatusnotifieritem-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libX11-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(yakuake-data)
+include(yakuake-license)
+yakuake-bin

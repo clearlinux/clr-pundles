@@ -1,0 +1,25 @@
+# [TITLE]: pim-sieve-editor-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbookmarks-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kmailtransport-lib)
+include(kwidgetsaddons-lib)
+include(kwindowsystem-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libksieve-lib)
+include(libstdc++)
+include(pim-sieve-editor-data)
+include(pim-sieve-editor-license)
+include(pimcommon-lib)
+include(qt6base-lib)
+include(qtkeychain-lib)
+pim-sieve-editor-lib

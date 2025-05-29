@@ -1,0 +1,11 @@
+# [TITLE]: gtkspell3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtkspell3-data)
+include(gtkspell3-lib)
+include(gtkspell3-license)
+include(gtkspell3-locales)
+gtkspell3

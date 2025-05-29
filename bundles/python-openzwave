@@ -1,0 +1,15 @@
+# [TITLE]: python-openzwave
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-cython-python3)
+include(pypi-pydispatcher-python3)
+include(pypi-pyserial-python3)
+include(pypi-six-python3)
+include(python-openzwave-bin)
+include(python-openzwave-license)
+include(python-openzwave-python)
+include(python-openzwave-python3)
+python-openzwave

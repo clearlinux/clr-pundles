@@ -1,0 +1,10 @@
+# [TITLE]: sysstat-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(sysstat-data)
+include(sysstat-license)
+sysstat-bin

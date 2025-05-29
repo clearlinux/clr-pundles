@@ -1,0 +1,11 @@
+# [TITLE]: fontforge-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontforge)
+include(fontforge-bin)
+include(fontforge-data)
+include(fontforge-lib)
+fontforge-dev

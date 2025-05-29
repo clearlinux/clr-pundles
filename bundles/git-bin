@@ -1,0 +1,13 @@
+# [TITLE]: git-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(git-data)
+include(git-libexec)
+include(git-license)
+include(libc6)
+include(pcre2-lib)
+include(zlib-lib)
+git-bin

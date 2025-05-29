@@ -1,0 +1,14 @@
+# [TITLE]: bcachefs-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bcachefs-tools-bin)
+include(bcachefs-tools-config)
+include(bcachefs-tools-data)
+include(bcachefs-tools-libexec)
+include(bcachefs-tools-license)
+include(bcachefs-tools-man)
+include(bcachefs-tools-services)
+bcachefs-tools

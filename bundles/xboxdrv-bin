@@ -1,0 +1,18 @@
+# [TITLE]: xboxdrv-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(dbus-glib-lib)
+include(dbus-lib)
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libusb-lib)
+include(systemd-lib)
+include(xboxdrv-license)
+xboxdrv-bin

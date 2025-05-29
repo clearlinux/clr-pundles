@@ -1,0 +1,11 @@
+# [TITLE]: libmikmod-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libmikmod)
+include(libmikmod-bin)
+include(libmikmod-lib)
+include(pkg-config-bin)
+libmikmod-dev

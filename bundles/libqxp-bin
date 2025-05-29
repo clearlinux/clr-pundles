@@ -1,0 +1,13 @@
+# [TITLE]: libqxp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libqxp-lib)
+include(libqxp-license)
+include(librevenge-lib)
+include(libstdc++)
+libqxp-bin

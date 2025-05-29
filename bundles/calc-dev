@@ -1,0 +1,11 @@
+# [TITLE]: calc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(calc)
+include(calc-bin)
+include(calc-data)
+include(calc-lib)
+calc-dev

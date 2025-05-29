@@ -1,0 +1,9 @@
+# [TITLE]: fann-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fann)
+include(fann-lib)
+fann-dev

@@ -1,0 +1,10 @@
+# [TITLE]: xcb-proto-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xcb-proto)
+include(xcb-proto-data)
+xcb-proto-dev

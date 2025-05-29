@@ -1,0 +1,10 @@
+# [TITLE]: i3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(i3)
+include(i3-bin)
+include(i3-data)
+i3-dev

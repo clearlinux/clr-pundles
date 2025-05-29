@@ -1,0 +1,15 @@
+# [TITLE]: libwacom-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(glib-lib)
+include(libc6)
+include(libgudev-lib)
+include(libwacom-config)
+include(libwacom-data)
+include(libwacom-lib)
+include(libwacom-license)
+libwacom-bin

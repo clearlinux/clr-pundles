@@ -1,0 +1,16 @@
+# [TITLE]: sane-airscan-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(avahi-lib)
+include(gnutls-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libxml2-lib)
+include(sane-airscan-data)
+include(sane-airscan-license)
+include(tiff-lib)
+sane-airscan-lib

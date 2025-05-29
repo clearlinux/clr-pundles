@@ -1,0 +1,10 @@
+# [TITLE]: xf86-video-vmware
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xf86-video-vmware-lib)
+include(xf86-video-vmware-license)
+include(xf86-video-vmware-man)
+xf86-video-vmware

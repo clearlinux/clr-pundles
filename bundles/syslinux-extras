@@ -1,0 +1,8 @@
+# [TITLE]: syslinux-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+syslinux-extras

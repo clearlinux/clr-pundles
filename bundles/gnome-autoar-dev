@@ -1,0 +1,14 @@
+# [TITLE]: gnome-autoar-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(gnome-autoar)
+include(gnome-autoar-data)
+include(gnome-autoar-lib)
+include(gtk3-dev)
+include(libarchive-dev)
+include(pkg-config-bin)
+gnome-autoar-dev

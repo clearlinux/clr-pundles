@@ -1,0 +1,15 @@
+# [TITLE]: analitza-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(analitza-data)
+include(analitza-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6svg-lib)
+analitza-lib

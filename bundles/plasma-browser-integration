@@ -1,0 +1,12 @@
+# [TITLE]: plasma-browser-integration
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-browser-integration-bin)
+include(plasma-browser-integration-data)
+include(plasma-browser-integration-lib)
+include(plasma-browser-integration-license)
+include(plasma-browser-integration-locales)
+plasma-browser-integration

@@ -1,0 +1,12 @@
+# [TITLE]: fftw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fftw-bin)
+include(fftw-info)
+include(fftw-lib)
+include(fftw-license)
+include(fftw-man)
+fftw

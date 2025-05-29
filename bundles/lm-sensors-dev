@@ -1,0 +1,10 @@
+# [TITLE]: lm-sensors-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lm-sensors)
+include(lm-sensors-bin)
+include(lm-sensors-lib)
+lm-sensors-dev

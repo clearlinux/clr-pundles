@@ -14,4 +14,4 @@ include(lib-opengl)
 # end of custom additions
 
 # main package
-etr
+include(etr)

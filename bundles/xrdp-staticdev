@@ -1,0 +1,8 @@
+# [TITLE]: xrdp-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xrdp-dev)
+xrdp-staticdev

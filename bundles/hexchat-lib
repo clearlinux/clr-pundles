@@ -1,0 +1,14 @@
+# [TITLE]: hexchat-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(hexchat-data)
+include(hexchat-license)
+include(libc6)
+include(openssl-lib)
+include(pciutils-lib)
+include(python3-lib)
+hexchat-lib

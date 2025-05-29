@@ -1,0 +1,9 @@
+# [TITLE]: plasma-wayland-protocols
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-wayland-protocols-data)
+include(plasma-wayland-protocols-license)
+plasma-wayland-protocols

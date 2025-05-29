@@ -1,0 +1,24 @@
+# [TITLE]: darktable-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(colord-lib)
+include(darktable-data)
+include(darktable-lib)
+include(darktable-license)
+include(gcc-libs-math)
+include(glib-lib)
+include(gtk3-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libjpeg-turbo-lib)
+include(libstdc++)
+include(pugixml-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+darktable-bin

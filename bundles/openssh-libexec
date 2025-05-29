@@ -1,0 +1,16 @@
+# [TITLE]: openssh-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(krb5-lib)
+include(libc6)
+include(libfido2-lib)
+include(libxcrypt-lib)
+include(openssh-config)
+include(openssh-license)
+include(openssl-lib)
+include(zlib-lib)
+openssh-libexec

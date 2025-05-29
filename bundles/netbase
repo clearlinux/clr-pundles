@@ -1,0 +1,9 @@
+# [TITLE]: netbase
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(netbase-data)
+include(netbase-license)
+netbase

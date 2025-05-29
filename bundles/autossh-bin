@@ -1,0 +1,9 @@
+# [TITLE]: autossh-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(autossh-data)
+include(libc6)
+autossh-bin

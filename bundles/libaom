@@ -1,0 +1,10 @@
+# [TITLE]: libaom
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libaom-bin)
+include(libaom-lib)
+include(libaom-license)
+libaom

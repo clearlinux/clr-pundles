@@ -1,0 +1,8 @@
+# [TITLE]: kicad-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kicad-python3)
+kicad-python

@@ -1,0 +1,8 @@
+# [TITLE]: bmon-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bmon-man)
+bmon-doc

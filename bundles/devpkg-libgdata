@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libgdata-dev
+include(libgdata-dev)
 include(libglib)
 include(gdk-pixbuf)
 include(libX11client)

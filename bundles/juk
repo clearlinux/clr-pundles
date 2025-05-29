@@ -1,0 +1,11 @@
+# [TITLE]: juk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(juk-bin)
+include(juk-data)
+include(juk-license)
+include(juk-locales)
+juk

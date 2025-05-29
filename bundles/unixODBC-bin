@@ -1,0 +1,12 @@
+# [TITLE]: unixODBC-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtool-lib)
+include(readline-lib)
+include(unixODBC-lib)
+include(unixODBC-license)
+unixODBC-bin

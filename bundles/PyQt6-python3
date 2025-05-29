@@ -1,0 +1,28 @@
+# [TITLE]: PyQt6-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-lib)
+include(libc6)
+include(libstdc++)
+include(pypi-pyqt6_sip)
+include(python3-core)
+include(qt6base-lib)
+include(qt6connectivity-lib)
+include(qt6declarative-lib)
+include(qt6multimedia-lib)
+include(qt6positioning-lib)
+include(qt6quick3d-lib)
+include(qt6remoteobjects-lib)
+include(qt6scxml-lib)
+include(qt6sensors-lib)
+include(qt6serialport-lib)
+include(qt6speech-lib)
+include(qt6svg-lib)
+include(qt6tools-lib)
+include(qt6webchannel-lib)
+include(qt6webengine-lib)
+include(qt6websockets-lib)
+PyQt6-python3

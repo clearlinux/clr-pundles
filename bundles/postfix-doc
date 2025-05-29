@@ -1,0 +1,8 @@
+# [TITLE]: postfix-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(postfix-man)
+postfix-doc

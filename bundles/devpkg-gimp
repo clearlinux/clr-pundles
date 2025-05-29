@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gimp-dev
+include(gimp-dev)
 include(libX11client)
 include(libglib)
 include(lib-imageformat)

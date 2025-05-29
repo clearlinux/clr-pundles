@@ -1,0 +1,10 @@
+# [TITLE]: lightdm-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(lightdm-config)
+include(lightdm-license)
+lightdm-libexec

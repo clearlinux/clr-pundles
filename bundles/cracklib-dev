@@ -1,0 +1,11 @@
+# [TITLE]: cracklib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cracklib)
+include(cracklib-bin)
+include(cracklib-data)
+include(cracklib-lib)
+cracklib-dev

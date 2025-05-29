@@ -1,0 +1,20 @@
+# [TITLE]: clamav-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clamav-config)
+include(clamav-data)
+include(clamav-lib)
+include(clamav-license)
+include(clamav-services)
+include(curl-lib)
+include(filesystem)
+include(json-c-lib)
+include(libc6)
+include(libgcc1)
+include(ncurses-lib)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+clamav-bin

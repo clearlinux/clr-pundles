@@ -1,0 +1,10 @@
+# [TITLE]: jemalloc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jemalloc-bin)
+include(jemalloc-lib)
+include(jemalloc-license)
+jemalloc

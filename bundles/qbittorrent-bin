@@ -1,0 +1,17 @@
+# [TITLE]: qbittorrent-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(libtorrent-rasterbar-lib)
+include(openssl-lib)
+include(qbittorrent-data)
+include(qbittorrent-license)
+include(qtbase-extras)
+include(qtbase-lib)
+include(zlib-lib)
+qbittorrent-bin

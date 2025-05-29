@@ -1,0 +1,16 @@
+# [TITLE]: weston-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libxkbcommon-dev)
+include(pixman-dev)
+include(pkg-config-bin)
+include(wayland-dev)
+include(weston)
+include(weston-bin)
+include(weston-data)
+include(weston-dev)
+include(weston-lib)
+weston-dev

@@ -1,0 +1,12 @@
+# [TITLE]: oath-toolkit-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oath-toolkit)
+include(oath-toolkit-bin)
+include(oath-toolkit-data)
+include(oath-toolkit-lib)
+include(pkg-config-bin)
+oath-toolkit-dev

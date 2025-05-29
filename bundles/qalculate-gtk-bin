@@ -1,0 +1,19 @@
+# [TITLE]: qalculate-gtk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libgcc1)
+include(libqalculate-lib)
+include(libstdc++)
+include(pango-lib)
+include(qalculate-gtk-data)
+include(qalculate-gtk-libexec)
+include(qalculate-gtk-license)
+qalculate-gtk-bin

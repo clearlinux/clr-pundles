@@ -1,0 +1,12 @@
+# [TITLE]: kcodecs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcodecs-data)
+include(kcodecs-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kcodecs-lib

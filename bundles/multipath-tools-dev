@@ -1,0 +1,11 @@
+# [TITLE]: multipath-tools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(multipath-tools)
+include(multipath-tools-bin)
+include(multipath-tools-lib)
+include(pkg-config-bin)
+multipath-tools-dev

@@ -1,0 +1,11 @@
+# [TITLE]: redsocks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(redsocks-bin)
+include(redsocks-libexec)
+include(redsocks-license)
+include(redsocks-services)
+redsocks

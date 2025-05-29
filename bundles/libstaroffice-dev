@@ -1,0 +1,11 @@
+# [TITLE]: libstaroffice-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librevenge-dev)
+include(libstaroffice)
+include(libstaroffice-bin)
+include(libstaroffice-lib)
+libstaroffice-dev

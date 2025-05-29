@@ -1,0 +1,8 @@
+# [TITLE]: plasma-desktop-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+plasma-desktop-services

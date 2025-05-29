@@ -1,0 +1,9 @@
+# [TITLE]: metee
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(metee-lib)
+include(metee-license)
+metee

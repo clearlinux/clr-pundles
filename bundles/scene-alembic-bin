@@ -1,0 +1,12 @@
+# [TITLE]: scene-alembic-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(scene-alembic-lib)
+include(scene-alembic-license)
+scene-alembic-bin

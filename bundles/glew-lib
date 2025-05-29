@@ -1,0 +1,10 @@
+# [TITLE]: glew-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glew-license)
+include(libc6)
+include(libglvnd-lib)
+glew-lib

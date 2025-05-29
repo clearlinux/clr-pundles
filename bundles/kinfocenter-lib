@@ -1,0 +1,23 @@
+# [TITLE]: kinfocenter-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kinfocenter-data)
+include(kinfocenter-license)
+include(kio-lib)
+include(kservice-lib)
+include(libc6)
+include(libdrm-lib)
+include(libstdc++)
+include(libusb-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(solid-lib)
+kinfocenter-lib

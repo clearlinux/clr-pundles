@@ -1,0 +1,24 @@
+# [TITLE]: nfs-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LVM2-extras-lib)
+include(filesystem)
+include(keyutils-lib)
+include(libc6)
+include(libcap-lib)
+include(libevent-lib)
+include(libgcc1)
+include(libtirpc-lib)
+include(libxml2-lib)
+include(nfs-utils-config)
+include(nfs-utils-lib)
+include(nfs-utils-libexec)
+include(nfs-utils-license)
+include(nfs-utils-services)
+include(python3-core)
+include(sqlite-autoconf-lib)
+include(util-linux-lib)
+nfs-utils-bin

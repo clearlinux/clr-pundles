@@ -1,0 +1,9 @@
+# [TITLE]: protobuf-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(protobuf-c-bin)
+include(protobuf-c-lib)
+protobuf-c

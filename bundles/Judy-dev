@@ -1,0 +1,9 @@
+# [TITLE]: Judy-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Judy)
+include(Judy-lib)
+Judy-dev

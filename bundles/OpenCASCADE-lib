@@ -1,0 +1,18 @@
+# [TITLE]: OpenCASCADE-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenCASCADE-data)
+include(OpenCASCADE-license)
+include(fontconfig-lib)
+include(freetype-lib)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(tcl-lib)
+include(tk-extras)
+OpenCASCADE-lib

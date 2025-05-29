@@ -1,0 +1,13 @@
+# [TITLE]: librealsense-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glfw-lib)
+include(libc6)
+include(libgcc1)
+include(librealsense-license)
+include(libstdc++)
+include(libusb-lib)
+librealsense-lib

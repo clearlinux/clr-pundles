@@ -1,0 +1,18 @@
+# [TITLE]: dpcpp-compiler-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dpcpp-compiler)
+include(dpcpp-compiler-bin)
+include(dpcpp-compiler-data)
+include(dpcpp-compiler-lib)
+include(level-zero-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ncurses-lib)
+include(ocl-icd-lib)
+include(pkg-config-bin)
+dpcpp-compiler-dev

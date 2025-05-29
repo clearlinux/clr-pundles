@@ -1,0 +1,15 @@
+# [TITLE]: rsyslog-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libestr-lib)
+include(libfastjson-lib)
+include(libgcc1)
+include(rsyslog-license)
+include(systemd-extras-libsystemd)
+include(util-linux-lib)
+include(zlib-lib)
+rsyslog-bin

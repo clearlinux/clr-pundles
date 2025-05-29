@@ -1,0 +1,11 @@
+# [TITLE]: ed
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ed-bin)
+include(ed-info)
+include(ed-license)
+include(ed-man)
+ed

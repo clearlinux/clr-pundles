@@ -1,0 +1,9 @@
+# [TITLE]: libstemmer_c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libstemmer_c)
+include(libstemmer_c-lib)
+libstemmer_c-dev

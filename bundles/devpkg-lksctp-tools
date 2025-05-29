@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-lksctp-tools-dev
+include(lksctp-tools-dev)

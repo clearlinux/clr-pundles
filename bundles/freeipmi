@@ -1,0 +1,12 @@
+# [TITLE]: freeipmi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(freeipmi-bin)
+include(freeipmi-info)
+include(freeipmi-lib)
+include(freeipmi-license)
+include(freeipmi-man)
+freeipmi

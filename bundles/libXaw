@@ -1,0 +1,9 @@
+# [TITLE]: libXaw
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libXaw-lib)
+include(libXaw-license)
+libXaw

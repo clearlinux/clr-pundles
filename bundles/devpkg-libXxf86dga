@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libXxf86dga-dev
+include(libXxf86dga-dev)
 include(libX11client)

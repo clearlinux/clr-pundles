@@ -1,0 +1,8 @@
+# [TITLE]: gphoto2-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gphoto2-man)
+gphoto2-doc

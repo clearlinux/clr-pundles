@@ -1,0 +1,8 @@
+# [TITLE]: WireGuard-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+WireGuard-services

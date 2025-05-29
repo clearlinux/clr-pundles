@@ -1,0 +1,9 @@
+# [TITLE]: layer-shell-qt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(layer-shell-qt-lib)
+include(layer-shell-qt-license)
+layer-shell-qt

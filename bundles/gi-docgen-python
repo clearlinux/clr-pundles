@@ -1,0 +1,8 @@
+# [TITLE]: gi-docgen-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gi-docgen-python3)
+gi-docgen-python

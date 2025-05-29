@@ -1,0 +1,9 @@
+# [TITLE]: compat-libvpx-soname8-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libvpx-soname8-license)
+include(libc6)
+compat-libvpx-soname8-lib

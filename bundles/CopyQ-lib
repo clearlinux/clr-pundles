@@ -1,0 +1,14 @@
+# [TITLE]: CopyQ-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CopyQ-data)
+include(CopyQ-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+CopyQ-lib

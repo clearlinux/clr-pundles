@@ -1,0 +1,11 @@
+# [TITLE]: kpipewire
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kpipewire-data)
+include(kpipewire-lib)
+include(kpipewire-license)
+include(kpipewire-locales)
+kpipewire

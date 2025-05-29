@@ -1,0 +1,9 @@
+# [TITLE]: vte-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(vte-license)
+vte-libexec

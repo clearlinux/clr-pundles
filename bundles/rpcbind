@@ -1,0 +1,11 @@
+# [TITLE]: rpcbind
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rpcbind-bin)
+include(rpcbind-license)
+include(rpcbind-man)
+include(rpcbind-services)
+rpcbind

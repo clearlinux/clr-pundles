@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-libdbusmenu-qt-dev
+include(libdbusmenu-qt-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

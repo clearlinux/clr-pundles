@@ -1,0 +1,10 @@
+# [TITLE]: nng-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nng-lib)
+include(nng-license)
+nng-bin

@@ -1,0 +1,11 @@
+# [TITLE]: nss-pam-ldapd-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Linux-PAM-lib)
+include(libc6)
+include(nss-pam-ldapd-data)
+include(nss-pam-ldapd-license)
+nss-pam-ldapd-lib

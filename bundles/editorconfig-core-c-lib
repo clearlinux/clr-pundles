@@ -1,0 +1,10 @@
+# [TITLE]: editorconfig-core-c-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(editorconfig-core-c-license)
+include(libc6)
+include(pcre2-lib)
+editorconfig-core-c-lib

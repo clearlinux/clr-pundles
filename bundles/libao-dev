@@ -1,0 +1,9 @@
+# [TITLE]: libao-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libao)
+include(libao-lib)
+libao-dev

@@ -1,0 +1,27 @@
+# [TITLE]: kbackup-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(karchive-lib)
+include(kbackup-data)
+include(kbackup-license)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kguiaddons-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kservice-lib)
+include(kstatusnotifieritem-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libarchive-lib)
+include(libc6)
+include(libstdc++)
+include(qt5compat-lib)
+include(qt6base-lib)
+kbackup-bin

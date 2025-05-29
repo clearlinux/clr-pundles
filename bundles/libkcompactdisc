@@ -1,0 +1,10 @@
+# [TITLE]: libkcompactdisc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkcompactdisc-lib)
+include(libkcompactdisc-license)
+include(libkcompactdisc-locales)
+libkcompactdisc

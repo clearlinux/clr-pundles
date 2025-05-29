@@ -1,0 +1,12 @@
+# [TITLE]: lksctp-tools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lksctp-tools-bin)
+include(lksctp-tools-data)
+include(lksctp-tools-lib)
+include(lksctp-tools-license)
+include(lksctp-tools-man)
+lksctp-tools

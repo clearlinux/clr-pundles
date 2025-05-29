@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtquickcontrols2-dev
+include(qtquickcontrols2-dev)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)

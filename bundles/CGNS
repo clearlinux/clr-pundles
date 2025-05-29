@@ -1,0 +1,11 @@
+# [TITLE]: CGNS
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(CGNS-bin)
+include(CGNS-lib)
+include(CGNS-license)
+include(CGNS-openmpi)
+CGNS

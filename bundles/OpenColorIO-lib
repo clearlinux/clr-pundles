@@ -1,0 +1,18 @@
+# [TITLE]: OpenColorIO-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Imath-lib)
+include(OpenColorIO-data)
+include(OpenColorIO-license)
+include(expat-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(minizip-ng-lib)
+include(pystring-lib)
+include(python3-core)
+include(yaml-cpp-lib)
+OpenColorIO-lib

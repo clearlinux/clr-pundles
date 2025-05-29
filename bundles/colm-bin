@@ -1,0 +1,14 @@
+# [TITLE]: colm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(colm-data)
+include(colm-dev)
+include(colm-license)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+colm-bin

@@ -1,0 +1,10 @@
+# [TITLE]: dapl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dapl-lib)
+include(dapl-license)
+include(libc6)
+dapl-bin

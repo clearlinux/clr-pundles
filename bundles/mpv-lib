@@ -1,0 +1,39 @@
+# [TITLE]: mpv-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(Vulkan-Loader-lib)
+include(alsa-lib-lib)
+include(jack2-lib)
+include(lcms2-lib)
+include(libX11-lib)
+include(libXScrnSaver-lib)
+include(libXpresent-lib)
+include(libXv-lib)
+include(libarchive-lib)
+include(libass-lib)
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libplacebo-lib)
+include(libva-lib)
+include(libvdpau-lib)
+include(libxkbcommon-lib)
+include(mesa-lib)
+include(mpv-data)
+include(mpv-license)
+include(not-ffmpeg-lib)
+include(pipewire-lib)
+include(pulseaudio-lib)
+include(sndio-lib)
+include(uchardet-lib)
+include(vapoursynth-lib)
+include(wayland-lib)
+include(zimg-lib)
+include(zlib-lib)
+mpv-lib

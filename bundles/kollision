@@ -1,0 +1,11 @@
+# [TITLE]: kollision
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kollision-bin)
+include(kollision-data)
+include(kollision-license)
+include(kollision-locales)
+kollision

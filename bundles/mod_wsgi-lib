@@ -1,0 +1,11 @@
+# [TITLE]: mod_wsgi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(mod_wsgi-data)
+include(mod_wsgi-license)
+include(python3-lib)
+mod_wsgi-lib

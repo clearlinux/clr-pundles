@@ -1,0 +1,11 @@
+# [TITLE]: libcomps-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(expat-lib)
+include(libc6)
+include(libcomps-license)
+libcomps-lib

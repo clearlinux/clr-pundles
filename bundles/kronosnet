@@ -1,0 +1,9 @@
+# [TITLE]: kronosnet
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kronosnet-lib)
+include(kronosnet-license)
+kronosnet

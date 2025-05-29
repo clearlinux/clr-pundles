@@ -1,0 +1,10 @@
+# [TITLE]: cpuid
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cpuid-bin)
+include(cpuid-license)
+include(cpuid-man)
+cpuid

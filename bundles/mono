@@ -12,4 +12,4 @@
 
 # main package
 mono
-mono-dev
+include(mono-dev)

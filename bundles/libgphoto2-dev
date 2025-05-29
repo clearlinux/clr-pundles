@@ -1,0 +1,14 @@
+# [TITLE]: libgphoto2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libexif-dev)
+include(libgphoto2)
+include(libgphoto2-bin)
+include(libgphoto2-data)
+include(libgphoto2-dev)
+include(libgphoto2-lib)
+include(pkg-config-bin)
+libgphoto2-dev

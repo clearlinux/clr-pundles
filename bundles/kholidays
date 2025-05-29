@@ -1,0 +1,10 @@
+# [TITLE]: kholidays
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kholidays-data)
+include(kholidays-lib)
+include(kholidays-license)
+kholidays

@@ -1,0 +1,10 @@
+# [TITLE]: zopfli-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zopfli)
+include(zopfli-bin)
+include(zopfli-lib)
+zopfli-dev

@@ -1,0 +1,10 @@
+# [TITLE]: i3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(i3-bin)
+include(i3-data)
+include(i3-license)
+i3

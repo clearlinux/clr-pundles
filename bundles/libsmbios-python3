@@ -1,0 +1,8 @@
+# [TITLE]: libsmbios-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+libsmbios-python3

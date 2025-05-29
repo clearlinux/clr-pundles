@@ -1,0 +1,13 @@
+# [TITLE]: telepathy-glib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dbus-glib-lib)
+include(dbus-lib)
+include(glib-lib)
+include(libc6)
+include(telepathy-glib-data)
+include(telepathy-glib-license)
+telepathy-glib-lib

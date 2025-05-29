@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-dnsmasq
+include(dnsmasq)
 include(systemd)
 include(gmp-lib)
 include(nettle-lib)

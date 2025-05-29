@@ -1,0 +1,8 @@
+# [TITLE]: clr-boot-manager-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+clr-boot-manager-services

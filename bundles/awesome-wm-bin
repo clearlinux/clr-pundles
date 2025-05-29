@@ -1,0 +1,22 @@
+# [TITLE]: awesome-wm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(awesome-wm-data)
+include(awesome-wm-license)
+include(cairo-lib)
+include(coreutils-bin)
+include(dbus-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libX11-lib)
+include(libc6)
+include(libxdg-basedir-lib)
+include(libxkbcommon-lib)
+include(lua-lib)
+include(startup-notification-lib)
+include(xcb-util-cursor-lib)
+include(xcb-util-xrm-lib)
+awesome-wm-bin

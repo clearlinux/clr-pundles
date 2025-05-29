@@ -1,0 +1,9 @@
+# [TITLE]: libebur128
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libebur128-lib)
+include(libebur128-license)
+libebur128

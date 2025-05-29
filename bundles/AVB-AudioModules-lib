@@ -1,0 +1,17 @@
+# [TITLE]: AVB-AudioModules-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(AVB-AudioModules-data)
+include(AVB-AudioModules-license)
+include(alsa-lib-lib)
+include(boost)
+include(dlt-daemon-lib)
+include(libc6)
+include(libgcc1)
+include(libsndfile-lib)
+include(libstdc++)
+include(tbb-lib)
+AVB-AudioModules-lib

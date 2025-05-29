@@ -1,0 +1,8 @@
+# [TITLE]: azure-umock-c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(azure-umock-c-license)
+azure-umock-c

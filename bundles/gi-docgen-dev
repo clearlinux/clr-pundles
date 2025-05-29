@@ -1,0 +1,10 @@
+# [TITLE]: gi-docgen-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gi-docgen)
+include(gi-docgen-bin)
+include(pkg-config-bin)
+gi-docgen-dev

@@ -1,0 +1,9 @@
+# [TITLE]: vid.stab
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vid.stab-lib)
+include(vid.stab-license)
+vid.stab

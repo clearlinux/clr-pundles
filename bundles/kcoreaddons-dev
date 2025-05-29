@@ -1,0 +1,12 @@
+# [TITLE]: kcoreaddons-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons)
+include(kcoreaddons-data)
+include(kcoreaddons-lib)
+include(pkg-config-bin)
+include(qt6base-dev)
+kcoreaddons-dev

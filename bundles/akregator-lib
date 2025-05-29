@@ -1,0 +1,36 @@
+# [TITLE]: akregator-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akregator-data)
+include(akregator-license)
+include(grantleetheme-lib)
+include(kcmutils-lib)
+include(kcodecs-lib)
+include(kcolorscheme-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(knotifyconfig-lib)
+include(kontactinterface-lib)
+include(kparts-lib)
+include(kstatusnotifieritem-lib)
+include(ktextaddons-lib)
+include(ktexttemplate-lib)
+include(kwidgetsaddons-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libgcc1)
+include(libkdepim-lib)
+include(libstdc++)
+include(messagelib-lib)
+include(pimcommon-lib)
+include(qt6base-lib)
+include(qt6webengine-lib)
+include(syndication-lib)
+akregator-lib

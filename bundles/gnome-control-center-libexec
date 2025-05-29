@@ -1,0 +1,16 @@
+# [TITLE]: gnome-control-center-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gnome-control-center-license)
+include(gtk4-lib)
+include(libX11-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libgcc1)
+include(wayland-lib)
+gnome-control-center-libexec

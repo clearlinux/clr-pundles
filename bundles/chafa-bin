@@ -1,0 +1,18 @@
+# [TITLE]: chafa-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(chafa-lib)
+include(chafa-license)
+include(freetype-lib)
+include(glib-lib)
+include(libavif-lib)
+include(libc6)
+include(libjpeg-turbo-lib)
+include(librsvg-lib)
+include(libwebp-lib)
+include(tiff-lib)
+chafa-bin

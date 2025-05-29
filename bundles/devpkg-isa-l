@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-isa-l-dev
+include(isa-l-dev)

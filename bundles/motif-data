@@ -1,0 +1,11 @@
+# [TITLE]: motif-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXt-lib)
+include(libc6)
+include(motif-lib)
+motif-data

@@ -8,6 +8,6 @@ include(os-core)
 # for swupd-search
 include(python3-basic)
 
-clr-bundles
-clr-find-bundle
+include(clr-bundles)
+include(clr-find-bundle)
 include(swupd-search)

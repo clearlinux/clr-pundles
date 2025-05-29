@@ -1,0 +1,9 @@
+# [TITLE]: tclx-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(tclx)
+include(tclx-lib)
+tclx-dev

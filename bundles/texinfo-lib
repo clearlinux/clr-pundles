@@ -1,0 +1,12 @@
+# [TITLE]: texinfo-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libunistring-lib)
+include(texinfo-data)
+include(texinfo-libexec)
+include(texinfo-license)
+texinfo-lib

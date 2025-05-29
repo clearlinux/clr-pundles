@@ -1,0 +1,8 @@
+# [TITLE]: clr-init
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-init-license)
+clr-init

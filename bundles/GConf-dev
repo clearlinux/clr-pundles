@@ -1,0 +1,13 @@
+# [TITLE]: GConf-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(GConf)
+include(GConf-bin)
+include(GConf-data)
+include(GConf-lib)
+include(dbus-dev)
+include(glib-dev)
+GConf-dev

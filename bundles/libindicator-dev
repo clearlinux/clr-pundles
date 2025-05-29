@@ -1,0 +1,19 @@
+# [TITLE]: libindicator-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-dev)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(libc6)
+include(libindicator)
+include(libindicator-data)
+include(libindicator-lib)
+include(pango-lib)
+libindicator-dev

@@ -1,0 +1,9 @@
+# [TITLE]: utf8proc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(utf8proc-lib)
+include(utf8proc-license)
+utf8proc

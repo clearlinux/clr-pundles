@@ -1,0 +1,15 @@
+# [TITLE]: libkgapi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcalendarcore-lib)
+include(kcontacts-lib)
+include(kwallet-lib)
+include(libc6)
+include(libkgapi-data)
+include(libkgapi-license)
+include(libstdc++)
+include(qt6base-lib)
+libkgapi-lib

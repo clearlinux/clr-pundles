@@ -1,0 +1,14 @@
+# [TITLE]: tallow-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(json-c-lib)
+include(libc6)
+include(pcre-lib)
+include(systemd-extras-libsystemd)
+include(tallow-data)
+include(tallow-license)
+include(tallow-services)
+tallow-bin

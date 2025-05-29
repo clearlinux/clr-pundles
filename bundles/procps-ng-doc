@@ -1,0 +1,8 @@
+# [TITLE]: procps-ng-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(procps-ng-man)
+procps-ng-doc

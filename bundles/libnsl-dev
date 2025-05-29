@@ -1,0 +1,11 @@
+# [TITLE]: libnsl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libnsl)
+include(libnsl-lib)
+include(libtirpc-dev)
+include(pkg-config-bin)
+libnsl-dev

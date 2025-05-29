@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-gcab-dev
+include(gcab-dev)
 include(libglib)

@@ -1,0 +1,11 @@
+# [TITLE]: pugixml-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(pugixml-license)
+pugixml-lib

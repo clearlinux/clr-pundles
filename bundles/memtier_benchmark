@@ -1,0 +1,11 @@
+# [TITLE]: memtier_benchmark
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(memtier_benchmark-bin)
+include(memtier_benchmark-data)
+include(memtier_benchmark-license)
+include(memtier_benchmark-man)
+memtier_benchmark

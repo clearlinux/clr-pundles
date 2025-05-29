@@ -1,0 +1,12 @@
+# [TITLE]: uhttpmock-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libsoup-soname-24-lib)
+include(glib-lib)
+include(libc6)
+include(uhttpmock-data)
+include(uhttpmock-license)
+uhttpmock-lib

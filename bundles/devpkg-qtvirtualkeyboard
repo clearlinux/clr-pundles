@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qtvirtualkeyboard-dev
+include(qtvirtualkeyboard-dev)
 include(qt-core)
 include(qt-basic)
 include(libX11client)

@@ -1,0 +1,12 @@
+# [TITLE]: kdepim-runtime
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdepim-runtime-bin)
+include(kdepim-runtime-data)
+include(kdepim-runtime-lib)
+include(kdepim-runtime-license)
+include(kdepim-runtime-locales)
+kdepim-runtime

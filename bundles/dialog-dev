@@ -1,0 +1,10 @@
+# [TITLE]: dialog-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dialog)
+include(dialog-bin)
+include(dialog-lib)
+dialog-dev

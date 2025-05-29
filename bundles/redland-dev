@@ -1,0 +1,13 @@
+# [TITLE]: redland-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(raptor2-dev)
+include(rasqal-dev)
+include(redland)
+include(redland-bin)
+include(redland-data)
+include(redland-lib)
+redland-dev

@@ -1,0 +1,11 @@
+# [TITLE]: x265-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(x265)
+include(x265-bin)
+include(x265-lib)
+x265-dev

@@ -1,0 +1,11 @@
+# [TITLE]: gpm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpm)
+include(gpm-bin)
+include(gpm-data)
+include(gpm-lib)
+gpm-dev

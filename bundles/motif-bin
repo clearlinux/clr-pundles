@@ -1,0 +1,13 @@
+# [TITLE]: motif-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libXt-lib)
+include(libc6)
+include(motif-data)
+include(motif-lib)
+include(motif-license)
+motif-bin

@@ -1,0 +1,8 @@
+# [TITLE]: gnome-tweaks-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-tweaks-python3)
+gnome-tweaks-python

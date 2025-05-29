@@ -1,0 +1,12 @@
+# [TITLE]: xmlb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xmlb-bin)
+include(xmlb-data)
+include(xmlb-lib)
+include(xmlb-license)
+include(xmlb-man)
+xmlb

@@ -1,0 +1,11 @@
+# [TITLE]: kmailtransport
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kmailtransport-data)
+include(kmailtransport-lib)
+include(kmailtransport-license)
+include(kmailtransport-locales)
+kmailtransport

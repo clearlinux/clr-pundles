@@ -1,0 +1,9 @@
+# [TITLE]: OpenCSG
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenCSG-lib)
+include(OpenCSG-license)
+OpenCSG

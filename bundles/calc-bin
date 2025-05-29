@@ -1,0 +1,12 @@
+# [TITLE]: calc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(calc-data)
+include(calc-lib)
+include(calc-license)
+include(libc6)
+include(readline-lib)
+calc-bin

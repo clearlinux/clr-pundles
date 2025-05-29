@@ -1,0 +1,12 @@
+# [TITLE]: qwt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qtbase-dev)
+include(qtsvg-dev)
+include(qwt)
+include(qwt-lib)
+qwt-dev

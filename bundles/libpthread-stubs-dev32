@@ -1,0 +1,9 @@
+# [TITLE]: libpthread-stubs-dev32
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpthread-stubs-dev)
+include(pkg-config-bin)
+libpthread-stubs-dev32

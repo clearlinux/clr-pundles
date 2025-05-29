@@ -1,0 +1,8 @@
+# [TITLE]: mmc-utils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+mmc-utils-bin

@@ -1,0 +1,9 @@
+# [TITLE]: datefudge-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(datefudge-license)
+include(filesystem)
+datefudge-bin

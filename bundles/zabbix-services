@@ -1,0 +1,8 @@
+# [TITLE]: zabbix-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+zabbix-services

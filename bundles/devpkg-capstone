@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-capstone-dev
+include(capstone-dev)

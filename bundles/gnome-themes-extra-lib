@@ -1,0 +1,13 @@
+# [TITLE]: gnome-themes-extra-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(glib-lib)
+include(gnome-themes-extra-data)
+include(gnome-themes-extra-license)
+include(gtk+-lib)
+include(libc6)
+gnome-themes-extra-lib

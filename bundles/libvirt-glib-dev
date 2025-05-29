@@ -1,0 +1,15 @@
+# [TITLE]: libvirt-glib-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libvirt-dev)
+include(libvirt-glib)
+include(libvirt-glib-data)
+include(libvirt-glib-dev)
+include(libvirt-glib-lib)
+include(libxml2-dev)
+include(pkg-config-bin)
+libvirt-glib-dev

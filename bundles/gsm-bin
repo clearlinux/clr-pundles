@@ -1,0 +1,10 @@
+# [TITLE]: gsm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsm-lib)
+include(gsm-license)
+include(libc6)
+gsm-bin

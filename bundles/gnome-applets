@@ -1,0 +1,11 @@
+# [TITLE]: gnome-applets
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-applets-data)
+include(gnome-applets-lib)
+include(gnome-applets-license)
+include(gnome-applets-locales)
+gnome-applets

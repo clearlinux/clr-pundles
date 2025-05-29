@@ -1,0 +1,10 @@
+# [TITLE]: editorconfig-core-c-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(editorconfig-core-c-lib)
+include(editorconfig-core-c-license)
+include(libc6)
+editorconfig-core-c-bin

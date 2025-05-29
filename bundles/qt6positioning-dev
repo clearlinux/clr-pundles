@@ -1,0 +1,11 @@
+# [TITLE]: qt6positioning-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6positioning)
+include(qt6positioning-lib)
+qt6positioning-dev

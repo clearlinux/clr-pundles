@@ -1,0 +1,17 @@
+# [TITLE]: kio-admin-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kio-admin-data)
+include(kio-admin-license)
+include(kio-lib)
+include(libc6)
+include(libstdc++)
+include(polkit-qt6-lib)
+include(qt6base-lib)
+kio-admin-lib

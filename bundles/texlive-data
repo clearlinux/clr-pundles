@@ -1,0 +1,11 @@
+# [TITLE]: texlive-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(perl-bin)
+include(python3-core)
+texlive-data

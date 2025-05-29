@@ -1,0 +1,14 @@
+# [TITLE]: slurm
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(slurm-bin)
+include(slurm-config)
+include(slurm-data)
+include(slurm-lib)
+include(slurm-license)
+include(slurm-man)
+include(slurm-services)
+slurm

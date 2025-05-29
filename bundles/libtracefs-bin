@@ -1,0 +1,11 @@
+# [TITLE]: libtracefs-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libtraceevent-lib)
+include(libtracefs-data)
+include(libtracefs-lib)
+libtracefs-bin

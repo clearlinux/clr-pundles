@@ -5,14 +5,14 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(bootloader)
-console-autostart
-init-rdahead-extras
-irqbalance
+include(console-autostart)
+include(init-rdahead-extras)
+include(irqbalance)
 include(linux-firmware)
 include(linux-firmware-extras)
 include(os-core-plus)
 also-add(kernel-preempt-rt)
-mcelog
+include(mcelog)
 include(systemd)
 include(libglib)
 include(libnl)

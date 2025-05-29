@@ -1,0 +1,19 @@
+# [TITLE]: nut-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(freeipmi-lib)
+include(i2c-tools-lib)
+include(libc6)
+include(libmodbus-lib)
+include(libusb-lib)
+include(neon-lib)
+include(net-snmp-lib)
+include(nut-config)
+include(nut-lib)
+include(nut-license)
+include(systemd-extras-libsystemd)
+nut-libexec

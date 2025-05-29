@@ -1,0 +1,12 @@
+# [TITLE]: screen
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(screen-bin)
+include(screen-data)
+include(screen-info)
+include(screen-license)
+include(screen-man)
+screen

@@ -1,0 +1,13 @@
+# [TITLE]: Vulkan-Tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Vulkan-Tools-license)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(wayland-lib)
+Vulkan-Tools-bin

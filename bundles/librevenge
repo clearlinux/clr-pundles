@@ -1,0 +1,9 @@
+# [TITLE]: librevenge
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librevenge-lib)
+include(librevenge-license)
+librevenge

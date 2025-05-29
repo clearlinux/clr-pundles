@@ -1,0 +1,12 @@
+# [TITLE]: qatlib-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(numactl-lib)
+include(qatlib-license)
+include(qatlib-services)
+qatlib-bin

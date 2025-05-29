@@ -1,0 +1,18 @@
+# [TITLE]: cogl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(cogl-data)
+include(cogl-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(harfbuzz-lib)
+include(libX11-lib)
+include(libc6)
+include(libglvnd-lib)
+include(pango-lib)
+include(wayland-lib)
+cogl-lib

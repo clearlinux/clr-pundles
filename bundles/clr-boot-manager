@@ -1,0 +1,13 @@
+# [TITLE]: clr-boot-manager
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-boot-manager-autostart)
+include(clr-boot-manager-bin)
+include(clr-boot-manager-data)
+include(clr-boot-manager-license)
+include(clr-boot-manager-man)
+include(clr-boot-manager-services)
+clr-boot-manager

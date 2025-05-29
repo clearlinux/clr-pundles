@@ -1,0 +1,17 @@
+# [TITLE]: fsarchiver-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(e2fsprogs-lib)
+include(fsarchiver-license)
+include(libc6)
+include(libgcrypt-lib)
+include(lz4-lib)
+include(lzo-lib)
+include(util-linux-lib)
+include(zlib-lib)
+include(zstd-lib)
+fsarchiver-bin

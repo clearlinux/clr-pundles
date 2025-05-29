@@ -1,0 +1,21 @@
+# [TITLE]: gnome-desktop-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gnome-desktop-data)
+include(gnome-desktop-libexec)
+include(gnome-desktop-license)
+include(gtk3-lib)
+include(gtk4-lib)
+include(libc6)
+include(libgcc1)
+include(libseccomp-lib)
+include(libxkbcommon-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+gnome-desktop-lib

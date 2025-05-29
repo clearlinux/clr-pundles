@@ -1,0 +1,12 @@
+# [TITLE]: docbook2X-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(docbook2X-data)
+include(docbook2X-license)
+include(filesystem)
+include(libc6)
+include(perl-bin)
+docbook2X-bin

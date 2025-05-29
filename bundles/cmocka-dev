@@ -1,0 +1,10 @@
+# [TITLE]: cmocka-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmocka)
+include(cmocka-lib)
+include(pkg-config-bin)
+cmocka-dev

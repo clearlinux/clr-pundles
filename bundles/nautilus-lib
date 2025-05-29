@@ -1,0 +1,16 @@
+# [TITLE]: nautilus-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(gexiv2-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(libc6)
+include(libgcc1)
+include(nautilus-data)
+include(nautilus-license)
+nautilus-lib

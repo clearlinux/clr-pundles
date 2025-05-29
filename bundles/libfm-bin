@@ -1,0 +1,13 @@
+# [TITLE]: libfm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk+-lib)
+include(libc6)
+include(libfm-data)
+include(libfm-lib)
+include(libfm-license)
+libfm-bin

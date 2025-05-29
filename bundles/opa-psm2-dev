@@ -1,0 +1,9 @@
+# [TITLE]: opa-psm2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opa-psm2)
+include(opa-psm2-lib)
+opa-psm2-dev

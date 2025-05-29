@@ -1,0 +1,9 @@
+# [TITLE]: dovecot-extras-pgsql
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(postgresql-lib)
+dovecot-extras-pgsql

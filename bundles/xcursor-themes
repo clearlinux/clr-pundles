@@ -1,0 +1,9 @@
+# [TITLE]: xcursor-themes
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xcursor-themes-data)
+include(xcursor-themes-license)
+xcursor-themes

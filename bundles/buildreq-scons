@@ -1,0 +1,9 @@
+# [TITLE]: buildreq-scons
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(buildreq-distutils3)
+include(scons)
+buildreq-scons

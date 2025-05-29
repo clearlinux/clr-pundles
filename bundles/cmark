@@ -1,0 +1,10 @@
+# [TITLE]: cmark
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmark-lib)
+include(cmark-license)
+include(cmark-man)
+cmark

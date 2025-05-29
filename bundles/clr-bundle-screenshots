@@ -1,0 +1,8 @@
+# [TITLE]: clr-bundle-screenshots
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-bundle-screenshots-data)
+clr-bundle-screenshots

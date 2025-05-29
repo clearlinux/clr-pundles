@@ -1,0 +1,9 @@
+# [TITLE]: cmrt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmrt-lib)
+include(cmrt-license)
+cmrt

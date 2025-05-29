@@ -1,0 +1,15 @@
+# [TITLE]: ktexteditor-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcoreaddons-lib)
+include(ktexteditor-data)
+include(ktexteditor-lib)
+include(ktexteditor-license)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+ktexteditor-bin

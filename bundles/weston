@@ -1,0 +1,13 @@
+# [TITLE]: weston
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(weston-bin)
+include(weston-data)
+include(weston-lib)
+include(weston-libexec)
+include(weston-license)
+include(weston-man)
+weston

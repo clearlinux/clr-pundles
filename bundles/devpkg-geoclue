@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-geoclue-dev
+include(geoclue-dev)
 include(libglib)
 include(gdk-pixbuf)
 include(icu4c-lib)

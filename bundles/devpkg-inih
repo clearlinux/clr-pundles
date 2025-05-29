@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-inih-dev
+include(inih-dev)
 include(libstdcpp)

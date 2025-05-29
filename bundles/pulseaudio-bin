@@ -1,0 +1,14 @@
+# [TITLE]: pulseaudio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libsndfile-lib)
+include(pulseaudio-data)
+include(pulseaudio-lib)
+include(pulseaudio-license)
+include(pulseaudio-services)
+pulseaudio-bin

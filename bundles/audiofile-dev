@@ -1,0 +1,11 @@
+# [TITLE]: audiofile-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audiofile)
+include(audiofile-bin)
+include(audiofile-lib)
+include(pkg-config-bin)
+audiofile-dev

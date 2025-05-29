@@ -1,0 +1,10 @@
+# [TITLE]: waydroid-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(waydroid-data)
+include(waydroid-license)
+include(waydroid-services)
+waydroid-bin

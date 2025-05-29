@@ -1,0 +1,13 @@
+# [TITLE]: gtk-vnc-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk-vnc-data)
+include(gtk-vnc-lib)
+include(gtk-vnc-license)
+include(libc6)
+gtk-vnc-bin

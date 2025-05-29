@@ -1,0 +1,10 @@
+# [TITLE]: xrandr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xrandr-bin)
+include(xrandr-license)
+include(xrandr-man)
+xrandr

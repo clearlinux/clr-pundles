@@ -1,0 +1,11 @@
+# [TITLE]: sox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sox-bin)
+include(sox-lib)
+include(sox-license)
+include(sox-man)
+sox

@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-ndctl-dev
+include(ndctl-dev)

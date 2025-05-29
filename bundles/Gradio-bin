@@ -1,0 +1,20 @@
+# [TITLE]: Gradio-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Gradio-data)
+include(Gradio-license)
+include(cairo-lib)
+include(compat-libsoup-soname-24-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(json-glib-lib)
+include(libc6)
+include(pango-lib)
+include(sqlite-autoconf-lib)
+Gradio-bin

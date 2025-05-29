@@ -1,0 +1,11 @@
+# [TITLE]: x11perf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(x11perf-bin)
+include(x11perf-license)
+include(x11perf-man)
+x11perf

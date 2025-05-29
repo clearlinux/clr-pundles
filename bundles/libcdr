@@ -1,0 +1,10 @@
+# [TITLE]: libcdr
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcdr-bin)
+include(libcdr-lib)
+include(libcdr-license)
+libcdr

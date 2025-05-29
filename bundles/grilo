@@ -1,0 +1,13 @@
+# [TITLE]: grilo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(grilo-bin)
+include(grilo-data)
+include(grilo-lib)
+include(grilo-license)
+include(grilo-locales)
+include(grilo-man)
+grilo

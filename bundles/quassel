@@ -17,7 +17,7 @@ include(numactl)
 include(aspell)
 include(libevent-lib)
 include(dav1d-lib)
-quassel-extras
+include(quassel-extras)
 # end of custom additions
 
 # main package

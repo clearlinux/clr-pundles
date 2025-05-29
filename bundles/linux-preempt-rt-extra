@@ -1,0 +1,8 @@
+# [TITLE]: linux-preempt-rt-extra
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(linux-preempt-rt-license)
+linux-preempt-rt-extra

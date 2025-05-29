@@ -1,0 +1,8 @@
+# [TITLE]: exo-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exo-man)
+exo-doc

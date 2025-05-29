@@ -1,0 +1,9 @@
+# [TITLE]: qt6lottie-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6lottie)
+include(qt6lottie-lib)
+qt6lottie-dev

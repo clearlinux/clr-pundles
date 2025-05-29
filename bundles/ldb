@@ -1,0 +1,12 @@
+# [TITLE]: ldb
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ldb-bin)
+include(ldb-lib)
+include(ldb-license)
+include(ldb-python)
+include(ldb-python3)
+ldb

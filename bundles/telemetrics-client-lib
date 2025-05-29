@@ -1,0 +1,11 @@
+# [TITLE]: telemetrics-client-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(telemetrics-client-data)
+include(telemetrics-client-license)
+telemetrics-client-lib

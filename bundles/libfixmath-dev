@@ -1,0 +1,8 @@
+# [TITLE]: libfixmath-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libfixmath)
+libfixmath-dev

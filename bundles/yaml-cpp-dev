@@ -1,0 +1,10 @@
+# [TITLE]: yaml-cpp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(yaml-cpp)
+include(yaml-cpp-lib)
+yaml-cpp-dev

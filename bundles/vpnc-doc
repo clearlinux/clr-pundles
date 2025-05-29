@@ -1,0 +1,8 @@
+# [TITLE]: vpnc-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(vpnc-man)
+vpnc-doc

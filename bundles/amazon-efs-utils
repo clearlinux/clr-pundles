@@ -1,0 +1,15 @@
+# [TITLE]: amazon-efs-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(amazon-efs-utils-bin)
+include(amazon-efs-utils-data)
+include(amazon-efs-utils-license)
+include(amazon-efs-utils-man)
+include(amazon-efs-utils-services)
+include(nfs-utils)
+include(openssl)
+include(stunnel)
+amazon-efs-utils

@@ -1,0 +1,9 @@
+# [TITLE]: lpeg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lpeg-data)
+include(lpeg-lib)
+lpeg

@@ -1,0 +1,12 @@
+# [TITLE]: rtkit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rtkit-bin)
+include(rtkit-data)
+include(rtkit-libexec)
+include(rtkit-man)
+include(rtkit-services)
+rtkit

@@ -1,0 +1,23 @@
+# [TITLE]: plasma-disks-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kcmutils-lib)
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kdbusaddons-lib)
+include(ki18n-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(kservice-lib)
+include(libc6)
+include(libstdc++)
+include(plasma-disks-data)
+include(plasma-disks-license)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(solid-lib)
+plasma-disks-lib

@@ -1,0 +1,8 @@
+# [TITLE]: glusterfs-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glusterfs-python3)
+glusterfs-python

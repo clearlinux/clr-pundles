@@ -1,0 +1,13 @@
+# [TITLE]: dropwatch-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(binutils-lib)
+include(dropwatch-license)
+include(libc6)
+include(libnl-lib)
+include(libpcap-lib)
+include(readline-lib)
+dropwatch-bin

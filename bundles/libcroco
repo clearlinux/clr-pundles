@@ -1,0 +1,10 @@
+# [TITLE]: libcroco
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcroco-bin)
+include(libcroco-lib)
+include(libcroco-license)
+libcroco

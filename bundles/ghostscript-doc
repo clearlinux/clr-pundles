@@ -1,0 +1,8 @@
+# [TITLE]: ghostscript-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ghostscript-man)
+ghostscript-doc

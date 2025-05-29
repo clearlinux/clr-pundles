@@ -1,0 +1,18 @@
+# [TITLE]: evolution-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(evolution)
+include(evolution-bin)
+include(evolution-data)
+include(evolution-data-server-dev)
+include(evolution-dev)
+include(evolution-lib)
+include(glib-dev)
+include(gnome-desktop-dev)
+include(gtk3-dev)
+include(pkg-config-bin)
+include(webkitgtk-dev)
+evolution-dev

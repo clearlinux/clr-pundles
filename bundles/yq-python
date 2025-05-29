@@ -1,0 +1,8 @@
+# [TITLE]: yq-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yq-python3)
+yq-python

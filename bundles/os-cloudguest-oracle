@@ -8,6 +8,6 @@ include(openssh-server)
 include(sudo)
 include(libglib)
 
-micro-config-drive-oci
-open-iscsi
-open-iscsi-autostart
+include(micro-config-drive-oci)
+include(open-iscsi)
+include(open-iscsi-autostart)

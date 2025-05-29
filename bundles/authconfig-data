@@ -1,0 +1,8 @@
+# [TITLE]: authconfig-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+authconfig-data

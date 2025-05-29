@@ -1,0 +1,19 @@
+# [TITLE]: akonadi-calendar-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-calendar-lib)
+include(akonadi-calendar-tools-data)
+include(akonadi-calendar-tools-license)
+include(akonadi-lib)
+include(calendarsupport-lib)
+include(kcalendarcore-lib)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+akonadi-calendar-tools-bin

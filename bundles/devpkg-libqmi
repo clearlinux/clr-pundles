@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libqmi-dev
+include(libqmi-dev)
 include(libglib)

@@ -1,0 +1,10 @@
+# [TITLE]: speex-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(speex)
+include(speex-bin)
+include(speex-lib)
+speex-dev

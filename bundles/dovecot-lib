@@ -1,0 +1,21 @@
+# [TITLE]: dovecot-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bzip2-lib)
+include(dovecot-data)
+include(dovecot-libexec)
+include(dovecot-license)
+include(expat-lib)
+include(libc6)
+include(libgcc1)
+include(libtirpc-lib)
+include(lz4-lib)
+include(openldap-lib)
+include(openssl-lib)
+include(sqlite-autoconf-lib)
+include(zlib-lib)
+include(zstd-lib)
+dovecot-lib

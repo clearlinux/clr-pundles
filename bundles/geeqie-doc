@@ -1,0 +1,8 @@
+# [TITLE]: geeqie-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geeqie-man)
+geeqie-doc

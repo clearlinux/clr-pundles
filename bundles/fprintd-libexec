@@ -1,0 +1,13 @@
+# [TITLE]: fprintd-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fprintd-license)
+include(glib-lib)
+include(libc6)
+include(libfprint-lib)
+include(libgcc1)
+include(polkit-lib)
+fprintd-libexec

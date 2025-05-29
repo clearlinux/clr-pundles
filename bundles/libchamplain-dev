@@ -1,0 +1,18 @@
+# [TITLE]: libchamplain-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(clutter-dev)
+include(clutter-gtk-dev)
+include(glib-dev)
+include(gtk3-dev)
+include(libchamplain)
+include(libchamplain-data)
+include(libchamplain-dev)
+include(libchamplain-lib)
+include(libsoup-dev)
+include(sqlite-autoconf-dev)
+libchamplain-dev

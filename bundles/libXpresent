@@ -1,0 +1,9 @@
+# [TITLE]: libXpresent
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libXpresent-lib)
+include(libXpresent-license)
+libXpresent

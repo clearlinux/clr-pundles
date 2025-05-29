@@ -1,0 +1,17 @@
+# [TITLE]: efl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LuaJIT-lib)
+include(coreutils-bin)
+include(efl-data)
+include(efl-lib)
+include(efl-license)
+include(efl-services)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+efl-bin

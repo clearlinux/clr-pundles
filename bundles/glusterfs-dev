@@ -1,0 +1,14 @@
+# [TITLE]: glusterfs-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-dev)
+include(glusterfs)
+include(glusterfs-bin)
+include(glusterfs-data)
+include(glusterfs-lib)
+include(pkg-config-bin)
+include(util-linux-dev)
+glusterfs-dev

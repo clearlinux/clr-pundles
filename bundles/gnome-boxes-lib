@@ -1,0 +1,15 @@
+# [TITLE]: gnome-boxes-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gnome-boxes-data)
+include(gnome-boxes-libexec)
+include(gnome-boxes-license)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+gnome-boxes-lib

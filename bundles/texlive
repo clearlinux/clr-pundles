@@ -14,7 +14,7 @@ include(mpfr-lib)
 include(libXpm-lib)
 include(icu4c-lib)
 include(python3-basic)
-dvisvgm
+include(dvisvgm)
 also-add(ghostscript)
 include(perl-basic)
 # end of custom additions

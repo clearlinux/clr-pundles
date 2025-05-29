@@ -1,0 +1,13 @@
+# [TITLE]: swaybg-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(libc6)
+include(swaybg-license)
+include(wayland-lib)
+swaybg-bin

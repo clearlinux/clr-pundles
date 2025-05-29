@@ -1,0 +1,11 @@
+# [TITLE]: qt6sensors-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6sensors-license)
+qt6sensors-lib

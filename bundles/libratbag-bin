@@ -1,0 +1,19 @@
+# [TITLE]: libratbag-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(glib-lib)
+include(libc6)
+include(libevdev-lib)
+include(libgcc1)
+include(libratbag-data)
+include(libratbag-lib)
+include(libratbag-license)
+include(libratbag-services)
+include(libunistring-lib)
+include(systemd-extras-libsystemd)
+include(systemd-lib)
+libratbag-bin

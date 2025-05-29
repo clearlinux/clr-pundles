@@ -1,0 +1,10 @@
+# [TITLE]: ktexttemplate
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ktexttemplate-data)
+include(ktexttemplate-lib)
+include(ktexttemplate-license)
+ktexttemplate

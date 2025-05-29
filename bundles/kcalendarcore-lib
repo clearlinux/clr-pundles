@@ -1,0 +1,14 @@
+# [TITLE]: kcalendarcore-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcalendarcore-data)
+include(kcalendarcore-license)
+include(libc6)
+include(libical-lib)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+kcalendarcore-lib

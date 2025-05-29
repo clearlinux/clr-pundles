@@ -1,0 +1,9 @@
+# [TITLE]: rrdtool-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-bin)
+include(python3-core)
+rrdtool-data

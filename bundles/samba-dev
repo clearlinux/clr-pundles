@@ -1,0 +1,15 @@
+# [TITLE]: samba-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(samba)
+include(samba-bin)
+include(samba-data)
+include(samba-dev)
+include(samba-lib)
+include(talloc-dev)
+include(tevent-dev)
+samba-dev

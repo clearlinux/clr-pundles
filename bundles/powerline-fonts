@@ -1,0 +1,9 @@
+# [TITLE]: powerline-fonts
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(powerline-fonts-data)
+include(powerline-fonts-license)
+powerline-fonts

@@ -1,0 +1,11 @@
+# [TITLE]: kldap
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kldap-data)
+include(kldap-lib)
+include(kldap-license)
+include(kldap-locales)
+kldap

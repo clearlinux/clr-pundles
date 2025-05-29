@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-libatasmart-dev
+include(libatasmart-dev)

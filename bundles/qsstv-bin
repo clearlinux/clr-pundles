@@ -1,0 +1,22 @@
+# [TITLE]: qsstv-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(fftw-lib)
+include(hamlib-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(openjpeg-lib)
+include(pulseaudio-lib)
+include(qsstv-data)
+include(qsstv-license)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qwt-lib)
+include(v4l-utils-lib)
+qsstv-bin

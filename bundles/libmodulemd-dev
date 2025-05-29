@@ -1,0 +1,15 @@
+# [TITLE]: libmodulemd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libmodulemd)
+include(libmodulemd-bin)
+include(libmodulemd-data)
+include(libmodulemd-lib)
+include(pkg-config-bin)
+include(rpm-dev)
+include(yaml-dev)
+libmodulemd-dev

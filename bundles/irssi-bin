@@ -1,0 +1,13 @@
+# [TITLE]: irssi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(irssi-data)
+include(irssi-license)
+include(libc6)
+include(ncurses-lib)
+include(openssl-lib)
+irssi-bin

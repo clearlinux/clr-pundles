@@ -1,0 +1,11 @@
+# [TITLE]: i3lock
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(i3lock-bin)
+include(i3lock-data)
+include(i3lock-license)
+include(i3lock-man)
+i3lock

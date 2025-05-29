@@ -1,0 +1,10 @@
+# [TITLE]: nng
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nng-bin)
+include(nng-lib)
+include(nng-license)
+nng

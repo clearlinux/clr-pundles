@@ -1,0 +1,21 @@
+# [TITLE]: cups-filters
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-filters-bin)
+include(cups-filters-data)
+include(cups-filters-lib)
+include(cups-filters-man)
+include(cups-lib)
+include(filesystem)
+include(fontconfig-lib)
+include(lcms2-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(poppler-lib)
+include(qpdf-lib)
+include(zlib-lib)
+cups-filters

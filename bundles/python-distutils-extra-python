@@ -1,0 +1,8 @@
+# [TITLE]: python-distutils-extra-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python-distutils-extra-python3)
+python-distutils-extra-python

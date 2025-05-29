@@ -1,0 +1,15 @@
+# [TITLE]: google-cloud-cpp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-dev)
+include(curl-dev)
+include(google-cloud-cpp)
+include(google-cloud-cpp-dev)
+include(google-cloud-cpp-lib)
+include(googletest-dev)
+include(openssl-dev)
+include(pkg-config-bin)
+google-cloud-cpp-dev

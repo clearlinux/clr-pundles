@@ -1,0 +1,10 @@
+# [TITLE]: kbookmarks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbookmarks-data)
+include(kbookmarks-lib)
+include(kbookmarks-license)
+kbookmarks

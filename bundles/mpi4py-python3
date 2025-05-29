@@ -1,0 +1,10 @@
+# [TITLE]: mpi4py-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(openmpi-lib)
+include(python3-core)
+mpi4py-python3

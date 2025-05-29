@@ -1,0 +1,26 @@
+# [TITLE]: gsequencer-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
+include(fftw-lib)
+include(glib-lib)
+include(graphene-lib)
+include(gsequencer-data)
+include(gsequencer-license)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk4-lib)
+include(libc6)
+include(libinstpatch-lib)
+include(libsndfile-lib)
+include(libsoup-lib)
+include(libxcrypt-lib)
+include(pango-lib)
+include(pulseaudio-lib)
+include(util-linux-lib)
+gsequencer-lib

@@ -1,0 +1,10 @@
+# [TITLE]: sbsigntools
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sbsigntools-bin)
+include(sbsigntools-license)
+include(sbsigntools-man)
+sbsigntools

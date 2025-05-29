@@ -1,0 +1,12 @@
+# [TITLE]: unit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(unit-bin)
+include(unit-lib)
+include(unit-license)
+include(unit-man)
+include(unit-services)
+unit

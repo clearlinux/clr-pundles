@@ -1,0 +1,11 @@
+# [TITLE]: fd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fd-data)
+include(fd-license)
+include(libc6)
+include(libgcc1)
+fd-bin

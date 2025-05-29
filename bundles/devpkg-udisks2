@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-udisks2-dev
+include(udisks2-dev)
 include(libglib)
 include(pypi-six)
 include(qt-core)

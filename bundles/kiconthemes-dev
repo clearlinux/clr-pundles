@@ -1,0 +1,11 @@
+# [TITLE]: kiconthemes-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kiconthemes)
+include(kiconthemes-bin)
+include(kiconthemes-data)
+include(kiconthemes-lib)
+kiconthemes-dev

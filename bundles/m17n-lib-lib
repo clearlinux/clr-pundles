@@ -1,0 +1,18 @@
+# [TITLE]: m17n-lib-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontconfig-lib)
+include(freetype-lib)
+include(fribidi-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libXt-lib)
+include(libc6)
+include(libgd-lib)
+include(libthai-lib)
+include(libxml2-lib)
+include(m17n-lib-license)
+m17n-lib-lib

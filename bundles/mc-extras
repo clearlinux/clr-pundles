@@ -1,0 +1,8 @@
+# [TITLE]: mc-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+mc-extras

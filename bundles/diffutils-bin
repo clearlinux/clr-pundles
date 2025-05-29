@@ -1,0 +1,9 @@
+# [TITLE]: diffutils-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(diffutils-license)
+include(libc6)
+diffutils-bin

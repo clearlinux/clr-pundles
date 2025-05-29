@@ -1,0 +1,13 @@
+# [TITLE]: libpinyin-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(kyotocabinet-lib)
+include(libc6)
+include(libgcc1)
+include(libpinyin-license)
+include(libstdc++)
+libpinyin-lib

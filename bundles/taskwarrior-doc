@@ -1,0 +1,8 @@
+# [TITLE]: taskwarrior-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(taskwarrior-man)
+taskwarrior-doc

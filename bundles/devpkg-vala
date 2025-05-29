@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-vala-dev
+include(vala-dev)
 include(libglib)
 include(gdk-pixbuf)
 include(libX11client)

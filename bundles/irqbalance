@@ -1,0 +1,13 @@
+# [TITLE]: irqbalance
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(irqbalance-autostart)
+include(irqbalance-bin)
+include(irqbalance-config)
+include(irqbalance-license)
+include(irqbalance-man)
+include(irqbalance-services)
+irqbalance

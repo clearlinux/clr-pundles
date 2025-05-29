@@ -1,0 +1,9 @@
+# [TITLE]: confuse-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(confuse-license)
+include(libc6)
+confuse-lib

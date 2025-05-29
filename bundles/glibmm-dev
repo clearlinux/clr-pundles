@@ -1,0 +1,13 @@
+# [TITLE]: glibmm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(glibmm)
+include(glibmm-dev)
+include(glibmm-lib)
+include(libsigc++-dev)
+include(pkg-config-bin)
+glibmm-dev

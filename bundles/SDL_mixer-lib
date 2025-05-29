@@ -1,0 +1,11 @@
+# [TITLE]: SDL_mixer-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-lib)
+include(SDL_mixer-license)
+include(libc6)
+include(libmodplug-lib)
+SDL_mixer-lib

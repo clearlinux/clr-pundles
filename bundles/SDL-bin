@@ -1,0 +1,9 @@
+# [TITLE]: SDL-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(SDL-license)
+include(filesystem)
+SDL-bin

@@ -1,0 +1,10 @@
+# [TITLE]: fsarchiver
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fsarchiver-bin)
+include(fsarchiver-license)
+include(fsarchiver-man)
+fsarchiver

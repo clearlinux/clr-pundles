@@ -1,0 +1,15 @@
+# [TITLE]: clutter-gst-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clutter-dev)
+include(clutter-gst)
+include(clutter-gst-data)
+include(clutter-gst-lib)
+include(cogl-dev)
+include(glib-dev)
+include(gst-plugins-base-dev)
+include(gstreamer-dev)
+clutter-gst-dev

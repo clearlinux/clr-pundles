@@ -1,0 +1,15 @@
+# [TITLE]: qt6webengine-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qt6base-dev)
+include(qt6declarative-dev)
+include(qt6webchannel-dev)
+include(qt6webengine)
+include(qt6webengine-data)
+include(qt6webengine-dev)
+include(qt6webengine-lib)
+qt6webengine-dev

@@ -1,0 +1,14 @@
+# [TITLE]: libMED-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libgfortran)
+include(gcc-libs-math)
+include(hdf5-lib)
+include(libMED-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+libMED-lib

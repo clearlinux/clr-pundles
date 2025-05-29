@@ -1,0 +1,16 @@
+# [TITLE]: nginx-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libxcrypt-lib)
+include(nginx-config)
+include(nginx-data)
+include(nginx-license)
+include(nginx-services)
+include(openssl-lib)
+include(pcre-lib)
+include(zlib-lib)
+nginx-bin

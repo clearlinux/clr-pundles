@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-usbredir-dev
+include(usbredir-dev)
 include(libglib)

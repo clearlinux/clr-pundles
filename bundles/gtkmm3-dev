@@ -1,0 +1,17 @@
+# [TITLE]: gtkmm3-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-atkmm-soname16-dev)
+include(compat-cairomm-soname10-dev)
+include(compat-glibmm-soname24-dev)
+include(compat-pangomm-soname14-dev)
+include(gdk-pixbuf-dev)
+include(gtk3-dev)
+include(gtkmm3)
+include(gtkmm3-dev)
+include(gtkmm3-lib)
+include(pkg-config-bin)
+gtkmm3-dev

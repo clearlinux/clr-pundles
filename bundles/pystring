@@ -1,0 +1,9 @@
+# [TITLE]: pystring
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pystring-lib)
+include(pystring-license)
+pystring

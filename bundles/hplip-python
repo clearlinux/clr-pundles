@@ -1,0 +1,8 @@
+# [TITLE]: hplip-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hplip-python3)
+hplip-python

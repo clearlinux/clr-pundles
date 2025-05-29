@@ -1,0 +1,10 @@
+# [TITLE]: procps-ng-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(ncurses-lib)
+include(procps-ng-lib)
+procps-ng-extras

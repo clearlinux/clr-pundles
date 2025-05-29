@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-cppunit-dev
+include(cppunit-dev)
 include(libstdcpp)

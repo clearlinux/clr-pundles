@@ -1,0 +1,10 @@
+# [TITLE]: libplist-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libplist-lib)
+include(libplist-license)
+libplist-bin

@@ -1,0 +1,11 @@
+# [TITLE]: xwayland-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xwayland)
+include(xwayland-bin)
+include(xwayland-data)
+xwayland-dev

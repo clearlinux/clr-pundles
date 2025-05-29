@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-mozjs102-dev
+include(mozjs102-dev)
 include(libstdcpp)

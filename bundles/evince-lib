@@ -1,0 +1,27 @@
+# [TITLE]: evince-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(evince-data)
+include(evince-libexec)
+include(evince-license)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gspell-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libspectre-lib)
+include(libxml2-lib)
+include(pango-lib)
+include(poppler-lib)
+include(tiff-lib)
+include(zlib-lib)
+evince-lib

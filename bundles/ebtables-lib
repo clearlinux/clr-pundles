@@ -1,0 +1,10 @@
+# [TITLE]: ebtables-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ebtables-data)
+include(ebtables-license)
+include(libc6)
+ebtables-lib

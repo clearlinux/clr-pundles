@@ -1,0 +1,11 @@
+# [TITLE]: bcc-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bcc)
+include(bcc-data)
+include(bcc-lib)
+include(pkg-config-bin)
+bcc-dev

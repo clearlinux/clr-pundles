@@ -1,0 +1,16 @@
+# [TITLE]: gnome-online-accounts-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcr-lib)
+include(glib-lib)
+include(gnome-online-accounts-lib)
+include(gnome-online-accounts-license)
+include(keyutils-lib)
+include(krb5-lib)
+include(libc6)
+include(libgcc1)
+include(rest-lib)
+gnome-online-accounts-libexec

@@ -1,0 +1,12 @@
+# [TITLE]: fldigi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fldigi-bin)
+include(fldigi-data)
+include(fldigi-license)
+include(fldigi-locales)
+include(fldigi-man)
+fldigi

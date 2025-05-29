@@ -1,0 +1,8 @@
+# [TITLE]: cov-core-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cov-core-python3)
+cov-core-python

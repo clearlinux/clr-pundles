@@ -1,0 +1,12 @@
+# [TITLE]: libuser-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libuser)
+include(libuser-bin)
+include(libuser-lib)
+include(pkg-config-bin)
+libuser-dev

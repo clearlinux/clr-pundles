@@ -1,0 +1,16 @@
+# [TITLE]: keditbookmarks-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kbookmarks-lib)
+include(kconfigwidgets-lib)
+include(keditbookmarks-data)
+include(keditbookmarks-license)
+include(ki18n-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+keditbookmarks-lib

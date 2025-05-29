@@ -1,0 +1,13 @@
+# [TITLE]: libmbim-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libmbim)
+include(libmbim-bin)
+include(libmbim-data)
+include(libmbim-lib)
+include(pkg-config-bin)
+libmbim-dev

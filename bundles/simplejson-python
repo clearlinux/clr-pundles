@@ -1,0 +1,8 @@
+# [TITLE]: simplejson-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(simplejson-python3)
+simplejson-python

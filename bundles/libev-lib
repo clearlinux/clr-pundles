@@ -1,0 +1,9 @@
+# [TITLE]: libev-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libev-license)
+libev-lib

@@ -1,0 +1,10 @@
+# [TITLE]: libMED-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libMED)
+include(libMED-bin)
+include(libMED-lib)
+libMED-dev

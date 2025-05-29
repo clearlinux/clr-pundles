@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-taglib-dev
+include(taglib-dev)
 include(libstdcpp)

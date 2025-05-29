@@ -1,0 +1,31 @@
+# [TITLE]: kdepim-runtime-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(akonadi-lib)
+include(akonadi-mime-lib)
+include(kcmutils-lib)
+include(kcompletion-lib)
+include(kconfig-lib)
+include(kconfigwidgets-lib)
+include(kcoreaddons-lib)
+include(kdepim-runtime-data)
+include(kdepim-runtime-license)
+include(ki18n-lib)
+include(kio-lib)
+include(kldap-lib)
+include(kmailtransport-lib)
+include(kmbox-lib)
+include(kmime-lib)
+include(knotifyconfig-lib)
+include(kwidgetsaddons-lib)
+include(libc6)
+include(libgcc1)
+include(libkgapi-lib)
+include(libstdc++)
+include(pimcommon-lib)
+include(qt6base-lib)
+include(qtkeychain-lib)
+kdepim-runtime-lib

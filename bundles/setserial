@@ -1,0 +1,9 @@
+# [TITLE]: setserial
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(setserial-bin)
+include(setserial-man)
+setserial

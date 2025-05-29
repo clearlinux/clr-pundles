@@ -1,0 +1,17 @@
+# [TITLE]: gpaste-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcr-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gpaste-lib)
+include(gpaste-license)
+include(gtk3-lib)
+include(libX11-lib)
+include(libadwaita-lib)
+include(libc6)
+include(libgcc1)
+gpaste-libexec

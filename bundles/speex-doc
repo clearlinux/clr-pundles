@@ -1,0 +1,8 @@
+# [TITLE]: speex-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(speex-man)
+speex-doc

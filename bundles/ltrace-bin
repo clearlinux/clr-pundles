@@ -1,0 +1,12 @@
+# [TITLE]: ltrace-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(elfutils-lib)
+include(libc6)
+include(libunwind-lib)
+include(ltrace-data)
+include(ltrace-license)
+ltrace-bin

@@ -1,0 +1,10 @@
+# [TITLE]: nginx-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(nginx-data)
+include(nginx-license)
+nginx-lib

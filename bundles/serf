@@ -1,0 +1,9 @@
+# [TITLE]: serf
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(serf-lib)
+include(serf-license)
+serf

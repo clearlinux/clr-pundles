@@ -1,0 +1,11 @@
+# [TITLE]: ibus-skk
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ibus-skk-data)
+include(ibus-skk-libexec)
+include(ibus-skk-license)
+include(ibus-skk-locales)
+ibus-skk

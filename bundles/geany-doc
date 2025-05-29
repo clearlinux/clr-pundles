@@ -1,0 +1,8 @@
+# [TITLE]: geany-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(geany-man)
+geany-doc

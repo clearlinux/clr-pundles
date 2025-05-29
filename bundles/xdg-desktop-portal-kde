@@ -1,0 +1,31 @@
+# [TITLE]: xdg-desktop-portal-kde
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kconfig-lib)
+include(kcoreaddons-lib)
+include(kcrash-lib)
+include(kglobalaccel-lib)
+include(ki18n-lib)
+include(kiconthemes-lib)
+include(kio-lib)
+include(kitemviews-lib)
+include(knotifications-lib)
+include(kservice-lib)
+include(kstatusnotifieritem-lib)
+include(kwayland-lib)
+include(kwindowsystem-lib)
+include(libc6)
+include(libstdc++)
+include(libxkbcommon-lib)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6wayland-lib)
+include(wayland-lib)
+include(xdg-desktop-portal-kde-data)
+include(xdg-desktop-portal-kde-license)
+include(xdg-desktop-portal-kde-locales)
+include(xdg-desktop-portal-kde-services)
+xdg-desktop-portal-kde

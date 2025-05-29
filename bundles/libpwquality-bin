@@ -1,0 +1,10 @@
+# [TITLE]: libpwquality-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libpwquality-lib)
+include(libpwquality-license)
+libpwquality-bin

@@ -1,0 +1,12 @@
+# [TITLE]: speex-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libogg-lib)
+include(speex-lib)
+include(speex-license)
+include(speexdsp-lib)
+speex-bin

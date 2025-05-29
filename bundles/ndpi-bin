@@ -1,0 +1,12 @@
+# [TITLE]: ndpi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcrypt-lib)
+include(libpcap-lib)
+include(ndpi-data)
+include(ndpi-license)
+ndpi-bin

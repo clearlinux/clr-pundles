@@ -1,0 +1,12 @@
+# [TITLE]: pulseaudio-qt-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(pulseaudio-lib)
+include(pulseaudio-qt-license)
+include(qt6base-lib)
+pulseaudio-qt-lib

@@ -7,6 +7,6 @@
 
 include(devpkg-base)
 
-qtx11extras-dev
+include(qtx11extras-dev)
 include(qt-core)
 include(qt-basic)

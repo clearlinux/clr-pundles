@@ -1,0 +1,10 @@
+# [TITLE]: libkgapi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkgapi-data)
+include(libkgapi-lib)
+include(libkgapi-license)
+libkgapi

@@ -1,0 +1,13 @@
+# [TITLE]: recode
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(recode-bin)
+include(recode-info)
+include(recode-lib)
+include(recode-license)
+include(recode-locales)
+include(recode-man)
+recode

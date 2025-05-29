@@ -1,0 +1,8 @@
+# [TITLE]: mingw-crt-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mingw-crt-license)
+mingw-crt-bin

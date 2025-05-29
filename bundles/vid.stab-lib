@@ -1,0 +1,11 @@
+# [TITLE]: vid.stab-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(vid.stab-license)
+vid.stab-lib

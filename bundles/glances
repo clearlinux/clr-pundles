@@ -1,0 +1,13 @@
+# [TITLE]: glances
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glances-bin)
+include(glances-license)
+include(glances-man)
+include(glances-python)
+include(glances-python3)
+include(pypi-future-python3)
+glances

@@ -1,0 +1,13 @@
+# [TITLE]: gptfdisk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gptfdisk-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(ncurses-lib)
+include(popt-lib)
+gptfdisk-bin

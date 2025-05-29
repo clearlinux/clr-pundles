@@ -1,0 +1,10 @@
+# [TITLE]: cups-bjnp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cups-bjnp-license)
+include(cups-lib)
+include(libc6)
+cups-bjnp

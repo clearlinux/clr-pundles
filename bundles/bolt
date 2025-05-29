@@ -1,0 +1,13 @@
+# [TITLE]: bolt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bolt-bin)
+include(bolt-config)
+include(bolt-data)
+include(bolt-libexec)
+include(bolt-license)
+include(bolt-services)
+bolt

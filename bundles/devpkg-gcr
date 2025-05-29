@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-gcr-dev
+include(gcr-dev)
 include(libglib)
 include(gdk-pixbuf)
 include(libX11client)

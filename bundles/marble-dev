@@ -1,0 +1,11 @@
+# [TITLE]: marble-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(marble)
+include(marble-bin)
+include(marble-data)
+include(marble-lib)
+marble-dev

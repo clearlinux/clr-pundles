@@ -1,0 +1,20 @@
+# [TITLE]: libchamplain-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(clutter-gtk-lib)
+include(clutter-lib)
+include(cogl-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libchamplain-data)
+include(libchamplain-license)
+include(libsoup-lib)
+include(pango-lib)
+include(sqlite-autoconf-lib)
+libchamplain-lib

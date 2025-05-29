@@ -1,0 +1,15 @@
+# [TITLE]: OpenSC-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenSC-data)
+include(OpenSC-lib)
+include(OpenSC-license)
+include(libc6)
+include(openpace-lib)
+include(openssl-lib)
+include(readline-lib)
+include(zlib-lib)
+OpenSC-bin

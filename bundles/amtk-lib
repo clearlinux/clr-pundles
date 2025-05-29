@@ -1,0 +1,12 @@
+# [TITLE]: amtk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(amtk-data)
+include(amtk-license)
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+amtk-lib

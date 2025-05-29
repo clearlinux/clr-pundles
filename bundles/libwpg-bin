@@ -1,0 +1,14 @@
+# [TITLE]: libwpg-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(librevenge-lib)
+include(libstdc++)
+include(libwpg-lib)
+include(libwpg-license)
+include(perl-bin)
+libwpg-bin

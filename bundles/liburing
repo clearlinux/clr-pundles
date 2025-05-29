@@ -1,0 +1,10 @@
+# [TITLE]: liburing
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liburing-lib)
+include(liburing-license)
+include(liburing-man)
+liburing

@@ -1,0 +1,12 @@
+# [TITLE]: source-highlight-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost-dev)
+include(source-highlight)
+include(source-highlight-bin)
+include(source-highlight-data)
+include(source-highlight-lib)
+source-highlight-dev

@@ -1,0 +1,8 @@
+# [TITLE]: salt-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(salt-python3)
+salt-python

@@ -1,0 +1,30 @@
+# [TITLE]: FreeCAD-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Coin-lib)
+include(FreeCAD-data)
+include(FreeCAD-license)
+include(OpenCASCADE-lib)
+include(VTK-lib)
+include(boost)
+include(boost-extras)
+include(fmt-lib)
+include(freetype-lib)
+include(gcc-libs-math)
+include(libMED-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libspnav-lib)
+include(libstdc++)
+include(python3-lib)
+include(qtbase-extras)
+include(qtbase-lib)
+include(qtsvg-lib)
+include(xerces-c-lib)
+include(yaml-cpp-lib)
+include(zlib-lib)
+FreeCAD-lib

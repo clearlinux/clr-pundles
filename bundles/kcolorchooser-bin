@@ -1,0 +1,15 @@
+# [TITLE]: kcolorchooser-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kcolorchooser-data)
+include(kcolorchooser-license)
+include(kcoreaddons-lib)
+include(ki18n-lib)
+include(kxmlgui-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kcolorchooser-bin

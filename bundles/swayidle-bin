@@ -1,0 +1,12 @@
+# [TITLE]: swayidle-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(swayidle-data)
+include(swayidle-license)
+include(systemd-extras-libsystemd)
+include(wayland-lib)
+swayidle-bin

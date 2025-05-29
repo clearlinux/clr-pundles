@@ -1,0 +1,12 @@
+# [TITLE]: not-ffmpeg
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(not-ffmpeg-bin)
+include(not-ffmpeg-data)
+include(not-ffmpeg-lib)
+include(not-ffmpeg-license)
+include(not-ffmpeg-man)
+not-ffmpeg

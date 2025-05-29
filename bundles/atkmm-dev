@@ -1,0 +1,12 @@
+# [TITLE]: atkmm-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-dev)
+include(atkmm)
+include(atkmm-lib)
+include(glibmm-dev)
+include(pkg-config-bin)
+atkmm-dev

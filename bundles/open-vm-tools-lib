@@ -1,0 +1,16 @@
+# [TITLE]: open-vm-tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libmspack-lib)
+include(libtirpc-lib)
+include(open-vm-tools-data)
+include(open-vm-tools-license)
+include(systemd-lib)
+open-vm-tools-lib

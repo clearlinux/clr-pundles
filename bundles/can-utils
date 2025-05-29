@@ -1,0 +1,9 @@
+# [TITLE]: can-utils
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(can-utils-bin)
+include(can-utils-license)
+can-utils

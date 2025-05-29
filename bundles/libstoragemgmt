@@ -1,0 +1,16 @@
+# [TITLE]: libstoragemgmt
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libstoragemgmt-bin)
+include(libstoragemgmt-config)
+include(libstoragemgmt-lib)
+include(libstoragemgmt-libexec)
+include(libstoragemgmt-license)
+include(libstoragemgmt-man)
+include(libstoragemgmt-python)
+include(libstoragemgmt-python3)
+include(libstoragemgmt-services)
+libstoragemgmt

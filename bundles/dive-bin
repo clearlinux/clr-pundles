@@ -1,0 +1,9 @@
+# [TITLE]: dive-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dive-license)
+include(libc6)
+dive-bin

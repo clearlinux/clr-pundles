@@ -1,0 +1,16 @@
+# [TITLE]: vim-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(filesystem)
+include(gpm-lib)
+include(libc6)
+include(lua-lib)
+include(ncurses-lib)
+include(python3-lib)
+include(vim-data)
+include(vim-license)
+vim-bin

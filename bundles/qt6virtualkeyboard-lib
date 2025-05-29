@@ -1,0 +1,14 @@
+# [TITLE]: qt6virtualkeyboard-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hunspell-lib)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(qt6svg-lib)
+include(qt6virtualkeyboard-license)
+qt6virtualkeyboard-lib

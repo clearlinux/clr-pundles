@@ -1,0 +1,11 @@
+# [TITLE]: wl-clipboard
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(wl-clipboard-bin)
+include(wl-clipboard-data)
+include(wl-clipboard-license)
+include(wl-clipboard-man)
+wl-clipboard

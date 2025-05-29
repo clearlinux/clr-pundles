@@ -1,0 +1,12 @@
+# [TITLE]: gpredict
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpredict-bin)
+include(gpredict-data)
+include(gpredict-license)
+include(gpredict-locales)
+include(gpredict-man)
+gpredict

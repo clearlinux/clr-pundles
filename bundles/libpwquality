@@ -1,0 +1,14 @@
+# [TITLE]: libpwquality
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpwquality-bin)
+include(libpwquality-lib)
+include(libpwquality-license)
+include(libpwquality-locales)
+include(libpwquality-man)
+include(libpwquality-python)
+include(libpwquality-python3)
+libpwquality

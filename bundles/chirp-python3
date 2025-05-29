@@ -1,0 +1,14 @@
+# [TITLE]: chirp-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-lark_parser-python3)
+include(pypi-pyserial-python3)
+include(pypi-requests-python3)
+include(pypi-suds-python3)
+include(pypi-wxPython)
+include(pypi-yattag-python3)
+include(python3-core)
+chirp-python3

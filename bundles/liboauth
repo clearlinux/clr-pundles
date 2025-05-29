@@ -1,0 +1,9 @@
+# [TITLE]: liboauth
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liboauth-lib)
+include(liboauth-license)
+liboauth

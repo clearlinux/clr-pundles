@@ -1,0 +1,15 @@
+# [TITLE]: gnome-calculator-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(gnome-calculator-license)
+include(gtk4-lib)
+include(libc6)
+include(libsoup-lib)
+include(mpc-lib)
+include(mpfr-lib)
+gnome-calculator-libexec

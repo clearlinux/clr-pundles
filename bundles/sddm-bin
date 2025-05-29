@@ -1,0 +1,19 @@
+# [TITLE]: sddm-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+include(qt6declarative-lib)
+include(sddm-config)
+include(sddm-data)
+include(sddm-libexec)
+include(sddm-license)
+include(sddm-services)
+include(systemd-extras-libsystemd)
+sddm-bin

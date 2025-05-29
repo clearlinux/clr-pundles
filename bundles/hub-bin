@@ -1,0 +1,10 @@
+# [TITLE]: hub-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hub-data)
+include(hub-license)
+include(libc6)
+hub-bin

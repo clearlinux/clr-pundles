@@ -1,0 +1,8 @@
+# [TITLE]: evince-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+evince-services

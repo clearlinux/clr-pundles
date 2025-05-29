@@ -1,0 +1,10 @@
+# [TITLE]: gflags
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gflags-bin)
+include(gflags-lib)
+include(gflags-license)
+gflags

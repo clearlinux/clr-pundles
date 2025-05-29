@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-jemalloc-dev
+include(jemalloc-dev)
 include(libstdcpp)

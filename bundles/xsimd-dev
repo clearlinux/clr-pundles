@@ -1,0 +1,10 @@
+# [TITLE]: xsimd-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(xsimd)
+include(xsimd-data)
+xsimd-dev

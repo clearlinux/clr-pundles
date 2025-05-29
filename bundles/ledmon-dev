@@ -1,0 +1,12 @@
+# [TITLE]: ledmon-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ledmon)
+include(ledmon-bin)
+include(ledmon-lib)
+include(pkg-config-bin)
+include(sg3_utils-dev)
+ledmon-dev

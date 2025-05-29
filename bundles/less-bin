@@ -1,0 +1,11 @@
+# [TITLE]: less-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(less-license)
+include(libc6)
+include(ncurses-lib)
+include(pcre2-lib)
+less-bin

@@ -1,0 +1,8 @@
+# [TITLE]: system-config-printer-services
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(systemd)
+system-config-printer-services

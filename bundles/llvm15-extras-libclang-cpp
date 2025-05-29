@@ -1,0 +1,10 @@
+# [TITLE]: llvm15-extras-libclang-cpp
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(llvm15-extras-libllvm)
+llvm15-extras-libclang-cpp

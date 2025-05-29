@@ -1,0 +1,13 @@
+# [TITLE]: libcmis-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(boost)
+include(libc6)
+include(libcmis-lib)
+include(libcmis-license)
+include(libgcc1)
+include(libstdc++)
+libcmis-bin

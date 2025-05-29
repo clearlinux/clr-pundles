@@ -1,0 +1,11 @@
+# [TITLE]: rofi
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rofi-bin)
+include(rofi-data)
+include(rofi-license)
+include(rofi-man)
+rofi

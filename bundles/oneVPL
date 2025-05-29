@@ -1,0 +1,11 @@
+# [TITLE]: oneVPL
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(oneVPL-bin)
+include(oneVPL-data)
+include(oneVPL-lib)
+include(oneVPL-license)
+oneVPL

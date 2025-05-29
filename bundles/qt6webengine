@@ -1,0 +1,11 @@
+# [TITLE]: qt6webengine
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt6webengine-data)
+include(qt6webengine-lib)
+include(qt6webengine-libexec)
+include(qt6webengine-license)
+qt6webengine

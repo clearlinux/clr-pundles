@@ -1,0 +1,9 @@
+# [TITLE]: qcoro6-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qcoro6)
+include(qcoro6-lib)
+qcoro6-dev

@@ -5,6 +5,6 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(lua)
-LuaJIT
-luarocks
+include(LuaJIT)
+include(luarocks)
 include(ncurses-lib)

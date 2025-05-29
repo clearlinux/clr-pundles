@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 
-qpdf-dev
+include(qpdf-dev)
 include(lib-imageformat)
 include(libstdcpp)
 include(lz4)

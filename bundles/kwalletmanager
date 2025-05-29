@@ -1,0 +1,16 @@
+# [TITLE]: kwalletmanager
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kauth-lib)
+include(kwalletmanager-bin)
+include(kwalletmanager-data)
+include(kwalletmanager-lib)
+include(kwalletmanager-license)
+include(kwalletmanager-locales)
+include(libc6)
+include(libstdc++)
+include(qt6base-lib)
+kwalletmanager

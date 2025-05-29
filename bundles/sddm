@@ -14,7 +14,7 @@ include(dbus)
 include(icu4c)
 include(Linux-PAM)
 include(qtbase)
-qtdeclarative
+include(qtdeclarative)
 include(systemd-lib)
 
 # main package

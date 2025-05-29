@@ -1,0 +1,8 @@
+# [TITLE]: deap-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(deap-python3)
+deap-python

@@ -1,0 +1,15 @@
+# [TITLE]: irrlicht-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(irrlicht-license)
+include(libX11-lib)
+include(libc6)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+include(zlib-lib)
+irrlicht-lib

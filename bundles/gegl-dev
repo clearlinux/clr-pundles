@@ -1,0 +1,16 @@
+# [TITLE]: gegl-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(babl-dev)
+include(gegl)
+include(gegl-bin)
+include(gegl-data)
+include(gegl-dev)
+include(gegl-lib)
+include(glib-dev)
+include(json-glib-dev)
+include(pkg-config-bin)
+gegl-dev

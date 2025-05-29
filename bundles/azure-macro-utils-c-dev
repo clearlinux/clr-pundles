@@ -1,0 +1,9 @@
+# [TITLE]: azure-macro-utils-c-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(azure-macro-utils-c)
+include(azure-macro-utils-c-data)
+azure-macro-utils-c-dev

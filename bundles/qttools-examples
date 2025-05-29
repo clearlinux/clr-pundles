@@ -1,0 +1,8 @@
+# [TITLE]: qttools-examples
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qttools-dev)
+qttools-examples

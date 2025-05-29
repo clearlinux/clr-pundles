@@ -1,0 +1,21 @@
+# [TITLE]: igt-gpu-tools-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(elfutils-lib)
+include(glib-lib)
+include(igt-gpu-tools-data)
+include(igt-gpu-tools-libexec)
+include(igt-gpu-tools-license)
+include(kmod-lib)
+include(libc6)
+include(libdrm-lib)
+include(libpciaccess-lib)
+include(libunwind-lib)
+include(pixman-lib)
+include(procps-ng-lib)
+include(systemd-lib)
+igt-gpu-tools-lib

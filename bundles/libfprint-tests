@@ -1,0 +1,16 @@
+# [TITLE]: libfprint-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(coreutils-bin)
+include(glib-lib)
+include(libc6)
+include(libfprint)
+include(libfprint-lib)
+include(libgcc1)
+include(libgusb-lib)
+include(python3-core)
+libfprint-tests

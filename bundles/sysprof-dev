@@ -1,0 +1,18 @@
+# [TITLE]: sysprof-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(json-glib-dev)
+include(libdex-dev)
+include(pkg-config-bin)
+include(polkit-dev)
+include(sysprof)
+include(sysprof-bin)
+include(sysprof-data)
+include(sysprof-lib)
+include(sysprof-staticdev)
+include(systemd-dev)
+sysprof-dev

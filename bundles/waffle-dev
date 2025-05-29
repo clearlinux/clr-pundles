@@ -1,0 +1,17 @@
+# [TITLE]: waffle-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-dev)
+include(libglvnd-dev)
+include(mesa-dev)
+include(pkg-config-bin)
+include(systemd-dev)
+include(waffle)
+include(waffle-bin)
+include(waffle-data)
+include(waffle-lib)
+include(wayland-dev)
+waffle-dev

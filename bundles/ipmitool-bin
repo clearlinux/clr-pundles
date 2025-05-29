@@ -1,0 +1,12 @@
+# [TITLE]: ipmitool-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipmitool-data)
+include(ipmitool-license)
+include(libc6)
+include(openssl-lib)
+include(readline-lib)
+ipmitool-bin

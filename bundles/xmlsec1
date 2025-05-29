@@ -1,0 +1,10 @@
+# [TITLE]: xmlsec1
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(xmlsec1-bin)
+include(xmlsec1-lib)
+include(xmlsec1-man)
+xmlsec1

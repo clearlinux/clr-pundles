@@ -1,0 +1,11 @@
+# [TITLE]: kdoctools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdoctools)
+include(kdoctools-bin)
+include(kdoctools-data)
+include(kdoctools-lib)
+kdoctools-dev

@@ -1,0 +1,13 @@
+# [TITLE]: openssh
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(openssh-bin)
+include(openssh-config)
+include(openssh-data)
+include(openssh-libexec)
+include(openssh-license)
+include(openssh-man)
+openssh

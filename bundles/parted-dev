@@ -1,0 +1,12 @@
+# [TITLE]: parted-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(parted)
+include(parted-bin)
+include(parted-dev)
+include(parted-lib)
+include(pkg-config-bin)
+parted-dev

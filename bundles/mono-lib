@@ -1,0 +1,12 @@
+# [TITLE]: mono-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(mono-data)
+include(mono-license)
+include(zlib-lib)
+mono-lib

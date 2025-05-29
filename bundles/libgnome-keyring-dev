@@ -1,0 +1,11 @@
+# [TITLE]: libgnome-keyring-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-dev)
+include(libgnome-keyring)
+include(libgnome-keyring-data)
+include(libgnome-keyring-lib)
+libgnome-keyring-dev

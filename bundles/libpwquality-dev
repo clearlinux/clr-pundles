@@ -1,0 +1,11 @@
+# [TITLE]: libpwquality-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libpwquality)
+include(libpwquality-bin)
+include(libpwquality-lib)
+include(pkg-config-bin)
+libpwquality-dev

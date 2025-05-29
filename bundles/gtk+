@@ -1,0 +1,12 @@
+# [TITLE]: gtk+
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtk+-bin)
+include(gtk+-data)
+include(gtk+-lib)
+include(gtk+-license)
+include(gtk+-locales)
+gtk+

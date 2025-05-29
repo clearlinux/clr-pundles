@@ -1,0 +1,23 @@
+# [TITLE]: open-vm-tools-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-atkmm-soname16-lib)
+include(compat-cairomm-soname10-lib)
+include(compat-glibmm-soname24-lib)
+include(compat-libsigc++-soname20-lib)
+include(glib-lib)
+include(gtk3-lib)
+include(gtkmm3-lib)
+include(libX11-lib)
+include(libXtst-lib)
+include(libc6)
+include(libdrm-lib)
+include(libgcc1)
+include(libstdc++)
+include(libtirpc-lib)
+include(open-vm-tools-lib)
+include(systemd-lib)
+open-vm-tools-extras

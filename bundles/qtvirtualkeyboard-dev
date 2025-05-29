@@ -1,0 +1,11 @@
+# [TITLE]: qtvirtualkeyboard-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtdeclarative-dev)
+include(qtvirtualkeyboard)
+include(qtvirtualkeyboard-lib)
+qtvirtualkeyboard-dev

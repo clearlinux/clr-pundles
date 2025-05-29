@@ -1,0 +1,9 @@
+# [TITLE]: dssi-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dssi-license)
+include(libc6)
+dssi-bin

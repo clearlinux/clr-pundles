@@ -1,0 +1,9 @@
+# [TITLE]: linuxptp-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(linuxptp-license)
+linuxptp-bin

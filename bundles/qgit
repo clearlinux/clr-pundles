@@ -1,0 +1,10 @@
+# [TITLE]: qgit
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qgit-bin)
+include(qgit-data)
+include(qgit-license)
+qgit

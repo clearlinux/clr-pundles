@@ -1,0 +1,12 @@
+# [TITLE]: xwdrun-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(libxkbfile-lib)
+include(systemd-extras-libsystemd)
+include(xwdrun-license)
+xwdrun-bin

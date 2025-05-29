@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-xtrans-dev
+include(xtrans-dev)

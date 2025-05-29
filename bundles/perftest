@@ -1,0 +1,10 @@
+# [TITLE]: perftest
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perftest-bin)
+include(perftest-license)
+include(perftest-man)
+perftest

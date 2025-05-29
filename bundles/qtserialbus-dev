@@ -1,0 +1,11 @@
+# [TITLE]: qtserialbus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qtbase-dev)
+include(qtserialbus)
+include(qtserialbus-bin)
+include(qtserialbus-lib)
+qtserialbus-dev

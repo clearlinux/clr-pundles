@@ -1,0 +1,8 @@
+# [TITLE]: slurm-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(slurm-man)
+slurm-doc

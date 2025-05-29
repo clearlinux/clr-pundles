@@ -1,0 +1,16 @@
+# [TITLE]: qemu-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libepoxy-lib)
+include(libgcc1)
+include(mesa-lib)
+include(numactl-lib)
+include(pixman-lib)
+include(qemu-license)
+include(virglrenderer-lib)
+qemu-libexec

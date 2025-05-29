@@ -1,0 +1,11 @@
+# [TITLE]: liborcus-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(liborcus)
+include(liborcus-bin)
+include(liborcus-lib)
+include(pkg-config-bin)
+liborcus-dev

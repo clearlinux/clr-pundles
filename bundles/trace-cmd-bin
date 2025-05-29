@@ -1,0 +1,15 @@
+# [TITLE]: trace-cmd-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audit-lib)
+include(libc6)
+include(libtraceevent-lib)
+include(libtracefs-lib)
+include(trace-cmd-data)
+include(trace-cmd-license)
+include(zlib-lib)
+include(zstd-lib)
+trace-cmd-bin

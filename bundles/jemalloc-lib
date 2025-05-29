@@ -1,0 +1,11 @@
+# [TITLE]: jemalloc-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(jemalloc-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+jemalloc-lib

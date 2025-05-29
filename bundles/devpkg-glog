@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-glog-dev
+include(glog-dev)
 include(libstdcpp)

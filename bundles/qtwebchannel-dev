@@ -1,0 +1,12 @@
+# [TITLE]: qtwebchannel-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(qtbase-dev)
+include(qtdeclarative-dev)
+include(qtwebchannel)
+include(qtwebchannel-lib)
+qtwebchannel-dev

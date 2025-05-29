@@ -1,0 +1,10 @@
+# [TITLE]: librealsense
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(librealsense-bin)
+include(librealsense-lib)
+include(librealsense-license)
+librealsense

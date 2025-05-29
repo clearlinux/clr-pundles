@@ -1,0 +1,15 @@
+# [TITLE]: fltk-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(fltk-lib)
+include(fltk-license)
+include(libX11-lib)
+include(libc6)
+include(libgcc1)
+include(libpng-lib)
+include(libstdc++)
+fltk-bin

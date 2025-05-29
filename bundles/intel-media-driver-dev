@@ -1,0 +1,10 @@
+# [TITLE]: intel-media-driver-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intel-media-driver)
+include(intel-media-driver-lib)
+include(pkg-config-bin)
+intel-media-driver-dev

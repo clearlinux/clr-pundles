@@ -1,0 +1,14 @@
+# [TITLE]: libetonyek-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libetonyek)
+include(libetonyek-bin)
+include(libetonyek-lib)
+include(liblangtag-dev)
+include(librevenge-dev)
+include(libxml2-dev)
+include(zlib-dev)
+libetonyek-dev

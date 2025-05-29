@@ -1,0 +1,16 @@
+# [TITLE]: drkonqi-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(drkonqi-data)
+include(drkonqi-license)
+include(kcoreaddons-lib)
+include(kio-lib)
+include(knotifications-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qt6base-lib)
+drkonqi-lib

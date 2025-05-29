@@ -1,0 +1,21 @@
+# [TITLE]: xfburn-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(exo-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(gtk3-lib)
+include(libburn-lib)
+include(libc6)
+include(libgudev-lib)
+include(libisofs-lib)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(xfburn-data)
+include(xfburn-license)
+xfburn-bin

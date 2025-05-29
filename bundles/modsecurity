@@ -1,0 +1,10 @@
+# [TITLE]: modsecurity
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(modsecurity-bin)
+include(modsecurity-lib)
+include(modsecurity-license)
+modsecurity

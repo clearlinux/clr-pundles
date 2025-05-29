@@ -1,0 +1,11 @@
+# [TITLE]: multimon-ng-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libX11-lib)
+include(libc6)
+include(multimon-ng-license)
+include(pulseaudio-lib)
+multimon-ng-bin

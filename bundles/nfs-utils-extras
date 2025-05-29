@@ -1,0 +1,8 @@
+# [TITLE]: nfs-utils-extras
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(python3-core)
+nfs-utils-extras

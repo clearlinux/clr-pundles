@@ -1,0 +1,9 @@
+# [TITLE]: popt-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(popt)
+include(popt-lib)
+popt-dev

@@ -1,0 +1,13 @@
+# [TITLE]: thermal_monitor-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(qtbase-extras)
+include(qtbase-lib)
+include(thermal_monitor-license)
+thermal_monitor-bin

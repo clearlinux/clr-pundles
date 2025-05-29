@@ -1,0 +1,11 @@
+# [TITLE]: fnotifystat
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fnotifystat-bin)
+include(fnotifystat-data)
+include(fnotifystat-license)
+include(fnotifystat-man)
+fnotifystat

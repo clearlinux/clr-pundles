@@ -1,0 +1,12 @@
+# [TITLE]: clr-power-tweaks
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clr-power-tweaks-autostart)
+include(clr-power-tweaks-bin)
+include(clr-power-tweaks-license)
+include(clr-power-tweaks-man)
+include(clr-power-tweaks-services)
+clr-power-tweaks

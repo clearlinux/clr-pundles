@@ -1,0 +1,12 @@
+# [TITLE]: stow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(stow-bin)
+include(stow-info)
+include(stow-license)
+include(stow-man)
+include(stow-perl)
+stow

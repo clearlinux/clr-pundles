@@ -1,0 +1,14 @@
+# [TITLE]: gnome-keyring
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-keyring-bin)
+include(gnome-keyring-data)
+include(gnome-keyring-lib)
+include(gnome-keyring-license)
+include(gnome-keyring-locales)
+include(gnome-keyring-man)
+include(gnome-keyring-services)
+gnome-keyring

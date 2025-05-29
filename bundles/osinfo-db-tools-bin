@@ -1,0 +1,15 @@
+# [TITLE]: osinfo-db-tools-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(compat-libxml2-soname2-lib)
+include(glib-lib)
+include(json-glib-lib)
+include(libarchive-lib)
+include(libc6)
+include(libgcc1)
+include(libsoup-lib)
+include(osinfo-db-tools-license)
+osinfo-db-tools-bin

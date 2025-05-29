@@ -1,0 +1,16 @@
+# [TITLE]: gtk-frdp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(FreeRDP-lib)
+include(cairo-lib)
+include(fuse-lib)
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(gtk-frdp-data)
+include(gtk-frdp-license)
+include(gtk3-lib)
+include(libc6)
+gtk-frdp-lib

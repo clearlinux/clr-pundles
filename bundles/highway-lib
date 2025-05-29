@@ -1,0 +1,11 @@
+# [TITLE]: highway-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(highway-license)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+highway-lib

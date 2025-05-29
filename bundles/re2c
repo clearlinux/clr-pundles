@@ -1,0 +1,11 @@
+# [TITLE]: re2c
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(re2c-bin)
+include(re2c-data)
+include(re2c-license)
+include(re2c-man)
+re2c

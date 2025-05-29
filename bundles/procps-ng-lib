@@ -1,0 +1,10 @@
+# [TITLE]: procps-ng-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(procps-ng-license)
+include(systemd-extras-libsystemd)
+procps-ng-lib

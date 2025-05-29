@@ -1,0 +1,8 @@
+# [TITLE]: volume_key-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(volume_key-python3)
+volume_key-python

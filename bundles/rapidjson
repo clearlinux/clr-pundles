@@ -1,0 +1,8 @@
+# [TITLE]: rapidjson
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(rapidjson-license)
+rapidjson

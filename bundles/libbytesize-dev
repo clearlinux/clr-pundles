@@ -1,0 +1,11 @@
+# [TITLE]: libbytesize-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libbytesize)
+include(libbytesize-bin)
+include(libbytesize-lib)
+include(pkg-config-bin)
+libbytesize-dev

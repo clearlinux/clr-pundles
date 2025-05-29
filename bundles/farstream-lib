@@ -1,0 +1,14 @@
+# [TITLE]: farstream-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(farstream-data)
+include(farstream-license)
+include(glib-lib)
+include(gst-plugins-base-lib)
+include(gstreamer-lib)
+include(libc6)
+include(libnice-lib)
+farstream-lib

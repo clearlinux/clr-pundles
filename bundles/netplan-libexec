@@ -1,0 +1,13 @@
+# [TITLE]: netplan-libexec
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(netplan-lib)
+include(netplan-license)
+include(systemd-extras-libsystemd)
+netplan-libexec

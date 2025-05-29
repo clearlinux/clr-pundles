@@ -1,0 +1,13 @@
+# [TITLE]: sssd-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ldb-lib)
+include(libc6)
+include(popt-lib)
+include(python3-core)
+include(sssd-lib)
+include(talloc-lib)
+sssd-python3

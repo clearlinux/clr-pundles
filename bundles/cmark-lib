@@ -1,0 +1,9 @@
+# [TITLE]: cmark-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmark-license)
+include(libc6)
+cmark-lib

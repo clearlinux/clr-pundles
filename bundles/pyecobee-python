@@ -1,0 +1,8 @@
+# [TITLE]: pyecobee-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pyecobee-python3)
+pyecobee-python

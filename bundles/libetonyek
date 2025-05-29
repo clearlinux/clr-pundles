@@ -1,0 +1,10 @@
+# [TITLE]: libetonyek
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libetonyek-bin)
+include(libetonyek-lib)
+include(libetonyek-license)
+libetonyek

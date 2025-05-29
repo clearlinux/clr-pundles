@@ -1,0 +1,10 @@
+# [TITLE]: xf86-video-qxl-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(systemd-lib)
+include(xf86-video-qxl-license)
+xf86-video-qxl-lib

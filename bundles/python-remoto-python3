@@ -1,0 +1,9 @@
+# [TITLE]: python-remoto-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-execnet-python3)
+include(python3-core)
+python-remoto-python3

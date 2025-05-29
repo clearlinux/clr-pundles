@@ -1,0 +1,16 @@
+# [TITLE]: tallow
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ipset)
+include(iptables)
+include(tallow-autostart)
+include(tallow-bin)
+include(tallow-data)
+include(tallow-doc)
+include(tallow-license)
+include(tallow-man)
+include(tallow-services)
+tallow

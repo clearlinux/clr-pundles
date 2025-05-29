@@ -1,0 +1,9 @@
+# [TITLE]: clinfo
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(clinfo-bin)
+include(clinfo-license)
+clinfo

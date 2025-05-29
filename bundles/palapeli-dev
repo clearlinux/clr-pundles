@@ -1,0 +1,11 @@
+# [TITLE]: palapeli-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(palapeli)
+include(palapeli-bin)
+include(palapeli-data)
+include(palapeli-lib)
+palapeli-dev

@@ -1,0 +1,20 @@
+# [TITLE]: pipewire-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(alsa-lib-lib)
+include(dbus-lib)
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libsndfile-lib)
+include(ncurses-lib)
+include(pipewire-config)
+include(pipewire-data)
+include(pipewire-lib)
+include(pipewire-license)
+include(pipewire-services)
+include(readline-lib)
+pipewire-bin

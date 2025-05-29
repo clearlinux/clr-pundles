@@ -11,10 +11,10 @@ include(libglib)
 include(ansible-core)
 ansible
 # ansible deps
-PyMySQL
+include(PyMySQL)
 include(pypi-backports.ssl_match_hostname)
 include(pypi-docker)
-netaddr
+include(netaddr)
 # End ansible deps
 include(pypi-pynacl)
 include(pypi-six)

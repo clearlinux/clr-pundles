@@ -1,0 +1,9 @@
+# [TITLE]: kdeedu-data
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdeedu-data-data)
+include(kdeedu-data-license)
+kdeedu-data

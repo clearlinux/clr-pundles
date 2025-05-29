@@ -1,0 +1,11 @@
+# [TITLE]: pcre
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pcre-bin)
+include(pcre-lib)
+include(pcre-license)
+include(pcre-man)
+pcre

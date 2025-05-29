@@ -1,0 +1,14 @@
+# [TITLE]: cri-o-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cri-o-config)
+include(cri-o-data)
+include(cri-o-license)
+include(cri-o-services)
+include(libc6)
+include(libgcc1)
+include(libseccomp-lib)
+cri-o-bin

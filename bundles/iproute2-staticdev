@@ -1,0 +1,8 @@
+# [TITLE]: iproute2-staticdev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iproute2-dev)
+iproute2-staticdev

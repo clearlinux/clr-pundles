@@ -1,0 +1,18 @@
+# [TITLE]: libwnck-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-dev)
+include(glib-dev)
+include(gtk+-dev)
+include(libX11-dev)
+include(libXres-dev)
+include(libwnck)
+include(libwnck-bin)
+include(libwnck-data)
+include(libwnck-lib)
+include(pango-dev)
+include(startup-notification-dev)
+libwnck-dev

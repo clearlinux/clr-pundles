@@ -1,0 +1,12 @@
+# [TITLE]: lttng-tools-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(lttng-tools)
+include(lttng-tools-bin)
+include(lttng-tools-data)
+include(lttng-tools-lib)
+include(pkg-config-bin)
+lttng-tools-dev

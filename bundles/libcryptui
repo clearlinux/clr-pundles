@@ -1,0 +1,13 @@
+# [TITLE]: libcryptui
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcryptui-bin)
+include(libcryptui-data)
+include(libcryptui-lib)
+include(libcryptui-license)
+include(libcryptui-locales)
+include(libcryptui-man)
+libcryptui

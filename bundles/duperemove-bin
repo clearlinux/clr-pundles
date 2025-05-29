@@ -1,0 +1,13 @@
+# [TITLE]: duperemove-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(duperemove-license)
+include(glib-lib)
+include(libc6)
+include(libgcc1)
+include(sqlite-autoconf-lib)
+include(util-linux-lib)
+duperemove-bin

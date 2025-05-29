@@ -1,0 +1,16 @@
+# [TITLE]: rsyslog-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(curl-lib)
+include(gnutls-lib)
+include(libc6)
+include(libfastjson-lib)
+include(libgcc1)
+include(libgcrypt-lib)
+include(rsyslog-license)
+include(systemd-extras-libsystemd)
+include(zlib-lib)
+rsyslog-lib

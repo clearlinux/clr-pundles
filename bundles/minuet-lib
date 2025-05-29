@@ -1,0 +1,14 @@
+# [TITLE]: minuet-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fluidsynth-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(minuet-data)
+include(minuet-license)
+include(qt6base-lib)
+minuet-lib

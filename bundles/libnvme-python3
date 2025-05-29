@@ -1,0 +1,10 @@
+# [TITLE]: libnvme-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libnvme-lib)
+include(python3-core)
+libnvme-python3

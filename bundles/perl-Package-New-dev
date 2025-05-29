@@ -1,0 +1,8 @@
+# [TITLE]: perl-Package-New-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Package-New)
+perl-Package-New-dev

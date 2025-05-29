@@ -1,0 +1,15 @@
+# [TITLE]: google-cloud-cpp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(curl-lib)
+include(google-cloud-cpp-license)
+include(google-crc32c-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(openssl-lib)
+google-cloud-cpp-lib

@@ -11,9 +11,9 @@ include(curl)
 # start of custom additions (edits outside this area will be removed automatically)
 include(systemd)
 include(less)
-hub
+include(hub)
 include(p11-kit)
-man-db
+include(man-db)
 include(libstdcpp)
 include(git-lfs)
 # end of custom additions

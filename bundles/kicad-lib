@@ -1,0 +1,28 @@
+# [TITLE]: kicad-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(OpenCASCADE-lib)
+include(abseil-cpp-lib)
+include(cairo-lib)
+include(curl-lib)
+include(fontconfig-lib)
+include(freetype-lib)
+include(glib-lib)
+include(glu-lib)
+include(gtk3-lib)
+include(harfbuzz-lib)
+include(kicad-data)
+include(kicad-license)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libstdc++)
+include(nng-lib)
+include(protobuf-lib)
+include(python3-lib)
+include(wxWidgets-lib)
+include(zlib-lib)
+kicad-lib

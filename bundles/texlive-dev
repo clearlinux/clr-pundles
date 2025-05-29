@@ -1,0 +1,14 @@
+# [TITLE]: texlive-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pkg-config-bin)
+include(texlive)
+include(texlive-bin)
+include(texlive-data)
+include(texlive-dev)
+include(texlive-lib)
+include(zlib-dev)
+texlive-dev

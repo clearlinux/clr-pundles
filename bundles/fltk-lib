@@ -1,0 +1,18 @@
+# [TITLE]: fltk-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fltk-license)
+include(fontconfig-lib)
+include(libX11-lib)
+include(libXcursor-lib)
+include(libXft-lib)
+include(libc6)
+include(libgcc1)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libstdc++)
+fltk-lib

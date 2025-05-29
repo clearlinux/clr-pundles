@@ -1,0 +1,10 @@
+# [TITLE]: i3blocks-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(i3blocks-data)
+include(i3blocks-license)
+include(libc6)
+i3blocks-bin

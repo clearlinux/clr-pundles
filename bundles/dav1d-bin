@@ -1,0 +1,10 @@
+# [TITLE]: dav1d-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(dav1d-lib)
+include(dav1d-license)
+include(libc6)
+dav1d-bin

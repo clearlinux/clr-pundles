@@ -1,0 +1,10 @@
+# [TITLE]: libcgroup
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libcgroup-bin)
+include(libcgroup-lib)
+include(libcgroup-man)
+libcgroup

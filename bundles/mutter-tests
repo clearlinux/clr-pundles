@@ -1,0 +1,24 @@
+# [TITLE]: mutter-tests
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(at-spi2-core-lib)
+include(cairo-lib)
+include(colord-lib)
+include(coreutils-bin)
+include(glib-lib)
+include(gtk3-lib)
+include(libX11-lib)
+include(libc6)
+include(libei-lib)
+include(libgcc1)
+include(libglvnd-lib)
+include(mesa-lib)
+include(mutter)
+include(mutter-dev)
+include(mutter-lib)
+include(pipewire-lib)
+include(wayland-lib)
+mutter-tests

@@ -1,0 +1,8 @@
+# [TITLE]: Thunar-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Thunar-man)
+Thunar-doc

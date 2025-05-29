@@ -1,0 +1,14 @@
+# [TITLE]: source-highlight-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(source-highlight-data)
+include(source-highlight-lib)
+include(source-highlight-license)
+source-highlight-bin

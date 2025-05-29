@@ -1,0 +1,11 @@
+# [TITLE]: ibus-typing-booster-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(filesystem)
+include(ibus-typing-booster-data)
+include(ibus-typing-booster-libexec)
+include(ibus-typing-booster-license)
+ibus-typing-booster-bin

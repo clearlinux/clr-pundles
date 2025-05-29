@@ -1,0 +1,11 @@
+# [TITLE]: libkomparediff2
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libkomparediff2-data)
+include(libkomparediff2-lib)
+include(libkomparediff2-license)
+include(libkomparediff2-locales)
+libkomparediff2

@@ -1,0 +1,13 @@
+# [TITLE]: qt6connectivity-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(pcsc-lite-lib)
+include(qt6base-lib)
+include(qt6connectivity-libexec)
+include(qt6connectivity-license)
+qt6connectivity-lib

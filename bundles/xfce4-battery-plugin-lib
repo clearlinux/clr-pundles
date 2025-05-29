@@ -1,0 +1,15 @@
+# [TITLE]: xfce4-battery-plugin-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(gtk3-lib)
+include(libc6)
+include(libxfce4ui-lib)
+include(libxfce4util-lib)
+include(xfce4-battery-plugin-data)
+include(xfce4-battery-plugin-license)
+include(xfce4-panel-lib)
+xfce4-battery-plugin-lib

@@ -1,0 +1,22 @@
+# [TITLE]: glusterfs-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(acl-lib)
+include(curl-lib)
+include(glusterfs-data)
+include(glusterfs-libexec)
+include(glusterfs-license)
+include(libaio-lib)
+include(libc6)
+include(libgcc1)
+include(libtirpc-lib)
+include(libxml2-lib)
+include(openssl-lib)
+include(rdma-core-lib)
+include(userspace-rcu-lib)
+include(util-linux-lib)
+include(zlib-lib)
+glusterfs-lib

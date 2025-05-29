@@ -1,0 +1,8 @@
+# [TITLE]: sane-backends-doc
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(sane-backends-man)
+sane-backends-doc

@@ -1,0 +1,9 @@
+# [TITLE]: gtkmm3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gtkmm3-lib)
+include(gtkmm3-license)
+gtkmm3

@@ -1,0 +1,19 @@
+# [TITLE]: webkitgtk60-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(glib-lib)
+include(icu4c-lib)
+include(libc6)
+include(libgcc1)
+include(libsoup-lib)
+include(libstdc++)
+include(systemd-extras-libsystemd)
+include(webkitgtk60-data)
+include(webkitgtk60-libexec)
+include(webkitgtk60-license)
+include(zlib-lib)
+webkitgtk60-bin

@@ -1,0 +1,12 @@
+# [TITLE]: imlib2-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(imlib2)
+include(imlib2-bin)
+include(imlib2-data)
+include(imlib2-lib)
+include(pkg-config-bin)
+imlib2-dev

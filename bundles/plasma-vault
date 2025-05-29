@@ -1,0 +1,11 @@
+# [TITLE]: plasma-vault
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(plasma-vault-data)
+include(plasma-vault-lib)
+include(plasma-vault-license)
+include(plasma-vault-locales)
+plasma-vault
