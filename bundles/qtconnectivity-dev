@@ -7,6 +7,5 @@
 include(pkg-config-bin)
 include(qtbase-dev)
 include(qtconnectivity)
-include(qtconnectivity-bin)
 include(qtconnectivity-lib)
 qtconnectivity-dev

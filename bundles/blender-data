@@ -5,4 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(coreutils-bin)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
 blender-data

@@ -4,12 +4,12 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pkg-config-bin)
 include(qtbase-dev)
 include(qtdeclarative-dev)
 include(qtlocation-dev)
 include(qtwebchannel-dev)
 include(qtwebengine)
-include(qtwebengine-bin)
 include(qtwebengine-data)
 include(qtwebengine-dev)
 include(qtwebengine-lib)

@@ -18,5 +18,6 @@ include(libgcc1)
 include(libxml2-lib)
 include(ostree-lib)
 include(systemd-extras-libsystemd)
+include(wayland-lib)
 include(zstd-lib)
 flatpak-lib

@@ -10,6 +10,5 @@ include(libgcc1)
 include(libstdc++)
 include(polkit-lib)
 include(polkit-qt-license)
-include(qtbase-extras)
 include(qtbase-lib)
 polkit-qt-lib

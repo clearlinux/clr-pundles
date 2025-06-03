@@ -13,5 +13,5 @@ include(libstdc++)
 include(nss-lib)
 include(openssl-lib)
 include(qca-qt5-license)
-include(qtbase-extras)
+include(qtbase-lib)
 qca-qt5-lib

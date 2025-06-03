@@ -4,8 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(icu4c-dev)
 include(libxml2-bin)
 include(libxml2-dev)
 include(libxml2-lib32)
 include(pkg-config-bin)
+include(zlib-dev)
 libxml2-dev32

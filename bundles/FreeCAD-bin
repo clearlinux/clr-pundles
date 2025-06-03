@@ -12,6 +12,5 @@ include(libc6)
 include(libgcc1)
 include(libstdc++)
 include(python3-lib)
-include(qtbase-extras)
 include(qtbase-lib)
 FreeCAD-bin

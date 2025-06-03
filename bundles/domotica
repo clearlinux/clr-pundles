@@ -15,7 +15,7 @@ include(pypi-gmqtt)
 include(pypi-ouimeaux)
 include(pyecobee)
 include(python-openzwave)
-include(qtmqtt)
+qtmqtt
 include(pypi-spyrk)
 include(pypi-requests)
 include(pypi-cython)

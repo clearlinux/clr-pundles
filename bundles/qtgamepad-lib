@@ -6,7 +6,6 @@
 # [MAINTAINER]: pundle
 include(libc6)
 include(libstdc++)
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtdeclarative-lib)
 include(qtgamepad-license)

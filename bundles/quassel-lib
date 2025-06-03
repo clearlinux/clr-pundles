@@ -7,7 +7,6 @@
 include(libc6)
 include(libgcc1)
 include(libstdc++)
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtmultimedia-lib)
 include(qtwebengine-lib)

@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(icu4c-lib)
 include(libc6)
 include(libxml2-license)
+include(zlib-lib)
 libxml2-lib

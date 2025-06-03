@@ -23,5 +23,6 @@ include(libxml2-lib)
 include(ostree-lib)
 include(polkit-lib)
 include(systemd-extras-libsystemd)
+include(wayland-lib)
 include(zstd-lib)
 flatpak-bin

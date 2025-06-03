@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(compat-libxml2-soname2-lib)
 include(glib-lib)
 include(gsequencer-data)
 include(gsequencer-lib)
@@ -13,4 +12,5 @@ include(gstreamer-lib)
 include(gtk4-lib)
 include(libc6)
 include(libinstpatch-lib)
+include(libxml2-lib)
 gsequencer-bin

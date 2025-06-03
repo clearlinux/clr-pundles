@@ -13,5 +13,5 @@ include(libcap-lib)
 include(libdaemon-lib)
 include(libgcc1)
 include(libstdc++)
-include(qtbase-extras)
+include(qtbase-lib)
 avahi-extras

@@ -11,7 +11,7 @@ include(lib-opengl)
 
 include(qt3d)
 include(qtbase)
-include(qtcanvas3d)
+qtcanvas3d
 include(qtcharts)
 include(qtconnectivity)
 include(qtdatavis3d)

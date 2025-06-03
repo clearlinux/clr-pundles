@@ -25,7 +25,6 @@ include(mlt-license)
 include(not-ffmpeg-lib)
 include(pango-lib)
 include(pulseaudio-lib)
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtsvg-lib)
 mlt-lib

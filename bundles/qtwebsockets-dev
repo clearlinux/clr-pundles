@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pkg-config-bin)
 include(qtbase-dev)
 include(qtwebsockets)
 include(qtwebsockets-lib)

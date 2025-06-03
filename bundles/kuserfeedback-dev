@@ -5,7 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(kuserfeedback)
-include(kuserfeedback-bin)
 include(kuserfeedback-data)
 include(kuserfeedback-lib)
 kuserfeedback-dev

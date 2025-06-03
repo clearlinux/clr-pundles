@@ -9,5 +9,5 @@ include(libgcc1)
 include(libstdc++)
 include(qca-qt5-lib)
 include(qca-qt5-license)
-include(qtbase-extras)
+include(qtbase-lib)
 qca-qt5-bin

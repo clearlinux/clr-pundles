@@ -8,7 +8,7 @@ include(bzip2-lib)
 include(libc6)
 include(libgcc1)
 include(libstdc++)
-include(qtbase-extras)
+include(qtbase-lib)
 include(quazip-license)
 include(zlib-lib)
 quazip-lib

@@ -5,4 +5,5 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(R-parallelly-lib)
+include(coreutils-bin)
 R-parallelly

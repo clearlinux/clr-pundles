@@ -6,7 +6,7 @@
 # [MAINTAINER]: pundle
 include(libc6)
 include(libstdc++)
-include(qtbase-extras)
+include(qtbase-lib)
 include(qtserialport-license)
 include(systemd-lib)
 qtserialport-lib

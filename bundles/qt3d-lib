@@ -8,7 +8,6 @@ include(assimp-lib)
 include(libc6)
 include(libstdc++)
 include(qt3d-license)
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtdeclarative-lib)
 qt3d-lib

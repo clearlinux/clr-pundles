@@ -11,5 +11,5 @@ include(gpsd-license)
 include(libc6)
 include(libgcc1)
 include(libstdc++)
-include(qtbase-extras)
+include(qtbase-lib)
 gpsd-lib

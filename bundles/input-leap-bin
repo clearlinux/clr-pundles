@@ -13,6 +13,5 @@ include(libc6)
 include(libgcc1)
 include(libstdc++)
 include(openssl-lib)
-include(qtbase-extras)
 include(qtbase-lib)
 input-leap-bin

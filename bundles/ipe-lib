@@ -17,7 +17,6 @@ include(libpng-lib)
 include(libspiro-lib)
 include(libstdc++)
 include(lua-lib)
-include(qtbase-extras)
 include(qtbase-lib)
 include(zlib-lib)
 ipe-lib

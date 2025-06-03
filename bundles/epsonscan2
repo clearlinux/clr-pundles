@@ -12,6 +12,5 @@ include(epsonscan2-license)
 include(libc6)
 include(libgcc1)
 include(libstdc++)
-include(qtbase-extras)
 include(qtbase-lib)
 epsonscan2

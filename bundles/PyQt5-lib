@@ -8,6 +8,6 @@ include(PyQt5-license)
 include(libc6)
 include(libgcc1)
 include(libstdc++)
-include(qtbase-extras)
+include(qtbase-lib)
 include(qtdeclarative-lib)
 PyQt5-lib

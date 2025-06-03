@@ -4,11 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(libc6)
-include(libstdc++)
 include(pkg-config-bin)
 include(qtbase-dev)
-include(qtbase-extras)
 include(qtremoteobjects)
 include(qtremoteobjects-lib)
 qtremoteobjects-dev

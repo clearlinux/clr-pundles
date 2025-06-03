@@ -13,6 +13,5 @@ include(libc6)
 include(libgcc1)
 include(libstdc++)
 include(lua-lib)
-include(qtbase-extras)
 include(qtbase-lib)
 ipe-bin

@@ -9,4 +9,5 @@ include(pypi-xpra-config)
 include(pypi-xpra-data)
 include(pypi-xpra-libexec)
 include(pypi-xpra-license)
+include(python3-core)
 pypi-xpra-bin

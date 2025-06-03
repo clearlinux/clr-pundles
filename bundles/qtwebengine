@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(qtwebengine-bin)
 include(qtwebengine-data)
 include(qtwebengine-lib)
 include(qtwebengine-libexec)

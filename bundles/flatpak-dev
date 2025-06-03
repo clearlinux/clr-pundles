@@ -4,11 +4,22 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(curl-dev)
+include(dconf-dev)
 include(flatpak)
 include(flatpak-bin)
 include(flatpak-data)
 include(flatpak-lib)
 include(glib-dev)
+include(gpgme-dev)
+include(json-glib-dev)
+include(libX11-dev)
+include(libarchive-dev)
+include(libxml2-dev)
 include(ostree-dev)
 include(pkg-config-bin)
+include(polkit-dev)
+include(systemd-dev)
+include(wayland-dev)
+include(zstd-dev)
 flatpak-dev

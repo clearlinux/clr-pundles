@@ -14,6 +14,5 @@ include(libgcc1)
 include(libstdc++)
 include(media-player-info)
 include(mpg123-lib)
-include(qtbase-extras)
 include(qtbase-lib)
 cantata

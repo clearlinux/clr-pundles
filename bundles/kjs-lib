@@ -9,5 +9,5 @@ include(kjs-license)
 include(libc6)
 include(libstdc++)
 include(pcre-lib)
-include(qtbase-extras)
+include(qtbase-lib)
 kjs-lib

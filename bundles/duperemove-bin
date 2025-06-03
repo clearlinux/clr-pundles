@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(duperemove-data)
 include(duperemove-license)
 include(glib-lib)
 include(libc6)

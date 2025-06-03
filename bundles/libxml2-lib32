@@ -5,5 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(glibc-libc32)
+include(icu4c-lib32)
 include(libxml2-license)
+include(zlib-lib32)
 libxml2-lib32

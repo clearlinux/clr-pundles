@@ -8,5 +8,5 @@ include(kdsoap-lib)
 include(kdsoap-ws-discovery-client-license)
 include(libc6)
 include(libstdc++)
-include(qtbase-extras)
+include(qtbase-lib)
 kdsoap-ws-discovery-client-lib

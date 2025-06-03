@@ -4,8 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pkg-config-bin)
 include(qt3d)
-include(qt3d-bin)
 include(qt3d-dev)
 include(qt3d-lib)
 include(qtbase-dev)

@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(qtxmlpatterns-bin)
 include(qtxmlpatterns-lib)
 include(qtxmlpatterns-license)
 qtxmlpatterns

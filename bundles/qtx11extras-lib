@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtx11extras-license)
 qtx11extras-lib

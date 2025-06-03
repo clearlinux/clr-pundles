@@ -7,7 +7,6 @@
 include(libc6)
 include(libstdc++)
 include(libwebp-lib)
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtimageformats-license)
 include(tiff-lib)

@@ -4,16 +4,9 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(libc6)
-include(libgcc1)
-include(libglvnd-lib)
-include(libstdc++)
+include(pkg-config-bin)
 include(qtbase-dev)
-include(qtbase-extras)
-include(qtbase-lib)
-include(qtdeclarative-lib)
 include(qttools)
-include(qttools-bin)
 include(qttools-data)
 include(qttools-dev)
 include(qttools-lib)

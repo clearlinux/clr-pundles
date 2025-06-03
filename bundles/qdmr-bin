@@ -10,7 +10,6 @@ include(libstdc++)
 include(qdmr-data)
 include(qdmr-lib)
 include(qdmr-license)
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtlocation-lib)
 qdmr-bin

@@ -9,6 +9,5 @@ include(libgcc1)
 include(libstdc++)
 include(qt5ct-data)
 include(qt5ct-license)
-include(qtbase-extras)
 include(qtbase-lib)
 qt5ct-lib

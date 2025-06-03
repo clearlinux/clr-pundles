@@ -9,5 +9,5 @@ include(libc6)
 include(libgcc1)
 include(libstdc++)
 include(libusb-lib)
-include(qtbase-extras)
+include(qtbase-lib)
 gpsbabel-bin

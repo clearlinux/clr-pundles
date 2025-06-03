@@ -6,6 +6,6 @@
 # [MAINTAINER]: pundle
 include(libc6)
 include(libstdc++)
-include(qtbase-extras)
+include(qtbase-lib)
 include(qtnetworkauth-license)
 qtnetworkauth-lib

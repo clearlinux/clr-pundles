@@ -8,6 +8,5 @@ include(libc6)
 include(libdbusmenu-qt-license)
 include(libgcc1)
 include(libstdc++)
-include(qtbase-extras)
 include(qtbase-lib)
 libdbusmenu-qt-lib

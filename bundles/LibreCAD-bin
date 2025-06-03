@@ -10,7 +10,6 @@ include(libc6)
 include(libgcc1)
 include(libstdc++)
 include(muparser-lib)
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtsvg-lib)
 LibreCAD-bin

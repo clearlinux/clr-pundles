@@ -7,7 +7,6 @@
 include(libc6)
 include(libglvnd-lib)
 include(libstdc++)
-include(qtbase-extras)
 include(qtbase-lib)
 include(qtdeclarative-lib)
 include(qtwayland-dev)

@@ -1,9 +1,0 @@
-# [TITLE]: qtmqtt
-# [DESCRIPTION]:
-# [STATUS]:
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: pundle
-include(qtmqtt-lib)
-include(qtmqtt-license)
-qtmqtt

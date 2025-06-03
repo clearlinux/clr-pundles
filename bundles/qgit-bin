@@ -9,6 +9,5 @@ include(libgcc1)
 include(libstdc++)
 include(qgit-data)
 include(qgit-license)
-include(qtbase-extras)
 include(qtbase-lib)
 qgit-bin
