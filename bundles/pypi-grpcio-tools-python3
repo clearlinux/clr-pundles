@@ -1,0 +1,13 @@
+# [TITLE]: pypi-grpcio-tools-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libstdc++)
+include(pypi-grpcio-python3)
+include(pypi-protobuf-python3)
+include(pypi-setuptools-python3)
+include(python3-core)
+pypi-grpcio-tools-python3
