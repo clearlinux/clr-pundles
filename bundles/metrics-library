@@ -1,0 +1,9 @@
+# [TITLE]: metrics-library
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(metrics-library-lib)
+include(metrics-library-license)
+metrics-library
