@@ -1,0 +1,15 @@
+# [TITLE]: xpumanager-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(hwloc-lib)
+include(igsc-lib)
+include(level-zero-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(metee-lib)
+include(xpumanager-license)
+xpumanager-lib
