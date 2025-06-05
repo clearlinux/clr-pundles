@@ -1,0 +1,11 @@
+# [TITLE]: distrobox
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(distrobox-bin)
+include(distrobox-data)
+include(distrobox-license)
+include(distrobox-man)
+distrobox
