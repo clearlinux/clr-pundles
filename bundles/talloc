@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(talloc-lib)
+include(talloc-license)
 include(talloc-python)
 include(talloc-python3)
 talloc

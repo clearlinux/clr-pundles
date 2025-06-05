@@ -6,4 +6,5 @@
 # [MAINTAINER]: pundle
 include(libc6)
 include(python3-lib)
+include(talloc-license)
 talloc-lib

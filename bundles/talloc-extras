@@ -4,5 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-
+include(pkg-config-bin)
+include(talloc-lib)
 talloc-extras
