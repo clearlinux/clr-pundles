@@ -1,0 +1,10 @@
+# [TITLE]: ollama
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(ollama-bin)
+include(ollama-lib)
+include(ollama-license)
+ollama
