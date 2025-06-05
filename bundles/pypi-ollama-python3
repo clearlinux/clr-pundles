@@ -1,0 +1,20 @@
+# [TITLE]: pypi-ollama-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-annotated_types-python3)
+include(pypi-anyio-python3)
+include(pypi-certifi-python3)
+include(pypi-exceptiongroup-python3)
+include(pypi-h11-python3)
+include(pypi-httpcore-python3)
+include(pypi-httpx-python3)
+include(pypi-idna-python3)
+include(pypi-pydantic-python3)
+include(pypi-pydantic_core-python3)
+include(pypi-sniffio-python3)
+include(pypi-typing_extensions-python3)
+include(python3-core)
+pypi-ollama-python3

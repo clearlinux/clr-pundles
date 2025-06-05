@@ -1,0 +1,8 @@
+# [TITLE]: pypi-ollama-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-ollama-python3)
+pypi-ollama-python
