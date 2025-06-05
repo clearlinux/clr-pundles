@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(tevent-lib)
+include(tevent-license)
 include(tevent-python)
 include(tevent-python3)
 tevent

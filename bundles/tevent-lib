@@ -6,4 +6,5 @@
 # [MAINTAINER]: pundle
 include(libc6)
 include(talloc-lib)
+include(tevent-license)
 tevent-lib

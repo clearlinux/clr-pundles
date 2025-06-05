@@ -1,10 +1,8 @@
-# [TITLE]: tdb-bin
+# [TITLE]: tevent-license
 # [DESCRIPTION]:
 # [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(libc6)
-include(tdb-lib)
-include(tdb-license)
-tdb-bin
+
+tevent-license

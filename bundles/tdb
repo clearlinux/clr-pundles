@@ -6,6 +6,7 @@
 # [MAINTAINER]: pundle
 include(tdb-bin)
 include(tdb-lib)
+include(tdb-license)
 include(tdb-man)
 include(tdb-python)
 include(tdb-python3)
