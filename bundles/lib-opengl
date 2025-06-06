@@ -18,7 +18,7 @@ include(harfbuzz-lib)
 include(libstdcpp)
 also-add(mesa-demos)
 include(libglib)
-harfbuzz-lib
+include(harfbuzz-lib)
 include(libX11-lib)
 include(fontconfig-lib)
 include(freetype-lib)

@@ -1,15 +1,10 @@
 # [TITLE]: dav1d
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
+# [MAINTAINER]: pundle
+include(dav1d-bin)
 include(dav1d-lib)
-
-# end of custom additions
-
-# main package
+include(dav1d-license)
 dav1d

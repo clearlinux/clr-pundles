@@ -1,26 +1,48 @@
 # [TITLE]: not-ffmpeg-lib
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(lib-opengl)
-include(libssh-lib)
-include(numactl)
-include(nettle-lib)
-include(lib-imageformat)
-include(icu4c-lib)
-include(harfbuzz-lib)
-include(gmp-lib)
-include(libglib)
+# [MAINTAINER]: pundle
+include(SDL2-lib)
+include(SVT-AV1-lib)
+include(bzip2-lib)
+include(cairo-lib)
+include(compat-libxml2-soname2-lib)
 include(dav1d-lib)
-include(libstdcpp)
-include(libX11client)
-
-# end of custom additions
-
-# main package
+include(fontconfig-lib)
+include(freetype-lib)
+include(glib-lib)
+include(gmp-lib)
+include(gnutls-lib)
+include(jack2-lib)
+include(libX11-lib)
+include(libaom-lib)
+include(libass-lib)
+include(libc6)
+include(libdrm-lib)
+include(libopenmpt-lib)
+include(librist-lib)
+include(librsvg-lib)
+include(libssh-lib)
+include(libtheora-lib)
+include(libva-lib)
+include(libvorbis-lib)
+include(libvpx-lib)
+include(libwebp-lib)
+include(mediasdk-lib)
+include(not-ffmpeg-data)
+include(not-ffmpeg-license)
+include(openjpeg-lib)
+include(opus-lib)
+include(pulseaudio-lib)
+include(speex-lib)
+include(srt-lib)
+include(v4l-utils-lib)
+include(vid.stab-lib)
+include(x264-lib)
+include(x265-lib)
+include(xvidcore-lib)
+include(zimg-lib)
+include(zlib-lib)
 not-ffmpeg-lib

@@ -10,7 +10,7 @@ include(yaml-lib)
 include(glib-lib)
 include(glib-bin)
 #icu4c-lib
-dbus-lib
+include(dbus-lib)
 include(systemd)
 include(yaml)
 include(dbus-lib)

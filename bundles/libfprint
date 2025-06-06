@@ -1,16 +1,11 @@
 # [TITLE]: libfprint
-# [DESCRIPTION]: Fingerprint reader support
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(libX11client)
-include(libglib)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(libfprint-config)
+include(libfprint-data)
+include(libfprint-lib)
+include(libfprint-license)
 libfprint

@@ -1,10 +1,13 @@
 # [TITLE]: protobuf-lib
-# [DESCRIPTION]: Protocol Buffers - Google's data interchange format
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(libstdcpp)
-
+# [MAINTAINER]: pundle
+include(abseil-cpp-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(protobuf-license)
+include(zlib-lib)
 protobuf-lib

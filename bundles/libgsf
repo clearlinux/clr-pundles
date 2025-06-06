@@ -1,16 +1,13 @@
 # [TITLE]: libgsf
-# [DESCRIPTION]: GNOME Structured File library
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libglib)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(gdk-pixbuf)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(libgsf-bin)
+include(libgsf-data)
+include(libgsf-lib)
+include(libgsf-license)
+include(libgsf-locales)
+include(libgsf-man)
 libgsf

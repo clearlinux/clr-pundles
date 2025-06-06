@@ -17,7 +17,7 @@ include(glib-data)
 include(glib-lib)
 include(gtk+-data)
 include(gtk+-lib)
-harfbuzz-lib
+include(harfbuzz-lib)
 include(libinput-data)
 include(libinput-lib)
 include(libinput-libexec)

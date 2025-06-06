@@ -30,7 +30,7 @@ include(glibc-utils)
 include(gmp-dev)
 include(gmp-doc)
 include(gmp-gmpxx)
-gmp-lib
+include(gmp-lib)
 include(indent)
 include(libstdc++)
 include(libtool)

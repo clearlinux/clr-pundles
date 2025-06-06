@@ -1,19 +1,17 @@
 # [TITLE]: harfbuzz-lib
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(freetype-lib)
+include(glib-lib)
+include(graphite-lib)
+include(harfbuzz-data)
+include(harfbuzz-license)
 include(icu4c-lib)
-# include(lib-imageformat)
-include(libglib)
-include(libstdcpp)
-# include(libX11client)
-
-# end of custom additions
-
-# main package
+include(libc6)
+include(libgcc1)
+include(libstdc++)
 harfbuzz-lib
