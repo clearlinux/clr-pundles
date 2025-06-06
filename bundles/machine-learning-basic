@@ -57,7 +57,7 @@ include(ocl-icd)
 include(devpkg-ocl-icd)
 include(openblas)
 include(devpkg-opencv)
-opencv-python
+include(opencv-python)
 include(openjdk-dev)
 include(java-basic)
 pandas

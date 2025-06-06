@@ -10,5 +10,5 @@ include(cloud-api)
 include(awscli)
 include(boto3)
 include(pypi-numpy)
-opencv-python
+include(opencv-python)
 include(opencv-python)

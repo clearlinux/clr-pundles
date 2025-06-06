@@ -1,17 +1,11 @@
 # [TITLE]: gst-python
-# [DESCRIPTION]: Python binding overrides for GStreamer.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-include(python3-basic)
-include(libglib)
-include(gstreamer)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(gst-python-lib)
+include(gst-python-license)
+include(gst-python-python)
+include(gst-python-python3)
 gst-python

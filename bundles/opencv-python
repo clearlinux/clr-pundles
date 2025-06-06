@@ -1,20 +1,8 @@
 # [TITLE]: opencv-python
-# [DESCRIPTION]: OpenCV packages for Python.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Python
-# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-
-include(python3-basic)
-include(lib-opengl)
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(opencv-python3)
 opencv-python
-include(pypi-numpy)
-include(gdk-pixbuf)
-include(openblas)
-include(gstreamer)
-include(libX11client)
-include(openldap)
-include(lib-imageformat)
-include(pypi-numpy)
