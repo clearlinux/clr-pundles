@@ -1,0 +1,8 @@
+# [TITLE]: pypi-xformers-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xformers-python3)
+pypi-xformers-python
