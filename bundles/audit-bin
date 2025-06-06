@@ -6,7 +6,6 @@
 # [MAINTAINER]: pundle
 include(audit-data)
 include(audit-lib)
-include(audit-libexec)
 include(audit-license)
 include(audit-services)
 include(filesystem)

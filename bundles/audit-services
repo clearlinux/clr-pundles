@@ -4,5 +4,5 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-
+include(systemd)
 audit-services

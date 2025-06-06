@@ -1,0 +1,11 @@
+# [TITLE]: llama.cpp-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(llama.cpp)
+include(llama.cpp-bin)
+include(llama.cpp-lib)
+include(pkg-config-bin)
+llama.cpp-dev

@@ -5,7 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(audit-data)
-include(audit-libexec)
 include(audit-license)
 include(libc6)
 include(libcap-ng-lib)

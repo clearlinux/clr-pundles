@@ -1,0 +1,12 @@
+# [TITLE]: llama.cpp-lib
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(llama.cpp-license)
+llama.cpp-lib

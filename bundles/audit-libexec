@@ -1,8 +1,0 @@
-# [TITLE]: audit-libexec
-# [DESCRIPTION]:
-# [STATUS]:
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: pundle
-include(audit-license)
-audit-libexec

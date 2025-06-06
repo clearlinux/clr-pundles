@@ -1,13 +1,14 @@
-# [TITLE]: pypi-xformers-python3
+# [TITLE]: llama.cpp-bin
 # [DESCRIPTION]:
 # [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(coreutils-bin)
+include(curl-lib)
 include(libc6)
 include(libgcc1)
 include(libstdc++)
-include(pypi-numpy-python3)
-include(python3-core)
-include(pytorch-python3)
-pypi-xformers-python3
+include(llama.cpp-lib)
+include(llama.cpp-license)
+llama.cpp-bin

@@ -8,5 +8,6 @@ include(audit)
 include(audit-bin)
 include(audit-data)
 include(audit-lib)
+include(libcap-ng-dev)
 include(pkg-config-bin)
 audit-dev
