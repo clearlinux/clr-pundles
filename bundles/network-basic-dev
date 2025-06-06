@@ -80,7 +80,7 @@ include(e2fsprogs-extras)
 include(ebtables-dev)
 include(devpkg-elfutils)
 include(devpkg-elfutils)
-emacs
+include(emacs)
 include(devpkg-expat)
 include(devpkg-expat)
 include(expect)

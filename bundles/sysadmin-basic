@@ -21,7 +21,7 @@ include(bash)
 include(bash-completion)
 include(bashdb)
 include(bzip2)
-clr-hardware-files
+include(clr-hardware-files)
 include(clr-man-pages)
 include(clr-service-restart)
 include(cnf)

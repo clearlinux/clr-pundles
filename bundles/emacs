@@ -1,16 +1,14 @@
 # [TITLE]: emacs
-# [DESCRIPTION]: Extensible, customizable terminal text editor.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Editor
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-# Run time requirement as vim is compiled to use libpython
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(emacs-bin)
+include(emacs-data)
+include(emacs-info)
+include(emacs-libexec)
+include(emacs-license)
+include(emacs-man)
+include(libc6)
 emacs
-include(ctags)
-include(ncurses-lib)
-include(gmp-lib)
-include(libxml2)
-include(nettle-lib)
-include(yaml)
-include(dbus-lib)
-include(mpfr-lib)

@@ -1,17 +1,11 @@
 # [TITLE]: qt5ct
-# [DESCRIPTION]: Qt 5 configuration tool independent of desktops
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics, Tools and Utilities
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-
-include(qt-core)
-include(qt-basic)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(qt5ct-bin)
+include(qt5ct-data)
+include(qt5ct-lib)
+include(qt5ct-license)
 qt5ct

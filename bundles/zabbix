@@ -1,17 +1,13 @@
 # [TITLE]: zabbix
-# [DESCRIPTION]: Network and application monitoring tool.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(lib-openssl)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(perl-basic)
-include(sysadmin-basic)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(zabbix-bin)
+include(zabbix-config)
+include(zabbix-data)
+include(zabbix-license)
+include(zabbix-man)
+include(zabbix-services)
 zabbix

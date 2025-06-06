@@ -1,10 +1,14 @@
 # [TITLE]: mercurial
-# [DESCRIPTION]: A scalable distributed software configuration management (SCM) tool.
-# [STATUS]: WIP
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Tools and Utilities
-# [MAINTAINER]: Sean V Kelley <sean.v.kelley@linux.intel.com>
-include(python3-basic)
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(mercurial-bin)
+include(mercurial-data)
+include(mercurial-libexec)
+include(mercurial-license)
+include(mercurial-man)
+include(mercurial-python)
+include(mercurial-python3)
 mercurial
-include(openldap)
-include(pypi-six)

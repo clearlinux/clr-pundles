@@ -1,16 +1,13 @@
 # [TITLE]: pypi-numpy
-# [DESCRIPTION]: Python Numerics
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
+# [MAINTAINER]: pundle
+include(gcc-libs-math)
 include(openblas)
-
-# end of custom additions
-
-# main package
+include(pypi-numpy-bin)
+include(pypi-numpy-license)
+include(pypi-numpy-python)
+include(pypi-numpy-python3)
 pypi-numpy

@@ -11,7 +11,7 @@ include(btrfs-progs)
 include(bzip2)
 include(clr-bundles)
 include(clr-find-bundle)
-clr-hardware-files
+include(clr-hardware-files)
 include(clr-one-shot-updates)
 include(clr-service-restart-bin)
 include(clr-update-triggers)

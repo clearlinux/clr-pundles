@@ -17,7 +17,7 @@ include(cpio)
 include(diffstat)
 include(make)
 include(plzip)
-pypi-six
+include(pypi-six)
 include(zstd)
 include(gpgme)
 # autospec requirements

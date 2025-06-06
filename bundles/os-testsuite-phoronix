@@ -102,7 +102,7 @@ also-add(devpkg-ncurses)
 include(ninja)
 include(numactl)
 include(devpkg-numactl)
-pypi-numpy
+include(pypi-numpy)
 include(ocl-icd)
 include(devpkg-ocl-icd)
 also-add(openblas)

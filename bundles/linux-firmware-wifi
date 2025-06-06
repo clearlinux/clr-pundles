@@ -1,9 +1,9 @@
 # [TITLE]: linux-firmware-wifi
-# [DESCRIPTION]: Wifi adapter firmware.
-# [STATUS]: WIP
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Networking
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+# [TAGS]:
+# [MAINTAINER]: pundle
 include(linux-firmware)
-
+include(wireless-regdb-master)
 linux-firmware-wifi

@@ -15,7 +15,7 @@ include(pypi-bokeh)
 include(pypi-dask)
 include(pypi-ipython)
 include(pypi-matplotlib)
-pypi-numpy
+include(pypi-numpy)
 include(scipy)
 include(sympy)
 pandas
