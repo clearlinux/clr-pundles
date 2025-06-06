@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pypi-mkdocs_monorepo_plugin-license)
 include(pypi-mkdocs_monorepo_plugin-python)
 include(pypi-mkdocs_monorepo_plugin-python3)
 pypi-mkdocs_monorepo_plugin
