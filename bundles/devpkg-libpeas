@@ -9,5 +9,4 @@ include(devpkg-base)
 
 include(libpeas-dev)
 include(libX11client)
-include(gobject-introspection)
 include(lib-opengl)

@@ -6,7 +6,6 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 # start of custom additions (edits outside this area will be removed automatically)
-gobject-introspection
 include(not-ffmpeg-lib)
 include(lz4)
 include(dav1d-lib)

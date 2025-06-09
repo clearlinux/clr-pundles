@@ -18,7 +18,7 @@ include(pypi-matplotlib)
 include(pypi-numpy)
 include(scipy)
 include(sympy)
-pandas
+include(pandas)
 include(pypi-scikit_image)
 include(pypi-scikit_learn)
 

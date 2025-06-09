@@ -60,7 +60,7 @@ include(devpkg-opencv)
 include(opencv-python)
 include(openjdk-dev)
 include(java-basic)
-pandas
+include(pandas)
 include(pypi-pillow)
 include(pypi-posix_ipc)
 include(devpkg-protobuf-c)

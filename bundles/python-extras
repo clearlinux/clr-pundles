@@ -59,7 +59,6 @@ include(pypi-natsort)
 include(python3-tcl)
 include(python-zeep)
 include(python-zstandard)
-pypi-requests
 include(requests-ntlm)
 include(pypi-scikit_image)
 include(pypi-scikit_learn)

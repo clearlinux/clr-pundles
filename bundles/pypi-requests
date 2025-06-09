@@ -1,16 +1,12 @@
 # [TITLE]: pypi-requests
-# [DESCRIPTION]: Python URL mangling
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(openblas)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(pypi-charset_normalizer-python3)
+include(pypi-requests-license)
+include(pypi-requests-python)
+include(pypi-requests-python3)
+include(pypi-urllib3-python3)
 pypi-requests

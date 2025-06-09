@@ -51,7 +51,7 @@ include(glib-config)
 
 # python specific deps
 include(python-zeep)
-pypi-requests
+include(pypi-requests)
 include(requests-ntlm)
 
 # also-add apps
