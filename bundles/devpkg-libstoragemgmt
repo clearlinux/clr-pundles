@@ -8,6 +8,5 @@
 include(devpkg-base)
 
 include(libstoragemgmt-dev)
-include(libglib)
 include(libstdcpp)
 include(pypi-six)

@@ -6,11 +6,9 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 
 include(libX11client)
-include(libglib)
 include(gstreamer)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(gnome-base-libs)
 include(appstream)
 include(FreeRDP)
 include(Remmina)

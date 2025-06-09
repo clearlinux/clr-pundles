@@ -9,5 +9,4 @@ include(devpkg-base)
 
 include(compat-gtksourceview-soname3-dev)
 include(libX11client)
-include(libglib)
 include(lib-opengl)

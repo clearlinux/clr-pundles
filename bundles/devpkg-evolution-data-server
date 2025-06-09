@@ -9,8 +9,6 @@ include(devpkg-base)
 
 include(evolution-data-server-dev)
 include(libX11client)
-include(libglib)
 include(libstdcpp)
 include(webkitgtk)
 include(perl-basic)
-include(gnome-base-libs)

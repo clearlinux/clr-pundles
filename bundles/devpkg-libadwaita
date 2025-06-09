@@ -8,5 +8,3 @@
 include(devpkg-base)
 
 include(libadwaita-dev)
-include(libglib)
-include(gnome-base-libs)

@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 include(libgusb-dev)
-include(libglib)

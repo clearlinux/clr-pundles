@@ -8,11 +8,9 @@
 include(devpkg-base)
 
 include(libgdata-dev)
-include(libglib)
 include(gdk-pixbuf)
 include(libX11client)
 include(lib-opengl)
-include(gnome-base-libs)
 include(gstreamer)
 include(harfbuzz-lib)
 include(icu4c-lib)

@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 include(gobject-introspection-dev)
-include(libglib)
 include(gobject-introspection)

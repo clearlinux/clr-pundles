@@ -8,6 +8,4 @@
 include(devpkg-base)
 
 include(compat-gnome-bluetooth-soname-13-dev)
-include(gnome-base-libs)
-include(libglib)
 include(libX11client)

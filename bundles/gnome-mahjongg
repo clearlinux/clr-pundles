@@ -6,11 +6,9 @@
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
 
 include(libX11client)
-include(libglib)
 include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(gnome-base-libs)
 # end of custom additions
 
 # main package

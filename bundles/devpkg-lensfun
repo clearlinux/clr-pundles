@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 include(lensfun-dev)
-include(libglib)
 include(libstdcpp)
 include(lib-imageformat)
 include(lensfun)

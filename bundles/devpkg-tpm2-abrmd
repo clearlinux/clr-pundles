@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 include(tpm2-abrmd-dev)
-include(libglib)

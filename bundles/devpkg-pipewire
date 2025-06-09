@@ -9,7 +9,5 @@ include(devpkg-base)
 
 include(pipewire-dev)
 include(libX11client)
-include(gnome-base-libs)
-include(libglib)
 include(gstreamer)
 include(libstdcpp)

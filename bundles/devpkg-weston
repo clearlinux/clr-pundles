@@ -9,8 +9,6 @@ include(devpkg-base)
 
 include(weston-dev)
 include(libX11client)
-include(libglib)
 include(gstreamer)
 include(lib-imageformat)
-include(gnome-base-libs)
 include(not-ffmpeg-lib)

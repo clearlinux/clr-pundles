@@ -8,6 +8,4 @@
 include(devpkg-base)
 
 include(gdm-dev)
-include(libglib)
 include(libX11client)
-include(gnome-base-libs)

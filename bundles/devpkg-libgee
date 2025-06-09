@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 include(libgee-dev)
-include(libglib)

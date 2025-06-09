@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 include(libgsystem-dev)
-include(libglib)

@@ -9,4 +9,3 @@ include(devpkg-base)
 
 include(stoken-dev)
 include(libX11client)
-include(libglib)

@@ -9,4 +9,3 @@ include(devpkg-base)
 
 include(at-spi2-core-dev)
 include(libX11client)
-include(libglib)

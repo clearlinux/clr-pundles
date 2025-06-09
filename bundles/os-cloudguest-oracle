@@ -6,7 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(openssh-server)
 include(sudo)
-include(libglib)
 
 include(micro-config-drive-oci)
 include(open-iscsi)

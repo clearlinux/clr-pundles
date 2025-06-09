@@ -9,7 +9,5 @@ include(devpkg-base)
 
 include(evolution-dev)
 include(libX11client)
-include(gnome-base-libs)
-include(libglib)
 include(webkitgtk)
 include(evolution)

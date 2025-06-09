@@ -9,5 +9,3 @@ include(devpkg-base)
 
 include(metacity-dev)
 include(libX11client)
-include(libglib)
-include(gnome-base-libs)

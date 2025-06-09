@@ -22,7 +22,6 @@ include(python3-dev)
 include(swupd-search)
 
 # include(libX11client)
-# include(libglib)
 # include(harfbuzz-lib)
 # include(icu4c-lib)
 # include(lib-imageformat)

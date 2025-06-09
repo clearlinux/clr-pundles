@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 include(libpinyin-dev)
-include(libglib)
 include(libstdcpp)

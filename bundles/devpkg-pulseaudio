@@ -9,6 +9,5 @@ include(devpkg-base)
 
 include(pulseaudio-dev)
 include(libX11client)
-include(libglib)
 include(libstdcpp)
 include(pulseaudio)

@@ -7,10 +7,8 @@
 
 include(devpkg-base)
 include(devpkg-glib)
-include(libglib)
 include(devpkg-gtk3)
 
 include(gnome-bluetooth-dev)
 include(libstdcpp)
-include(gnome-base-libs)
 include(pulseaudio)

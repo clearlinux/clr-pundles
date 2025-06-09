@@ -9,7 +9,6 @@ include(devpkg-base)
 
 include(gjs-dev)
 include(libX11client)
-include(libglib)
 include(libstdcpp)
 include(desktop-gnomelibs)
 include(gjs)

@@ -9,4 +9,3 @@ include(devpkg-base)
 
 include(libxklavier-dev)
 include(libX11client)
-include(libglib)

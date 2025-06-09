@@ -8,6 +8,5 @@
 include(devpkg-base)
 
 include(gmime-dev)
-include(libglib)
 include(qt-core)
 include(icu4c-lib)

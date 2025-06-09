@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 include(bluez-dev)
-include(libglib)
 include(icu4c-lib)

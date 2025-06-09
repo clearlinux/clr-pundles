@@ -6,8 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
-include(gnome-base-libs)
-include(libglib)
 include(openldap)
 include(webkitgtk)
 
