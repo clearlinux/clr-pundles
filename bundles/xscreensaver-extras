@@ -1,16 +1,16 @@
 # [TITLE]: xscreensaver-extras
-# [DESCRIPTION]: All the xscreensaver extras.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libX11client)
-include(lib-imageformat)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(xscreensaver)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(gdk-pixbuf-lib)
+include(glib-lib)
+include(glu-lib)
+include(libX11-lib)
+include(libXft-lib)
+include(libXt-lib)
+include(libc6)
+include(libglvnd-lib)
+include(perl-bin)
 xscreensaver-extras

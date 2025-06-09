@@ -4,9 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(libstdcpp)
-include(NetworkManager-extras)
-
+NetworkManager-extras
 include(linux-firmware-wifi)
 include(NetworkManager-bin)
 include(NetworkManager-config)

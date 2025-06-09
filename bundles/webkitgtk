@@ -1,21 +1,14 @@
 # [TITLE]: webkitgtk
-# [DESCRIPTION]: Legacy Web content engine for GTK+ 3.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(libX11client)
-include(libstdcpp)
-include(gstreamer)
-include(lib-imageformat)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libpsl-lib)
-include(icu4c-lib)
-# sadly this one is still super common
-include(webkitgtk60)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bubblewrap)
+include(webkitgtk-data)
+include(webkitgtk-lib)
+include(webkitgtk-libexec)
+include(webkitgtk-license)
+include(webkitgtk-locales)
+include(xdg-dbus-proxy)
 webkitgtk

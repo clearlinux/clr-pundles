@@ -1,17 +1,13 @@
 # [TITLE]: xscreensaver
-# [DESCRIPTION]: A minimal installation of xscreensaver.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libX11client)
-include(lib-imageformat)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(lib-opengl)
-include(perl-basic)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(xorg-fonts)
+include(xscreensaver-bin)
+include(xscreensaver-data)
+include(xscreensaver-libexec)
+include(xscreensaver-locales)
+include(xscreensaver-man)
 xscreensaver

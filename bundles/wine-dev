@@ -1,29 +1,11 @@
 # [TITLE]: wine-dev
-# [DESCRIPTION]: Run PE32 executables with Linux.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Productivity, Developer Tools, Tools and Utilities
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(libX11client)
-include(openldap)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libunwind-lib)
-include(gphoto)
-include(libXpm-lib)
-include(pcre-lib)
-include(libnl)
-include(pulseaudio)
-include(lib-imageformat)
-include(python3-basic)
-include(lib-opengl)
-include(perl-basic)
-include(os-core-legacy)
-include(lib-samba)
+# [TAGS]:
+# [MAINTAINER]: pundle
 include(wine)
-# end of custom additions
-# main package
+include(wine-bin)
+include(wine-data)
+include(wine-lib)
 wine-dev
-

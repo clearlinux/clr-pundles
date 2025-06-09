@@ -1,15 +1,12 @@
 # [TITLE]: xdg-desktop-portal-gnome
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-include(libX11client)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(xdg-desktop-portal-gnome-data)
+include(xdg-desktop-portal-gnome-libexec)
+include(xdg-desktop-portal-gnome-license)
+include(xdg-desktop-portal-gnome-locales)
+include(xdg-desktop-portal-gnome-services)
 xdg-desktop-portal-gnome

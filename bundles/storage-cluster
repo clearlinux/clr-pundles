@@ -6,6 +6,7 @@
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 
 include(python3-basic)
+include(xfsdump)
 include(xfsprogs)
 include(nfs-utils)
 

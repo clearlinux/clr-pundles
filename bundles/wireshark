@@ -1,13 +1,16 @@
 # [TITLE]: wireshark
-# [DESCRIPTION]: Network packet capture and traffic analysis tool.
-# [STATUS]: WIP
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Developer Tools
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include(postgresql-lib)
-include(qt-basic)
-wireshark
-include(libnl)
-include(libpcap-lib)
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(glib-lib)
+include(libc6)
+include(libnl-lib)
 include(libssh-lib)
-include(lz4)
+include(systemd-extras-libsystemd)
+include(wireshark-bin)
+include(wireshark-data)
+include(wireshark-lib)
+include(wireshark-license)
+wireshark

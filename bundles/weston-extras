@@ -1,17 +1,19 @@
 # [TITLE]: weston-extras
-# [DESCRIPTION]: Header files for Weston plugin development.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(libX11client)
-include(lib-imageformat)
-
-# start of custom additions
-include(not-ffmpeg-lib)
-include(weston)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cairo-lib)
+include(fontconfig-lib)
+include(glib-lib)
+include(libc6)
+include(libglvnd-lib)
+include(libjpeg-turbo-lib)
+include(libpng-lib)
+include(libwebp-lib)
+include(libxkbcommon-lib)
+include(pango-lib)
+include(pixman-lib)
+include(wayland-lib)
 weston-extras
