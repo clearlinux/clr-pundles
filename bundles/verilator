@@ -1,0 +1,9 @@
+# [TITLE]: verilator
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(verilator-bin)
+include(verilator-license)
+verilator

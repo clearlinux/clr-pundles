@@ -1,0 +1,10 @@
+# [TITLE]: yosys-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(yosys)
+include(yosys-bin)
+include(yosys-data)
+yosys-dev

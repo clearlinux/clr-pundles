@@ -1,0 +1,17 @@
+# [TITLE]: yosys-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(libc6)
+include(libffi-lib)
+include(libgcc1)
+include(libstdc++)
+include(readline-lib)
+include(tcl-lib)
+include(yosys-data)
+include(yosys-license)
+include(zlib-lib)
+yosys-bin
