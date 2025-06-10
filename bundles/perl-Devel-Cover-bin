@@ -4,5 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(perl-Devel-Cover-license)
 include(perl-bin)
 perl-Devel-Cover-bin

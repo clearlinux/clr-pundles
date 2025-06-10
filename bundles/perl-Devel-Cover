@@ -6,6 +6,7 @@
 # [MAINTAINER]: pundle
 include(perl-B-Debug-perl)
 include(perl-Devel-Cover-bin)
+include(perl-Devel-Cover-license)
 include(perl-Devel-Cover-man)
 include(perl-Devel-Cover-perl)
 include(perl-Sereal-Decoder-perl)
