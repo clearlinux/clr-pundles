@@ -4,6 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(cabextract)
+include(gdk-pixbuf)
+include(p7zip)
+include(unzip)
+include(wget)
 include(winegui-bin)
 include(winegui-data)
 include(winegui-license)
