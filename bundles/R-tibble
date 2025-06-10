@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(R-fansi)
+include(R-cli)
 include(R-lifecycle)
 include(R-magrittr)
 include(R-pillar)

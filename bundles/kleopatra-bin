@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(akonadi-mime-lib)
 include(gpgme-extras)
 include(gpgme-lib)
 include(kcodecs-lib)
@@ -15,10 +16,12 @@ include(kcrash-lib)
 include(kdbusaddons-lib)
 include(ki18n-lib)
 include(kiconthemes-lib)
+include(kidentitymanagement-lib)
 include(kio-lib)
 include(kitemmodels-lib)
 include(kleopatra-data)
 include(kleopatra-license)
+include(kmailtransport-lib)
 include(kmime-lib)
 include(kwidgetsaddons-lib)
 include(kwindowsystem-lib)
