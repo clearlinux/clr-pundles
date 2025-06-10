@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pypi-grpcio_tools-bin)
 include(pypi-grpcio_tools-license)
 include(pypi-grpcio_tools-python)
 include(pypi-grpcio_tools-python3)
