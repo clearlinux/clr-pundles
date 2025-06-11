@@ -10,4 +10,4 @@ include(devpkg-base)
 include(bcc-dev)
 include(xz)
 include(libstdcpp)
-include(bcc)
+bcc
