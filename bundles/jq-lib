@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(jq-license)
 include(libc6)
 include(onig-lib)
 jq-lib
