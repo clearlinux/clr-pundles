@@ -8,6 +8,5 @@ include(apache-arrow)
 include(apache-arrow-data)
 include(apache-arrow-dev)
 include(apache-arrow-lib)
-include(googletest-dev)
 include(pkg-config-bin)
 apache-arrow-dev

@@ -1,9 +1,0 @@
-# [TITLE]: multiprocess
-# [DESCRIPTION]:
-# [STATUS]:
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: pundle
-include(multiprocess-python)
-include(multiprocess-python3)
-multiprocess

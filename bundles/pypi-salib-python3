@@ -4,9 +4,9 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(multiprocess-python3)
 include(pandas-python3)
 include(pypi-matplotlib-python3)
+include(pypi-multiprocess-python3)
 include(pypi-numpy-python3)
 include(python3-core)
 include(scipy-python3)

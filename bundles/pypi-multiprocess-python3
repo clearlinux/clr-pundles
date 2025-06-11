@@ -1,4 +1,4 @@
-# [TITLE]: multiprocess-python3
+# [TITLE]: pypi-multiprocess-python3
 # [DESCRIPTION]:
 # [STATUS]:
 # [CAPABILITIES]:
@@ -6,4 +6,4 @@
 # [MAINTAINER]: pundle
 include(pypi-dill-python3)
 include(python3-core)
-multiprocess-python3
+pypi-multiprocess-python3

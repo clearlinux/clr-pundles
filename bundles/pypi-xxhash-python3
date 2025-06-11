@@ -1,10 +1,9 @@
-# [TITLE]: nushell-bin
+# [TITLE]: pypi-xxhash-python3
 # [DESCRIPTION]:
 # [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(libc6)
-include(libgcc1)
-include(nushell-license)
-nushell-bin
+include(python3-core)
+pypi-xxhash-python3

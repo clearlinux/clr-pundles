@@ -1,0 +1,9 @@
+# [TITLE]: pypi-trl-bin
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-trl-license)
+include(python3-core)
+pypi-trl-bin

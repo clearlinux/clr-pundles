@@ -1,0 +1,8 @@
+# [TITLE]: pypi-multiprocess-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-multiprocess-python3)
+pypi-multiprocess-python

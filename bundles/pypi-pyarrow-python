@@ -1,0 +1,8 @@
+# [TITLE]: pypi-pyarrow-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-pyarrow-python3)
+pypi-pyarrow-python

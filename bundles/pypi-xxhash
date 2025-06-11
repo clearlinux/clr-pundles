@@ -1,0 +1,10 @@
+# [TITLE]: pypi-xxhash
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-xxhash-license)
+include(pypi-xxhash-python)
+include(pypi-xxhash-python3)
+pypi-xxhash

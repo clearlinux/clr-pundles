@@ -1,0 +1,8 @@
+# [TITLE]: pypi-datasets-python
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-datasets-python3)
+pypi-datasets-python

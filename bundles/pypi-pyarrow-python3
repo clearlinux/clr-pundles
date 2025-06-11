@@ -1,0 +1,12 @@
+# [TITLE]: pypi-pyarrow-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(apache-arrow-lib)
+include(libc6)
+include(libgcc1)
+include(libstdc++)
+include(python3-core)
+pypi-pyarrow-python3
