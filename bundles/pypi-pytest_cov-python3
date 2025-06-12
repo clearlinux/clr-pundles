@@ -6,6 +6,7 @@
 # [MAINTAINER]: pundle
 include(pypi-coverage-python3)
 include(pypi-pip-python3)
+include(pypi-pluggy-python3)
 include(pypi-pytest-python3)
 include(pypi-tox-python3)
 include(pypi-twine-python3)
