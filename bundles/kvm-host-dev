@@ -31,7 +31,7 @@ include(Z3-dev)
 include(devpkg-acl)
 include(devpkg-acl)
 include(acl-staticdev)
-include(acpica-unix2)
+acpica-unix2
 include(devpkg-alsa-lib)
 include(devpkg-alsa-lib)
 include(asciidoc)

@@ -1,14 +1,10 @@
 # [TITLE]: unison
-# [DESCRIPTION]: Bi-directional file synchronization tool.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Productivity, Tools and Utilities
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(unison-bin)
+include(unison-license)
+include(unison-man)
 unison

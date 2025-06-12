@@ -1,13 +1,11 @@
 # [TITLE]: vifm
-# [DESCRIPTION]: A filemanager for the console with VIM like keybindings and control.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(vifm-bin)
+include(vifm-data)
+include(vifm-license)
+include(vifm-man)
 vifm
