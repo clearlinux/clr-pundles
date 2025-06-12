@@ -1,14 +1,11 @@
 # [TITLE]: btrfs-progs
-# [DESCRIPTION]: libbtrfsutil library
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(btrfs-progs-bin)
+include(btrfs-progs-config)
+include(btrfs-progs-lib)
+include(btrfs-progs-license)
 btrfs-progs

@@ -1,20 +1,12 @@
 # [TITLE]: cmus
-# [DESCRIPTION]: A small, fast, and powerful console music player.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(not-ffmpeg-lib)
-include(nettle-lib)
-include(gmp-lib)
-include(pulseaudio)
-include(dav1d-lib)
-include(lib-imageformat)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(cmus-bin)
+include(cmus-data)
+include(cmus-lib)
+include(cmus-license)
+include(cmus-man)
 cmus

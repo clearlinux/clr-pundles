@@ -1,16 +1,14 @@
 # [TITLE]: audit
-# [DESCRIPTION]: System audit tools.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Security
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(python3-basic)
-include(openldap)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(curl)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(audisp-json)
+include(audit-bin)
+include(audit-data)
+include(audit-lib)
+include(audit-license)
+include(audit-man)
+include(audit-services)
 audit

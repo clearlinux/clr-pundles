@@ -10,7 +10,6 @@ include(perl-basic)
 include(python3-basic)
 
 include(bcc)
-include(bpftrace)
 include(blktrace)
 include(clr-debug-info)
 include(collectl)

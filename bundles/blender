@@ -1,19 +1,18 @@
 # [TITLE]: blender
-# [DESCRIPTION]: A 3D Modelling And Rendering Package
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(libX11client)
-include(lib-imageformat)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(icu4c-lib)
-include(opencv-python)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(OpenColorIO)
+include(blender-bin)
+include(blender-data)
+include(blender-license)
+include(blender-locales)
+include(blender-man)
+include(embree)
+include(oiio)
+include(python3)
+include(scene-alembic)
+include(yaml-cpp)
 blender

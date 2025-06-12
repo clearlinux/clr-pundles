@@ -13,7 +13,6 @@ include(which)
 acpica-unix2
 
 include(accel-config)
-also-add(aspell)
 include(aspell-en)
 include(autossh)
 include(bash)

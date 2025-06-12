@@ -1,15 +1,12 @@
 # [TITLE]: calc
-# [DESCRIPTION]: Arbitrary precision console calculator.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Productivity, Tools and Utilities
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(ncurses-lib)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(calc-bin)
+include(calc-data)
+include(calc-lib)
+include(calc-license)
+include(calc-man)
 calc

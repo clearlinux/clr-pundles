@@ -1,15 +1,12 @@
 # [TITLE]: baobab
-# [DESCRIPTION]: Scan folders or volumes to provide graphical representation of the contents.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(libX11client)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(curl)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(baobab-bin)
+include(baobab-data)
+include(baobab-license)
+include(baobab-locales)
+include(baobab-man)
 baobab

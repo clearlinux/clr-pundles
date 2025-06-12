@@ -7,7 +7,6 @@
 include(perl-basic)
 include(libstdcpp)
 
-also-add(aspell)
 include(colord-locales)
 include(evolution-data-server-locales)
 include(evolution-data-server-locales)

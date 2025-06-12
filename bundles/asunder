@@ -1,17 +1,12 @@
 # [TITLE]: asunder
-# [DESCRIPTION]: Graphical Audio CD ripper and encoder
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Multimedia and Graphics
-# [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
-
-include(libX11client)
-
-# start of custom additions (edits outside this area will be removed automatically)
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(asunder-bin)
+include(asunder-data)
+include(asunder-license)
+include(asunder-locales)
 include(cdparanoia)
-include(libcddb)
-include(libcdio)
-# end of custom additions
-
-# main package
 asunder

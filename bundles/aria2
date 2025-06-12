@@ -1,17 +1,11 @@
 # [TITLE]: aria2
-# [DESCRIPTION]: High speed download utility library
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Tools and Utilities
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(nettle-lib)
-include(libxml2)
-include(gmp-lib)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(aria2-bin)
+include(aria2-license)
+include(aria2-locales)
+include(aria2-man)
 aria2
