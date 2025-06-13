@@ -15,7 +15,6 @@ include(gstreamer-basic)
 include(lib-opengl)
 include(libpsl-lib)
 include(lensfun)
-include(gphoto)
 include(libXpm-lib)
 include(lib-imageformat)
 # end of custom additions
