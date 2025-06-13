@@ -1,0 +1,9 @@
+# [TITLE]: s5cmd
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(s5cmd-bin)
+include(s5cmd-license)
+s5cmd
