@@ -21,3 +21,4 @@ include(tcl-basic)
 
 # main package
 phoronix-test-suite
+include(phoronix-test-suite-basic)

@@ -12,3 +12,4 @@ include(syslinux-extras)
 
 # main package
 syslinux
+include(syslinux-basic)

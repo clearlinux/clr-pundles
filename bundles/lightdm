@@ -28,3 +28,4 @@ include(xcursor-themes)
 
 # main package
 lightdm
+include(lightdm-basic)

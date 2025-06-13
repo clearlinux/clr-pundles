@@ -1,17 +1,11 @@
 # [TITLE]: tesseract
-# [DESCRIPTION]: An OCR Engine that was developed at HP Labs between 1985 and 1995... and now at Google.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(curl-basic)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libarchive)
-include(lib-imageformat)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(tesseract-bin)
+include(tesseract-data)
+include(tesseract-lib)
+include(tesseract-license)
 tesseract

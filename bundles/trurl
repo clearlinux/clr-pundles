@@ -12,3 +12,4 @@
 
 # main package
 trurl
+include(trurl-basic)

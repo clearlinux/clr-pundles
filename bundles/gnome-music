@@ -13,3 +13,4 @@ include(libX11client)
 
 # main package
 gnome-music
+include(gnome-music-basic)

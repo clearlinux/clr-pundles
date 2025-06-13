@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 include(openmpi-dev)
-include(openmpi)
+include(openmpi-basic)

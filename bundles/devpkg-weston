@@ -9,6 +9,6 @@ include(devpkg-base)
 
 include(weston-dev)
 include(libX11client)
-include(gstreamer)
+include(gstreamer-basic)
 include(lib-imageformat)
 include(not-ffmpeg-lib)

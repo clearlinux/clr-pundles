@@ -1,15 +1,12 @@
 # [TITLE]: gnome-mahjongg
-# [DESCRIPTION]: Single player version of the classic Eastern tile game Mahjongg
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Games
-# [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
-
-include(libX11client)
-include(lib-imageformat)
-
-# start of custom additions (edits outside this area will be removed automatically)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-mahjongg-bin)
+include(gnome-mahjongg-data)
+include(gnome-mahjongg-license)
+include(gnome-mahjongg-locales)
+include(gnome-mahjongg-man)
 gnome-mahjongg

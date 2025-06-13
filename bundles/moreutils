@@ -12,3 +12,4 @@ include(perl-basic)
 
 # main package
 moreutils
+include(moreutils-basic)

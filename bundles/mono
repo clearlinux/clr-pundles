@@ -13,3 +13,4 @@
 # main package
 mono
 include(mono-dev)
+include(mono-basic)

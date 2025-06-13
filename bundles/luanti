@@ -16,3 +16,4 @@ include(luantiserver)
 
 # main package
 luanti
+include(luanti-basic)

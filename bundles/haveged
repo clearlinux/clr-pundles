@@ -1,14 +1,12 @@
 # [TITLE]: haveged
-# [DESCRIPTION]: Daemon for feeding entropy into the random pool
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(haveged-bin)
+include(haveged-lib)
+include(haveged-license)
+include(haveged-man)
+include(haveged-services)
 haveged

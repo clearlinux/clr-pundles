@@ -21,3 +21,4 @@ include(perl-basic)
 
 # main package
 tigervnc
+include(tigervnc-basic)

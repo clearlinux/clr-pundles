@@ -17,3 +17,4 @@ include(kmime)
 
 # main package
 kontact
+include(kontact-basic)

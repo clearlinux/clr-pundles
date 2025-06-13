@@ -12,9 +12,9 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(kmime)
-include(kde-frameworks5)
 
 # end of custom additions
 
 # main package
 knotes
+include(knotes-basic)

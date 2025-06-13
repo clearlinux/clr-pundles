@@ -18,3 +18,4 @@ include(kmime)
 
 # main package
 kitinerary
+include(kitinerary-basic)

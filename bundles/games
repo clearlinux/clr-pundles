@@ -8,17 +8,17 @@ include(libX11client)
 include(p11-kit)
 include(perl-basic)
 include(python3-basic)
-include(NetworkManager-extras)
+include(NetworkManager-extras-basic)
 include(lib-imageformat)
 include(lib-opengl)
 include(os-core-legacy)
 
 also-add(extremetuxracer)
-also-add(luanti)
-also-add(supertuxkart)
+also-add(luanti-basic)
+also-add(supertuxkart-basic)
 also-add(flare)
-also-add(lutris)
-also-add(scummvm)
+also-add(lutris-basic)
+also-add(scummvm-basic)
 
 # 32 bit client support for 32 bit games
 

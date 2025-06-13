@@ -1,16 +1,15 @@
 # [TITLE]: rabbitmq-server
-# [DESCRIPTION]: An message-broker software
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: Wang, Long <long1.wang@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(systemd)
-include(ncurses-lib)
-include(libstdcpp)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(filesystem)
+include(otp)
+include(rabbitmq-server-bin)
+include(rabbitmq-server-config)
+include(rabbitmq-server-license)
+include(rabbitmq-server-man)
+include(rabbitmq-server-services)
 rabbitmq-server

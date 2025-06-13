@@ -1,19 +1,20 @@
 # [TITLE]: podman
-# [DESCRIPTION]: Builds Dockerfile using the Docker client
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(sqlite)
-include(icu4c-lib)
-include(curl-basic)
-include(qt-core)
-include(systemd)
-include(libstdcpp)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(aardvark-dns)
+include(cni-plugins)
+include(conmon)
+include(netavark)
+include(passt)
+include(podman-bin)
+include(podman-config)
+include(podman-data)
+include(podman-libexec)
+include(podman-license)
+include(podman-man)
+include(podman-services)
+include(runc)
 podman

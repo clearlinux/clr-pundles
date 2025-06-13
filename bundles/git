@@ -20,3 +20,4 @@ include(git-lfs)
 
 # main package
 git
+include(git-basic)

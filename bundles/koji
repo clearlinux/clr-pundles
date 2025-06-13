@@ -4,18 +4,19 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
-include(git)
+include(git-basic)
 include(httpd)
 include(mod_wsgi)
 include(nfs-utils)
 include(openssh-client)
 include(package-utils)
-include(postgresql)
+include(postgresql-basic)
 include(sudo)
-include(gpgme)
+include(gpgme-basic)
 include(dnf-basic)
 
 koji
 include(koji-extras)
 include(pypi-six)
 include(pypi-requests)
+include(koji-basic)

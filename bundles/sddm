@@ -19,3 +19,4 @@ include(systemd-lib)
 
 # main package
 sddm
+include(sddm-basic)

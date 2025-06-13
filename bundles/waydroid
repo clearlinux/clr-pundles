@@ -18,3 +18,4 @@ include(wl-clipboard)
 
 # main package
 waydroid
+include(waydroid-basic)

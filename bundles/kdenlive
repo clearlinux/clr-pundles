@@ -1,20 +1,13 @@
 # [TITLE]: kdenlive
-# [DESCRIPTION]: A non-linear video editor for Linux using the MLT video framework.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics, Developer Tools
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(desktop-kde-libs)
-include(qt-core)
-include(qt-basic)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(qt6-basic)
-include(kde-frameworks5)
-include(mlt)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kdenlive-bin)
+include(kdenlive-data)
+include(kdenlive-lib)
+include(kdenlive-license)
+include(kdenlive-locales)
+include(kdenlive-man)
 kdenlive

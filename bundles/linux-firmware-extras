@@ -6,3 +6,4 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-firmware-extras
 include(sof-bin)
+include(linux-firmware-extras-basic)

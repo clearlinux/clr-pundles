@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 include(hwloc-dev)
-include(hwloc)
+include(hwloc-basic)

@@ -21,3 +21,4 @@ include(wlrobs)
 
 # main package
 obs-studio
+include(obs-studio-basic)

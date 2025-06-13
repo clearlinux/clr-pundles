@@ -1,16 +1,12 @@
 # [TITLE]: MangoHud
-# [DESCRIPTION]: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(libX11client)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(lib-opengl)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(MangoHud-bin)
+include(MangoHud-data)
+include(MangoHud-lib)
+include(MangoHud-license)
+include(MangoHud-man)
 MangoHud

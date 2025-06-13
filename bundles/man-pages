@@ -15,3 +15,4 @@ include(libstdcpp)
 
 # main package
 man-pages
+include(man-pages-basic)

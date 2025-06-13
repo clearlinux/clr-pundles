@@ -16,3 +16,4 @@ include(python3-basic)
 
 # main package
 postgresql
+include(postgresql-basic)

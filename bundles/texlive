@@ -15,9 +15,10 @@ include(libXpm-lib)
 include(icu4c-lib)
 include(python3-basic)
 include(dvisvgm)
-also-add(ghostscript)
+also-add(ghostscript-basic)
 include(perl-basic)
 # end of custom additions
 
 # main package
 texlive
+include(texlive-basic)

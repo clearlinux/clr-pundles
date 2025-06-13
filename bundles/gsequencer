@@ -1,18 +1,13 @@
 # [TITLE]: gsequencer
-# [DESCRIPTION]: Advanced Gtk+ Sequencer audio processing engine.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(libX11client)
-include(gstreamer)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libpsl-lib)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gsequencer-bin)
+include(gsequencer-data)
+include(gsequencer-lib)
+include(gsequencer-license)
+include(gsequencer-locales)
+include(gsequencer-man)
 gsequencer

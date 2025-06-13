@@ -1,13 +1,10 @@
 # [TITLE]: gh
-# [DESCRIPTION]: Github's command line tool
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [MAINTAINER]: Ganesh Maharaj Mahalingam <ganesh.mahalingam@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gh-bin)
+include(gh-license)
+include(gh-man)
 gh

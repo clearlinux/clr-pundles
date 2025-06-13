@@ -14,3 +14,4 @@ also-add(storage-utils)
 
 # main package
 gparted
+include(gparted-basic)

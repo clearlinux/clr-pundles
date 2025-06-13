@@ -5,11 +5,11 @@
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(curl-basic)
-include(iproute2)
+include(iproute2-basic)
 include(jq)
 include(kbd)
 include(libstdcpp)
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 include(linux-firmware-wifi)
 include(openssh-server)
 include(storage-utils)
@@ -17,8 +17,8 @@ include(wpa_supplicant)
 include(network-basic)
 
 also-add(glibc-locale)
-also-add(less)
 
+include(less)
 include(LVM2)
 include(LVM2-extras)
 include(bind-utils)

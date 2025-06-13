@@ -1,17 +1,15 @@
 # [TITLE]: gnome-remote-desktop
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-include(libX11client)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(not-ffmpeg-lib)
-include(audio-pipewire)
-include(xdg-desktop-portal-gnome)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(gnome-remote-desktop-bin)
+include(gnome-remote-desktop-config)
+include(gnome-remote-desktop-data)
+include(gnome-remote-desktop-libexec)
+include(gnome-remote-desktop-license)
+include(gnome-remote-desktop-locales)
+include(gnome-remote-desktop-man)
+include(gnome-remote-desktop-services)
 gnome-remote-desktop

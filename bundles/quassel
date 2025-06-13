@@ -22,3 +22,4 @@ include(quassel-extras)
 
 # main package
 quassel
+include(quassel-basic)

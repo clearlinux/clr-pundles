@@ -1,16 +1,13 @@
 # [TITLE]: seahorse
-# [DESCRIPTION]: Graphical interface for managing and using encryption keys.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Security, Tools and Utilities
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(libX11client)
-include(openldap)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(gnome-keyring)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(seahorse-bin)
+include(seahorse-data)
+include(seahorse-libexec)
+include(seahorse-license)
+include(seahorse-locales)
+include(seahorse-man)
 seahorse

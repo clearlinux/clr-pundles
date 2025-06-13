@@ -12,3 +12,4 @@ include(zstd)
 
 # main package
 thunderbird
+include(thunderbird-basic)

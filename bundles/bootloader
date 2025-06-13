@@ -7,6 +7,6 @@
 include(clr-boot-manager)
 include(gptfdisk-bin)
 include(shim)
-include(syslinux)
+include(syslinux-basic)
 include(libstdcpp)
 include(popt-lib)

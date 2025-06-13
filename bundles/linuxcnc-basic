@@ -1,0 +1,23 @@
+# [TITLE]: linuxcnc-basic
+# [DESCRIPTION]: Separate bundle for linuxcnc
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+include(python-extras)
+
+# main CNC tool
+
+linuxcnc
+
+# dependencies
+
+include(gtk3)
+include(potrace)
+include(pycairo)
+include(pygobject)
+include(pypi-pyopengl)
+include(PyYAML)
+include(pypi-svg.path)
+include(tcl)
+include(tk)

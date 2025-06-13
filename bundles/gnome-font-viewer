@@ -13,3 +13,4 @@ include(libX11client)
 
 # main package
 gnome-font-viewer
+include(gnome-font-viewer-basic)

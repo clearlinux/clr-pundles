@@ -5,10 +5,10 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 include(cloud-api)
-include(git)
+include(git-basic)
 include(kvm-host)
 include(network-basic)
-include(openssl)
+include(openssl-basic)
 include(python3-basic)
 include(btrfs-progs)
 include(sudo)

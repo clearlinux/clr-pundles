@@ -1,0 +1,15 @@
+# [TITLE]: gnome-music-basic
+# [DESCRIPTION]: GNOME music player application with management features.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Multimedia and Graphics
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(python3-basic)
+include(libX11client)
+
+# start of custom additions (edits outside this area will be removed automatically)
+# end of custom additions
+
+# main package
+gnome-music

@@ -1,19 +1,10 @@
 # [TITLE]: synergy
-# [DESCRIPTION]: Keyboard and mouse sharing across networks.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Other
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(qt-core)
-include(qt-basic)
-include(libX11client)
-include(lib-openssl)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(postgresql)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(synergy-bin)
+include(synergy-data)
+include(synergy-license)
 synergy

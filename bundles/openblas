@@ -13,3 +13,4 @@ include(arpack-ng)
 
 # main package
 openblas
+include(openblas-basic)

@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 include(openblas-dev)
-include(openblas)
+include(openblas-basic)

@@ -1,10 +1,9 @@
 # [TITLE]: kicad-packages3D
-# [DESCRIPTION]: 3D parts model collection for KiCad
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Other
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(kicad)
-
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kicad-packages3D-data)
+include(kicad-packages3D-license)
 kicad-packages3D

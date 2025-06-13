@@ -19,7 +19,7 @@ include(akonadi-mime)
 include(akonadi-notes)
 include(akonadi-search)
 include(akonadiconsole)
-also-add(mariadb)
+also-add(mariadb-basic)
 # end of custom additions
 
 # main package

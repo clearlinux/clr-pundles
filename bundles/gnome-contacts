@@ -1,15 +1,13 @@
 # [TITLE]: gnome-contacts
-# [DESCRIPTION]: Contacts Manager for GNOME
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: Simental Magana, Marcos <marcos.simental.magana@intel.com>
-
-include(libX11client)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-contacts-bin)
+include(gnome-contacts-data)
+include(gnome-contacts-libexec)
+include(gnome-contacts-license)
+include(gnome-contacts-locales)
+include(gnome-contacts-man)
 gnome-contacts

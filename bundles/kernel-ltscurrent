@@ -7,7 +7,7 @@
 include(console-autostart)
 include(bootloader)
 include(linux-firmware)
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 include(os-core-plus)
 include(init-rdahead-extras)
 include(irqbalance)

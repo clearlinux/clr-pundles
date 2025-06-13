@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
-include(openssl)
+include(openssl-basic)
 include(openssh-client)
 
 include(ca-certs)
-include(gnupg)
+include(gnupg-basic)
 include(gnutls)
 include(nss-bin)
 include(pinentry)

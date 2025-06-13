@@ -18,3 +18,4 @@ include(geany-plugins)
 
 # main package
 geany
+include(geany-basic)

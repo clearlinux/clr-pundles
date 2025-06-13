@@ -13,10 +13,11 @@ include(swaybg)
 include(swayidle)
 include(swaylock)
 include(xdg-utils)
-also-add(mpv)
+also-add(mpv-basic)
 include(xdg-desktop-portal)
 include(xdg-desktop-portal-wlr)
 # end of custom additions
 
 # main package
 sway
+include(sway-basic)

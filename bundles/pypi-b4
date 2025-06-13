@@ -1,17 +1,11 @@
 # [TITLE]: pypi-b4
-# [DESCRIPTION]: A tool to work with public-inbox and patch archives
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(pypi-requests)
-include(pypi-pynacl)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(pypi-b4-bin)
+include(pypi-b4-license)
+include(pypi-b4-python)
+include(pypi-b4-python3)
 pypi-b4

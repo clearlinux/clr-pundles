@@ -1,17 +1,20 @@
 # [TITLE]: polkit
-# [DESCRIPTION]: Application development toolkit for controlling system-wide privileges.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Security
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(nettle-lib)
-include(gmp-lib)
-include(curl-basic)
-include(systemd-extras)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(duktape-lib)
+include(expat-lib)
+include(glib-lib)
+include(libc6)
+include(polkit-bin)
+include(polkit-config)
+include(polkit-data)
+include(polkit-lib)
+include(polkit-license)
+include(polkit-locales)
+include(polkit-services)
+include(polkit-setuid)
+include(systemd-extras-libsystemd)
 polkit

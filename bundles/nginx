@@ -1,17 +1,13 @@
 # [TITLE]: nginx
-# [DESCRIPTION]: HTTP server, reverse proxy, IMAP/POP3 proxy server.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Tools and Utilities
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(lib-openssl)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(systemd)
-include(pcre-lib)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(nginx-bin)
+include(nginx-config)
+include(nginx-data)
+include(nginx-lib)
+include(nginx-license)
+include(nginx-services)
 nginx

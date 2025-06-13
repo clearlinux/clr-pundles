@@ -1,0 +1,17 @@
+# [TITLE]: geary-basic
+# [DESCRIPTION]: A library full of GTK+ widgets for mobile phones
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Other
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libX11client)
+include(webkitgtk)
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(libunwind-lib)
+include(perl-basic)
+# end of custom additions
+
+# main package
+geary

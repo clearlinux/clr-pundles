@@ -12,3 +12,4 @@
 
 # main package
 net-tools
+include(net-tools-basic)

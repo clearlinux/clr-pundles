@@ -1,15 +1,12 @@
 # [TITLE]: mkosi
-# [DESCRIPTION]: Generate disk images.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Python
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(bmap-tools-bin)
+include(mkosi-bin)
+include(mkosi-license)
+include(mkosi-python)
+include(mkosi-python3)
 mkosi

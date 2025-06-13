@@ -1,26 +1,13 @@
 # [TITLE]: Solaar
-# [DESCRIPTION]: Device manager for Logitech's Unifying Receiver peripherals
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(nettle-lib)
-include(lib-imageformat)
-include(icu4c-lib)
-include(harfbuzz-lib)
-include(libX11client)
-include(gdk-pixbuf)
-include(dbus-lib)
-include(PyYAML)
-include(yaml)
-include(pypi-six)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(Solaar-config)
+include(Solaar-data)
+include(Solaar-license)
+include(Solaar-python)
+include(Solaar-python3)
+include(pyudev)
 Solaar

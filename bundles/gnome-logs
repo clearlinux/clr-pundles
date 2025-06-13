@@ -12,3 +12,4 @@ include(libX11client)
 
 # main package
 gnome-logs
+include(gnome-logs-basic)

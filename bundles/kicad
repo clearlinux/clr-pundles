@@ -1,27 +1,14 @@
 # [TITLE]: kicad
-# [DESCRIPTION]: KiCad EDA - Schematics capture and PCB design tools
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Other
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(aspell)
-include(curl-basic)
-include(dbus-lib)
-include(gdk-pixbuf)
-include(gmp-lib)
-include(gstreamer)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)
-include(lib-opengl)
-include(libX11client)
-include(libpsl-lib)
-include(libstdcpp)
-include(libxml2)
-include(nettle-lib)
-include(python3-basic)
-include(sqlite)
-include(webkitgtk)
-
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kicad-bin)
+include(kicad-data)
+include(kicad-lib)
+include(kicad-license)
+include(kicad-locales)
+include(kicad-python)
+include(kicad-python3)
 kicad

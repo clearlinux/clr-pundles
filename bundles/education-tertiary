@@ -12,7 +12,6 @@ include(qt-basic)
 include(R-basic)
 
 include(kalgebra)
-include(kmplot)
+include(kmplot-basic)
 include(kturtle)
-include(kde-frameworks5)
 include(protobuf-lib)

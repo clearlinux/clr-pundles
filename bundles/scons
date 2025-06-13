@@ -13,3 +13,4 @@ include(python3-basic)
 
 # main package
 scons
+include(scons-basic)

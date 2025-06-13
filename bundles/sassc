@@ -1,14 +1,9 @@
 # [TITLE]: sassc
-# [DESCRIPTION]: Wrapper tool for libsass.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libstdcpp)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(sassc-bin)
+include(sassc-license)
 sassc

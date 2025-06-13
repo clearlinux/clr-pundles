@@ -20,8 +20,7 @@ include(gphoto)
 include(libXpm-lib)
 include(opencv-python)
 include(libnl)
-include(openblas)
-include(kde-frameworks5)
+include(openblas-basic)
 include(perl-basic)
 # end of custom additions
 

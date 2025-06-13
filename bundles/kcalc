@@ -5,7 +5,6 @@
 # [TAGS]: Tools and Utilities, Productivity
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(kde-frameworks5)
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)
@@ -17,3 +16,4 @@ include(mpfr-lib)
 
 # main package
 kcalc
+include(kcalc-basic)

@@ -1,14 +1,10 @@
 # [TITLE]: makedepend
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(makedepend-bin)
+include(makedepend-license)
+include(makedepend-man)
 makedepend

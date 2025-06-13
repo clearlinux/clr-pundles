@@ -17,3 +17,4 @@ include(desktop-gnomelibs)
 
 # main package
 gnome-boxes
+include(gnome-boxes-basic)

@@ -1,15 +1,10 @@
 # [TITLE]: p7zip
-# [DESCRIPTION]: 7-zip file compression program
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(p7zip-bin)
+include(p7zip-libexec)
+include(p7zip-license)
 p7zip

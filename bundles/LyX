@@ -1,10 +1,12 @@
 # [TITLE]: LyX
-# [DESCRIPTION]: Document processor and WYSIWYM LaTeX editor.
-# [STATUS]: WIP
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Editor, Documentation
-# [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
-include(qt-basic)
-include(texlive)
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(LyX-bin)
+include(LyX-data)
+include(LyX-license)
+include(LyX-locales)
+include(LyX-man)
 LyX
-include(aspell)

@@ -1,16 +1,10 @@
 # [TITLE]: pypi-pygame
-# [DESCRIPTION]: Python Game Development
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-include(python3-basic)
-include(lib-imageformat)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(pypi-neat_python)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(pypi-pygame-license)
+include(pypi-pygame-python)
+include(pypi-pygame-python3)
 pypi-pygame

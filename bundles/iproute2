@@ -12,3 +12,4 @@
 
 # main package
 iproute2
+include(iproute2-basic)

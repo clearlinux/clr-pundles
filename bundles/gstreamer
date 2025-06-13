@@ -30,3 +30,4 @@ include(lib-imageformat)
 
 # main package
 gstreamer
+include(gstreamer-basic)

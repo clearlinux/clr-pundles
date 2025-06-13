@@ -1,22 +1,11 @@
 # [TITLE]: ntopng
-# [DESCRIPTION]: Network traffic probe that shows the network usage.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(lib-openssl)
-include(curl-basic)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libunwind-lib)
-include(libpcap-lib)
-include(libnl)
-include(python3-basic)
-include(perl-basic)
-include(lib-opengl)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(ntopng-bin)
+include(ntopng-data)
+include(ntopng-license)
+include(ntopng-man)
 ntopng

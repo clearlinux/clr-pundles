@@ -8,7 +8,7 @@ include(c-basic)
 include(cloud-api)
 include(python-extras)
 include(python-data-science)
-include(openmpi)
+include(openmpi-basic)
 #
 # Key ML frameworks and tools
 #
@@ -55,7 +55,7 @@ include(nose-parameterized)
 include(pypi-numpy)
 include(ocl-icd)
 include(devpkg-ocl-icd)
-include(openblas)
+include(openblas-basic)
 include(devpkg-opencv)
 include(opencv-python)
 include(openjdk-dev)

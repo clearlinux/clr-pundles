@@ -11,8 +11,8 @@ include(curl-basic)
 include(pcre-lib)
 include(lib-imageformat)
 include(wpa_supplicant)
-include(NetworkManager)
+include(NetworkManager-basic)
 # end of custom additions
 
 # main package
-include(NetworkManager-extras)
+include(NetworkManager-extras-basic)

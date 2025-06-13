@@ -13,3 +13,4 @@ include(libX11client)
 
 # main package
 gnome-screenshot
+include(gnome-screenshot-basic)

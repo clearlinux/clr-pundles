@@ -1,14 +1,11 @@
 # [TITLE]: gnome-clocks
-# [DESCRIPTION]: Clocks applications for GNOME
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: Simental Magana, Marcos <marcos.simental.magana@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gnome-clocks-bin)
+include(gnome-clocks-data)
+include(gnome-clocks-license)
+include(gnome-clocks-locales)
 gnome-clocks

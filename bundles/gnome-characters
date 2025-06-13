@@ -13,3 +13,4 @@ include(desktop-gnomelibs)
 
 # main package
 gnome-characters
+include(gnome-characters-basic)

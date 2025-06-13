@@ -21,3 +21,4 @@ include(lib-poppler)
 
 # main package
 gimp
+include(gimp-basic)

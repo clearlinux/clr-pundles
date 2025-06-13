@@ -1,17 +1,10 @@
 # [TITLE]: npb
-# [DESCRIPTION]: NAS Parallel Benchmarks
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-also-add(modules)
-include(libstdcpp)
-include(perl-basic)
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(npb-bin)
+include(npb-openmpi)
 include(openmpi)
-# end of custom additions
-
-# main package
 npb

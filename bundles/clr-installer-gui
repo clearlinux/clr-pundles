@@ -6,7 +6,7 @@
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(clr-installer-basic)
 include(desktop-gnomelibs)
-include(gparted)
-include(NetworkManager)
+include(gparted-basic)
+include(NetworkManager-basic)
 
 include(clr-installer-extras)

@@ -9,10 +9,10 @@
 include(createrepo_c)
 
 # Git history support
-include(git)
+include(git-basic)
 
 # Builtin signature support
-include(openssl)
+include(openssl-basic)
 
 # Fullfiles compression
 include(gzip)

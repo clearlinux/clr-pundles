@@ -12,3 +12,4 @@
 
 # main package
 joe
+include(joe-basic)

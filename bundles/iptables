@@ -13,3 +13,4 @@ include(systemd)
 
 # main package
 iptables
+include(iptables-basic)

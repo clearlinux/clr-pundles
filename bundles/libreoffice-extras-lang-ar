@@ -1,9 +1,8 @@
 # [TITLE]: libreoffice-extras-lang-ar
-# [DESCRIPTION]: Arabic language support for LibreOffice.
-# [STATUS]: WIP
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Productivity
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+# [TAGS]:
+# [MAINTAINER]: pundle
 
-include(libreoffice)
 libreoffice-extras-lang-ar

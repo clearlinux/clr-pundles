@@ -19,3 +19,4 @@ include(dav1d-lib)
 
 # main package
 mpv
+include(mpv-basic)

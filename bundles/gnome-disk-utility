@@ -14,3 +14,4 @@ include(desktop-gnomelibs)
 
 # main package
 gnome-disk-utility
+include(gnome-disk-utility-basic)

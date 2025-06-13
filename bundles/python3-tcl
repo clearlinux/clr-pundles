@@ -1,16 +1,12 @@
 # [TITLE]: python3-tcl
-# [DESCRIPTION]: Python 3 TCL/TK support.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Programming Languages, Developer Tools
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(python3-basic)
-
-# start of custom additions
-include(tcl-basic)
-include(idle-python3.7-assets)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(python3-core)
+include(python3-lib)
+include(tcl-lib)
+include(tk-extras)
 python3-tcl

@@ -1,15 +1,12 @@
 # [TITLE]: intltool
-# [DESCRIPTION]: Utility scripts for internationalizing XML.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Perl
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(intltool-dev)
-include(perl-basic)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(intltool-bin)
+include(intltool-data)
+include(intltool-license)
+include(intltool-man)
+include(perl-XML-Parser-perl)
 intltool

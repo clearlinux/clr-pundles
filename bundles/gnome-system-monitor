@@ -14,3 +14,4 @@ include(libstdcpp)
 
 # main package
 gnome-system-monitor
+include(gnome-system-monitor-basic)

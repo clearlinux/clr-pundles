@@ -1,9 +1,20 @@
 # [TITLE]: linux-dev
-# [DESCRIPTION]: Files for building modules against the native kernel.
-# [STATUS]: WIP
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Kernel
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(elfutils-lib)
+include(filesystem)
+include(gawk-bin)
+include(libc6)
+include(linux)
+include(linux-extra)
+include(linux-license)
+include(make-bin)
+include(openssl-lib)
+include(perl-bin)
+include(python3-core)
+include(zlib-lib)
 linux-dev
-include(perl-basic)
-include(systemd)

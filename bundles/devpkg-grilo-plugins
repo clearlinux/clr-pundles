@@ -8,7 +8,7 @@
 include(devpkg-base)
 
 include(grilo-plugins-dev)
-include(gstreamer)
+include(gstreamer-basic)
 include(libpsl-lib)
 include(webkitgtk)
 include(libevent-lib)

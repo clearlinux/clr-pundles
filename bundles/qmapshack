@@ -1,25 +1,11 @@
 # [TITLE]: qmapshack
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(qt-core)
-include(qt-basic)
-include(lib-imageformat)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(not-ffmpeg-lib)
-include(lib-openssl)
-include(libssh-lib)
-include(numactl)
-include(libevent-lib)
-include(dav1d-lib)
-# include(lib-qt5webengine)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(qmapshack-bin)
+include(qmapshack-data)
+include(qmapshack-license)
+include(qmapshack-man)
 qmapshack

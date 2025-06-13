@@ -1,19 +1,10 @@
 # [TITLE]: netcdf-fortran
-# [DESCRIPTION]: NetCDF Client Library for Fortran
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(libevent-lib)
-include(dbus-lib)
-include(curl-basic)
-include(libstdcpp)
-include(netcdf-fortran-dev)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(netcdf-fortran-bin)
+include(netcdf-fortran-lib)
+include(netcdf-fortran-license)
 netcdf-fortran

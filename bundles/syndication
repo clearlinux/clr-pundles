@@ -20,3 +20,4 @@ include(gdk-pixbuf)
 
 # main package
 syndication
+include(syndication-basic)

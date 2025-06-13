@@ -1,19 +1,11 @@
 # [TITLE]: openvino
-# [DESCRIPTION]: OpenVINO runtime libraries and plugins
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(python3-basic)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(protobuf-lib)
-include(pypi-numpy)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(openvino-lib)
+include(openvino-license)
+include(openvino-python)
+include(openvino-python3)
 openvino

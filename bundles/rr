@@ -1,15 +1,11 @@
 # [TITLE]: rr
-# [DESCRIPTION]: Lightweight tool for recording and replaying execution of applications (trees of processes and threads)
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(rr-bin)
+include(rr-data)
+include(rr-lib)
+include(rr-license)
 rr

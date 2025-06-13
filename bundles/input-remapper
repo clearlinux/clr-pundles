@@ -1,22 +1,19 @@
 # [TITLE]: input-remapper
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(nettle-lib)
-include(lib-imageformat)
-include(icu4c-lib)
-include(harfbuzz-lib)
-include(libX11client)
-include(gdk-pixbuf)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(input-remapper-bin)
+include(input-remapper-config)
+include(input-remapper-data)
+include(input-remapper-license)
+include(input-remapper-python)
+include(input-remapper-python3)
+include(input-remapper-services)
+include(pygobject)
+include(pypi-evdev-python3)
+include(pypi-pydantic-python3)
+include(pypi-pydantic_core-python3)
+include(pypi-pydbus-python3)
 input-remapper

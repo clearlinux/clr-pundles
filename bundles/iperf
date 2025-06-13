@@ -1,15 +1,11 @@
 # [TITLE]: iperf
-# [DESCRIPTION]: Internet protocol tool for measuring network performance.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Networking
-# [MAINTAINER]: Wang,Long <long1.wang@intel.com>
-
-include(lib-openssl)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(iperf-bin)
+include(iperf-lib)
+include(iperf-license)
+include(iperf-man)
 iperf

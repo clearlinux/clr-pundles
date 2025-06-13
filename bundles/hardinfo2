@@ -24,3 +24,4 @@ also-add(firmware-update)
 
 # main package
 hardinfo2
+include(hardinfo2-basic)

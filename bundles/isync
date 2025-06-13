@@ -1,16 +1,10 @@
 # [TITLE]: isync
-# [DESCRIPTION]: Utility to synchronize IMAP mailboxes with local maildir folders
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(lib-openssl)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(openldap)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(isync-bin)
+include(isync-license)
+include(isync-man)
 isync

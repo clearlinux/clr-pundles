@@ -14,3 +14,4 @@ include(thermal_daemon-autostart)
 
 # main package
 thermal_daemon
+include(thermal_daemon-basic)

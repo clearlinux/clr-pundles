@@ -14,3 +14,4 @@ include(popt-lib)
 
 # main package
 rsync
+include(rsync-basic)

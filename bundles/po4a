@@ -1,14 +1,15 @@
 # [TITLE]: po4a
-# [DESCRIPTION]: PO for anything: Maintain the translations of your documentation
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(perl-basic)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(perl-Pod-Parser-perl)
+include(perl-SGMLS-perl)
+include(perl-YAML-Tiny-perl)
+include(po4a-bin)
+include(po4a-license)
+include(po4a-locales)
+include(po4a-man)
+include(po4a-perl)
 po4a

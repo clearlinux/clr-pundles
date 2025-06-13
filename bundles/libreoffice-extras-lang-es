@@ -1,9 +1,11 @@
 # [TITLE]: libreoffice-extras-lang-es
-# [DESCRIPTION]: Spanish language support for LibreOffice.
-# [STATUS]: WIP
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Productivity
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(libreoffice)
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(libc6)
+include(libgcc1)
+include(libreoffice-lib)
+include(libstdc++)
 libreoffice-extras-lang-es

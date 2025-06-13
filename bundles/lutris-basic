@@ -1,0 +1,25 @@
+# [TITLE]: lutris-basic
+# [DESCRIPTION]: Install and play any video game easily
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+include(python3-basic)
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(PyYAML)
+include(curl-basic)
+include(gdk-pixbuf)
+include(gstreamer-basic)
+include(lib-imageformat)
+include(lib-opengl)
+include(libX11client)
+include(openldap)
+include(p7zip)
+include(pypi-requests)
+include(xz-lzma-i-accept-the-risks)
+# end of custom additions
+
+# main package
+lutris

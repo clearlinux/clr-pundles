@@ -1,18 +1,11 @@
 # [TITLE]: RawTherapee
-# [DESCRIPTION]: A powerful cross-platform raw photo processing program.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libX11client)
-include(lib-imageformat)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(lensfun)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(RawTherapee-bin)
+include(RawTherapee-data)
+include(RawTherapee-license)
+include(RawTherapee-man)
 RawTherapee

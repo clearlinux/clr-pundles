@@ -12,3 +12,4 @@
 
 # main package
 patch
+include(patch-basic)

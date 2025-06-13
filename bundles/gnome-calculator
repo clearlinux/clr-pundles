@@ -13,3 +13,4 @@ include(mpfr-lib)
 
 # main package
 gnome-calculator
+include(gnome-calculator-basic)

@@ -1,19 +1,13 @@
 # [TITLE]: howdy
-# [DESCRIPTION]: Windows Hello™ style authentication for Linux
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(sqlite)
-include(lib-imageformat)
-include(libstdcpp)
-include(libX11client)
-include(python3-basic)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(coreutils-bin)
+include(dlib)
+include(howdy-bin)
+include(howdy-data)
+include(howdy-license)
+include(pam-python)
 howdy

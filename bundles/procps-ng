@@ -1,15 +1,12 @@
 # [TITLE]: procps-ng
-# [DESCRIPTION]: Library to control and query process state
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(ncurses-lib)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(procps-ng-bin)
+include(procps-ng-lib)
+include(procps-ng-license)
+include(procps-ng-locales)
+include(procps-ng-man)
 procps-ng

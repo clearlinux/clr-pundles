@@ -1,15 +1,13 @@
 # [TITLE]: spice-vdagent
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-
-include(libX11client)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(spice-vdagent-bin)
+include(spice-vdagent-config)
+include(spice-vdagent-data)
+include(spice-vdagent-license)
+include(spice-vdagent-man)
+include(spice-vdagent-services)
 spice-vdagent

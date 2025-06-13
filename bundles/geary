@@ -15,3 +15,4 @@ include(perl-basic)
 
 # main package
 geary
+include(geary-basic)

@@ -1,15 +1,15 @@
 # [TITLE]: gpaste
-# [DESCRIPTION]: Clipboard management system
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Productivity, Tools and Utilities
-# [MAINTAINER]: Simental Magana, Marcos <marcos.simental.magana@intel.com>
-
-include(libX11client)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(gpaste-bin)
+include(gpaste-data)
+include(gpaste-lib)
+include(gpaste-libexec)
+include(gpaste-license)
+include(gpaste-locales)
+include(gpaste-man)
+include(gpaste-services)
 gpaste

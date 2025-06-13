@@ -15,3 +15,4 @@ include(libstdcpp)
 
 # main package
 gnome-color-manager
+include(gnome-color-manager-basic)

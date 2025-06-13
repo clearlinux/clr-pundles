@@ -1,22 +1,16 @@
 # [TITLE]: nut
-# [DESCRIPTION]: Power devices discovery with Network UPS Tools
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(python3-basic)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(pcre-lib)
-include(libnl)
-include(gmp-lib)
-include(dbus-lib)
-include(curl-basic)
-include(systemd)
-include(perl-basic)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(filesystem)
+include(nut-bin)
+include(nut-config)
+include(nut-data)
+include(nut-lib)
+include(nut-libexec)
+include(nut-license)
+include(nut-man)
+include(nut-services)
 nut

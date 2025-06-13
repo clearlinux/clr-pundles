@@ -18,3 +18,4 @@ include(opencv-python)
 
 # main package
 spectacle
+include(spectacle-basic)

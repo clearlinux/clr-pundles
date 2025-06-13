@@ -1,0 +1,28 @@
+# [TITLE]: NetworkManager-extras-basic
+# [DESCRIPTION]: NetworkManager plugins and desktop integration
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities, Networking
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(NetworkManager-basic)
+
+include(openldap)
+include(wpa_supplicant)
+include(python3-basic)
+# for usbmodeswitcher
+include(tcl-basic)
+include(libreswan)
+include(linux-firmware-wifi)
+include(ModemManager)
+include(network-manager-applet)
+include(NetworkManager-l2tp)
+include(NetworkManager-openconnect)
+include(NetworkManager-openvpn)
+include(NetworkManager-vpnc)
+include(usb-modeswitch)
+include(usb-modeswitch-data)
+include(xl2tpd)
+include(libevent-lib)
+include(lz4)
+include(webkitgtk)

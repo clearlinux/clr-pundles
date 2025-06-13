@@ -16,3 +16,4 @@ include(pypi-requests)
 
 # main package
 kapidox
+include(kapidox-basic)

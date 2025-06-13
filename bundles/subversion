@@ -1,17 +1,13 @@
 # [TITLE]: subversion
-# [DESCRIPTION]: Version Control System.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Perl
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(sqlite)
-include(lz4)
-include(openldap)
-include(perl-basic)
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(subversion-bin)
+include(subversion-lib)
+include(subversion-license)
+include(subversion-locales)
+include(subversion-man)
+include(subversion-perl)
 subversion

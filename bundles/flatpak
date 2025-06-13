@@ -14,10 +14,10 @@ include(libpsl-lib)
 include(lz4)
 include(audio-pipewire)
 include(flatpak-builder)
-include(git)
+include(git-basic)
 include(libstdcpp)
 include(librsvg)
-include(gnupg)
+include(gnupg-basic)
 # end of custom additions
 
 # main package

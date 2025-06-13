@@ -1,17 +1,10 @@
 # [TITLE]: protobuf
-# [DESCRIPTION]: Protocol Buffers - Google's data interchange format
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(python3-basic)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
+# [MAINTAINER]: pundle
+include(protobuf-bin)
 include(protobuf-lib)
-
-# end of custom additions
-
-# main package
+include(protobuf-license)
 protobuf

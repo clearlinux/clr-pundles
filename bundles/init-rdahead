@@ -12,3 +12,4 @@ include(init-rdahead-extras)
 
 # main package
 init-rdahead
+include(init-rdahead-basic)
