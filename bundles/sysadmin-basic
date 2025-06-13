@@ -10,7 +10,7 @@ include(iproute2)
 include(p11-kit)
 include(sudo)
 include(which)
-acpica-unix2
+include(acpica-unix2)
 
 include(accel-config)
 include(aspell-en)

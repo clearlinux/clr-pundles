@@ -1,16 +1,13 @@
 # [TITLE]: devhelp
-# [DESCRIPTION]: API documentation browser for GNOME
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Simental Magana, Marcos <marcos.simental.magana@intel.com>
-
-include(libX11client)
-include(webkitgtk)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(devhelp-bin)
+include(devhelp-data)
+include(devhelp-lib)
+include(devhelp-license)
+include(devhelp-locales)
+include(devhelp-man)
 devhelp

@@ -1,18 +1,13 @@
 # [TITLE]: eid-mw
-# [DESCRIPTION]: The middleware, viewer and Firefox extension for the Belgian electronic identity card (Belgian eID)
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(libX11client)
-include(lib-openssl)
-include(curl)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(eid-mw-bin)
+include(eid-mw-data)
+include(eid-mw-lib)
+include(eid-mw-libexec)
+include(eid-mw-license)
+include(eid-mw-locales)
 eid-mw

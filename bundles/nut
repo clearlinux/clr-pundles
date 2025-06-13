@@ -13,7 +13,7 @@ include(pcre-lib)
 include(libnl)
 include(gmp-lib)
 include(dbus-lib)
-include(curl)
+include(curl-basic)
 include(systemd)
 include(perl-basic)
 # end of custom additions

@@ -22,3 +22,4 @@ include(gnupg)
 
 # main package
 flatpak
+include(flatpak-basic)

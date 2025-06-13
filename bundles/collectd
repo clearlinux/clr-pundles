@@ -6,7 +6,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(lib-openssl)
-include(curl)
+include(curl-basic)
 include(openldap)
 
 # start of custom additions (edits outside this area will be removed automatically)
@@ -23,3 +23,4 @@ include(perl-basic)
 
 # main package
 collectd
+include(collectd-basic)

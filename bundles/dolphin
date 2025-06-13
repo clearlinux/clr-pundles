@@ -16,3 +16,4 @@ include(dolphin-plugins)
 
 # main package
 dolphin
+include(dolphin-basic)

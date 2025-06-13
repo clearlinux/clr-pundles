@@ -27,3 +27,4 @@ include(perl-basic)
 
 # main package
 digikam
+include(digikam-basic)

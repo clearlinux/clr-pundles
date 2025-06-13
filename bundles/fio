@@ -13,3 +13,4 @@ include(numactl)
 
 # main package
 fio
+include(fio-basic)

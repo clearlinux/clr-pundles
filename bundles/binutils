@@ -16,8 +16,9 @@ include(libstdcpp)
 # include(lib-imageformat)
 include(libstdcpp)
 include(clr-debug-info)
-include(curl)
+include(curl-basic)
 # end of custom additions
 
 # main package
 binutils
+include(binutils-basic)

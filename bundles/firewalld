@@ -16,3 +16,4 @@ include(pygobject)
 
 # main package
 firewalld
+include(firewalld-basic)

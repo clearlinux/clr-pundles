@@ -18,3 +18,4 @@ include(systemd)
 
 # main package
 evolution
+include(evolution-basic)

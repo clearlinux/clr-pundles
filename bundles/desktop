@@ -133,7 +133,7 @@ include(xdg-utils)
 
 # Applications
 include(evolution-data-server)
-also-add(flatpak)
+also-add(flatpak-basic)
 also-add(gimp)
 include(gnome-bluetooth)
 include(gnome-calendar)

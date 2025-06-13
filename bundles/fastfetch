@@ -1,14 +1,11 @@
 # [TITLE]: fastfetch
-# [DESCRIPTION]: No detailed summary available
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(ddcutil)
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(fastfetch-bin)
+include(fastfetch-data)
+include(fastfetch-license)
+include(fastfetch-man)
 fastfetch

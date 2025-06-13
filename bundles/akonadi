@@ -24,3 +24,4 @@ also-add(mariadb)
 
 # main package
 akonadi
+include(akonadi-basic)

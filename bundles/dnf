@@ -15,10 +15,11 @@ include(libarchive)
 include(file)
 include(perl-basic)
 include(gpgme)
-include(curl)
+include(curl-basic)
 include(rpm)
 include(gpgme-python3)
 # end of custom additions
 
 # main package
 dnf
+include(dnf-basic)

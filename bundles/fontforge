@@ -1,18 +1,15 @@
 # [TITLE]: fontforge
-# [DESCRIPTION]: Outline and bitmap font editor.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics, Tools and Utilities
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(python3-basic)
-include(libX11client)
-include(lib-imageformat)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fontforge-bin)
+include(fontforge-data)
+include(fontforge-lib)
+include(fontforge-license)
+include(fontforge-locales)
+include(fontforge-man)
+include(fontforge-python)
+include(fontforge-python3)
 fontforge

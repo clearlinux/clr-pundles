@@ -1,17 +1,12 @@
 # [TITLE]: dino
-# [DESCRIPTION]: Modern XMPP ("Jabber") Chat Client using GTK+/Vala
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libX11client)
-include(qt-basic)
-# start of custom additions (edits outside this area will be removed automatically)
-include(libpsl-lib)
-include(icu4c-lib)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(dino-bin)
+include(dino-data)
+include(dino-lib)
+include(dino-license)
+include(dino-locales)
 dino

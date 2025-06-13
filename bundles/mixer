@@ -20,12 +20,12 @@ include(zstd)
 include(bzip2)
 
 # Build
-include(dnf)
+include(dnf-basic)
 include(cpio)
 include(rpm)
 include(bsdiff)
 
 # Image Creation
-include(clr-installer)
+include(clr-installer-basic)
 
 include(mixer-tools)

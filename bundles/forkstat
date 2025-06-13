@@ -1,13 +1,11 @@
 # [TITLE]: forkstat
-# [DESCRIPTION]: monitor process fork, exec, exit calls
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Colin Ian King <colin.king@intel.com>
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(forkstat-bin)
+include(forkstat-data)
+include(forkstat-license)
+include(forkstat-man)
 forkstat

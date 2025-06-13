@@ -4,9 +4,9 @@
 # [CAPABILITIES]: TAP testing, HTTP requests, PTY automation, and various file utilities
 # [TAGS]: Developer Tools
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
-include(binutils)
-include(clamav)
-include(curl)
+include(binutils-basic)
+include(clamav-basic)
+include(curl-basic)
 include(diffutils)
 include(file)
 include(git)

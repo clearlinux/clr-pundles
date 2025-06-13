@@ -8,6 +8,6 @@
 include(devpkg-base)
 
 include(librepo-dev)
-include(curl)
+include(curl-basic)
 include(qt-core)
 include(icu4c-lib)

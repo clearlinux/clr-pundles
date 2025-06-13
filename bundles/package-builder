@@ -4,13 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: California Sullivan <california.l.sullivan@intel.com>
-include(curl)
+include(curl-basic)
 include(diffutils)
 include(git)
 include(package-utils)
 include(sudo)
 include(Sphinx)
-include(dnf)
+include(dnf-basic)
 
 # common requirements
 include(cpio)
@@ -22,7 +22,7 @@ include(zstd)
 include(gpgme)
 # autospec requirements
 include(abireport)
-include(binutils)
+include(binutils-basic)
 include(pypi-chardet)
 include(pypi-clr_artifact)
 include(gnupg)

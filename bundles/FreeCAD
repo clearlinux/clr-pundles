@@ -1,18 +1,13 @@
 # [TITLE]: FreeCAD
-# [DESCRIPTION]: A general purpose 3D CAD modeler
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(python3-basic)
-include(qt-core)
-include(qt-basic)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [MAINTAINER]: pundle
+include(FreeCAD-bin)
+include(FreeCAD-data)
+include(FreeCAD-lib)
+include(FreeCAD-license)
+include(FreeCAD-python)
+include(FreeCAD-python3)
 FreeCAD

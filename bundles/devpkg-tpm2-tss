@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 include(tpm2-tss-dev)
-include(curl)
+include(curl-basic)

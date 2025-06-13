@@ -27,3 +27,4 @@ include(perl-basic)
 
 # main package
 cockpit
+include(cockpit-basic)

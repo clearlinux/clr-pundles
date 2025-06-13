@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 include(cfitsio-dev)
-include(curl)
+include(curl-basic)

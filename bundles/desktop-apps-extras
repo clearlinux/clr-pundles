@@ -11,7 +11,7 @@ include(qt-basic)
 #
 # Apps that are also pundles
 #
-also-add(darktable)
+also-add(darktable-basic)
 also-add(geany)
 also-add(gimp)
 also-add(gphoto2)
@@ -28,7 +28,7 @@ also-add(vinagre)
 also-add(virt-manager-gui)
 also-add(virt-viewer)
 #also-add(vlc)
-also-add(FreeRDP)
+also-add(FreeRDP-basic)
 
 #
 # Non-pundle apps

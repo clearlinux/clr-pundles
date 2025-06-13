@@ -9,7 +9,7 @@ include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)
 also-add(sxiv)
-also-add(feh)
+also-add(feh-basic)
 include(dmenu)
 include(rofi)
 include(xdg-utils)
@@ -17,3 +17,4 @@ include(xdg-utils)
 
 # main package
 bspwm
+include(bspwm-basic)

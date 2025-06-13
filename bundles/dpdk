@@ -18,3 +18,4 @@ include(python3-basic)
 
 # main package
 dpdk
+include(dpdk-basic)

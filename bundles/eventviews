@@ -18,3 +18,4 @@ include(kmime)
 
 # main package
 eventviews
+include(eventviews-basic)

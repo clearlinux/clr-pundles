@@ -5,7 +5,7 @@
 # [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: Shirley, Zhao <shirley.zhao@intel.com>
 include(lib-openssl)
-include(curl)
+include(curl-basic)
 
 include(tpm2-abrmd)
 include(tpm2-tools)

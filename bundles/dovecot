@@ -18,3 +18,4 @@ include(pigeonhole-doc)
 
 # main package
 dovecot
+include(dovecot-basic)

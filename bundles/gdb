@@ -15,7 +15,7 @@ include(icu4c-lib)
 include(python3-basic)
 include(libstdcpp)
 include(clr-debug-info)
-include(curl)
+include(curl-basic)
 # end of custom additions
 
 # main package

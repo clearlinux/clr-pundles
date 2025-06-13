@@ -1,14 +1,10 @@
 # [TITLE]: fortune-mod
-# [DESCRIPTION]: fortune is a program that displays a pseudo random message.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Other
-# [MAINTAINER]: Leandro Dorileo <leandro.maciel.dorileo@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(fortune-mod-bin)
+include(fortune-mod-data)
+include(fortune-mod-man)
 fortune-mod

@@ -16,3 +16,4 @@ include(lib-poppler)
 
 # main package
 evince
+include(evince-basic)

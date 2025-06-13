@@ -1,0 +1,22 @@
+# [TITLE]: ansible-basic
+# [DESCRIPTION]: IT automation tool with software provisioning, configuration management, and application deployment.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Productivity, Tools and Utilities
+# [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
+include(ipmitool)
+include(openssh-client)
+include(python3-basic)
+include(ansible-core)
+ansible
+# ansible deps
+include(PyMySQL)
+include(pypi-backports.ssl_match_hostname)
+include(pypi-docker)
+include(netaddr)
+# End ansible deps
+include(pypi-pynacl)
+include(pypi-six)
+include(pypi-requests)
+include(PyYAML)
+include(cloud-api)

@@ -11,7 +11,7 @@ include(python3-basic)
 include(perl-basic)
 include(btrfs-progs)
 
-acpica-unix2
+include(acpica-unix2)
 include(btrfs-progs)
 include(docbook-xml)
 include(f2fs-tools)

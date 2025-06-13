@@ -9,5 +9,5 @@ include(devpkg-base)
 
 include(flatpak-dev)
 include(libX11client)
-include(curl)
-include(flatpak)
+include(curl-basic)
+include(flatpak-basic)

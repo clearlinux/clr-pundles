@@ -21,3 +21,4 @@ include(pulseaudio)
 
 # main package
 FreeRDP
+include(FreeRDP-basic)

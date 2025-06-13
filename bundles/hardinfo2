@@ -10,7 +10,7 @@
 include(icu4c-lib)
 include(lib-openssl)
 include(libpsl-lib)
-include(curl)
+include(curl-basic)
 include(qt-basic)
 include(qt-core)
 include(iperf)

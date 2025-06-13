@@ -1,14 +1,12 @@
 # [TITLE]: diffutils
-# [DESCRIPTION]: Tools for file comparisons and differences, creating patch files.
-# [STATUS]: Active
+# [DESCRIPTION]:
+# [STATUS]:
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(diffutils-bin)
+include(diffutils-info)
+include(diffutils-license)
+include(diffutils-locales)
+include(diffutils-man)
 diffutils
