@@ -6,4 +6,5 @@
 # [MAINTAINER]: pundle
 include(gramps-data)
 include(gramps-license)
+include(python3-core)
 gramps-bin
