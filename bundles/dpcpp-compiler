@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(SPIRV-Tools-lib)
+include(compat-libxml2-soname2-lib)
 include(coreutils-bin)
 include(dpcpp-compiler-bin)
 include(dpcpp-compiler-data)
@@ -13,7 +15,7 @@ include(libc6)
 include(libedit-lib)
 include(libgcc1)
 include(libstdc++)
-include(libxml2-lib)
+include(ncurses-lib)
 include(ocl-icd-lib)
 include(zlib-lib)
 dpcpp-compiler
