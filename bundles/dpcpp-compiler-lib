@@ -10,6 +10,6 @@ include(level-zero-lib)
 include(libc6)
 include(libgcc1)
 include(libstdc++)
-include(ncurses-lib)
+include(unified-memory-framework-lib)
 include(zlib-lib)
 dpcpp-compiler-lib

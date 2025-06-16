@@ -5,9 +5,9 @@
 # [TAGS]: Tools and Utilities, Editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # Run time requirement as vim is compiled to use libpython
-also-add(emacs)
+include(emacs)
 also-add(joe-basic)
-also-add(vim)
+include(vim)
 include(ctags)
 include(ed)
 include(nano)

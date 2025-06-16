@@ -1,0 +1,9 @@
+# [TITLE]: kimageformats-dev
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(kimageformats)
+include(kimageformats-lib)
+kimageformats-dev

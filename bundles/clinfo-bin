@@ -5,6 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(clinfo-license)
+include(dpcpp-compiler-lib)
 include(libc6)
-include(ocl-icd-lib)
 clinfo-bin
