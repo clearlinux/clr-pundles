@@ -5,7 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(alsa-lib-lib)
-include(dpcpp-compiler-lib)
 include(gcc-libgcc32)
 include(glibc-libc32)
 include(libX11-lib)
@@ -15,6 +14,7 @@ include(libgcc1)
 include(libgphoto2-lib)
 include(libxkbcommon-lib)
 include(libxkbcommon-lib32)
+include(ocl-icd-lib)
 include(pulseaudio-lib)
 include(pulseaudio-lib32)
 include(sane-backends-lib)

@@ -5,10 +5,10 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(abseil-cpp-lib)
-include(dpcpp-compiler-lib)
 include(libc6)
 include(libgcc1)
 include(libstdc++)
+include(ocl-icd-lib)
 include(openvino-license)
 include(protobuf-lib)
 include(snappy-lib)
