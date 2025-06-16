@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(pypi-aiodns-license)
 include(pypi-aiodns-python)
 include(pypi-aiodns-python3)
 pypi-aiodns
