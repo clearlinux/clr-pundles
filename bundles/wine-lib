@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(alsa-lib-lib)
+include(gcc-libgcc32)
 include(glibc-libc32)
 include(libX11-lib)
 include(libX11-lib32)
