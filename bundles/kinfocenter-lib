@@ -20,4 +20,5 @@ include(libusb-lib)
 include(qt6base-lib)
 include(qt6declarative-lib)
 include(solid-lib)
+include(systemd-lib)
 kinfocenter-lib
