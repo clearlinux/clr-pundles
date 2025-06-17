@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(kcmutils-lib)
 include(kcolorscheme-lib)
 include(kconfig-lib)
 include(kcoreaddons-lib)
