@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pypi-cachetools-license)
 include(pypi-cachetools-python)
 include(pypi-cachetools-python3)
 pypi-cachetools

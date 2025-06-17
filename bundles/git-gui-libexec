@@ -6,4 +6,6 @@
 # [MAINTAINER]: pundle
 include(filesystem)
 include(git-gui-license)
+include(libc6)
+include(zlib-lib)
 git-gui-libexec

@@ -6,6 +6,5 @@
 # [MAINTAINER]: pundle
 include(libc6)
 include(libgcc1)
-include(openssl-lib)
 include(python3-core)
 pypi-hf_xet-python3
