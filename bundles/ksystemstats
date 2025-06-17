@@ -10,4 +10,6 @@ include(ksystemstats-lib)
 include(ksystemstats-license)
 include(ksystemstats-locales)
 include(ksystemstats-services)
+include(libc6)
+include(libstdc++)
 ksystemstats
