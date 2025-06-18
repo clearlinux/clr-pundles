@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(pypi-latexcodec-license)
 include(pypi-latexcodec-python)
 include(pypi-latexcodec-python3)
 pypi-latexcodec
