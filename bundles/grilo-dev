@@ -11,4 +11,5 @@ include(grilo-data)
 include(grilo-dev)
 include(grilo-lib)
 include(libxml2-dev)
+include(pkg-config-bin)
 grilo-dev

@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pkg-config-bin)
 include(yelp-xsl)
 include(yelp-xsl-data)
 yelp-xsl-dev
