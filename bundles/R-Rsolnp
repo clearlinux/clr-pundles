@@ -4,5 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(R-Rcpp)
+include(R-RcppArmadillo)
+include(R-Rsolnp-lib)
+include(R-future.apply)
+include(R-numDeriv)
 include(R-truncnorm)
 R-Rsolnp
