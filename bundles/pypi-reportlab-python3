@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(pypi-chardet-python3)
+include(pypi-charset_normalizer-python3)
 include(pypi-freetype_py-python3)
 include(pypi-pillow-python3)
 include(pypi-rlpycairo-python3)
