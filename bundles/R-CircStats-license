@@ -1,8 +1,8 @@
-# [TITLE]: R-CircStats
+# [TITLE]: R-CircStats-license
 # [DESCRIPTION]:
 # [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(R-CircStats-license)
-R-CircStats
+
+R-CircStats-license
