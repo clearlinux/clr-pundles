@@ -5,10 +5,10 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(bzip2-lib)
-include(compat-libxml2-soname2-lib)
 include(glib-lib)
 include(gtk3-lib)
 include(libc6)
+include(libxml2-lib)
 include(libxslt-lib)
 include(sqlite-autoconf-lib)
 include(webkitgtk-lib)
