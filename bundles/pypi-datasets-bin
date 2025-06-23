@@ -1,9 +1,0 @@
-# [TITLE]: pypi-datasets-bin
-# [DESCRIPTION]:
-# [STATUS]:
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: pundle
-include(pypi-datasets-license)
-include(python3-core)
-pypi-datasets-bin
