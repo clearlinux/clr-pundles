@@ -5,6 +5,5 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(pypi-sphinx-python3)
-include(pypi-tabulate-python3)
 include(python3-core)
 pypi-numpydoc-python3
