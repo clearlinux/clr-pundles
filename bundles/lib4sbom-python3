@@ -6,6 +6,8 @@
 # [MAINTAINER]: pundle
 include(PyYAML-python3)
 include(defusedxml-python3)
+include(pypi-jsonschema-python3)
 include(pypi-semantic_version-python3)
+include(pypi-xmlschema-python3)
 include(python3-core)
 lib4sbom-python3
