@@ -5,4 +5,5 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(R-webfakes-lib)
+include(filesystem)
 R-webfakes
