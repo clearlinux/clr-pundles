@@ -1,8 +1,8 @@
-# [TITLE]: R-permute
+# [TITLE]: R-permute-license
 # [DESCRIPTION]:
 # [STATUS]:
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
-include(R-permute-license)
-R-permute
+
+R-permute-license
