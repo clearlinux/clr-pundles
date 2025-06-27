@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(glib-lib)
+include(gst-plugins-bad-lib)
 include(libc6)
 include(python3-core)
 gst-python-python3
