@@ -21,4 +21,5 @@ include(lua-lib)
 include(ncurses-lib)
 include(pango-lib)
 include(python3-lib)
+include(wayland-lib)
 gvim-bin
