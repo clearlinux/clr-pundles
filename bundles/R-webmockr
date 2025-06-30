@@ -6,7 +6,6 @@
 # [MAINTAINER]: pundle
 include(R-R6)
 include(R-cli)
-include(R-crul)
 include(R-curl)
 include(R-fauxpas)
 include(R-jsonlite)
