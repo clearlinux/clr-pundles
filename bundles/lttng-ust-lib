@@ -7,5 +7,4 @@
 include(libc6)
 include(lttng-ust-license)
 include(numactl-lib)
-include(userspace-rcu-lib)
 lttng-ust-lib

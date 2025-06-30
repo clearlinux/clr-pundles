@@ -5,6 +5,8 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(libc6)
+include(libgcc1)
+include(libstdc++)
 include(lttng-tools-bin)
 include(lttng-tools-data)
 include(lttng-tools-lib)
