@@ -9,5 +9,4 @@ include(libc6)
 include(libgcc1)
 include(libstdc++)
 include(llama.cpp-license)
-include(openblas)
 llama.cpp-lib
