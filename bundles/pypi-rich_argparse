@@ -1,0 +1,10 @@
+# [TITLE]: pypi-rich_argparse
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rich_argparse-license)
+include(pypi-rich_argparse-python)
+include(pypi-rich_argparse-python3)
+pypi-rich_argparse

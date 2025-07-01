@@ -1,0 +1,9 @@
+# [TITLE]: pypi-rich_argparse-python3
+# [DESCRIPTION]:
+# [STATUS]:
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: pundle
+include(pypi-rich-python3)
+include(python3-core)
+pypi-rich_argparse-python3

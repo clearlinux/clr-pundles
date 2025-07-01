@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(pypi-pyperclip-python3)
+include(pypi-rich_argparse-python3)
 include(pypi-wcwidth-python3)
 include(python3-core)
 pypi-cmd2-python3
