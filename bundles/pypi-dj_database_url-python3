@@ -5,6 +5,5 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(pypi-django-python3)
-include(pypi-typing_extensions-python3)
 include(python3-core)
 pypi-dj_database_url-python3
