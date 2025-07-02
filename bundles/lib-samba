@@ -14,7 +14,6 @@ include(dbus-lib)
 include(openldap)
 include(icu4c-lib)
 include(libstdcpp)
-include(lib-openssl)
 include(python3-basic)
 include(perl-basic)
 # end of custom additions

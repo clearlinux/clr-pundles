@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 include(xmlsec1-dev)
-include(lib-openssl)

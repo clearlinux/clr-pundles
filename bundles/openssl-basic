@@ -8,7 +8,6 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(numactl)
-include(lib-openssl)
 include(openssl-doc)
 # end of custom additions
 
