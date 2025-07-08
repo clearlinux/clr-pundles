@@ -6,7 +6,6 @@
 # [MAINTAINER]: pundle
 include(suricata-bin)
 include(suricata-data)
-include(suricata-lib)
 include(suricata-license)
 include(suricata-man)
 include(suricata-services)

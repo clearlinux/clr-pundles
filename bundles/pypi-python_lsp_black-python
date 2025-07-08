@@ -1,8 +1,0 @@
-# [TITLE]: pypi-python_lsp_black-python
-# [DESCRIPTION]:
-# [STATUS]:
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: pundle
-include(pypi-python_lsp_black-python3)
-pypi-python_lsp_black-python
