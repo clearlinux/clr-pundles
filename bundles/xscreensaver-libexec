@@ -17,4 +17,5 @@ include(libjpeg-turbo-lib)
 include(libxcrypt-lib)
 include(perl-bin)
 include(systemd-extras-libsystemd)
+include(wayland-lib)
 xscreensaver-libexec

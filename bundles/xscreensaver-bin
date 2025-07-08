@@ -11,6 +11,7 @@ include(libX11-lib)
 include(libXt-lib)
 include(libc6)
 include(libxml2-lib)
+include(wayland-lib)
 include(xscreensaver-data)
 include(xscreensaver-libexec)
 xscreensaver-bin
