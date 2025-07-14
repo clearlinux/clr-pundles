@@ -5,6 +5,5 @@
 # [TAGS]:
 # [MAINTAINER]: pundle
 include(perl-MIME-Base64-perl)
-include(perl-Mail-Sendmail-license)
 include(perl-Mail-Sendmail-perl)
 perl-Mail-Sendmail
