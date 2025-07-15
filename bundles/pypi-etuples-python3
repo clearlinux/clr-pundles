@@ -4,7 +4,17 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: pundle
+include(pypi-black-python3)
 include(pypi-cons-python3)
+include(pypi-coverage-python3)
+include(pypi-coveralls-python3)
+include(pypi-diff_cover-python3)
+include(pypi-isort-python3)
+include(pypi-logical_unification-python3)
 include(pypi-multipledispatch-python3)
+include(pypi-pre_commit-python3)
+include(pypi-pydocstyle-python3)
+include(pypi-pylint-python3)
+include(pypi-versioneer-python3)
 include(python3-core)
 pypi-etuples-python3
